@@ -12,3 +12,4 @@ pywikibot/
 apicache-py3/
 __pycache__/
 logs/
+banner-pages/
