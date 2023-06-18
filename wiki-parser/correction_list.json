@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Singularity Pickup 4",
+        "old_link": "https://webview.fate-go.us/iframe/2018/0925_singularity_pu/",
+        "start_date": "2018/09/25",
+        "end_date": "2018/10/03",
+        "banner_id": "16",
+        "region": "NA",
+        "new_link": "https://fategrandorder.fandom.com/wiki/Singularity_Summon_Campaign_September_2018_(US)"
+    },
+    {
+        "name": "4M Downloads",
+        "old_link": "https://webview.fate-go.us/iframe/2018/1015_400dlcp/",
+        "start_date": "2018/10/17",
+        "end_date": "2018/10/24",
+        "banner_id": "17",
+        "region": "NA",
+        "new_link": "https://fategrandorder.fandom.com/wiki/4M_Downloads_Campaign_(US)"
+    },
+    {
+        "name": "Thanksgiving 2018",
+        "old_link": "https://webview.fate-go.us/iframe/2018/1117_thanks_2018pu/",
+        "start_date": "2018/11/18",
+        "end_date": "2018/11/26",
+        "banner_id": "20",
+        "region": "NA",
+        "new_link": "https://fategrandorder.fandom.com/wiki/FGO_Thanksgiving_Special_2018_(US)"
+    },
+    {
+        "name": "Winterfest 2020 Pickup 1",
+        "old_link": "https://news.fate-go.jp/2018/winterfes2018_pu/",
+        "start_date": "2020/12/21",
+        "end_date": "2020/12/31",
+        "banner_id": "121",
+        "region": "JP",
+        "new_link": "https://fategrandorder.fandom.com/wiki/WinFes_2018/19_Commemoration_Summoning_Campaign"
+    },
+    {
+        "name": "Summer 2021 Rerun Banner 2",
+        "old_link": "http://jp/",
+        "start_date": "2022/05/23",
+        "end_date": "2022/06/12",
+        "banner_id": "187",
+        "region": "NA",
+        "new_link": "https://fategrandorder.fandom.com/wiki/FGO_Summer_2021_Event_Revival_(US)/Summoning_Campaign"
+    },
+    {
+        "name": "Summer 2021 Rerun Banner 3",
+        "old_link": "http://jp/",
+        "start_date": "2022/05/29",
+        "end_date": "2022/06/12",
+        "banner_id": "188",
+        "region": "NA",
+        "new_link": "https://fategrandorder.fandom.com/wiki/FGO_Summer_2021_Event_Revival_(US)/Summoning_Campaign"
+    },
+    {
+        "name": "Melty Blood: Type Lumina Evo Selection Campaign",
+        "old_link": "https://webview.fate-go.us/iframe/2022/0802_meltyblood_cp/",
+        "start_date": "2022/08/04",
+        "end_date": "2022/08/11",
+        "banner_id": "196.6",
+        "region": "NA",
+        "new_link": "https://fategrandorder.fandom.com/wiki/Melty_Blood:_Type_Lumina_Evo_2022_Celebration_Campaign_(US)"
+    },
+    {
+        "name": "FGO THE STAGE: The Grand Temple of Time: Solomon",
+        "old_link": "https://webview.fate-go.us/iframe/2022/0919_stage_cp_pu/",
+        "start_date": "2022/09/21",
+        "end_date": "2022/10/05",
+        "banner_id": "201.5",
+        "region": "NA",
+        "new_link": "https://fategrandorder.fandom.com/wiki/FGO_THE_STAGE_Solomon_Release_Campaign_(US)"
+    },
+    {
+        "name": "Christmas 2021 Pre-Release",
+        "old_link": "https://webview.fate-go.us/iframe/2022/0926_pre_xmas_pu/",
+        "start_date": "2022/09/28",
+        "end_date": "2022/10/11",
+        "banner_id": "201.6",
+        "region": "NA",
+        "new_link": "https://fategrandorder.fandom.com/wiki/Christmas_2021_Event_Revival_Pre-Release_Campaign_(US)"
+    },
+    {
+        "name": "Halloween 2022 Campaign",
+        "old_link": "https://webview.fate-go.us/iframe/2022/1016_halloween_cp_pu/",
+        "start_date": "2022/10/17",
+        "end_date": "2022/10/30",
+        "banner_id": "202.5",
+        "region": "NA",
+        "new_link": "https://fategrandorder.fandom.com/wiki/Halloween_Campaign_2022_(US)"
+    },
+    {
+        "name": "Imaginary Scramble Banner 2",
+        "old_link": "https://webview.fate-go.us/2022/1103_imaginary_pu2/",
+        "start_date": "2022/11/03",
+        "end_date": "2022/11/13",
+        "banner_id": "204.5",
+        "region": "NA",
+        "new_link": "https://fategrandorder.fandom.com/wiki/Imaginary_Scramble_(US)/Summoning_Campaign"
+    },
+    {
+        "name": "Thanksgiving 2022",
+        "old_link": "https://webview.fate-go.us/2022/1123_thanksgiving_2022_pu/",
+        "start_date": "2022/11/24",
+        "end_date": "2022/12/04",
+        "banner_id": "207.5",
+        "region": "NA",
+        "new_link": "https://fategrandorder.fandom.com/wiki/FGO_Thanksgiving_Special_2022_(US)"
+    },
+    {
+        "name": "Halloween 2023 Banner 1",
+        "old_link": null,
+        "start_date": "2023/10/20",
+        "end_date": "2023/11/03",
+        "banner_id": "251",
+        "region": "JP",
+        "new_link": "https://fategrandorder.fandom.com/wiki/Halloween_2021_Event/Summoning"
+    },
+    {
+        "name": "FGO Winter Party Hokkaido Venue Campaign",
+        "old_link": "https://webview.fate-go.jp/2022/winter2023_cp_pu/",
+        "start_date": "2024/12/21",
+        "end_date": "2024/12/31",
+        "banner_id": "333",
+        "region": "JP",
+        "new_link": "https://fategrandorder.fandom.com/wiki/FGO_Winter_Party_2022-2023_Campaign:_Hokkaido"
+    }
+]
