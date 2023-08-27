@@ -34,7 +34,7 @@ FILTERS = {
 def json_filter(json_str):
     # {{Custom Kanji|jin}} -> 神
     json_str = json_str.replace(r'{{Custom Kanji|jin}}', r'\u795e')
-    # 𝘛𝘰𝘣𝘪 𝘒𝘢𝘵ō -> Tobi Katō
+    # 𝘛𝘰𝘣𝘪 𝘒𝘢𝘵ō -> Tobi Katō (replace surrogate pair character)
     json_str = json_str.replace(
         r'\ud835\ude1b\ud835\ude30\ud835\ude23\ud835\ude2a \ud835\ude12\ud835\ude22\ud835\ude35\u014d',
         r'Tobi Kato'
