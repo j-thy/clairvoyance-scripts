@@ -42,7 +42,7 @@ def json_filter(json_str):
     # Apply regex find and replaces
     for filter in FILTERS:
         json_str = re2.compile(filter).sub(FILTERS[filter], json_str)
-    # \" -> \\"
+    # \" -> \\" (running .encode and .decode unescapes ")
     json_str = json_str.replace(r'\"', r'\\"')
     return json_str
 
@@ -103,4 +103,5 @@ parse(CATEGORY)
 
 # Save to JSON file
 with open(os.path.join(os.path.dirname(__file__), 'servant_data.json'), 'w') as f:
+    # Convert unicode \uXXXX to actual characters
     f.write(json_filter(jsons.dumps(servant_dict)).encode().decode('unicode-escape'))
