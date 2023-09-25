@@ -5,11 +5,18 @@ import jsons
 import os
 import re2
 
-CATEGORY = '"The_Old_Man_of_the_Mountain"_Summoning_Campaign'
+CATEGORY = 'Summoning_Campaign'
 
-MATCHES = [
+TABLE_MATCHES = [
     "New Servant",
     "Rate-Up Servants",
+    "Rate-Up Limited Servants",
+    "Rate-Up Servant"
+]
+
+LINK_MATCHES = [
+    "Draw rates",
+    "Summoning Rate"
 ]
 
 servant_data = None
@@ -41,11 +48,7 @@ class Servant:
 
 servant_dict = {}
 
-def parse(category_name):
-    # Load the servants page
-    site = pywikibot.Site()
-    page = pywikibot.Page(site, category_name)
-
+def parse(page):
     # Iterate through each servant's page.
     # for i, page in enumerate(category.articles()):
     #     if i > 1:
@@ -69,12 +72,13 @@ def parse(category_name):
     # Find the rateups on pages that use tables.
     for tag in tags:
         # print(tag)
+        # print("\n\n")
         class_type = None
         try:
             class_type = tag.get("class").value.strip()
         except ValueError:
             pass
-        if class_type != 'wikitable' or not any([x in tag for x in MATCHES]):
+        if class_type != 'wikitable' or not any([x in tag for x in TABLE_MATCHES]):
             continue
         table = mwparserfromhell.parse(tag)
         templates = table.filter_templates()
@@ -83,21 +87,43 @@ def parse(category_name):
             if str(template.name) in servant_names:
                 rateup_servants.append(str(template.name))
 
-        rateup_servants = list(dict.fromkeys(rateup_servants))
-
+        rateup_servants.sort()
+        rateup_servants = tuple(dict.fromkeys(rateup_servants))
         banners.append(rateup_servants)
 
+    # print(banners)
     # If a page that uses wikilinks only
-    if not banners:
+    if not banners and any([x in text for x in LINK_MATCHES]):
         links = wikicode.filter_wikilinks()
+        # print(links)
         rateup_servants = []
         for link in links:
             if str(link.title) in servant_names:
                 rateup_servants.append(str(link.title))
-        rateup_servants = list(dict.fromkeys(rateup_servants))
+
+        rateup_servants.sort()
+        rateup_servants = tuple(dict.fromkeys(rateup_servants))
         banners.append(rateup_servants)
 
+    # Dedupe banners
+    banners = list(dict.fromkeys(banners))
     print(banners)
 
-parse(CATEGORY)
+def parse_category(category_name):
+    # Load the servants page
+    site = pywikibot.Site()
+    category = pywikibot.Category(site, category_name)
+
+    for page in category.articles():
+        parse(page)
+
+def parse_page(page_name):
+    # Load the servants page
+    site = pywikibot.Site()
+    page = pywikibot.Page(site, page_name)
+    
+    parse(page)
+
+parse_category(CATEGORY)
+# parse_page("18M_Downloads_Summoning_Campaign")
 
