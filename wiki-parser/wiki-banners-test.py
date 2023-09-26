@@ -4,6 +4,7 @@ import wikitextparser as wtp
 import jsons
 import os
 import re2
+import sys
 
 CATEGORY = 'Summoning_Campaign'
 
@@ -19,6 +20,21 @@ LINK_MATCHES = [
     "Summoning Rate"
 ]
 
+TEST_PAGES = [
+    "15 Bespectacled Intellectuals",
+    "15 Bespectacled Intellectuals/Event Info",
+    "White Day 2022 Summoning Campaign",
+    "3M Downloads Campaign",
+    "3M Downloads Pick Up",
+    "Chaldea Summer Adventure",
+    "Chaldea Summer Adventure/Event Info",
+    "Chaldea Summer Adventure/Summoning Campaign (Male)",
+    "Chaldea Summer Adventure/Summoning Campaign 1",
+    "Chaldea Summer Adventure/Summoning Campaign 2",
+    "Chaldea Summer Adventure/Summoning Campaign 3",
+]
+
+
 servant_data = None
 # Import servant_data.json as json.
 with open(os.path.join(os.path.dirname(__file__), 'servant_data.json')) as f:
@@ -26,27 +42,7 @@ with open(os.path.join(os.path.dirname(__file__), 'servant_data.json')) as f:
 
 # The json is a dictionary, where every value is also a dictionary. Make a set out of the name field in the dictionary in the value.
 servant_names = set([servant_data[servant]['name'] for servant in servant_data])
-
-class Servant:
-    def __init__(self, title, template):
-        self.id = int(template.get("id").value.strip())
-        self.name = title
-        self.jp_name = template.get("jname").value.strip()
-        try:
-            self.aliases = template.get("aka").value.strip()
-        except ValueError:
-            self.aliases = ""
-        self.voice_actor = template.get("voicea").value.strip()
-        self.illustrator = template.get("illus").value.strip()
-        self.release = template.get("release").value.strip()
-        self.class_type = template.get("class").value.strip()
-        self.rarity = int(template.get("stars").value.strip())
-        self.attribute = template.get("attribute").value.strip()
-        self.gender = template.get("gender").value.strip()
-        self.alignment = template.get("alignment").value.strip()
-        self.traits = template.get("traits").value.strip()
-
-servant_dict = {}
+banner_dict = {}
 
 def parse(page):
     # Iterate through each servant's page.
@@ -107,14 +103,23 @@ def parse(page):
 
     # Dedupe banners
     banners = list(dict.fromkeys(banners))
+    banner_dict[title] = [page.oldest_revision.timestamp, banners]
     print(banners)
+
+def parse_test():
+    # Load the servants page
+    site = pywikibot.Site()
+
+    for page_name in TEST_PAGES:
+        page = pywikibot.Page(site, page_name)
+        parse(page)
 
 def parse_category(category_name):
     # Load the servants page
     site = pywikibot.Site()
     category = pywikibot.Category(site, category_name)
 
-    for page in category.articles():
+    for i, page in enumerate(category.articles()):
         parse(page)
 
 def parse_page(page_name):
@@ -124,6 +129,59 @@ def parse_page(page_name):
     
     parse(page)
 
-parse_category(CATEGORY)
-# parse_page("18M_Downloads_Summoning_Campaign")
+# parse_category(CATEGORY)
+parse_test()
+
+# Needs fixing
+# Goes up the chain of template references to find the original template/banner.
+# Test on 3M Downloads Campaign and 13 Bespeckled
+def rec_get_ref(original_banner, banner):
+    page = pywikibot.Page(site, banner)
+    num_refs = len(list(page.getReferences(only_template_inclusion=True)))
+    # print(f'Found {num_refs} references for {banner}')
+    # If there are no references, return.
+    if num_refs == 0 and banner == original_banner:
+        # print(f'In first if condition for {banner}')
+        # print(f'No references found for {banner}.')
+        return False
+    elif num_refs == 0:
+        # print(f'In second if condition for {banner}')
+        # print(f'Merging {banner} into {original_banner}...')
+        banner_dict[banner][1].extend(banner_dict[original_banner][1])
+        return True
+    else:
+        # print(f'In else condition for {banner}')
+        retval = False
+        for reference in page.getReferences(only_template_inclusion=True):
+            # print(f'Going to {reference.title()}...')
+            if reference.title() in banner_dict:
+                # print(f'Entering {reference.title()}...')
+                retval = rec_get_ref(original_banner, reference.title())
+        return retval
+
+site = pywikibot.Site()
+print("Checking references")
+# Loop through the banner_dict.
+for banner in list(banner_dict):
+    print(banner)
+    ref_exists = rec_get_ref(banner, banner)
+    print(ref_exists)
+    if ref_exists:
+        del banner_dict[banner]
+
+# Sort banner_dict by date.
+banner_list = []
+for banner in banner_dict:
+    banner_list.append({
+        'name': banner,
+        'date': banner_dict[banner][0],
+        'rateups': banner_dict[banner][1]
+    })
+banner_list.sort(key=lambda x: x['date'])
+
+# Save to JSON file
+with open(os.path.join(os.path.dirname(__file__), 'summon_data.json'), 'w') as f:
+    f.write(jsons.dumps(banner_list))
+
+# # parse_page("18M_Downloads_Summoning_Campaign")
 
