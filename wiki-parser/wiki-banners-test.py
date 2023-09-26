@@ -21,19 +21,15 @@ LINK_MATCHES = [
 ]
 
 TEST_PAGES = [
-    "15 Bespectacled Intellectuals",
-    "15 Bespectacled Intellectuals/Event Info",
-    "White Day 2022 Summoning Campaign",
-    "3M Downloads Campaign",
-    "3M Downloads Pick Up",
-    "Chaldea Summer Adventure",
-    "Chaldea Summer Adventure/Event Info",
-    "Chaldea Summer Adventure/Summoning Campaign (Male)",
-    "Chaldea Summer Adventure/Summoning Campaign 1",
-    "Chaldea Summer Adventure/Summoning Campaign 2",
-    "Chaldea Summer Adventure/Summoning Campaign 3",
+    "Moon Goddess Event",
+    "Moon Goddess Event Re-Run",
+    "Moon Goddess Event Re-Run/Event Info",
+    "Moon Goddess Event Revival (US)",
+    "Moon Goddess Event Revival (US)/Summoning Campaign",
+    "Moon Goddess Event/Event Info",
 ]
 
+SITE = pywikibot.Site()
 
 servant_data = None
 # Import servant_data.json as json.
@@ -83,60 +79,56 @@ def parse(page):
             if str(template.name) in servant_names:
                 rateup_servants.append(str(template.name))
 
-        rateup_servants.sort()
-        rateup_servants = tuple(dict.fromkeys(rateup_servants))
-        banners.append(rateup_servants)
+        if rateup_servants:
+            rateup_servants.sort()
+            rateup_servants = tuple(dict.fromkeys(rateup_servants))
+            banners.append(rateup_servants)
 
     # print(banners)
+    # print(text)
     # If a page that uses wikilinks only
     if not banners and any([x in text for x in LINK_MATCHES]):
+        # print("test")
         links = wikicode.filter_wikilinks()
         # print(links)
         rateup_servants = []
         for link in links:
+            # print(link.title)
             if str(link.title) in servant_names:
                 rateup_servants.append(str(link.title))
 
-        rateup_servants.sort()
-        rateup_servants = tuple(dict.fromkeys(rateup_servants))
-        banners.append(rateup_servants)
+        if rateup_servants:
+            rateup_servants.sort()
+            rateup_servants = tuple(dict.fromkeys(rateup_servants))
+            banners.append(rateup_servants)
 
+    # print(banners)
     # Dedupe banners
     banners = list(dict.fromkeys(banners))
     banner_dict[title] = [page.oldest_revision.timestamp, banners]
-    print(banners)
+    # print(banners)
 
 def parse_test():
-    # Load the servants page
-    site = pywikibot.Site()
-
     for page_name in TEST_PAGES:
-        page = pywikibot.Page(site, page_name)
+        page = pywikibot.Page(SITE, page_name)
         parse(page)
 
 def parse_category(category_name):
-    # Load the servants page
-    site = pywikibot.Site()
-    category = pywikibot.Category(site, category_name)
+    category = pywikibot.Category(SITE, category_name)
 
     for i, page in enumerate(category.articles()):
         parse(page)
 
 def parse_page(page_name):
-    # Load the servants page
-    site = pywikibot.Site()
-    page = pywikibot.Page(site, page_name)
+    page = pywikibot.Page(SITE, page_name)
     
     parse(page)
-
-# parse_category(CATEGORY)
-parse_test()
 
 # Needs fixing
 # Goes up the chain of template references to find the original template/banner.
 # Test on 3M Downloads Campaign and 13 Bespeckled
 def rec_get_ref(original_banner, banner):
-    page = pywikibot.Page(site, banner)
+    page = pywikibot.Page(SITE, banner)
     num_refs = len(list(page.getReferences(only_template_inclusion=True)))
     # print(f'Found {num_refs} references for {banner}')
     # If there are no references, return.
@@ -159,15 +151,19 @@ def rec_get_ref(original_banner, banner):
                 retval = rec_get_ref(original_banner, reference.title())
         return retval
 
-site = pywikibot.Site()
-print("Checking references")
-# Loop through the banner_dict.
-for banner in list(banner_dict):
-    print(banner)
-    ref_exists = rec_get_ref(banner, banner)
-    print(ref_exists)
-    if ref_exists:
-        del banner_dict[banner]
+def cleanup():
+    print("Checking references")
+    # Loop through the banner_dict.
+    for banner in list(banner_dict):
+        # print(banner)
+        ref_exists = rec_get_ref(banner, banner)
+        # print(ref_exists)
+        if ref_exists:
+            del banner_dict[banner]
+
+parse_category(CATEGORY)
+# parse_test()
+cleanup()
 
 # Sort banner_dict by date.
 banner_list = []
