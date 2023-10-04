@@ -18,15 +18,13 @@ TABLE_MATCHES = [
 LINK_MATCHES = [
     "Draw rates",
     "Summoning Rate",
-    "increased draw rates"
+    "increased draw rates",
+    "Rate-Up Servants"
 ]
 
 TEST_PAGES = [
-    "Fate/Grand Order ～8th Anniversary～ Destiny Order Summoning Campaign",
-    "Fate/Grand Order ～8th Anniversary～",
-    "Fate/Grand Order ～8th Anniversary～ Summoning Campaign",
-    "Fate/Grand Order ～8th Anniversary～ Summoning Campaign I",
-    "Fate/Grand Order ～8th Anniversary～ Summoning Campaign II",
+    # "GUDAGUDA Honnouji Event",
+    "GUDAGUDA_Honnouji_Event/Event_Info",
 ]
 
 SITE = pywikibot.Site()
@@ -91,9 +89,16 @@ def parse(page, progress=None):
     # print(text)
     # If a page that uses wikilinks only
     if not banners and any([x in text for x in LINK_MATCHES]):
-        # print("test")
-        links = wikicode.filter_wikilinks()
-        # print(links)
+        links = []
+        # Handle case when there are tabs and Bonus Servants and no tables.
+        if "tabber" in text:
+            sub_text = text[re2.search("Summoning Campaign", text).start():]
+            sub_wikicode = mwparserfromhell.parse(sub_text)
+            links = sub_wikicode.filter_wikilinks()
+        else:
+            # print("test")
+            links = wikicode.filter_wikilinks()
+            # print(links)
         rateup_servants = []
         for link in links:
             # print(link.title)
@@ -180,8 +185,8 @@ def cleanup_test():
                 for reference3 in page3.getReferences(only_template_inclusion=True):
                     print(f'      {reference3.title()}')
 
-# parse_category(CATEGORY)
-parse_test()
+parse_category(CATEGORY)
+# parse_test()
 cleanup()
 # cleanup_test()
 
