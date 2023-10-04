@@ -17,16 +17,16 @@ TABLE_MATCHES = [
 
 LINK_MATCHES = [
     "Draw rates",
-    "Summoning Rate"
+    "Summoning Rate",
+    "increased draw rates"
 ]
 
 TEST_PAGES = [
-    "Moon Goddess Event",
-    "Moon Goddess Event Re-Run",
-    "Moon Goddess Event Re-Run/Event Info",
-    "Moon Goddess Event Revival (US)",
-    "Moon Goddess Event Revival (US)/Summoning Campaign",
-    "Moon Goddess Event/Event Info",
+    "Fate/Grand Order ～8th Anniversary～ Destiny Order Summoning Campaign",
+    "Fate/Grand Order ～8th Anniversary～",
+    "Fate/Grand Order ～8th Anniversary～ Summoning Campaign",
+    "Fate/Grand Order ～8th Anniversary～ Summoning Campaign I",
+    "Fate/Grand Order ～8th Anniversary～ Summoning Campaign II",
 ]
 
 SITE = pywikibot.Site()
@@ -40,7 +40,7 @@ with open(os.path.join(os.path.dirname(__file__), 'servant_data.json')) as f:
 servant_names = set([servant_data[servant]['name'] for servant in servant_data])
 banner_dict = {}
 
-def parse(page):
+def parse(page, progress=None):
     # Iterate through each servant's page.
     # for i, page in enumerate(category.articles()):
     #     if i > 1:
@@ -50,7 +50,10 @@ def parse(page):
     # Parse servant info
     text = page.text
 
-    print(f'Parsing {title}...')
+    if progress:
+        print(f'Parsing {progress}: {title}...')
+    else:
+        print(f'Parsing {title}...')
     # print(text)
 
     wikicode = mwparserfromhell.parse(text)
@@ -115,9 +118,9 @@ def parse_test():
 
 def parse_category(category_name):
     category = pywikibot.Category(SITE, category_name)
-
+    max_length = len(list(category.articles()))
     for i, page in enumerate(category.articles()):
-        parse(page)
+        parse(page, f'{i+1}/{max_length}')
 
 def parse_page(page_name):
     page = pywikibot.Page(SITE, page_name)
@@ -127,16 +130,17 @@ def parse_page(page_name):
 # Needs fixing
 # Goes up the chain of template references to find the original template/banner.
 # Test on 3M Downloads Campaign and 13 Bespeckled
-def rec_get_ref(original_banner, banner):
+def rec_get_ref(original_banner, banner, visited):
     page = pywikibot.Page(SITE, banner)
     num_refs = len(list(page.getReferences(only_template_inclusion=True)))
     # print(f'Found {num_refs} references for {banner}')
+    # print(visited)
     # If there are no references, return.
     if num_refs == 0 and banner == original_banner:
         # print(f'In first if condition for {banner}')
         # print(f'No references found for {banner}.')
         return False
-    elif num_refs == 0:
+    elif num_refs == 0 or banner in visited:
         # print(f'In second if condition for {banner}')
         # print(f'Merging {banner} into {original_banner}...')
         banner_dict[banner][1].extend(banner_dict[original_banner][1])
@@ -148,22 +152,38 @@ def rec_get_ref(original_banner, banner):
             # print(f'Going to {reference.title()}...')
             if reference.title() in banner_dict:
                 # print(f'Entering {reference.title()}...')
-                retval = rec_get_ref(original_banner, reference.title())
+                retval = rec_get_ref(original_banner, reference.title(), visited + (banner,))
         return retval
 
 def cleanup():
     print("Checking references")
+    max_length = len(list(banner_dict))
     # Loop through the banner_dict.
-    for banner in list(banner_dict):
-        # print(banner)
-        ref_exists = rec_get_ref(banner, banner)
+    for i, banner in enumerate(list(banner_dict)):
+        print(f'Cleaning {i+1}/{max_length}: {banner}...')
+        ref_exists = rec_get_ref(banner, banner, ())
         # print(ref_exists)
         if ref_exists:
             del banner_dict[banner]
 
-parse_category(CATEGORY)
-# parse_test()
+def cleanup_test():
+    page = pywikibot.Page(SITE, "Fate/Grand Order ～8th Anniversary～ Destiny Order Summoning Campaign")
+    for reference in page.getReferences(only_template_inclusion=True):
+        print(reference.title())
+        page1 = pywikibot.Page(SITE, reference.title())
+        for reference1 in page1.getReferences(only_template_inclusion=True):
+            print(f'  {reference1.title()}')
+            page2 = pywikibot.Page(SITE, reference1.title())
+            for reference2 in page2.getReferences(only_template_inclusion=True):
+                print(f'    {reference2.title()}')
+                page3 = pywikibot.Page(SITE, reference2.title())
+                for reference3 in page3.getReferences(only_template_inclusion=True):
+                    print(f'      {reference3.title()}')
+
+# parse_category(CATEGORY)
+parse_test()
 cleanup()
+# cleanup_test()
 
 # Sort banner_dict by date.
 banner_list = []
