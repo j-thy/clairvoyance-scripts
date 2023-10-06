@@ -8,24 +8,54 @@ import sys
 
 CATEGORY = 'Summoning_Campaign'
 
-TABLE_MATCHES = [
+TABLE_MATCHES = (
     "New Servant",
     "Rate-Up Servants",
     "Rate-Up Limited Servants",
-    "Rate-Up Servant"
-]
+    "Rate-Up Servant",
+)
 
-LINK_MATCHES = [
+LINK_MATCHES = (
     "Draw rates",
     "Summoning Rate",
     "increased draw rates",
-    "Rate-Up Servants"
-]
+    "Rate-Up Servants",
+    "Rate Up Servant",
+    "special summoning pools",
+    "Summoning Campaign=",
+    "New Servant",
+    "summoning campaign for",
+    "Summon rates for the following",
+    "was available for summoning",
+    "rate-up event",
+    "Commemoration Summoning Campaign",
+    "Amakusagacha",
+    "Babylonia Summoning Campaign",
+    "Rate Up Schedule \(Female-Servants 2\)",
+    "Rate Up \(Male-Servants\)",
+)
 
-TEST_PAGES = [
-    # "GUDAGUDA Honnouji Event",
-    "GUDAGUDA_Honnouji_Event/Event_Info",
-]
+REMOVE_MATCHES = (
+    "receive one free",
+    "==First Quest==",
+    "==Prologue==",
+    "==.*?Trial Quest.*?==",
+    "Lucky Bag Summon",
+    "Music=",
+)
+
+EXCLUDE_PAGES = (
+    "Jack Campaign",
+    "Mysterious Heroine X Pick Up",
+)
+
+INCLUDE_PAGES = (
+    "Babylonia Chapter Release",
+)
+
+TEST_PAGES = (
+    "8M Downloads Campaign",
+)
 
 SITE = pywikibot.Site()
 
@@ -38,6 +68,25 @@ with open(os.path.join(os.path.dirname(__file__), 'servant_data.json')) as f:
 servant_names = set([servant_data[servant]['name'] for servant in servant_data])
 banner_dict = {}
 
+def search_text(text):
+    splits = {}
+
+    for string in LINK_MATCHES:
+        matches = re2.finditer(string, text)
+        for match in matches:
+            # print(string)
+            splits[match.start()] = True
+    
+    for string in REMOVE_MATCHES:
+        matches = re2.finditer(string, text)
+        for match in matches:
+            # print(string)
+            splits[match.start()] = False
+    
+    splits = {k: v for k, v in sorted(splits.items(), key=lambda item: item[0], reverse=True)}
+
+    return splits
+
 def parse(page, progress=None):
     # Iterate through each servant's page.
     # for i, page in enumerate(category.articles()):
@@ -45,6 +94,8 @@ def parse(page, progress=None):
     #         break
     # Get name of servant
     title = page.title()
+    if title in EXCLUDE_PAGES:
+        return
     # Parse servant info
     text = page.text
 
@@ -88,31 +139,34 @@ def parse(page, progress=None):
     # print(banners)
     # print(text)
     # If a page that uses wikilinks only
-    if not banners and any([x in text for x in LINK_MATCHES]):
+    if not banners:
         links = []
-        # Handle case when there are tabs and Bonus Servants and no tables.
-        if "tabber" in text:
-            sub_text = text[re2.search("Summoning Campaign", text).start():]
-            sub_wikicode = mwparserfromhell.parse(sub_text)
+        splits = search_text(text)
+        base_text = text
+        for key, value in splits.items():
+            # Split text into 2 substrings based on the int in split.
+            parse_text = base_text[key:]
+            base_text = base_text[:key]
+            if not value:
+                continue
+            sub_wikicode = mwparserfromhell.parse(parse_text)
             links = sub_wikicode.filter_wikilinks()
-        else:
-            # print("test")
-            links = wikicode.filter_wikilinks()
             # print(links)
-        rateup_servants = []
-        for link in links:
-            # print(link.title)
-            if str(link.title) in servant_names:
-                rateup_servants.append(str(link.title))
+            rateup_servants = []
+            for link in links:
+                # print(link.title)
+                if str(link.title) in servant_names:
+                    rateup_servants.append(str(link.title))
 
-        if rateup_servants:
-            rateup_servants.sort()
-            rateup_servants = tuple(dict.fromkeys(rateup_servants))
-            banners.append(rateup_servants)
+            if rateup_servants:
+                rateup_servants.sort()
+                rateup_servants = tuple(dict.fromkeys(rateup_servants))
+                banners.append(rateup_servants)
 
     # print(banners)
     # Dedupe banners
     banners = list(dict.fromkeys(banners))
+    # print(banners)
     banner_dict[title] = [page.oldest_revision.timestamp, banners]
     # print(banners)
 
@@ -123,9 +177,15 @@ def parse_test():
 
 def parse_category(category_name):
     category = pywikibot.Category(SITE, category_name)
-    max_length = len(list(category.articles()))
+    category_length = len(list(category.articles()))
+    max_length = category_length + len(INCLUDE_PAGES)
     for i, page in enumerate(category.articles()):
         parse(page, f'{i+1}/{max_length}')
+    
+    for i, page_name in enumerate(INCLUDE_PAGES):
+        page = pywikibot.Page(SITE, page_name)
+        parse(page, f'{category_length+i+1}/{max_length}')
+
 
 def parse_page(page_name):
     page = pywikibot.Page(SITE, page_name)
@@ -144,11 +204,20 @@ def rec_get_ref(original_banner, banner, visited):
     if num_refs == 0 and banner == original_banner:
         # print(f'In first if condition for {banner}')
         # print(f'No references found for {banner}.')
-        return False
+        # If you can split the banner name by /, then it's a subpage.
+        if '/' in banner and banner.split('/')[0] in banner_dict:
+            for rateup in banner_dict[banner][1]:
+                if rateup not in banner_dict[banner.split('/')[0]][1]:
+                    banner_dict[banner.split('/')[0]][1].append(rateup)
+            return True
+        else:
+            return False
     elif num_refs == 0 or banner in visited:
         # print(f'In second if condition for {banner}')
         # print(f'Merging {banner} into {original_banner}...')
-        banner_dict[banner][1].extend(banner_dict[original_banner][1])
+        for rateup in banner_dict[original_banner][1]:
+            if rateup not in banner_dict[banner][1]:
+                banner_dict[banner][1].append(rateup)
         return True
     else:
         # print(f'In else condition for {banner}')
@@ -172,17 +241,18 @@ def cleanup():
             del banner_dict[banner]
 
 def cleanup_test():
-    page = pywikibot.Page(SITE, "Fate/Grand Order ～8th Anniversary～ Destiny Order Summoning Campaign")
-    for reference in page.getReferences(only_template_inclusion=True):
+    page = pywikibot.Page(SITE, "FGO 2016 Summer Event/Event Details")
+    print(f'Size of {page.title()}: {len(list(page.getReferences(with_template_inclusion=True, follow_redirects=True)))}')
+    for reference in page.getReferences():
         print(reference.title())
         page1 = pywikibot.Page(SITE, reference.title())
-        for reference1 in page1.getReferences(only_template_inclusion=True):
+        for reference1 in page1.getReferences():
             print(f'  {reference1.title()}')
             page2 = pywikibot.Page(SITE, reference1.title())
-            for reference2 in page2.getReferences(only_template_inclusion=True):
+            for reference2 in page2.getReferences():
                 print(f'    {reference2.title()}')
                 page3 = pywikibot.Page(SITE, reference2.title())
-                for reference3 in page3.getReferences(only_template_inclusion=True):
+                for reference3 in page3.getReferences():
                     print(f'      {reference3.title()}')
 
 parse_category(CATEGORY)
