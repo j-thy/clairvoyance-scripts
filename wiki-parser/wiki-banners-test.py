@@ -8,31 +8,36 @@ import sys
 
 CATEGORY = 'Summoning_Campaign'
 
+TESTING = 1
+
 TABLE_MATCHES = (
     "New Servant",
     "Rate-Up Servants",
     "Rate-Up Limited Servants",
     "Rate-Up Servant",
+    "Rate-Up Schedule",
 )
 
 LINK_MATCHES = (
     "Draw rates",
     "Summoning Rate",
     "increased draw rates",
-    "Rate-Up Servants",
-    "Rate Up Servant",
+    "Re-Run Summoning Campaign",
+    "Rate Up Servant :",
     "special summoning pools",
-    "Summoning Campaign=",
+    "Summoning Campaign\s*?=", # Main Quest 1/2 AP + Shinjuku Summoning Campaign
+    "Summoning Campaign 2=",
     "New Servant",
     "summoning campaign for",
     "Summon rates for the following",
-    "was available for summoning",
     "rate-up event",
     "Commemoration Summoning Campaign",
     "Amakusagacha",
     "Babylonia Summoning Campaign",
     "Rate Up Schedule \(Female-Servants 2\)",
     "Rate Up \(Male-Servants\)",
+    "Servant Lineups",
+    "Salem Summon 2"
 )
 
 REMOVE_MATCHES = (
@@ -40,21 +45,39 @@ REMOVE_MATCHES = (
     "==First Quest==",
     "==Prologue==",
     "==.*?Trial Quest.*?==",
-    "Lucky Bag Summon",
+    "Lucky Bag Summoning",
     "Music=",
+    "Quest=",
+    "Grand Summon",
 )
 
 EXCLUDE_PAGES = (
     "Jack Campaign",
     "Mysterious Heroine X Pick Up",
+    "2017 New Year Lucky Bag Summoning Campaign",
+    "Fate/Grand Order Fes. 2017 ～2nd Anniversary～ Lucky Bag Summoning Campaign",
+    "Fate/Grand Order Fes. 2018 ～3rd Anniversary～ Lucky Bag Summoning Campaign",
+    "New Year Lucky-Bag Summoning Campaign 2019",
+    "Fate/Grand Order Fes. 2019 ～4th Anniversary～/Lucky Bag Summoning Campaign",
+    "New Year Lucky-Bag Summoning Campaign 2020",
+    "Fate/Grand Order ～5th Anniversary～ Lucky Bag Summoning Campaign",
+    "Lucky Bag 2021 Summoning Campaign New Year Special",
+    "Fate/Grand Order ～6th Anniversary～ Lucky Bag Summoning Campaign",
+    "Lucky Bag 2022 Summoning Campaign New Year Special",
+    "Fate/Grand Order ～7th Anniversary～ Lucky Bag Summoning Campaign",
 )
 
 INCLUDE_PAGES = (
     "Babylonia Chapter Release",
+    "Chaldea Boys Collection 2016 Re-Run",
+    "Chaldea Boys Collection 2017",
+    "Agartha Chapter Release",
+    "Shimosa Chapter Release",
 )
 
 TEST_PAGES = (
-    "8M Downloads Campaign",
+    "Shimosa Chapter Release",
+    "Salem Summoning Campaign 2",
 )
 
 SITE = pywikibot.Site()
@@ -94,10 +117,13 @@ def parse(page, progress=None):
     #         break
     # Get name of servant
     title = page.title()
+
     if title in EXCLUDE_PAGES:
         return
     # Parse servant info
     text = page.text
+    # Remove HTML comments
+    text = re2.sub(r'<!--(.|\n)*?-->', '', text)
 
     if progress:
         print(f'Parsing {progress}: {title}...')
@@ -161,7 +187,8 @@ def parse(page, progress=None):
             if rateup_servants:
                 rateup_servants.sort()
                 rateup_servants = tuple(dict.fromkeys(rateup_servants))
-                banners.append(rateup_servants)
+                # Append to the start
+                banners.insert(0, rateup_servants)
 
     # print(banners)
     # Dedupe banners
@@ -255,8 +282,10 @@ def cleanup_test():
                 for reference3 in page3.getReferences():
                     print(f'      {reference3.title()}')
 
-parse_category(CATEGORY)
-# parse_test()
+if TESTING == 1:
+    parse_test()
+else:
+    parse_category(CATEGORY)
 cleanup()
 # cleanup_test()
 
@@ -271,8 +300,12 @@ for banner in banner_dict:
 banner_list.sort(key=lambda x: x['date'])
 
 # Save to JSON file
-with open(os.path.join(os.path.dirname(__file__), 'summon_data.json'), 'w') as f:
-    f.write(jsons.dumps(banner_list))
+if TESTING == 1:
+    with open(os.path.join(os.path.dirname(__file__), 'summon_data_test.json'), 'w') as f:
+        f.write(jsons.dumps(banner_list))
+else:
+    with open(os.path.join(os.path.dirname(__file__), 'summon_data.json'), 'w') as f:
+        f.write(jsons.dumps(banner_list))
 
 # # parse_page("18M_Downloads_Summoning_Campaign")
 
