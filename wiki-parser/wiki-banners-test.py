@@ -54,7 +54,8 @@ LINK_MATCHES = (
 
 PRIORITY_REMOVE_MATCHES = (
     "CBC 2022=",
-    "{{Napoléon}} {{Valkyrie}} {{Thomas Edison}}" # WinFes 2018/19 Commemoration Summoning Campaign
+    "{{Napoléon}} {{Valkyrie}} {{Thomas Edison}}", # WinFes 2018/19 Commemoration Summoning Campaign
+    "update came with the release of '''Chapter 4", # London Chapter Release
 )
 
 REMOVE_MATCHES = (
@@ -85,6 +86,7 @@ EXCLUDE_PAGES = (
 )
 
 INCLUDE_PAGES = (
+    "London Chapter Release",
     "Babylonia Chapter Release",
     "Chaldea Boys Collection 2016 Re-Run",
     "Chaldea Boys Collection 2017",
@@ -94,19 +96,22 @@ INCLUDE_PAGES = (
     "Halloween 2018/Event Info",
 )
 
+NAME_FIXES = {
+    'Attila' : 'Altera', # FGO Summer Festival 2016 ~1st Anniversary~
+}
+
+RATEUP_FIXES = {
+    'S I N Chapter Release' : 'Jing Ke', # S I N Chapter Release
+}
+
 TEST_PAGES = (
-    "Atlantis Chapter Release",
-    "Atlantis Summoning Campaign 2",
-    "CBC 2016 ~ 2019 Craft Essences Summoning Campaign",
-    "Fate/Grand Order ～6th Anniversary～ Summoning Campaign",
-    "Fate/Grand Order ～6th Anniversary～",
-    "Holy Grail Front ~Et tu, Brute?~/Summoning Campaign",
-    "Holy Grail Front ~Et tu, Brute?~",
-    "New Year Event 2019 Re-Run",
-    "New Year Event 2019 Re-Run Summoning Campaign 2",
-    "New Year Event 2019 Re-Run/Event Info",
-    "Avalon le Fae Chapter Release",
-    "Avalon le Fae Summoning Campaign 2",
+    "FGO Summer Festival 2016 ~1st Anniversary~",
+    "Christmas 2015 Re-Run/Main Info",
+    "Christmas 2015 Re-Run",
+    "10M Downloads Campaign",
+    "Shimosa Summoning Campaign 2",
+    "Interlude Campaign 7",
+    "S I N Chapter Release",
 )
 
 SITE = pywikibot.Site()
@@ -138,6 +143,11 @@ def search_text(text):
     splits = {k: v for k, v in sorted(splits.items(), key=lambda item: item[0], reverse=True)}
 
     return splits
+
+def correct_name(text):
+    if text in NAME_FIXES:
+        return NAME_FIXES[text]
+    return text
 
 def parse(page, progress=None):
     # Iterate through each servant's page.
@@ -192,8 +202,13 @@ def parse(page, progress=None):
         except IndexError:
             rateup_servants = [] # CBC 2016 ~ 2019 Craft Essences Summoning Campaign
         for template in templates:
-            if str(template.name) in servant_names:
-                rateup_servants.append(str(template.name))
+            name = correct_name(str(template.name))
+            if name in servant_names:
+                rateup_servants.append(name)
+        
+        for string in RATEUP_FIXES:
+            if string == title:
+                rateup_servants.append(RATEUP_FIXES[string])
 
         if rateup_servants:
             rateup_servants.sort()
@@ -219,8 +234,9 @@ def parse(page, progress=None):
             rateup_servants = []
             for link in links:
                 # print(link.title)
-                if str(link.title).strip() in servant_names:
-                    rateup_servants.append(str(link.title).strip())
+                name = correct_name(str(link.title).strip())
+                if name in servant_names:
+                    rateup_servants.append(name)
 
             if rateup_servants:
                 rateup_servants.sort()
