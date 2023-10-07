@@ -8,7 +8,7 @@ import sys
 
 CATEGORY = 'Summoning_Campaign'
 
-TESTING = 0
+TESTING = 1
 
 TABLE_MATCHES = (
     "New Servant",
@@ -16,6 +16,7 @@ TABLE_MATCHES = (
     "Rate-Up Limited Servants",
     "Rate-Up Servant",
     "Rate-Up Schedule",
+    "All-Time Rate Up",
     "Rate-Up", # New Year Campaign 2018
     "Limited Servants", # S I N Summoning Campaign 2
     "Edmond Dantès]] {{LimitedS}}\n|{{Avenger}}\n|-\n|4{{Star}}\n|{{Gilgamesh (Caster)" # Servant Summer Festival! 2018/Event Info
@@ -88,8 +89,18 @@ INCLUDE_PAGES = (
 )
 
 TEST_PAGES = (
-    "WinFes 2018/19 Commemoration Summoning Campaign",
-    "WinFes 2018/19 Commemoration Campaign: Miyagi",
+    "Atlantis Chapter Release",
+    "Atlantis Summoning Campaign 2",
+    "CBC 2016 ~ 2019 Craft Essences Summoning Campaign",
+    "Fate/Grand Order ～6th Anniversary～ Summoning Campaign",
+    "Fate/Grand Order ～6th Anniversary～",
+    "Holy Grail Front ~Et tu, Brute?~/Summoning Campaign",
+    "Holy Grail Front ~Et tu, Brute?~",
+    "New Year Event 2019 Re-Run",
+    "New Year Event 2019 Re-Run Summoning Campaign 2",
+    "New Year Event 2019 Re-Run/Event Info",
+    "Avalon le Fae Chapter Release",
+    "Avalon le Fae Summoning Campaign 2",
 )
 
 SITE = pywikibot.Site()
@@ -170,7 +181,10 @@ def parse(page, progress=None):
             continue
         table = mwparserfromhell.parse(tag)
         templates = table.filter_templates()
-        rateup_servants = []
+        try:
+            rateup_servants = list(banners.pop()) if "All-Time Rate Up" in tag else [] # Atlantis Chapter Release
+        except IndexError:
+            rateup_servants = [] # CBC 2016 ~ 2019 Craft Essences Summoning Campaign
         for template in templates:
             if str(template.name) in servant_names:
                 rateup_servants.append(str(template.name))
