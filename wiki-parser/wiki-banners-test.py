@@ -2,13 +2,19 @@ import pywikibot
 import mwparserfromhell
 import wikitextparser as wtp
 import jsons
+import json
 import os
 import re2
 import sys
+import shutil
+import difflib
 
 CATEGORY = 'Summoning_Campaign'
 
-TESTING = 1
+# Read in TESTING = from command line using sys.
+TESTING = 0
+if len(sys.argv) > 1:
+    TESTING = int(sys.argv[1])
 
 TABLE_MATCHES = (
     "New Servant",
@@ -332,12 +338,19 @@ for banner in banner_dict:
 banner_list.sort(key=lambda x: x['date'])
 
 # Save to JSON file
-if TESTING == 1:
-    with open(os.path.join(os.path.dirname(__file__), 'summon_data_test.json'), 'w') as f:
-        f.write(jsons.dumps(banner_list))
-else:
-    with open(os.path.join(os.path.dirname(__file__), 'summon_data.json'), 'w') as f:
-        f.write(jsons.dumps(banner_list))
+FILE_OLD = "summon_data_test_old.json" if TESTING == 1 else "summon_data_old.json"
+FILE_NEW = "summon_data_test.json" if TESTING == 1 else "summon_data.json"
+# Copy the preexisting summon_data_test.json file to summon_data_test_old.json
+shutil.copy(os.path.join(os.path.dirname(__file__), FILE_NEW), os.path.join(os.path.dirname(__file__), FILE_OLD))
+json_obj = jsons.dump(banner_list)
+with open(os.path.join(os.path.dirname(__file__), FILE_NEW), 'w') as f:
+    f.write(json.dumps(json_obj, indent=2))
+# Print the changes from the old file to the new file.
+with open(os.path.join(os.path.dirname(__file__), FILE_NEW), 'r') as f1:
+    with open(os.path.join(os.path.dirname(__file__), FILE_OLD), 'r') as f2:
+        diff = difflib.unified_diff(f2.readlines(), f1.readlines())
+        with open(os.path.join(os.path.dirname(__file__), 'diff.txt'), 'w') as f3:
+            f3.writelines(diff)
 
 # # parse_page("18M_Downloads_Summoning_Campaign")
 
