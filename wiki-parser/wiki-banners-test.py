@@ -8,7 +8,7 @@ import sys
 
 CATEGORY = 'Summoning_Campaign'
 
-TESTING = 1
+TESTING = 0
 
 TABLE_MATCHES = (
     "New Servant",
@@ -16,6 +16,9 @@ TABLE_MATCHES = (
     "Rate-Up Limited Servants",
     "Rate-Up Servant",
     "Rate-Up Schedule",
+    "Rate-Up", # New Year Campaign 2018
+    "Limited Servants", # S I N Summoning Campaign 2
+    "Edmond Dantès]] {{LimitedS}}\n|{{Avenger}}\n|-\n|4{{Star}}\n|{{Gilgamesh (Caster)" # Servant Summer Festival! 2018/Event Info
 )
 
 LINK_MATCHES = (
@@ -37,7 +40,14 @@ LINK_MATCHES = (
     "Rate Up Schedule \(Female-Servants 2\)",
     "Rate Up \(Male-Servants\)",
     "Servant Lineups",
-    "Salem Summon 2"
+    "Salem Summon 2",
+    "Valentine2017 gacha rerun",
+    "Anastasia_summon_banner2",
+)
+
+PRIORITY_REMOVE_MATCHES = (
+    "CBC 2022=",
+    "{{Napoléon}} {{Valkyrie}} {{Thomas Edison}}" # WinFes 2018/19 Commemoration Summoning Campaign
 )
 
 REMOVE_MATCHES = (
@@ -73,11 +83,13 @@ INCLUDE_PAGES = (
     "Chaldea Boys Collection 2017",
     "Agartha Chapter Release",
     "Shimosa Chapter Release",
+    "Apocrypha/Inheritance of Glory/Main Info",
+    "Halloween 2018/Event Info",
 )
 
 TEST_PAGES = (
-    "Shimosa Chapter Release",
-    "Salem Summoning Campaign 2",
+    "WinFes 2018/19 Commemoration Summoning Campaign",
+    "WinFes 2018/19 Commemoration Campaign: Miyagi",
 )
 
 SITE = pywikibot.Site()
@@ -120,16 +132,22 @@ def parse(page, progress=None):
 
     if title in EXCLUDE_PAGES:
         return
-    # Parse servant info
-    text = page.text
-    # Remove HTML comments
-    text = re2.sub(r'<!--(.|\n)*?-->', '', text)
 
     if progress:
         print(f'Parsing {progress}: {title}...')
     else:
         print(f'Parsing {title}...')
+
+    # Parse servant info
+    text = page.text
+    # Remove HTML comments
+    text = re2.sub(r'<!--(.|\n)*?-->', '', text)
     # print(text)
+
+    for string in PRIORITY_REMOVE_MATCHES:
+        matches = re2.finditer(string, text)
+        for match in matches:
+            text = text[:match.start()]
 
     wikicode = mwparserfromhell.parse(text)
     # print(text)
@@ -181,8 +199,8 @@ def parse(page, progress=None):
             rateup_servants = []
             for link in links:
                 # print(link.title)
-                if str(link.title) in servant_names:
-                    rateup_servants.append(str(link.title))
+                if str(link.title).strip() in servant_names:
+                    rateup_servants.append(str(link.title).strip())
 
             if rateup_servants:
                 rateup_servants.sort()
