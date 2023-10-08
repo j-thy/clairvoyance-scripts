@@ -4,7 +4,7 @@ import wikitextparser as wtp
 import jsons
 import json
 import os
-import re2
+import re
 import sys
 import shutil
 import difflib
@@ -129,13 +129,13 @@ def search_text(text):
     splits = {}
 
     for string in LINK_MATCHES:
-        matches = re2.finditer(string, text)
+        matches = re.finditer(string, text)
         for match in matches:
             # print(string)
             splits[match.start()] = True
     
     for string in REMOVE_MATCHES:
-        matches = re2.finditer(string, text)
+        matches = re.finditer(string, text)
         for match in matches:
             # print(string)
             splits[match.start()] = False
@@ -168,11 +168,11 @@ def parse(page, progress=None):
     # Parse servant info
     text = page.text
     # Remove HTML comments
-    text = re2.sub(r'<!--(.|\n)*?-->', '', text)
+    text = re.sub(r'<!--(.|\n)*?-->', '', text)
     # print(text)
 
     for string in PRIORITY_REMOVE_MATCHES:
-        matches = re2.finditer(string, text)
+        matches = re.finditer(string, text)
         for match in matches:
             text = text[:match.start()]
 
