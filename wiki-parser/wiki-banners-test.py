@@ -9,6 +9,9 @@ import sys
 import shutil
 import difflib
 
+# TODO: Valentine 2019, remove Nightinggale
+# TODO: Fate/Extra CCC Collaboration Event (US), add EMIYA (Alter)
+
 CATEGORY = 'Summoning_Campaign'
 
 # Read in TESTING = from command line using sys.
@@ -26,6 +29,11 @@ TABLE_MATCHES = (
     "Rate-Up", # New Year Campaign 2018
     "Limited Servants", # S I N Summoning Campaign 2
     "Edmond Dantès]] {{LimitedS}}\n|{{Avenger}}\n|-\n|4{{Star}}\n|{{Gilgamesh (Caster)" # Servant Summer Festival! 2018/Event Info
+)
+
+TABLE_MERGE_MATCHES = (
+    "Rate-Up Schedule",
+    "All-Time Rate Up",
 )
 
 LINK_MATCHES = (
@@ -105,13 +113,9 @@ RATEUP_FIXES = {
 }
 
 TEST_PAGES = (
-    "FGO Summer Festival 2016 ~1st Anniversary~",
-    "Christmas 2015 Re-Run/Main Info",
-    "Christmas 2015 Re-Run",
-    "10M Downloads Campaign",
-    "Shimosa Summoning Campaign 2",
-    "Interlude Campaign 7",
-    "S I N Chapter Release",
+    "New Year Event 2019",
+    "New Year Event 2019/Main Info",
+    "New Year Event 2019 Summoning Campaign 2",
 )
 
 SITE = pywikibot.Site()
@@ -198,7 +202,7 @@ def parse(page, progress=None):
         table = mwparserfromhell.parse(tag)
         templates = table.filter_templates()
         try:
-            rateup_servants = list(banners.pop()) if "All-Time Rate Up" in tag else [] # Atlantis Chapter Release
+            rateup_servants = list(banners.pop()) if any([x in tag for x in TABLE_MERGE_MATCHES]) else [] # Atlantis Chapter Release
         except IndexError:
             rateup_servants = [] # CBC 2016 ~ 2019 Craft Essences Summoning Campaign
         for template in templates:
