@@ -9,9 +9,6 @@ import sys
 import shutil
 import difflib
 
-# TODO: Valentine 2019, remove Nightinggale
-# TODO: Fate/Extra CCC Collaboration Event (US), add EMIYA (Alter)
-
 CATEGORY = 'Summoning_Campaign'
 
 # Read in TESTING = from command line using sys.
@@ -27,9 +24,11 @@ TABLE_MATCHES = (
     "Rate Up Servant",
     "Rate-Up Schedule",
     "All-Time Rate Up",
+    "Summoning Campaign Servant List", # Swimsuit + AoE NP Only Summoning Campaign
+    "Featured Servants", # Interlude Campaign 14 and 16
     "Rate-Up", # New Year Campaign 2018
     "Limited Servants", # S I N Summoning Campaign 2
-    "Edmond Dantès]] {{LimitedS}}\n|{{Avenger}}\n|-\n|4{{Star}}\n|{{Gilgamesh (Caster)" # Servant Summer Festival! 2018/Event Info
+    "Edmond Dantès]] {{LimitedS}}\n|{{Avenger}}\n|-\n|4{{Star}}\n|{{Gilgamesh (Caster)", # Servant Summer Festival! 2018/Event Info
 )
 
 TABLE_MERGE_MATCHES = (
@@ -51,16 +50,16 @@ LINK_MATCHES = (
     "Summon rates for the following",
     "rate-up event",
     "Commemoration Summoning Campaign",
-    "Amakusagacha",
-    "Babylonia Summoning Campaign",
+    # "Amakusagacha",
+    # "Babylonia Summoning Campaign",
     "Rate Up Schedule \(Female-Servants 2\)",
     "Rate Up \(Male-Servants\)",
     "Servant Lineups",
-    "Salem Summon 2",
-    "Valentine2017 gacha rerun",
-    "Anastasia_summon_banner2",
+    # "Salem Summon 2",
+    # "Valentine2017 gacha rerun",
+    # "Anastasia_summon_banner2",
     "■ .*? Downloads Summoning Campaign",
-    "NeroFestival2018CampaignUS",
+    # "NeroFestival2018CampaignUS",
 )
 
 PRIORITY_REMOVE_MATCHES = (
@@ -109,6 +108,17 @@ INCLUDE_PAGES = (
     "Apocrypha/Inheritance of Glory/Main Info",
     "Halloween 2018/Event Info",
     "Lord El-Melloi II Case Files Collaboration Pre-campaign",
+    "Fate/Grand Order ～7th Anniversary～ Summoning Campaign",
+    "Fate/Grand Order ～7th Anniversary～ Daily Summoning Campaign",
+)
+
+PRIORITY_PAGES = (
+    "Amakusa Shirō Summoning Campaign",
+    "Babylonia Summoning Campaign 2",
+    "Salem Summoning Campaign 2",
+    "Valentine 2017 Summoning Campaign Re-Run",
+    "Anastasia Summoning Campaign 2",
+    "Nero Festival Return ~Autumn 2018~ (US)/Summoning Campaign",
 )
 
 NAME_FIXES = {
@@ -125,11 +135,8 @@ PAGE_FIXES = {
 }
 
 TEST_PAGES = (
-    # "Fuun Karakuri Illya's Castle",
-    # "Fuun Karakuri Illya's Castle/Summon",
-    "Fuun Karakuri Illya's Castle Summoning Campaign",
-    # "Fuun Karakuri Illya's Castle Summoning Campaign 2",
-    # "Fuun Karakuri Illya's Castle Summoning Campaign 3",
+    "New Year Campaign 2019",
+    "New Year Campaign 2019/Summoning Campaign",
 )
 
 SITE = pywikibot.Site()
@@ -219,7 +226,6 @@ def parse(page, progress=None):
             pass
         if class_type != 'wikitable' or not any([x in tag for x in TABLE_MATCHES]):
             continue
-        # print("test")
         table = mwparserfromhell.parse(tag)
         templates = table.filter_templates()
         try:
@@ -243,7 +249,22 @@ def parse(page, progress=None):
     # print(banners)
     # print(text)
     # If a page that uses wikilinks only
-    if not banners:
+    if not banners and title in PRIORITY_PAGES:
+        links = []
+        links = wikicode.filter_wikilinks()
+        rateup_servants = []
+        for link in links:
+            # print(link.title)
+            name = correct_name(str(link.title).strip())
+            if name in servant_names:
+                rateup_servants.append(name)
+
+        if rateup_servants:
+            rateup_servants.sort()
+            rateup_servants = tuple(dict.fromkeys(rateup_servants))
+            # Append to the start
+            banners.insert(0, rateup_servants)
+    elif not banners and title not in PRIORITY_PAGES:
         links = []
         splits = search_text(text)
         base_text = text
@@ -302,8 +323,9 @@ def parse_page(page_name):
 # Goes up the chain of template references to find the original template/banner.
 # Test on 3M Downloads Campaign and 13 Bespeckled
 def rec_get_ref(original_banner, banner, visited):
+    # print(f'Original Banner: {original_banner}, Banner: {banner}')
     page = pywikibot.Page(SITE, banner)
-    num_refs = len(list(page.getReferences(only_template_inclusion=True)))
+    num_refs = len([x for x in list(page.getReferences(only_template_inclusion=True)) if x.title() in banner_dict])
     # print(f'Found {num_refs} references for {banner}')
     # print(visited)
     # If there are no references, return.
@@ -347,7 +369,7 @@ def cleanup():
             del banner_dict[banner]
 
 def cleanup_test():
-    page = pywikibot.Page(SITE, "FGO 2016 Summer Event/Event Details")
+    page = pywikibot.Page(SITE, "Servant Summer Festival! 2023 Summoning Campaign I")
     print(f'Size of {page.title()}: {len(list(page.getReferences(with_template_inclusion=True, follow_redirects=True)))}')
     for reference in page.getReferences():
         print(reference.title())
