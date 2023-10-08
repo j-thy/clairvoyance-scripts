@@ -371,6 +371,13 @@ def cleanup():
         # print(ref_exists)
         if ref_exists:
             del banner_dict[banner]
+    
+    # Delete banners with empty rateups.
+    max_length = len(list(banner_dict))
+    for i, banner in enumerate(list(banner_dict)):
+        print(f'Checking {i+1}/{max_length}: {banner}...')
+        if not banner_dict[banner][1]:
+            del banner_dict[banner]
 
 def cleanup_test():
     page = pywikibot.Page(SITE, "Servant Summer Festival! 2023 Summoning Campaign I")
