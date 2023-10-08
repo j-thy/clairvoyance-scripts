@@ -304,9 +304,13 @@ def parse_test():
 
 def parse_category(category_name):
     category = pywikibot.Category(SITE, category_name)
+    arcade_category = pywikibot.Category(SITE, "Arcade")
+    arcade_titles = tuple([x.title() for x in arcade_category.articles()])
     category_length = len(list(category.articles()))
     max_length = category_length + len(INCLUDE_PAGES)
     for i, page in enumerate(category.articles()):
+        if page.title() in arcade_titles:
+            continue
         parse(page, f'{i+1}/{max_length}')
     
     for i, page_name in enumerate(INCLUDE_PAGES):
