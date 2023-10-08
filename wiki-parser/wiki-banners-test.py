@@ -24,6 +24,7 @@ TABLE_MATCHES = (
     "Rate-Up Servants",
     "Rate-Up Limited Servants",
     "Rate-Up Servant",
+    "Rate Up Servant",
     "Rate-Up Schedule",
     "All-Time Rate Up",
     "Rate-Up", # New Year Campaign 2018
@@ -43,8 +44,8 @@ LINK_MATCHES = (
     "Re-Run Summoning Campaign",
     "Rate Up Servant :",
     "special summoning pools",
-    "Summoning Campaign\s*?=", # Main Quest 1/2 AP + Shinjuku Summoning Campaign
-    "Summoning Campaign 2=",
+    "Summon.*? Campaign.*?=", # Main Quest 1/2 AP + Shinjuku Summoning Campaign
+    "Summon.*? Campaign 2=",
     "New Servant",
     "summoning campaign for",
     "Summon rates for the following",
@@ -58,12 +59,14 @@ LINK_MATCHES = (
     "Salem Summon 2",
     "Valentine2017 gacha rerun",
     "Anastasia_summon_banner2",
+    "■ .*? Downloads Summoning Campaign",
+    "NeroFestival2018CampaignUS",
 )
 
 PRIORITY_REMOVE_MATCHES = (
     "CBC 2022=",
     "{{Napoléon}} {{Valkyrie}} {{Thomas Edison}}", # WinFes 2018/19 Commemoration Summoning Campaign
-    "update came with the release of '''Chapter 4", # London Chapter Release
+    "Craft Essences are now unique per party, allowing Servants in multiple parties to hold different Craft Essences", # London Chapter Release
 )
 
 REMOVE_MATCHES = (
@@ -75,6 +78,7 @@ REMOVE_MATCHES = (
     "Music=",
     "Quest=",
     "Grand Summon",
+    "Misc Update=",
 )
 
 EXCLUDE_PAGES = (
@@ -91,6 +95,8 @@ EXCLUDE_PAGES = (
     "Fate/Grand Order ～6th Anniversary～ Lucky Bag Summoning Campaign",
     "Lucky Bag 2022 Summoning Campaign New Year Special",
     "Fate/Grand Order ～7th Anniversary～ Lucky Bag Summoning Campaign",
+    "The Antiquated Spider Nostalgically Spins Its Thread",
+    "The Antiquated Spider Nostalgically Spins Its Thread/Main Info",
 )
 
 INCLUDE_PAGES = (
@@ -102,20 +108,28 @@ INCLUDE_PAGES = (
     "Shimosa Chapter Release",
     "Apocrypha/Inheritance of Glory/Main Info",
     "Halloween 2018/Event Info",
+    "Lord El-Melloi II Case Files Collaboration Pre-campaign",
 )
 
 NAME_FIXES = {
     'Attila' : 'Altera', # FGO Summer Festival 2016 ~1st Anniversary~
+    "EMIYA (Alter) NA" : "EMIYA (Alter)"
 }
 
 RATEUP_FIXES = {
     'S I N Chapter Release' : 'Jing Ke', # S I N Chapter Release
 }
 
+PAGE_FIXES = {
+    'Class Specific Summoning Campaign (US)' : [r'\|(.*)}}\n\[\[', r'|\1}}\n|}\n[['], # Class Specific Summoning Campaign (US)
+}
+
 TEST_PAGES = (
-    "New Year Event 2019",
-    "New Year Event 2019/Main Info",
-    "New Year Event 2019 Summoning Campaign 2",
+    # "Fuun Karakuri Illya's Castle",
+    # "Fuun Karakuri Illya's Castle/Summon",
+    "Fuun Karakuri Illya's Castle Summoning Campaign",
+    # "Fuun Karakuri Illya's Castle Summoning Campaign 2",
+    # "Fuun Karakuri Illya's Castle Summoning Campaign 3",
 )
 
 SITE = pywikibot.Site()
@@ -135,13 +149,15 @@ def search_text(text):
     for string in LINK_MATCHES:
         matches = re.finditer(string, text)
         for match in matches:
-            # print(string)
+            if TESTING == 1:
+                print(string)
             splits[match.start()] = True
     
-    for string in REMOVE_MATCHES:
+    for string in REMOVE_MATCHES:   
         matches = re.finditer(string, text)
         for match in matches:
-            # print(string)
+            if TESTING == 1:
+                print(string)
             splits[match.start()] = False
     
     splits = {k: v for k, v in sorted(splits.items(), key=lambda item: item[0], reverse=True)}
@@ -173,6 +189,8 @@ def parse(page, progress=None):
     text = page.text
     # Remove HTML comments
     text = re.sub(r'<!--(.|\n)*?-->', '', text)
+    if title in PAGE_FIXES:
+        text = re.sub(PAGE_FIXES[title][0], PAGE_FIXES[title][1], text)
     # print(text)
 
     for string in PRIORITY_REMOVE_MATCHES:
@@ -181,12 +199,14 @@ def parse(page, progress=None):
             text = text[:match.start()]
 
     wikicode = mwparserfromhell.parse(text)
-    # print(text)
+    if TESTING == 1:
+        print(text)
 
     banners = []
 
     # Find the template containing the servant details
     tags = wikicode.filter_tags()
+    # print(tags)
 
     # Find the rateups on pages that use tables.
     for tag in tags:
@@ -199,6 +219,7 @@ def parse(page, progress=None):
             pass
         if class_type != 'wikitable' or not any([x in tag for x in TABLE_MATCHES]):
             continue
+        # print("test")
         table = mwparserfromhell.parse(tag)
         templates = table.filter_templates()
         try:
