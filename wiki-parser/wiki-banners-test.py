@@ -22,6 +22,7 @@ TABLE_MATCHES = (
     "Rate-Up Limited Servants",
     "Rate-Up Servant",
     "Rate Up Servant",
+    "Rate-up Servants",
     "Rate-Up Schedule",
     "All-Time Rate Up",
     "Summoning Campaign Servant List", # Swimsuit + AoE NP Only Summoning Campaign
@@ -72,7 +73,8 @@ REMOVE_MATCHES = (
     "Music=",
     "Quest=",
     "Grand Summon",
-    "Updates?=",
+    "Updates?\s?=",
+    "New Information="
 )
 
 FULL_EXCLUDE_PAGES = (
@@ -100,6 +102,7 @@ FULL_EXCLUDE_PAGES = (
 EXCLUDE_PARSE_PAGES = (
     "Valentine 2020/Main Info",
     "Valentine 2020",
+    "Traum Chapter Release",
 )
 
 INCLUDE_PAGES = (
@@ -128,6 +131,12 @@ PRIORITY_PAGES = (
     "Nero Festival Return ~Autumn 2018~ (US)/Summoning Campaign",
 )
 
+NO_MERGE = {
+    "GUDAGUDA Close Call 2021/Event Info" : (1,),
+    "Nanmei Yumihari Hakkenden/Summoning Campaign" : (1, 2,),
+    "Nahui Mictlan Chapter Release Part 2" : (1,),
+}
+
 EVENT_PAGES_REMOVE = (
     "Event List",
     "Event Items",
@@ -147,7 +156,7 @@ PAGE_FIXES = {
 }
 
 TEST_PAGES = (
-    "1M Download Campaign (US)",
+    "Tales of Chaldean Heavy Industries Summoning Campaign 2",
 )
 
 SITE = pywikibot.Site()
@@ -223,6 +232,7 @@ def parse(page, progress=None):
     tags = wikicode.filter_tags()
     # print(tags)
 
+    cntr = 0
     # Find the rateups on pages that use tables.
     for tag in tags:
         # print(tag)
@@ -250,10 +260,14 @@ def parse(page, progress=None):
             rateup_servants.sort()
             rateup_servants = tuple(dict.fromkeys(rateup_servants))
             banners.append(rateup_servants)
-            if len(banners) > 1 and len(set(banners[-2]).intersection(set(banners[-1]))) > 0:
+            if len(banners) > 1 and len(set(banners[-2]).intersection(set(banners[-1]))) > 0 and not (title in NO_MERGE and cntr in NO_MERGE[title]): # GUDAGUDA Close Call 2021/Event Info
                 # Merge banners and sort.
                 banners[-2] = tuple(sorted(tuple(dict.fromkeys(banners[-1] + banners[-2]))))
                 del banners[-1]
+                if len(banners) > 1 and len(set(banners[-2]).intersection(set(banners[-1]))) > 0 and title not in NO_MERGE: # Valentine 2022/Event Info
+                    banners[-2] = tuple(sorted(tuple(dict.fromkeys(banners[-1] + banners[-2]))))
+                    del banners[-1]
+            cntr += 1
 
     # print(banners)
     # print(text)
