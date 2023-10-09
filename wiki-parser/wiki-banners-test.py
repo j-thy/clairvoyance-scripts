@@ -31,11 +31,6 @@ TABLE_MATCHES = (
     "Edmond Dantès]] {{LimitedS}}\n|{{Avenger}}\n|-\n|4{{Star}}\n|{{Gilgamesh (Caster)", # Servant Summer Festival! 2018/Event Info
 )
 
-TABLE_MERGE_MATCHES = (
-    "Rate-Up Schedule",
-    "All-Time Rate Up",
-)
-
 LINK_MATCHES = (
     "Draw rates",
     "Summoning Rate",
@@ -152,7 +147,7 @@ PAGE_FIXES = {
 }
 
 TEST_PAGES = (
-    "Class-Based Summoning Campaign (March 2021)",
+    "1M Download Campaign (US)",
 )
 
 SITE = pywikibot.Site()
@@ -241,10 +236,7 @@ def parse(page, progress=None):
             continue
         table = mwparserfromhell.parse(tag)
         templates = table.filter_templates()
-        try:
-            rateup_servants = list(banners.pop()) if any([x in tag for x in TABLE_MERGE_MATCHES]) else [] # Atlantis Chapter Release
-        except IndexError:
-            rateup_servants = [] # CBC 2016 ~ 2019 Craft Essences Summoning Campaign
+        rateup_servants = [] # CBC 2016 ~ 2019 Craft Essences Summoning Campaign
         for template in templates:
             name = correct_name(str(template.name))
             if name in servant_names:
@@ -258,6 +250,10 @@ def parse(page, progress=None):
             rateup_servants.sort()
             rateup_servants = tuple(dict.fromkeys(rateup_servants))
             banners.append(rateup_servants)
+            if len(banners) > 1 and len(set(banners[-2]).intersection(set(banners[-1]))) > 0:
+                # Merge banners and sort.
+                banners[-2] = tuple(sorted(tuple(dict.fromkeys(banners[-1] + banners[-2]))))
+                del banners[-1]
 
     # print(banners)
     # print(text)
