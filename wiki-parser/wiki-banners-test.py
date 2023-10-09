@@ -77,10 +77,10 @@ REMOVE_MATCHES = (
     "Music=",
     "Quest=",
     "Grand Summon",
-    "Misc Update=",
+    "^.*?Updates?=",
 )
 
-EXCLUDE_PAGES = (
+FULL_EXCLUDE_PAGES = (
     "Jack Campaign",
     "Mysterious Heroine X Pick Up",
     "2017 New Year Lucky Bag Summoning Campaign",
@@ -96,6 +96,15 @@ EXCLUDE_PAGES = (
     "Fate/Grand Order ～7th Anniversary～ Lucky Bag Summoning Campaign",
     "The Antiquated Spider Nostalgically Spins Its Thread",
     "The Antiquated Spider Nostalgically Spins Its Thread/Main Info",
+    "Aeaean Spring Breeze",
+    "Aeaean Spring Breeze/Main Info",
+    "Slapstick Museum",
+    "Slapstick Museum/Main Info",
+)
+
+EXCLUDE_PARSE_PAGES = (
+    "Valentine 2020/Main Info",
+    "Valentine 2020",
 )
 
 INCLUDE_PAGES = (
@@ -110,6 +119,9 @@ INCLUDE_PAGES = (
     "Lord El-Melloi II Case Files Collaboration Pre-campaign",
     "Fate/Grand Order ～7th Anniversary～ Summoning Campaign",
     "Fate/Grand Order ～7th Anniversary～ Daily Summoning Campaign",
+    "Halloween 2018 Rerun/Main Info",
+    "Christmas 2019 Re-Run/Event Info",
+    "Imaginary Scramble/Event Info",
 )
 
 PRIORITY_PAGES = (
@@ -140,7 +152,7 @@ PAGE_FIXES = {
 }
 
 TEST_PAGES = (
-    "FGO Summer 2019 Event (US)/Summoning Campaign",
+    "Class-Based Summoning Campaign (March 2021)",
 )
 
 SITE = pywikibot.Site()
@@ -185,7 +197,7 @@ def correct_name(text):
 def parse(page, progress=None):
     title = page.title()
 
-    if title in EXCLUDE_PAGES:
+    if title in FULL_EXCLUDE_PAGES or title in EXCLUDE_PARSE_PAGES:
         return
 
     if progress:
@@ -322,12 +334,12 @@ def parse_category():
     summoning_max_length = summoning_length + len(INCLUDE_PAGES)
 
     EVENT_TITLES = tuple([x.title() for x in event_category.articles()])
-    EVENT_TITLES = tuple([x for x in EVENT_TITLES if x not in arcade_titles and x not in summoning_titles and x not in EXCLUDE_PAGES and x not in INCLUDE_PAGES and not any([event_page in x for event_page in EVENT_PAGES_REMOVE])])
+    EVENT_TITLES = tuple([x for x in EVENT_TITLES if x not in arcade_titles and x not in summoning_titles and x not in FULL_EXCLUDE_PAGES and x not in INCLUDE_PAGES and not any([event_page in x for event_page in EVENT_PAGES_REMOVE])])
 
     campaign_titles = tuple([x.title() for x in campaign_category.articles()])
-    campaign_titles = tuple([x for x in campaign_titles if x not in arcade_titles and x not in summoning_titles and x not in EXCLUDE_PAGES and x not in INCLUDE_PAGES and x not in EVENT_TITLES])
+    campaign_titles = tuple([x for x in campaign_titles if x not in arcade_titles and x not in summoning_titles and x not in FULL_EXCLUDE_PAGES and x not in INCLUDE_PAGES and x not in EVENT_TITLES])
 
-    EVENT_TITLES = EVENT_TITLES + campaign_titles
+    EVENT_TITLES = EVENT_TITLES + campaign_titles + EXCLUDE_PARSE_PAGES
 
     for i, page in enumerate(summoning_category.articles()):
         if page.title() in arcade_titles:
@@ -364,7 +376,9 @@ def rec_get_ref(original_banner, banner, visited):
                     BANNER_DICT[banner.split('/')[0]][1].append(rateup)
             return True
         elif '/' in banner and banner.split('/')[0] in EVENT_DICT:
-            EVENT_DICT[banner.split('/')[0]][1].extend(BANNER_DICT[banner][1])
+            for rateup in BANNER_DICT[banner][1]:
+                if rateup not in EVENT_DICT[banner.split('/')[0]][1]:
+                    EVENT_DICT[banner.split('/')[0]][1].append(rateup)
             return True
         elif '/' in banner and banner.split('/')[0] in EVENT_TITLES:
             EVENT_DICT[banner.split('/')[0]] = [BANNER_DICT[banner][0], BANNER_DICT[banner][1]]
@@ -379,7 +393,9 @@ def rec_get_ref(original_banner, banner, visited):
                 if rateup not in BANNER_DICT[banner][1]:
                     BANNER_DICT[banner][1].append(rateup)
         elif banner in EVENT_DICT:
-            EVENT_DICT[banner][1].extend(BANNER_DICT[original_banner][1])
+            for rateup in BANNER_DICT[original_banner][1]:
+                if rateup not in EVENT_DICT[banner][1]:
+                    EVENT_DICT[banner][1].append(rateup)
         elif banner in EVENT_TITLES:
             EVENT_DICT[banner] = [BANNER_DICT[original_banner][0], BANNER_DICT[original_banner][1]]
         return True
