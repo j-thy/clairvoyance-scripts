@@ -77,7 +77,7 @@ REMOVE_MATCHES = (
     "Music=",
     "Quest=",
     "Grand Summon",
-    "^.*?Updates?=",
+    "Updates?=",
 )
 
 FULL_EXCLUDE_PAGES = (
