@@ -9,6 +9,8 @@ import sys
 import shutil
 import difflib
 
+# TODO: Fix FGO Summer 2018 Event Revival (US)/Summoning Campaign
+
 CATEGORY = 'Summoning_Campaign'
 
 # Read in TESTING = from command line using sys.
@@ -121,6 +123,11 @@ PRIORITY_PAGES = (
     "Nero Festival Return ~Autumn 2018~ (US)/Summoning Campaign",
 )
 
+EVENT_PAGES_REMOVE = (
+    "Event List",
+    "Event Items",
+)
+
 NAME_FIXES = {
     'Attila' : 'Altera', # FGO Summer Festival 2016 ~1st Anniversary~
     "EMIYA (Alter) NA" : "EMIYA (Alter)"
@@ -135,8 +142,7 @@ PAGE_FIXES = {
 }
 
 TEST_PAGES = (
-    "New Year Campaign 2019",
-    "New Year Campaign 2019/Summoning Campaign",
+    "FGO Summer 2019 Event (US)/Summoning Campaign",
 )
 
 SITE = pywikibot.Site()
@@ -148,7 +154,9 @@ with open(os.path.join(os.path.dirname(__file__), 'servant_data.json')) as f:
 
 # The json is a dictionary, where every value is also a dictionary. Make a set out of the name field in the dictionary in the value.
 servant_names = set([servant_data[servant]['name'] for servant in servant_data])
-banner_dict = {}
+BANNER_DICT = {}
+EVENT_DICT = {}
+EVENT_TITLES = ()
 
 def search_text(text):
     splits = {}
@@ -177,11 +185,6 @@ def correct_name(text):
     return text
 
 def parse(page, progress=None):
-    # Iterate through each servant's page.
-    # for i, page in enumerate(category.articles()):
-    #     if i > 1:
-    #         break
-    # Get name of servant
     title = page.title()
 
     if title in EXCLUDE_PAGES:
@@ -294,28 +297,43 @@ def parse(page, progress=None):
     # Dedupe banners
     banners = list(dict.fromkeys(banners))
     # print(banners)
-    banner_dict[title] = [page.oldest_revision.timestamp, banners]
+    BANNER_DICT[title] = [page.oldest_revision.timestamp, banners]
     # print(banners)
 
 def parse_test():
+    global EVENT_TITLES
+
+    event_category = pywikibot.Category(SITE, "Event")
+    EVENT_TITLES = tuple([x.title() for x in event_category.articles()])
+    EVENT_TITLES = tuple([x for x in EVENT_TITLES if x not in TEST_PAGES and not any([event_page in x for event_page in EVENT_PAGES_REMOVE])])
+
     for page_name in TEST_PAGES:
         page = pywikibot.Page(SITE, page_name)
         parse(page)
 
 def parse_category(category_name):
-    category = pywikibot.Category(SITE, category_name)
+    global EVENT_TITLES
+
+    summoning_category = pywikibot.Category(SITE, category_name)
     arcade_category = pywikibot.Category(SITE, "Arcade")
+    event_category = pywikibot.Category(SITE, "Event")
     arcade_titles = tuple([x.title() for x in arcade_category.articles()])
-    category_length = len(list(category.articles()))
-    max_length = category_length + len(INCLUDE_PAGES)
-    for i, page in enumerate(category.articles()):
+    summoning_titles = tuple([x.title() for x in summoning_category.articles()])
+    summoning_length = len(list(summoning_category.articles()))
+    summoning_max_length = summoning_length + len(INCLUDE_PAGES)
+    event_length = len(list(event_category.articles()))
+
+    EVENT_TITLES = tuple([x.title() for x in event_category.articles()])
+    EVENT_TITLES = tuple([x for x in EVENT_TITLES if x not in arcade_titles and x not in summoning_titles and x not in EXCLUDE_PAGES and x not in INCLUDE_PAGES and not any([event_page in x for event_page in EVENT_PAGES_REMOVE])])
+
+    for i, page in enumerate(summoning_category.articles()):
         if page.title() in arcade_titles:
             continue
-        parse(page, f'{i+1}/{max_length}')
+        parse(page, f'{i+1}/{summoning_max_length}')
     
     for i, page_name in enumerate(INCLUDE_PAGES):
         page = pywikibot.Page(SITE, page_name)
-        parse(page, f'{category_length+i+1}/{max_length}')
+        parse(page, f'{summoning_length+i+1}/{summoning_max_length}')
 
 
 def parse_page(page_name):
@@ -329,7 +347,7 @@ def parse_page(page_name):
 def rec_get_ref(original_banner, banner, visited):
     # print(f'Original Banner: {original_banner}, Banner: {banner}')
     page = pywikibot.Page(SITE, banner)
-    num_refs = len([x for x in list(page.getReferences(only_template_inclusion=True)) if x.title() in banner_dict])
+    num_refs = len([x for x in list(page.getReferences(only_template_inclusion=True)) if x.title() in BANNER_DICT or x.title() in EVENT_TITLES])
     # print(f'Found {num_refs} references for {banner}')
     # print(visited)
     # If there are no references, return.
@@ -337,77 +355,93 @@ def rec_get_ref(original_banner, banner, visited):
         # print(f'In first if condition for {banner}')
         # print(f'No references found for {banner}.')
         # If you can split the banner name by /, then it's a subpage.
-        if '/' in banner and banner.split('/')[0] in banner_dict:
-            for rateup in banner_dict[banner][1]:
-                if rateup not in banner_dict[banner.split('/')[0]][1]:
-                    banner_dict[banner.split('/')[0]][1].append(rateup)
+        if '/' in banner and banner.split('/')[0] in BANNER_DICT:
+            for rateup in BANNER_DICT[banner][1]:
+                if rateup not in BANNER_DICT[banner.split('/')[0]][1]:
+                    BANNER_DICT[banner.split('/')[0]][1].append(rateup)
+            return True
+        elif '/' in banner and banner.split('/')[0] in EVENT_DICT:
+            EVENT_DICT[banner.split('/')[0]][1].extend(BANNER_DICT[banner][1])
+            return True
+        elif '/' in banner and banner.split('/')[0] in EVENT_TITLES:
+            EVENT_DICT[banner.split('/')[0]] = [BANNER_DICT[banner][0], BANNER_DICT[banner][1]]
             return True
         else:
             return False
     elif num_refs == 0 or banner in visited:
         # print(f'In second if condition for {banner}')
         # print(f'Merging {banner} into {original_banner}...')
-        for rateup in banner_dict[original_banner][1]:
-            if rateup not in banner_dict[banner][1]:
-                banner_dict[banner][1].append(rateup)
+        if banner in BANNER_DICT:
+            for rateup in BANNER_DICT[original_banner][1]:
+                if rateup not in BANNER_DICT[banner][1]:
+                    BANNER_DICT[banner][1].append(rateup)
+        elif banner in EVENT_DICT:
+            EVENT_DICT[banner][1].extend(BANNER_DICT[original_banner][1])
+        elif banner in EVENT_TITLES:
+            EVENT_DICT[banner] = [BANNER_DICT[original_banner][0], BANNER_DICT[original_banner][1]]
         return True
     else:
         # print(f'In else condition for {banner}')
         retval = False
         for reference in page.getReferences(only_template_inclusion=True):
             # print(f'Going to {reference.title()}...')
-            if reference.title() in banner_dict:
+            if reference.title() in BANNER_DICT or reference.title() in EVENT_TITLES:
                 # print(f'Entering {reference.title()}...')
                 retval = rec_get_ref(original_banner, reference.title(), visited + (banner,))
         return retval
 
 def cleanup():
     print("Checking references")
-    max_length = len(list(banner_dict))
-    # Loop through the banner_dict.
-    for i, banner in enumerate(list(banner_dict)):
+    max_length = len(list(BANNER_DICT))
+    # Loop through the BANNER_DICT.
+    for i, banner in enumerate(list(BANNER_DICT)):
         print(f'Cleaning {i+1}/{max_length}: {banner}...')
         ref_exists = rec_get_ref(banner, banner, ())
         # print(ref_exists)
         if ref_exists:
-            del banner_dict[banner]
-    
+            del BANNER_DICT[banner]
+
+def remove_empty():
     # Delete banners with empty rateups.
-    max_length = len(list(banner_dict))
-    for i, banner in enumerate(list(banner_dict)):
-        print(f'Checking {i+1}/{max_length}: {banner}...')
-        if not banner_dict[banner][1]:
-            del banner_dict[banner]
+    print('Cleaning up empty rateups...')
+    for banner in list(BANNER_DICT):
+        if not BANNER_DICT[banner][1]:
+            del BANNER_DICT[banner]
 
 def cleanup_test():
-    page = pywikibot.Page(SITE, "Servant Summer Festival! 2023 Summoning Campaign I")
+    page = pywikibot.Page(SITE, "FGO x FGO Arcade Collaboration Summoning Campaign 1")
     print(f'Size of {page.title()}: {len(list(page.getReferences(with_template_inclusion=True, follow_redirects=True)))}')
     for reference in page.getReferences():
         print(reference.title())
         page1 = pywikibot.Page(SITE, reference.title())
-        for reference1 in page1.getReferences():
-            print(f'  {reference1.title()}')
-            page2 = pywikibot.Page(SITE, reference1.title())
-            for reference2 in page2.getReferences():
-                print(f'    {reference2.title()}')
-                page3 = pywikibot.Page(SITE, reference2.title())
-                for reference3 in page3.getReferences():
-                    print(f'      {reference3.title()}')
+        # for reference1 in page1.getReferences():
+        #     print(f'  {reference1.title()}')
+        #     page2 = pywikibot.Page(SITE, reference1.title())
+        #     for reference2 in page2.getReferences():
+        #         print(f'    {reference2.title()}')
+        #         page3 = pywikibot.Page(SITE, reference2.title())
+        #         for reference3 in page3.getReferences():
+        #             print(f'      {reference3.title()}')
 
 if TESTING == 1:
     parse_test()
 else:
     parse_category(CATEGORY)
+
 cleanup()
+# Merge EVENT_DICT into BANNER_DICT
+BANNER_DICT.update(EVENT_DICT)
+remove_empty()
+
 # cleanup_test()
 
-# Sort banner_dict by date.
+# Sort BANNER_DICT by date.
 banner_list = []
-for banner in banner_dict:
+for banner in BANNER_DICT:
     banner_list.append({
         'name': banner,
-        'date': banner_dict[banner][0],
-        'rateups': banner_dict[banner][1]
+        'date': BANNER_DICT[banner][0],
+        'rateups': BANNER_DICT[banner][1]
     })
 banner_list.sort(key=lambda x: x['date'])
 
