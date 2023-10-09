@@ -11,8 +11,6 @@ import difflib
 
 # TODO: Fix FGO Summer 2018 Event Revival (US)/Summoning Campaign
 
-CATEGORY = 'Summoning_Campaign'
-
 # Read in TESTING = from command line using sys.
 TESTING = 0
 if len(sys.argv) > 1:
@@ -311,20 +309,25 @@ def parse_test():
         page = pywikibot.Page(SITE, page_name)
         parse(page)
 
-def parse_category(category_name):
+def parse_category():
     global EVENT_TITLES
 
-    summoning_category = pywikibot.Category(SITE, category_name)
+    summoning_category = pywikibot.Category(SITE, "Summoning Campaign")
     arcade_category = pywikibot.Category(SITE, "Arcade")
     event_category = pywikibot.Category(SITE, "Event")
+    campaign_category = pywikibot.Category(SITE, "Chapter Release Campaign")
     arcade_titles = tuple([x.title() for x in arcade_category.articles()])
     summoning_titles = tuple([x.title() for x in summoning_category.articles()])
     summoning_length = len(list(summoning_category.articles()))
     summoning_max_length = summoning_length + len(INCLUDE_PAGES)
-    event_length = len(list(event_category.articles()))
 
     EVENT_TITLES = tuple([x.title() for x in event_category.articles()])
     EVENT_TITLES = tuple([x for x in EVENT_TITLES if x not in arcade_titles and x not in summoning_titles and x not in EXCLUDE_PAGES and x not in INCLUDE_PAGES and not any([event_page in x for event_page in EVENT_PAGES_REMOVE])])
+
+    campaign_titles = tuple([x.title() for x in campaign_category.articles()])
+    campaign_titles = tuple([x for x in campaign_titles if x not in arcade_titles and x not in summoning_titles and x not in EXCLUDE_PAGES and x not in INCLUDE_PAGES and x not in EVENT_TITLES])
+
+    EVENT_TITLES = EVENT_TITLES + campaign_titles
 
     for i, page in enumerate(summoning_category.articles()):
         if page.title() in arcade_titles:
@@ -426,7 +429,7 @@ def cleanup_test():
 if TESTING == 1:
     parse_test()
 else:
-    parse_category(CATEGORY)
+    parse_category()
 
 cleanup()
 # Merge EVENT_DICT into BANNER_DICT
