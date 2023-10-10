@@ -190,6 +190,7 @@ INCLUDE_PAGES = (
     "Interlude Campaign 17 (US)",
     "Fate/Samurai Remnant Release Campaign (US)",
     "Halloween Trilogy Event (US)/Summoning Campaign",
+    "Fate/Grand Carnival Recollection Campaign (US)",
 )
 
 PRIORITY_PAGES = (
