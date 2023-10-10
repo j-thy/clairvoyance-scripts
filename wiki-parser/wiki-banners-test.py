@@ -62,6 +62,7 @@ PRIORITY_REMOVE_MATCHES = (
     "CBC 2022=",
     "{{Napoléon}} {{Valkyrie}} {{Thomas Edison}}", # WinFes 2018/19 Commemoration Summoning Campaign
     "Craft Essences are now unique per party, allowing Servants in multiple parties to hold different Craft Essences", # London Chapter Release
+    r"==New \[\[Friend Point\]\] Gacha Servants==",
 )
 
 REMOVE_MATCHES = (
@@ -97,12 +98,17 @@ FULL_EXCLUDE_PAGES = (
     "Aeaean Spring Breeze/Main Info",
     "Slapstick Museum",
     "Slapstick Museum/Main Info",
+    "Fate/Apocrypha Event Pre-Release Campaign (US)/Rate Up Schedule",
 )
 
 EXCLUDE_PARSE_PAGES = (
     "Valentine 2020/Main Info",
     "Valentine 2020",
     "Traum Chapter Release",
+)
+
+SKIP_TABLE_PARSE_PAGES = (
+    "Prisma Codes Collaboration Event (US)/Summoning Campaign",
 )
 
 INCLUDE_PAGES = (
@@ -120,6 +126,70 @@ INCLUDE_PAGES = (
     "Halloween 2018 Rerun/Main Info",
     "Christmas 2019 Re-Run/Event Info",
     "Imaginary Scramble/Event Info",
+    "Babylonia Chapter Release (US)",
+    "Solomon Chapter Release (US)",
+    "Fate/Stay Night Heaven's Feel II Blu-ray Release Commemorative Campaign (US)",
+    "Murder at the Kogetsukan (US)",
+    "Fate/Stay Night Heaven's Feel III Theatrical Release Commemorative Campaign (US)",
+    "A Meihousou Most Foul (US)",
+    "Yugakshetra Pre-Release Campaign (US)",
+    "FGO Summer 2021 Event (US)/Summoning Campaign",
+    "Halloween 2020 Event Revival (US)/Summoning Campaign",
+    "Saber Wars II (US)/Summoning Campaign",
+    "Saber Wars II Pre-Release Campaign (US)",
+    "15M Downloads Campaign (US)",
+    "Early Winter Campaign 2021 (US)",
+    "Christmas 2021 Event (US)/Summoning Campaign",
+    "New Year 2021 Event Revival (US)/Summoning Campaign",
+    "Amazones.com ~CEO Crisis 2022~ (US)/Summoning Campaign",
+    "Valentine 2022 Event (US)/Summoning Campaign",
+    "16M Downloads Campaign (US)",
+    "Presidents Day Celebration Campaign 2022 (US)",
+    "Chaldea Boys Collection 2022 (US)",
+    "Chaldea Boys Collection 2018 - 2021 CE Summoning Campaign (US)",
+    "Fate/Apocrypha Collaboration Event Revival (US)/Summoning Campaign",
+    "Fate/Requiem Collaboration Event (US)/Summoning Campaign",
+    "FGO Summer 2021 Event Revival (US)/Summoning Campaign",
+    "FGO Summer 2022 Event (US)/Summoning Campaign",
+    "Melty Blood: Type Lumina Evo 2022 Celebration Campaign (US)",
+    "Back to School Campaign 2022 (US)",
+    "GUDAGUDA Yamataikoku 2022 (US)/Summoning Campaign",
+    "Christmas 2021 Event Revival (US)/Summoning Campaign",
+    "Imaginary Scramble (US)/Summoning Campaign",
+    "Heian-kyo Pre-Release Campaign (US)",
+    "Christmas 2022 Event (US)/Summoning Campaign",
+    "New Year 2023 Countdown Campaign (US)",
+    "Saber Wars II Revival (US)/Summoning Campaign",
+    "Little Big Tengu (US)/Summoning Campaign",
+    "Grail Front Event ~Et Tu, Brute?~ (US)/Summoning Campaign",
+    "Valentine 2023 Event (US)/Summoning Campaign",
+    "Arc 1 & Arc 1.5 Memorial Summoning Campaign (US)",
+    "Spring Break Summoning Campaign (US)",
+    "Servant Rank Up Quests Part XIII (US)",
+    "FGO Waltz in the Moonlight Collaboration Event Pre-Release Campaign (US)",
+    "FGO Waltz in the Moonlight Collaboration Event (US)/Summoning Campaign",
+    "My Super Camelot 2023 Pre-Release Campaign (US)",
+    "Grail Front Event ~My Super Camelot 2023~ (US)/Summoning Campaign",
+    "FGO Summer 2022 Event Revival (US)/Summoning Campaign",
+    "Arc 2 Chapter 5 Memorial Summoning Campaign (US)",
+    "Avalon le Fae Pre-Release Campaign (US)",
+    "Avalon le Fae Part 1 Chapter Release (US)",
+    "Avalon le Fae Part 1 Summoning Campaign 2 (US)",
+    "Interlude Campaign 16 (US)",
+    "Avalon le Fae Part 2 Chapter Release (US)",
+    "FGO 6th Anniversary Commemorative Campaign (US)",
+    "FGO Festival 2023 ~6th Anniversary~ (US)/Summoning Campaign",
+    "FGO 6th Anniversary Daily Summoning Campaign (US)",
+    "Avalon le Fae Conclusion Campaign (US)",
+    "Grand Nero Festival 2023 (US)/Summoning Campaign",
+    "Melty Blood: Type Lumina Evo 2023 Celebration Campaign (US)",
+    "Back to School Campaign 2023 (US)",
+    "FGO Summer 2023 Event Pre-Release Campaign (US)",
+    "Revival Summer Servants Summoning Campaign (US)",
+    "FGO Summer 2023 Event (US)/Summoning Campaign",
+    "Interlude Campaign 17 (US)",
+    "Fate/Samurai Remnant Release Campaign (US)",
+    "Halloween Trilogy Event (US)/Summoning Campaign",
 )
 
 PRIORITY_PAGES = (
@@ -129,12 +199,21 @@ PRIORITY_PAGES = (
     "Valentine 2017 Summoning Campaign Re-Run",
     "Anastasia Summoning Campaign 2",
     "Nero Festival Return ~Autumn 2018~ (US)/Summoning Campaign",
+    "Prisma Codes Collaboration Event (US)/Summoning Campaign",
+)
+
+FORCE_MERGE = (
+    "Fate/Apocrypha Collaboration Event Revival (US)/Summoning Campaign",
+    "Chaldea Boys Collection 2023 (US)",
+    "Valentine 2023 Event (US)/Summoning Campaign",
 )
 
 NO_MERGE = {
     "GUDAGUDA Close Call 2021/Event Info" : (1,),
     "Nanmei Yumihari Hakkenden/Summoning Campaign" : (1, 2,),
     "Nahui Mictlan Chapter Release Part 2" : (1,),
+    "FGO THE STAGE Camelot Release Campaign (US)" : (2,),
+    "Avalon le Fae Conclusion Campaign (US)" : (1, 2,),
 }
 
 EVENT_PAGES_REMOVE = (
@@ -144,7 +223,8 @@ EVENT_PAGES_REMOVE = (
 
 NAME_FIXES = {
     'Attila' : 'Altera', # FGO Summer Festival 2016 ~1st Anniversary~
-    "EMIYA (Alter) NA" : "EMIYA (Alter)"
+    "EMIYA (Alter) NA" : "EMIYA (Alter)",
+    "Jaguar Warrior" : "Jaguar Man",
 }
 
 RATEUP_FIXES = {
@@ -153,10 +233,13 @@ RATEUP_FIXES = {
 
 PAGE_FIXES = {
     'Class Specific Summoning Campaign (US)' : [r'\|(.*)}}\n\[\[', r'|\1}}\n|}\n[['], # Class Specific Summoning Campaign (US)
+    'FGO Summer 2018 Event Revival (US)/Summoning Campaign' : [r'{{Marie Antoinette}}', r'{{Marie Antoinette (Caster)}}'],
+    'Class Based Summoning Campaign August 2021 (US)' : [r'Knight Classes=\n(.*\n)', r'Knight Classes=\n\1! colspan=2|Rate-Up Servant List'],
+    'Class Based Summoning Campaign March 2023 (US)' : [r'</tabber>', r'|}\n</tabber>'],
 }
 
 TEST_PAGES = (
-    "Tales of Chaldean Heavy Industries Summoning Campaign 2",
+    "Fate/Apocrypha Collaboration Event Revival (US)/Summoning Campaign",
 )
 
 SITE = pywikibot.Site()
@@ -228,46 +311,47 @@ def parse(page, progress=None):
 
     banners = []
 
-    # Find the template containing the servant details
-    tags = wikicode.filter_tags()
-    # print(tags)
+    if title not in SKIP_TABLE_PARSE_PAGES:
+        # Find the template containing the servant details
+        tags = wikicode.filter_tags()
+        # print(tags)
 
-    cntr = 0
-    # Find the rateups on pages that use tables.
-    for tag in tags:
-        # print(tag)
-        # print("\n\n")
-        class_type = None
-        try:
-            class_type = tag.get("class").value.strip()
-        except ValueError:
-            pass
-        if class_type != 'wikitable' or not any([x in tag for x in TABLE_MATCHES]):
-            continue
-        table = mwparserfromhell.parse(tag)
-        templates = table.filter_templates()
-        rateup_servants = [] # CBC 2016 ~ 2019 Craft Essences Summoning Campaign
-        for template in templates:
-            name = correct_name(str(template.name))
-            if name in servant_names:
-                rateup_servants.append(name)
-        
-        for string in RATEUP_FIXES:
-            if string == title:
-                rateup_servants.append(RATEUP_FIXES[string])
+        cntr = 0
+        # Find the rateups on pages that use tables.
+        for tag in tags:
+            # print(tag)
+            # print("\n\n")
+            class_type = None
+            try:
+                class_type = tag.get("class").value.strip()
+            except ValueError:
+                pass
+            if class_type != 'wikitable' or not any([x in tag for x in TABLE_MATCHES]):
+                continue
+            table = mwparserfromhell.parse(tag)
+            templates = table.filter_templates()
+            rateup_servants = [] # CBC 2016 ~ 2019 Craft Essences Summoning Campaign
+            for template in templates:
+                name = correct_name(str(template.name))
+                if name in servant_names:
+                    rateup_servants.append(name)
+            
+            for string in RATEUP_FIXES:
+                if string == title:
+                    rateup_servants.append(RATEUP_FIXES[string])
 
-        if rateup_servants:
-            rateup_servants.sort()
-            rateup_servants = tuple(dict.fromkeys(rateup_servants))
-            banners.append(rateup_servants)
-            if len(banners) > 1 and len(set(banners[-2]).intersection(set(banners[-1]))) > 0 and not (title in NO_MERGE and cntr in NO_MERGE[title]): # GUDAGUDA Close Call 2021/Event Info
-                # Merge banners and sort.
-                banners[-2] = tuple(sorted(tuple(dict.fromkeys(banners[-1] + banners[-2]))))
-                del banners[-1]
-                if len(banners) > 1 and len(set(banners[-2]).intersection(set(banners[-1]))) > 0 and title not in NO_MERGE: # Valentine 2022/Event Info
+            if rateup_servants:
+                rateup_servants.sort()
+                rateup_servants = tuple(dict.fromkeys(rateup_servants))
+                banners.append(rateup_servants)
+                if len(banners) > 1 and (title in FORCE_MERGE or (len(set(banners[-2]).intersection(set(banners[-1]))) > 0 and not (title in NO_MERGE and cntr in NO_MERGE[title]))): # GUDAGUDA Close Call 2021/Event Info
+                    # Merge banners and sort.
                     banners[-2] = tuple(sorted(tuple(dict.fromkeys(banners[-1] + banners[-2]))))
                     del banners[-1]
-            cntr += 1
+                    if len(banners) > 1 and len(set(banners[-2]).intersection(set(banners[-1]))) > 0 and title not in NO_MERGE: # Valentine 2022/Event Info
+                        banners[-2] = tuple(sorted(tuple(dict.fromkeys(banners[-1] + banners[-2]))))
+                        del banners[-1]
+                cntr += 1
 
     # print(banners)
     # print(text)

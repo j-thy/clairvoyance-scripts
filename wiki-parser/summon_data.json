@@ -1187,6 +1187,19 @@
     ]
   },
   {
+    "name": "Moon Goddess Event (US)",
+    "date": "2017-08-11+00:00",
+    "rateups": [
+      [
+        "Jing Ke",
+        "Marie Antoinette",
+        "Orion",
+        "Stheno",
+        "Ushiwakamaru"
+      ]
+    ]
+  },
+  {
     "name": "Fate/kaleid liner Prisma\u2606Illya Movie Premiere Commemoration Campaign",
     "date": "2017-08-25+00:00",
     "rateups": [
@@ -1459,6 +1472,19 @@
     ]
   },
   {
+    "name": "Halloween 2017 Event (US)",
+    "date": "2017-10-11+00:00",
+    "rateups": [
+      [
+        "Carmilla",
+        "Darius III",
+        "Mephistopheles",
+        "Tamamo Cat",
+        "Tamamo no Mae"
+      ]
+    ]
+  },
+  {
     "name": "Shimosa Summoning Campaign 2",
     "date": "2017-10-20+00:00",
     "rateups": [
@@ -1495,6 +1521,19 @@
         "Ozymandias",
         "Tawara T\u014dta",
         "Xuanzang Sanzang"
+      ]
+    ]
+  },
+  {
+    "name": "GUDAGUDA Honnouji Event (US)",
+    "date": "2017-11-06+00:00",
+    "rateups": [
+      [
+        "C\u00fa Chulainn",
+        "EMIYA",
+        "Medusa",
+        "Mephistopheles",
+        "Okita S\u014dji"
       ]
     ]
   },
@@ -1559,6 +1598,19 @@
         "\"The Old Man of the Mountain\"",
         "Hassan of the Hundred Faces",
         "Hassan of the Serenity"
+      ]
+    ]
+  },
+  {
+    "name": "Christmas 2017 Event (US)",
+    "date": "2017-11-29+00:00",
+    "rateups": [
+      [
+        "Jack the Ripper",
+        "Jing Ke",
+        "Marie Antoinette",
+        "Nursery Rhyme",
+        "Robin Hood"
       ]
     ]
   },
@@ -1718,6 +1770,17 @@
         "Sakata Kintoki",
         "Shuten D\u014dji",
         "Tomoe Gozen"
+      ]
+    ]
+  },
+  {
+    "name": "2M Downloads Campaign (US)",
+    "date": "2018-01-16+00:00",
+    "rateups": [
+      [
+        "Beowulf",
+        "Brynhildr",
+        "Fionn mac Cumhaill"
       ]
     ]
   },
@@ -2637,7 +2700,10 @@
     "date": "2018-08-17+00:00",
     "rateups": [
       [
+        "Helena Blavatsky",
         "Illyasviel von Einzbern",
+        "Medea (Lily)",
+        "Nursery Rhyme",
         "Queen Medb"
       ]
     ]
@@ -3044,6 +3110,17 @@
     ]
   },
   {
+    "name": "Babylonia Chapter Release (US)",
+    "date": "2018-12-01+00:00",
+    "rateups": [
+      [
+        "Enkidu",
+        "Gilgamesh (Caster)",
+        "Medusa (Lancer)"
+      ]
+    ]
+  },
+  {
     "name": "S I N Summoning Campaign 2",
     "date": "2018-12-04+00:00",
     "rateups": [
@@ -3072,7 +3149,17 @@
     "rateups": [
       [
         "Gorgon",
+        "Jaguar Man",
         "Quetzalcoatl"
+      ]
+    ]
+  },
+  {
+    "name": "Solomon Chapter Release (US)",
+    "date": "2018-12-13+00:00",
+    "rateups": [
+      [
+        "Merlin"
       ]
     ]
   },
@@ -4096,7 +4183,6 @@
       ],
       [
         "Artoria Pendragon (Archer)",
-        "Marie Antoinette",
         "Marie Antoinette (Caster)",
         "Martha (Ruler)"
       ]
@@ -4562,6 +4648,22 @@
         "Ishtar",
         "Medusa (Lancer)",
         "Ushiwakamaru"
+      ]
+    ]
+  },
+  {
+    "name": "Fate/Stay Night Heaven's Feel II Blu-ray Release Commemorative Campaign (US)",
+    "date": "2019-09-30+00:00",
+    "rateups": [
+      [
+        "Artoria Pendragon",
+        "Artoria Pendragon (Alter)",
+        "C\u00fa Chulainn",
+        "EMIYA",
+        "Heracles",
+        "Medea",
+        "Medusa",
+        "Parvati"
       ]
     ]
   },
@@ -5290,21 +5392,6 @@
         "Semiramis",
         "Siegfried",
         "Vlad III"
-      ],
-      [
-        "Astolfo",
-        "Frankenstein",
-        "Jack the Ripper",
-        "Jeanne d'Arc",
-        "Siegfried",
-        "Vlad III"
-      ],
-      [
-        "Amakusa Shir\u014d",
-        "Atalanta",
-        "Karna",
-        "Mordred",
-        "Semiramis"
       ]
     ]
   },
@@ -5374,6 +5461,24 @@
         "Nursery Rhyme",
         "Osakabehime",
         "Thomas Edison"
+      ]
+    ]
+  },
+  {
+    "name": "Murder at the Kogetsukan (US)",
+    "date": "2020-05-18+00:00",
+    "rateups": [
+      [
+        "Bedivere",
+        "Euryale",
+        "Fionn mac Cumhaill",
+        "Jaguar Man",
+        "Lancelot (Saber)",
+        "Marie Antoinette",
+        "Mephistopheles",
+        "Sherlock Holmes",
+        "Stheno",
+        "Yan Qing"
       ]
     ]
   },
@@ -5886,6 +5991,18 @@
         "Medusa (Lancer)",
         "Paracelsus von Hohenheim",
         "Ushiwakamaru"
+      ]
+    ]
+  },
+  {
+    "name": "Fate/Stay Night Heaven's Feel III Theatrical Release Commemorative Campaign (US)",
+    "date": "2020-11-10+00:00",
+    "rateups": [
+      [
+        "Artoria Pendragon",
+        "Artoria Pendragon (Alter)",
+        "Heracles",
+        "Medusa"
       ]
     ]
   },
@@ -6691,6 +6808,17 @@
     ]
   },
   {
+    "name": "A Meihousou Most Foul (US)",
+    "date": "2021-05-11+00:00",
+    "rateups": [
+      [
+        "Antonio Salieri",
+        "Jeanne d'Arc (Alter)",
+        "Tristan"
+      ]
+    ]
+  },
+  {
     "name": "Holy Grail Front ~My Super Camelot 2021~",
     "date": "2021-05-12+00:00",
     "rateups": [
@@ -6754,6 +6882,10 @@
         "Jinako Carigiri",
         "Lakshmibai",
         "William Tell"
+      ],
+      [
+        "Arjuna",
+        "Rama"
       ]
     ]
   },
@@ -6881,15 +7013,6 @@
         "Xiang Yu",
         "Yagy\u016b Munenori",
         "Yan Qing"
-      ],
-      [
-        "Bartholomew Roberts",
-        "Charlotte Corday",
-        "Chen Gong",
-        "Gareth",
-        "Jason",
-        "Paris",
-        "Salome"
       ]
     ]
   },
@@ -6921,6 +7044,27 @@
         "BB (Summer)",
         "Mysterious Heroine XX",
         "Queen Medb (Saber)"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Summer 2021 Event (US)",
+    "date": "2021-07-27+00:00",
+    "rateups": [
+      [
+        "Carmilla (Rider)",
+        "Miyamoto Musashi (Berserker)",
+        "Osakabehime (Archer)"
+      ],
+      [
+        "F\u016bma Kotar\u014d",
+        "Merlin",
+        "Siegfried"
+      ],
+      [
+        "Artoria Pendragon (Ruler)",
+        "Mysterious Alter Ego \u039b",
+        "Okita J S\u014dji"
       ]
     ]
   },
@@ -6991,6 +7135,66 @@
     "name": "Class Based Summoning Campaign August 2021 (US)",
     "date": "2021-08-23+00:00",
     "rateups": [
+      [
+        "Altera",
+        "Arjuna",
+        "Artoria Pendragon",
+        "Artoria Pendragon (Alter)",
+        "Artoria Pendragon (Lancer Alter)",
+        "Artoria Pendragon (Lancer)",
+        "Atalanta",
+        "A\u015bvatth\u0101man",
+        "Bedivere",
+        "Billy the Kid",
+        "Bradamante",
+        "Chevalier d'Eon",
+        "Chiron",
+        "C\u00fa Chulainn",
+        "C\u00fa Chulainn (Prototype)",
+        "David",
+        "Diarmuid Ua Duibhne",
+        "Diarmuid Ua Duibhne (Saber)",
+        "EMIYA",
+        "EMIYA (Alter)",
+        "Elizabeth B\u00e1thory",
+        "Enkidu",
+        "Euryale",
+        "Fergus mac R\u00f3ich",
+        "Fionn mac Cumhaill",
+        "Gaius Julius Caesar",
+        "Gawain",
+        "Gilles de Rais (Saber)",
+        "Hector",
+        "H\u014dz\u014din Inshun",
+        "Jaguar Man",
+        "Karna",
+        "Kid Gil",
+        "Lakshmibai",
+        "Lancelot (Saber)",
+        "Lanling Wang",
+        "Li Shuwen (Lancer)",
+        "Medusa (Lancer)",
+        "Mordred",
+        "Napol\u00e9on",
+        "Nero Claudius",
+        "Nezha",
+        "Nikola Tesla",
+        "Orion",
+        "Parvati",
+        "Qin Liangyu",
+        "Rama",
+        "Robin Hood",
+        "Romulus",
+        "Siegfried",
+        "Suzuka Gozen",
+        "Tawara T\u014dta",
+        "Tomoe Gozen",
+        "Tristan",
+        "Valkyrie",
+        "Vlad III (EXTRA)",
+        "William Tell",
+        "Yagy\u016b Munenori"
+      ],
       [
         "Achilles",
         "Alexander",
@@ -7146,14 +7350,32 @@
     "date": "2021-09-14+00:00",
     "rateups": [
       [
-        "Artoria Pendragon (Lancer)",
         "Bedivere",
         "Gawain",
         "Lancelot (Saber)",
         "Leonardo Da Vinci",
-        "Mordred",
         "Ozymandias",
         "Tristan"
+      ],
+      [
+        "Artoria Pendragon (Lancer)",
+        "Bedivere",
+        "Gawain",
+        "Lancelot (Saber)",
+        "Mordred",
+        "Tristan"
+      ]
+    ]
+  },
+  {
+    "name": "Halloween 2020 Event Revival (US)",
+    "date": "2021-09-22+00:00",
+    "rateups": [
+      [
+        "Ibaraki D\u014dji",
+        "Ibaraki D\u014dji (Lancer)",
+        "Shuten D\u014dji",
+        "Sitonai"
       ]
     ]
   },
@@ -7234,6 +7456,23 @@
     ]
   },
   {
+    "name": "Saber Wars II (US)",
+    "date": "2021-10-15+00:00",
+    "rateups": [
+      [
+        "Calamity Jane",
+        "Space Ishtar"
+      ],
+      [
+        "Mysterious Heroine X (Alter)",
+        "Yagy\u016b Munenori"
+      ],
+      [
+        "Mysterious Heroine X"
+      ]
+    ]
+  },
+  {
     "name": "Fate/Apocrypha Blu-ray Disc Box&OST Release Commemorative Campaign",
     "date": "2021-10-27+00:00",
     "rateups": [
@@ -7256,6 +7495,15 @@
     ]
   },
   {
+    "name": "15M Downloads Campaign (US)",
+    "date": "2021-11-01+00:00",
+    "rateups": [
+      [
+        "Sc\u00e1thach-Ska\u00f0i"
+      ]
+    ]
+  },
+  {
     "name": "GUDAGUDA Yamatai-koku 2020 Rerun",
     "date": "2021-11-01+00:00",
     "rateups": [
@@ -7267,6 +7515,19 @@
       ],
       [
         "Oda Nobukatsu"
+      ]
+    ]
+  },
+  {
+    "name": "Early Winter Campaign 2021 (US)",
+    "date": "2021-11-08+00:00",
+    "rateups": [
+      [
+        "Arthur Pendragon (Prototype)",
+        "Hassan of the Serenity",
+        "Henry Jekyll & Hyde",
+        "Ozymandias",
+        "Paracelsus von Hohenheim"
       ]
     ]
   },
@@ -7383,6 +7644,21 @@
     ]
   },
   {
+    "name": "Christmas 2021 Event (US)",
+    "date": "2021-12-13+00:00",
+    "rateups": [
+      [
+        "Astolfo (Saber)",
+        "A\u015bvatth\u0101man",
+        "Boudica",
+        "Darius III",
+        "Gaius Julius Caesar",
+        "Nightingale",
+        "Nursery Rhyme"
+      ]
+    ]
+  },
+  {
     "name": "Main Quest Clear Aid Campaign Part 4",
     "date": "2021-12-17+00:00",
     "rateups": [
@@ -7405,6 +7681,22 @@
         "Sessh\u014din Kiara",
         "Shi Huang Di",
         "Yang Guifei"
+      ]
+    ]
+  },
+  {
+    "name": "New Year 2021 Event Revival (US)",
+    "date": "2021-12-28+00:00",
+    "rateups": [
+      [
+        "Beni-Enma",
+        "Diarmuid Ua Duibhne (Saber)",
+        "Tamamo no Mae"
+      ],
+      [
+        "Kiyohime",
+        "Li Shuwen",
+        "Tomoe Gozen"
       ]
     ]
   },
@@ -7461,6 +7753,17 @@
     ]
   },
   {
+    "name": "Amazones.com ~CEO Crisis 2022~ (US)",
+    "date": "2022-01-17+00:00",
+    "rateups": [
+      [
+        "Cleopatra",
+        "Osakabehime",
+        "Penthesilea"
+      ]
+    ]
+  },
+  {
     "name": "Arjuna & Karna Summoning Campaign",
     "date": "2022-01-19+00:00",
     "rateups": [
@@ -7478,6 +7781,37 @@
         "Asclepius",
         "Bradamante",
         "Xiang Yu"
+      ]
+    ]
+  },
+  {
+    "name": "Valentine 2022 Event (US)",
+    "date": "2022-01-31+00:00",
+    "rateups": [
+      [
+        "Altera",
+        "Anastasia",
+        "Artoria Pendragon",
+        "Artoria Pendragon (Lancer)",
+        "Bradamante",
+        "Europa",
+        "Francis Drake",
+        "Jack the Ripper",
+        "Jeanne d'Arc",
+        "Jinako Carigiri",
+        "Marie Antoinette",
+        "Mordred",
+        "Nightingale",
+        "Orion",
+        "Osakabehime",
+        "Queen Medb",
+        "Queen of Sheba",
+        "Quetzalcoatl",
+        "Scheherazade",
+        "Sei Sh\u014dnagon",
+        "Sitonai",
+        "Tamamo no Mae",
+        "Xuanzang Sanzang"
       ]
     ]
   },
@@ -7521,11 +7855,31 @@
     ]
   },
   {
+    "name": "16M Downloads Campaign (US)",
+    "date": "2022-02-14+00:00",
+    "rateups": [
+      [
+        "Ereshkigal",
+        "Fionn mac Cumhaill"
+      ]
+    ]
+  },
+  {
     "name": "Valentine 2021 Summoning Campaign Rerun",
     "date": "2022-02-16+00:00",
     "rateups": [
       [
         "Amor (Caren)"
+      ]
+    ]
+  },
+  {
+    "name": "Presidents Day Celebration Campaign 2022 (US)",
+    "date": "2022-02-18+00:00",
+    "rateups": [
+      [
+        "Nikola Tesla",
+        "Thomas Edison"
       ]
     ]
   },
@@ -7538,6 +7892,28 @@
         "Meltryllis",
         "Passionlip",
         "Suzuka Gozen"
+      ]
+    ]
+  },
+  {
+    "name": "Chaldea Boys Collection 2022 (US)",
+    "date": "2022-02-25+00:00",
+    "rateups": [
+      [
+        "Achilles",
+        "Arjuna",
+        "Circe",
+        "C\u00fa Chulainn (Alter)",
+        "Enkidu",
+        "Karna",
+        "Li Shuwen",
+        "Napol\u00e9on",
+        "Nikola Tesla",
+        "Odysseus",
+        "Ozymandias",
+        "Vlad III",
+        "Xiang Yu",
+        "Zhuge Liang (Lord El-Melloi II)"
       ]
     ]
   },
@@ -7569,6 +7945,38 @@
         "Vlad III",
         "Xiang Yu",
         "Zhuge Liang (Lord El-Melloi II)"
+      ]
+    ]
+  },
+  {
+    "name": "Chaldea Boys Collection 2018 - 2021 CE Summoning Campaign (US)",
+    "date": "2022-03-05+00:00",
+    "rateups": [
+      [
+        "Circe",
+        "Odysseus"
+      ]
+    ]
+  },
+  {
+    "name": "Fate/Apocrypha Collaboration Event Revival (US)",
+    "date": "2022-03-08+00:00",
+    "rateups": [
+      [
+        "Achilles",
+        "Amakusa Shir\u014d",
+        "Astolfo",
+        "Astolfo (Saber)",
+        "Atalanta",
+        "Atalanta (Alter)",
+        "Avicebron",
+        "Chiron",
+        "Frankenstein",
+        "Jack the Ripper",
+        "Mordred",
+        "Semiramis",
+        "Siegfried",
+        "Vlad III"
       ]
     ]
   },
@@ -7704,6 +8112,10 @@
         "Nursery Rhyme",
         "Osakabehime",
         "Thomas Edison"
+      ],
+      [
+        "Kijyo K\u014dy\u014d",
+        "Voyager"
       ]
     ]
   },
@@ -7757,6 +8169,27 @@
         "Sherlock Holmes",
         "Sima Yi (Reines)",
         "William Tell"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Summer 2021 Event Revival (US)",
+    "date": "2022-05-21+00:00",
+    "rateups": [
+      [
+        "Carmilla (Rider)",
+        "Miyamoto Musashi (Berserker)",
+        "Osakabehime (Archer)"
+      ],
+      [
+        "F\u016bma Kotar\u014d",
+        "Merlin",
+        "Siegfried"
+      ],
+      [
+        "Artoria Pendragon (Ruler)",
+        "Mysterious Alter Ego \u039b",
+        "Okita J S\u014dji"
       ]
     ]
   },
@@ -7935,6 +8368,37 @@
         "Valkyrie",
         "William Tell",
         "Xiang Yu"
+      ],
+      [
+        "Artoria Caster",
+        "Leonardo Da Vinci (Rider)"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Summer 2022 Event (US)",
+    "date": "2022-07-11+00:00",
+    "rateups": [
+      [
+        "Brynhildr (Berserker)",
+        "Illyasviel von Einzbern (Archer)",
+        "Sessh\u014din Kiara (Moon Cancer)"
+      ],
+      [
+        "EMIYA",
+        "Lanling Wang",
+        "Sigurd"
+      ],
+      [
+        "Abigail Williams (Summer)",
+        "Murasaki Shikibu (Rider)",
+        "Tomoe Gozen (Saber)"
+      ],
+      [
+        "Asagami Fujino",
+        "Edmond Dant\u00e8s",
+        "Jeanne d'Arc (Archer)",
+        "Kiyohime (Lancer)"
       ]
     ]
   },
@@ -8030,6 +8494,15 @@
     ]
   },
   {
+    "name": "Melty Blood: Type Lumina Evo 2022 Celebration Campaign (US)",
+    "date": "2022-08-03+00:00",
+    "rateups": [
+      [
+        "Artoria Pendragon"
+      ]
+    ]
+  },
+  {
     "name": "18M Downloads Campaign (US)",
     "date": "2022-08-08+00:00",
     "rateups": [
@@ -8099,6 +8572,17 @@
     ]
   },
   {
+    "name": "Back to School Campaign 2022 (US)",
+    "date": "2022-08-29+00:00",
+    "rateups": [
+      [
+        "Illyasviel von Einzbern",
+        "Miyu Edelfelt",
+        "Mysterious Heroine X (Alter)"
+      ]
+    ]
+  },
+  {
     "name": "26M Downloads Campaign",
     "date": "2022-08-31+00:00",
     "rateups": [
@@ -8152,6 +8636,19 @@
     ]
   },
   {
+    "name": "GUDAGUDA Yamataikoku 2022 (US)",
+    "date": "2022-09-12+00:00",
+    "rateups": [
+      [
+        "Himiko",
+        "Sait\u014d Hajime"
+      ],
+      [
+        "Oda Nobukatsu"
+      ]
+    ]
+  },
+  {
     "name": "FGO THE STAGE Solomon Release Campaign (US)",
     "date": "2022-09-21+00:00",
     "rateups": [
@@ -8201,6 +8698,22 @@
         "Dioscuri",
         "Europa",
         "Romulus-Quirinus"
+      ]
+    ]
+  },
+  {
+    "name": "Christmas 2021 Event Revival (US)",
+    "date": "2022-10-04+00:00",
+    "rateups": [
+      [
+        "Astolfo",
+        "Astolfo (Saber)",
+        "A\u015bvatth\u0101man",
+        "Bradamante",
+        "Darius III",
+        "Gaius Julius Caesar",
+        "Nightingale",
+        "Nursery Rhyme"
       ]
     ]
   },
@@ -8283,6 +8796,15 @@
         "Minamoto no Raik\u014d (Lancer)",
         "Mysterious Heroine XX",
         "Yang Guifei"
+      ],
+      [
+        "Nemo",
+        "Van Gogh"
+      ],
+      [
+        "Abigail Williams",
+        "Mysterious Alter Ego \u039b",
+        "Osakabehime (Archer)"
       ]
     ]
   },
@@ -8376,6 +8898,12 @@
       [
         "Ashiya D\u014dman",
         "Watanabe no Tsuna"
+      ],
+      [
+        "Ibaraki D\u014dji",
+        "Kat\u014d Danz\u014d",
+        "Minamoto no Raik\u014d",
+        "Sakata Kintoki"
       ]
     ]
   },
@@ -8463,6 +8991,22 @@
     ]
   },
   {
+    "name": "Christmas 2022 Event (US)",
+    "date": "2022-12-09+00:00",
+    "rateups": [
+      [
+        "Beowulf",
+        "Martha (Ruler)",
+        "Vritra"
+      ],
+      [
+        "Arjuna",
+        "Karna",
+        "Parvati"
+      ]
+    ]
+  },
+  {
     "name": "MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dant\u00e8s Game Entry Commemorative Campaign",
     "date": "2022-12-11+00:00",
     "rateups": [
@@ -8498,6 +9042,16 @@
       [
         "James Moriarty (Ruler)",
         "Mysterious Alter Ego \u039b"
+      ]
+    ]
+  },
+  {
+    "name": "New Year 2023 Countdown Campaign (US)",
+    "date": "2022-12-26+00:00",
+    "rateups": [
+      [
+        "Iskandar",
+        "Katsushika Hokusai"
       ]
     ]
   },
@@ -8556,6 +9110,20 @@
     ]
   },
   {
+    "name": "Saber Wars II Revival (US)",
+    "date": "2023-01-04+00:00",
+    "rateups": [
+      [
+        "Calamity Jane",
+        "Space Ishtar"
+      ],
+      [
+        "Mysterious Heroine X",
+        "Yagy\u016b Munenori"
+      ]
+    ]
+  },
+  {
     "name": "Nahui Mictlan Lostbelt Part II Pre-Release Campaign",
     "date": "2023-01-11+00:00",
     "rateups": [
@@ -8565,6 +9133,33 @@
       ],
       [
         "Nitocris (Alter)"
+      ]
+    ]
+  },
+  {
+    "name": "Little Big Tengu (US)",
+    "date": "2023-01-18+00:00",
+    "rateups": [
+      [
+        "C\u00fa Chulainn (Alter)",
+        "Queen Medb",
+        "Taira no Kagekiyo",
+        "Ushiwakamaru"
+      ]
+    ]
+  },
+  {
+    "name": "Grail Front Event ~Et Tu, Brute?~ (US)",
+    "date": "2023-02-03+00:00",
+    "rateups": [
+      [
+        "Altera",
+        "Astraea",
+        "Boudica",
+        "Gaius Julius Caesar",
+        "Nero Claudius",
+        "Romulus",
+        "Romulus-Quirinus"
       ]
     ]
   },
@@ -8611,6 +9206,37 @@
     ]
   },
   {
+    "name": "Valentine 2023 Event (US)",
+    "date": "2023-02-09+00:00",
+    "rateups": [
+      [
+        "Altera",
+        "Amor (Caren)",
+        "Anastasia",
+        "Artoria Pendragon",
+        "Artoria Pendragon (Lancer)",
+        "Bradamante",
+        "Dioscuri",
+        "Europa",
+        "Francis Drake",
+        "Jack the Ripper",
+        "Jeanne d'Arc",
+        "Jinako Carigiri",
+        "Mordred",
+        "Nightingale",
+        "Orion",
+        "Osakabehime",
+        "Queen Medb",
+        "Quetzalcoatl",
+        "Scheherazade",
+        "Sitonai",
+        "Tamamo no Mae",
+        "Vritra",
+        "Xuanzang Sanzang"
+      ]
+    ]
+  },
+  {
     "name": "27M Downloads Campaign",
     "date": "2023-02-13+00:00",
     "rateups": [
@@ -8642,16 +9268,13 @@
     "date": "2023-03-01+00:00",
     "rateups": [
       [
-        "Amakusa Shir\u014d",
-        "Jing Ke",
-        "Watanabe no Tsuna"
-      ],
-      [
         "Achilles",
+        "Amakusa Shir\u014d",
         "Arjuna",
         "C\u00fa Chulainn (Alter)",
         "Dioscuri",
         "Enkidu",
+        "Jing Ke",
         "Karna",
         "Li Shuwen",
         "Napol\u00e9on",
@@ -8659,6 +9282,7 @@
         "Nikola Tesla",
         "Ozymandias",
         "Vlad III",
+        "Watanabe no Tsuna",
         "Xiang Yu",
         "Zhuge Liang (Lord El-Melloi II)"
       ]
@@ -8864,6 +9488,15 @@
         "Xuanzang Sanzang",
         "Yan Qing",
         "Zhuge Liang (Lord El-Melloi II)"
+      ],
+      [
+        "Antonio Salieri",
+        "Astraea",
+        "Gorgon",
+        "Hessian Lobo",
+        "Jeanne d'Arc",
+        "Jinako Carigiri",
+        "Sitonai"
       ]
     ]
   },
@@ -8879,6 +9512,22 @@
     ]
   },
   {
+    "name": "Arc 1 & Arc 1.5 Memorial Summoning Campaign (US)",
+    "date": "2023-03-22+00:00",
+    "rateups": [
+      [
+        "Artoria Pendragon (Alter)",
+        "Gorgon",
+        "Leonardo Da Vinci"
+      ],
+      [
+        "EMIYA (Alter)",
+        "Miyamoto Musashi",
+        "Queen of Sheba"
+      ]
+    ]
+  },
+  {
     "name": "Spring New Master Aid Campaign 2023",
     "date": "2023-03-27+00:00",
     "rateups": [
@@ -8889,6 +9538,18 @@
         "Gilgamesh",
         "Heracles",
         "Merlin"
+      ]
+    ]
+  },
+  {
+    "name": "Spring Break Summoning Campaign (US)",
+    "date": "2023-03-29+00:00",
+    "rateups": [
+      [
+        "H\u014dz\u014din Inshun",
+        "Katsushika Hokusai",
+        "Mochizuki Chiyome",
+        "Tamamo no Mae"
       ]
     ]
   },
@@ -8911,6 +9572,45 @@
         "Martha (Ruler)",
         "Minamoto no Raik\u014d",
         "Mochizuki Chiyome"
+      ]
+    ]
+  },
+  {
+    "name": "Servant Rank Up Quests Part XIII (US)",
+    "date": "2023-04-04+00:00",
+    "rateups": [
+      [
+        "Artoria Pendragon (Lancer Alter)",
+        "James Moriarty",
+        "Quetzalcoatl",
+        "Rama",
+        "Vlad III",
+        "Yan Qing"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Waltz in the Moonlight Collaboration Event (US)",
+    "date": "2023-04-10+00:00",
+    "rateups": [
+      [
+        "Euryale",
+        "Helena Blavatsky",
+        "Jeanne d'Arc",
+        "Shuten D\u014dji"
+      ],
+      [
+        "Hassan of the Serenity",
+        "Miss Crane",
+        "Mysterious Heroine X (Alter)",
+        "Nitocris"
+      ],
+      [
+        "Altera",
+        "Nero Claudius",
+        "Queen Medb",
+        "Tamamo Cat",
+        "Ushiwakamaru"
       ]
     ]
   },
@@ -8951,6 +9651,30 @@
     ]
   },
   {
+    "name": "My Super Camelot 2023 Pre-Release Campaign (US)",
+    "date": "2023-04-28+00:00",
+    "rateups": [
+      [
+        "Bedivere",
+        "Ozymandias",
+        "Xuanzang Sanzang"
+      ]
+    ]
+  },
+  {
+    "name": "Grail Front Event ~My Super Camelot 2023~ (US)",
+    "date": "2023-05-02+00:00",
+    "rateups": [
+      [
+        "Artoria Pendragon (Lancer)",
+        "Gawain",
+        "Lancelot (Saber)",
+        "Mordred",
+        "Tristan"
+      ]
+    ]
+  },
+  {
     "name": "Evocation Festival Part 2",
     "date": "2023-05-10+00:00",
     "rateups": [
@@ -8961,6 +9685,28 @@
         "Oda Nobunaga (Berserker)",
         "Okita S\u014dji",
         "Vlad III"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Summer 2022 Event Revival (US)",
+    "date": "2023-05-15+00:00",
+    "rateups": [
+      [
+        "Brynhildr (Berserker)",
+        "Illyasviel von Einzbern (Archer)",
+        "Sessh\u014din Kiara (Moon Cancer)"
+      ],
+      [
+        "EMIYA",
+        "Lanling Wang",
+        "Sigurd"
+      ],
+      [
+        "Abigail Williams (Summer)",
+        "Asagami Fujino",
+        "Murasaki Shikibu (Rider)",
+        "Tomoe Gozen (Saber)"
       ]
     ]
   },
@@ -9000,6 +9746,18 @@
     ]
   },
   {
+    "name": "Arc 2 Chapter 5 Memorial Summoning Campaign (US)",
+    "date": "2023-05-26+00:00",
+    "rateups": [
+      [
+        "Chiron",
+        "Ibuki D\u014dji",
+        "Kat\u014d Danz\u014d",
+        "Super Orion"
+      ]
+    ]
+  },
+  {
     "name": "Nero Fest & Battle in NY 2022 Summoning Campaign",
     "date": "2023-05-31+00:00",
     "rateups": [
@@ -9012,6 +9770,21 @@
     ]
   },
   {
+    "name": "Avalon le Fae Part 1 Chapter Release (US)",
+    "date": "2023-06-06+00:00",
+    "rateups": [
+      [
+        "Baobhan Sith",
+        "Barghest",
+        "C\u00fa Chulainn (Caster)",
+        "Morgan"
+      ],
+      [
+        "Leonardo Da Vinci (Rider)"
+      ]
+    ]
+  },
+  {
     "name": "Paper Moon Pre-Release Campaign",
     "date": "2023-06-07+00:00",
     "rateups": [
@@ -9019,6 +9792,37 @@
         "Kukulkan",
         "Nitocris (Alter)",
         "Tenochtitlan"
+      ]
+    ]
+  },
+  {
+    "name": "Avalon le Fae Part 1 Summoning Campaign 2 (US)",
+    "date": "2023-06-13+00:00",
+    "rateups": [
+      [
+        "Artoria Caster"
+      ]
+    ]
+  },
+  {
+    "name": "Interlude Campaign 16 (US)",
+    "date": "2023-06-14+00:00",
+    "rateups": [
+      [
+        "Anastasia",
+        "Antonio Salieri",
+        "Caenis",
+        "Mandricardo"
+      ]
+    ]
+  },
+  {
+    "name": "Avalon le Fae Part 2 Chapter Release (US)",
+    "date": "2023-06-18+00:00",
+    "rateups": [
+      [
+        "M\u00e9lusine",
+        "Percival"
       ]
     ]
   },
@@ -9065,6 +9869,21 @@
     ]
   },
   {
+    "name": "FGO Festival 2023 ~6th Anniversary~ (US)",
+    "date": "2023-06-27+00:00",
+    "rateups": [
+      [
+        "Sherlock Holmes"
+      ],
+      [
+        "Caenis",
+        "Koyanskaya of Light",
+        "Qin Liangyu",
+        "Valkyrie"
+      ]
+    ]
+  },
+  {
     "name": "28M Downloads Campaign",
     "date": "2023-06-28+00:00",
     "rateups": [
@@ -9089,6 +9908,33 @@
       [
         "Enkidu",
         "Gilgamesh"
+      ]
+    ]
+  },
+  {
+    "name": "FGO 6th Anniversary Daily Summoning Campaign (US)",
+    "date": "2023-07-03+00:00",
+    "rateups": [
+      [
+        "Anastasia",
+        "Antonio Salieri",
+        "Asclepius",
+        "Atalanta (Alter)",
+        "Avicebron",
+        "A\u015bvatth\u0101man",
+        "Consort Yu",
+        "Dioscuri",
+        "Europa",
+        "Jinako Carigiri",
+        "Lakshmibai",
+        "Lanling Wang",
+        "Li Shuwen",
+        "Mandricardo",
+        "Napol\u00e9on",
+        "Red Hare",
+        "Sitonai",
+        "William Tell",
+        "Xiang Yu"
       ]
     ]
   },
@@ -9135,12 +9981,61 @@
     ]
   },
   {
+    "name": "Avalon le Fae Conclusion Campaign (US)",
+    "date": "2023-07-10+00:00",
+    "rateups": [
+      [
+        "Baobhan Sith",
+        "Barghest",
+        "Gawain",
+        "Oberon",
+        "Tristan"
+      ],
+      [
+        "Baobhan Sith",
+        "Barghest",
+        "Morgan"
+      ],
+      [
+        "Amor (Caren)",
+        "Gawain",
+        "Merlin",
+        "Queen Medb",
+        "Tristan"
+      ]
+    ]
+  },
+  {
     "name": "Fate/Grand Order Fes. 2023 \uff5e8th Anniversary\uff5e Pre-Release Campaign",
     "date": "2023-07-21+00:00",
     "rateups": [
       [
         "James Moriarty",
         "Leonardo Da Vinci (Rider)"
+      ]
+    ]
+  },
+  {
+    "name": "Grand Nero Festival 2023 (US)",
+    "date": "2023-07-28+00:00",
+    "rateups": [
+      [
+        "Astraea",
+        "Boudica",
+        "Brynhildr",
+        "Gaius Julius Caesar",
+        "Nero Claudius (Caster)",
+        "Romulus"
+      ],
+      [
+        "Beowulf",
+        "Charles Babbage",
+        "Gilgamesh (Caster)",
+        "Hector",
+        "Jeanne d'Arc (Alter)",
+        "Marie Antoinette",
+        "Minamoto no Raik\u014d",
+        "Nursery Rhyme"
       ]
     ]
   },
@@ -9166,6 +10061,16 @@
         "Trung Sisters",
         "Ushiwakamaru (Assassin)",
         "Van Gogh"
+      ]
+    ]
+  },
+  {
+    "name": "Melty Blood: Type Lumina Evo 2023 Celebration Campaign (US)",
+    "date": "2023-08-02+00:00",
+    "rateups": [
+      [
+        "Artoria Pendragon",
+        "Ushiwakamaru"
       ]
     ]
   },
@@ -9212,6 +10117,71 @@
         "Sc\u00e1thach-Ska\u00f0i (Ruler)",
         "Utsumi Erice (Avenger)",
         "Wu Zetian (Caster)"
+      ]
+    ]
+  },
+  {
+    "name": "Back to School Campaign 2023 (US)",
+    "date": "2023-08-14+00:00",
+    "rateups": [
+      [
+        "Illyasviel von Einzbern",
+        "Illyasviel von Einzbern (Archer)",
+        "Miyu Edelfelt"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Summer 2023 Event (US)",
+    "date": "2023-08-21+00:00",
+    "rateups": [
+      [
+        "Anne Bonny & Mary Read (Archer)",
+        "Calamity Jane",
+        "Francis Drake",
+        "Nemo"
+      ],
+      [
+        "Anastasia & Viy",
+        "Charlotte Corday (Caster)",
+        "Okita S\u014dji (Saber Alter)"
+      ],
+      [
+        "Achilles",
+        "Mandricardo"
+      ],
+      [
+        "Caenis (Rider)",
+        "Kama (Avenger)",
+        "Sei Sh\u014dnagon (Berserker)"
+      ],
+      [
+        "Ashiya D\u014dman",
+        "Christopher Columbus"
+      ]
+    ]
+  },
+  {
+    "name": "Revival Summer Servants Summoning Campaign (US)",
+    "date": "2023-08-23+00:00",
+    "rateups": [
+      [
+        "Artoria Pendragon (Archer)",
+        "Artoria Pendragon (Rider Alter)",
+        "Artoria Pendragon (Ruler)",
+        "BB (Summer)",
+        "Carmilla (Rider)",
+        "Helena Blavatsky (Archer)",
+        "Kiyohime (Lancer)",
+        "Marie Antoinette (Caster)",
+        "Martha (Ruler)",
+        "Minamoto no Raik\u014d (Lancer)",
+        "Miyamoto Musashi (Berserker)",
+        "Mysterious Alter Ego \u039b",
+        "Mysterious Heroine XX",
+        "Osakabehime (Archer)",
+        "Queen Medb (Saber)",
+        "Tamamo no Mae (Lancer)"
       ]
     ]
   },
@@ -9285,6 +10255,52 @@
         "Beni-Enma",
         "Ibuki D\u014dji",
         "Minamoto no Tametomo"
+      ]
+    ]
+  },
+  {
+    "name": "Interlude Campaign 17 (US)",
+    "date": "2023-09-19+00:00",
+    "rateups": [
+      [
+        "Okita S\u014dji (Alter)",
+        "Van Gogh"
+      ]
+    ]
+  },
+  {
+    "name": "Fate/Samurai Remnant Release Campaign (US)",
+    "date": "2023-09-21+00:00",
+    "rateups": [
+      [
+        "Arjuna",
+        "Circe",
+        "C\u00fa Chulainn",
+        "Li Shuwen",
+        "Miyamoto Musashi"
+      ]
+    ]
+  },
+  {
+    "name": "Halloween Trilogy Event (US)",
+    "date": "2023-09-27+00:00",
+    "rateups": [
+      [
+        "Carmilla",
+        "Cleopatra",
+        "Elizabeth B\u00e1thory",
+        "Gaius Julius Caesar",
+        "Ibaraki D\u014dji",
+        "Kiyohime",
+        "Nitocris",
+        "Osakabehime",
+        "Penthesilea",
+        "Robin Hood",
+        "Tamamo Cat",
+        "Vlad III",
+        "Vlad III (EXTRA)",
+        "Wu Zetian",
+        "Yan Qing"
       ]
     ]
   },
