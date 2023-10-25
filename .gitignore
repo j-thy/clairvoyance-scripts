@@ -2,7 +2,6 @@
 credentials.json
 token.json
 banner_data.json
-servant_data.json
 user-password.py
 pywikibot-*.lwp
 throttle.ctrl
