@@ -5893,5 +5893,20 @@
     "release": "",
     "traits": "Hominidae Servant, Humanoid, King, Loved One, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kensho Ono, Kenyu Horiuchi"
+  },
+  "395": {
+    "aliases": "",
+    "alignment": "Neutral・Balanced",
+    "attribute": "Man",
+    "class_type": "Archer",
+    "gender": "u",
+    "id": 395,
+    "illustrator": "Takenaka Hideo",
+    "jp_name": "杉谷善住坊",
+    "name": "Sugitani Zenjūbō",
+    "rarity": 3,
+    "release": "",
+    "traits": "Feminine Looking, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "voice_actor": "Gotou Yuuko"
   }
 }

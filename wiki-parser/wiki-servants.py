@@ -4,6 +4,9 @@ import jsons
 import json
 import os
 import re
+from tqdm import tqdm
+
+BAR_FORMAT = "{l_bar}{bar:50}{r_bar}{bar:-50b}"
 
 CATEGORY = 'Servant_ID_Order'
 
@@ -72,11 +75,13 @@ def parse(category_name):
     # Load the servants page
     site = pywikibot.Site()
     category = pywikibot.Category(site, category_name)
+    category_length = len(list(category.articles()))
 
     # Iterate through each servant's page.
-    for page in category.articles():
+    for page in (pbar := tqdm(category.articles(), total=category_length, bar_format=BAR_FORMAT)):
         # Get name of servant
         title = page.title()
+        pbar.set_postfix_str(title)
         # Parse servant info
         text = page.text
         wikicode = mwparserfromhell.parse(text)
@@ -90,14 +95,15 @@ def parse(category_name):
                 try:
                     id_val = template.get("id").value.strip()
                 except ValueError:
-                    print(f' - No ID found for {title}')
+                    pbar.clear()
+                    print(f'No ID found for {title}')
                     break
                 # If the ID is valid, export the servant's data
                 if id_val.isdigit():
-                    print(f'{template.get("id").value.strip()}: {title}')
                     servant_dict[int(id_val)] = Servant(title, template)
                 else:
-                    print(f' - No ID found for {title}')
+                    pbar.clear()
+                    print(f'No ID found for {title}')
                 break
 
 parse(CATEGORY)

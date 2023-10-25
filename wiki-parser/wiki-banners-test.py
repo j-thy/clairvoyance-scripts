@@ -8,8 +8,11 @@ import re
 import sys
 import shutil
 import difflib
+from tqdm import tqdm
 
 # TODO: Fix FGO Summer 2018 Event Revival (US)/Summoning Campaign
+
+BAR_FORMAT = "{l_bar}{bar:50}{r_bar}{bar:-50b}"
 
 # Read in TESTING = from command line using sys.
 TESTING = 0
@@ -282,16 +285,11 @@ def correct_name(text):
         return NAME_FIXES[text]
     return text
 
-def parse(page, progress=None):
+def parse(page):
     title = page.title()
 
     if title in FULL_EXCLUDE_PAGES or title in EXCLUDE_PARSE_PAGES:
         return
-
-    if progress:
-        print(f'Parsing {progress}: {title}...')
-    else:
-        print(f'Parsing {title}...')
 
     # Parse servant info
     text = page.text
@@ -419,6 +417,7 @@ def parse_test():
 def parse_category():
     global EVENT_TITLES
 
+    print("Fetching wiki pages...")
     summoning_category = pywikibot.Category(SITE, "Summoning Campaign")
     arcade_category = pywikibot.Category(SITE, "Arcade")
     event_category = pywikibot.Category(SITE, "Event")
@@ -426,8 +425,8 @@ def parse_category():
     arcade_titles = tuple([x.title() for x in arcade_category.articles()])
     summoning_titles = tuple([x.title() for x in summoning_category.articles()])
     summoning_length = len(list(summoning_category.articles()))
-    summoning_max_length = summoning_length + len(INCLUDE_PAGES)
 
+    print("Fetching event and campaign titles...")
     EVENT_TITLES = tuple([x.title() for x in event_category.articles()])
     EVENT_TITLES = tuple([x for x in EVENT_TITLES if x not in arcade_titles and x not in summoning_titles and x not in FULL_EXCLUDE_PAGES and x not in INCLUDE_PAGES and not any([event_page in x for event_page in EVENT_PAGES_REMOVE])])
 
@@ -436,14 +435,19 @@ def parse_category():
 
     EVENT_TITLES = EVENT_TITLES + campaign_titles + EXCLUDE_PARSE_PAGES
 
-    for i, page in enumerate(summoning_category.articles()):
-        if page.title() in arcade_titles:
+    print("Parsing summoning campaigns...")
+    for page in (pbar := tqdm(summoning_category.articles(), total=summoning_length, bar_format=BAR_FORMAT)):
+        title = page.title()
+        pbar.set_postfix_str(title)
+        if title in arcade_titles:
             continue
-        parse(page, f'{i+1}/{summoning_max_length}')
+        parse(page)
     
-    for i, page_name in enumerate(INCLUDE_PAGES):
+    print("Parsing included pages...")
+    for page_name in (pbar := tqdm(INCLUDE_PAGES, bar_format=BAR_FORMAT)):
+        pbar.set_postfix_str(page_name)
         page = pywikibot.Page(SITE, page_name)
-        parse(page, f'{summoning_length+i+1}/{summoning_max_length}')
+        parse(page)
 
 
 def parse_page(page_name):
@@ -505,11 +509,11 @@ def rec_get_ref(original_banner, banner, visited):
         return retval
 
 def cleanup():
-    print("Checking references")
+    print("Merging banners...")
     max_length = len(list(BANNER_DICT))
     # Loop through the BANNER_DICT.
-    for i, banner in enumerate(list(BANNER_DICT)):
-        print(f'Cleaning {i+1}/{max_length}: {banner}...')
+    for banner in (pbar := tqdm(list(BANNER_DICT), bar_format=BAR_FORMAT)):
+        pbar.set_postfix_str(banner)
         ref_exists = rec_get_ref(banner, banner, ())
         # print(ref_exists)
         if ref_exists:
@@ -550,6 +554,7 @@ remove_empty()
 # cleanup_test()
 
 # Sort BANNER_DICT by date.
+print("Sorting by date...")
 banner_list = []
 for banner in BANNER_DICT:
     banner_list.append({
@@ -560,6 +565,7 @@ for banner in BANNER_DICT:
 banner_list.sort(key=lambda x: x['date'])
 
 # Save to JSON file
+print("Saving to JSON file...")
 FILE_OLD = "summon_data_test_old.json" if TESTING == 1 else "summon_data_old.json"
 FILE_NEW = "summon_data_test.json" if TESTING == 1 else "summon_data.json"
 # Copy the preexisting summon_data_test.json file to summon_data_test_old.json
