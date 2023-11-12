@@ -12,13 +12,15 @@ from tqdm import tqdm
 
 # TODO: Fix FGO Summer 2018 Event Revival (US)/Summoning Campaign
 
+# Define format of progress bar.
 BAR_FORMAT = "{l_bar}{bar:50}{r_bar}{bar:-50b}"
 
-# Read in TESTING = from command line using sys.
+# Read in test parameter from command line.
 TESTING = 0
 if len(sys.argv) > 1:
     TESTING = int(sys.argv[1])
 
+# Keywords that indicate the wikitable is a rateup servants wikitable.
 TABLE_MATCHES = (
     "New Servant",
     "Rate-Up Servants",
@@ -35,6 +37,7 @@ TABLE_MATCHES = (
     "Edmond Dantès]] {{LimitedS}}\n|{{Avenger}}\n|-\n|4{{Star}}\n|{{Gilgamesh (Caster)", # Servant Summer Festival! 2018/Event Info
 )
 
+# Keywords that indicate link-style rateups after it.
 LINK_MATCHES = (
     "Draw rates",
     "Summoning Rate",
@@ -61,6 +64,7 @@ LINK_MATCHES = (
     # "NeroFestival2018CampaignUS",
 )
 
+# Keywords before a section of text that should be removed before any parsing is done.
 PRIORITY_REMOVE_MATCHES = (
     "CBC 2022=",
     "{{Napoléon}} {{Valkyrie}} {{Thomas Edison}}", # WinFes 2018/19 Commemoration Summoning Campaign
@@ -68,6 +72,7 @@ PRIORITY_REMOVE_MATCHES = (
     r"==New \[\[Friend Point\]\] Gacha Servants==",
 )
 
+# Keywords before a section of text that should be removed before link-style parsing is done.
 REMOVE_MATCHES = (
     "receive one free",
     "==First Quest==",
@@ -81,6 +86,7 @@ REMOVE_MATCHES = (
     "New Information="
 )
 
+# Pages that should not be parsed nor merged into.
 FULL_EXCLUDE_PAGES = (
     "Jack Campaign",
     "Mysterious Heroine X Pick Up",
@@ -104,16 +110,19 @@ FULL_EXCLUDE_PAGES = (
     "Fate/Apocrypha Event Pre-Release Campaign (US)/Rate Up Schedule",
 )
 
+# Pages that should not be parsed but can be merged into.
 EXCLUDE_PARSE_PAGES = (
     "Valentine 2020/Main Info",
     "Valentine 2020",
     "Traum Chapter Release",
 )
 
+# Pages with wikitables that can generate false positives so table-style parsing should be skipped.
 SKIP_TABLE_PARSE_PAGES = (
     "Prisma Codes Collaboration Event (US)/Summoning Campaign",
 )
 
+# Pages not in the Summoning Campaign category but has rateups that should be parsed.
 INCLUDE_PAGES = (
     "London Chapter Release",
     "Babylonia Chapter Release",
@@ -196,6 +205,7 @@ INCLUDE_PAGES = (
     "Fate/Grand Carnival Recollection Campaign (US)", # 2023
 )
 
+# Pages that should be link-style parsed regardless of keywords being present.
 PRIORITY_PAGES = (
     "Amakusa Shirō Summoning Campaign",
     "Babylonia Summoning Campaign 2",
@@ -206,12 +216,14 @@ PRIORITY_PAGES = (
     "Prisma Codes Collaboration Event (US)/Summoning Campaign",
 )
 
+# Pages with multiple rateups that should be merged into one regardless of whether there are common servants.
 FORCE_MERGE = (
     "Fate/Apocrypha Collaboration Event Revival (US)/Summoning Campaign",
     "Chaldea Boys Collection 2023 (US)",
     "Valentine 2023 Event (US)/Summoning Campaign",
 )
 
+# Specify specific rateups in summoning campaigns that should not be merged into any other rateups.
 NO_MERGE = {
     "GUDAGUDA Close Call 2021/Event Info" : (1,),
     "Nanmei Yumihari Hakkenden/Summoning Campaign" : (1, 2,),
@@ -220,21 +232,25 @@ NO_MERGE = {
     "Avalon le Fae Conclusion Campaign (US)" : (1, 2,),
 }
 
+# Pages that should not be included in the list of events.
 EVENT_PAGES_REMOVE = (
     "Event List",
     "Event Items",
 )
 
+# Servant names that are incorrect on the wiki that should be fixed.
 NAME_FIXES = {
     'Attila' : 'Altera', # FGO Summer Festival 2016 ~1st Anniversary~
     "EMIYA (Alter) NA" : "EMIYA (Alter)",
     "Jaguar Warrior" : "Jaguar Man",
 }
 
+# Rateup servants that are missing from the banner on the wiki that should be fixed.
 RATEUP_FIXES = {
     'S I N Chapter Release' : 'Jing Ke', # S I N Chapter Release
 }
 
+# Wiki pages with errors that prevent parsing that should be fixed.
 PAGE_FIXES = {
     'Class Specific Summoning Campaign (US)' : [r'\|(.*)}}\n\[\[', r'|\1}}\n|}\n[['], # Class Specific Summoning Campaign (US)
     'FGO Summer 2018 Event Revival (US)/Summoning Campaign' : [r'{{Marie Antoinette}}', r'{{Marie Antoinette (Caster)}}'],
@@ -242,25 +258,28 @@ PAGE_FIXES = {
     'Class Based Summoning Campaign March 2023 (US)' : [r'</tabber>', r'|}\n</tabber>'],
 }
 
+# Test pages to parse.
 TEST_PAGES = (
     "Fate/Apocrypha Collaboration Event Revival (US)/Summoning Campaign",
 )
 
+# TODO: Used in fix for later US events not being in Summoning Campaign category.
 NA_EVENT_LISTS = (
     "Event List (US)/2021 Events",
     "Event List (US)/2022 Events",
     "Event List (US)/2023 Events"
 )
 
+# Get the FGO wiki site.
 SITE = pywikibot.Site()
 
+# Import the servant data and get the names of all the servants.
 servant_data = None
-# Import servant_data.json as json.
 with open(os.path.join(os.path.dirname(__file__), 'servant_data.json')) as f:
     servant_data = jsons.loads(f.read())
-
-# The json is a dictionary, where every value is also a dictionary. Make a set out of the name field in the dictionary in the value.
 servant_names = set([servant_data[servant]['name'] for servant in servant_data])
+
+# Initialize the summoning campaign and event dictionaries.
 BANNER_DICT = {}
 EVENT_DICT = {}
 EVENT_TITLES = ()
@@ -289,6 +308,7 @@ def search_text(text):
     splits = {k: v for k, v in sorted(splits.items(), key=lambda item: item[0], reverse=True)}
     return splits
 
+# Fix any errors in the servant name.
 def correct_name(text):
     if text in NAME_FIXES:
         return NAME_FIXES[text]
@@ -480,39 +500,53 @@ def parse(page):
     BANNER_DICT[title] = [page.oldest_revision.timestamp, banners]
     # print(banners)
 
+# Parse test pages
 def parse_test():
     global EVENT_TITLES
 
+    # Create a list of all the event titles.
     event_category = pywikibot.Category(SITE, "Event")
     EVENT_TITLES = tuple([x.title() for x in event_category.articles()])
     EVENT_TITLES = tuple([x for x in EVENT_TITLES if x not in TEST_PAGES and not any([event_page in x for event_page in EVENT_PAGES_REMOVE])])
 
+    # Parse each test page.
     for page_name in TEST_PAGES:
         page = pywikibot.Page(SITE, page_name)
         parse(page)
 
+# Parse the Summoning Campaign category
 def parse_category():
     global EVENT_TITLES
 
     print("Fetching wiki pages...")
+    # Get pages in the Summoning Campaign, Arcade, Event, and Chapter Release Campaign categories.
     summoning_category = pywikibot.Category(SITE, "Summoning Campaign")
     arcade_category = pywikibot.Category(SITE, "Arcade")
     event_category = pywikibot.Category(SITE, "Event")
     campaign_category = pywikibot.Category(SITE, "Chapter Release Campaign")
+
+    # Get the titles of the pages in the Arcade and Summoning Campaign categories.
     arcade_titles = tuple([x.title() for x in arcade_category.articles()])
     summoning_titles = tuple([x.title() for x in summoning_category.articles()])
+
+    # Get the number of pages in the Summoning Campaign category.
     summoning_length = len(list(summoning_category.articles()))
 
     print("Fetching event and campaign titles...")
+    # Create a list of all the event titles but exclude Arcade, Summoning Campaign, excluded pages, and included pages.
     EVENT_TITLES = tuple([x.title() for x in event_category.articles()])
     EVENT_TITLES = tuple([x for x in EVENT_TITLES if x not in arcade_titles and x not in summoning_titles and x not in FULL_EXCLUDE_PAGES and x not in INCLUDE_PAGES and not any([event_page in x for event_page in EVENT_PAGES_REMOVE])])
 
+    # Create a list of all the campaign titles but exclude Arcade, Summoning Campaign, excluded pages, and included pages.
     campaign_titles = tuple([x.title() for x in campaign_category.articles()])
     campaign_titles = tuple([x for x in campaign_titles if x not in arcade_titles and x not in summoning_titles and x not in FULL_EXCLUDE_PAGES and x not in INCLUDE_PAGES and x not in EVENT_TITLES])
 
+    # Add the campaign titles to the event titles along with the no-parse/mergeable pages.
+    # These are events that can be merged into but not parsed.
     EVENT_TITLES = EVENT_TITLES + campaign_titles + EXCLUDE_PARSE_PAGES
 
     print("Parsing summoning campaigns...")
+    # Parse each summoning campaign page, excluding the pages in the Arcade category.
     for page in (pbar := tqdm(summoning_category.articles(), total=summoning_length, bar_format=BAR_FORMAT)):
         title = page.title()
         pbar.set_postfix_str(title)
@@ -521,81 +555,110 @@ def parse_category():
         parse(page)
     
     print("Parsing included pages...")
+    # Parse each explicitly included page.
     for page_name in (pbar := tqdm(INCLUDE_PAGES, bar_format=BAR_FORMAT)):
         pbar.set_postfix_str(page_name)
         page = pywikibot.Page(SITE, page_name)
         parse(page)
 
-
+# Parse a single page.
 def parse_page(page_name):
     page = pywikibot.Page(SITE, page_name)
-    
     parse(page)
 
-# Needs fixing
 # Goes up the chain of template references to find the original template/banner.
-# Test on 3M Downloads Campaign and 13 Bespeckled
-def rec_get_ref(original_banner, banner, visited):
+def rec_get_ref(original_banner, banner, visited): # Test on 3M Downloads Campaign and 13 Bespeckled
     # print(f'Original Banner: {original_banner}, Banner: {banner}')
+
+    # Parse the current page.
     page = pywikibot.Page(SITE, banner)
+    # Get the number of pages that reference the current page that are summoning campaigns or events.
     num_refs = len([x for x in list(page.getReferences(only_template_inclusion=True)) if x.title() in BANNER_DICT or x.title() in EVENT_TITLES])
     # print(f'Found {num_refs} references for {banner}')
     # print(visited)
-    # If there are no references, return.
+
+    # If no references are found for the original banner...
     if num_refs == 0 and banner == original_banner:
         # print(f'In first if condition for {banner}')
         # print(f'No references found for {banner}.')
-        # If you can split the banner name by /, then it's a subpage.
+
+        # If you can split the banner name by / and the name on the left is a valid summoning campagin, then it's a subpage.
         if '/' in banner and banner.split('/')[0] in BANNER_DICT:
+            # Add its rateups to the summoning campaign indicated by the name to the left of the /.
             for rateup in BANNER_DICT[banner][1]:
                 if rateup not in BANNER_DICT[banner.split('/')[0]][1]:
                     BANNER_DICT[banner.split('/')[0]][1].append(rateup)
+            # Mark the subpage for deletion.
             return True
+        # If you can split the banner name by / and the name on the left is a valid event that already holds rateups, then it's a subpage.
         elif '/' in banner and banner.split('/')[0] in EVENT_DICT:
+            # Add its rateups to the event indicated by the name to the left of the /.
             for rateup in BANNER_DICT[banner][1]:
                 if rateup not in EVENT_DICT[banner.split('/')[0]][1]:
                     EVENT_DICT[banner.split('/')[0]][1].append(rateup)
+            # Mark the subpage for deletion.
             return True
+        # If you can split the banner name by / and the name on the left is a valid event that hasn't held rateups yet, then it's a subpage.
         elif '/' in banner and banner.split('/')[0] in EVENT_TITLES:
+            # Create a new entry for the event and add the subpage's rateups to it.
             EVENT_DICT[banner.split('/')[0]] = [BANNER_DICT[banner][0], BANNER_DICT[banner][1]]
+            # Mark the subpage for deletion.
             return True
+        # No subpage found.
         else:
+            # Don't mark the original banner for deletion.
             return False
+    # If no references are found at the current banner (but references were found for previous banners),
+    # Or if the current banner has already been visited...
     elif num_refs == 0 or banner in visited:
         # print(f'In second if condition for {banner}')
         # print(f'Merging {banner} into {original_banner}...')
+
+        # Merge the original banner's rateups into the current summoning campaign.
         if banner in BANNER_DICT:
             for rateup in BANNER_DICT[original_banner][1]:
                 if rateup not in BANNER_DICT[banner][1]:
                     BANNER_DICT[banner][1].append(rateup)
+        # Merge the original banner's rateups into the current event.
         elif banner in EVENT_DICT:
             for rateup in BANNER_DICT[original_banner][1]:
                 if rateup not in EVENT_DICT[banner][1]:
                     EVENT_DICT[banner][1].append(rateup)
+        # Assign the original banner's rateups into the current event (if it has no rateups yet).
         elif banner in EVENT_TITLES:
             EVENT_DICT[banner] = [BANNER_DICT[original_banner][0], BANNER_DICT[original_banner][1]]
+        # Mark the original banner for deletion.
         return True
+    # If references are found at the current banner...
     else:
         # print(f'In else condition for {banner}')
         retval = False
+
+        # Recursively check the pages that reference the current page.
         for reference in page.getReferences(only_template_inclusion=True):
             # print(f'Going to {reference.title()}...')
+            # Only recurse into the page if it's a summoning campaign or event.
             if reference.title() in BANNER_DICT or reference.title() in EVENT_TITLES:
                 # print(f'Entering {reference.title()}...')
+                # Add the current banner to the list of visited banners before recursing.
                 retval = rec_get_ref(original_banner, reference.title(), visited + (banner,))
+        # If the original banner was merged into any reference, mark the original banner for deletion.
         return retval
 
+# Merge banners that are subpages of other banners/events.
 def cleanup():
     print("Merging banners...")
-    max_length = len(list(BANNER_DICT))
-    # Loop through the BANNER_DICT.
+    # Check each banner and merge them up to other campaigns and events that reference them.
     for banner in (pbar := tqdm(list(BANNER_DICT), bar_format=BAR_FORMAT)):
         pbar.set_postfix_str(banner)
         ref_exists = rec_get_ref(banner, banner, ())
         # print(ref_exists)
+
+        # If the original banner was merged into any reference, delete the original banner.
         if ref_exists:
             del BANNER_DICT[banner]
 
+# Remove banners with no rateups.
 def remove_empty():
     # Delete banners with empty rateups.
     print('Cleaning up empty rateups...')
@@ -603,6 +666,7 @@ def remove_empty():
         if not BANNER_DICT[banner][1]:
             del BANNER_DICT[banner]
 
+# Test function to see what pages reference a page.
 def cleanup_test():
     page = pywikibot.Page(SITE, "FGO x FGO Arcade Collaboration Summoning Campaign 1")
     print(f'Size of {page.title()}: {len(list(page.getReferences(with_template_inclusion=True, follow_redirects=True)))}')
@@ -618,19 +682,24 @@ def cleanup_test():
         #         for reference3 in page3.getReferences():
         #             print(f'      {reference3.title()}')
 
+# If TESTING is 1, parse the test pages. Otherwise, parse the Summoning Campaign category.
 if TESTING == 1:
     parse_test()
 else:
     parse_category()
 
+# Merge and delete banners that are subpages of other banners/events.
 cleanup()
-# Merge EVENT_DICT into BANNER_DICT
+
+# Merge list of events with rateups into list of summoning campaigns with rateups.
 BANNER_DICT.update(EVENT_DICT)
+
+# Remove banners with no rateups.
 remove_empty()
 
 # cleanup_test()
 
-# Sort BANNER_DICT by date.
+# Sort the banners by date.
 print("Sorting by date...")
 banner_list = []
 for banner in BANNER_DICT:
@@ -641,21 +710,21 @@ for banner in BANNER_DICT:
     })
 banner_list.sort(key=lambda x: x['date'])
 
-# Save to JSON file
+# Save the banner list to a JSON file.
 print("Saving to JSON file...")
+# Save the old version of the JSON file for diff comparison.
 FILE_OLD = "summon_data_test_old.json" if TESTING == 1 else "summon_data_old.json"
 FILE_NEW = "summon_data_test.json" if TESTING == 1 else "summon_data.json"
-# Copy the preexisting summon_data_test.json file to summon_data_test_old.json
 shutil.copy(os.path.join(os.path.dirname(__file__), FILE_NEW), os.path.join(os.path.dirname(__file__), FILE_OLD))
+
+# Create the new version of the JSON file from the banner list.
 json_obj = jsons.dump(banner_list)
 with open(os.path.join(os.path.dirname(__file__), FILE_NEW), 'w') as f:
     f.write(json.dumps(json_obj, indent=2))
-# Print the changes from the old file to the new file.
+
+# Write the diff between the old and new banner list JSON to a file.
 with open(os.path.join(os.path.dirname(__file__), FILE_NEW), 'r') as f1:
     with open(os.path.join(os.path.dirname(__file__), FILE_OLD), 'r') as f2:
         diff = difflib.unified_diff(f2.readlines(), f1.readlines())
         with open(os.path.join(os.path.dirname(__file__), 'diff.txt'), 'w') as f3:
             f3.writelines(diff)
-
-# # parse_page("18M_Downloads_Summoning_Campaign")
-
