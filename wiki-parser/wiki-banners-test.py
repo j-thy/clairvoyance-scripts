@@ -246,6 +246,12 @@ TEST_PAGES = (
     "Fate/Apocrypha Collaboration Event Revival (US)/Summoning Campaign",
 )
 
+NA_EVENT_LISTS = (
+    "Event List (US)/2021 Events",
+    "Event List (US)/2022 Events",
+    "Event List (US)/2023 Events"
+)
+
 SITE = pywikibot.Site()
 
 servant_data = None
@@ -259,9 +265,11 @@ BANNER_DICT = {}
 EVENT_DICT = {}
 EVENT_TITLES = ()
 
+# Finds indexes of matching keywords in order to breaks link-style pages into chunks, each ideally with a rateup.
 def search_text(text):
     splits = {}
 
+    # Find index of keywords that indicate a rateup coming after. Mark it to be preserved.
     for string in LINK_MATCHES:
         matches = re.finditer(string, text)
         for match in matches:
@@ -269,15 +277,16 @@ def search_text(text):
                 print(string)
             splits[match.start()] = True
     
-    for string in REMOVE_MATCHES:   
+    # Find index of keywords that are before sections causing false positives. Mark it to be removed.
+    for string in REMOVE_MATCHES:
         matches = re.finditer(string, text)
         for match in matches:
             if TESTING == 1:
                 print(string)
             splits[match.start()] = False
     
+    # Sort the indexes of the splits and return it.
     splits = {k: v for k, v in sorted(splits.items(), key=lambda item: item[0], reverse=True)}
-
     return splits
 
 def correct_name(text):
@@ -285,41 +294,55 @@ def correct_name(text):
         return NAME_FIXES[text]
     return text
 
+# Parse a wiki page
 def parse(page):
+    # Get the title of the page
     title = page.title()
 
+    # Do not parse pages that are marked no-parse/no-merge or no-parse/mergeable
     if title in FULL_EXCLUDE_PAGES or title in EXCLUDE_PARSE_PAGES:
         return
 
-    # Parse servant info
+    # Get contents of the page
     text = page.text
     # Remove HTML comments
     text = re.sub(r'<!--(.|\n)*?-->', '', text)
+
+    # Apply any explicitly defined fixes
     if title in PAGE_FIXES:
         text = re.sub(PAGE_FIXES[title][0], PAGE_FIXES[title][1], text)
     # print(text)
 
+    # Apply any priority text removals, removing the match and everything after it.
     for string in PRIORITY_REMOVE_MATCHES:
         matches = re.finditer(string, text)
         for match in matches:
             text = text[:match.start()]
 
+    # Parse the text
     wikicode = mwparserfromhell.parse(text)
     if TESTING == 1:
         print(text)
 
+    # Initialize the list of rateups.
     banners = []
 
+    # Find and parse the rateup servants wikitable, unless the page is explicitly marked to skip this.
     if title not in SKIP_TABLE_PARSE_PAGES:
-        # Find the template containing the servant details
+        # Get all the tags in the page, any of which may contain the rateup servants wikitable.
         tags = wikicode.filter_tags()
         # print(tags)
 
         cntr = 0
-        # Find the rateups on pages that use tables.
+        # Find any tags containing the rateup servants wikitable.
         for tag in tags:
             # print(tag)
             # print("\n\n")
+
+            # For the tag to contain a valid rateup servants wikitable,
+            # 1. The tag must have a "class" field.
+            # 2. The "class" field must contain "wikitable".
+            # 3. The tag must contain at least one keyword indicating that it is a rateup servants wikitable.
             class_type = None
             try:
                 class_type = tag.get("class").value.strip()
@@ -327,79 +350,133 @@ def parse(page):
                 pass
             if class_type != 'wikitable' or not any([x in tag for x in TABLE_MATCHES]):
                 continue
+
+            # Parse the tag
             table = mwparserfromhell.parse(tag)
+
+            # Get all the templates ( {{wikipage}} ) in the tag.
             templates = table.filter_templates()
+
+            # Initialize the list of rateup servants.
             rateup_servants = [] # CBC 2016 ~ 2019 Craft Essences Summoning Campaign
+
+            # Get the rateup servants from the templates ( {{servant_name}} )
             for template in templates:
+                # Fix any errors in the servant name
                 name = correct_name(str(template.name))
+
+                # Add the servant name to the list of rateup servants if it is a valid servant name.
                 if name in servant_names:
                     rateup_servants.append(name)
             
+            # Manually add any rateup servants that are incorrectly left out of the table on the wiki
             for string in RATEUP_FIXES:
                 if string == title:
                     rateup_servants.append(RATEUP_FIXES[string])
 
+            # If rateup servants were found...
             if rateup_servants:
+                # Sort the servants alphabetically.
                 rateup_servants.sort()
+                # Remove duplicates.
                 rateup_servants = tuple(dict.fromkeys(rateup_servants))
+                # Append to the list of rateups.
                 banners.append(rateup_servants)
+                # If the rateup that was just added and the previous rateup have any servants in common, merge the new one into the previous one.
+                # Also, merge any banners that are forced to be merged.
+                # Don't merge if the whole page is marked not to be merged or a specific rateup is marked not to be merged.
                 if len(banners) > 1 and (title in FORCE_MERGE or (len(set(banners[-2]).intersection(set(banners[-1]))) > 0 and not (title in NO_MERGE and cntr in NO_MERGE[title]))): # GUDAGUDA Close Call 2021/Event Info
-                    # Merge banners and sort.
+                    # Remove duplicates from the merged banner and sort it.
                     banners[-2] = tuple(sorted(tuple(dict.fromkeys(banners[-1] + banners[-2]))))
+                    # Remove the new banner since it's been merged into the previous one.
                     del banners[-1]
+                    # Check if the newly merged banner can be merged again to the new previous banner.
+                    # Don't do this second merge if explicitly marked not to.
                     if len(banners) > 1 and len(set(banners[-2]).intersection(set(banners[-1]))) > 0 and title not in NO_MERGE: # Valentine 2022/Event Info
+                        # Remove duplicates from the merged banner and sort it.
                         banners[-2] = tuple(sorted(tuple(dict.fromkeys(banners[-1] + banners[-2]))))
+                        # Remove the new banner since it's been merged into the previous one.
                         del banners[-1]
+                
+                # Keep track of the number of rateup tables that have been parsed.
                 cntr += 1
 
     # print(banners)
     # print(text)
-    # If a page that uses wikilinks only
+
+    # In older pages, the rateup servants are not in a wikitable, but are instead in links.
+    # If the page is marked as priority, no need to look for keywords and parse servants regardless.
     if not banners and title in PRIORITY_PAGES:
-        links = []
+        # Get all the links in the page.
         links = wikicode.filter_wikilinks()
+        # Initialize the list of rateup servants.
         rateup_servants = []
+
+        # Check every link to see if it is a valid servant name.
         for link in links:
             # print(link.title)
+            # Fix any errors in the servant name
             name = correct_name(str(link.title).strip())
+            # Add the servant name to the list of rateup servants if it is a valid servant name.
             if name in servant_names:
                 rateup_servants.append(name)
 
+        # If rateup servants were found...
         if rateup_servants:
+            # Sort and dedupe the servants.
             rateup_servants.sort()
             rateup_servants = tuple(dict.fromkeys(rateup_servants))
-            # Append to the start
+            # Append the rateup to the start of the banners list.
             banners.insert(0, rateup_servants)
+    # If the page is not marked as priority, look for keywords and parse servants if found.
     elif not banners and title not in PRIORITY_PAGES:
         links = []
+        # Get the indexes that indicate sections of the text to parse and sections to skip.
         splits = search_text(text)
+        
+        # Base text will hold the remaining part of the page that hasn't been parsed yet.
         base_text = text
+        # Go through each index from the bottom of the page to the top.
         for key, value in splits.items():
-            # Split text into 2 substrings based on the int in split.
+            # Parse (or skip) the text between the current index and the remaining part of the page.
             parse_text = base_text[key:]
+            # Save the remaining part of the page that hasn't been parsed yet for the next iteration.
             base_text = base_text[:key]
+            # If the section is marked to be removed, skip it.
             if not value:
                 continue
+            # Parse the section.
             sub_wikicode = mwparserfromhell.parse(parse_text)
+            # Get all the links in the section.
             links = sub_wikicode.filter_wikilinks()
             # print(links)
+
+            # Initialize the list of rateup servants.
             rateup_servants = []
+            # Check every link to see if it is a valid servant name and add it to the list of rateup servants if it is.
             for link in links:
                 # print(link.title)
+                # Fix any errors in the servant name
                 name = correct_name(str(link.title).strip())
+                # Add the servant name to the list of rateup servants if it is a valid servant name.
                 if name in servant_names:
                     rateup_servants.append(name)
 
+            # If rateup servants were found...
             if rateup_servants:
+                # Sort and dedupe the servants.
                 rateup_servants.sort()
                 rateup_servants = tuple(dict.fromkeys(rateup_servants))
-                # Append to the start
+                # Append the rateup to the start of the banners list (since the page is parsed backwards).
                 banners.insert(0, rateup_servants)
 
     # print(banners)
-    # Dedupe banners
+
+    # Dedupe the rateups.
     banners = list(dict.fromkeys(banners))
     # print(banners)
+
+    # Save the date of page creation with the summoning campaign.
     BANNER_DICT[title] = [page.oldest_revision.timestamp, banners]
     # print(banners)
 
