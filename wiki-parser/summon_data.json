@@ -9594,12 +9594,6 @@
     "date": "2023-04-10+00:00",
     "rateups": [
       [
-        "Euryale",
-        "Helena Blavatsky",
-        "Jeanne d'Arc",
-        "Shuten D\u014dji"
-      ],
-      [
         "Hassan of the Serenity",
         "Miss Crane",
         "Mysterious Heroine X (Alter)",
@@ -9611,6 +9605,12 @@
         "Queen Medb",
         "Tamamo Cat",
         "Ushiwakamaru"
+      ],
+      [
+        "Euryale",
+        "Helena Blavatsky",
+        "Jeanne d'Arc",
+        "Shuten D\u014dji"
       ]
     ]
   },
@@ -9901,13 +9901,13 @@
     "date": "2023-07-03+00:00",
     "rateups": [
       [
-        "Sherlock Holmes"
-      ],
-      [
         "Caenis",
         "Koyanskaya of Light",
         "Qin Liangyu",
         "Valkyrie"
+      ],
+      [
+        "Sherlock Holmes"
       ]
     ]
   },
@@ -10136,12 +10136,6 @@
     "date": "2023-08-23+00:00",
     "rateups": [
       [
-        "Anne Bonny & Mary Read (Archer)",
-        "Calamity Jane",
-        "Francis Drake",
-        "Nemo"
-      ],
-      [
         "Anastasia & Viy",
         "Charlotte Corday (Caster)",
         "Okita S\u014dji (Saber Alter)"
@@ -10158,6 +10152,12 @@
       [
         "Ashiya D\u014dman",
         "Christopher Columbus"
+      ],
+      [
+        "Anne Bonny & Mary Read (Archer)",
+        "Calamity Jane",
+        "Francis Drake",
+        "Nemo"
       ]
     ]
   },
