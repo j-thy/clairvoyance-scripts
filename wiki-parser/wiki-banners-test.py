@@ -143,66 +143,6 @@ INCLUDE_PAGES = (
     "Fate/Stay Night Heaven's Feel II Blu-ray Release Commemorative Campaign (US)", # 2019
     "Murder at the Kogetsukan (US)", # 2020
     "Fate/Stay Night Heaven's Feel III Theatrical Release Commemorative Campaign (US)", #2020
-    "A Meihousou Most Foul (US)", # 2021
-    "Yugakshetra Pre-Release Campaign (US)", # 2021
-    "FGO Summer 2021 Event (US)/Summoning Campaign", # 2021
-    "Halloween 2020 Event Revival (US)/Summoning Campaign", # 2021
-    "Saber Wars II (US)/Summoning Campaign", # 2021
-    "Saber Wars II Pre-Release Campaign (US)", # 2021
-    "15M Downloads Campaign (US)", # 2021
-    "Early Winter Campaign 2021 (US)", # 2021
-    "Christmas 2021 Event (US)/Summoning Campaign", # 2021
-    "New Year 2021 Event Revival (US)/Summoning Campaign", # 2021
-    "Amazones.com ~CEO Crisis 2022~ (US)/Summoning Campaign", # 2022
-    "Valentine 2022 Event (US)/Summoning Campaign", # 2022
-    "16M Downloads Campaign (US)", # 2022
-    "Presidents Day Celebration Campaign 2022 (US)", # 2022
-    "Chaldea Boys Collection 2022 (US)", # 2022
-    "Chaldea Boys Collection 2018 - 2021 CE Summoning Campaign (US)", # 2022
-    "Fate/Apocrypha Collaboration Event Revival (US)/Summoning Campaign", # 2022
-    "Fate/Requiem Collaboration Event (US)/Summoning Campaign", # 2022
-    "FGO Summer 2021 Event Revival (US)/Summoning Campaign", # 2022
-    "FGO Summer 2022 Event (US)/Summoning Campaign", # 2022
-    "Melty Blood: Type Lumina Evo 2022 Celebration Campaign (US)", # 2022
-    "Back to School Campaign 2022 (US)", # 2022
-    "GUDAGUDA Yamataikoku 2022 (US)/Summoning Campaign", # 2022
-    "Christmas 2021 Event Revival (US)/Summoning Campaign", # 2022
-    "Imaginary Scramble (US)/Summoning Campaign", # 2022
-    "Heian-kyo Pre-Release Campaign (US)", # 2022
-    "Christmas 2022 Event (US)/Summoning Campaign", # 2022
-    "New Year 2023 Countdown Campaign (US)", # 2022
-    "Saber Wars II Revival (US)/Summoning Campaign", # 2023
-    "Little Big Tengu (US)/Summoning Campaign", # 2023
-    "Grail Front Event ~Et Tu, Brute?~ (US)/Summoning Campaign", # 2023
-    "Valentine 2023 Event (US)/Summoning Campaign", # 2023
-    "Arc 1 & Arc 1.5 Memorial Summoning Campaign (US)", # 2023
-    "Spring Break Summoning Campaign (US)", # 2023
-    "Servant Rank Up Quests Part XIII (US)", # 2023
-    "FGO Waltz in the Moonlight Collaboration Event Pre-Release Campaign (US)", # 2023
-    "FGO Waltz in the Moonlight Collaboration Event (US)/Summoning Campaign", # 2023
-    "My Super Camelot 2023 Pre-Release Campaign (US)", # 2023
-    "Grail Front Event ~My Super Camelot 2023~ (US)/Summoning Campaign", # 2023
-    "FGO Summer 2022 Event Revival (US)/Summoning Campaign", # 2023
-    "Arc 2 Chapter 5 Memorial Summoning Campaign (US)", # 2023
-    "Avalon le Fae Pre-Release Campaign (US)", # 2023
-    "Avalon le Fae Part 1 Chapter Release (US)", # 2023
-    "Avalon le Fae Part 1 Summoning Campaign 2 (US)", # 2023
-    "Interlude Campaign 16 (US)", # 2023
-    "Avalon le Fae Part 2 Chapter Release (US)", # 2023
-    "FGO 6th Anniversary Commemorative Campaign (US)", # 2023
-    "FGO Festival 2023 ~6th Anniversary~ (US)/Summoning Campaign", # 2023
-    "FGO 6th Anniversary Daily Summoning Campaign (US)", # 2023
-    "Avalon le Fae Conclusion Campaign (US)", # 2023
-    "Grand Nero Festival 2023 (US)/Summoning Campaign", # 2023
-    "Melty Blood: Type Lumina Evo 2023 Celebration Campaign (US)", # 2023
-    "Back to School Campaign 2023 (US)", # 2023
-    "FGO Summer 2023 Event Pre-Release Campaign (US)", # 2023
-    "Revival Summer Servants Summoning Campaign (US)", # 2023
-    "FGO Summer 2023 Event (US)/Summoning Campaign", # 2023
-    "Interlude Campaign 17 (US)", # 2023
-    "Fate/Samurai Remnant Release Campaign (US)", # 2023
-    "Halloween Trilogy Event (US)/Summoning Campaign", # 2023
-    "Fate/Grand Carnival Recollection Campaign (US)", # 2023
 )
 
 # Pages that should be link-style parsed regardless of keywords being present.
@@ -550,10 +490,11 @@ def parse_na():
             event_wikicode = mwparserfromhell.parse(event_text)
             event_templates = event_wikicode.filter_templates()
             for event_template in event_templates:
+                event_subpage = str(event_template.name)
                 # If the event template contains the phrase "Summoning Campaign", parse it.
-                if "Summoning Campaign" in str(event_template.name):
+                if "Summoning Campaign" in event_subpage or "Summoning_Campaign" in event_subpage:
                     # Slice the first character off the name of the summoning campaign.
-                    summon_name = str(event_template.name)[1:]
+                    summon_name = event_subpage[1:]
                     summon_page = pywikibot.Page(SITE, summon_name)
                     parse(summon_page)
 
