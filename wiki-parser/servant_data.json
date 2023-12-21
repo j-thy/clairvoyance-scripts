@@ -240,7 +240,7 @@
     "voice_actor": "Tsuruoka Satoshi"
   },
   "17": {
-    "aliases": "Child of Light, Beast of Culann, Sétanta, Hound of Ulster, Coo Hullan, Child of the Sun",
+    "aliases": "Child of Light, Beast of Culann, Sétanta, Hound of Ulster, Coo Hullan, Child of the Sun, Rogue Lancer",
     "alignment": "Lawful・Balanced",
     "attribute": "Sky",
     "class_type": "Lancer",
@@ -986,7 +986,7 @@
     "name": "Anne Bonny & Mary Read",
     "rarity": 4,
     "release": "Okeanos Chapter Release",
-    "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "traits": "Group Servant, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Nonaka Ai, Kawasumi Ayako"
   },
   "67": {
@@ -1245,7 +1245,7 @@
     "voice_actor": "Sugita Tomokazu"
   },
   "84": {
-    "aliases": "The Endowed Hero, Silent Sniper",
+    "aliases": "The Endowed Hero, Silent Sniper, Rogue Archer, The Man of Rectitude",
     "alignment": "Lawful・Balanced",
     "attribute": "Sky",
     "class_type": "Archer",
@@ -1600,7 +1600,7 @@
     "jp_name": "アンリマユ",
     "name": "Angra Mainyu",
     "rarity": 0,
-    "release": "Fate/Accel Zero Order",
+    "release": "Fate/Accel Zero Order Event",
     "traits": "Hominidae Servant, Humanoid, Servant, Weak to Enuma Elish",
     "voice_actor": "Terashima Takuma"
   },
@@ -1615,7 +1615,7 @@
     "jp_name": "イスカンダル",
     "name": "Iskandar",
     "rarity": 5,
-    "release": "Fate/Accel Zero Order",
+    "release": "Fate/Accel Zero Order Event",
     "traits": "Loved One, Divinity, Greek Mythology Male, Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Ootsuka Akio"
   },
@@ -1630,7 +1630,7 @@
     "jp_name": "エミヤ〔アサシン〕",
     "name": "EMIYA (Assassin)",
     "rarity": 4,
-    "release": "Fate/Accel Zero Order",
+    "release": "Fate/Accel Zero Order Event",
     "traits": "Loved One, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Koyama Rikiya, Ohara Sayaka"
   },
@@ -1645,7 +1645,7 @@
     "jp_name": "百貌のハサン",
     "name": "Hassan of the Hundred Faces",
     "rarity": 3,
-    "release": "Fate/Accel Zero Order",
+    "release": "Fate/Accel Zero Order Event",
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Abe Akina"
   },
@@ -1660,7 +1660,7 @@
     "jp_name": "アイリスフィール〔天の衣〕",
     "name": "Irisviel (Dress of Heaven)",
     "rarity": 4,
-    "release": "Fate/Accel Zero Order",
+    "release": "Fate/Accel Zero Order Event",
     "traits": "Divinity, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Ohara Sayaka"
   },
@@ -1695,7 +1695,7 @@
     "voice_actor": "Komatsu Mikako"
   },
   "114": {
-    "aliases": "Minamoto no Yorimitsu, Minamoto no Raikou, [Ushi Gozen], [Kālasūtra Hell Rider]",
+    "aliases": "Minamoto no Yorimitsu, Ushi Gozen, [Kālasūtra Hell Rider]",
     "alignment": "Chaotic・Good",
     "attribute": "Sky",
     "class_type": "Berserker",
@@ -1781,7 +1781,7 @@
     "name": "Artoria Pendragon (Lancer)",
     "rarity": 5,
     "release": "Camelot Chapter Release",
-    "traits": "Arthur, Artoria Face, Dragon, King, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "traits": "Arthur, Artoria Face, Dragon, King, Hominidae Servant, Humanoid, Riding, Round Table Knight, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kawasumi Ayako"
   },
   "120": {
@@ -1961,7 +1961,7 @@
     "name": "Anne Bonny & Mary Read (Archer)",
     "rarity": 4,
     "release": "FGO 2016 Summer Event",
-    "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
+    "traits": "Group Servant, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Nonaka Ai, Kawasumi Ayako"
   },
   "132": {
@@ -2231,7 +2231,7 @@
     "name": "Tiamat",
     "rarity": 5,
     "release": "Babylonia Chapter Release",
-    "traits": "Enuma Elish Nullification, Divinity, Divine Spirit",
+    "traits": "Divinity, Divine Spirit",
     "voice_actor": "Yūki Aoi"
   },
   "150": {
@@ -2385,7 +2385,7 @@
     "voice_actor": "Okamoto Nobuhiko"
   },
   "160": {
-    "aliases": "Knight, Proto Saber, King of Knights, King Arthur",
+    "aliases": "Knight of Sky Silver, Proto Saber, Red Dragon, King of Knights, King Arthur, Artorius",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
     "class_type": "Saber",
@@ -2512,7 +2512,7 @@
     "gender": "f",
     "id": 168,
     "illustrator": "Wada Arco",
-    "jp_name": "ビーストIII／R; 殺生院キアラ; 魔性菩薩; ヘブンズホール",
+    "jp_name": "ビーストⅢ／Ｒ; 殺生院キアラ; ヘブンズホール",
     "name": "Beast III/R",
     "rarity": 5,
     "release": "SE.RA.PH",
@@ -2790,7 +2790,7 @@
     "voice_actor": "Namikawa Daisuke"
   },
   "187": {
-    "aliases": "Yagyuu Munenori, Ryūtan, [Saber Empíreo]",
+    "aliases": "Yagyuu Munenori, Ryūtan",
     "alignment": "Lawful・Balanced",
     "attribute": "Man",
     "class_type": "Saber",
@@ -2865,7 +2865,7 @@
     "voice_actor": "Ookubo Rumi"
   },
   "192": {
-    "aliases": "Caster of Okeanos",
+    "aliases": "Caster of Okeanos, Falcon Witch",
     "alignment": "Chaotic・Balanced",
     "attribute": "Sky",
     "class_type": "Caster",
@@ -3161,7 +3161,7 @@
     "name": "Sakamoto Ryōma",
     "rarity": 4,
     "release": "GUDAGUDA Teito Seihai Kitan",
-    "traits": "Loved One, Divinity, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "traits": "Divinity, Group Servant, Hominidae Servant, Humanoid, Loved One, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kase Yasuyuki, Horie Yui"
   },
   "212": {
@@ -3372,7 +3372,7 @@
     "rarity": 4,
     "release": "Halloween 2018",
     "traits": "Non-Hominidae Servant, Demonic, Divinity, Dragon, Female, Humanoid, Oni, Servant, Seven Knights Servant, Shuten Dōji (Trait), Weak to Enuma Elish",
-    "voice_actor": "Yūki Aoi"
+    "voice_actor": "Yūki Aoi,Touyama Nao"
   },
   "226": {
     "aliases": "Kuaiji Zero, 西楚霸王, Xī Chǔ Bà Wáng, Kō U",
@@ -3492,7 +3492,7 @@
     "rarity": 4,
     "release": "Christmas 2018",
     "traits": "Costume-Owning, Divinity, Divine Spirit, Hominidae Servant, Humanoid, Immune to Pigify, King, Servant, Weak to Enuma Elish",
-    "voice_actor": "Endou Aya"
+    "voice_actor": "Endou Aya,Itō Miki"
   },
   "234": {
     "aliases": "Tongue-Cut Sparrow Benienma, [Crimson Vermillion Beni-Enma]",
@@ -3510,7 +3510,7 @@
     "voice_actor": "Kuno Misaki"
   },
   "235": {
-    "aliases": "Royal Guard Chief; Massage Expert, Old Li, Security Guard, Captain of the Guard (NA),",
+    "aliases": "Royal Guard Chief; Massage Expert, Old Li, Security Guard, Captain of the Guard (NA), Li Shuwen of No Second Strike",
     "alignment": "Neutral・Evil",
     "attribute": "Man",
     "class_type": "Assassin",
@@ -3596,7 +3596,7 @@
     "name": "Beast III/L",
     "rarity": 5,
     "release": "Tokugawa Kaiten Meikyū - Ōoku",
-    "traits": "Enuma Elish Nullification, Demonic, Divinity, Humanoid, King, Pseudo-Servant",
+    "traits": "Enuma Elish Nullification, Demonic, Divinity, Humanoid, Immune to Pigify, King, Pseudo-Servant",
     "voice_actor": "Shitaya Noriko"
   },
   "241": {
@@ -3807,7 +3807,7 @@
     "rarity": 1,
     "release": "Fate/Grand Order Fes. 2019 ～4th Anniversary～",
     "traits": "Argo-Related, Loved One, Greek Mythology Male, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
-    "voice_actor": "Hoshi Soichirou"
+    "voice_actor": "Hoshi Soichiro"
   },
   "255": {
     "aliases": "",
@@ -4166,7 +4166,7 @@
     "name": "Dioscuri",
     "rarity": 5,
     "release": "Olympus Chapter Release",
-    "traits": "Argo-Related, Loved One, Divinity, Divine Spirit, Feminine Looking, Hominidae Servant, Humanoid, Immune to Pigify, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "traits": "Argo-Related, Loved One, Divinity, Divine Spirit, Feminine Looking, Group Servant, Hominidae Servant, Humanoid, Immune to Pigify, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Uchida Yuuma, Uchida Maaya"
   },
   "279": {
@@ -4301,7 +4301,7 @@
     "name": "Brynhildr (Berserker)",
     "rarity": 4,
     "release": "Servant Summer Camp 2020",
-    "traits": "Non-Hominidae Servant, Divinity, Divine Spirit, Humanoid, Servant, Seven Knights Servant, Valkyrie (Trait), Summer Mode Servant, Weak to Enuma Elish",
+    "traits": "Divinity, Divine Spirit, Group Servant, Humanoid, Non-Hominidae Servant, Servant, Seven Knights Servant, Valkyrie (Trait), Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Noto Mamiko"
   },
   "288": {
@@ -4567,7 +4567,7 @@
     "gender": "f",
     "id": 305,
     "illustrator": "Morii Shizuki",
-    "jp_name": "アムール〔カレン〕; アムール; カレン・C・オルテンシア; ゴッドカレン; デビルカレン;",
+    "jp_name": "アムール〔カレン〕; アムール; カレン・C・オルテンシア; ゴッドカレン; デビルカレン",
     "name": "Amor (Caren)",
     "rarity": 5,
     "release": "Valentine 2021",
@@ -4751,7 +4751,7 @@
     "name": "Okita Sōji (Saber Alter)",
     "rarity": 5,
     "release": "Chaldea Summer Adventure",
-    "traits": "Artoria Face, Feminine Looking, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Summer Mode Servant, Shinsengumi Servant, Weak to Enuma Elish",
+    "traits": "Artoria Face, Feminine Looking, Group Servant, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Summer Mode Servant, Shinsengumi Servant, Weak to Enuma Elish",
     "voice_actor": "Yūki Aoi, Nakamura Yuuichi"
   },
   "318": {
@@ -4890,7 +4890,7 @@
     "voice_actor": "Ookubo Rumi"
   },
   "327": {
-    "aliases": "Zan Zaburō",
+    "aliases": "Zan Zaburō, Izumo-no-Okuni",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
     "class_type": "Caster",
@@ -4901,7 +4901,7 @@
     "name": "Izumo no Okuni",
     "rarity": 5,
     "release": "GUDAGUDA Close Call 2021",
-    "traits": "Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "traits": "Group Servant, Humanoid, Servant, Hominidae Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Uesaka Sumire, MAFIA Kajita"
   },
   "328": {
@@ -4916,8 +4916,8 @@
     "name": "Mysterious Ranmaru X",
     "rarity": 4,
     "release": "GUDAGUDA Close Call 2021",
-    "traits": "Enuma Elish Nullification, Existence Outside the Domain, Feminine Looking, Levitating Servant, Humanoid, Servant",
-    "voice_actor": "Saitō Machiko (Machico)"
+    "traits": "Enuma Elish Nullification, Existence Outside the Domain, Feminine Looking, Hominidae Servant, Levitating Servant, Humanoid, Servant",
+    "voice_actor": "Machico"
   },
   "329": {
     "aliases": "Oryō, Sakamoto Ryouma",
@@ -4931,7 +4931,7 @@
     "name": "Sakamoto Ryōma (Lancer)",
     "rarity": 5,
     "release": "GUDAGUDA Close Call 2021",
-    "traits": "Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "traits": "Group Servant, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kase Yasuyuki, Horie Yui"
   },
   "330": {
@@ -5036,7 +5036,7 @@
     "name": "Trung Sisters",
     "rarity": 5,
     "release": "Sea Monster Crisis",
-    "traits": "Divinity, Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant, Stout Defender, Weak to Enuma Elish",
+    "traits": "Divinity, Group Servant, Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant, Stout Defender, Weak to Enuma Elish",
     "voice_actor": "Kondo Reina, Ito Kanae"
   },
   "338": {
@@ -5066,7 +5066,7 @@
     "name": "Super Bunyan",
     "rarity": 5,
     "release": "FGO x Learn with Manga! Collaboration",
-    "traits": "Fairy Tale Servant, Giant, Hominidae Servant, Humanoid, Servant, Weak to Enuma Elish",
+    "traits": "Fairy Tale Servant, Giant, Group Servant, Hominidae Servant, Humanoid, Servant, Weak to Enuma Elish",
     "voice_actor": "Omigawa Chiaki, Takahashi Rie, Yonezawa Madoka"
   },
   "340": {
@@ -5081,7 +5081,7 @@
     "name": "Daikokuten",
     "rarity": 4,
     "release": "FGO x Learn with Manga! Collaboration",
-    "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Demonic Beast Servant, Divinity, Fairy Tale Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish, Wild Beast",
+    "traits": "Animal Characteristics Servant, Demonic Beast Servant, Divinity, Fairy Tale Servant, Group Servant, Humanoid, Non-Hominidae Servant, Servant, Seven Knights Servant, Weak to Enuma Elish, Wild Beast",
     "voice_actor": "Takeda Hana"
   },
   "341": {
@@ -5111,7 +5111,7 @@
     "name": "Constantine XI",
     "rarity": 5,
     "release": "Traum Pre-Release Campaign Part 1",
-    "traits": "Hominidae Servant, Humanoid, King, Riding, Roman, Servant, Seven Knights Servant, Stout Defender, Weak to Enuma Elish",
+    "traits": "Hominidae Servant, Humanoid, King, Loved One, Riding, Roman, Servant, Seven Knights Servant, Stout Defender, Weak to Enuma Elish",
     "voice_actor": "Kamio Shinichiro"
   },
   "343": {
@@ -5186,7 +5186,7 @@
     "name": "Don Quixote",
     "rarity": 4,
     "release": "Traum Summoning Campaign 2",
-    "traits": "Animal Characteristics Servant, Loved One, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "traits": "Animal Characteristics Servant, Group Servant, Hominidae Servant, Humanoid, Loved One, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Tobita Nobuo, Arai Satomi"
   },
   "348": {
@@ -5275,7 +5275,7 @@
     "jp_name": "レディ・アヴァロン",
     "name": "Lady Avalon",
     "rarity": 5,
-    "release": "",
+    "release": "Arctic Summer World",
     "traits": "Hominidae Servant, Humanoid, Round Table Knight, Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Kawasumi Ayako"
   },
@@ -5306,7 +5306,7 @@
     "name": "Ibuki Dōji (Berserker)",
     "rarity": 5,
     "release": "Arctic Summer World",
-    "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Demonic, Demonic Beast Servant, Divinity, Divine Spirit, Dragon, Levitating Servant, Giant, Goddess Servant, Immune to Pigify, Oni, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
+    "traits": "Costume-Owning, Non-Hominidae Servant, Animal Characteristics Servant, Demonic, Demonic Beast Servant, Divinity, Divine Spirit, Dragon, Levitating Servant, Giant, Goddess Servant, Immune to Pigify, Oni, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Yūki Aoi"
   },
   "356": {
@@ -5397,7 +5397,7 @@
     "rarity": 4,
     "release": "Arctic Summer World",
     "traits": "Non-Hominidae Servant, Costume-Owning, Divinity, Divine Spirit, Levitating Servant, Humanoid, Servant, Seven Knights Servant, Summer Mode Servant, Valkyrie (Trait), Weak to Enuma Elish",
-    "voice_actor": "Minami Tanaka"
+    "voice_actor": "Tanaka Minami"
   },
   "362": {
     "aliases": "Rikyū-san; [Komahime]",
@@ -5471,7 +5471,7 @@
     "name": "Huang Feihu",
     "rarity": 4,
     "release": "Halloween 2022 Event",
-    "traits": "Loved One, Divinity, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "traits": "Divinity, Group Servant, Hominidae Servant, Humanoid, Loved One, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kasama Jun, Saiga Mitsuki"
   },
   "367": {
@@ -5512,7 +5512,7 @@
     "gender": "m",
     "id": 369,
     "illustrator": "Takeuchi Takashi",
-    "jp_name": "グレゴリー・ラスプーチン; 言峰神父; 言峰綺礼;",
+    "jp_name": "グレゴリー・ラスプーチン; 言峰神父; 言峰綺礼",
     "name": "Grigori Rasputin",
     "rarity": 5,
     "release": "New Year Campaign 2023",
@@ -5545,7 +5545,7 @@
     "jp_name": "テスカトリポカ",
     "name": "Tezcatlipoca",
     "rarity": 5,
-    "release": "Nahui Mictlan Lostbelt Part II Release",
+    "release": "Nahui Mictlan Chapter Release Part 2",
     "traits": "Non-Hominidae Servant, Divinity, Divine Spirit, Humanoid, Immune to Pigify, Living Human, Pseudo-Servant, Servant, Seven Knights Servant, Weak to Enuma Elish, Costume-Owning",
     "voice_actor": "Mikami Satoshi"
   },
@@ -5560,7 +5560,7 @@
     "jp_name": "トラロック; ウィツィロポチトリ; テノチティトラン",
     "name": "Tenochtitlan",
     "rarity": 4,
-    "release": "Nahui Mictlan Lostbelt Part II Release",
+    "release": "Nahui Mictlan Chapter Release Part 2",
     "traits": "Non-Hominidae Servant, Divinity, Humanoid, Immune to Pigify, Servant, Weak to Enuma Elish",
     "voice_actor": "Honda Mariko"
   },
@@ -5575,7 +5575,7 @@
     "jp_name": "ククルカン; [オルト・ククルカン]",
     "name": "Kukulkan",
     "rarity": 5,
-    "release": "Nahui Mictlan Lostbelt Part II Release",
+    "release": "Nahui Mictlan Chapter Release Part 2",
     "traits": "Non-Hominidae Servant, Enuma Elish Nullification, Humanoid, Immune to Pigify, Servant",
     "voice_actor": "Suwa Ayaka"
   },
@@ -5621,11 +5621,11 @@
     "name": "Larva/Tiamat",
     "rarity": 5,
     "release": "FGO Arcade Collaboration Pre-Release Campaign",
-    "traits": "Non-Hominidae Servant, Enuma Elish Nullification, Animal Characteristics Servant, Demonic Beast Servant, Divinity, Divine Spirit, Dragon, Goddess Servant, Obstacle Maker, Servant, Super Large",
+    "traits": "Non-Hominidae Servant, Enuma Elish Nullification, Animal Characteristics Servant, Demonic Beast Servant, Divinity, Divine Spirit, Dragon, Goddess Servant, Immune to Pigify, Obstacle Maker, Servant, Super Large",
     "voice_actor": "Yūki Aoi"
   },
   "377": {
-    "aliases": "Beast VI/S, Draco, Nero Draco",
+    "aliases": "Beast VI/S, Draco, Nero Draco, Beast of 666",
     "alignment": "Chaotic・Evil",
     "attribute": "Beast",
     "class_type": "Beast",
@@ -5636,7 +5636,7 @@
     "name": "Sodom's Beast/Draco",
     "rarity": 5,
     "release": "Lilim Harlot",
-    "traits": "Enuma Elish Nullification, Animal Characteristics Servant, Artoria Face, Dragon, Humanoid, Immune to Pigify, King, Roman, Servant",
+    "traits": "Enuma Elish Nullification, Animal Characteristics Servant, Artoria Face, Dragon, Humanoid, Immune to Pigify, King, Non-Hominidae Servant, Roman, Servant",
     "voice_actor": "Tange Sakura"
   },
   "378": {
@@ -5786,7 +5786,7 @@
     "name": "Suzuka Gozen (Summer Vacation)",
     "rarity": 4,
     "release": "Servant Summer Festival! 2023",
-    "traits": "Non-Hominidae Servant, Divinity, Humanoid, Oni, Riding, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
+    "traits": "Non-Hominidae Servant, Divinity, Divine Spirit, Humanoid, Oni, Riding, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Touyama Nao"
   },
   "388": {
@@ -5831,7 +5831,7 @@
     "name": "Mélusine (Ruler)",
     "rarity": 5,
     "release": "Servant Summer Festival! 2023 Summoning Campaign III",
-    "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Demonic Beast Servant, Dragon, Enuma Elish Nullification, Fae, Fairy Tale Servant, Humanoid, Immune to Pigify, Loved One, Servant, Summer Mode Servant",
+    "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Demonic Beast Servant, Dragon, Enuma Elish Nullification, Fae, Fairy Tale Servant, Humanoid, Immune to Pigify, Loved One, Riding, Servant, Summer Mode Servant",
     "voice_actor": "Kouno Marika"
   },
   "391": {
@@ -5880,7 +5880,7 @@
     "voice_actor": "Haruno Anzu"
   },
   "394": {
-    "aliases": "Ptolemy",
+    "aliases": "Ptolemy, Ptolemaeus, Ptolemy I Soter, Ptolemeu, Ptolemaîos",
     "alignment": "Lawful・Balanced",
     "attribute": "Man",
     "class_type": "Archer",
@@ -5890,9 +5890,9 @@
     "jp_name": "プトレマイオス",
     "name": "Ptolemaios",
     "rarity": 5,
-    "release": "",
+    "release": "Grail Front ~White Castle by Day, Black Castle by Night~",
     "traits": "Hominidae Servant, Humanoid, King, Loved One, Servant, Seven Knights Servant, Weak to Enuma Elish",
-    "voice_actor": "Kensho Ono, Kenyu Horiuchi"
+    "voice_actor": "Ono Kensho, Horiuchi Kenyu"
   },
   "395": {
     "aliases": "",
@@ -5905,8 +5905,98 @@
     "jp_name": "杉谷善住坊",
     "name": "Sugitani Zenjūbō",
     "rarity": 3,
-    "release": "",
+    "release": "Grail Front ~White Castle by Day, Black Castle by Night~",
     "traits": "Feminine Looking, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Gotou Yuuko"
+  },
+  "396": {
+    "aliases": "",
+    "alignment": "Lawful・Good",
+    "attribute": "Earth",
+    "class_type": "Saber",
+    "gender": "m",
+    "id": 396,
+    "illustrator": "Shimadoriru",
+    "jp_name": "テセウス",
+    "name": "Theseus",
+    "rarity": 3,
+    "release": "Grail Front ~White Castle by Day, Black Castle by Night~ Summoning Campaign 2",
+    "traits": "Argo-Related, Greek Mythology Male, Hominidae Servant, Humanoid, King, Loved One, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "voice_actor": "Egoshi Akinori"
+  },
+  "397": {
+    "aliases": "Takeda Harunobu",
+    "alignment": "Lawful・Evil",
+    "attribute": "Man",
+    "class_type": "Rider",
+    "gender": "m",
+    "id": 397,
+    "illustrator": "toi8",
+    "jp_name": "武田晴信; 武田信玄",
+    "name": "Takeda Shingen",
+    "rarity": 5,
+    "release": "GUDAGUDA Super Goryokaku",
+    "traits": "Genji, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "voice_actor": "Umehara Yuuichirou"
+  },
+  "398": {
+    "aliases": "Sugimura Yoshie",
+    "alignment": "Neutral・Good",
+    "attribute": "Man",
+    "class_type": "Berserker",
+    "gender": "m",
+    "id": 398,
+    "illustrator": "Hirano Ryouji",
+    "jp_name": "永倉新八",
+    "name": "Nagakura Shinpachi",
+    "rarity": 4,
+    "release": "GUDAGUDA Super Goryokaku",
+    "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Shinsengumi Servant, Weak to Enuma Elish",
+    "voice_actor": "Fukunishi Masaya"
+  },
+  "399": {
+    "aliases": "Firefly",
+    "alignment": "Lawful・Good",
+    "attribute": "Man",
+    "class_type": "Archer",
+    "gender": "f",
+    "id": 399,
+    "illustrator": "Shirabi",
+    "jp_name": "雑賀孫一",
+    "name": "Saika Magoichi",
+    "rarity": 4,
+    "release": "GUDAGUDA Super Goryokaku",
+    "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "voice_actor": "Oozora Naomi"
+  },
+  "400": {
+    "aliases": "Nagao Kagetora (Ruler), Northern God of War",
+    "alignment": "Chaotic・Balanced",
+    "attribute": "Earth",
+    "class_type": "Ruler",
+    "gender": "f",
+    "id": 400,
+    "illustrator": "Takeuchi Takashi",
+    "jp_name": "上杉謙信",
+    "name": "Uesugi Kenshin",
+    "rarity": 5,
+    "release": "GUDAGUDA Super Goryokaku Summoning Campaign 3",
+    "traits": "Divinity, Hominidae Servant, Humanoid, Servant, Riding, Weak to Enuma Elish",
+    "voice_actor": "Mizuki Nana"
+  },
+  "401": {
+    "aliases": "",
+    "alignment": "Chaotic・Balanced",
+    "attribute": "Sky",
+    "class_type": "Rider",
+    "gender": "m",
+    "id": 401,
+    "illustrator": "DANGERDROP",
+    "jp_name": "ネモ〔サンタ〕",
+    "name": "Nemo (Santa)",
+    "rarity": 4,
+    "release": "Christmas 2023",
+    "traits": "Argo-Related, Divine Spirit, Divinity, Greek Mythology Male, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "voice_actor": "Hanamori Yumiri"
   }
 }
