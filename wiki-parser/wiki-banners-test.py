@@ -230,6 +230,7 @@ NO_MERGE = {
     "Nahui Mictlan Chapter Release Part 2" : (1,),
     "FGO THE STAGE Camelot Release Campaign (US)" : (2,),
     "Avalon le Fae Conclusion Campaign (US)" : (1, 2,),
+    "GUDAGUDA Ryouma's Narrow Escape 2023 (US)/Summoning Campaign" : (1,),
 }
 
 # Pages that should not be included in the list of events.
@@ -264,11 +265,13 @@ TEST_PAGES = (
 )
 
 # TODO: Used in fix for later US events not being in Summoning Campaign category.
-NA_EVENT_LISTS = (
-    "Event List (US)/2021 Events",
-    "Event List (US)/2022 Events",
-    "Event List (US)/2023 Events"
-)
+# If it is 0, parse wikinlinks
+# If it is 1, parse templates
+NA_EVENT_LISTS = {
+    "Event List (US)/2021 Events" : 0,
+    "Event List (US)/2022 Events" : 0,
+    "Event List (US)/2023 Events" : 1
+}
 
 # Get the FGO wiki site.
 SITE = pywikibot.Site()
@@ -514,6 +517,57 @@ def parse_test():
         page = pywikibot.Page(SITE, page_name)
         parse(page)
 
+# Parse recent NA events
+def parse_na():
+    # Parse more recent NA event lists
+    for event_list, type_parse in NA_EVENT_LISTS.items():
+        page = pywikibot.Page(SITE, event_list)
+        print(f"Parsing {page.title()}...")
+        text = page.text
+        wikicode = mwparserfromhell.parse(text)
+        events = None
+        # 2021 and 2022 NA event list uses wikilinks
+        if type_parse == 0:
+            events = wikicode.filter_wikilinks()
+            # Filter out non-event pages
+            events = [x for x in events if not x.startswith("[[File:") and not x.startswith("[[Category:")]
+            # Get the title of each event
+            events = [x.title for x in events]
+        # 2023 NA event list uses templates
+        else:
+            events = wikicode.filter_templates()
+            # Get the title of each event
+            events = [x.get("event").value.strip() for x in events]
+        
+        # Parse each event
+        for event in (pbar := tqdm(events, bar_format=BAR_FORMAT)):
+            pbar.set_postfix_str(event)
+            event_page = pywikibot.Page(SITE, event)
+            parse(event_page)
+
+            # Parse any summoning campaign subpages
+            event_text = event_page.text
+            event_wikicode = mwparserfromhell.parse(event_text)
+            event_templates = event_wikicode.filter_templates()
+            for event_template in event_templates:
+                # If the event template contains the phrase "Summoning Campaign", parse it.
+                if "Summoning Campaign" in str(event_template.name):
+                    # Slice the first character off the name of the summoning campaign.
+                    summon_name = str(event_template.name)[1:]
+                    summon_page = pywikibot.Page(SITE, summon_name)
+                    parse(summon_page)
+
+def parse_na_test():
+    page = pywikibot.Page(SITE, "Christmas 2022 Event (US)")
+    # Get the title of the page
+    print(page.title())
+    print()
+    text = page.text
+    wikicode = mwparserfromhell.parse(text)
+    tags = wikicode.filter_templates()
+    for tag in tags:
+        print(tag.name)
+
 # Parse the Summoning Campaign category
 def parse_category():
     global EVENT_TITLES
@@ -560,14 +614,6 @@ def parse_category():
         pbar.set_postfix_str(page_name)
         page = pywikibot.Page(SITE, page_name)
         parse(page)
-
-# def parse_missing_na_events():
-#     for event_list in NA_EVENT_LISTS:
-#         page = pywikibot.Page(SITE, event_list)
-#         # Get contents of the page
-#         text = page.text
-#         print(text)
-
 
 # Parse a single page.
 def parse_page(page_name):
@@ -690,11 +736,17 @@ def cleanup_test():
         #         for reference3 in page3.getReferences():
         #             print(f'      {reference3.title()}')
 
+# parse_na_test()
+
+# sys.exit(0)
+
 # If TESTING is 1, parse the test pages. Otherwise, parse the Summoning Campaign category.
 if TESTING == 1:
     parse_test()
 else:
     parse_category()
+
+parse_na()
 
 # Merge and delete banners that are subpages of other banners/events.
 cleanup()
