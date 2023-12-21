@@ -319,8 +319,8 @@ def parse(page):
     # Get the title of the page
     title = page.title()
 
-    # Do not parse pages that are marked no-parse/no-merge or no-parse/mergeable
-    if title in FULL_EXCLUDE_PAGES or title in EXCLUDE_PARSE_PAGES:
+    # Do not parse pages that are marked no-parse/no-merge or no-parse/mergeable or title starts with "User blog:"
+    if title in FULL_EXCLUDE_PAGES or title in EXCLUDE_PARSE_PAGES or title.startswith("User blog:"):
         return
 
     # Get contents of the page
@@ -560,6 +560,14 @@ def parse_category():
         pbar.set_postfix_str(page_name)
         page = pywikibot.Page(SITE, page_name)
         parse(page)
+
+# def parse_missing_na_events():
+#     for event_list in NA_EVENT_LISTS:
+#         page = pywikibot.Page(SITE, event_list)
+#         # Get contents of the page
+#         text = page.text
+#         print(text)
+
 
 # Parse a single page.
 def parse_page(page_name):
