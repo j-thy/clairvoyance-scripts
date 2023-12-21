@@ -7049,7 +7049,7 @@
   },
   {
     "name": "FGO Summer 2021 Event (US)",
-    "date": "2021-07-27+00:00",
+    "date": "2021-07-26+00:00",
     "rateups": [
       [
         "Carmilla (Rider)",
@@ -7369,7 +7369,7 @@
   },
   {
     "name": "Halloween 2020 Event Revival (US)",
-    "date": "2021-09-22+00:00",
+    "date": "2021-09-21+00:00",
     "rateups": [
       [
         "Ibaraki D\u014dji",
@@ -7645,7 +7645,7 @@
   },
   {
     "name": "Christmas 2021 Event (US)",
-    "date": "2021-12-13+00:00",
+    "date": "2021-12-10+00:00",
     "rateups": [
       [
         "Astolfo (Saber)",
@@ -7754,7 +7754,7 @@
   },
   {
     "name": "Amazones.com ~CEO Crisis 2022~ (US)",
-    "date": "2022-01-17+00:00",
+    "date": "2022-01-15+00:00",
     "rateups": [
       [
         "Cleopatra",
@@ -7786,7 +7786,7 @@
   },
   {
     "name": "Valentine 2022 Event (US)",
-    "date": "2022-01-31+00:00",
+    "date": "2022-01-29+00:00",
     "rateups": [
       [
         "Altera",
@@ -8377,7 +8377,7 @@
   },
   {
     "name": "FGO Summer 2022 Event (US)",
-    "date": "2022-07-11+00:00",
+    "date": "2022-07-07+00:00",
     "rateups": [
       [
         "Brynhildr (Berserker)",
@@ -9869,21 +9869,6 @@
     ]
   },
   {
-    "name": "FGO Festival 2023 ~6th Anniversary~ (US)",
-    "date": "2023-06-27+00:00",
-    "rateups": [
-      [
-        "Sherlock Holmes"
-      ],
-      [
-        "Caenis",
-        "Koyanskaya of Light",
-        "Qin Liangyu",
-        "Valkyrie"
-      ]
-    ]
-  },
-  {
     "name": "28M Downloads Campaign",
     "date": "2023-06-28+00:00",
     "rateups": [
@@ -9908,6 +9893,21 @@
       [
         "Enkidu",
         "Gilgamesh"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Festival 2023 ~6th Anniversary~ (US)",
+    "date": "2023-07-03+00:00",
+    "rateups": [
+      [
+        "Sherlock Holmes"
+      ],
+      [
+        "Caenis",
+        "Koyanskaya of Light",
+        "Qin Liangyu",
+        "Valkyrie"
       ]
     ]
   },
@@ -10133,7 +10133,7 @@
   },
   {
     "name": "FGO Summer 2023 Event (US)",
-    "date": "2023-08-21+00:00",
+    "date": "2023-08-23+00:00",
     "rateups": [
       [
         "Anne Bonny & Mary Read (Archer)",
@@ -10343,6 +10343,26 @@
     ]
   },
   {
+    "name": "Halloween 2023 Event (US)",
+    "date": "2023-10-07+00:00",
+    "rateups": [
+      [
+        "Jacques de Molay",
+        "Zenobia"
+      ],
+      [
+        "Bedivere",
+        "Chevalier d'Eon",
+        "Napol\u00e9on"
+      ],
+      [
+        "Li Shuwen",
+        "Mordred",
+        "Scheherazade"
+      ]
+    ]
+  },
+  {
     "name": "Evocation Festival Part 5 Summoning Campaign",
     "date": "2023-10-13+00:00",
     "rateups": [
@@ -10367,6 +10387,23 @@
     ]
   },
   {
+    "name": "GUDAGUDA Yamataikoku 2022 Revival (US)",
+    "date": "2023-10-24+00:00",
+    "rateups": [
+      [
+        "Hijikata Toshiz\u014d",
+        "Himiko",
+        "Okita S\u014dji",
+        "Sait\u014d Hajime"
+      ],
+      [
+        "Circe",
+        "Mysterious Heroine X",
+        "Space Ishtar"
+      ]
+    ]
+  },
+  {
     "name": "Grail Front ~White Castle by Day, Black Castle by Night~",
     "date": "2023-10-26+00:00",
     "rateups": [
@@ -10385,6 +10422,36 @@
         "Sugitani Zenj\u016bb\u014d",
         "Theseus",
         "Zhuge Liang (Lord El-Melloi II)"
+      ]
+    ]
+  },
+  {
+    "name": "Cozy up for Winter Campaign 2023 (US)",
+    "date": "2023-11-06+00:00",
+    "rateups": [
+      [
+        "Ibuki D\u014dji",
+        "Sakata Kintoki",
+        "Watanabe no Tsuna"
+      ]
+    ]
+  },
+  {
+    "name": "GUDAGUDA Ryouma's Narrow Escape 2023 (US)",
+    "date": "2023-11-08+00:00",
+    "rateups": [
+      [
+        "Izumo no Okuni",
+        "Mori Nagayoshi",
+        "Oda Nobunaga (Berserker)",
+        "Okada Iz\u014d"
+      ],
+      [
+        "Demon King Nobunaga",
+        "Mori Nagayoshi",
+        "Okada Iz\u014d",
+        "Okita J S\u014dji",
+        "Sakamoto Ry\u014dma (Lancer)"
       ]
     ]
   },
@@ -10412,6 +10479,28 @@
     ]
   },
   {
+    "name": "FGO Thanksgiving Special 2023 (US)",
+    "date": "2023-11-20+00:00",
+    "rateups": [
+      [
+        "Abigail Williams",
+        "Amakusa Shir\u014d",
+        "Astolfo",
+        "Astolfo (Saber)",
+        "Atalanta",
+        "Chiron",
+        "Frankenstein",
+        "Frankenstein (Saber)",
+        "Jeanne d'Arc (Archer)",
+        "Kama",
+        "Mordred (Rider)",
+        "Semiramis",
+        "Sessh\u014din Kiara",
+        "Siegfried"
+      ]
+    ]
+  },
+  {
     "name": "Evocation Festival Part 6 Summoning Campaign",
     "date": "2023-11-23+00:00",
     "rateups": [
@@ -10422,6 +10511,16 @@
         "Oda Nobunaga (Berserker)",
         "Okada Iz\u014d",
         "Sakamoto Ry\u014dma (Lancer)"
+      ]
+    ]
+  },
+  {
+    "name": "Interlude Campaign 18 (US)",
+    "date": "2023-11-24+00:00",
+    "rateups": [
+      [
+        "Galatea",
+        "Katsushika Hokusai"
       ]
     ]
   },
@@ -10454,11 +10553,26 @@
     ]
   },
   {
+    "name": "Christmas 2023 Event (US)",
+    "date": "2023-12-05+00:00",
+    "rateups": [
+      [
+        "Beni-Enma",
+        "EMIYA",
+        "Martha",
+        "Sc\u00e1thach-Ska\u00f0i"
+      ]
+    ]
+  },
+  {
     "name": "Christmas 2023",
     "date": "2023-12-20+00:00",
     "rateups": [
       [
         "Nemo"
+      ],
+      [
+        "Britomart"
       ]
     ]
   }
