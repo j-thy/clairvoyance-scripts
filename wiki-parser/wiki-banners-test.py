@@ -9,6 +9,7 @@ import sys
 import shutil
 import difflib
 from tqdm import tqdm
+from collections import OrderedDict
 
 # TODO: Fix FGO Summer 2018 Event Revival (US)/Summoning Campaign
 
@@ -199,6 +200,14 @@ PAGE_FIXES = {
     'Class Based Summoning Campaign March 2023 (US)' : [r'</tabber>', r'|}\n</tabber>'],
 }
 
+SUMMON_SUBPAGE = (
+    "Summoning Campaign",
+    "Summoning_Campaign",
+    "Pick Up",
+    "Event Info",
+    "Event_Info",
+)
+
 # Test pages to parse.
 TEST_PAGES = (
     "Fate/Apocrypha Collaboration Event Revival (US)/Summoning Campaign",
@@ -208,9 +217,22 @@ TEST_PAGES = (
 # If it is 0, parse wikinlinks
 # If it is 1, parse templates
 NA_EVENT_LISTS = {
-    "Event List (US)/2021 Events" : 0,
-    "Event List (US)/2022 Events" : 0,
-    "Event List (US)/2023 Events" : 1
+    # "Event List/2015 Events" : 0,
+    "Event List/2016 Events" : 0,
+    # "Event List/2017 Events" : 0,
+    # "Event List/2018 Events" : 0,
+    # "Event List/2019 Events" : 0,
+    # "Event List/2020 Events" : 0,
+    # "Event List/2021 Events" : 0,
+    # "Event List/2022 Events" : 0,
+    # "Event List/2023 Events" : 1,
+    # "Event List (US)/2017 Events" : 0,
+    # "Event List (US)/2018 Events" : 0,
+    # "Event List (US)/2019 Events" : 0,
+    # "Event List (US)/2020 Events" : 0,
+    # "Event List (US)/2021 Events" : 0,
+    # "Event List (US)/2022 Events" : 0,
+    # "Event List (US)/2023 Events" : 1
 }
 
 # Get the FGO wiki site.
@@ -223,7 +245,7 @@ with open(os.path.join(os.path.dirname(__file__), 'servant_data.json')) as f:
 servant_names = set([servant_data[servant]['name'] for servant in servant_data])
 
 # Initialize the summoning campaign and event dictionaries.
-BANNER_DICT = {}
+BANNER_DICT = OrderedDict()
 EVENT_DICT = {}
 EVENT_TITLES = ()
 
@@ -258,7 +280,7 @@ def correct_name(text):
     return text
 
 # Parse a wiki page
-def parse(page):
+def parse(page, parent=None):
     # Get the title of the page
     title = page.title()
 
@@ -440,7 +462,10 @@ def parse(page):
     # print(banners)
 
     # Save the date of page creation with the summoning campaign.
-    BANNER_DICT[title] = [page.oldest_revision.timestamp, banners]
+    if parent:
+        BANNER_DICT[parent][1].extend(banners)
+    else:
+        BANNER_DICT[title] = [page.oldest_revision.timestamp, banners]
     # print(banners)
 
 # Parse test pages
@@ -470,7 +495,7 @@ def parse_na():
         if type_parse == 0:
             events = wikicode.filter_wikilinks()
             # Filter out non-event pages
-            events = [x for x in events if not x.startswith("[[File:") and not x.startswith("[[Category:")]
+            events = [x for x in events if not x.startswith("[[File:") and not x.startswith("[[Category:") and not x.startswith("[[#")]
             # Get the title of each event
             events = [x.title for x in events]
         # 2023 NA event list uses templates
@@ -478,6 +503,9 @@ def parse_na():
             events = wikicode.filter_templates()
             # Get the title of each event
             events = [x.get("event").value.strip() for x in events]
+        
+        # Reverse events
+        events.reverse()
         
         # Parse each event
         for event in (pbar := tqdm(events, bar_format=BAR_FORMAT)):
@@ -492,22 +520,38 @@ def parse_na():
             for event_template in event_templates:
                 event_subpage = str(event_template.name)
                 # If the event template contains the phrase "Summoning Campaign", parse it.
-                if "Summoning Campaign" in event_subpage or "Summoning_Campaign" in event_subpage:
-                    # Slice the first character off the name of the summoning campaign.
+                if any(keyword in event_subpage for keyword in SUMMON_SUBPAGE):
                     summon_name = event_subpage[1:]
                     summon_page = pywikibot.Page(SITE, summon_name)
-                    parse(summon_page)
+                    parse(summon_page, event_page.title())
+                    # Get second to last element of BANNER_DICT
+                    vals = list(BANNER_DICT.values())
+                    try:
+                        for rateup in vals[-2][1]:
+                            if rateup in vals[-1][1]:
+                                # Delete that element
+                                del BANNER_DICT[list(BANNER_DICT.keys())[-2]]
+                                break
+                    except IndexError:
+                        pass
 
 def parse_na_test():
-    page = pywikibot.Page(SITE, "Christmas 2022 Event (US)")
+    page = pywikibot.Page(SITE, "Event List/2015 Events")
     # Get the title of the page
     print(page.title())
     print()
     text = page.text
     wikicode = mwparserfromhell.parse(text)
-    tags = wikicode.filter_templates()
-    for tag in tags:
-        print(tag.name)
+
+    events = wikicode.filter_wikilinks()
+    events = [x for x in events if not x.startswith("[[File:") and not x.startswith("[[Category:") and not x.startswith("[[#")]
+    events = [x.title for x in events]
+
+    # events = wikicode.filter_templates()
+    # events = [x.get("event").value.strip() for x in events]
+
+    for event in events:
+        print(event)
 
 # Parse the Summoning Campaign category
 def parse_category():
@@ -678,22 +722,21 @@ def cleanup_test():
         #             print(f'      {reference3.title()}')
 
 # parse_na_test()
-
 # sys.exit(0)
 
 # If TESTING is 1, parse the test pages. Otherwise, parse the Summoning Campaign category.
 if TESTING == 1:
     parse_test()
-else:
-    parse_category()
+# else:
+#     parse_category()
 
 parse_na()
 
 # Merge and delete banners that are subpages of other banners/events.
-cleanup()
+# cleanup()
 
 # Merge list of events with rateups into list of summoning campaigns with rateups.
-BANNER_DICT.update(EVENT_DICT)
+# BANNER_DICT.update(EVENT_DICT)
 
 # Remove banners with no rateups.
 remove_empty()
@@ -709,7 +752,7 @@ for banner in BANNER_DICT:
         'date': BANNER_DICT[banner][0],
         'rateups': BANNER_DICT[banner][1]
     })
-banner_list.sort(key=lambda x: x['date'])
+# banner_list.sort(key=lambda x: x['date'])
 
 # Save the banner list to a JSON file.
 print("Saving to JSON file...")
