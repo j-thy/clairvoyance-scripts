@@ -609,16 +609,6 @@
     ]
   },
   {
-    "name": "Halloween 2016 Event",
-    "date": "2016-10-10+00:00",
-    "rateups": [
-      [
-        "Cleopatra",
-        "Vlad III (EXTRA)"
-      ]
-    ]
-  },
-  {
     "name": "Halloween 2015 Event Re-Run Lite Ver",
     "date": "2016-10-10+00:00",
     "rateups": [
@@ -628,6 +618,16 @@
         "Mephistopheles",
         "Tamamo Cat",
         "Tamamo no Mae"
+      ]
+    ]
+  },
+  {
+    "name": "Halloween 2016 Event",
+    "date": "2016-10-10+00:00",
+    "rateups": [
+      [
+        "Cleopatra",
+        "Vlad III (EXTRA)"
       ]
     ]
   },
