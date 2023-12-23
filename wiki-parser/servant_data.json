@@ -4751,7 +4751,7 @@
     "name": "Okita Sōji (Saber Alter)",
     "rarity": 5,
     "release": "Chaldea Summer Adventure",
-    "traits": "Artoria Face, Feminine Looking, Group Servant, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Summer Mode Servant, Shinsengumi Servant, Weak to Enuma Elish",
+    "traits": "Artoria Face, Feminine Looking, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Summer Mode Servant, Shinsengumi Servant, Weak to Enuma Elish",
     "voice_actor": "Yūki Aoi, Nakamura Yuuichi"
   },
   "318": {
@@ -4950,7 +4950,7 @@
     "voice_actor": "Hayami Saori"
   },
   "331": {
-    "aliases": "Grand Duke Wang, Taikōbō, Jiang Ziya",
+    "aliases": "Grand Duke Wang, Taikōbō, Jiang Ziya, Tai Gong Wang",
     "alignment": "Neutral・Good",
     "attribute": "Earth",
     "class_type": "Rider",
@@ -4958,7 +4958,7 @@
     "id": 331,
     "illustrator": "Oyo",
     "jp_name": "太公望",
-    "name": "Tai Gong Wang",
+    "name": "Taigong Wang",
     "rarity": 5,
     "release": "Tunguska Sanctuary",
     "traits": "Loved One, Hominidae Servant, Humanoid, Immune to Pigify, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",

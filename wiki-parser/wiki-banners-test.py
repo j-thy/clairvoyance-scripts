@@ -21,6 +21,13 @@ TESTING = 0
 if len(sys.argv) > 1:
     TESTING = int(sys.argv[1])
 
+# SUMMON_KEYWORDS = (
+#     "Summoning Campaign",
+#     "Increased draw rate",
+#     "/Event_Info",
+#     "/Main Info",
+# )
+
 # Keywords that indicate the wikitable is a rateup servants wikitable.
 TABLE_MATCHES = (
     "New Servant",
@@ -84,13 +91,14 @@ REMOVE_MATCHES = (
     "Quest=",
     "Grand Summon",
     "Updates?\s?=",
-    "New Information="
+    "New Information=",
+    "New Servant Interlude",
 )
 
 # Pages that should not be parsed nor merged into.
 FULL_EXCLUDE_PAGES = (
-    "Jack Campaign",
-    "Mysterious Heroine X Pick Up",
+    # "Jack Campaign",
+    # "Mysterious Heroine X Pick Up",
     "2017 New Year Lucky Bag Summoning Campaign",
     "Fate/Grand Order Fes. 2017 ～2nd Anniversary～ Lucky Bag Summoning Campaign",
     "Fate/Grand Order Fes. 2018 ～3rd Anniversary～ Lucky Bag Summoning Campaign",
@@ -102,20 +110,41 @@ FULL_EXCLUDE_PAGES = (
     "Fate/Grand Order ～6th Anniversary～ Lucky Bag Summoning Campaign",
     "Lucky Bag 2022 Summoning Campaign New Year Special",
     "Fate/Grand Order ～7th Anniversary～ Lucky Bag Summoning Campaign",
-    "The Antiquated Spider Nostalgically Spins Its Thread",
-    "The Antiquated Spider Nostalgically Spins Its Thread/Main Info",
-    "Aeaean Spring Breeze",
-    "Aeaean Spring Breeze/Main Info",
-    "Slapstick Museum",
-    "Slapstick Museum/Main Info",
+    # "The Antiquated Spider Nostalgically Spins Its Thread",
+    # "The Antiquated Spider Nostalgically Spins Its Thread/Main Info",
+    # "Aeaean Spring Breeze",
+    # "Aeaean Spring Breeze/Main Info",
+    # "Slapstick Museum",
+    # "Slapstick Museum/Main Info",
     "Fate/Apocrypha Event Pre-Release Campaign (US)/Rate Up Schedule",
+    "Valentine 2020/Main Info",
+)
+
+INCLUDE_SUBPAGE = {
+    "FGO 2016 Summer Event" : ["FGO 2016 Summer Event/Event Details", "FGO 2016 Summer Event/Part II Event Details"],
+    "SE.RA.PH" : ["Fate/EXTRA CCC×Fate/Grand Order"],
+    "FGO 2016 Summer Event Re-Run" : ["FGO 2016 Summer Event Re-Run/Event Info"],
+    "Dead Heat Summer Race!" : ["Dead Heat Summer Race!/Event Info"],
+    "Setsubun 2018" : ["Setsubun 2018/Main Info"],
+    "Dead Heat Summer Race! Re-run" : ["Dead Heat Summer Race! Re-run/Event Info"],
+    "FGO Summer 2018 Event (US)" : ["FGO Summer 2018 Event (US)/Summoning Campaign"],
+    "Servant Summer Festival! 2018" : ["Servant Summer Festival! 2018/Event Info"],
+    "FGO Summer 2018 Event Revival (US)" : ["FGO Summer 2018 Event Revival (US)/Summoning Campaign"],
+    "Servant Summer Festival! 2018 Rerun" : ["Servant Summer Festival! 2018 Rerun/Main Info"],
+    "FGO Summer 2019 Event (US)" : ["FGO Summer 2019 Event (US)/Summoning Campaign"],
+    "Halloween 2018 Event Revival (US)" : ["Halloween 2018 Event Revival (US)/Summoning Campaign"],
+    "The Tale of Setsubun (US)" : ["The Tale of Setsubun (US)/Summoning Campaign"],
+    "FGO Summer 2019 Event Revival (US)" : ["FGO Summer 2019 Event Revival (US)/Summoning Campaign"],
+}
+
+EXCLUDE_PAGE_NEW = (
+    "WinFes 2018/19 Commemoration Campaign: Kumamoto",
 )
 
 # Pages that should not be parsed but can be merged into.
 EXCLUDE_PARSE_PAGES = (
-    "Valentine 2020/Main Info",
-    "Valentine 2020",
-    "Traum Chapter Release",
+    # "Valentine 2020",
+    # "Traum Chapter Release",
 )
 
 # Pages with wikitables that can generate false positives so table-style parsing should be skipped.
@@ -198,14 +227,29 @@ PAGE_FIXES = {
     'FGO Summer 2018 Event Revival (US)/Summoning Campaign' : [r'{{Marie Antoinette}}', r'{{Marie Antoinette (Caster)}}'],
     'Class Based Summoning Campaign August 2021 (US)' : [r'Knight Classes=\n(.*\n)', r'Knight Classes=\n\1! colspan=2|Rate-Up Servant List'],
     'Class Based Summoning Campaign March 2023 (US)' : [r'</tabber>', r'|}\n</tabber>'],
+    'Holy Grail Front ~Moonsault Operation~/Event Info' : [r'{{!}}', r'|'],
 }
 
 SUMMON_SUBPAGE = (
     "Summoning Campaign",
     "Summoning_Campaign",
     "Pick Up",
-    "Event Info",
-    "Event_Info",
+    "/Event Info",
+    "/Event_Info",
+    "/Main Info",
+    "/Main_Info",
+    "/Event Summary",
+    "/Info",
+    "/Summoning",
+    "/Summon",
+    "Advance Campaign",
+    "Special Campaign",
+    "Pre-Release_Campaign",
+    "Pre-Release Campaign",
+    "Commemorative Campaign",
+    "Comeback Campaign",
+    "Countdown Campaign",
+    "Pre-Anniversary Campaign",
 )
 
 # Test pages to parse.
@@ -217,22 +261,22 @@ TEST_PAGES = (
 # If it is 0, parse wikinlinks
 # If it is 1, parse templates
 NA_EVENT_LISTS = {
-    # "Event List/2015 Events" : 0,
+    "Event List/2015 Events" : 0,
     "Event List/2016 Events" : 0,
-    # "Event List/2017 Events" : 0,
-    # "Event List/2018 Events" : 0,
-    # "Event List/2019 Events" : 0,
-    # "Event List/2020 Events" : 0,
-    # "Event List/2021 Events" : 0,
-    # "Event List/2022 Events" : 0,
-    # "Event List/2023 Events" : 1,
-    # "Event List (US)/2017 Events" : 0,
-    # "Event List (US)/2018 Events" : 0,
-    # "Event List (US)/2019 Events" : 0,
-    # "Event List (US)/2020 Events" : 0,
-    # "Event List (US)/2021 Events" : 0,
-    # "Event List (US)/2022 Events" : 0,
-    # "Event List (US)/2023 Events" : 1
+    "Event List/2017 Events" : 0,
+    "Event List/2018 Events" : 0,
+    "Event List/2019 Events" : 0,
+    "Event List/2020 Events" : 0,
+    "Event List/2021 Events" : 0,
+    "Event List/2022 Events" : 0,
+    "Event List/2023 Events" : 1,
+    "Event List (US)/2017 Events" : 0,
+    "Event List (US)/2018 Events" : 0,
+    "Event List (US)/2019 Events" : 0,
+    "Event List (US)/2020 Events" : 0,
+    "Event List (US)/2021 Events" : 0,
+    "Event List (US)/2022 Events" : 0,
+    "Event List (US)/2023 Events" : 1
 }
 
 # Get the FGO wiki site.
@@ -248,6 +292,8 @@ servant_names = set([servant_data[servant]['name'] for servant in servant_data])
 BANNER_DICT = OrderedDict()
 EVENT_DICT = {}
 EVENT_TITLES = ()
+CURRENT_YEAR = 0
+CURRENT_REGION = ""
 
 # Finds indexes of matching keywords in order to breaks link-style pages into chunks, each ideally with a rateup.
 def search_text(text):
@@ -391,7 +437,7 @@ def parse(page, parent=None):
 
     # In older pages, the rateup servants are not in a wikitable, but are instead in links.
     # If the page is marked as priority, no need to look for keywords and parse servants regardless.
-    if not banners and title in PRIORITY_PAGES:
+    if not banners and title in PRIORITY_PAGES and not (CURRENT_REGION == "JP" and CURRENT_YEAR >= 2022):
         # Get all the links in the page.
         links = wikicode.filter_wikilinks()
         # Initialize the list of rateup servants.
@@ -414,7 +460,7 @@ def parse(page, parent=None):
             # Append the rateup to the start of the banners list.
             banners.insert(0, rateup_servants)
     # If the page is not marked as priority, look for keywords and parse servants if found.
-    elif not banners and title not in PRIORITY_PAGES:
+    elif not banners and title not in PRIORITY_PAGES and not (CURRENT_REGION == "JP" and CURRENT_YEAR >= 2022):
         links = []
         # Get the indexes that indicate sections of the text to parse and sections to skip.
         splits = search_text(text)
@@ -463,7 +509,10 @@ def parse(page, parent=None):
 
     # Save the date of page creation with the summoning campaign.
     if parent:
-        BANNER_DICT[parent][1].extend(banners)
+        try:
+            BANNER_DICT[parent][1].extend(banners)
+        except KeyError:
+            BANNER_DICT[parent] = [page.oldest_revision.timestamp, banners]
     else:
         BANNER_DICT[title] = [page.oldest_revision.timestamp, banners]
     # print(banners)
@@ -482,10 +531,61 @@ def parse_test():
         page = pywikibot.Page(SITE, page_name)
         parse(page)
 
+def pre_release_remove():
+    # Delete any existing precampaigns
+    vals = list(BANNER_DICT.values())
+    try:
+        for i in range(-2, -5, -1):
+            # print(f'{list(BANNER_DICT.keys())[i]} ? {list(BANNER_DICT.keys())[-1]}')
+            for rateup in vals[i][1]:
+                if rateup in vals[-1][1]:
+                    # Delete that element
+                    del BANNER_DICT[list(BANNER_DICT.keys())[i]]
+                    break
+    except IndexError:
+        pass
+
+def post_release_remove():
+    # Delete any existing precampaigns
+    vals = list(BANNER_DICT.values())
+    try:
+        for i in range(-2, -5, -1):
+            for rateup in vals[-1][1]:
+                if rateup in vals[i][1]:
+                    # Delete that element
+                    del BANNER_DICT[list(BANNER_DICT.keys())[-1]]
+                    break
+    except IndexError:
+        pass
+
+def rec_check_subpages(event_page, parent_title):
+    event_text = event_page.text
+    event_wikicode = mwparserfromhell.parse(event_text)
+    event_templates = event_wikicode.filter_templates()
+    for event_template in event_templates:
+        event_subpage = str(event_template.name)
+        # If the event template contains the phrase "Summoning Campaign", parse it.
+        if any(keyword in event_subpage for keyword in SUMMON_SUBPAGE):
+            summon_name = event_subpage[1:]
+            summon_page = pywikibot.Page(SITE, summon_name)
+            parse(summon_page, parent_title)
+            # print(f'R: Parsing {summon_page.title()}: {BANNER_DICT}')
+
+            # Check another level of subpages
+            rec_check_subpages(summon_page, parent_title)
+            pre_release_remove()
+
+
+
 # Parse recent NA events
 def parse_na():
+    global CURRENT_YEAR
+    global CURRENT_REGION
+
     # Parse more recent NA event lists
     for event_list, type_parse in NA_EVENT_LISTS.items():
+        CURRENT_YEAR = int(event_list.split('/')[1][:4])
+        CURRENT_REGION = "NA" if "US" in event_list else "JP"
         page = pywikibot.Page(SITE, event_list)
         print(f"Parsing {page.title()}...")
         text = page.text
@@ -506,37 +606,33 @@ def parse_na():
         
         # Reverse events
         events.reverse()
+
+        # events = ["Valentine 2020"]
         
         # Parse each event
         for event in (pbar := tqdm(events, bar_format=BAR_FORMAT)):
             pbar.set_postfix_str(event)
             event_page = pywikibot.Page(SITE, event)
+            if event_page.title() in EXCLUDE_PAGE_NEW:
+                continue
             parse(event_page)
+            # print(f'1: Parsing {event_page.title()}: {BANNER_DICT}')
+
+            if event_page.title() in INCLUDE_SUBPAGE:
+                for subpage in INCLUDE_SUBPAGE[event_page.title()]:
+                    summon_page = pywikibot.Page(SITE, subpage)
+                    parse(summon_page, event_page.title())
+                    # print(f'I: Parsing {summon_page.title()}: {BANNER_DICT}')
+                    pre_release_remove()
 
             # Parse any summoning campaign subpages
-            event_text = event_page.text
-            event_wikicode = mwparserfromhell.parse(event_text)
-            event_templates = event_wikicode.filter_templates()
-            for event_template in event_templates:
-                event_subpage = str(event_template.name)
-                # If the event template contains the phrase "Summoning Campaign", parse it.
-                if any(keyword in event_subpage for keyword in SUMMON_SUBPAGE):
-                    summon_name = event_subpage[1:]
-                    summon_page = pywikibot.Page(SITE, summon_name)
-                    parse(summon_page, event_page.title())
-                    # Get second to last element of BANNER_DICT
-                    vals = list(BANNER_DICT.values())
-                    try:
-                        for rateup in vals[-2][1]:
-                            if rateup in vals[-1][1]:
-                                # Delete that element
-                                del BANNER_DICT[list(BANNER_DICT.keys())[-2]]
-                                break
-                    except IndexError:
-                        pass
+            rec_check_subpages(event_page, event_page.title())
+
+            post_release_remove()
+            # print(f'2: {BANNER_DICT}')
 
 def parse_na_test():
-    page = pywikibot.Page(SITE, "Event List/2015 Events")
+    page = pywikibot.Page(SITE, "Event List/2021 Events")
     # Get the title of the page
     print(page.title())
     print()
@@ -549,6 +645,8 @@ def parse_na_test():
 
     # events = wikicode.filter_templates()
     # events = [x.get("event").value.strip() for x in events]
+
+    events.reverse()
 
     for event in events:
         print(event)
@@ -752,7 +850,7 @@ for banner in BANNER_DICT:
         'date': BANNER_DICT[banner][0],
         'rateups': BANNER_DICT[banner][1]
     })
-# banner_list.sort(key=lambda x: x['date'])
+banner_list.sort(key=lambda x: x['date'])
 
 # Save the banner list to a JSON file.
 print("Saving to JSON file...")
