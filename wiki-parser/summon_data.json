@@ -65,19 +65,6 @@
     ]
   },
   {
-    "name": "Orleans Campaign",
-    "date": "2015-10-14+00:00",
-    "rateups": [
-      [
-        "Chevalier d'Eon",
-        "Gilles de Rais (Saber)",
-        "Jeanne d'Arc",
-        "Kiyohime",
-        "Siegfried"
-      ]
-    ]
-  },
-  {
     "name": "Halloween 2015 Event",
     "date": "2015-10-11+00:00",
     "rateups": [
@@ -91,8 +78,21 @@
     ]
   },
   {
+    "name": "Orleans Campaign",
+    "date": "2015-10-14+00:00",
+    "rateups": [
+      [
+        "Chevalier d'Eon",
+        "Gilles de Rais (Saber)",
+        "Jeanne d'Arc",
+        "Kiyohime",
+        "Siegfried"
+      ]
+    ]
+  },
+  {
     "name": "Okeanos Chapter Release",
-    "date": "2023-08-09+00:00",
+    "date": "2015-10-30+00:00",
     "rateups": [
       [
         "Anne Bonny & Mary Read",
@@ -609,6 +609,16 @@
     ]
   },
   {
+    "name": "Halloween 2016 Event",
+    "date": "2016-10-10+00:00",
+    "rateups": [
+      [
+        "Cleopatra",
+        "Vlad III (EXTRA)"
+      ]
+    ]
+  },
+  {
     "name": "Halloween 2015 Event Re-Run Lite Ver",
     "date": "2016-10-10+00:00",
     "rateups": [
@@ -618,16 +628,6 @@
         "Mephistopheles",
         "Tamamo Cat",
         "Tamamo no Mae"
-      ]
-    ]
-  },
-  {
-    "name": "Halloween 2016 Event",
-    "date": "2016-10-10+00:00",
-    "rateups": [
-      [
-        "Cleopatra",
-        "Vlad III (EXTRA)"
       ]
     ]
   },
@@ -2272,17 +2272,17 @@
     "date": "2018-04-11+00:00",
     "rateups": [
       [
+        "EMIYA (Assassin)",
+        "Hassan of the Hundred Faces",
+        "Iskandar",
+        "Zhuge Liang (Lord El-Melloi II)"
+      ],
+      [
         "Artoria Pendragon",
         "Diarmuid Ua Duibhne",
         "Gilgamesh",
         "Gilles de Rais",
         "Lancelot"
-      ],
-      [
-        "EMIYA (Assassin)",
-        "Hassan of the Hundred Faces",
-        "Iskandar",
-        "Zhuge Liang (Lord El-Melloi II)"
       ]
     ]
   },
@@ -2318,6 +2318,10 @@
     "date": "2018-04-29+00:00",
     "rateups": [
       [
+        "Achilles",
+        "Chiron"
+      ],
+      [
         "Astolfo",
         "Frankenstein",
         "Jack the Ripper",
@@ -2331,10 +2335,6 @@
         "Karna",
         "Mordred",
         "Semiramis"
-      ],
-      [
-        "Achilles",
-        "Chiron"
       ]
     ]
   },
@@ -2605,7 +2605,7 @@
   },
   {
     "name": "FGO Summer 2018 Event (US)",
-    "date": "2018-07-24+00:00",
+    "date": "2018-07-22+00:00",
     "rateups": [
       [
         "Anne Bonny & Mary Read (Archer)",
@@ -2971,6 +2971,19 @@
     ]
   },
   {
+    "name": "Halloween 2018 Event Revival (US)",
+    "date": "2018-09-28+00:00",
+    "rateups": [
+      [
+        "Cleopatra",
+        "Ibaraki D\u014dji",
+        "Nitocris",
+        "Robin Hood",
+        "Vlad III (EXTRA)"
+      ]
+    ]
+  },
+  {
     "name": "Halloween 2017 Event Re-Run",
     "date": "2018-10-04+00:00",
     "rateups": [
@@ -3018,7 +3031,7 @@
   },
   {
     "name": "Halloween 2018 Event (US)",
-    "date": "2018-10-23+00:00",
+    "date": "2018-10-18+00:00",
     "rateups": [
       [
         "Cleopatra",
@@ -3193,16 +3206,16 @@
     "date": "2018-12-31+00:00",
     "rateups": [
       [
-        "Diarmuid Ua Duibhne (Saber)",
-        "Kiyohime",
-        "Li Shuwen",
-        "Tomoe Gozen"
-      ],
-      [
         "Beni-Enma",
         "Fionn mac Cumhaill",
         "Tamamo Cat",
         "Tamamo no Mae"
+      ],
+      [
+        "Diarmuid Ua Duibhne (Saber)",
+        "Kiyohime",
+        "Li Shuwen",
+        "Tomoe Gozen"
       ]
     ]
   },
@@ -3407,16 +3420,16 @@
     "date": "2019-02-16+00:00",
     "rateups": [
       [
-        "Gawain",
-        "Kingprotea",
-        "Tristan"
-      ],
-      [
         "EMIYA (Alter)",
         "Meltryllis",
         "Passionlip",
         "Robin Hood",
         "Suzuka Gozen"
+      ],
+      [
+        "Gawain",
+        "Kingprotea",
+        "Tristan"
       ]
     ]
   },
@@ -3679,13 +3692,13 @@
     "date": "2019-03-19+00:00",
     "rateups": [
       [
+        "Kama",
+        "Parvati"
+      ],
+      [
         "Scheherazade",
         "Sessh\u014din Kiara",
         "Yagy\u016b Munenori"
-      ],
-      [
-        "Kama",
-        "Parvati"
       ]
     ]
   },
@@ -4186,7 +4199,7 @@
   },
   {
     "name": "FGO Summer 2018 Event Revival (US)",
-    "date": "2019-07-10+00:00",
+    "date": "2019-07-09+00:00",
     "rateups": [
       [
         "Anne Bonny & Mary Read (Archer)",
@@ -4224,7 +4237,7 @@
   },
   {
     "name": "FGO Summer 2019 Event (US)",
-    "date": "2019-07-26+00:00",
+    "date": "2019-07-25+00:00",
     "rateups": [
       [
         "Frankenstein (Saber)",
@@ -4287,14 +4300,14 @@
     "date": "2019-08-03+00:00",
     "rateups": [
       [
-        "F\u016bma Kotar\u014d",
-        "Merlin",
-        "Siegfried"
-      ],
-      [
         "Carmilla (Rider)",
         "Miyamoto Musashi (Berserker)",
         "Osakabehime (Archer)"
+      ],
+      [
+        "F\u016bma Kotar\u014d",
+        "Merlin",
+        "Siegfried"
       ],
       [
         "Artoria Pendragon (Ruler)",
@@ -4628,19 +4641,6 @@
     ]
   },
   {
-    "name": "Halloween 2018 Event Revival (US)",
-    "date": "2019-09-17+00:00",
-    "rateups": [
-      [
-        "Cleopatra",
-        "Ibaraki D\u014dji",
-        "Nitocris",
-        "Robin Hood",
-        "Vlad III (EXTRA)"
-      ]
-    ]
-  },
-  {
     "name": "KYOMAF2019 Exhibit Commemoration Summoning Campaign",
     "date": "2019-09-22+00:00",
     "rateups": [
@@ -4736,12 +4736,12 @@
     "date": "2019-10-26+00:00",
     "rateups": [
       [
-        "Mysterious Heroine X (Alter)",
-        "Yagy\u016b Munenori"
-      ],
-      [
         "Calamity Jane",
         "Space Ishtar"
+      ],
+      [
+        "Mysterious Heroine X (Alter)",
+        "Yagy\u016b Munenori"
       ]
     ]
   },
@@ -4908,14 +4908,14 @@
     "date": "2019-12-28+00:00",
     "rateups": [
       [
-        "Kiyohime",
-        "Li Shuwen",
-        "Tomoe Gozen"
-      ],
-      [
         "Beni-Enma",
         "Diarmuid Ua Duibhne (Saber)",
         "Tamamo no Mae"
+      ],
+      [
+        "Kiyohime",
+        "Li Shuwen",
+        "Tomoe Gozen"
       ]
     ]
   },
@@ -4979,7 +4979,7 @@
   },
   {
     "name": "The Tale of Setsubun (US)",
-    "date": "2020-01-24+00:00",
+    "date": "2020-01-20+00:00",
     "rateups": [
       [
         "Ibaraki D\u014dji",
@@ -5009,6 +5009,37 @@
         "Quetzalcoatl",
         "Scheherazade",
         "Semiramis",
+        "Tamamo no Mae",
+        "Xuanzang Sanzang"
+      ]
+    ]
+  },
+  {
+    "name": "Valentine 2020",
+    "date": "2020-02-01+00:00",
+    "rateups": [
+      [
+        "Altera",
+        "Anastasia",
+        "Artoria Pendragon",
+        "Artoria Pendragon (Lancer)",
+        "Bradamante",
+        "Europa",
+        "Francis Drake",
+        "Jack the Ripper",
+        "Jeanne d'Arc",
+        "Jinako Carigiri",
+        "Marie Antoinette",
+        "Mordred",
+        "Nightingale",
+        "Orion",
+        "Osakabehime",
+        "Queen Medb",
+        "Queen of Sheba",
+        "Quetzalcoatl",
+        "Scheherazade",
+        "Sei Sh\u014dnagon",
+        "Sitonai",
         "Tamamo no Mae",
         "Xuanzang Sanzang"
       ]
@@ -5047,37 +5078,6 @@
     ]
   },
   {
-    "name": "Valentine 2020",
-    "date": "2020-02-10+00:00",
-    "rateups": [
-      [
-        "Altera",
-        "Anastasia",
-        "Artoria Pendragon",
-        "Artoria Pendragon (Lancer)",
-        "Bradamante",
-        "Europa",
-        "Francis Drake",
-        "Jack the Ripper",
-        "Jeanne d'Arc",
-        "Jinako Carigiri",
-        "Marie Antoinette",
-        "Mordred",
-        "Nightingale",
-        "Orion",
-        "Osakabehime",
-        "Queen Medb",
-        "Queen of Sheba",
-        "Quetzalcoatl",
-        "Scheherazade",
-        "Sei Sh\u014dnagon",
-        "Sitonai",
-        "Tamamo no Mae",
-        "Xuanzang Sanzang"
-      ]
-    ]
-  },
-  {
     "name": "The Garden of Sinners Collaboration Event Revival (US)",
     "date": "2020-02-17+00:00",
     "rateups": [
@@ -5105,28 +5105,6 @@
     ]
   },
   {
-    "name": "Chaldea Boys Collection 2020",
-    "date": "2020-02-23+00:00",
-    "rateups": [
-      [
-        "Achilles",
-        "Arjuna",
-        "Circe",
-        "C\u00fa Chulainn (Alter)",
-        "Enkidu",
-        "Karna",
-        "Li Shuwen",
-        "Napol\u00e9on",
-        "Nikola Tesla",
-        "Odysseus",
-        "Ozymandias",
-        "Vlad III",
-        "Xiang Yu",
-        "Zhuge Liang (Lord El-Melloi II)"
-      ]
-    ]
-  },
-  {
     "name": "19M Downloads Campaign",
     "date": "2020-02-23+00:00",
     "rateups": [
@@ -5149,6 +5127,28 @@
         "Nikola Tesla",
         "Ozymandias",
         "Vlad III",
+        "Zhuge Liang (Lord El-Melloi II)"
+      ]
+    ]
+  },
+  {
+    "name": "Aeaean Spring Breeze",
+    "date": "2020-03-04+00:00",
+    "rateups": [
+      [
+        "Achilles",
+        "Arjuna",
+        "Circe",
+        "C\u00fa Chulainn (Alter)",
+        "Enkidu",
+        "Karna",
+        "Li Shuwen",
+        "Napol\u00e9on",
+        "Nikola Tesla",
+        "Odysseus",
+        "Ozymandias",
+        "Vlad III",
+        "Xiang Yu",
         "Zhuge Liang (Lord El-Melloi II)"
       ]
     ]
@@ -5307,6 +5307,16 @@
     ]
   },
   {
+    "name": "Olympus Chapter Release",
+    "date": "2020-03-22+00:00",
+    "rateups": [
+      [
+        "Caenis",
+        "Dioscuri"
+      ]
+    ]
+  },
+  {
     "name": "Apocrypha/Inheritance of Glory Re-Run",
     "date": "2020-03-22+00:00",
     "rateups": [
@@ -5325,16 +5335,6 @@
         "Semiramis",
         "Siegfried",
         "Vlad III"
-      ]
-    ]
-  },
-  {
-    "name": "Olympus Chapter Release",
-    "date": "2020-03-22+00:00",
-    "rateups": [
-      [
-        "Caenis",
-        "Dioscuri"
       ]
     ]
   },
@@ -5526,14 +5526,14 @@
     "date": "2020-06-08+00:00",
     "rateups": [
       [
-        "F\u016bma Kotar\u014d",
-        "Merlin",
-        "Siegfried"
-      ],
-      [
         "Carmilla (Rider)",
         "Miyamoto Musashi (Berserker)",
         "Osakabehime (Archer)"
+      ],
+      [
+        "F\u016bma Kotar\u014d",
+        "Merlin",
+        "Siegfried"
       ],
       [
         "Artoria Pendragon (Ruler)",
@@ -5748,7 +5748,7 @@
   },
   {
     "name": "FGO Summer 2020 Event (US)",
-    "date": "2020-08-01+00:00",
+    "date": "2020-07-30+00:00",
     "rateups": [
       [
         "Ibaraki D\u014dji (Lancer)",
@@ -5782,14 +5782,14 @@
     "date": "2020-08-14+00:00",
     "rateups": [
       [
-        "EMIYA",
-        "Lanling Wang",
-        "Sigurd"
-      ],
-      [
         "Brynhildr (Berserker)",
         "Illyasviel von Einzbern (Archer)",
         "Sessh\u014din Kiara (Moon Cancer)"
+      ],
+      [
+        "EMIYA",
+        "Lanling Wang",
+        "Sigurd"
       ],
       [
         "Abigail Williams (Summer)",
@@ -5981,14 +5981,14 @@
     "date": "2020-11-04+00:00",
     "rateups": [
       [
+        "Nemo",
+        "Van Gogh"
+      ],
+      [
         "Frankenstein (Saber)",
         "Minamoto no Raik\u014d (Lancer)",
         "Mysterious Heroine XX",
         "Yang Guifei"
-      ],
-      [
-        "Nemo",
-        "Van Gogh"
       ]
     ]
   },
@@ -6064,16 +6064,16 @@
         "Watanabe no Tsuna"
       ],
       [
-        "Charles Babbage",
-        "Ibuki D\u014dji",
-        "Medea (Lily)",
-        "Paracelsus von Hohenheim"
-      ],
-      [
         "Ibaraki D\u014dji",
         "Kat\u014d Danz\u014d",
         "Minamoto no Raik\u014d",
         "Sakata Kintoki"
+      ],
+      [
+        "Charles Babbage",
+        "Ibuki D\u014dji",
+        "Medea (Lily)",
+        "Paracelsus von Hohenheim"
       ]
     ]
   },
@@ -6169,12 +6169,12 @@
     "date": "2021-01-04+00:00",
     "rateups": [
       [
-        "Mysterious Heroine X",
-        "Yagy\u016b Munenori"
-      ],
-      [
         "Calamity Jane",
         "Space Ishtar"
+      ],
+      [
+        "Mysterious Heroine X",
+        "Yagy\u016b Munenori"
       ]
     ]
   },
@@ -6849,14 +6849,14 @@
     "date": "2021-05-17+00:00",
     "rateups": [
       [
-        "EMIYA",
-        "Lanling Wang",
-        "Sigurd"
-      ],
-      [
         "Brynhildr (Berserker)",
         "Illyasviel von Einzbern (Archer)",
         "Sessh\u014din Kiara (Moon Cancer)"
+      ],
+      [
+        "EMIYA",
+        "Lanling Wang",
+        "Sigurd"
       ],
       [
         "Abigail Williams (Summer)",
@@ -7086,9 +7086,6 @@
     "date": "2021-08-01+00:00",
     "rateups": [
       [
-        "Sherlock Holmes"
-      ],
-      [
         "Anastasia",
         "Antonio Salieri",
         "Asclepius",
@@ -7112,6 +7109,9 @@
         "Valkyrie",
         "William Tell",
         "Xiang Yu"
+      ],
+      [
+        "Sherlock Holmes"
       ]
     ]
   },
@@ -7328,13 +7328,13 @@
     "date": "2021-09-01+00:00",
     "rateups": [
       [
-        "Achilles",
-        "Mandricardo"
-      ],
-      [
         "Anastasia & Viy",
         "Charlotte Corday (Caster)",
         "Okita S\u014dji (Saber Alter)"
+      ],
+      [
+        "Achilles",
+        "Mandricardo"
       ],
       [
         "Caenis (Rider)",
@@ -7618,7 +7618,7 @@
     "rateups": [
       [
         "Dobrynya Nikitich",
-        "Tai Gong Wang"
+        "Taigong Wang"
       ]
     ]
   },
@@ -7729,20 +7729,6 @@
     ]
   },
   {
-    "name": "Arc 1 Improvements",
-    "date": "2022-01-02+00:00",
-    "rateups": [
-      [
-        "Ereshkigal",
-        "Ishtar"
-      ],
-      [
-        "Edmond Dant\u00e8s",
-        "Nightingale"
-      ]
-    ]
-  },
-  {
     "name": "Lady Reines Case Files Rerun",
     "date": "2022-01-04+00:00",
     "rateups": [
@@ -7833,13 +7819,6 @@
     "date": "2022-02-06+00:00",
     "rateups": [
       [
-        "Murasaki Shikibu",
-        "Mysterious Heroine X (Alter)",
-        "Nero Claudius (Bride)",
-        "Sei Sh\u014dnagon",
-        "Semiramis"
-      ],
-      [
         "Altera",
         "Anastasia",
         "Artoria Pendragon",
@@ -7864,6 +7843,33 @@
         "Tamamo no Mae",
         "Vritra",
         "Xuanzang Sanzang"
+      ],
+      [
+        "Murasaki Shikibu",
+        "Mysterious Heroine X (Alter)",
+        "Nero Claudius (Bride)",
+        "Sei Sh\u014dnagon",
+        "Semiramis"
+      ]
+    ]
+  },
+  {
+    "name": "Arc 1 Improvements Part III",
+    "date": "2022-02-08+00:00",
+    "rateups": [
+      [
+        "Edmond Dant\u00e8s",
+        "Nightingale"
+      ]
+    ]
+  },
+  {
+    "name": "Arc 1 Improvements Part IV",
+    "date": "2022-02-08+00:00",
+    "rateups": [
+      [
+        "Ereshkigal",
+        "Ishtar"
       ]
     ]
   },
@@ -7935,9 +7941,6 @@
     "date": "2022-02-27+00:00",
     "rateups": [
       [
-        "Merlin"
-      ],
-      [
         "Achilles",
         "Arjuna",
         "Arjuna (Alter)",
@@ -7954,10 +7957,13 @@
         "Ozymandias",
         "Paracelsus von Hohenheim",
         "Sait\u014d Hajime",
-        "Tai Gong Wang",
+        "Taigong Wang",
         "Vlad III",
         "Xiang Yu",
         "Zhuge Liang (Lord El-Melloi II)"
+      ],
+      [
+        "Merlin"
       ]
     ]
   },
@@ -8011,14 +8017,14 @@
     "date": "2022-03-09+00:00",
     "rateups": [
       [
-        "Gilgamesh",
-        "Gilgamesh (Caster)"
-      ],
-      [
         "Nero Claudius",
         "Nikola Tesla",
         "Odysseus",
         "Thomas Edison"
+      ],
+      [
+        "Gilgamesh",
+        "Gilgamesh (Caster)"
       ]
     ]
   },
@@ -8037,12 +8043,12 @@
     "date": "2022-03-27+00:00",
     "rateups": [
       [
-        "Morgan",
-        "Wu Zetian"
-      ],
-      [
         "Mysterious Alter Ego \u039b",
         "Trung Sisters"
+      ],
+      [
+        "Morgan",
+        "Wu Zetian"
       ]
     ]
   },
@@ -8121,14 +8127,14 @@
     "date": "2022-04-16+00:00",
     "rateups": [
       [
+        "Kijyo K\u014dy\u014d",
+        "Voyager"
+      ],
+      [
         "Jinako Carigiri",
         "Nursery Rhyme",
         "Osakabehime",
         "Thomas Edison"
-      ],
-      [
-        "Kijyo K\u014dy\u014d",
-        "Voyager"
       ]
     ]
   },
@@ -8136,6 +8142,11 @@
     "name": "FGO x Learn with Manga! Collaboration",
     "date": "2022-04-20+00:00",
     "rateups": [
+      [
+        "Daikokuten",
+        "Mary Anning",
+        "Super Bunyan"
+      ],
       [
         "Anne Bonny & Mary Read (Archer)",
         "Astolfo",
@@ -8145,11 +8156,6 @@
         "Leonardo Da Vinci (Rider)",
         "Marie Antoinette (Caster)",
         "Tamamo no Mae (Lancer)"
-      ],
-      [
-        "Daikokuten",
-        "Mary Anning",
-        "Super Bunyan"
       ]
     ]
   },
@@ -8170,6 +8176,33 @@
         "Miss Crane",
         "Shuten D\u014dji",
         "Yang Guifei"
+      ]
+    ]
+  },
+  {
+    "name": "Traum Chapter Release",
+    "date": "2022-05-12+00:00",
+    "rateups": [
+      [
+        "Charlemagne",
+        "Kriemhild",
+        "Roland"
+      ],
+      [
+        "Don Quixote",
+        "James Moriarty (Ruler)",
+        "Zhang Jue"
+      ],
+      [
+        "Sherlock Holmes",
+        "Siegfried"
+      ],
+      [
+        "Constantine XI"
+      ],
+      [
+        "Dobrynya Nikitich",
+        "Taigong Wang"
       ]
     ]
   },
@@ -8203,33 +8236,6 @@
         "Artoria Pendragon (Ruler)",
         "Mysterious Alter Ego \u039b",
         "Okita J S\u014dji"
-      ]
-    ]
-  },
-  {
-    "name": "Traum Chapter Release",
-    "date": "2022-05-25+00:00",
-    "rateups": [
-      [
-        "Dobrynya Nikitich",
-        "Tai Gong Wang"
-      ],
-      [
-        "Charlemagne",
-        "Kriemhild",
-        "Roland"
-      ],
-      [
-        "Don Quixote",
-        "James Moriarty (Ruler)",
-        "Zhang Jue"
-      ],
-      [
-        "Sherlock Holmes",
-        "Siegfried"
-      ],
-      [
-        "Constantine XI"
       ]
     ]
   },
@@ -8365,6 +8371,10 @@
     "date": "2022-07-04+00:00",
     "rateups": [
       [
+        "Artoria Caster",
+        "Leonardo Da Vinci (Rider)"
+      ],
+      [
         "Antonio Salieri",
         "Asclepius",
         "Atalanta (Alter)",
@@ -8381,10 +8391,6 @@
         "Valkyrie",
         "William Tell",
         "Xiang Yu"
-      ],
-      [
-        "Artoria Caster",
-        "Leonardo Da Vinci (Rider)"
       ]
     ]
   },
@@ -8744,7 +8750,7 @@
         "Murasaki Shikibu",
         "Qin Liangyu",
         "Sei Sh\u014dnagon",
-        "Tai Gong Wang",
+        "Taigong Wang",
         "Yagy\u016b Munenori",
         "Yan Qing"
       ]
@@ -8805,12 +8811,6 @@
     "date": "2022-10-27+00:00",
     "rateups": [
       [
-        "Frankenstein (Saber)",
-        "Minamoto no Raik\u014d (Lancer)",
-        "Mysterious Heroine XX",
-        "Yang Guifei"
-      ],
-      [
         "Nemo",
         "Van Gogh"
       ],
@@ -8818,6 +8818,12 @@
         "Abigail Williams",
         "Mysterious Alter Ego \u039b",
         "Osakabehime (Archer)"
+      ],
+      [
+        "Frankenstein (Saber)",
+        "Minamoto no Raik\u014d (Lancer)",
+        "Mysterious Heroine XX",
+        "Yang Guifei"
       ]
     ]
   },
@@ -9181,15 +9187,6 @@
     "date": "2023-02-04+00:00",
     "rateups": [
       [
-        "Amor (Caren)",
-        "Manann\u00e1n mac Lir (Bazett)",
-        "Murasaki Shikibu",
-        "Mysterious Heroine X (Alter)",
-        "Nero Claudius (Bride)",
-        "Sei Sh\u014dnagon",
-        "Semiramis"
-      ],
-      [
         "Altera",
         "Anastasia",
         "Artoria Pendragon",
@@ -9215,6 +9212,15 @@
         "Tamamo no Mae",
         "Vritra",
         "Xuanzang Sanzang"
+      ],
+      [
+        "Amor (Caren)",
+        "Manann\u00e1n mac Lir (Bazett)",
+        "Murasaki Shikibu",
+        "Mysterious Heroine X (Alter)",
+        "Nero Claudius (Bride)",
+        "Sei Sh\u014dnagon",
+        "Semiramis"
       ]
     ]
   },
@@ -9332,14 +9338,6 @@
     "date": "2023-03-12+00:00",
     "rateups": [
       [
-        "Demon King Nobunaga",
-        "Okada Iz\u014d"
-      ],
-      [
-        "Okada Iz\u014d",
-        "Sakamoto Ry\u014dma (Lancer)"
-      ],
-      [
         "Achilles",
         "Arjuna",
         "C\u00fa Chulainn (Alter)",
@@ -9353,10 +9351,18 @@
         "Nemo",
         "Nikola Tesla",
         "Ozymandias",
-        "Tai Gong Wang",
+        "Taigong Wang",
         "Takasugi Shinsaku",
         "Vlad III",
         "Xiang Yu"
+      ],
+      [
+        "Demon King Nobunaga",
+        "Okada Iz\u014d"
+      ],
+      [
+        "Okada Iz\u014d",
+        "Sakamoto Ry\u014dma (Lancer)"
       ]
     ]
   },
@@ -9628,7 +9634,7 @@
     ]
   },
   {
-    "name": "FGO x FGO Arcade Collaboration Pre-Release Summoning Campaign",
+    "name": "FGO Arcade Collaboration Pre-Release Campaign",
     "date": "2023-04-19+00:00",
     "rateups": [
       [
@@ -9640,7 +9646,7 @@
   },
   {
     "name": "Lilim Harlot",
-    "date": "2023-04-26+00:00",
+    "date": "2023-04-20+00:00",
     "rateups": [
       [
         "Locusta",
@@ -9724,7 +9730,7 @@
     ]
   },
   {
-    "name": "Ordeal Call Pre-Release Summoning Campaign",
+    "name": "Ordeal Call Pre-Release Campaign",
     "date": "2023-05-17+00:00",
     "rateups": [
       [
@@ -9798,17 +9804,6 @@
     ]
   },
   {
-    "name": "Paper Moon Pre-Release Campaign",
-    "date": "2023-06-07+00:00",
-    "rateups": [
-      [
-        "Kukulkan",
-        "Nitocris (Alter)",
-        "Tenochtitlan"
-      ]
-    ]
-  },
-  {
     "name": "Avalon le Fae Part 1 Summoning Campaign 2 (US)",
     "date": "2023-06-13+00:00",
     "rateups": [
@@ -9830,54 +9825,37 @@
     ]
   },
   {
+    "name": "Paper Moon Chapter Release",
+    "date": "2023-06-14+00:00",
+    "rateups": [
+      [
+        "Bhima",
+        "Duryodhana"
+      ],
+      [
+        "Gilles de Rais",
+        "Gilles de Rais (Saber)",
+        "Kama",
+        "Lanling Wang"
+      ],
+      [
+        "Durga",
+        "Duryodhana"
+      ],
+      [
+        "Kukulkan",
+        "Nitocris (Alter)",
+        "Tenochtitlan"
+      ]
+    ]
+  },
+  {
     "name": "Avalon le Fae Part 2 Chapter Release (US)",
     "date": "2023-06-18+00:00",
     "rateups": [
       [
         "M\u00e9lusine",
         "Percival"
-      ]
-    ]
-  },
-  {
-    "name": "Paper Moon Summoning Campaign 1",
-    "date": "2023-06-19+00:00",
-    "rateups": [
-      [
-        "Bhima",
-        "Duryodhana"
-      ]
-    ]
-  },
-  {
-    "name": "Paper Moon Summoning Campaign",
-    "date": "2023-06-19+00:00",
-    "rateups": [
-      [
-        "Bhima",
-        "Duryodhana"
-      ]
-    ]
-  },
-  {
-    "name": "Paper Moon Summoning Campaign 2",
-    "date": "2023-06-21+00:00",
-    "rateups": [
-      [
-        "Gilles de Rais",
-        "Gilles de Rais (Saber)",
-        "Kama",
-        "Lanling Wang"
-      ]
-    ]
-  },
-  {
-    "name": "Paper Moon Summoning Campaign 3",
-    "date": "2023-06-25+00:00",
-    "rateups": [
-      [
-        "Durga",
-        "Duryodhana"
       ]
     ]
   },
@@ -9896,6 +9874,34 @@
       [
         "Artoria Pendragon (Archer)",
         "Mordred (Rider)"
+      ]
+    ]
+  },
+  {
+    "name": "Mystic Eyes Symphony",
+    "date": "2023-06-28+00:00",
+    "rateups": [
+      [
+        "Medusa (Saber)"
+      ],
+      [
+        "Hessian Lobo",
+        "Kyokutei Bakin"
+      ],
+      [
+        "Huang Feihu",
+        "Huyan Zhuo"
+      ],
+      [
+        "Baobhan Sith",
+        "Euryale",
+        "Galatea",
+        "Gorgon",
+        "Medusa",
+        "Medusa (Lancer)",
+        "Miss Crane",
+        "Stheno",
+        "Vritra"
       ]
     ]
   },
@@ -9962,34 +9968,6 @@
         "Osakabehime (Archer)",
         "Queen Medb (Saber)",
         "Sc\u00e1thach-Ska\u00f0i"
-      ]
-    ]
-  },
-  {
-    "name": "Mystic Eyes Symphony",
-    "date": "2023-07-05+00:00",
-    "rateups": [
-      [
-        "Medusa (Saber)"
-      ],
-      [
-        "Hessian Lobo",
-        "Kyokutei Bakin"
-      ],
-      [
-        "Huang Feihu",
-        "Huyan Zhuo"
-      ],
-      [
-        "Baobhan Sith",
-        "Euryale",
-        "Galatea",
-        "Gorgon",
-        "Medusa",
-        "Medusa (Lancer)",
-        "Miss Crane",
-        "Stheno",
-        "Vritra"
       ]
     ]
   },
@@ -10089,7 +10067,7 @@
   },
   {
     "name": "Servant Summer Festival! 2023",
-    "date": "2023-08-11+00:00",
+    "date": "2023-08-02+00:00",
     "rateups": [
       [
         "Artoria Caster (Berserker)",
@@ -10186,7 +10164,7 @@
     ]
   },
   {
-    "name": "Hunting Quests Part XIII Summoning Campaign",
+    "name": "Hunting Quests Part XIII",
     "date": "2023-09-01+00:00",
     "rateups": [
       [
@@ -10206,7 +10184,7 @@
     ]
   },
   {
-    "name": "Ordeal Call Campaign Part 2 Summoning Campaign",
+    "name": "Ordeal Call Campaign Part 2",
     "date": "2023-09-08+00:00",
     "rateups": [
       [
@@ -10282,6 +10260,19 @@
     ]
   },
   {
+    "name": "Fate/Samurai Remnant Release Campaign",
+    "date": "2023-09-21+00:00",
+    "rateups": [
+      [
+        "Arjuna",
+        "Circe",
+        "C\u00fa Chulainn",
+        "Li Shuwen",
+        "Miyamoto Musashi"
+      ]
+    ]
+  },
+  {
     "name": "Halloween Trilogy Event (US)",
     "date": "2023-09-27+00:00",
     "rateups": [
@@ -10305,19 +10296,6 @@
     ]
   },
   {
-    "name": "Fate/Samurai Remnant Release Commemoration Summoning Campaign",
-    "date": "2023-09-28+00:00",
-    "rateups": [
-      [
-        "Arjuna",
-        "Circe",
-        "C\u00fa Chulainn",
-        "Li Shuwen",
-        "Miyamoto Musashi"
-      ]
-    ]
-  },
-  {
     "name": "Fate/Grand Carnival Recollection Campaign (US)",
     "date": "2023-10-02+00:00",
     "rateups": [
@@ -10330,8 +10308,8 @@
     ]
   },
   {
-    "name": "Ordeal Call Campaign Part 3 Summoning Campaign",
-    "date": "2023-10-04+00:00",
+    "name": "Ordeal Call Campaign Part 3",
+    "date": "2023-10-05+00:00",
     "rateups": [
       [
         "Consort Yu",
@@ -10363,7 +10341,7 @@
     ]
   },
   {
-    "name": "Evocation Festival Part 5 Summoning Campaign",
+    "name": "Evocation Festival Part 5",
     "date": "2023-10-13+00:00",
     "rateups": [
       [
@@ -10377,8 +10355,8 @@
     ]
   },
   {
-    "name": "3,000 Days Anniversary Summoning Campaign",
-    "date": "2023-10-14+00:00",
+    "name": "3,000 Days Anniversary",
+    "date": "2023-10-13+00:00",
     "rateups": [
       [
         "Artoria Caster",
@@ -10405,7 +10383,7 @@
   },
   {
     "name": "Grail Front ~White Castle by Day, Black Castle by Night~",
-    "date": "2023-10-26+00:00",
+    "date": "2023-10-25+00:00",
     "rateups": [
       [
         "Penthesilea",
@@ -10414,7 +10392,7 @@
       ],
       [
         "Nezha",
-        "Tai Gong Wang",
+        "Taigong Wang",
         "Theseus"
       ],
       [
@@ -10456,8 +10434,8 @@
     ]
   },
   {
-    "name": "Ordeal Call Campaign Part 4 Summoning Campaign",
-    "date": "2023-11-18+00:00",
+    "name": "Ordeal Call Campaign Part 4",
+    "date": "2023-11-16+00:00",
     "rateups": [
       [
         "Arjuna (Alter)",
@@ -10469,7 +10447,7 @@
     ]
   },
   {
-    "name": "29M Downloads Summoning Campaign",
+    "name": "29M Downloads Campaign",
     "date": "2023-11-18+00:00",
     "rateups": [
       [
@@ -10501,32 +10479,8 @@
     ]
   },
   {
-    "name": "Evocation Festival Part 6 Summoning Campaign",
-    "date": "2023-11-23+00:00",
-    "rateups": [
-      [
-        "Demon King Nobunaga",
-        "Nightingale",
-        "Nursery Rhyme",
-        "Oda Nobunaga (Berserker)",
-        "Okada Iz\u014d",
-        "Sakamoto Ry\u014dma (Lancer)"
-      ]
-    ]
-  },
-  {
-    "name": "Interlude Campaign 18 (US)",
-    "date": "2023-11-24+00:00",
-    "rateups": [
-      [
-        "Galatea",
-        "Katsushika Hokusai"
-      ]
-    ]
-  },
-  {
     "name": "GUDAGUDA Super Goryokaku",
-    "date": "2023-11-30+00:00",
+    "date": "2023-11-20+00:00",
     "rateups": [
       [
         "Mori Nagayoshi",
@@ -10549,6 +10503,33 @@
         "Mori Nagayoshi",
         "Okita S\u014dji (Alter)",
         "Sen no Riky\u016b"
+      ],
+      [
+        "Oda Nobukatsu"
+      ]
+    ]
+  },
+  {
+    "name": "Evocation Festival Part 6",
+    "date": "2023-11-22+00:00",
+    "rateups": [
+      [
+        "Demon King Nobunaga",
+        "Nightingale",
+        "Nursery Rhyme",
+        "Oda Nobunaga (Berserker)",
+        "Okada Iz\u014d",
+        "Sakamoto Ry\u014dma (Lancer)"
+      ]
+    ]
+  },
+  {
+    "name": "Interlude Campaign 18 (US)",
+    "date": "2023-11-24+00:00",
+    "rateups": [
+      [
+        "Galatea",
+        "Katsushika Hokusai"
       ]
     ]
   },
@@ -10561,18 +10542,6 @@
         "EMIYA",
         "Martha",
         "Sc\u00e1thach-Ska\u00f0i"
-      ]
-    ]
-  },
-  {
-    "name": "Christmas 2023",
-    "date": "2023-12-20+00:00",
-    "rateups": [
-      [
-        "Nemo"
-      ],
-      [
-        "Britomart"
       ]
     ]
   }
