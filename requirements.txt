@@ -9,3 +9,4 @@ wikitextparser>=0.47.5"
 Django==4.1.5
 jsons
 wikitextparser
+tqdm
