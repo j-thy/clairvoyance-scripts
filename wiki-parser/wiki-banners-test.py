@@ -140,6 +140,10 @@ PAGE_FIXES = {
     'Holy Grail Front ~Moonsault Operation~/Event Info' : [r'{{!}}', r'|'],
 }
 
+SKIP_DURATION_PARSE = (
+    "SE.RA.PH",
+)
+
 SUMMON_SUBPAGE = (
     "Summoning Campaign",
     "Summoning_Campaign",
@@ -180,10 +184,39 @@ EXCLUDE_PAGES = (
     "Valentine 2020/Main Info",
 )
 
+# NOTE: Halloween Trilogy missing Kiyohime in first table
 # TODO: Strange Fake -Whispers of Dawn- Broadcast Commemoration Campaign -> Strange Fake -Whispers of Dawn- Broadcast Commemoration Summoning Campaign
 # TODO: Ordeal Call Release Campaign -> Ordeal Call Pre-Release Campaign
 # TODO: Lilim Harlot -> FGO Arcade Collaboration Pre-Release Campaign
 # TODO: Nahui Mictlan Chapter Release Part 2 -> Nahui Mictlan Lostbelt Part II Pre-Release Campaign
+# TODO: Chaldea Faerie Knight Cup -> Chaldea Faerie Knight Cup Pre-Release Campaign
+# TODO: Fate/Grand Order ～7th Anniversary～ -> Fate/Grand Order ～7th Anniversary～ Countdown Campaign
+# TODO: Avalon le Fae Chapter Release -> Avalon le Fae Lostbelt Pre-Release Campaign
+# TODO: Slapstick Museum -> Chaldea Boys Collection 2021
+# TODO: Olympus Summoning Campaign 2 -> Olympus Chapter Release
+# TODO: Yuga Kshetra Summoning Campaign 2 -> Yuga Kshetra Chapter Release
+# TODO: Yuga Kshetra Pre-Release Campaign -> Yuga Kshetra Chapter Release
+# TODO: The Antiquated Spider Nostalgically Spins Its Thread -> Chaldea Boys Collection 2019
+# TODO: WinFes 2018/19 Commemoration Summoning Campaign 2 -> WinFes 2018/19 Commemoration Campaign: Osaka
+# TODO: S I N Summoning Campaign 2 -> S I N Chapter Release
+# TODO: Götterdämmerung Lostbelt Pre-Release Campaign -> Götterdämmerung Chapter Release
+# TODO: Anastasia Summoning Campaign 2 -> Anastasia Chapter Release
+# TODO: Correct:
+# MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dantès Game Entry Commemorative Campaign
+# Christmas 2019 Re-Run
+# 19M Downloads Campaign
+# Servant Summer Festival! 2018 Rerun (maybe regex fix)
+# Christmas 2017 Event Re-Run
+# Interlude Campaign 7
+# Battle in New York 2018
+# 14M Downloads Campaign
+# Servant Summer Festival! 2018
+# Dead Heat Summer Race! Re-run
+# GUDAGUDA Meiji Ishin Re-run
+# Chaldea Boys Collection 2018
+# Kara no Kyoukai Collaboration Event Re-run
+# Fate/EXTRA Last Encore Anime Broadcast Commemoration Campaign
+# Da Vinci and The 7 Counterfeit Heroic Spirits Rerun Lite Ver
 
 INCLUDE_SUBPAGES = {
     "FGO 2016 Summer Event" : ["FGO 2016 Summer Event/Event Details", "FGO 2016 Summer Event/Part II Event Details"],
@@ -211,22 +244,22 @@ TEST_PAGES = (
 # If it is 0, parse wikinlinks
 # If it is 1, parse templates
 EVENT_LISTS = (
-    "Event List/2015 Events",
-    "Event List/2016 Events",
+    # "Event List/2015 Events",
+    # "Event List/2016 Events",
     "Event List/2017 Events",
-    "Event List/2018 Events",
-    "Event List/2019 Events",
-    "Event List/2020 Events",
-    "Event List/2021 Events",
-    "Event List/2022 Events",
-    "Event List/2023 Events",
-    "Event List (US)/2017 Events",
-    "Event List (US)/2018 Events",
-    "Event List (US)/2019 Events",
-    "Event List (US)/2020 Events",
-    "Event List (US)/2021 Events",
-    "Event List (US)/2022 Events",
-    "Event List (US)/2023 Events",
+    # "Event List/2018 Events",
+    # "Event List/2019 Events",
+    # "Event List/2020 Events",
+    # "Event List/2021 Events",
+    # "Event List/2022 Events",
+    # "Event List/2023 Events",
+    # "Event List (US)/2017 Events",
+    # "Event List (US)/2018 Events",
+    # "Event List (US)/2019 Events",
+    # "Event List (US)/2020 Events",
+    # "Event List (US)/2021 Events",
+    # "Event List (US)/2022 Events",
+    # "Event List (US)/2023 Events",
 )
 
 MONTHS = ("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December")
@@ -239,8 +272,11 @@ SKIP_DATES = {
     "Event List (US)/2018 Events": ["|August 6 ~ August 14"],
     "Event List (US)/2019 Events": ["|August 5 ~ August 20", "|July 19 ~ July 28"],
     "Event List (US)/2020 Events": ["|July 23 ~ August 1"],
-
 }
+
+FAKE_BANNERS = (
+    "MELTY BLOOD: TYPE LUMINA Mashu's Game Entry Commemorative Campaign",
+)
 
 # Get the FGO wiki site.
 SITE = pywikibot.Site()
@@ -400,54 +436,14 @@ def parse(page, event_date, parent=None):
 
     # In older pages, the rateup servants are not in a wikitable, but are instead in links.
     # If the page is marked as priority, no need to look for keywords and parse servants regardless.
-    if not banners and title in PRIORITY_PAGES and not (CURRENT_REGION == "JP" and CURRENT_YEAR >= 2022):
-        # Get all the links in the page.
-        links = wikicode.filter_wikilinks()
-        # Initialize the list of rateup servants.
-        rateup_servants = []
-
-        # Check every link to see if it is a valid servant name.
-        for link in links:
-            # print(link.title)
-            # Fix any errors in the servant name
-            name = correct_name(str(link.title).strip())
-            # Add the servant name to the list of rateup servants if it is a valid servant name.
-            if name in servant_names:
-                rateup_servants.append(name)
-
-        # If rateup servants were found...
-        if rateup_servants:
-            # Sort and dedupe the servants.
-            rateup_servants.sort()
-            rateup_servants = tuple(dict.fromkeys(rateup_servants))
-            # Append the rateup to the start of the banners list.
-            banners.insert(0, rateup_servants)
-    # If the page is not marked as priority, look for keywords and parse servants if found.
-    elif not banners and title not in PRIORITY_PAGES and not (CURRENT_REGION == "JP" and CURRENT_YEAR >= 2022):
-        links = []
-        # Get the indexes that indicate sections of the text to parse and sections to skip.
-        splits = search_text(text)
-        
-        # Base text will hold the remaining part of the page that hasn't been parsed yet.
-        base_text = text
-        # Go through each index from the bottom of the page to the top.
-        for key, value in splits.items():
-            # Parse (or skip) the text between the current index and the remaining part of the page.
-            parse_text = base_text[key:]
-            # Save the remaining part of the page that hasn't been parsed yet for the next iteration.
-            base_text = base_text[:key]
-            # If the section is marked to be removed, skip it.
-            if not value:
-                continue
-            # Parse the section.
-            sub_wikicode = mwparserfromhell.parse(parse_text)
-            # Get all the links in the section.
-            links = sub_wikicode.filter_wikilinks()
-            # print(links)
-
+    if not (CURRENT_REGION == "JP" and CURRENT_YEAR >= 2021) and not (CURRENT_REGION == "NA" and CURRENT_YEAR >= 2023):
+        if not banners and title in PRIORITY_PAGES:
+            # Get all the links in the page.
+            links = wikicode.filter_wikilinks()
             # Initialize the list of rateup servants.
             rateup_servants = []
-            # Check every link to see if it is a valid servant name and add it to the list of rateup servants if it is.
+
+            # Check every link to see if it is a valid servant name.
             for link in links:
                 # print(link.title)
                 # Fix any errors in the servant name
@@ -461,8 +457,49 @@ def parse(page, event_date, parent=None):
                 # Sort and dedupe the servants.
                 rateup_servants.sort()
                 rateup_servants = tuple(dict.fromkeys(rateup_servants))
-                # Append the rateup to the start of the banners list (since the page is parsed backwards).
+                # Append the rateup to the start of the banners list.
                 banners.insert(0, rateup_servants)
+        # If the page is not marked as priority, look for keywords and parse servants if found.
+        elif not banners and title not in PRIORITY_PAGES:
+            links = []
+            # Get the indexes that indicate sections of the text to parse and sections to skip.
+            splits = search_text(text)
+            
+            # Base text will hold the remaining part of the page that hasn't been parsed yet.
+            base_text = text
+            # Go through each index from the bottom of the page to the top.
+            for key, value in splits.items():
+                # Parse (or skip) the text between the current index and the remaining part of the page.
+                parse_text = base_text[key:]
+                # Save the remaining part of the page that hasn't been parsed yet for the next iteration.
+                base_text = base_text[:key]
+                # If the section is marked to be removed, skip it.
+                if not value:
+                    continue
+                # Parse the section.
+                sub_wikicode = mwparserfromhell.parse(parse_text)
+                # Get all the links in the section.
+                links = sub_wikicode.filter_wikilinks()
+                # print(links)
+
+                # Initialize the list of rateup servants.
+                rateup_servants = []
+                # Check every link to see if it is a valid servant name and add it to the list of rateup servants if it is.
+                for link in links:
+                    # print(link.title)
+                    # Fix any errors in the servant name
+                    name = correct_name(str(link.title).strip())
+                    # Add the servant name to the list of rateup servants if it is a valid servant name.
+                    if name in servant_names:
+                        rateup_servants.append(name)
+
+                # If rateup servants were found...
+                if rateup_servants:
+                    # Sort and dedupe the servants.
+                    rateup_servants.sort()
+                    rateup_servants = tuple(dict.fromkeys(rateup_servants))
+                    # Append the rateup to the start of the banners list (since the page is parsed backwards).
+                    banners.insert(0, rateup_servants)
 
     # print(banners)
 
@@ -470,7 +507,7 @@ def parse(page, event_date, parent=None):
     banners = list(dict.fromkeys(banners))
     # print(banners)
 
-    # Update dates if banner has dates
+    # Date if it has event headers
     templates = wikicode.filter_templates()
     if len(templates) > 0 and templates[0].name.strip() == "EventHeaderJP":
         start_date = templates[0].get("start").value.strip()
@@ -479,9 +516,28 @@ def parse(page, event_date, parent=None):
         except ValueError:
             end_date = start_date
         event_date = f'{start_date} ~ {end_date}'
+    # Date if it has old-style headers
+    else:
+        # Get the lines from text
+        lines = text.splitlines()
+        for i, line in enumerate(lines):
+            if i >= 4:
+                break
+            if "Duration" in line and title not in SKIP_DURATION_PARSE:
+                # Remove "'''" from line
+                line = re.sub(r"'''", '', line)
+                event_date = line.split(": ")[1].strip()
+                break
 
     # Create a list of dates the same size as the list of banners.
     dates = [event_date] * len(banners)
+
+    # Finds date on pages with multiple summoning campaigns on different tabs
+    matches = re.findall(r'.*Summo.*(?:\w|\))=\n*(?:\[\[|{{).*\n\n*(?:.*Duration.*?(?: |\'|:)([A-Z].*))', text)
+    for i, match in enumerate(matches):
+        # If there are 2 groups
+        if match and title not in FAKE_BANNERS:
+            dates[i] = match
 
     # Save the date of page creation with the summoning campaign.
     if parent:
@@ -510,6 +566,7 @@ def pre_release_remove():
             # Delete that element
             if mark_for_del == True:
                 del BANNER_DICT[list(BANNER_DICT.keys())[i]]
+                i -= 1
     except IndexError:
         pass
 
@@ -526,9 +583,25 @@ def post_release_remove():
                     src_index = vals[-1][1].index(rateup)
                     vals[i][0][dest_index] = vals[-1][0][src_index]
                     mark_for_del = True
-        # Delete that element
-        if mark_for_del == True:
-            del BANNER_DICT[list(BANNER_DICT.keys())[-1]]
+    except IndexError:
+        pass
+    # Delete that element
+    if mark_for_del == True:
+        del BANNER_DICT[list(BANNER_DICT.keys())[-1]]
+
+def pre_release_merge():
+    # Delete any existing precampaigns
+    keys = list(BANNER_DICT.keys())
+    vals = list(BANNER_DICT.values())
+    try:
+        for i in range(-2, -5, -1):
+            # Merge pre-releases not merged on the wiki
+            pre_release_parent = keys[i].split("Pre-Release")[0].strip()
+            if pre_release_parent == keys[-1]:
+                vals[-1][0].extend(vals[i][0])
+                vals[-1][1].extend(vals[i][1])
+                del BANNER_DICT[list(BANNER_DICT.keys())[i]]
+                i -= 1
     except IndexError:
         pass
 
@@ -552,11 +625,19 @@ def rec_check_subpages(event_page, date, parent_title):
 # Parse test pages
 def parse_test():
     # Open page "GUDAGUDA Super Goryokaku Summoning Campaign 1" and filter for templates.
-    page = pywikibot.Page(SITE, "GUDAGUDA Super Goryokaku Summoning Campaign 1")
-    text = page.text
-    wikicode = mwparserfromhell.parse(text)
-    templates = wikicode.filter_templates()
-    print(templates[0].name)
+    # page = pywikibot.Page(SITE, "MELTY BLOOD: TYPE LUMINA Saber's Game Entry Commemorative Campaign")
+    # text = page.text
+    # # print(text)
+    # matches = re.findall(r'.*Summo.*(?:\w|\))=\n*(?:\[\[|{{).*\n\n*(?:.*Duration.*?(?: |\'|:)([A-Z].*))', text)
+    # for i, match in enumerate(matches):
+    #     # If there are 4 groups
+    #     print(match)
+    # wikicode = mwparserfromhell.parse(text)
+    # tags = wikicode.filter_text()
+    # print(tags)
+    title = "Chaldea Summer Adventure Pre-Release Campaign"
+    split_str = title.split("Pre-Release")[0].strip()
+    print(split_str)
 
 # Parse events
 def parse_event_lists():
@@ -635,6 +716,7 @@ def parse_event_lists():
             rec_check_subpages(event_page, date, event_page.title())
 
             post_release_remove()
+            pre_release_merge()
             # print(f'2: {BANNER_DICT}')
 
 def parse_event_list_test():
