@@ -201,6 +201,14 @@ EXCLUDE_PAGES = (
 # TODO: S I N Summoning Campaign 2 -> S I N Chapter Release
 # TODO: Götterdämmerung Lostbelt Pre-Release Campaign -> Götterdämmerung Chapter Release
 # TODO: Anastasia Summoning Campaign 2 -> Anastasia Chapter Release
+# TODO: Salem Summoning Campaign 2 -> Salem Chapter Release
+# TODO: Shimosa Summoning Campaign 2 -> Shimosa Chapter Release
+# TODO: Agartha Summoning Campaign 2 -> Agartha Chapter Release
+# TODO: Shinjuku Summoning Campaign 2 -> Shinjuku Chapter Release
+# TODO: Babylonia Summoning Campaign 2 -> Babylonia Chapter Release
+# TODO: Camelot Summoning Campaign 2 -> Camelot Chapter Release
+# TODO: Fate/Accel Zero Order (Pre-Event) -> Fate/Accel Zero Order Event
+
 # TODO: Correct:
 # MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dantès Game Entry Commemorative Campaign
 # Christmas 2019 Re-Run
@@ -217,6 +225,28 @@ EXCLUDE_PAGES = (
 # Kara no Kyoukai Collaboration Event Re-run
 # Fate/EXTRA Last Encore Anime Broadcast Commemoration Campaign
 # Da Vinci and The 7 Counterfeit Heroic Spirits Rerun Lite Ver
+# 11M Downloads Campaign (maybe regex edit)
+# Christmas 2016 Event Re-run
+# Halloween 2017 Event
+# Shimosa Chapter Release
+# Fate/stay night Heaven's Feel Premiere Commemoration Campaign
+# Dead Heat Summer Race!
+# FGO 2016 Summer Event Re-Run
+# Rashomon Event Rerun
+# 9M Downloads Campaign
+# SE.RA.PH
+# Valentine 2016 Event Re-Run
+# Moon Goddess Event Re-Run
+# Solomon Chapter Release
+# FGO 2016 Summer Event
+# Camelot Chapter Release
+# Fate/Accel Zero Order Event
+# Da Vinci and The 7 Counterfeit Heroic Spirits
+# E Pluribus Unum Chapter Release
+# AnimeJapan 2016 Exhibition Commemoration Campaign
+# New Year Campaign 2016
+# 4M Downloads Campaign
+
 
 INCLUDE_SUBPAGES = {
     "FGO 2016 Summer Event" : ["FGO 2016 Summer Event/Event Details", "FGO 2016 Summer Event/Part II Event Details"],
@@ -244,22 +274,22 @@ TEST_PAGES = (
 # If it is 0, parse wikinlinks
 # If it is 1, parse templates
 EVENT_LISTS = (
-    # "Event List/2015 Events",
-    # "Event List/2016 Events",
+    "Event List/2015 Events",
+    "Event List/2016 Events",
     "Event List/2017 Events",
-    # "Event List/2018 Events",
-    # "Event List/2019 Events",
-    # "Event List/2020 Events",
-    # "Event List/2021 Events",
-    # "Event List/2022 Events",
-    # "Event List/2023 Events",
-    # "Event List (US)/2017 Events",
-    # "Event List (US)/2018 Events",
-    # "Event List (US)/2019 Events",
-    # "Event List (US)/2020 Events",
-    # "Event List (US)/2021 Events",
-    # "Event List (US)/2022 Events",
-    # "Event List (US)/2023 Events",
+    "Event List/2018 Events",
+    "Event List/2019 Events",
+    "Event List/2020 Events",
+    "Event List/2021 Events",
+    "Event List/2022 Events",
+    "Event List/2023 Events",
+    "Event List (US)/2017 Events",
+    "Event List (US)/2018 Events",
+    "Event List (US)/2019 Events",
+    "Event List (US)/2020 Events",
+    "Event List (US)/2021 Events",
+    "Event List (US)/2022 Events",
+    "Event List (US)/2023 Events",
 )
 
 MONTHS = ("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December")
