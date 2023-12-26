@@ -275,21 +275,21 @@ TEST_PAGES = (
 # If it is 1, parse templates
 EVENT_LISTS = (
     "Event List/2015 Events",
-    "Event List/2016 Events",
-    "Event List/2017 Events",
-    "Event List/2018 Events",
-    "Event List/2019 Events",
-    "Event List/2020 Events",
-    "Event List/2021 Events",
-    "Event List/2022 Events",
-    "Event List/2023 Events",
-    "Event List (US)/2017 Events",
-    "Event List (US)/2018 Events",
-    "Event List (US)/2019 Events",
-    "Event List (US)/2020 Events",
-    "Event List (US)/2021 Events",
-    "Event List (US)/2022 Events",
-    "Event List (US)/2023 Events",
+    # "Event List/2016 Events",
+    # "Event List/2017 Events",
+    # "Event List/2018 Events",
+    # "Event List/2019 Events",
+    # "Event List/2020 Events",
+    # "Event List/2021 Events",
+    # "Event List/2022 Events",
+    # "Event List/2023 Events",
+    # "Event List (US)/2017 Events",
+    # "Event List (US)/2018 Events",
+    # "Event List (US)/2019 Events",
+    # "Event List (US)/2020 Events",
+    # "Event List (US)/2021 Events",
+    # "Event List (US)/2022 Events",
+    # "Event List (US)/2023 Events",
 )
 
 MONTHS = ("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December")
@@ -332,16 +332,12 @@ def search_text(text):
     for string in LINK_MATCHES:
         matches = re.finditer(string, text)
         for match in matches:
-            if TESTING == 1:
-                print(string)
             splits[match.start()] = True
     
     # Find index of keywords that are before sections causing false positives. Mark it to be removed.
     for string in REMOVE_MATCHES:
         matches = re.finditer(string, text)
         for match in matches:
-            if TESTING == 1:
-                print(string)
             splits[match.start()] = False
     
     # Sort the indexes of the splits and return it.
@@ -371,7 +367,6 @@ def parse(page, event_date, parent=None):
     # Apply any explicitly defined fixes
     if title in PAGE_FIXES:
         text = re.sub(PAGE_FIXES[title][0], PAGE_FIXES[title][1], text)
-    # print(text)
 
     # Apply any priority text removals, removing the match and everything after it.
     for string in PRIORITY_REMOVE_MATCHES:
@@ -381,8 +376,6 @@ def parse(page, event_date, parent=None):
 
     # Parse the text
     wikicode = mwparserfromhell.parse(text)
-    if TESTING == 1:
-        print(text)
 
     # Initialize the list of rateups.
     banners = []
@@ -391,14 +384,10 @@ def parse(page, event_date, parent=None):
     if title not in SKIP_TABLE_PARSE_PAGES:
         # Get all the tags in the page, any of which may contain the rateup servants wikitable.
         tags = wikicode.filter_tags()
-        # print(tags)
 
         cntr = 0
         # Find any tags containing the rateup servants wikitable.
         for tag in tags:
-            # print(tag)
-            # print("\n\n")
-
             # For the tag to contain a valid rateup servants wikitable,
             # 1. The tag must have a "class" field.
             # 2. The "class" field must contain "wikitable".
@@ -461,9 +450,6 @@ def parse(page, event_date, parent=None):
                 # Keep track of the number of rateup tables that have been parsed.
                 cntr += 1
 
-    # print(banners)
-    # print(text)
-
     # In older pages, the rateup servants are not in a wikitable, but are instead in links.
     # If the page is marked as priority, no need to look for keywords and parse servants regardless.
     if not (CURRENT_REGION == "JP" and CURRENT_YEAR >= 2021) and not (CURRENT_REGION == "NA" and CURRENT_YEAR >= 2023):
@@ -475,7 +461,6 @@ def parse(page, event_date, parent=None):
 
             # Check every link to see if it is a valid servant name.
             for link in links:
-                # print(link.title)
                 # Fix any errors in the servant name
                 name = correct_name(str(link.title).strip())
                 # Add the servant name to the list of rateup servants if it is a valid servant name.
@@ -510,13 +495,11 @@ def parse(page, event_date, parent=None):
                 sub_wikicode = mwparserfromhell.parse(parse_text)
                 # Get all the links in the section.
                 links = sub_wikicode.filter_wikilinks()
-                # print(links)
 
                 # Initialize the list of rateup servants.
                 rateup_servants = []
                 # Check every link to see if it is a valid servant name and add it to the list of rateup servants if it is.
                 for link in links:
-                    # print(link.title)
                     # Fix any errors in the servant name
                     name = correct_name(str(link.title).strip())
                     # Add the servant name to the list of rateup servants if it is a valid servant name.
@@ -531,11 +514,8 @@ def parse(page, event_date, parent=None):
                     # Append the rateup to the start of the banners list (since the page is parsed backwards).
                     banners.insert(0, rateup_servants)
 
-    # print(banners)
-
     # Dedupe the rateups.
     banners = list(dict.fromkeys(banners))
-    # print(banners)
 
     # Date if it has event headers
     templates = wikicode.filter_templates()
@@ -578,7 +558,6 @@ def parse(page, event_date, parent=None):
             BANNER_DICT[parent] = [dates, banners]
     else:
         BANNER_DICT[title] = [dates, banners]
-    # print(banners)
 
 def pre_release_remove():
     # Delete any existing precampaigns
@@ -646,7 +625,6 @@ def rec_check_subpages(event_page, date, parent_title):
             summon_name = event_subpage[1:]
             summon_page = pywikibot.Page(SITE, summon_name)
             parse(summon_page, date, parent_title)
-            # print(f'R: Parsing {summon_page.title()}: {BANNER_DICT}')
 
             # Check another level of subpages
             rec_check_subpages(summon_page, date, parent_title)
@@ -654,20 +632,24 @@ def rec_check_subpages(event_page, date, parent_title):
 
 # Parse test pages
 def parse_test():
-    # Open page "GUDAGUDA Super Goryokaku Summoning Campaign 1" and filter for templates.
-    # page = pywikibot.Page(SITE, "MELTY BLOOD: TYPE LUMINA Saber's Game Entry Commemorative Campaign")
-    # text = page.text
-    # # print(text)
-    # matches = re.findall(r'.*Summo.*(?:\w|\))=\n*(?:\[\[|{{).*\n\n*(?:.*Duration.*?(?: |\'|:)([A-Z].*))', text)
-    # for i, match in enumerate(matches):
-    #     # If there are 4 groups
-    #     print(match)
-    # wikicode = mwparserfromhell.parse(text)
-    # tags = wikicode.filter_text()
-    # print(tags)
-    title = "Chaldea Summer Adventure Pre-Release Campaign"
-    split_str = title.split("Pre-Release")[0].strip()
-    print(split_str)
+    page = pywikibot.Page(SITE, "Event List/2021 Events")
+    # Get the title of the page
+    print(page.title())
+    print()
+    text = page.text
+    wikicode = mwparserfromhell.parse(text)
+
+    events = wikicode.filter_wikilinks()
+    events = [x for x in events if not x.startswith("[[File:") and not x.startswith("[[Category:") and not x.startswith("[[#")]
+    events = [x.title for x in events]
+
+    # events = wikicode.filter_templates()
+    # events = [x.get("event").value.strip() for x in events]
+
+    events.reverse()
+
+    for event in events:
+        print(event)
 
 # Parse events
 def parse_event_lists():
@@ -733,13 +715,11 @@ def parse_event_lists():
             pbar.set_postfix_str(event)
             event_page = pywikibot.Page(SITE, event)
             parse(event_page, date)
-            # print(f'1: Parsing {event_page.title()}: {BANNER_DICT}')
 
             if event_page.title() in INCLUDE_SUBPAGES:
                 for subpage in INCLUDE_SUBPAGES[event_page.title()]:
                     summon_page = pywikibot.Page(SITE, subpage)
                     parse(summon_page, date, event_page.title())
-                    # print(f'I: Parsing {summon_page.title()}: {BANNER_DICT}')
                     pre_release_remove()
 
             # Parse any summoning campaign subpages
@@ -747,27 +727,6 @@ def parse_event_lists():
 
             post_release_remove()
             pre_release_merge()
-            # print(f'2: {BANNER_DICT}')
-
-def parse_event_list_test():
-    page = pywikibot.Page(SITE, "Event List/2021 Events")
-    # Get the title of the page
-    print(page.title())
-    print()
-    text = page.text
-    wikicode = mwparserfromhell.parse(text)
-
-    events = wikicode.filter_wikilinks()
-    events = [x for x in events if not x.startswith("[[File:") and not x.startswith("[[Category:") and not x.startswith("[[#")]
-    events = [x.title for x in events]
-
-    # events = wikicode.filter_templates()
-    # events = [x.get("event").value.strip() for x in events]
-
-    events.reverse()
-
-    for event in events:
-        print(event)
 
 # Remove banners with no rateups.
 def remove_empty():
@@ -776,9 +735,6 @@ def remove_empty():
     for banner in list(BANNER_DICT):
         if not BANNER_DICT[banner][1]:
             del BANNER_DICT[banner]
-
-# parse_event_list_test()
-# sys.exit(0)
 
 # If TESTING is 1, parse the test pages. Otherwise, parse the Summoning Campaign category.
 if TESTING == 1:
@@ -810,7 +766,7 @@ shutil.copy(os.path.join(os.path.dirname(__file__), FILE_NEW), os.path.join(os.p
 # Create the new version of the JSON file from the banner list.
 json_obj = jsons.dump(banner_list)
 with open(os.path.join(os.path.dirname(__file__), FILE_NEW), 'w') as f:
-    f.write(json.dumps(json_obj, indent=2))
+    f.write(json.dumps(json_obj, indent=2).encode().decode('unicode-escape'))
 
 # Write the diff between the old and new banner list JSON to a file.
 with open(os.path.join(os.path.dirname(__file__), FILE_NEW), 'r') as f1:
