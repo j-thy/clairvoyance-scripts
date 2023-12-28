@@ -14,11 +14,6 @@ from collections import OrderedDict
 # Define format of progress bar.
 BAR_FORMAT = "{l_bar}{bar:50}{r_bar}{bar:-50b}"
 
-# Read in test parameter from command line.
-TESTING = 0
-if len(sys.argv) > 1:
-    TESTING = int(sys.argv[1])
-
 # Keywords that indicate the wikitable is a rateup servants wikitable.
 TABLE_MATCHES = (
     "New Servant",
@@ -166,6 +161,21 @@ SUMMON_SUBPAGE = (
     "Pre-Anniversary Campaign",
 )
 
+SUBPAGE_TITLE_REMOVE = (
+    "/Event Info",
+    "/Event_Info",
+    "/Main Info",
+    "/Main_Info",
+    "/Event Summary",
+    "/Info",
+)
+
+SUBPAGE_TITLE_REPLACE = (
+    "/Summoning",
+    "/Summon",
+    "/FP",
+)
+
 # Pages that should not be parsed nor merged into.
 EXCLUDE_PAGES = (
     "2017 New Year Lucky Bag Summoning Campaign",
@@ -246,8 +256,6 @@ EXCLUDE_PAGES = (
 # AnimeJapan 2016 Exhibition Commemoration Campaign
 # New Year Campaign 2016
 # 4M Downloads Campaign
-
-
 INCLUDE_SUBPAGES = {
     "FGO 2016 Summer Event" : ["FGO 2016 Summer Event/Event Details", "FGO 2016 Summer Event/Part II Event Details"],
     "SE.RA.PH" : ["Fate/EXTRA CCC×Fate/Grand Order"],
@@ -275,14 +283,14 @@ TEST_PAGES = (
 # If it is 1, parse templates
 EVENT_LISTS = (
     "Event List/2015 Events",
-    # "Event List/2016 Events",
-    # "Event List/2017 Events",
-    # "Event List/2018 Events",
-    # "Event List/2019 Events",
-    # "Event List/2020 Events",
-    # "Event List/2021 Events",
-    # "Event List/2022 Events",
-    # "Event List/2023 Events",
+    "Event List/2016 Events",
+    "Event List/2017 Events",
+    "Event List/2018 Events",
+    "Event List/2019 Events",
+    "Event List/2020 Events",
+    "Event List/2021 Events",
+    "Event List/2022 Events",
+    "Event List/2023 Events",
     # "Event List (US)/2017 Events",
     # "Event List (US)/2018 Events",
     # "Event List (US)/2019 Events",
@@ -308,19 +316,23 @@ FAKE_BANNERS = (
     "MELTY BLOOD: TYPE LUMINA Mashu's Game Entry Commemorative Campaign",
 )
 
-# Get the FGO wiki site.
-SITE = pywikibot.Site()
+# Read in test parameter from command line.
+TESTING = 0
+if len(sys.argv) > 2:
+    TESTING = int(sys.argv[2])
 
 # Import the servant data and get the names of all the servants.
-servant_data = None
-with open(os.path.join(os.path.dirname(__file__), 'servant_data.json')) as f:
-    servant_data = jsons.loads(f.read())
-servant_names = set([servant_data[servant]['name'] for servant in servant_data])
+DIR_PATH = os.path.dirname(__file__)
+SERVANT_DATA = None
+with open(os.path.join(DIR_PATH, 'servant_data.json')) as f:
+    SERVANT_DATA = jsons.loads(f.read())
+SERVANT_NAMES = set([SERVANT_DATA[servant]['name'] for servant in SERVANT_DATA])
 
+# Get the FGO wiki site.
 # Initialize the summoning campaign and event dictionaries.
-BANNER_DICT = OrderedDict()
-EVENT_DICT = {}
-EVENT_TITLES = ()
+SITE = pywikibot.Site()
+BANNER_DICT_JP = OrderedDict()
+BANNER_DICT_NA = OrderedDict()
 CURRENT_YEAR = 0
 CURRENT_REGION = ""
 
@@ -351,7 +363,7 @@ def correct_name(text):
     return text
 
 # Parse a wiki page
-def parse(page, event_date, parent=None):
+def parse(banner_dict, page, event_date, parent=None):
     # Get the title of the page
     title = page.title()
 
@@ -415,7 +427,7 @@ def parse(page, event_date, parent=None):
                 name = correct_name(str(template.name))
 
                 # Add the servant name to the list of rateup servants if it is a valid servant name.
-                if name in servant_names:
+                if name in SERVANT_NAMES:
                     rateup_servants.append(name)
             
             # Manually add any rateup servants that are incorrectly left out of the table on the wiki
@@ -464,7 +476,7 @@ def parse(page, event_date, parent=None):
                 # Fix any errors in the servant name
                 name = correct_name(str(link.title).strip())
                 # Add the servant name to the list of rateup servants if it is a valid servant name.
-                if name in servant_names:
+                if name in SERVANT_NAMES:
                     rateup_servants.append(name)
 
             # If rateup servants were found...
@@ -503,7 +515,7 @@ def parse(page, event_date, parent=None):
                     # Fix any errors in the servant name
                     name = correct_name(str(link.title).strip())
                     # Add the servant name to the list of rateup servants if it is a valid servant name.
-                    if name in servant_names:
+                    if name in SERVANT_NAMES:
                         rateup_servants.append(name)
 
                 # If rateup servants were found...
@@ -542,46 +554,64 @@ def parse(page, event_date, parent=None):
     # Create a list of dates the same size as the list of banners.
     dates = [event_date] * len(banners)
 
+    subpage_title = title
+    if any(keyword in title for keyword in SUBPAGE_TITLE_REMOVE):
+        subpage_title = re.sub(r'(?<!Fate)\/.*', '', title)
+    elif any(keyword in title for keyword in SUBPAGE_TITLE_REPLACE):
+        subpage_title = re.sub(r'(?<!Fate)\/', ' ', title)
+    rateup_titles = [subpage_title] * len(banners)
+
     # Finds date on pages with multiple summoning campaigns on different tabs
-    matches = re.findall(r'.*Summo.*(?:\w|\))=\n*(?:\[\[|{{).*\n\n*(?:.*Duration.*?(?: |\'|:)([A-Z].*))', text)
-    for i, match in enumerate(matches):
-        # If there are 2 groups
-        if match and title not in FAKE_BANNERS:
-            dates[i] = match
+    matches = re.findall(r'(.*Summo.*(?:\w|\)))=\n*((?:\[\[|{{).*)\n\n*(?:.*Duration.*?(?: |\'|:)([A-Z].*))?', text)
+
+    i = 0
+    for match in matches:
+        if "Lucky" not in match[0] and "Guaranteed" not in match[0] and title not in FAKE_BANNERS and "tabber" not in match[1]:
+            try:
+                rateup_titles[i] = f'{subpage_title} {match[0].strip()}'
+            except:
+                pass
+
+            if match[2]:
+                dates[i] = match[2]
+
+            i += 1
 
     # Save the date of page creation with the summoning campaign.
     if parent:
         try:
-            BANNER_DICT[parent][0].extend(dates)
-            BANNER_DICT[parent][1].extend(banners)
+            banner_dict[parent][0].extend(dates)
+            banner_dict[parent][1].extend(banners)
+            banner_dict[parent][2].extend(rateup_titles)
         except KeyError:
-            BANNER_DICT[parent] = [dates, banners]
+            banner_dict[parent] = [dates, banners, rateup_titles]
     else:
-        BANNER_DICT[title] = [dates, banners]
+        banner_dict[title] = [dates, banners, rateup_titles]
 
-def pre_release_remove():
+def pre_release_remove(banner_dict):
     # Delete any existing precampaigns
-    vals = list(BANNER_DICT.values())
+    vals = list(banner_dict.values())
     try:
         for i in range(-2, -5, -1):
             mark_for_del = False
             for rateup in vals[i][1]:
                 if rateup in vals[-1][1]:
-                    # Transfer date over
+                    # Transfer date and rateup titles over
                     dest_index = vals[-1][1].index(rateup)
                     src_index = vals[i][1].index(rateup)
                     vals[-1][0][dest_index] = vals[i][0][src_index]
+                    vals[-1][2][dest_index] = vals[i][2][src_index]
                     mark_for_del = True
             # Delete that element
             if mark_for_del == True:
-                del BANNER_DICT[list(BANNER_DICT.keys())[i]]
+                del banner_dict[list(banner_dict.keys())[i]]
                 i -= 1
     except IndexError:
         pass
 
-def post_release_remove():
+def post_release_remove(banner_dict):
     # Delete any existing precampaigns
-    vals = list(BANNER_DICT.values())
+    vals = list(banner_dict.values())
     try:
         mark_for_del = False
         for i in range(-2, -5, -1):
@@ -591,17 +621,18 @@ def post_release_remove():
                     dest_index = vals[i][1].index(rateup)
                     src_index = vals[-1][1].index(rateup)
                     vals[i][0][dest_index] = vals[-1][0][src_index]
+                    vals[i][2][dest_index] = vals[-1][2][src_index]
                     mark_for_del = True
     except IndexError:
         pass
     # Delete that element
     if mark_for_del == True:
-        del BANNER_DICT[list(BANNER_DICT.keys())[-1]]
+        del banner_dict[list(banner_dict.keys())[-1]]
 
-def pre_release_merge():
+def pre_release_merge(banner_dict):
     # Delete any existing precampaigns
-    keys = list(BANNER_DICT.keys())
-    vals = list(BANNER_DICT.values())
+    keys = list(banner_dict.keys())
+    vals = list(banner_dict.values())
     try:
         for i in range(-2, -5, -1):
             # Merge pre-releases not merged on the wiki
@@ -609,12 +640,13 @@ def pre_release_merge():
             if pre_release_parent == keys[-1]:
                 vals[-1][0].extend(vals[i][0])
                 vals[-1][1].extend(vals[i][1])
-                del BANNER_DICT[list(BANNER_DICT.keys())[i]]
+                vals[-1][2].extend(vals[i][2])
+                del banner_dict[list(banner_dict.keys())[i]]
                 i -= 1
     except IndexError:
         pass
 
-def rec_check_subpages(event_page, date, parent_title):
+def rec_check_subpages(banner_dict, event_page, date, parent_title):
     event_text = event_page.text
     event_wikicode = mwparserfromhell.parse(event_text)
     event_templates = event_wikicode.filter_templates()
@@ -624,11 +656,11 @@ def rec_check_subpages(event_page, date, parent_title):
         if any(keyword in event_subpage for keyword in SUMMON_SUBPAGE):
             summon_name = event_subpage[1:]
             summon_page = pywikibot.Page(SITE, summon_name)
-            parse(summon_page, date, parent_title)
+            parse(banner_dict, summon_page, date, parent_title)
 
             # Check another level of subpages
-            rec_check_subpages(summon_page, date, parent_title)
-            pre_release_remove()
+            rec_check_subpages(banner_dict, summon_page, date, parent_title)
+            pre_release_remove(banner_dict)
 
 # Parse test pages
 def parse_test():
@@ -660,6 +692,7 @@ def parse_event_lists():
     for event_list in EVENT_LISTS:
         CURRENT_YEAR = int(event_list.split('/')[1][:4])
         CURRENT_REGION = "NA" if "US" in event_list else "JP"
+        banner_dict = BANNER_DICT_NA if CURRENT_REGION == "NA" else BANNER_DICT_JP
         page = pywikibot.Page(SITE, event_list)
         print(f"Parsing {page.title()}...")
         text = page.text
@@ -714,27 +747,27 @@ def parse_event_lists():
         for event, date in (pbar := tqdm(events.items(), bar_format=BAR_FORMAT)):
             pbar.set_postfix_str(event)
             event_page = pywikibot.Page(SITE, event)
-            parse(event_page, date)
+            parse(banner_dict, event_page, date)
 
             if event_page.title() in INCLUDE_SUBPAGES:
                 for subpage in INCLUDE_SUBPAGES[event_page.title()]:
                     summon_page = pywikibot.Page(SITE, subpage)
-                    parse(summon_page, date, event_page.title())
-                    pre_release_remove()
+                    parse(banner_dict, summon_page, date, event_page.title())
+                    pre_release_remove(banner_dict)
 
             # Parse any summoning campaign subpages
-            rec_check_subpages(event_page, date, event_page.title())
+            rec_check_subpages(banner_dict, event_page, date, event_page.title())
 
-            post_release_remove()
-            pre_release_merge()
+            post_release_remove(banner_dict)
+            pre_release_merge(banner_dict)
 
 # Remove banners with no rateups.
-def remove_empty():
+def remove_empty(banner_dict):
     # Delete banners with empty rateups.
     print('Cleaning up empty rateups...')
-    for banner in list(BANNER_DICT):
-        if not BANNER_DICT[banner][1]:
-            del BANNER_DICT[banner]
+    for banner in list(banner_dict):
+        if not banner_dict[banner][1]:
+            del banner_dict[banner]
 
 # If TESTING is 1, parse the test pages. Otherwise, parse the Summoning Campaign category.
 if TESTING == 1:
@@ -743,34 +776,57 @@ else:
     parse_event_lists()
 
 # Remove banners with no rateups.
-remove_empty()
+remove_empty(BANNER_DICT_JP)
+remove_empty(BANNER_DICT_NA)
 
 # Sort the banners by date.
 print("Sorting by date...")
-banner_list = []
-for banner in BANNER_DICT:
-    banner_list.append({
+banner_list_jp = []
+for banner in BANNER_DICT_JP:
+    banner_list_jp.append({
         'name': banner,
-        'dates': BANNER_DICT[banner][0],
-        'rateups': BANNER_DICT[banner][1]
+        'rateup_names' : BANNER_DICT_JP[banner][2],
+        'dates': BANNER_DICT_JP[banner][0],
+        'rateups': BANNER_DICT_JP[banner][1]
     })
-# banner_list.sort(key=lambda x: x['date'])
+banner_list_na = []
+for banner in BANNER_DICT_NA:
+    banner_list_na.append({
+        'name': banner,
+        'rateup_names' : BANNER_DICT_NA[banner][2],
+        'dates': BANNER_DICT_NA[banner][0],
+        'rateups': BANNER_DICT_NA[banner][1]
+    })
 
 # Save the banner list to a JSON file.
 print("Saving to JSON file...")
+
+# Filenames for the old and new JSON files.
+FILE_OLD_JP = "summon_data_test_old.json" if TESTING == 1 else "summon_data_old.json"
+FILE_NEW_JP = "summon_data_test.json" if TESTING == 1 else "summon_data.json"
+FILE_OLD_NA = "summon_data_na_test_old.json" if TESTING == 1 else "summon_data_na_old_na.json"
+FILE_NEW_NA = "summon_data_na_test.json" if TESTING == 1 else "summon_data_na.json"
+
 # Save the old version of the JSON file for diff comparison.
-FILE_OLD = "summon_data_test_old.json" if TESTING == 1 else "summon_data_old.json"
-FILE_NEW = "summon_data_test.json" if TESTING == 1 else "summon_data.json"
-shutil.copy(os.path.join(os.path.dirname(__file__), FILE_NEW), os.path.join(os.path.dirname(__file__), FILE_OLD))
+shutil.copy(os.path.join(DIR_PATH, FILE_NEW_JP), os.path.join(DIR_PATH, FILE_OLD_JP))
+shutil.copy(os.path.join(DIR_PATH, FILE_NEW_NA), os.path.join(DIR_PATH, FILE_OLD_NA))
 
 # Create the new version of the JSON file from the banner list.
-json_obj = jsons.dump(banner_list)
-with open(os.path.join(os.path.dirname(__file__), FILE_NEW), 'w') as f:
+json_obj = jsons.dump(banner_list_jp)
+with open(os.path.join(DIR_PATH, FILE_NEW_JP), 'w') as f:
+    f.write(json.dumps(json_obj, indent=2).encode().decode('unicode-escape'))
+json_obj = jsons.dump(banner_list_na)
+with open(os.path.join(DIR_PATH, FILE_NEW_NA), 'w') as f:
     f.write(json.dumps(json_obj, indent=2).encode().decode('unicode-escape'))
 
 # Write the diff between the old and new banner list JSON to a file.
-with open(os.path.join(os.path.dirname(__file__), FILE_NEW), 'r') as f1:
-    with open(os.path.join(os.path.dirname(__file__), FILE_OLD), 'r') as f2:
+with open(os.path.join(DIR_PATH, FILE_NEW_JP), 'r') as f1:
+    with open(os.path.join(DIR_PATH, FILE_OLD_JP), 'r') as f2:
         diff = difflib.unified_diff(f2.readlines(), f1.readlines())
-        with open(os.path.join(os.path.dirname(__file__), 'diff.txt'), 'w') as f3:
+        with open(os.path.join(DIR_PATH, 'diff_jp.txt'), 'w') as f3:
+            f3.writelines(diff)
+with open(os.path.join(DIR_PATH, FILE_NEW_NA), 'r') as f1:
+    with open(os.path.join(DIR_PATH, FILE_OLD_NA), 'r') as f2:
+        diff = difflib.unified_diff(f2.readlines(), f1.readlines())
+        with open(os.path.join(DIR_PATH, 'diff_na.txt'), 'w') as f3:
             f3.writelines(diff)

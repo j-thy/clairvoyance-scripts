@@ -1,0 +1,5430 @@
+[
+  {
+    "name": "66,666 Facebook Likes Campaign (US)",
+    "dates": [
+      "July 6 ~ July 20"
+    ],
+    "rateups": [
+      [
+        "Atalanta",
+        "Cú Chulainn (Prototype)",
+        "Gilgamesh",
+        "Lancelot",
+        "Medea"
+      ]
+    ]
+  },
+  {
+    "name": "Nero Festival (US)",
+    "dates": [
+      "July 25 ~ August 3"
+    ],
+    "rateups": [
+      [
+        "Altera",
+        "Gaius Julius Caesar",
+        "Nero Claudius",
+        "Romulus"
+      ]
+    ]
+  },
+  {
+    "name": "Otakon 2017 Campaign (US)",
+    "dates": [
+      "August 8th 07:00 UTC - August 17th 3:59 UTC"
+    ],
+    "rateups": [
+      [
+        "Chevalier d'Eon",
+        "Gilles de Rais (Saber)",
+        "Jeanne d'Arc",
+        "Kiyohime",
+        "Siegfried"
+      ]
+    ]
+  },
+  {
+    "name": "Moon Goddess Event (US)",
+    "dates": [
+      "August 17 ~ August 24"
+    ],
+    "rateups": [
+      [
+        "Jing Ke",
+        "Marie Antoinette",
+        "Orion",
+        "Stheno",
+        "Ushiwakamaru"
+      ]
+    ]
+  },
+  {
+    "name": "1M Download Campaign (US)",
+    "dates": [
+      "August 31st 7:00 - September 14th 3:59 UTC"
+    ],
+    "rateups": [
+      [
+        "Altera",
+        "Artoria Pendragon",
+        "Artoria Pendragon (Alter)",
+        "Boudica",
+        "Jeanne d'Arc",
+        "Martha",
+        "Robin Hood",
+        "Sakata Kintoki",
+        "Vlad III",
+        "Zhuge Liang (Lord El-Melloi II)"
+      ]
+    ]
+  },
+  {
+    "name": "Fuyuki Pickup Summon (US)",
+    "dates": [
+      "September 14th 7:00 - September 21st 3:59 UTC"
+    ],
+    "rateups": [
+      [
+        "Artoria Pendragon",
+        "Cú Chulainn",
+        "EMIYA",
+        "Heracles",
+        "Medea",
+        "Medusa"
+      ]
+    ]
+  },
+  {
+    "name": "Septem Campaign (US)",
+    "dates": [
+      "September 21 ~ September 28"
+    ],
+    "rateups": [
+      [
+        "Altera",
+        "Elizabeth Báthory",
+        "Nero Claudius",
+        "Stheno",
+        "Tamamo Cat",
+        "Zhuge Liang (Lord El-Melloi II)"
+      ]
+    ]
+  },
+  {
+    "name": "Okeanos Chapter Release (US)",
+    "dates": [
+      "September 28"
+    ],
+    "rateups": [
+      [
+        "Anne Bonny & Mary Read",
+        "David",
+        "Euryale",
+        "Francis Drake",
+        "Hector"
+      ]
+    ]
+  },
+  {
+    "name": "Okeanos Campaign 2 (US)",
+    "dates": [
+      "October 5 ~ October 17"
+    ],
+    "rateups": [
+      [
+        "David",
+        "Euryale",
+        "Hector",
+        "Heracles",
+        "Medea (Lily)",
+        "Orion"
+      ]
+    ]
+  },
+  {
+    "name": "Halloween 2017 Event (US)",
+    "dates": [
+      "October 17 ~ November 1"
+    ],
+    "rateups": [
+      [
+        "Carmilla",
+        "Darius III",
+        "Mephistopheles",
+        "Tamamo Cat",
+        "Tamamo no Mae"
+      ]
+    ]
+  },
+  {
+    "name": "Da Vinci's Selection Campaign (US)",
+    "dates": [
+      "November 1st 4:00 - November 8th 3:59 UTC"
+    ],
+    "rateups": [
+      [
+        "Alexander",
+        "Cú Chulainn (Prototype)",
+        "Lancelot",
+        "Siegfried",
+        "Zhuge Liang (Lord El-Melloi II)"
+      ]
+    ]
+  },
+  {
+    "name": "GUDAGUDA Honnouji Event (US)",
+    "dates": [
+      "November 8 ~ November 24"
+    ],
+    "rateups": [
+      [
+        "Cú Chulainn",
+        "EMIYA",
+        "Medusa",
+        "Mephistopheles",
+        "Okita Sōji"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Thanksgiving Special 2017 (US)",
+    "dates": [
+      "November 22 ~ December 1"
+    ],
+    "rateups": [
+      [
+        "Diarmuid Ua Duibhne",
+        "Fergus mac Róich",
+        "Gilgamesh",
+        "Medea (Lily)",
+        "Sakata Kintoki",
+        "Scáthach"
+      ]
+    ]
+  },
+  {
+    "name": "Christmas 2017 Event (US)",
+    "dates": [
+      "December 1 ~ December 11"
+    ],
+    "rateups": [
+      [
+        "Jack the Ripper",
+        "Jing Ke",
+        "Marie Antoinette",
+        "Nursery Rhyme",
+        "Robin Hood"
+      ]
+    ]
+  },
+  {
+    "name": "Singularity Pickup Summon (US)",
+    "dates": [
+      "December 11th 4:00 - December 19th 3:59 UTC",
+      "December 11th 4:00 - December 19th 3:59 UTC",
+      "December 11th 4:00 - December 19th 3:59 UTC",
+      "December 11th 4:00 - December 19th 3:59 UTC"
+    ],
+    "rateups": [
+      [
+        "Artoria Pendragon",
+        "Artoria Pendragon (Alter)",
+        "Cú Chulainn",
+        "Cú Chulainn (Caster)",
+        "EMIYA",
+        "Heracles",
+        "Medea",
+        "Medusa"
+      ],
+      [
+        "Chevalier d'Eon",
+        "Gilles de Rais",
+        "Gilles de Rais (Saber)",
+        "Jeanne d'Arc",
+        "Kiyohime",
+        "Siegfried",
+        "Vlad III"
+      ],
+      [
+        "Altera",
+        "Boudica",
+        "Elizabeth Báthory",
+        "Gaius Julius Caesar",
+        "Nero Claudius",
+        "Romulus",
+        "Zhuge Liang (Lord El-Melloi II)"
+      ],
+      [
+        "Anne Bonny & Mary Read",
+        "David",
+        "Euryale",
+        "Francis Drake",
+        "Hector",
+        "Medea (Lily)",
+        "Orion"
+      ]
+    ]
+  },
+  {
+    "name": "London Chapter Release (US)",
+    "dates": [
+      "December 19"
+    ],
+    "rateups": [
+      [
+        "Charles Babbage",
+        "Frankenstein",
+        "Henry Jekyll & Hyde",
+        "Mordred",
+        "Paracelsus von Hohenheim"
+      ]
+    ]
+  },
+  {
+    "name": "London Campaign 2 (US)",
+    "dates": [
+      "December 26 ~ January 4"
+    ],
+    "rateups": [
+      [
+        "Artoria Pendragon (Lancer Alter)",
+        "Nikola Tesla"
+      ]
+    ]
+  },
+  {
+    "name": "Happy New Year 2018 (US)",
+    "dates": [
+      "December 28 ~ January 4"
+    ],
+    "rateups": [
+      [
+        "Arjuna",
+        "Artoria Pendragon (Alter)",
+        "Cú Chulainn",
+        "Karna",
+        "Medea",
+        "Medusa"
+      ]
+    ]
+  },
+  {
+    "name": "Saber Wars Event (US)",
+    "dates": [
+      "January 4 ~ January 18"
+    ],
+    "rateups": [
+      [
+        "Artoria Pendragon (Alter)",
+        "Mysterious Heroine X",
+        "Nero Claudius"
+      ]
+    ]
+  },
+  {
+    "name": "2M Downloads Campaign (US)",
+    "dates": [
+      "January 18 ~ January 25"
+    ],
+    "rateups": [
+      [
+        "Beowulf",
+        "Brynhildr",
+        "Fionn mac Cumhaill"
+      ]
+    ]
+  },
+  {
+    "name": "Valentine 2018 Event (US)",
+    "dates": [
+      "January 25 ~ February 3"
+    ],
+    "rateups": [
+      [
+        "Altera",
+        "Artoria Pendragon",
+        "Francis Drake",
+        "Jack the Ripper",
+        "Jeanne d'Arc",
+        "Mordred",
+        "Nero Claudius (Bride)",
+        "Orion",
+        "Tamamo no Mae"
+      ]
+    ]
+  },
+  {
+    "name": "Three Knights and Four Cavalries Summon Campaign (US)",
+    "dates": [
+      "February 1, 2018 04:00 ~ February 8, 2018 3:59 UTC"
+    ],
+    "rateups": [
+      [
+        "Alexander",
+        "Altera",
+        "Anne Bonny & Mary Read",
+        "Arjuna",
+        "Artoria Pendragon",
+        "Artoria Pendragon (Alter)",
+        "Artoria Pendragon (Lancer Alter)",
+        "Atalanta",
+        "Beowulf",
+        "Boudica",
+        "Carmilla",
+        "Charles Babbage",
+        "Chevalier d'Eon",
+        "Cú Chulainn",
+        "Cú Chulainn (Caster)",
+        "Cú Chulainn (Prototype)",
+        "Darius III",
+        "David",
+        "Diarmuid Ua Duibhne",
+        "EMIYA",
+        "Elizabeth Báthory",
+        "Euryale",
+        "Fergus mac Róich",
+        "Fionn mac Cumhaill",
+        "Francis Drake",
+        "Frankenstein",
+        "Gaius Julius Caesar",
+        "Gilles de Rais",
+        "Gilles de Rais (Saber)",
+        "Hector",
+        "Henry Jekyll & Hyde",
+        "Heracles",
+        "Jack the Ripper",
+        "Jeanne d'Arc",
+        "Jing Ke",
+        "Karna",
+        "Kiyohime",
+        "Lancelot",
+        "Lu Bu Fengxian",
+        "Marie Antoinette",
+        "Martha",
+        "Medea",
+        "Medea (Lily)",
+        "Medusa",
+        "Mephistopheles",
+        "Mordred",
+        "Nero Claudius",
+        "Nikola Tesla",
+        "Nursery Rhyme",
+        "Orion",
+        "Paracelsus von Hohenheim",
+        "Robin Hood",
+        "Romulus",
+        "Siegfried",
+        "Stheno",
+        "Tamamo Cat",
+        "Tamamo no Mae",
+        "Ushiwakamaru",
+        "Vlad III",
+        "Zhuge Liang (Lord El-Melloi II)"
+      ]
+    ]
+  },
+  {
+    "name": "The Garden of Sinners Collaboration Event (US)",
+    "dates": [
+      "February 8 ~ February 22"
+    ],
+    "rateups": [
+      [
+        "Ryōgi Shiki (Saber)"
+      ]
+    ]
+  },
+  {
+    "name": "Chaldea Boys Collection 2018 (US)",
+    "dates": [
+      "February 22, 2018 05:00 - March 1, 2018 3:59 (UTC)"
+    ],
+    "rateups": [
+      [
+        "Amakusa Shirō",
+        "Astolfo",
+        "Kid Gil",
+        "Nikola Tesla",
+        "Vlad III",
+        "Zhuge Liang (Lord El-Melloi II)"
+      ]
+    ]
+  },
+  {
+    "name": "Vengeful Demon's Wail at the Prison Tower (US)",
+    "dates": [
+      "March 1 ~ March 8"
+    ],
+    "rateups": [
+      [
+        "Edmond Dantès"
+      ]
+    ]
+  },
+  {
+    "name": "Singularity Summon Campaign (US)",
+    "dates": [
+      "March 8th 4:00 - March 15th 3:59 UTC",
+      "March 8th 4:00 - March 15th 3:59 UTC",
+      "March 8th 4:00 - March 15th 3:59 UTC",
+      "March 8th 4:00 - March 15th 3:59 UTC",
+      "March 8th 4:00 - March 15th 3:59 UTC"
+    ],
+    "rateups": [
+      [
+        "Artoria Pendragon",
+        "Artoria Pendragon (Alter)",
+        "Cú Chulainn",
+        "Cú Chulainn (Caster)",
+        "EMIYA",
+        "Heracles",
+        "Medea",
+        "Medusa"
+      ],
+      [
+        "Carmilla",
+        "Chevalier d'Eon",
+        "Gilles de Rais",
+        "Gilles de Rais (Saber)",
+        "Jeanne d'Arc",
+        "Kiyohime",
+        "Siegfried",
+        "Vlad III"
+      ],
+      [
+        "Altera",
+        "Boudica",
+        "Elizabeth Báthory",
+        "Gaius Julius Caesar",
+        "Nero Claudius",
+        "Romulus",
+        "Zhuge Liang (Lord El-Melloi II)"
+      ],
+      [
+        "Anne Bonny & Mary Read",
+        "David",
+        "Euryale",
+        "Francis Drake",
+        "Hector",
+        "Medea (Lily)",
+        "Orion"
+      ],
+      [
+        "Artoria Pendragon (Lancer Alter)",
+        "Charles Babbage",
+        "Frankenstein",
+        "Henry Jekyll & Hyde",
+        "Mordred",
+        "Nikola Tesla",
+        "Nursery Rhyme",
+        "Paracelsus von Hohenheim"
+      ]
+    ]
+  },
+  {
+    "name": "E Pluribus Unum Chapter Release (US)",
+    "dates": [
+      "March 15"
+    ],
+    "rateups": [
+      [
+        "Billy the Kid",
+        "Geronimo",
+        "Helena Blavatsky",
+        "Nightingale",
+        "Rama"
+      ]
+    ]
+  },
+  {
+    "name": "E Pluribus Unum Summoning Campaign 2 (US)",
+    "dates": [
+      "March 22nd 04:00 - April 5th 03:59 (UTC)"
+    ],
+    "rateups": [
+      [
+        "Queen Medb"
+      ]
+    ]
+  },
+  {
+    "name": "E Pluribus Unum Summoning Campaign 3 (US)",
+    "dates": [
+      "March 29 ~ April 12"
+    ],
+    "rateups": [
+      [
+        "Cú Chulainn (Alter)",
+        "Thomas Edison"
+      ]
+    ]
+  },
+  {
+    "name": "Da Vinci and the 7 Counterfeit Heroic Spirits (US)",
+    "dates": [
+      "April 4 ~ April 13"
+    ],
+    "rateups": [
+      [
+        "Jeanne d'Arc (Alter)"
+      ]
+    ]
+  },
+  {
+    "name": "Fate/Accel Zero Order Collaboration Event (US)",
+    "dates": [
+      "April 19 ~ May 10",
+      "April 11th 21:00 - April 18th 20:59 (PDT)<br/>"
+    ],
+    "rateups": [
+      [
+        "EMIYA (Assassin)",
+        "Hassan of the Hundred Faces",
+        "Iskandar",
+        "Zhuge Liang (Lord El-Melloi II)"
+      ],
+      [
+        "Artoria Pendragon",
+        "Diarmuid Ua Duibhne",
+        "Gilgamesh",
+        "Gilles de Rais",
+        "Lancelot"
+      ]
+    ]
+  },
+  {
+    "name": "Sakata Kintoki Summoning Campaign (US)",
+    "dates": [
+      "May 10th 21:00 - May 23rd 20:59 (PDT)"
+    ],
+    "rateups": [
+      [
+        "Sakata Kintoki"
+      ]
+    ]
+  },
+  {
+    "name": "Rashomon Event (US)",
+    "dates": [
+      "May 16 ~ May 30"
+    ],
+    "rateups": [
+      [
+        "Shuten Dōji"
+      ]
+    ]
+  },
+  {
+    "name": "Sanzang Coming to the West (US)",
+    "dates": [
+      "May 31 ~ June 13"
+    ],
+    "rateups": [
+      [
+        "David",
+        "Li Shuwen (Lancer)",
+        "Lu Bu Fengxian",
+        "Xuanzang Sanzang"
+      ]
+    ]
+  },
+  {
+    "name": "3M Downloads Campaign (US)",
+    "dates": [
+      "June 6 ~ June 13"
+    ],
+    "rateups": [
+      [
+        "Scáthach"
+      ]
+    ]
+  },
+  {
+    "name": "Onigashima Event (US)",
+    "dates": [
+      "June 14 ~ June 27"
+    ],
+    "rateups": [
+      [
+        "Fūma Kotarō",
+        "Ibaraki Dōji",
+        "Kiyohime",
+        "Minamoto no Raikō",
+        "Ushiwakamaru"
+      ]
+    ]
+  },
+  {
+    "name": "Camelot Chapter Release (US)",
+    "dates": [
+      "June 28"
+    ],
+    "rateups": [
+      [
+        "Hassan of the Serenity",
+        "Lancelot (Saber)",
+        "Nitocris",
+        "Ozymandias",
+        "Tawara Tōta"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Festival 2018 ~1st Anniversary~ (US)",
+    "dates": [
+      "July 7th 18:00 - July 19th 20:59 PDT (Extended)<br />"
+    ],
+    "rateups": [
+      [
+        "Altera",
+        "Anne Bonny & Mary Read",
+        "Artoria Pendragon",
+        "Artoria Pendragon (Alter)",
+        "Artoria Pendragon (Lancer Alter)",
+        "Billy the Kid",
+        "Boudica",
+        "Charles Babbage",
+        "Chevalier d'Eon",
+        "Cú Chulainn",
+        "Cú Chulainn (Alter)",
+        "Cú Chulainn (Caster)",
+        "David",
+        "EMIYA",
+        "Euryale",
+        "Francis Drake",
+        "Frankenstein",
+        "Gaius Julius Caesar",
+        "Geronimo",
+        "Gilles de Rais",
+        "Gilles de Rais (Saber)",
+        "Hector",
+        "Helena Blavatsky",
+        "Henry Jekyll & Hyde",
+        "Heracles",
+        "Jeanne d'Arc",
+        "Kiyohime",
+        "Leonardo Da Vinci",
+        "Li Shuwen (Lancer)",
+        "Medea",
+        "Medea (Lily)",
+        "Medusa",
+        "Mordred",
+        "Nero Claudius",
+        "Nightingale",
+        "Nikola Tesla",
+        "Nursery Rhyme",
+        "Paracelsus von Hohenheim",
+        "Queen Medb",
+        "Rama",
+        "Romulus",
+        "Siegfried",
+        "Thomas Edison"
+      ]
+    ]
+  },
+  {
+    "name": "Camelot Summoning Campaign 2 (US)",
+    "dates": [
+      "July 17 ~ August 1"
+    ],
+    "rateups": [
+      [
+        "Artoria Pendragon (Lancer)",
+        "Gawain",
+        "Tristan"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Summer 2018 Event (US)",
+    "dates": [
+      "July 26 ~ August 14",
+      "July 26 ~ August 14"
+    ],
+    "rateups": [
+      [
+        "Anne Bonny & Mary Read (Archer)",
+        "Kiyohime (Lancer)",
+        "Mordred (Rider)",
+        "Tamamo no Mae (Lancer)"
+      ],
+      [
+        "Artoria Pendragon (Archer)",
+        "Marie Antoinette (Caster)",
+        "Martha (Ruler)"
+      ]
+    ]
+  },
+  {
+    "name": "Prisma Codes Collaboration Event (US)",
+    "dates": [
+      "August 23 ~ September 4"
+    ],
+    "rateups": [
+      [
+        "Helena Blavatsky",
+        "Illyasviel von Einzbern",
+        "Medea (Lily)",
+        "Nursery Rhyme",
+        "Queen Medb"
+      ]
+    ]
+  },
+  {
+    "name": "Class Specified Summoning Campaign (US)",
+    "dates": [
+      "September 4th 21:00 - September 11th 20:59 (PDT)"
+    ],
+    "rateups": [
+      [
+        "Alexander",
+        "Altera",
+        "Anne Bonny & Mary Read",
+        "Arjuna",
+        "Artoria Pendragon",
+        "Artoria Pendragon (Alter)",
+        "Artoria Pendragon (Lancer Alter)",
+        "Artoria Pendragon (Lancer)",
+        "Astolfo",
+        "Atalanta",
+        "Beowulf",
+        "Billy the Kid",
+        "Boudica",
+        "Carmilla",
+        "Charles Babbage",
+        "Chevalier d'Eon",
+        "Cú Chulainn",
+        "Cú Chulainn (Alter)",
+        "Cú Chulainn (Caster)",
+        "Cú Chulainn (Prototype)",
+        "Darius III",
+        "David",
+        "Diarmuid Ua Duibhne",
+        "EMIYA",
+        "EMIYA (Assassin)",
+        "Elizabeth Báthory",
+        "Euryale",
+        "Fergus mac Róich",
+        "Fionn mac Cumhaill",
+        "Francis Drake",
+        "Frankenstein",
+        "Fūma Kotarō",
+        "Gaius Julius Caesar",
+        "Gawain",
+        "Geronimo",
+        "Gilles de Rais",
+        "Gilles de Rais (Saber)",
+        "Hassan of the Hundred Faces",
+        "Hassan of the Serenity",
+        "Hector",
+        "Helena Blavatsky",
+        "Henry Jekyll & Hyde",
+        "Heracles",
+        "Ibaraki Dōji",
+        "Jack the Ripper",
+        "Jeanne d'Arc",
+        "Jing Ke",
+        "Karna",
+        "Kid Gil",
+        "Kiyohime",
+        "Lancelot",
+        "Lancelot (Saber)",
+        "Li Shuwen (Lancer)",
+        "Lu Bu Fengxian",
+        "Marie Antoinette",
+        "Martha",
+        "Medea",
+        "Medea (Lily)",
+        "Medusa",
+        "Mephistopheles",
+        "Mordred",
+        "Nero Claudius",
+        "Nightingale",
+        "Nikola Tesla",
+        "Nitocris",
+        "Nursery Rhyme",
+        "Orion",
+        "Ozymandias",
+        "Paracelsus von Hohenheim",
+        "Queen Medb",
+        "Rama",
+        "Robin Hood",
+        "Romulus",
+        "Siegfried",
+        "Stheno",
+        "Tamamo Cat",
+        "Tamamo no Mae",
+        "Tawara Tōta",
+        "Thomas Edison",
+        "Tristan",
+        "Ushiwakamaru",
+        "Vlad III",
+        "Xuanzang Sanzang",
+        "Zhuge Liang (Lord El-Melloi II)"
+      ]
+    ]
+  },
+  {
+    "name": "Nero Festival Return ~Autumn 2018~ (US)",
+    "dates": [
+      "September 13 ~ September 26"
+    ],
+    "rateups": [
+      [
+        "Boudica",
+        "Gaius Julius Caesar",
+        "Nero Claudius",
+        "Nero Claudius (Bride)",
+        "Romulus"
+      ]
+    ]
+  },
+  {
+    "name": "Singularity Summon Campaign September 2018 (US)",
+    "dates": [
+      "September 25th 21:00 - October 3rd 20:59 (PDT)",
+      "September 25th 21:00 - October 3rd 20:59 (PDT)",
+      "September 25th 21:00 - October 3rd 20:59 (PDT)",
+      "September 25th 21:00 - October 3rd 20:59 (PDT)",
+      "September 25th 21:00 - October 3rd 20:59 (PDT)",
+      "September 25th 21:00 - October 3rd 20:59 (PDT)",
+      "September 25th 21:00 - October 3rd 20:59 (PDT)"
+    ],
+    "rateups": [
+      [
+        "Artoria Pendragon",
+        "Artoria Pendragon (Alter)",
+        "Cú Chulainn",
+        "Cú Chulainn (Caster)",
+        "EMIYA",
+        "Heracles",
+        "Medea",
+        "Medusa"
+      ],
+      [
+        "Chevalier d'Eon",
+        "Gilles de Rais",
+        "Gilles de Rais (Saber)",
+        "Jeanne d'Arc",
+        "Kiyohime",
+        "Siegfried"
+      ],
+      [
+        "Altera",
+        "Boudica",
+        "Gaius Julius Caesar",
+        "Nero Claudius",
+        "Romulus"
+      ],
+      [
+        "Anne Bonny & Mary Read",
+        "David",
+        "Euryale",
+        "Francis Drake",
+        "Hector",
+        "Medea (Lily)"
+      ],
+      [
+        "Artoria Pendragon (Lancer Alter)",
+        "Charles Babbage",
+        "Frankenstein",
+        "Henry Jekyll & Hyde",
+        "Mordred",
+        "Nikola Tesla",
+        "Nursery Rhyme",
+        "Paracelsus von Hohenheim"
+      ],
+      [
+        "Billy the Kid",
+        "Cú Chulainn (Alter)",
+        "Geronimo",
+        "Helena Blavatsky",
+        "Li Shuwen (Lancer)",
+        "Nightingale",
+        "Queen Medb",
+        "Rama",
+        "Thomas Edison"
+      ],
+      [
+        "Artoria Pendragon (Lancer)",
+        "Bedivere",
+        "Gawain",
+        "Hassan of the Serenity",
+        "Lancelot (Saber)",
+        "Nitocris",
+        "Ozymandias",
+        "Tawara Tōta",
+        "Tristan"
+      ]
+    ]
+  },
+  {
+    "name": "Halloween 2017 Event Revival (US)",
+    "dates": [
+      "October 4 ~ October 17"
+    ],
+    "rateups": [
+      [
+        "Carmilla",
+        "Darius III",
+        "Mephistopheles",
+        "Tamamo Cat",
+        "Tamamo no Mae"
+      ]
+    ]
+  },
+  {
+    "name": "4M Downloads Campaign (US)",
+    "dates": [
+      "October 17th 21:00 - October 24th 20:59 (PDT)"
+    ],
+    "rateups": [
+      [
+        "Jeanne d'Arc (Alter)"
+      ]
+    ]
+  },
+  {
+    "name": "Halloween 2018 Event (US)",
+    "dates": [
+      "October 25 ~ November 8"
+    ],
+    "rateups": [
+      [
+        "Cleopatra",
+        "Vlad III (EXTRA)"
+      ]
+    ]
+  },
+  {
+    "name": "New Interludes and Knights of the Round Table Summon Campaign (US)",
+    "dates": [
+      "November 7th 20:00 - November 20th 19:59 (PST)"
+    ],
+    "rateups": [
+      [
+        "Artoria Pendragon",
+        "Artoria Pendragon (Alter)",
+        "Artoria Pendragon (Lancer Alter)",
+        "Artoria Pendragon (Lancer)",
+        "Gawain",
+        "Lancelot",
+        "Lancelot (Saber)",
+        "Mordred",
+        "Tristan"
+      ]
+    ]
+  },
+  {
+    "name": "Christmas 2017 Event Revival (US)",
+    "dates": [
+      "November 13 ~ November 20"
+    ],
+    "rateups": [
+      [
+        "Jack the Ripper",
+        "Jing Ke",
+        "Marie Antoinette",
+        "Nursery Rhyme",
+        "Robin Hood"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Thanksgiving Special 2018 (US)",
+    "dates": [
+      "November 18th 20:00 - November 26th 19:59 PST"
+    ],
+    "rateups": [
+      [
+        "Gilgamesh",
+        "Illyasviel von Einzbern",
+        "Iskandar",
+        "Minamoto no Raikō",
+        "Ryōgi Shiki (Saber)",
+        "Scáthach",
+        "Shuten Dōji"
+      ]
+    ]
+  },
+  {
+    "name": "Christmas 2018 Event (US)",
+    "dates": [
+      "November 26 ~ December 5",
+      "November 26 ~ December 5"
+    ],
+    "rateups": [
+      [
+        "Ishtar"
+      ],
+      [
+        "Amakusa Shirō"
+      ]
+    ]
+  },
+  {
+    "name": "Babylonia Chapter Release (US)",
+    "dates": [
+      "December 5"
+    ],
+    "rateups": [
+      [
+        "Enkidu",
+        "Gilgamesh (Caster)",
+        "Medusa (Lancer)"
+      ]
+    ]
+  },
+  {
+    "name": "Babylonia Summoning Campaign 2 (US)",
+    "dates": [
+      "December 12 ~ December 31"
+    ],
+    "rateups": [
+      [
+        "Gorgon",
+        "Jaguar Man",
+        "Quetzalcoatl"
+      ]
+    ]
+  },
+  {
+    "name": "Solomon Chapter Release (US)",
+    "dates": [
+      "December 20"
+    ],
+    "rateups": [
+      [
+        "Merlin"
+      ]
+    ]
+  },
+  {
+    "name": "Happy New Year 2019 (US)",
+    "dates": [
+      "December 31 ~ January 9"
+    ],
+    "rateups": [
+      [
+        "Ishtar",
+        "Miyamoto Musashi",
+        "Sakata Kintoki"
+      ]
+    ]
+  },
+  {
+    "name": ""First Hassan" Summoning Campaign (US)",
+    "dates": [
+      "January 9th 20:00 - January 23rd 19:59 PST"
+    ],
+    "rateups": [
+      [
+        ""The Old Man of the Mountain""
+      ]
+    ]
+  },
+  {
+    "name": "Moon Goddess Event Revival (US)",
+    "dates": [
+      "January 16 ~ January 23"
+    ],
+    "rateups": [
+      [
+        "Jing Ke",
+        "Marie Antoinette",
+        "Orion",
+        "Stheno",
+        "Ushiwakamaru"
+      ]
+    ]
+  },
+  {
+    "name": "Vengeful Demon's Wail at the Prison Tower Revival (US)",
+    "dates": [
+      "January 23 ~ February 6"
+    ],
+    "rateups": [
+      [
+        "Edmond Dantès"
+      ]
+    ]
+  },
+  {
+    "name": "5M Downloads Campaign (US)",
+    "dates": [
+      "January 30th 20:00 - February 13th 19:59 PST"
+    ],
+    "rateups": [
+      [
+        "Leonardo Da Vinci"
+      ]
+    ]
+  },
+  {
+    "name": "Valentine 2018 Event Revival (US)",
+    "dates": [
+      "February 6 ~ February 20",
+      "February 6 ~ February 20"
+    ],
+    "rateups": [
+      [
+        "Altera",
+        "Artoria Pendragon",
+        "Artoria Pendragon (Lancer)",
+        "Francis Drake",
+        "Jack the Ripper",
+        "Jeanne d'Arc",
+        "Mordred",
+        "Mysterious Heroine X (Alter)",
+        "Nightingale",
+        "Orion",
+        "Queen Medb",
+        "Quetzalcoatl",
+        "Tamamo no Mae",
+        "Xuanzang Sanzang"
+      ],
+      [
+        "Arjuna",
+        "Cú Chulainn (Alter)",
+        "Enkidu",
+        "Karna",
+        "Nikola Tesla",
+        "Ozymandias",
+        "Vlad III",
+        "Zhuge Liang (Lord El-Melloi II)"
+      ]
+    ]
+  },
+  {
+    "name": "FGO USA Tour 2019 Kickoff Commemorative Campaign (US)",
+    "dates": [
+      "February 18th 20:00 - February 24th 17:59 PST"
+    ],
+    "rateups": [
+      [
+        "Altera",
+        "Anne Bonny & Mary Read",
+        "Artoria Pendragon",
+        "Artoria Pendragon (Alter)",
+        "Artoria Pendragon (Lancer Alter)",
+        "Artoria Pendragon (Lancer)",
+        "Bedivere",
+        "Billy the Kid",
+        "Boudica",
+        "Charles Babbage",
+        "Chevalier d'Eon",
+        "Cú Chulainn",
+        "Cú Chulainn (Alter)",
+        "Cú Chulainn (Caster)",
+        "David",
+        "EMIYA",
+        "Enkidu",
+        "Euryale",
+        "Francis Drake",
+        "Frankenstein",
+        "Gaius Julius Caesar",
+        "Gawain",
+        "Geronimo",
+        "Gilgamesh (Caster)",
+        "Gilles de Rais",
+        "Gilles de Rais (Saber)",
+        "Gorgon",
+        "Hassan of the Serenity",
+        "Hector",
+        "Helena Blavatsky",
+        "Henry Jekyll & Hyde",
+        "Heracles",
+        "Jaguar Man",
+        "Jeanne d'Arc",
+        "Kiyohime",
+        "Lancelot (Saber)",
+        "Li Shuwen (Lancer)",
+        "Medea",
+        "Medea (Lily)",
+        "Medusa",
+        "Medusa (Lancer)",
+        "Mordred",
+        "Nero Claudius",
+        "Nightingale",
+        "Nikola Tesla",
+        "Nitocris",
+        "Nursery Rhyme",
+        "Ozymandias",
+        "Paracelsus von Hohenheim",
+        "Queen Medb",
+        "Quetzalcoatl",
+        "Rama",
+        "Romulus",
+        "Siegfried",
+        "Tawara Tōta",
+        "Thomas Edison",
+        "Tristan"
+      ]
+    ]
+  },
+  {
+    "name": "Shinjuku Chapter Release (US)",
+    "dates": [
+      "February 24"
+    ],
+    "rateups": [
+      [
+        "Hessian Lobo",
+        "James Moriarty",
+        "Yan Qing"
+      ]
+    ]
+  },
+  {
+    "name": "Shinjuku Summoning Campaign 2 (US)",
+    "dates": [
+      "March 3rd 20:00 PST - March 19th 20:59 PDT"
+    ],
+    "rateups": [
+      [
+        "Artoria Pendragon (Alter)",
+        "EMIYA (Alter)"
+      ]
+    ]
+  },
+  {
+    "name": "Chaldea Boys Collection 2018 Revival (US)",
+    "dates": [
+      "March 6th 20:00 PST - March 20th 20:59 PDT"
+    ],
+    "rateups": [
+      [
+        "Amakusa Shirō",
+        "Astolfo",
+        "Kid Gil"
+      ]
+    ]
+  },
+  {
+    "name": "Chaldea Boys Collection 2019 (US)",
+    "dates": [
+      "March 6th 20:00 PST - March 20th 20:59 PDT"
+    ],
+    "rateups": [
+      [
+        "Arjuna",
+        "Arthur Pendragon (Prototype)",
+        "Cú Chulainn (Alter)",
+        "Enkidu",
+        "Karna",
+        "Nikola Tesla",
+        "Ozymandias",
+        "Vlad III",
+        "Zhuge Liang (Lord El-Melloi II)"
+      ]
+    ]
+  },
+  {
+    "name": "GUDAGUDA Honnouji Event Revival (US)",
+    "dates": [
+      "March 12 ~ March 27"
+    ],
+    "rateups": [
+      [
+        "Cú Chulainn",
+        "EMIYA",
+        "Medusa",
+        "Mephistopheles",
+        "Okita Sōji"
+      ]
+    ]
+  },
+  {
+    "name": "Class Based Summoning Campaign (US)",
+    "dates": [
+      "March 19th 21:00 - March 26th 20:59 PDT"
+    ],
+    "rateups": [
+      [
+        "Alexander",
+        "Altera",
+        "Anne Bonny & Mary Read",
+        "Arjuna",
+        "Artoria Pendragon",
+        "Artoria Pendragon (Alter)",
+        "Artoria Pendragon (Lancer Alter)",
+        "Artoria Pendragon (Lancer)",
+        "Astolfo",
+        "Atalanta",
+        "Bedivere",
+        "Beowulf",
+        "Billy the Kid",
+        "Boudica",
+        "Carmilla",
+        "Charles Babbage",
+        "Chevalier d'Eon",
+        "Cú Chulainn",
+        "Cú Chulainn (Alter)",
+        "Cú Chulainn (Caster)",
+        "Cú Chulainn (Prototype)",
+        "Darius III",
+        "David",
+        "Diarmuid Ua Duibhne",
+        "EMIYA",
+        "EMIYA (Alter)",
+        "EMIYA (Assassin)",
+        "Elizabeth Báthory",
+        "Enkidu",
+        "Euryale",
+        "Fergus mac Róich",
+        "Fionn mac Cumhaill",
+        "Francis Drake",
+        "Frankenstein",
+        "Fūma Kotarō",
+        "Gaius Julius Caesar",
+        "Gawain",
+        "Geronimo",
+        "Gilgamesh (Caster)",
+        "Gilles de Rais",
+        "Gilles de Rais (Saber)",
+        "Gorgon",
+        "Hassan of the Hundred Faces",
+        "Hassan of the Serenity",
+        "Hector",
+        "Helena Blavatsky",
+        "Henry Jekyll & Hyde",
+        "Heracles",
+        "Hessian Lobo",
+        "Ibaraki Dōji",
+        "Jack the Ripper",
+        "Jaguar Man",
+        "Jeanne d'Arc",
+        "Jing Ke",
+        "Karna",
+        "Kid Gil",
+        "Kiyohime",
+        "Lancelot",
+        "Lancelot (Saber)",
+        "Li Shuwen (Lancer)",
+        "Lu Bu Fengxian",
+        "Marie Antoinette",
+        "Martha",
+        "Medea",
+        "Medea (Lily)",
+        "Medusa",
+        "Medusa (Lancer)",
+        "Mephistopheles",
+        "Mordred",
+        "Nero Claudius",
+        "Nightingale",
+        "Nikola Tesla",
+        "Nitocris",
+        "Nursery Rhyme",
+        "Orion",
+        "Ozymandias",
+        "Paracelsus von Hohenheim",
+        "Queen Medb",
+        "Quetzalcoatl",
+        "Rama",
+        "Robin Hood",
+        "Romulus",
+        "Siegfried",
+        "Stheno",
+        "Tamamo Cat",
+        "Tamamo no Mae",
+        "Tawara Tōta",
+        "Thomas Edison",
+        "Tristan",
+        "Ushiwakamaru",
+        "Vlad III",
+        "Vlad III (EXTRA)",
+        "Xuanzang Sanzang",
+        "Yan Qing",
+        "Zhuge Liang (Lord El-Melloi II)"
+      ]
+    ]
+  },
+  {
+    "name": "GUDAGUDA Meiji Restoration (US)",
+    "dates": [
+      "March 28 ~ April 10"
+    ],
+    "rateups": [
+      [
+        "Helena Blavatsky",
+        "Hijikata Toshizō",
+        "Medea",
+        "Nikola Tesla",
+        "Thomas Edison"
+      ]
+    ]
+  },
+  {
+    "name": "Fate/Extra CCC Collaboration Event (US)",
+    "dates": [
+      "April 23 ~ May 15",
+      "April 23 ~ May 15",
+      "April 9th 21:00 - May 15th 20:59 PDT<br />"
+    ],
+    "rateups": [
+      [
+        "Meltryllis",
+        "Passionlip",
+        "Suzuka Gozen"
+      ],
+      [
+        "EMIYA (Alter)",
+        "Elizabeth Báthory",
+        "Robin Hood",
+        "Sesshōin Kiara"
+      ],
+      [
+        "Cú Chulainn",
+        "EMIYA",
+        "Elizabeth Báthory",
+        "Gawain",
+        "Gilgamesh",
+        "Karna",
+        "Nero Claudius",
+        "Nero Claudius (Bride)",
+        "Robin Hood",
+        "Tamamo no Mae"
+      ]
+    ]
+  },
+  {
+    "name": "6M Downloads Campaign (US)",
+    "dates": [
+      "May 15th 21:00 - May 30th 20:59 PDT"
+    ],
+    "rateups": [
+      [
+        "Euryale",
+        "Gorgon",
+        "Ishtar",
+        "Jaguar Man",
+        "Medusa",
+        "Medusa (Lancer)",
+        "Orion",
+        "Quetzalcoatl",
+        "Stheno"
+      ]
+    ]
+  },
+  {
+    "name": "Rashomon Event Revival (US)",
+    "dates": [
+      "May 22 ~ May 30"
+    ],
+    "rateups": [
+      [
+        "Ibaraki Dōji",
+        "Shuten Dōji"
+      ]
+    ]
+  },
+  {
+    "name": "Main Quest 1/2 AP + Shinjuku Summoning Campaign (US)",
+    "dates": [
+      "May 27th 21:00 - June 13th 20:59 PDT"
+    ],
+    "rateups": [
+      [
+        "Hessian Lobo",
+        "James Moriarty",
+        "Yan Qing"
+      ]
+    ]
+  },
+  {
+    "name": "Onigashima Event Revival (US)",
+    "dates": [
+      "June 6 ~ June 20"
+    ],
+    "rateups": [
+      [
+        "EMIYA",
+        "EMIYA (Alter)",
+        "EMIYA (Assassin)",
+        "Fūma Kotarō",
+        "Minamoto no Raikō",
+        "Sakata Kintoki",
+        "Suzuka Gozen",
+        "Tamamo no Mae",
+        "Tawara Tōta",
+        "Ushiwakamaru"
+      ]
+    ]
+  },
+  {
+    "name": "Agartha Chapter Release (US)",
+    "dates": [
+      "June 21"
+    ],
+    "rateups": [
+      [
+        "Penthesilea",
+        "Scheherazade",
+        "Wu Zetian"
+      ]
+    ]
+  },
+  {
+    "name": "Agartha Summoning Campaign 2 (US)",
+    "dates": [
+      "June 27th 21:00 - July 11th 20:59 PDT"
+    ],
+    "rateups": [
+      [
+        "Chevalier d'Eon",
+        "Francis Drake",
+        "Heracles"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Festival 2019 ~2nd Anniversary~ (US)",
+    "dates": [
+      "July 3 ~ July 21"
+    ],
+    "rateups": [
+      [
+        "Altera",
+        "Anne Bonny & Mary Read",
+        "Artoria Pendragon",
+        "Artoria Pendragon (Alter)",
+        "Artoria Pendragon (Lancer Alter)",
+        "Artoria Pendragon (Lancer)",
+        "Bedivere",
+        "Billy the Kid",
+        "Boudica",
+        "Charles Babbage",
+        "Chevalier d'Eon",
+        "Christopher Columbus",
+        "Cú Chulainn",
+        "Cú Chulainn (Alter)",
+        "Cú Chulainn (Caster)",
+        "David",
+        "EMIYA",
+        "EMIYA (Alter)",
+        "Enkidu",
+        "Euryale",
+        "Francis Drake",
+        "Frankenstein",
+        "Gaius Julius Caesar",
+        "Gawain",
+        "Geronimo",
+        "Gilgamesh (Caster)",
+        "Gilles de Rais",
+        "Gilles de Rais (Saber)",
+        "Gorgon",
+        "Hassan of the Serenity",
+        "Hector",
+        "Helena Blavatsky",
+        "Henry Jekyll & Hyde",
+        "Heracles",
+        "Hessian Lobo",
+        "Jaguar Man",
+        "James Moriarty",
+        "Jeanne d'Arc",
+        "Kiyohime",
+        "Lancelot (Saber)",
+        "Leonardo Da Vinci",
+        "Li Shuwen (Lancer)",
+        "Medea",
+        "Medea (Lily)",
+        "Medusa",
+        "Medusa (Lancer)",
+        "Mordred",
+        "Nero Claudius",
+        "Nightingale",
+        "Nikola Tesla",
+        "Nitocris",
+        "Nursery Rhyme",
+        "Ozymandias",
+        "Paracelsus von Hohenheim",
+        "Penthesilea",
+        "Queen Medb",
+        "Quetzalcoatl",
+        "Rama",
+        "Romulus",
+        "Scheherazade",
+        "Sherlock Holmes",
+        "Siegfried",
+        "Tawara Tōta",
+        "Thomas Edison",
+        "Tristan",
+        "Wu Zetian",
+        "Yan Qing"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Summer 2018 Event Revival (US)",
+    "dates": [
+      "July 12 ~ July 28",
+      "July 12 ~ July 28"
+    ],
+    "rateups": [
+      [
+        "Anne Bonny & Mary Read (Archer)",
+        "Kiyohime (Lancer)",
+        "Mordred (Rider)",
+        "Tamamo no Mae (Lancer)"
+      ],
+      [
+        "Artoria Pendragon (Archer)",
+        "Marie Antoinette (Caster)",
+        "Martha (Ruler)"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Summer 2019 Event (US)",
+    "dates": [
+      "July 29 ~ August 20",
+      "July 29 ~ August 20",
+      "July 29 ~ August 20"
+    ],
+    "rateups": [
+      [
+        "Frankenstein (Saber)",
+        "Nero Claudius (Caster)",
+        "Nitocris (Assassin)",
+        "Oda Nobunaga (Berserker)"
+      ],
+      [
+        "Artoria Pendragon (Rider Alter)",
+        "Helena Blavatsky (Archer)",
+        "Minamoto no Raikō (Lancer)"
+      ],
+      [
+        "Charles Babbage",
+        "Queen Medb",
+        "Thomas Edison",
+        "Xuanzang Sanzang"
+      ]
+    ]
+  },
+  {
+    "name": "Illyasviel von Einzbern Summoning Campaign (US)",
+    "dates": [
+      "August 21st 00:00 - September 3rd 20:59 PDT"
+    ],
+    "rateups": [
+      [
+        "Illyasviel von Einzbern"
+      ]
+    ]
+  },
+  {
+    "name": "Class Specific Summoning Campaign (US)",
+    "dates": [
+      "August 21st 00:00 - September 3rd 20:59 PDT"
+    ],
+    "rateups": [
+      [
+        "Alexander",
+        "Altera",
+        "Anne Bonny & Mary Read",
+        "Arjuna",
+        "Artoria Pendragon",
+        "Artoria Pendragon (Alter)",
+        "Artoria Pendragon (Lancer Alter)",
+        "Artoria Pendragon (Lancer)",
+        "Astolfo",
+        "Atalanta",
+        "Bedivere",
+        "Beowulf",
+        "Billy the Kid",
+        "Boudica",
+        "Carmilla",
+        "Charles Babbage",
+        "Chevalier d'Eon",
+        "Christopher Columbus",
+        "Cú Chulainn",
+        "Cú Chulainn (Alter)",
+        "Cú Chulainn (Caster)",
+        "Cú Chulainn (Prototype)",
+        "Darius III",
+        "David",
+        "Diarmuid Ua Duibhne",
+        "EMIYA",
+        "EMIYA (Alter)",
+        "EMIYA (Assassin)",
+        "Elizabeth Báthory",
+        "Enkidu",
+        "Euryale",
+        "Fergus mac Róich",
+        "Fionn mac Cumhaill",
+        "Francis Drake",
+        "Frankenstein",
+        "Fūma Kotarō",
+        "Gaius Julius Caesar",
+        "Gawain",
+        "Geronimo",
+        "Gilgamesh (Caster)",
+        "Gilles de Rais",
+        "Gilles de Rais (Saber)",
+        "Gorgon",
+        "Hassan of the Hundred Faces",
+        "Hassan of the Serenity",
+        "Hector",
+        "Helena Blavatsky",
+        "Henry Jekyll & Hyde",
+        "Heracles",
+        "Hessian Lobo",
+        "Ibaraki Dōji",
+        "Jack the Ripper",
+        "Jaguar Man",
+        "Jeanne d'Arc",
+        "Jing Ke",
+        "Karna",
+        "Kid Gil",
+        "Lancelot",
+        "Lancelot (Saber)",
+        "Li Shuwen (Lancer)",
+        "Lu Bu Fengxian",
+        "Marie Antoinette",
+        "Martha",
+        "Medea",
+        "Medea (Lily)",
+        "Medusa",
+        "Medusa (Lancer)",
+        "Mephistopheles",
+        "Mordred",
+        "Nero Claudius",
+        "Nightingale",
+        "Nikola Tesla",
+        "Nitocris",
+        "Nursery Rhyme",
+        "Orion",
+        "Ozymandias",
+        "Paracelsus von Hohenheim",
+        "Penthesilea",
+        "Queen Medb",
+        "Quetzalcoatl",
+        "Rama",
+        "Robin Hood",
+        "Romulus",
+        "Scheherazade",
+        "Siegfried",
+        "Stheno",
+        "Suzuka Gozen",
+        "Tamamo Cat",
+        "Tamamo no Mae",
+        "Tawara Tōta",
+        "Thomas Edison",
+        "Tristan",
+        "Ushiwakamaru",
+        "Vlad III",
+        "Vlad III (EXTRA)",
+        "Wu Zetian",
+        "Xuanzang Sanzang",
+        "Yan Qing",
+        "Zhuge Liang (Lord El-Melloi II)"
+      ]
+    ]
+  },
+  {
+    "name": "Nero Festival Return ~Autumn 2019~ (US)",
+    "dates": [
+      "August 29 ~ September 11"
+    ],
+    "rateups": [
+      [
+        "Brynhildr",
+        "Nero Claudius",
+        "Nero Claudius (Bride)"
+      ]
+    ]
+  },
+  {
+    "name": "7M Downloads Campaign (US)",
+    "dates": [
+      "September 12th 00:00 - September 25th 20:59 PDT"
+    ],
+    "rateups": [
+      [
+        "Artoria Pendragon",
+        "Artoria Pendragon (Alter)",
+        "Artoria Pendragon (Lancer Alter)",
+        "Artoria Pendragon (Lancer)",
+        "Merlin"
+      ]
+    ]
+  },
+  {
+    "name": "Halloween 2018 Event Revival (US)",
+    "dates": [
+      "September 19 ~ October 2"
+    ],
+    "rateups": [
+      [
+        "Cleopatra",
+        "Ibaraki Dōji",
+        "Nitocris",
+        "Robin Hood",
+        "Vlad III (EXTRA)"
+      ]
+    ]
+  },
+  {
+    "name": "Fate/Stay Night Heaven's Feel II Blu-ray Release Commemorative Campaign (US)",
+    "dates": [
+      "October 1st 21:00 - October 16th 20:59 PDT"
+    ],
+    "rateups": [
+      [
+        "Artoria Pendragon",
+        "Artoria Pendragon (Alter)",
+        "Cú Chulainn",
+        "EMIYA",
+        "Heracles",
+        "Medea",
+        "Medusa",
+        "Parvati"
+      ]
+    ]
+  },
+  {
+    "name": "Shimousa Chapter Release (US)",
+    "dates": [
+      "October 10"
+    ],
+    "rateups": [
+      [
+        "Hōzōin Inshun",
+        "Miyamoto Musashi",
+        "Mochizuki Chiyome",
+        "Tomoe Gozen"
+      ]
+    ]
+  },
+  {
+    "name": "Shimousa Summoning Campaign 2 (US)",
+    "dates": [
+      "October 16th 21:00 - October 28th 20:59 PDT"
+    ],
+    "rateups": [
+      [
+        "Fūma Kotarō",
+        "Katō Danzō",
+        "Minamoto no Raikō",
+        "Shuten Dōji",
+        "Yagyū Munenori"
+      ]
+    ]
+  },
+  {
+    "name": "Halloween 2019 Event (US)",
+    "dates": [
+      "October 23 ~ November 7"
+    ],
+    "rateups": [
+      [
+        "Carmilla",
+        "Elizabeth Báthory",
+        "Osakabehime",
+        "Penthesilea",
+        "Wu Zetian",
+        "Yan Qing"
+      ]
+    ]
+  },
+  {
+    "name": "Interlude Campaign 3 (US)",
+    "dates": [
+      "October 30th 21:00 PDT - November 13th 19:59 PST [https://webview.fate-go.us/2019/1113_Important/ (Extended)]"
+    ],
+    "rateups": [
+      [
+        "EMIYA (Assassin)",
+        "Hassan of the Serenity",
+        "Ozymandias",
+        "Tawara Tōta",
+        "Xuanzang Sanzang"
+      ]
+    ]
+  },
+  {
+    "name": "Fate/Grand Order Absolute Demonic Front: Babylonia Anime Release Campaign (US)",
+    "dates": [
+      "October 30th 21:00 PDT - November 14th 19:59 PST [https://webview.fate-go.us/2019/1113_Important/ (Extended)]"
+    ],
+    "rateups": [
+      [
+        "Enkidu",
+        "Gilgamesh (Caster)",
+        "Medusa (Lancer)",
+        "Quetzalcoatl",
+        "Ushiwakamaru"
+      ]
+    ]
+  },
+  {
+    "name": "8M Downloads Campaign (US)",
+    "dates": [
+      "November 7th 20:00 - November 20th 19:59 PST"
+    ],
+    "rateups": [
+      [
+        ""The Old Man of the Mountain"",
+        "Hassan of the Hundred Faces",
+        "Hassan of the Serenity"
+      ]
+    ]
+  },
+  {
+    "name": "Christmas 2018 Event Revival (US)",
+    "dates": [
+      "November 12 ~ November 21"
+    ],
+    "rateups": [
+      [
+        "EMIYA",
+        "Ishtar",
+        "Jing Ke",
+        "Martha",
+        "Nursery Rhyme",
+        "Ushiwakamaru"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Thanksgiving Special 2019 (US)",
+    "dates": [
+      "November 20th 20:00 - December 1st 19:59 PST"
+    ],
+    "rateups": [
+      [
+        "Amakusa Shirō",
+        "Artoria Pendragon (Lancer)",
+        "Gilgamesh",
+        "Hijikata Toshizō",
+        "Iskandar",
+        "Leonardo Da Vinci",
+        "Mysterious Heroine X",
+        "Okita Sōji"
+      ]
+    ]
+  },
+  {
+    "name": "Salem Chapter Release (US)",
+    "dates": [
+      "December 2"
+    ],
+    "rateups": [
+      [
+        "Circe",
+        "Nezha"
+      ]
+    ]
+  },
+  {
+    "name": "Salem Summoning Campaign 2 (US)",
+    "dates": [
+      "December 8th 20:00 - December 22nd 19:59 PST"
+    ],
+    "rateups": [
+      [
+        "Abigail Williams",
+        "Queen of Sheba"
+      ]
+    ]
+  },
+  {
+    "name": "Christmas 2019 Event (US)",
+    "dates": [
+      "December 16 ~ December 25"
+    ],
+    "rateups": [
+      [
+        "Altera",
+        "Ereshkigal",
+        "Gilgamesh (Caster)",
+        "Medusa (Lancer)",
+        "Ushiwakamaru"
+      ]
+    ]
+  },
+  {
+    "name": "Happy New Year 2020 (US)",
+    "dates": [
+      "December 31 ~ January 10"
+    ],
+    "rateups": [
+      [
+        "Gilgamesh",
+        "James Moriarty",
+        "Katsushika Hokusai",
+        "Meltryllis",
+        "Miyamoto Musashi",
+        "Scáthach",
+        "Tamamo no Mae"
+      ]
+    ]
+  },
+  {
+    "name": "Da Vinci and the 7 Counterfeit Heroic Spirits Revival (US)",
+    "dates": [
+      "January 10 ~ January 19"
+    ],
+    "rateups": [
+      [
+        "Alexander",
+        "EMIYA",
+        "Gaius Julius Caesar",
+        "Gilles de Rais",
+        "Hector",
+        "Jeanne d'Arc (Alter)",
+        "Leonardo Da Vinci",
+        "Paracelsus von Hohenheim",
+        "Siegfried"
+      ]
+    ]
+  },
+  {
+    "name": "The Tale of Setsubun (US)",
+    "dates": [
+      "January 27 ~ February 2"
+    ],
+    "rateups": [
+      [
+        "Ibaraki Dōji",
+        "Minamoto no Raikō",
+        "Sakata Kintoki",
+        "Shuten Dōji",
+        "Tomoe Gozen"
+      ]
+    ]
+  },
+  {
+    "name": "Valentine 2020 Event (US)",
+    "dates": [
+      "February 3 ~ February 17"
+    ],
+    "rateups": [
+      [
+        "Altera",
+        "Artoria Pendragon",
+        "Artoria Pendragon (Lancer)",
+        "Francis Drake",
+        "Jack the Ripper",
+        "Jeanne d'Arc",
+        "Mordred",
+        "Nightingale",
+        "Orion",
+        "Osakabehime",
+        "Queen Medb",
+        "Quetzalcoatl",
+        "Scheherazade",
+        "Semiramis",
+        "Tamamo no Mae",
+        "Xuanzang Sanzang"
+      ]
+    ]
+  },
+  {
+    "name": "Valentine 2019 Summoning Campaign Revival (US)",
+    "dates": [
+      "February 9th 20:00 - February 23rd 19:59 PST"
+    ],
+    "rateups": [
+      [
+        "Mysterious Heroine X (Alter)"
+      ]
+    ]
+  },
+  {
+    "name": "The Garden of Sinners Collaboration Event Revival (US)",
+    "dates": [
+      "February 18 ~ March 1"
+    ],
+    "rateups": [
+      [
+        "Artoria Pendragon (Lancer Alter)",
+        "Asagami Fujino",
+        "Boudica",
+        "Elizabeth Báthory",
+        "Henry Jekyll & Hyde",
+        "Mephistopheles",
+        "Ryōgi Shiki (Saber)"
+      ]
+    ]
+  },
+  {
+    "name": "9M Downloads Campaign (US)",
+    "dates": [
+      "February 24th 20:00 PST - March 9th 20:59 PDT"
+    ],
+    "rateups": [
+      [
+        "EMIYA (Alter)",
+        "Passionlip",
+        "Sesshōin Kiara",
+        "Suzuka Gozen"
+      ]
+    ]
+  },
+  {
+    "name": "Chaldea Boys Collection 2020 (US)",
+    "dates": [
+      "March 5th 20:00 PST - March 12th 20:59 PDT"
+    ],
+    "rateups": [
+      [
+        "Arjuna",
+        "Arthur Pendragon (Prototype)",
+        "Cú Chulainn (Alter)",
+        "Enkidu",
+        "Karna",
+        "Nikola Tesla",
+        "Ozymandias",
+        "Vlad III",
+        "Zhuge Liang (Lord El-Melloi II)"
+      ]
+    ]
+  },
+  {
+    "name": "Saber Wars Event Revival (US)",
+    "dates": [
+      "March 13 ~ March 26"
+    ],
+    "rateups": [
+      [
+        "Altera",
+        "Artoria Pendragon",
+        "Mordred",
+        "Mysterious Heroine X"
+      ]
+    ]
+  },
+  {
+    "name": "New Interludes + Class Pickup Summoning Campaign (US)",
+    "dates": [
+      "March 19th 21:00 - April 2nd 20:59 PDT"
+    ],
+    "rateups": [
+      [
+        "Alexander",
+        "Altera",
+        "Anne Bonny & Mary Read",
+        "Arjuna",
+        "Artoria Pendragon",
+        "Artoria Pendragon (Alter)",
+        "Artoria Pendragon (Lancer Alter)",
+        "Artoria Pendragon (Lancer)",
+        "Astolfo",
+        "Atalanta",
+        "Bedivere",
+        "Beowulf",
+        "Billy the Kid",
+        "Boudica",
+        "Carmilla",
+        "Charles Babbage",
+        "Chevalier d'Eon",
+        "Christopher Columbus",
+        "Circe",
+        "Cú Chulainn",
+        "Cú Chulainn (Alter)",
+        "Cú Chulainn (Caster)",
+        "Cú Chulainn (Prototype)",
+        "Darius III",
+        "David",
+        "Diarmuid Ua Duibhne",
+        "EMIYA",
+        "EMIYA (Alter)",
+        "EMIYA (Assassin)",
+        "Elizabeth Báthory",
+        "Enkidu",
+        "Euryale",
+        "Fergus mac Róich",
+        "Fionn mac Cumhaill",
+        "Francis Drake",
+        "Frankenstein",
+        "Fūma Kotarō",
+        "Gaius Julius Caesar",
+        "Gawain",
+        "Geronimo",
+        "Gilgamesh (Caster)",
+        "Gilles de Rais",
+        "Gilles de Rais (Saber)",
+        "Gorgon",
+        "Hassan of the Hundred Faces",
+        "Hassan of the Serenity",
+        "Hector",
+        "Helena Blavatsky",
+        "Henry Jekyll & Hyde",
+        "Heracles",
+        "Hessian Lobo",
+        "Ibaraki Dōji",
+        "Jack the Ripper",
+        "Jaguar Man",
+        "Jeanne d'Arc",
+        "Jing Ke",
+        "Karna",
+        "Katō Danzō",
+        "Kid Gil",
+        "Kiyohime",
+        "Lancelot",
+        "Lancelot (Saber)",
+        "Li Shuwen (Lancer)",
+        "Lu Bu Fengxian",
+        "Marie Antoinette",
+        "Martha",
+        "Medea",
+        "Medea (Lily)",
+        "Medusa",
+        "Medusa (Lancer)",
+        "Mephistopheles",
+        "Mochizuki Chiyome",
+        "Mordred",
+        "Nero Claudius",
+        "Nezha",
+        "Nightingale",
+        "Nikola Tesla",
+        "Nitocris",
+        "Nursery Rhyme",
+        "Orion",
+        "Osakabehime",
+        "Ozymandias",
+        "Paracelsus von Hohenheim",
+        "Parvati",
+        "Penthesilea",
+        "Queen Medb",
+        "Queen of Sheba",
+        "Quetzalcoatl",
+        "Rama",
+        "Robin Hood",
+        "Romulus",
+        "Scheherazade",
+        "Siegfried",
+        "Stheno",
+        "Suzuka Gozen",
+        "Tamamo Cat",
+        "Tamamo no Mae",
+        "Tawara Tōta",
+        "Thomas Edison",
+        "Tomoe Gozen",
+        "Tristan",
+        "Ushiwakamaru",
+        "Vlad III",
+        "Vlad III (EXTRA)",
+        "Wu Zetian",
+        "Xuanzang Sanzang",
+        "Yagyū Munenori",
+        "Yan Qing",
+        "Zhuge Liang (Lord El-Melloi II)"
+      ]
+    ]
+  },
+  {
+    "name": "Anastasia Chapter Release (US)",
+    "dates": [
+      "March 27"
+    ],
+    "rateups": [
+      [
+        "Anastasia",
+        "Atalanta (Alter)",
+        "Avicebron"
+      ]
+    ]
+  },
+  {
+    "name": "Anastasia Summoning Campaign 2 (US)",
+    "dates": [
+      "April 2nd 21:00 - April 16th 20:59 PDT"
+    ],
+    "rateups": [
+      [
+        "Antonio Salieri",
+        "Ivan the Terrible"
+      ]
+    ]
+  },
+  {
+    "name": "Sanzang Coming to the West Revival (US)",
+    "dates": [
+      "April 10 ~ April 20"
+    ],
+    "rateups": [
+      [
+        "David",
+        "Jing Ke",
+        "Li Shuwen (Lancer)",
+        "Lu Bu Fengxian",
+        "Nezha",
+        "Wu Zetian",
+        "Xuanzang Sanzang",
+        "Yan Qing",
+        "Zhuge Liang (Lord El-Melloi II)"
+      ]
+    ]
+  },
+  {
+    "name": "Fate/Apocrypha Collaboration Event (US)",
+    "dates": [
+      "April 24 ~ May 7",
+      "April 19th 21:00 - May 3rd 20:59 PDT"
+    ],
+    "rateups": [
+      [
+        "Achilles",
+        "Chiron"
+      ],
+      [
+        "Amakusa Shirō",
+        "Astolfo",
+        "Atalanta",
+        "Frankenstein",
+        "Jack the Ripper",
+        "Jeanne d'Arc",
+        "Karna",
+        "Mordred",
+        "Semiramis",
+        "Siegfried",
+        "Vlad III"
+      ]
+    ]
+  },
+  {
+    "name": "GUDAGUDA Meiji Restoration Revival (US)",
+    "dates": [
+      "May 8 ~ May 19"
+    ],
+    "rateups": [
+      [
+        "Cú Chulainn",
+        "EMIYA",
+        "Helena Blavatsky",
+        "Hijikata Toshizō",
+        "Medea",
+        "Medusa",
+        "Thomas Edison"
+      ]
+    ]
+  },
+  {
+    "name": "Okita Souji Summoning Campaign (US)",
+    "dates": [
+      "May 13th 21:00 - May 27th 20:59 PDT"
+    ],
+    "rateups": [
+      [
+        "Okita Sōji"
+      ]
+    ]
+  },
+  {
+    "name": "Murder at the Kogetsukan (US)",
+    "dates": [
+      "May 19th 21:00 PDT - June 2nd 20:59 PDT"
+    ],
+    "rateups": [
+      [
+        "Bedivere",
+        "Euryale",
+        "Fionn mac Cumhaill",
+        "Jaguar Man",
+        "Lancelot (Saber)",
+        "Marie Antoinette",
+        "Mephistopheles",
+        "Sherlock Holmes",
+        "Stheno",
+        "Yan Qing"
+      ]
+    ]
+  },
+  {
+    "name": "10M Downloads Campaign (US)",
+    "dates": [
+      "May 27th 01:00 - June 9th 20:59 PDT"
+    ],
+    "rateups": [
+      [
+        "Anne Bonny & Mary Read (Archer)",
+        "Kiyohime (Lancer)",
+        "Mordred (Rider)",
+        "Tamamo no Mae (Lancer)"
+      ]
+    ]
+  },
+  {
+    "name": "GUDAGUDA Legend of the Imperial Capital Grail (US)",
+    "dates": [
+      "June 3 ~ June 16"
+    ],
+    "rateups": [
+      [
+        "EMIYA",
+        "Li Shuwen (Lancer)",
+        "Medea",
+        "Medusa",
+        "Okada Izō",
+        "Okita Sōji (Alter)"
+      ]
+    ]
+  },
+  {
+    "name": "Götterdämmerung Chapter Release (US)",
+    "dates": [
+      "June 23",
+      "June 18th 21:00 - July 2nd 20:59 PDT"
+    ],
+    "rateups": [
+      [
+        "Brynhildr",
+        "Sigurd",
+        "Valkyrie"
+      ],
+      [
+        "Napoléon"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Festival 2020 ~3rd Anniversary~ (US)",
+    "dates": [
+      "July 6 ~ July 22"
+    ],
+    "rateups": [
+      [
+        "Altera",
+        "Anne Bonny & Mary Read",
+        "Artoria Pendragon",
+        "Artoria Pendragon (Alter)",
+        "Artoria Pendragon (Lancer Alter)",
+        "Artoria Pendragon (Lancer)",
+        "Bedivere",
+        "Billy the Kid",
+        "Boudica",
+        "Charles Babbage",
+        "Chevalier d'Eon",
+        "Cú Chulainn",
+        "Cú Chulainn (Alter)",
+        "Cú Chulainn (Caster)",
+        "David",
+        "EMIYA",
+        "Enkidu",
+        "Euryale",
+        "Francis Drake",
+        "Frankenstein",
+        "Gaius Julius Caesar",
+        "Gawain",
+        "Geronimo",
+        "Gilgamesh (Caster)",
+        "Gilles de Rais",
+        "Gilles de Rais (Saber)",
+        "Gorgon",
+        "Hassan of the Serenity",
+        "Hector",
+        "Helena Blavatsky",
+        "Henry Jekyll & Hyde",
+        "Heracles",
+        "Jaguar Man",
+        "Jeanne d'Arc",
+        "Kiyohime",
+        "Lancelot (Saber)",
+        "Li Shuwen (Lancer)",
+        "Medea",
+        "Medea (Lily)",
+        "Medusa",
+        "Medusa (Lancer)",
+        "Mordred",
+        "Nero Claudius",
+        "Nightingale",
+        "Nikola Tesla",
+        "Nitocris",
+        "Nursery Rhyme",
+        "Ozymandias",
+        "Paracelsus von Hohenheim",
+        "Queen Medb",
+        "Quetzalcoatl",
+        "Rama",
+        "Romulus",
+        "Scáthach-Skaði",
+        "Sherlock Holmes",
+        "Siegfried",
+        "Tawara Tōta",
+        "Thomas Edison",
+        "Tristan"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Summer 2019 Event Revival (US)",
+    "dates": [
+      "July 17 ~ August 1",
+      "July 17 ~ August 1",
+      "July 17 ~ August 1"
+    ],
+    "rateups": [
+      [
+        "Frankenstein (Saber)",
+        "Nero Claudius (Caster)",
+        "Nitocris (Assassin)",
+        "Oda Nobunaga (Berserker)"
+      ],
+      [
+        "Artoria Pendragon (Rider Alter)",
+        "Helena Blavatsky (Archer)",
+        "Minamoto no Raikō (Lancer)"
+      ],
+      [
+        "Charles Babbage",
+        "Queen Medb",
+        "Scheherazade"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Summer 2020 Event (US)",
+    "dates": [
+      "August 3 ~ August 22",
+      "August 3 ~ August 22",
+      "August 3 ~ August 22"
+    ],
+    "rateups": [
+      [
+        "Ibaraki Dōji (Lancer)",
+        "Jeanne d'Arc (Archer)",
+        "Ushiwakamaru (Assassin)"
+      ],
+      [
+        "Edmond Dantès",
+        "Gilgamesh (Caster)",
+        "Robin Hood"
+      ],
+      [
+        "BB (Summer)",
+        "Mysterious Heroine XX",
+        "Queen Medb (Saber)"
+      ]
+    ]
+  },
+  {
+    "name": "11M Downloads Campaign (US)",
+    "dates": [
+      "August 24th 01:00 - September 6th 20:59 PDT"
+    ],
+    "rateups": [
+      [
+        "Artoria Pendragon (Archer)",
+        "Marie Antoinette (Caster)",
+        "Martha (Ruler)"
+      ]
+    ]
+  },
+  {
+    "name": "Fate/Accel Zero Order Collaboration Event Revival (US)",
+    "dates": [
+      "August 31 ~ September 13"
+    ],
+    "rateups": [
+      [
+        "Artoria Pendragon",
+        "Diarmuid Ua Duibhne",
+        "Diarmuid Ua Duibhne (Saber)",
+        "EMIYA (Assassin)",
+        "Gilles de Rais",
+        "Hassan of the Hundred Faces",
+        "Iskandar",
+        "Lancelot",
+        "Zhuge Liang (Lord El-Melloi II)"
+      ]
+    ]
+  },
+  {
+    "name": "Shuten Douji Rank Up Quest Commemorative Summoning Campaign (US)",
+    "dates": [
+      "September 6 ~ September 20"
+    ],
+    "rateups": [
+      [
+        "Minamoto no Raikō",
+        "Okada Izō",
+        "Shuten Dōji",
+        "Yagyū Munenori"
+      ]
+    ]
+  },
+  {
+    "name": "Battle in New York 2020 (US)",
+    "dates": [
+      "September 14 ~ September 29"
+    ],
+    "rateups": [
+      [
+        "Gaius Julius Caesar",
+        "Gilgamesh",
+        "Queen of Sheba"
+      ]
+    ]
+  },
+  {
+    "name": "Halloween 2019 Event Revival (US)",
+    "dates": [
+      "September 30 ~ October 13"
+    ],
+    "rateups": [
+      [
+        "Carmilla",
+        "Elizabeth Báthory",
+        "Osakabehime",
+        "Penthesilea",
+        "Wu Zetian",
+        "Yan Qing"
+      ]
+    ]
+  },
+  {
+    "name": "Halloween 2020 Event (US)",
+    "dates": [
+      "October 19 ~ November 1"
+    ],
+    "rateups": [
+      [
+        "Ibaraki Dōji",
+        "Mochizuki Chiyome",
+        "Sitonai"
+      ]
+    ]
+  },
+  {
+    "name": "Interlude Campaign 7 (US)",
+    "dates": [
+      "November 1st 20:00 - November 8th 19:59 PST"
+    ],
+    "rateups": [
+      [
+        "Cú Chulainn (Alter)",
+        "Hōzōin Inshun",
+        "Katō Danzō",
+        "Queen Medb"
+      ]
+    ]
+  },
+  {
+    "name": "12M Downloads Campaign (US)",
+    "dates": [
+      "November 5 ~ November 18"
+    ],
+    "rateups": [
+      [
+        "Abigail Williams",
+        "Circe",
+        "Nezha",
+        "Robin Hood"
+      ]
+    ]
+  },
+  {
+    "name": "Christmas 2019 Event Revival (US)",
+    "dates": [
+      "November 12 ~ November 20"
+    ],
+    "rateups": [
+      [
+        "Altera",
+        "Enkidu",
+        "Ereshkigal",
+        "Jaguar Man",
+        "Medusa (Lancer)",
+        "Paracelsus von Hohenheim",
+        "Ushiwakamaru"
+      ]
+    ]
+  },
+  {
+    "name": "Fate/Stay Night Heaven's Feel III Theatrical Release Commemorative Campaign (US)",
+    "dates": [
+      "November 12 ~ January 6"
+    ],
+    "rateups": [
+      [
+        "Artoria Pendragon",
+        "Artoria Pendragon (Alter)",
+        "Heracles",
+        "Medusa"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Thanksgiving Special 2020 (US)",
+    "dates": [
+      "November 19 ~ November 29"
+    ],
+    "rateups": [
+      [
+        "Gilgamesh",
+        "Ishtar",
+        "Ivan the Terrible",
+        "Miyamoto Musashi",
+        "Mysterious Heroine X",
+        "Ryōgi Shiki (Saber)",
+        "Sakata Kintoki"
+      ]
+    ]
+  },
+  {
+    "name": "SIN Chapter Release (US)",
+    "dates": [
+      "November 26"
+    ],
+    "rateups": [
+      [
+        "Jing Ke",
+        "Lanling Wang",
+        "Qin Liangyu",
+        "Xiang Yu"
+      ]
+    ]
+  },
+  {
+    "name": "SIN Summoning Campaign 2 (US)",
+    "dates": [
+      "December 2nd 20:00 - December 16th 19:59 PST"
+    ],
+    "rateups": [
+      [
+        "Consort Yu",
+        "Red Hare",
+        "Shi Huang Di"
+      ]
+    ]
+  },
+  {
+    "name": "Christmas 2020 Event (US)",
+    "dates": [
+      "December 13 ~ December 25"
+    ],
+    "rateups": [
+      [
+        "Bradamante",
+        "Martha",
+        "Martha (Ruler)",
+        "Quetzalcoatl"
+      ]
+    ]
+  },
+  {
+    "name": "Happy New Year 2021 (US)",
+    "dates": [
+      "January 1 ~ January 10"
+    ],
+    "rateups": [
+      [
+        "Cleopatra",
+        "Gilgamesh",
+        "Jeanne d'Arc (Alter)",
+        "Katsushika Hokusai",
+        "Nero Claudius (Caster)",
+        "Scáthach",
+        "Sigurd"
+      ]
+    ]
+  },
+  {
+    "name": "New Year 2021 Event (US)",
+    "dates": [
+      "January 1 ~ January 15",
+      "January 1 ~ January 15"
+    ],
+    "rateups": [
+      [
+        "Beni-Enma",
+        "Fionn mac Cumhaill",
+        "Tamamo Cat",
+        "Tamamo no Mae"
+      ],
+      [
+        "Diarmuid Ua Duibhne (Saber)",
+        "Kiyohime",
+        "Li Shuwen",
+        "Tomoe Gozen"
+      ]
+    ]
+  },
+  {
+    "name": "Even More Learning With Manga Release Celebration Campaign (US)",
+    "dates": [
+      "January 13 ~ January 20"
+    ],
+    "rateups": [
+      [
+        "Altera",
+        "Circe",
+        "Elizabeth Báthory",
+        "Kiyohime",
+        "Leonardo Da Vinci"
+      ]
+    ]
+  },
+  {
+    "name": "Prisma Codes Collaboration Event Revival (US)",
+    "dates": [
+      "January 20 ~ February 2"
+    ],
+    "rateups": [
+      [
+        "Helena Blavatsky",
+        "Illyasviel von Einzbern",
+        "Medea (Lily)",
+        "Miyu Edelfelt",
+        "Nursery Rhyme",
+        "Queen Medb"
+      ]
+    ]
+  },
+  {
+    "name": "Valentine 2021 Event (US)",
+    "dates": [
+      "February 3 ~ February 16"
+    ],
+    "rateups": [
+      [
+        "Altera",
+        "Anastasia",
+        "Artoria Pendragon",
+        "Artoria Pendragon (Lancer)",
+        "Bradamante",
+        "Francis Drake",
+        "Jack the Ripper",
+        "Jeanne d'Arc",
+        "Mordred",
+        "Murasaki Shikibu",
+        "Nightingale",
+        "Orion",
+        "Osakabehime",
+        "Queen Medb",
+        "Quetzalcoatl",
+        "Scheherazade",
+        "Sitonai",
+        "Tamamo no Mae",
+        "Xuanzang Sanzang"
+      ]
+    ]
+  },
+  {
+    "name": "Valentine 2020 Summoning Campaign Revival (US)",
+    "dates": [
+      "February 9th 20:00 - February 23rd 19:59 PST"
+    ],
+    "rateups": [
+      [
+        "Semiramis"
+      ]
+    ]
+  },
+  {
+    "name": "Fate/Extra CCC Collaboration Event Revival (US)",
+    "dates": [
+      "February 17 ~ March 7",
+      "February 17 ~ March 7"
+    ],
+    "rateups": [
+      [
+        "EMIYA (Alter)",
+        "Meltryllis",
+        "Passionlip",
+        "Robin Hood",
+        "Suzuka Gozen"
+      ],
+      [
+        "Gawain",
+        "Kingprotea",
+        "Tristan"
+      ]
+    ]
+  },
+  {
+    "name": "Chaldea Boys Collection 2021 (US)",
+    "dates": [
+      "March 8 ~ March 17"
+    ],
+    "rateups": [
+      [
+        "Achilles",
+        "Alexander",
+        "Arjuna",
+        "Cú Chulainn (Alter)",
+        "Enkidu",
+        "James Moriarty",
+        "Karna",
+        "Lanling Wang",
+        "Li Shuwen",
+        "Napoléon",
+        "Nikola Tesla",
+        "Ozymandias",
+        "Vlad III",
+        "Xiang Yu",
+        "Yan Qing",
+        "Zhuge Liang (Lord El-Melloi II)"
+      ]
+    ]
+  },
+  {
+    "name": "Tokugawa Restoration Labyrinth (US)",
+    "dates": [
+      "March 23 ~ April 5",
+      "March 23 ~ April 5"
+    ],
+    "rateups": [
+      [
+        "Kama",
+        "Parvati"
+      ],
+      [
+        "Scheherazade",
+        "Sesshōin Kiara",
+        "Yagyū Munenori"
+      ]
+    ]
+  },
+  {
+    "name": "Fate/Grand Order Absolute Demonic Front: Babylonia Blu-ray Release Campaign (US)",
+    "dates": [
+      "March 29 ~ April 11"
+    ],
+    "rateups": [
+      [
+        "Enkidu",
+        "Gilgamesh (Caster)",
+        "Ishtar",
+        "Medusa (Lancer)",
+        "Ushiwakamaru"
+      ]
+    ]
+  },
+  {
+    "name": "13M Downloads Campaign (US)",
+    "dates": [
+      "April 4 ~ April 18"
+    ],
+    "rateups": [
+      [
+        "Mysterious Heroine X (Alter)"
+      ]
+    ]
+  },
+  {
+    "name": "GUDAGUDA Legend of the Imperial Capital Grail Revival (US)",
+    "dates": [
+      "April 12 ~ April 25"
+    ],
+    "rateups": [
+      [
+        "EMIYA",
+        "Hijikata Toshizō",
+        "Li Shuwen (Lancer)",
+        "Medea",
+        "Medusa",
+        "Okada Izō",
+        "Okita Sōji (Alter)"
+      ]
+    ]
+  },
+  {
+    "name": "Lord El-Melloi II Case Files Collaboration Event (US)",
+    "dates": [
+      "April 30 ~ May 13",
+      "April 25 ~ May 9"
+    ],
+    "rateups": [
+      [
+        "Astraea",
+        "Charles Babbage",
+        "EMIYA (Assassin)",
+        "Sima Yi (Reines)"
+      ],
+      [
+        "Alexander",
+        "Zhuge Liang (Lord El-Melloi II)"
+      ]
+    ]
+  },
+  {
+    "name": "Class Based Summoning Campaign May 2021 (US)",
+    "dates": [
+      "May 9 ~ May 25"
+    ],
+    "rateups": [
+      [
+        "Achilles",
+        "Alexander",
+        "Altera",
+        "Anastasia",
+        "Anne Bonny & Mary Read",
+        "Antonio Salieri",
+        "Arjuna",
+        "Artoria Pendragon",
+        "Artoria Pendragon (Alter)",
+        "Artoria Pendragon (Lancer Alter)",
+        "Artoria Pendragon (Lancer)",
+        "Astolfo",
+        "Atalanta",
+        "Atalanta (Alter)",
+        "Avicebron",
+        "Bedivere",
+        "Beowulf",
+        "Billy the Kid",
+        "Boudica",
+        "Bradamante",
+        "Carmilla",
+        "Charles Babbage",
+        "Chevalier d'Eon",
+        "Chiron",
+        "Christopher Columbus",
+        "Circe",
+        "Consort Yu",
+        "Cú Chulainn",
+        "Cú Chulainn (Alter)",
+        "Cú Chulainn (Caster)",
+        "Cú Chulainn (Prototype)",
+        "Darius III",
+        "David",
+        "Diarmuid Ua Duibhne",
+        "Diarmuid Ua Duibhne (Saber)",
+        "EMIYA",
+        "EMIYA (Alter)",
+        "EMIYA (Assassin)",
+        "Elizabeth Báthory",
+        "Enkidu",
+        "Euryale",
+        "Fergus mac Róich",
+        "Fionn mac Cumhaill",
+        "Francis Drake",
+        "Frankenstein",
+        "Fūma Kotarō",
+        "Gaius Julius Caesar",
+        "Gawain",
+        "Geronimo",
+        "Gilgamesh (Caster)",
+        "Gilles de Rais",
+        "Gilles de Rais (Saber)",
+        "Gorgon",
+        "Hassan of the Hundred Faces",
+        "Hassan of the Serenity",
+        "Hector",
+        "Helena Blavatsky",
+        "Henry Jekyll & Hyde",
+        "Heracles",
+        "Hessian Lobo",
+        "Hōzōin Inshun",
+        "Ibaraki Dōji",
+        "Jack the Ripper",
+        "Jaguar Man",
+        "Jeanne d'Arc",
+        "Jing Ke",
+        "Karna",
+        "Katō Danzō",
+        "Kid Gil",
+        "Kiyohime",
+        "Lancelot",
+        "Lancelot (Saber)",
+        "Lanling Wang",
+        "Li Shuwen",
+        "Li Shuwen (Lancer)",
+        "Lu Bu Fengxian",
+        "Marie Antoinette",
+        "Martha",
+        "Medea",
+        "Medea (Lily)",
+        "Medusa",
+        "Medusa (Lancer)",
+        "Mephistopheles",
+        "Mochizuki Chiyome",
+        "Mordred",
+        "Napoléon",
+        "Nero Claudius",
+        "Nezha",
+        "Nightingale",
+        "Nikola Tesla",
+        "Nitocris",
+        "Nursery Rhyme",
+        "Orion",
+        "Osakabehime",
+        "Ozymandias",
+        "Paracelsus von Hohenheim",
+        "Parvati",
+        "Penthesilea",
+        "Qin Liangyu",
+        "Queen Medb",
+        "Queen of Sheba",
+        "Quetzalcoatl",
+        "Rama",
+        "Red Hare",
+        "Robin Hood",
+        "Romulus",
+        "Scheherazade",
+        "Siegfried",
+        "Sitonai",
+        "Stheno",
+        "Suzuka Gozen",
+        "Tamamo Cat",
+        "Tamamo no Mae",
+        "Tawara Tōta",
+        "Thomas Edison",
+        "Tomoe Gozen",
+        "Tristan",
+        "Ushiwakamaru",
+        "Valkyrie",
+        "Vlad III",
+        "Vlad III (EXTRA)",
+        "Wu Zetian",
+        "Xiang Yu",
+        "Xuanzang Sanzang",
+        "Yagyū Munenori",
+        "Yan Qing",
+        "Zhuge Liang (Lord El-Melloi II)"
+      ]
+    ]
+  },
+  {
+    "name": "A Meihousou Most Foul (US)",
+    "dates": [
+      "May 14 ~ May 27"
+    ],
+    "rateups": [
+      [
+        "Antonio Salieri",
+        "Jeanne d'Arc (Alter)",
+        "Tristan"
+      ]
+    ]
+  },
+  {
+    "name": "Interlude Campaign 9 (US)",
+    "dates": [
+      "May 28 ~ June 3"
+    ],
+    "rateups": [
+      [
+        "EMIYA (Alter)",
+        "Li Shuwen",
+        "Osakabehime",
+        "Wu Zetian"
+      ]
+    ]
+  },
+  {
+    "name": "Yugakshetra Chapter Release (US)",
+    "dates": [
+      "June 3",
+      "May 30 ~ June 13"
+    ],
+    "rateups": [
+      [
+        "Jinako Carigiri",
+        "Lakshmibai",
+        "William Tell"
+      ],
+      [
+        "Arjuna",
+        "Rama"
+      ]
+    ]
+  },
+  {
+    "name": "Yugakshetra Summoning Campaign 2 (US)",
+    "dates": [
+      "June 9th 21:00 - June 23rd 20:59 PDT"
+    ],
+    "rateups": [
+      [
+        "Arjuna (Alter)",
+        "Asclepius",
+        "Aśvatthāman",
+        "Karna"
+      ]
+    ]
+  },
+  {
+    "name": "14M Downloads Campaign (US)",
+    "dates": [
+      "June 16 ~ June 23"
+    ],
+    "rateups": [
+      [
+        "Gaius Julius Caesar",
+        "Nero Claudius",
+        "Nero Claudius (Bride)",
+        "Romulus"
+      ]
+    ]
+  },
+  {
+    "name": "GUDAGUDA Final Honnoji 2021 (US)",
+    "dates": [
+      "June 20 ~ July 3"
+    ],
+    "rateups": [
+      [
+        "Demon King Nobunaga",
+        "Mori Nagayoshi",
+        "Oda Nobunaga (Berserker)"
+      ]
+    ]
+  },
+  {
+    "name": "Fate/Grand Order Absolute Demonic Front: Babylonia Blu-ray Release Campaign Part II (US)",
+    "dates": [
+      "June 27 ~ July 11"
+    ],
+    "rateups": [
+      [
+        ""The Old Man of the Mountain"",
+        "Gilgamesh (Caster)",
+        "Gorgon",
+        "Jaguar Man",
+        "Medusa (Lancer)",
+        "Ushiwakamaru"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Festival 2021 ~4th Anniversary~ (US)",
+    "dates": [
+      "July 3 ~ July 14"
+    ],
+    "rateups": [
+      [
+        "Anastasia",
+        "Antonio Salieri",
+        "Atalanta (Alter)",
+        "Avicebron",
+        "Christopher Columbus",
+        "Circe",
+        "Consort Yu",
+        "EMIYA (Alter)",
+        "Hessian Lobo",
+        "Hōzōin Inshun",
+        "Katō Danzō",
+        "Lanling Wang",
+        "Leonardo Da Vinci (Rider)",
+        "Li Shuwen",
+        "Mochizuki Chiyome",
+        "Napoléon",
+        "Nezha",
+        "Penthesilea",
+        "Qin Liangyu",
+        "Queen of Sheba",
+        "Red Hare",
+        "Scheherazade",
+        "Sitonai",
+        "Tomoe Gozen",
+        "Valkyrie",
+        "Wu Zetian",
+        "Xiang Yu",
+        "Yagyū Munenori",
+        "Yan Qing"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Summer 2020 Event Revival (US)",
+    "dates": [
+      "July 12 ~ July 28",
+      "July 12 ~ July 28",
+      "July 12 ~ July 28"
+    ],
+    "rateups": [
+      [
+        "Ibaraki Dōji (Lancer)",
+        "Jeanne d'Arc (Archer)",
+        "Ushiwakamaru (Assassin)"
+      ],
+      [
+        "Edmond Dantès",
+        "Gilgamesh (Caster)",
+        "Robin Hood"
+      ],
+      [
+        "BB (Summer)",
+        "Mysterious Heroine XX",
+        "Queen Medb (Saber)"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Summer 2021 Event (US)",
+    "dates": [
+      "July 29 ~ August 18",
+      "July 29 ~ August 18",
+      "July 29 ~ August 18"
+    ],
+    "rateups": [
+      [
+        "Carmilla (Rider)",
+        "Miyamoto Musashi (Berserker)",
+        "Osakabehime (Archer)"
+      ],
+      [
+        "Fūma Kotarō",
+        "Merlin",
+        "Siegfried"
+      ],
+      [
+        "Artoria Pendragon (Ruler)",
+        "Mysterious Alter Ego Λ",
+        "Okita J Sōji"
+      ]
+    ]
+  },
+  {
+    "name": "Interlude Campaign 10 (US)",
+    "dates": [
+      "August 18 ~ September 1"
+    ],
+    "rateups": [
+      [
+        "Jack the Ripper",
+        "Nikola Tesla",
+        "Parvati"
+      ]
+    ]
+  },
+  {
+    "name": "Class Based Summoning Campaign August 2021 (US)",
+    "dates": [
+      "August 25 ~ September 9",
+      "August 25 ~ September 9",
+      "August 25 ~ September 9"
+    ],
+    "rateups": [
+      [
+        "Altera",
+        "Arjuna",
+        "Artoria Pendragon",
+        "Artoria Pendragon (Alter)",
+        "Artoria Pendragon (Lancer Alter)",
+        "Artoria Pendragon (Lancer)",
+        "Atalanta",
+        "Aśvatthāman",
+        "Bedivere",
+        "Billy the Kid",
+        "Bradamante",
+        "Chevalier d'Eon",
+        "Chiron",
+        "Cú Chulainn",
+        "Cú Chulainn (Prototype)",
+        "David",
+        "Diarmuid Ua Duibhne",
+        "Diarmuid Ua Duibhne (Saber)",
+        "EMIYA",
+        "EMIYA (Alter)",
+        "Elizabeth Báthory",
+        "Enkidu",
+        "Euryale",
+        "Fergus mac Róich",
+        "Fionn mac Cumhaill",
+        "Gaius Julius Caesar",
+        "Gawain",
+        "Gilles de Rais (Saber)",
+        "Hector",
+        "Hōzōin Inshun",
+        "Jaguar Man",
+        "Karna",
+        "Kid Gil",
+        "Lakshmibai",
+        "Lancelot (Saber)",
+        "Lanling Wang",
+        "Li Shuwen (Lancer)",
+        "Medusa (Lancer)",
+        "Mordred",
+        "Napoléon",
+        "Nero Claudius",
+        "Nezha",
+        "Nikola Tesla",
+        "Orion",
+        "Parvati",
+        "Qin Liangyu",
+        "Rama",
+        "Robin Hood",
+        "Romulus",
+        "Siegfried",
+        "Suzuka Gozen",
+        "Tawara Tōta",
+        "Tomoe Gozen",
+        "Tristan",
+        "Valkyrie",
+        "Vlad III (EXTRA)",
+        "William Tell",
+        "Yagyū Munenori"
+      ],
+      [
+        "Achilles",
+        "Alexander",
+        "Anastasia",
+        "Anne Bonny & Mary Read",
+        "Asclepius",
+        "Astolfo",
+        "Atalanta (Alter)",
+        "Avicebron",
+        "Beowulf",
+        "Boudica",
+        "Carmilla",
+        "Charles Babbage",
+        "Christopher Columbus",
+        "Circe",
+        "Consort Yu",
+        "Cú Chulainn (Alter)",
+        "Cú Chulainn (Caster)",
+        "Darius III",
+        "EMIYA (Assassin)",
+        "Francis Drake",
+        "Frankenstein",
+        "Fūma Kotarō",
+        "Geronimo",
+        "Gilgamesh (Caster)",
+        "Gilles de Rais",
+        "Hassan of the Hundred Faces",
+        "Hassan of the Serenity",
+        "Helena Blavatsky",
+        "Henry Jekyll & Hyde",
+        "Heracles",
+        "Ibaraki Dōji",
+        "Jack the Ripper",
+        "Jing Ke",
+        "Katō Danzō",
+        "Kiyohime",
+        "Lancelot",
+        "Li Shuwen",
+        "Lu Bu Fengxian",
+        "Marie Antoinette",
+        "Martha",
+        "Medea",
+        "Medea (Lily)",
+        "Medusa",
+        "Mephistopheles",
+        "Mochizuki Chiyome",
+        "Nightingale",
+        "Nitocris",
+        "Nursery Rhyme",
+        "Osakabehime",
+        "Ozymandias",
+        "Paracelsus von Hohenheim",
+        "Penthesilea",
+        "Queen Medb",
+        "Queen of Sheba",
+        "Quetzalcoatl",
+        "Red Hare",
+        "Scheherazade",
+        "Stheno",
+        "Tamamo Cat",
+        "Tamamo no Mae",
+        "Thomas Edison",
+        "Ushiwakamaru",
+        "Vlad III",
+        "Wu Zetian",
+        "Xiang Yu",
+        "Xuanzang Sanzang",
+        "Yan Qing",
+        "Zhuge Liang (Lord El-Melloi II)"
+      ],
+      [
+        "Antonio Salieri",
+        "Astraea",
+        "Gorgon",
+        "Hessian Lobo",
+        "Jeanne d'Arc",
+        "Jinako Carigiri",
+        "Sitonai"
+      ]
+    ]
+  },
+  {
+    "name": "Battle in New York 2021 (US)",
+    "dates": [
+      "September 2 ~ September 15"
+    ],
+    "rateups": [
+      [
+        "Gilgamesh",
+        "Gorgon",
+        "Jaguar Man"
+      ]
+    ]
+  },
+  {
+    "name": "Back to School Campaign 2021 Part 2 (US)",
+    "dates": [
+      "September 8 ~ September 22"
+    ],
+    "rateups": [
+      [
+        "Minamoto no Raikō (Lancer)",
+        "Murasaki Shikibu",
+        "Sakata Kintoki"
+      ]
+    ]
+  },
+  {
+    "name": "FGO THE STAGE Camelot Release Campaign (US)",
+    "dates": [
+      "September 15 ~ September 29",
+      "September 15 ~ September 29"
+    ],
+    "rateups": [
+      [
+        "Bedivere",
+        "Gawain",
+        "Lancelot (Saber)",
+        "Leonardo Da Vinci",
+        "Ozymandias",
+        "Tristan"
+      ],
+      [
+        "Artoria Pendragon (Lancer)",
+        "Bedivere",
+        "Gawain",
+        "Lancelot (Saber)",
+        "Mordred",
+        "Tristan"
+      ]
+    ]
+  },
+  {
+    "name": "Halloween 2020 Event Revival (US)",
+    "dates": [
+      "September 24 ~ October 7"
+    ],
+    "rateups": [
+      [
+        "Ibaraki Dōji",
+        "Ibaraki Dōji (Lancer)",
+        "Shuten Dōji",
+        "Sitonai"
+      ]
+    ]
+  },
+  {
+    "name": "FGO THE STAGE Babylonia Release Campaign (US)",
+    "dates": [
+      "October 3 ~ October 17"
+    ],
+    "rateups": [
+      [
+        "Enkidu",
+        "Gilgamesh (Caster)"
+      ]
+    ]
+  },
+  {
+    "name": "Saber Wars II (US)",
+    "dates": [
+      "October 18 ~ October 31",
+      "October 18 ~ October 31",
+      "October 12 ~ October 17"
+    ],
+    "rateups": [
+      [
+        "Calamity Jane",
+        "Space Ishtar"
+      ],
+      [
+        "Mysterious Heroine X (Alter)",
+        "Yagyū Munenori"
+      ],
+      [
+        "Mysterious Heroine X"
+      ]
+    ]
+  },
+  {
+    "name": "15M Downloads Campaign (US)",
+    "dates": [
+      "November 1 ~ November 15"
+    ],
+    "rateups": [
+      [
+        "Scáthach-Skaði"
+      ]
+    ]
+  },
+  {
+    "name": "Early Winter Campaign 2021 (US)",
+    "dates": [
+      "November 8 ~ November 15"
+    ],
+    "rateups": [
+      [
+        "Arthur Pendragon (Prototype)",
+        "Hassan of the Serenity",
+        "Henry Jekyll & Hyde",
+        "Ozymandias",
+        "Paracelsus von Hohenheim"
+      ]
+    ]
+  },
+  {
+    "name": "Interlude Campaign 11 (US)",
+    "dates": [
+      "November 16 ~ November 22"
+    ],
+    "rateups": [
+      [
+        "Anastasia",
+        "Lanling Wang",
+        "Napoléon",
+        "Qin Liangyu"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Thanksgiving Special 2021 (US)",
+    "dates": [
+      "November 24 ~ December 4"
+    ],
+    "rateups": [
+      [
+        "Jack the Ripper",
+        "James Moriarty",
+        "Nero Claudius (Caster)",
+        "Okita Sōji",
+        "Scáthach",
+        "Sima Yi (Reines)",
+        "Xiang Yu"
+      ]
+    ]
+  },
+  {
+    "name": "Atlantis Chapter Release (US)",
+    "dates": [
+      "December 1"
+    ],
+    "rateups": [
+      [
+        "Mandricardo",
+        "Mochizuki Chiyome",
+        "Super Orion"
+      ]
+    ]
+  },
+  {
+    "name": "Atlantis Summoning Campaign 2 (US)",
+    "dates": [
+      "December 7th 20:00 - December 14th 19:59 PST"
+    ],
+    "rateups": [
+      [
+        "Achilles",
+        "Astraea",
+        "Europa",
+        "Hector"
+      ]
+    ]
+  },
+  {
+    "name": "Christmas 2021 Event (US)",
+    "dates": [
+      "December 14 ~ December 27"
+    ],
+    "rateups": [
+      [
+        "Astolfo (Saber)",
+        "Aśvatthāman",
+        "Boudica",
+        "Darius III",
+        "Gaius Julius Caesar",
+        "Nightingale",
+        "Nursery Rhyme"
+      ]
+    ]
+  },
+  {
+    "name": "Happy New Year 2022 (US)",
+    "dates": [
+      "December 31 ~ January 10"
+    ],
+    "rateups": [
+      [
+        "BB (Summer)",
+        "Gilgamesh",
+        "Ryōgi Shiki (Saber)",
+        "Scáthach",
+        "Sesshōin Kiara",
+        "Shi Huang Di",
+        "Yang Guifei"
+      ]
+    ]
+  },
+  {
+    "name": "New Year 2021 Event Revival (US)",
+    "dates": [
+      "January 4 ~ January 17",
+      "January 4 ~ January 17"
+    ],
+    "rateups": [
+      [
+        "Beni-Enma",
+        "Diarmuid Ua Duibhne (Saber)",
+        "Tamamo no Mae"
+      ],
+      [
+        "Kiyohime",
+        "Li Shuwen",
+        "Tomoe Gozen"
+      ]
+    ]
+  },
+  {
+    "name": "Amazones.com ~CEO Crisis 2022~ (US)",
+    "dates": [
+      "January 18 ~ January 31"
+    ],
+    "rateups": [
+      [
+        "Cleopatra",
+        "Osakabehime",
+        "Penthesilea"
+      ]
+    ]
+  },
+  {
+    "name": "Interlude Campaign 12 (US)",
+    "dates": [
+      "January 26 ~ February 2"
+    ],
+    "rateups": [
+      [
+        "Asclepius",
+        "Bradamante",
+        "Xiang Yu"
+      ]
+    ]
+  },
+  {
+    "name": "Valentine 2022 Event (US)",
+    "dates": [
+      "February 1 ~ February 14"
+    ],
+    "rateups": [
+      [
+        "Altera",
+        "Anastasia",
+        "Artoria Pendragon",
+        "Artoria Pendragon (Lancer)",
+        "Bradamante",
+        "Europa",
+        "Francis Drake",
+        "Jack the Ripper",
+        "Jeanne d'Arc",
+        "Jinako Carigiri",
+        "Marie Antoinette",
+        "Mordred",
+        "Nightingale",
+        "Orion",
+        "Osakabehime",
+        "Queen Medb",
+        "Queen of Sheba",
+        "Quetzalcoatl",
+        "Scheherazade",
+        "Sei Shōnagon",
+        "Sitonai",
+        "Tamamo no Mae",
+        "Xuanzang Sanzang"
+      ]
+    ]
+  },
+  {
+    "name": "16M Downloads Campaign (US)",
+    "dates": [
+      "February 14 ~ February 23"
+    ],
+    "rateups": [
+      [
+        "Ereshkigal",
+        "Fionn mac Cumhaill"
+      ]
+    ]
+  },
+  {
+    "name": "Presidents Day Celebration Campaign 2022 (US)",
+    "dates": [
+      "February 20 ~ February 25"
+    ],
+    "rateups": [
+      [
+        "Nikola Tesla",
+        "Thomas Edison"
+      ]
+    ]
+  },
+  {
+    "name": "Chaldea Boys Collection 2022 (US)",
+    "dates": [
+      "February 28 ~ March 9"
+    ],
+    "rateups": [
+      [
+        "Achilles",
+        "Arjuna",
+        "Circe",
+        "Cú Chulainn (Alter)",
+        "Enkidu",
+        "Karna",
+        "Li Shuwen",
+        "Napoléon",
+        "Nikola Tesla",
+        "Odysseus",
+        "Ozymandias",
+        "Vlad III",
+        "Xiang Yu",
+        "Zhuge Liang (Lord El-Melloi II)"
+      ]
+    ]
+  },
+  {
+    "name": "Chaldea Boys Collection 2018 - 2021 CE Summoning Campaign (US)",
+    "dates": [
+      "March 4 ~ March 13"
+    ],
+    "rateups": [
+      [
+        "Circe",
+        "Odysseus"
+      ]
+    ]
+  },
+  {
+    "name": "Fate/Apocrypha Collaboration Event Revival (US)",
+    "dates": [
+      "March 10 ~ March 23"
+    ],
+    "rateups": [
+      [
+        "Achilles",
+        "Amakusa Shirō",
+        "Astolfo",
+        "Astolfo (Saber)",
+        "Atalanta",
+        "Atalanta (Alter)",
+        "Avicebron",
+        "Chiron",
+        "Frankenstein",
+        "Jack the Ripper",
+        "Mordred",
+        "Semiramis",
+        "Siegfried",
+        "Vlad III"
+      ]
+    ]
+  },
+  {
+    "name": "Olympus Chapter Release (US)",
+    "dates": [
+      "March 24"
+    ],
+    "rateups": [
+      [
+        "Caenis",
+        "Dioscuri"
+      ]
+    ]
+  },
+  {
+    "name": "Olympus Summoning Campaign 2 (US)",
+    "dates": [
+      "March 30 21:00 - April 13th 20:59 PDT"
+    ],
+    "rateups": [
+      [
+        "Romulus-Quirinus"
+      ]
+    ]
+  },
+  {
+    "name": "Lostbelt 5 Conclusion Summoning Campaign (US)",
+    "dates": [
+      "April 6th 21:00 - April 15th 20:59 PDT"
+    ],
+    "rateups": [
+      [
+        "Artoria Pendragon (Lancer Alter)",
+        "Francis Drake",
+        "Medea (Lily)",
+        "Minamoto no Raikō"
+      ]
+    ]
+  },
+  {
+    "name": "17M Downloads Campaign (US)",
+    "dates": [
+      "April 14 ~ April 21"
+    ],
+    "rateups": [
+      [
+        "Brynhildr",
+        "Gilgamesh",
+        "Ishtar",
+        "Jeanne d'Arc (Alter)",
+        "Leonardo Da Vinci",
+        "Miyamoto Musashi",
+        "Sakata Kintoki",
+        "Scáthach"
+      ]
+    ]
+  },
+  {
+    "name": "GUDAGUDA Final Honnoji 2021 Revival (US)",
+    "dates": [
+      "April 19 ~ May 2",
+      "April 19 ~ May 2"
+    ],
+    "rateups": [
+      [
+        "Demon King Nobunaga",
+        "Li Shuwen",
+        "Mori Nagayoshi",
+        "Oda Nobunaga (Berserker)",
+        "Okita Sōji (Alter)"
+      ],
+      [
+        "Cú Chulainn (Alter)",
+        "EMIYA (Alter)",
+        "Nero Claudius",
+        "Sitonai"
+      ]
+    ]
+  },
+  {
+    "name": "Fate/Requiem Collaboration Event (US)",
+    "dates": [
+      "May 6 ~ May 19",
+      "May 1 ~ May 15"
+    ],
+    "rateups": [
+      [
+        "Kijyo Kōyō",
+        "Voyager"
+      ],
+      [
+        "Jinako Carigiri",
+        "Nursery Rhyme",
+        "Osakabehime",
+        "Thomas Edison"
+      ]
+    ]
+  },
+  {
+    "name": "Interlude Campaign 13 (US)",
+    "dates": [
+      "May 15 ~ May 22"
+    ],
+    "rateups": [
+      [
+        "Lakshmibai",
+        "Sherlock Holmes",
+        "Sima Yi (Reines)",
+        "William Tell"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Summer 2021 Event Revival (US)",
+    "dates": [
+      "May 23 ~ June 12",
+      "May 23 ~ June 12",
+      "May 23 ~ June 12"
+    ],
+    "rateups": [
+      [
+        "Carmilla (Rider)",
+        "Miyamoto Musashi (Berserker)",
+        "Osakabehime (Archer)"
+      ],
+      [
+        "Fūma Kotarō",
+        "Merlin",
+        "Siegfried"
+      ],
+      [
+        "Artoria Pendragon (Ruler)",
+        "Mysterious Alter Ego Λ",
+        "Okita J Sōji"
+      ]
+    ]
+  },
+  {
+    "name": "Swimsuit + AoE NP Only Summoning Campaign (US)",
+    "dates": [
+      "June 5th 21:00 - June 19th 20:59 PDT"
+    ],
+    "rateups": [
+      [
+        "Achilles",
+        "Alexander",
+        "Altera",
+        "Anastasia",
+        "Arjuna",
+        "Artoria Pendragon",
+        "Astolfo",
+        "Atalanta",
+        "Avicebron",
+        "BB (Summer)",
+        "Bradamante",
+        "Charles Babbage",
+        "Darius III",
+        "EMIYA",
+        "Elizabeth Báthory",
+        "Europa",
+        "Fergus mac Róich",
+        "Fionn mac Cumhaill",
+        "Francis Drake",
+        "Frankenstein",
+        "Fūma Kotarō",
+        "Geronimo",
+        "Gilgamesh (Caster)",
+        "Hector",
+        "Helena Blavatsky",
+        "Helena Blavatsky (Archer)",
+        "Jeanne d'Arc (Archer)",
+        "Jinako Carigiri",
+        "Karna",
+        "Kid Gil",
+        "Kiyohime",
+        "Lakshmibai",
+        "Lancelot",
+        "Marie Antoinette",
+        "Marie Antoinette (Caster)",
+        "Martha",
+        "Medusa",
+        "Mephistopheles",
+        "Mordred",
+        "Mordred (Rider)",
+        "Napoléon",
+        "Nero Claudius (Caster)",
+        "Nezha",
+        "Nitocris",
+        "Nitocris (Assassin)",
+        "Nursery Rhyme",
+        "Odysseus",
+        "Paracelsus von Hohenheim",
+        "Parvati",
+        "Romulus",
+        "Scheherazade",
+        "Siegfried",
+        "Suzuka Gozen",
+        "Tamamo Cat",
+        "Tawara Tōta",
+        "Ushiwakamaru (Assassin)",
+        "Valkyrie",
+        "Xiang Yu"
+      ]
+    ]
+  },
+  {
+    "name": "SE.RA.PH Main Interlude Release Campaign (US)",
+    "dates": [
+      "June 21 ~ June 27"
+    ],
+    "rateups": [
+      [
+        "Kingprotea",
+        "Meltryllis",
+        "Passionlip",
+        "Suzuka Gozen"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Festival 2022 ~5th Anniversary~ (US)",
+    "dates": [
+      "July 4 ~ July 17",
+      "June 13 ~ July 3"
+    ],
+    "rateups": [
+      [
+        "Artoria Caster",
+        "Leonardo Da Vinci (Rider)"
+      ],
+      [
+        "Antonio Salieri",
+        "Asclepius",
+        "Atalanta (Alter)",
+        "Avicebron",
+        "Aśvatthāman",
+        "Caenis",
+        "Europa",
+        "Ivan the Terrible",
+        "Jinako Carigiri",
+        "Lanling Wang",
+        "Mandricardo",
+        "Napoléon",
+        "Red Hare",
+        "Valkyrie",
+        "William Tell",
+        "Xiang Yu"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Summer 2022 Event (US)",
+    "dates": [
+      "July 12 ~ August 1",
+      "July 12 ~ August 1",
+      "July 12 ~ August 1",
+      "July 12 ~ August 1"
+    ],
+    "rateups": [
+      [
+        "Brynhildr (Berserker)",
+        "Illyasviel von Einzbern (Archer)",
+        "Sesshōin Kiara (Moon Cancer)"
+      ],
+      [
+        "EMIYA",
+        "Lanling Wang",
+        "Sigurd"
+      ],
+      [
+        "Abigail Williams (Summer)",
+        "Murasaki Shikibu (Rider)",
+        "Tomoe Gozen (Saber)"
+      ],
+      [
+        "Asagami Fujino",
+        "Edmond Dantès",
+        "Jeanne d'Arc (Archer)",
+        "Kiyohime (Lancer)"
+      ]
+    ]
+  },
+  {
+    "name": "Tokugawa Restoration Labyrinth Revival (US)",
+    "dates": [
+      "August 2 ~ August 15"
+    ],
+    "rateups": [
+      [
+        "Kama",
+        "Sesshōin Kiara",
+        "Yagyū Munenori"
+      ]
+    ]
+  },
+  {
+    "name": "Melty Blood: Type Lumina Evo 2022 Celebration Campaign (US)",
+    "dates": [
+      "August 4 ~ August 11"
+    ],
+    "rateups": [
+      [
+        "Artoria Pendragon"
+      ]
+    ]
+  },
+  {
+    "name": "18M Downloads Campaign (US)",
+    "dates": [
+      "August 9 ~ August 16"
+    ],
+    "rateups": [
+      [
+        "Consort Yu",
+        "Jing Ke",
+        "Li Shuwen (Lancer)",
+        "Lu Bu Fengxian",
+        "Shi Huang Di",
+        "Wu Zetian"
+      ]
+    ]
+  },
+  {
+    "name": "Interlude Campaign 14 (US)",
+    "dates": [
+      "August 16 ~ August 23"
+    ],
+    "rateups": [
+      [
+        "Atalanta (Alter)",
+        "Avicebron",
+        "Red Hare",
+        "Shuten Dōji"
+      ]
+    ]
+  },
+  {
+    "name": "Land of Shadows Battleground Blitz (US)",
+    "dates": [
+      "August 22 ~ September 4"
+    ],
+    "rateups": [
+      [
+        "Diarmuid Ua Duibhne (Saber)",
+        "Fionn mac Cumhaill",
+        "Scáthach",
+        "Tamamo Cat"
+      ]
+    ]
+  },
+  {
+    "name": "Back to School Campaign 2022 (US)",
+    "dates": [
+      "August 29 ~ September 12"
+    ],
+    "rateups": [
+      [
+        "Illyasviel von Einzbern",
+        "Miyu Edelfelt",
+        "Mysterious Heroine X (Alter)"
+      ]
+    ]
+  },
+  {
+    "name": "GUDAGUDA Summoning Campaign (US)",
+    "dates": [
+      "September 4 ~ September 21"
+    ],
+    "rateups": [
+      [
+        "Hijikata Toshizō",
+        "Okada Izō",
+        "Okita Sōji"
+      ]
+    ]
+  },
+  {
+    "name": "GUDAGUDA Yamataikoku 2022 (US)",
+    "dates": [
+      "September 14 ~ September 27",
+      "September 14 ~ September 27"
+    ],
+    "rateups": [
+      [
+        "Himiko",
+        "Saitō Hajime"
+      ],
+      [
+        "Oda Nobukatsu"
+      ]
+    ]
+  },
+  {
+    "name": "FGO THE STAGE Solomon Release Campaign (US)",
+    "dates": [
+      "September 21 ~ October 12"
+    ],
+    "rateups": [
+      [
+        "Cú Chulainn (Caster)",
+        "Gilgamesh",
+        "Gilgamesh (Caster)",
+        "Lancelot (Saber)",
+        "Ozymandias"
+      ]
+    ]
+  },
+  {
+    "name": "Christmas 2021 Event Revival Pre-Release Campaign (US)",
+    "dates": [
+      "September 28 - October 11"
+    ],
+    "rateups": [
+      [
+        "Atalanta (Alter)",
+        "Jeanne d'Arc (Alter)",
+        "Orion",
+        "Robin Hood"
+      ]
+    ]
+  },
+  {
+    "name": "Christmas 2021 Event Revival (US)",
+    "dates": [
+      "October 6 ~ October 17"
+    ],
+    "rateups": [
+      [
+        "Astolfo",
+        "Astolfo (Saber)",
+        "Aśvatthāman",
+        "Bradamante",
+        "Darius III",
+        "Gaius Julius Caesar",
+        "Nightingale",
+        "Nursery Rhyme"
+      ]
+    ]
+  },
+  {
+    "name": "Halloween Campaign 2022 (US)",
+    "dates": [
+      "October 17 - October 30"
+    ],
+    "rateups": [
+      [
+        "Cleopatra",
+        "Darius III",
+        "Elizabeth Báthory",
+        "Ibaraki Dōji (Lancer)",
+        "Mephistopheles",
+        "Osakabehime"
+      ]
+    ]
+  },
+  {
+    "name": "Imaginary Scramble (US)",
+    "dates": [
+      "October 27 - November 9",
+      "October 27 - November 9",
+      "October 23 - November 6"
+    ],
+    "rateups": [
+      [
+        "Nemo",
+        "Van Gogh"
+      ],
+      [
+        "Abigail Williams",
+        "Mysterious Alter Ego Λ",
+        "Osakabehime (Archer)"
+      ],
+      [
+        "Frankenstein (Saber)",
+        "Minamoto no Raikō (Lancer)",
+        "Mysterious Heroine XX",
+        "Yang Guifei"
+      ]
+    ]
+  },
+  {
+    "name": "Heian-kyo Chapter Release (US)",
+    "dates": [
+      "November 21",
+      "November 9 ~ November 16"
+    ],
+    "rateups": [
+      [
+        "Ashiya Dōman",
+        "Watanabe no Tsuna"
+      ],
+      [
+        "Ibaraki Dōji",
+        "Katō Danzō",
+        "Minamoto no Raikō",
+        "Sakata Kintoki"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Thanksgiving Special 2022 (US)",
+    "dates": [
+      "November 24 - December 4"
+    ],
+    "rateups": [
+      [
+        ""The Old Man of the Mountain"",
+        "BB (Summer)",
+        "Beni-Enma",
+        "Ereshkigal",
+        "Nero Claudius (Caster)"
+      ]
+    ]
+  },
+  {
+    "name": "Heian-kyo Summoning Campaign 2 (US)",
+    "dates": [
+      "November 27th 20:00 - December 11th 19:59 PST"
+    ],
+    "rateups": [
+      [
+        "Charles Babbage",
+        "Ibuki Dōji",
+        "Medea (Lily)",
+        "Paracelsus von Hohenheim"
+      ]
+    ]
+  },
+  {
+    "name": "Interlude Campaign 15 (US)",
+    "dates": [
+      "December 1 ~ December 8"
+    ],
+    "rateups": [
+      [
+        "Astraea",
+        "Dioscuri",
+        "Li Shuwen"
+      ]
+    ]
+  },
+  {
+    "name": "19M Downloads Campaign (US)",
+    "dates": [
+      "December 5 - December 12"
+    ],
+    "rateups": [
+      [
+        "Murasaki Shikibu"
+      ]
+    ]
+  },
+  {
+    "name": "Christmas 2022 Event (US)",
+    "dates": [
+      "December 12 - December 25",
+      "December 12 - December 25"
+    ],
+    "rateups": [
+      [
+        "Beowulf",
+        "Martha (Ruler)",
+        "Vritra"
+      ],
+      [
+        "Arjuna",
+        "Karna",
+        "Parvati"
+      ]
+    ]
+  },
+  {
+    "name": "New Year 2023 Countdown Campaign (US)",
+    "dates": [
+      "December 27 - December 31"
+    ],
+    "rateups": [
+      [
+        "Iskandar",
+        "Katsushika Hokusai"
+      ]
+    ]
+  },
+  {
+    "name": "Happy New Year 2023 (US)",
+    "dates": [
+      "December 31 - January 10",
+      "December 31 - January 10"
+    ],
+    "rateups": [
+      [
+        "Senji Muramasa"
+      ],
+      [
+        "Abigail Williams",
+        "Artoria Pendragon (Rider Alter)",
+        "Illyasviel von Einzbern",
+        "Semiramis",
+        "Super Orion",
+        "Tamamo no Mae (Lancer)"
+      ]
+    ]
+  },
+  {
+    "name": "Saber Wars II Revival (US)",
+    "dates": [
+      "January 5 ~ January 18",
+      "January 5 ~ January 18"
+    ],
+    "rateups": [
+      [
+        "Calamity Jane",
+        "Space Ishtar"
+      ],
+      [
+        "Mysterious Heroine X",
+        "Yagyū Munenori"
+      ]
+    ]
+  },
+  {
+    "name": "Little Big Tengu (US)",
+    "dates": [
+      "January 20 ~ February 2"
+    ],
+    "rateups": [
+      [
+        "Cú Chulainn (Alter)",
+        "Queen Medb",
+        "Taira no Kagekiyo",
+        "Ushiwakamaru"
+      ]
+    ]
+  },
+  {
+    "name": "Grail Front Event ~Et Tu, Brute?~ (US)",
+    "dates": [
+      "February 6 ~ February 19"
+    ],
+    "rateups": [
+      [
+        "Altera",
+        "Astraea",
+        "Boudica",
+        "Gaius Julius Caesar",
+        "Nero Claudius",
+        "Romulus",
+        "Romulus-Quirinus"
+      ]
+    ]
+  },
+  {
+    "name": "Valentine 2023 Event (US)",
+    "dates": [
+      "February 13 ~ February 26"
+    ],
+    "rateups": [
+      [
+        "Altera",
+        "Amor (Caren)",
+        "Anastasia",
+        "Artoria Pendragon",
+        "Artoria Pendragon (Lancer)",
+        "Bradamante",
+        "Dioscuri",
+        "Europa",
+        "Francis Drake",
+        "Jack the Ripper",
+        "Jeanne d'Arc",
+        "Jinako Carigiri",
+        "Mordred",
+        "Nightingale",
+        "Orion",
+        "Osakabehime",
+        "Queen Medb",
+        "Quetzalcoatl",
+        "Scheherazade",
+        "Sitonai",
+        "Tamamo no Mae",
+        "Vritra",
+        "Xuanzang Sanzang"
+      ]
+    ]
+  },
+  {
+    "name": "Valentine 2022 Summoning Campaign Revival (US)",
+    "dates": [
+      "February 19 ~ March 5"
+    ],
+    "rateups": [
+      [
+        "Sei Shōnagon"
+      ]
+    ]
+  },
+  {
+    "name": "Spring has Sprung Campaign 2023 (US)",
+    "dates": [
+      "February 23 ~ March 2"
+    ],
+    "rateups": [
+      [
+        "Arthur Pendragon (Prototype)"
+      ]
+    ]
+  },
+  {
+    "name": "Chaldea Boys Collection 2023 (US)",
+    "dates": [
+      "March 3 ~ March 14"
+    ],
+    "rateups": [
+      [
+        "Achilles",
+        "Amakusa Shirō",
+        "Arjuna",
+        "Cú Chulainn (Alter)",
+        "Dioscuri",
+        "Enkidu",
+        "Jing Ke",
+        "Karna",
+        "Li Shuwen",
+        "Napoléon",
+        "Nemo",
+        "Nikola Tesla",
+        "Ozymandias",
+        "Vlad III",
+        "Watanabe no Tsuna",
+        "Xiang Yu",
+        "Zhuge Liang (Lord El-Melloi II)"
+      ]
+    ]
+  },
+  {
+    "name": "Chaldea Boys Collection 2023 Summoning Campaign 2 (US)",
+    "dates": [
+      "March 9 ~ March 23"
+    ],
+    "rateups": [
+      [
+        "Jing Ke",
+        "Voyager",
+        "Watanabe no Tsuna"
+      ]
+    ]
+  },
+  {
+    "name": "Class Based Summoning Campaign March 2023 (US)",
+    "dates": [
+      "March 12 ~ March 28",
+      "March 12 ~ March 28",
+      "March 12 ~ March 28"
+    ],
+    "rateups": [
+      [
+        "Altera",
+        "Arjuna",
+        "Artoria Pendragon",
+        "Artoria Pendragon (Alter)",
+        "Artoria Pendragon (Lancer Alter)",
+        "Artoria Pendragon (Lancer)",
+        "Atalanta",
+        "Aśvatthāman",
+        "Bedivere",
+        "Billy the Kid",
+        "Bradamante",
+        "Caenis",
+        "Chevalier d'Eon",
+        "Chiron",
+        "Cú Chulainn",
+        "Cú Chulainn (Prototype)",
+        "David",
+        "Diarmuid Ua Duibhne",
+        "Diarmuid Ua Duibhne (Saber)",
+        "Dioscuri",
+        "EMIYA",
+        "EMIYA (Alter)",
+        "Elizabeth Báthory",
+        "Enkidu",
+        "Euryale",
+        "Fergus mac Róich",
+        "Fionn mac Cumhaill",
+        "Gaius Julius Caesar",
+        "Gawain",
+        "Gilles de Rais (Saber)",
+        "Hector",
+        "Hōzōin Inshun",
+        "Jaguar Man",
+        "Karna",
+        "Kid Gil",
+        "Lakshmibai",
+        "Lancelot (Saber)",
+        "Lanling Wang",
+        "Li Shuwen (Lancer)",
+        "Medusa (Lancer)",
+        "Mordred",
+        "Napoléon",
+        "Nero Claudius",
+        "Nezha",
+        "Nikola Tesla",
+        "Orion",
+        "Parvati",
+        "Qin Liangyu",
+        "Rama",
+        "Robin Hood",
+        "Romulus",
+        "Siegfried",
+        "Suzuka Gozen",
+        "Tawara Tōta",
+        "Tomoe Gozen",
+        "Tristan",
+        "Valkyrie",
+        "Vlad III (EXTRA)",
+        "Vritra",
+        "Watanabe no Tsuna",
+        "William Tell",
+        "Yagyū Munenori"
+      ],
+      [
+        "Achilles",
+        "Alexander",
+        "Anastasia",
+        "Anne Bonny & Mary Read",
+        "Asclepius",
+        "Astolfo",
+        "Atalanta (Alter)",
+        "Avicebron",
+        "Beowulf",
+        "Boudica",
+        "Carmilla",
+        "Charles Babbage",
+        "Christopher Columbus",
+        "Circe",
+        "Consort Yu",
+        "Cú Chulainn (Alter)",
+        "Cú Chulainn (Caster)",
+        "Darius III",
+        "EMIYA (Assassin)",
+        "Europa",
+        "Francis Drake",
+        "Frankenstein",
+        "Fūma Kotarō",
+        "Geronimo",
+        "Gilgamesh (Caster)",
+        "Gilles de Rais",
+        "Hassan of the Hundred Faces",
+        "Hassan of the Serenity",
+        "Helena Blavatsky",
+        "Henry Jekyll & Hyde",
+        "Heracles",
+        "Ibaraki Dōji",
+        "Jack the Ripper",
+        "Jing Ke",
+        "Katō Danzō",
+        "Kiyohime",
+        "Lancelot",
+        "Li Shuwen",
+        "Lu Bu Fengxian",
+        "Mandricardo",
+        "Marie Antoinette",
+        "Martha",
+        "Medea",
+        "Medea (Lily)",
+        "Medusa",
+        "Mephistopheles",
+        "Mochizuki Chiyome",
+        "Nemo",
+        "Nightingale",
+        "Nitocris",
+        "Nursery Rhyme",
+        "Odysseus",
+        "Osakabehime",
+        "Ozymandias",
+        "Paracelsus von Hohenheim",
+        "Penthesilea",
+        "Queen Medb",
+        "Queen of Sheba",
+        "Quetzalcoatl",
+        "Red Hare",
+        "Scheherazade",
+        "Stheno",
+        "Tamamo Cat",
+        "Tamamo no Mae",
+        "Thomas Edison",
+        "Ushiwakamaru",
+        "Vlad III",
+        "Wu Zetian",
+        "Xiang Yu",
+        "Xuanzang Sanzang",
+        "Yan Qing",
+        "Zhuge Liang (Lord El-Melloi II)"
+      ],
+      [
+        "Antonio Salieri",
+        "Astraea",
+        "Gorgon",
+        "Hessian Lobo",
+        "Jeanne d'Arc",
+        "Jinako Carigiri",
+        "Sitonai"
+      ]
+    ]
+  },
+  {
+    "name": "Akihabara Explosion (US)",
+    "dates": [
+      "March 17 ~ March 30"
+    ],
+    "rateups": [
+      [
+        "Galatea",
+        "Nero Claudius (Bride)",
+        "Osakabehime"
+      ]
+    ]
+  },
+  {
+    "name": "Arc 1 & Arc 1.5 Memorial Summoning Campaign (US)",
+    "dates": [
+      "March 23 ~ March 30",
+      "March 23 ~ March 30"
+    ],
+    "rateups": [
+      [
+        "Artoria Pendragon (Alter)",
+        "Gorgon",
+        "Leonardo Da Vinci"
+      ],
+      [
+        "EMIYA (Alter)",
+        "Miyamoto Musashi",
+        "Queen of Sheba"
+      ]
+    ]
+  },
+  {
+    "name": "Spring Break Summoning Campaign (US)",
+    "dates": [
+      "March 30 ~ April 9"
+    ],
+    "rateups": [
+      [
+        "Hōzōin Inshun",
+        "Katsushika Hokusai",
+        "Mochizuki Chiyome",
+        "Tamamo no Mae"
+      ]
+    ]
+  },
+  {
+    "name": "Servant Rank Up Quests Part XIII (US)",
+    "dates": [
+      "April 5 ~ April 9"
+    ],
+    "rateups": [
+      [
+        "Artoria Pendragon (Lancer Alter)",
+        "James Moriarty",
+        "Quetzalcoatl",
+        "Rama",
+        "Vlad III",
+        "Yan Qing"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Waltz in the Moonlight Collaboration Event (US)",
+    "dates": [
+      "April 17 ~ April 30",
+      "April 17 ~ April 30",
+      "April 9 ~ April 23"
+    ],
+    "rateups": [
+      [
+        "Hassan of the Serenity",
+        "Miss Crane",
+        "Mysterious Heroine X (Alter)",
+        "Nitocris"
+      ],
+      [
+        "Altera",
+        "Nero Claudius",
+        "Queen Medb",
+        "Tamamo Cat",
+        "Ushiwakamaru"
+      ],
+      [
+        "Euryale",
+        "Helena Blavatsky",
+        "Jeanne d'Arc",
+        "Shuten Dōji"
+      ]
+    ]
+  },
+  {
+    "name": "My Super Camelot 2023 Pre-Release Campaign (US)",
+    "dates": [
+      "April 30 ~ May 28"
+    ],
+    "rateups": [
+      [
+        "Bedivere",
+        "Ozymandias",
+        "Xuanzang Sanzang"
+      ]
+    ]
+  },
+  {
+    "name": "Grail Front Event ~My Super Camelot 2023~ (US)",
+    "dates": [
+      "May 8 ~ May 21"
+    ],
+    "rateups": [
+      [
+        "Artoria Pendragon (Lancer)",
+        "Gawain",
+        "Lancelot (Saber)",
+        "Mordred",
+        "Tristan"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Summer 2022 Event Revival (US)",
+    "dates": [
+      "May 16 ~ June 5",
+      "May 16 ~ June 5",
+      "May 16 ~ June 5"
+    ],
+    "rateups": [
+      [
+        "Brynhildr (Berserker)",
+        "Illyasviel von Einzbern (Archer)",
+        "Sesshōin Kiara (Moon Cancer)"
+      ],
+      [
+        "EMIYA",
+        "Lanling Wang",
+        "Sigurd"
+      ],
+      [
+        "Abigail Williams (Summer)",
+        "Asagami Fujino",
+        "Murasaki Shikibu (Rider)",
+        "Tomoe Gozen (Saber)"
+      ]
+    ]
+  },
+  {
+    "name": "Arc 2 Chapter 5 Memorial Summoning Campaign (US)",
+    "dates": [
+      "May 28 ~ June 9"
+    ],
+    "rateups": [
+      [
+        "Chiron",
+        "Ibuki Dōji",
+        "Katō Danzō",
+        "Super Orion"
+      ]
+    ]
+  },
+  {
+    "name": "Avalon le Fae Part 1 Chapter Release (US)",
+    "dates": [
+      "June 6 ~ June 6",
+      "June 1 ~ June 29"
+    ],
+    "rateups": [
+      [
+        "Baobhan Sith",
+        "Barghest",
+        "Cú Chulainn (Caster)",
+        "Morgan"
+      ],
+      [
+        "Leonardo Da Vinci (Rider)"
+      ]
+    ]
+  },
+  {
+    "name": "Avalon le Fae Part 1 Summoning Campaign 2 (US)",
+    "dates": [
+      "June 12 ~ June 19"
+    ],
+    "rateups": [
+      [
+        "Artoria Caster"
+      ]
+    ]
+  },
+  {
+    "name": "Interlude Campaign 16 (US)",
+    "dates": [
+      "June 15 ~ June 22"
+    ],
+    "rateups": [
+      [
+        "Anastasia",
+        "Antonio Salieri",
+        "Caenis",
+        "Mandricardo"
+      ]
+    ]
+  },
+  {
+    "name": "Avalon le Fae Part 2 Chapter Release (US)",
+    "dates": [
+      "June 20 ~ June 20"
+    ],
+    "rateups": [
+      [
+        "Mélusine",
+        "Percival"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Festival 2023 ~6th Anniversary~ (US)",
+    "dates": [
+      "July 3 ~ July 16",
+      "June 28 ~ July 12"
+    ],
+    "rateups": [
+      [
+        "Caenis",
+        "Koyanskaya of Light",
+        "Qin Liangyu",
+        "Valkyrie"
+      ],
+      [
+        "Sherlock Holmes"
+      ]
+    ]
+  },
+  {
+    "name": "FGO 6th Anniversary Daily Summoning Campaign (US)",
+    "dates": [
+      "July 5 ~ July 13"
+    ],
+    "rateups": [
+      [
+        "Anastasia",
+        "Antonio Salieri",
+        "Asclepius",
+        "Atalanta (Alter)",
+        "Avicebron",
+        "Aśvatthāman",
+        "Consort Yu",
+        "Dioscuri",
+        "Europa",
+        "Jinako Carigiri",
+        "Lakshmibai",
+        "Lanling Wang",
+        "Li Shuwen",
+        "Mandricardo",
+        "Napoléon",
+        "Red Hare",
+        "Sitonai",
+        "William Tell",
+        "Xiang Yu"
+      ]
+    ]
+  },
+  {
+    "name": "Avalon le Fae Conclusion Campaign (US)",
+    "dates": [
+      "July 10 ~ August 6",
+      "July 10 ~ August 6",
+      "July 10 ~ August 6"
+    ],
+    "rateups": [
+      [
+        "Baobhan Sith",
+        "Barghest",
+        "Gawain",
+        "Oberon",
+        "Tristan"
+      ],
+      [
+        "Baobhan Sith",
+        "Barghest",
+        "Morgan"
+      ],
+      [
+        "Amor (Caren)",
+        "Gawain",
+        "Merlin",
+        "Queen Medb",
+        "Tristan"
+      ]
+    ]
+  },
+  {
+    "name": "Grand Nero Festival 2023 (US)",
+    "dates": [
+      "July 31 ~ August 13",
+      "July 31 ~ August 13"
+    ],
+    "rateups": [
+      [
+        "Astraea",
+        "Boudica",
+        "Brynhildr",
+        "Gaius Julius Caesar",
+        "Nero Claudius (Caster)",
+        "Romulus"
+      ],
+      [
+        "Beowulf",
+        "Charles Babbage",
+        "Gilgamesh (Caster)",
+        "Hector",
+        "Jeanne d'Arc (Alter)",
+        "Marie Antoinette",
+        "Minamoto no Raikō",
+        "Nursery Rhyme"
+      ]
+    ]
+  },
+  {
+    "name": "Melty Blood: Type Lumina Evo 2023 Celebration Campaign (US)",
+    "dates": [
+      "August 3 ~ August 10"
+    ],
+    "rateups": [
+      [
+        "Artoria Pendragon",
+        "Ushiwakamaru"
+      ]
+    ]
+  },
+  {
+    "name": "Back to School Campaign 2023 (US)",
+    "dates": [
+      "August 15 ~ October 31"
+    ],
+    "rateups": [
+      [
+        "Illyasviel von Einzbern",
+        "Illyasviel von Einzbern (Archer)",
+        "Miyu Edelfelt"
+      ]
+    ]
+  },
+  {
+    "name": "Revival Summer Servants Summoning Campaign (US)",
+    "dates": [
+      "August 24 ~ August 30"
+    ],
+    "rateups": [
+      [
+        "Artoria Pendragon (Archer)",
+        "Artoria Pendragon (Rider Alter)",
+        "Artoria Pendragon (Ruler)",
+        "BB (Summer)",
+        "Carmilla (Rider)",
+        "Helena Blavatsky (Archer)",
+        "Kiyohime (Lancer)",
+        "Marie Antoinette (Caster)",
+        "Martha (Ruler)",
+        "Minamoto no Raikō (Lancer)",
+        "Miyamoto Musashi (Berserker)",
+        "Mysterious Alter Ego Λ",
+        "Mysterious Heroine XX",
+        "Osakabehime (Archer)",
+        "Queen Medb (Saber)",
+        "Tamamo no Mae (Lancer)"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Summer 2023 Event (US)",
+    "dates": [
+      "August 31 ~ September 20",
+      "August 31 ~ September 20",
+      "August 31 ~ September 20",
+      "August 31 ~ September 20",
+      "August 22 ~ August 29"
+    ],
+    "rateups": [
+      [
+        "Anastasia & Viy",
+        "Charlotte Corday (Caster)",
+        "Okita Sōji (Saber Alter)"
+      ],
+      [
+        "Achilles",
+        "Mandricardo"
+      ],
+      [
+        "Caenis (Rider)",
+        "Kama (Avenger)",
+        "Sei Shōnagon (Berserker)"
+      ],
+      [
+        "Ashiya Dōman",
+        "Christopher Columbus"
+      ],
+      [
+        "Anne Bonny & Mary Read (Archer)",
+        "Calamity Jane",
+        "Francis Drake",
+        "Nemo"
+      ]
+    ]
+  },
+  {
+    "name": "Interlude Campaign 17 (US)",
+    "dates": [
+      "September 20 ~ September 27"
+    ],
+    "rateups": [
+      [
+        "Okita Sōji (Alter)",
+        "Van Gogh"
+      ]
+    ]
+  },
+  {
+    "name": "Fate/Samurai Remnant Release Campaign (US)",
+    "dates": [
+      "September 28 ~ October 4"
+    ],
+    "rateups": [
+      [
+        "Arjuna",
+        "Circe",
+        "Cú Chulainn",
+        "Li Shuwen",
+        "Miyamoto Musashi"
+      ]
+    ]
+  },
+  {
+    "name": "Halloween Trilogy Event (US)",
+    "dates": [
+      "September 29 ~ October 25"
+    ],
+    "rateups": [
+      [
+        "Carmilla",
+        "Cleopatra",
+        "Elizabeth Báthory",
+        "Gaius Julius Caesar",
+        "Ibaraki Dōji",
+        "Kiyohime",
+        "Nitocris",
+        "Osakabehime",
+        "Penthesilea",
+        "Robin Hood",
+        "Tamamo Cat",
+        "Vlad III",
+        "Vlad III (EXTRA)",
+        "Wu Zetian",
+        "Yan Qing"
+      ]
+    ]
+  },
+  {
+    "name": "Fate/Grand Carnival Recollection Campaign (US)",
+    "dates": [
+      "October 2 ~ October 13"
+    ],
+    "rateups": [
+      [
+        "Ereshkigal",
+        "Jeanne d'Arc",
+        "Nero Claudius",
+        "Sitonai"
+      ]
+    ]
+  },
+  {
+    "name": "Halloween 2023 Event (US)",
+    "dates": [
+      "October 11 ~ October 25",
+      "October 11 ~ October 25",
+      "October 11 ~ October 25"
+    ],
+    "rateups": [
+      [
+        "Jacques de Molay",
+        "Zenobia"
+      ],
+      [
+        "Bedivere",
+        "Chevalier d'Eon",
+        "Napoléon"
+      ],
+      [
+        "Li Shuwen",
+        "Mordred",
+        "Scheherazade"
+      ]
+    ]
+  },
+  {
+    "name": "GUDAGUDA Yamataikoku 2022 Revival (US)",
+    "dates": [
+      "October 26 ~ November 8",
+      "October 26 ~ November 8"
+    ],
+    "rateups": [
+      [
+        "Hijikata Toshizō",
+        "Himiko",
+        "Okita Sōji",
+        "Saitō Hajime"
+      ],
+      [
+        "Circe",
+        "Mysterious Heroine X",
+        "Space Ishtar"
+      ]
+    ]
+  },
+  {
+    "name": "Cozy up for Winter Campaign 2023 (US)",
+    "dates": [
+      "November 7th 2023 20:00 - November 21st 2023 19:59 PST"
+    ],
+    "rateups": [
+      [
+        "Ibuki Dōji",
+        "Sakata Kintoki",
+        "Watanabe no Tsuna"
+      ]
+    ]
+  },
+  {
+    "name": "GUDAGUDA Ryouma's Narrow Escape 2023 (US)",
+    "dates": [
+      "November 13th 2023 01:00 - November 26th 2023 19:59 PST",
+      "November 17th 2023 20:00 - December 1st 2023 19:59 PST"
+    ],
+    "rateups": [
+      [
+        "Izumo no Okuni",
+        "Mori Nagayoshi",
+        "Oda Nobunaga (Berserker)",
+        "Okada Izō"
+      ],
+      [
+        "Demon King Nobunaga",
+        "Mori Nagayoshi",
+        "Okada Izō",
+        "Okita J Sōji",
+        "Sakamoto Ryōma (Lancer)"
+      ]
+    ]
+  },
+  {
+    "name": "FGO Thanksgiving Special 2023 (US)",
+    "dates": [
+      "November 21st 2023 20:00 - December 6th 2023 19:59 PST"
+    ],
+    "rateups": [
+      [
+        "Abigail Williams",
+        "Amakusa Shirō",
+        "Astolfo",
+        "Astolfo (Saber)",
+        "Atalanta",
+        "Chiron",
+        "Frankenstein",
+        "Frankenstein (Saber)",
+        "Jeanne d'Arc (Archer)",
+        "Kama",
+        "Mordred (Rider)",
+        "Semiramis",
+        "Sesshōin Kiara",
+        "Siegfried"
+      ]
+    ]
+  },
+  {
+    "name": "Interlude Campaign 18 (US)",
+    "dates": [
+      "November 26th 2023 20:00 - December 10th 2023 19:59 PST"
+    ],
+    "rateups": [
+      [
+        "Galatea",
+        "Katsushika Hokusai"
+      ]
+    ]
+  },
+  {
+    "name": "Christmas 2023 Event (US)",
+    "dates": [
+      "December 7th 2023 00:00 - December 20th 2023 19:59 PST"
+    ],
+    "rateups": [
+      [
+        "Beni-Enma",
+        "EMIYA",
+        "Martha",
+        "Scáthach-Skaði"
+      ]
+    ]
+  },
+  {
+    "name": "Story Clear Support Campaign Part 4 (US)",
+    "dates": [
+      "December 13th 2023 20:00 - December 21st 2023 19:59 PST",
+      "December 17th 2023 20:00 - December 31st 2023 19:59 PST"
+    ],
+    "rateups": [
+      [
+        "Baobhan Sith",
+        "Barghest",
+        "Leonardo Da Vinci (Rider)"
+      ],
+      [
+        "Lancelot (Saber)",
+        "Mélusine",
+        "Percival"
+      ]
+    ]
+  }
+]
