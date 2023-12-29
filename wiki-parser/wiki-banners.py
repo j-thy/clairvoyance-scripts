@@ -203,20 +203,10 @@ EXCLUDE_PAGES = (
 # TODO: Fate/Grand Order ～7th Anniversary～ -> Fate/Grand Order ～7th Anniversary～ Countdown Campaign
 # TODO: Avalon le Fae Chapter Release -> Avalon le Fae Lostbelt Pre-Release Campaign
 # TODO: Slapstick Museum -> Chaldea Boys Collection 2021
-# TODO: Olympus Summoning Campaign 2 -> Olympus Chapter Release
-# TODO: Yuga Kshetra Summoning Campaign 2 -> Yuga Kshetra Chapter Release
 # TODO: Yuga Kshetra Pre-Release Campaign -> Yuga Kshetra Chapter Release
 # TODO: The Antiquated Spider Nostalgically Spins Its Thread -> Chaldea Boys Collection 2019
 # TODO: WinFes 2018/19 Commemoration Summoning Campaign 2 -> WinFes 2018/19 Commemoration Campaign: Osaka
-# TODO: S I N Summoning Campaign 2 -> S I N Chapter Release
 # TODO: Götterdämmerung Lostbelt Pre-Release Campaign -> Götterdämmerung Chapter Release
-# TODO: Anastasia Summoning Campaign 2 -> Anastasia Chapter Release
-# TODO: Salem Summoning Campaign 2 -> Salem Chapter Release
-# TODO: Shimosa Summoning Campaign 2 -> Shimosa Chapter Release
-# TODO: Agartha Summoning Campaign 2 -> Agartha Chapter Release
-# TODO: Shinjuku Summoning Campaign 2 -> Shinjuku Chapter Release
-# TODO: Babylonia Summoning Campaign 2 -> Babylonia Chapter Release
-# TODO: Camelot Summoning Campaign 2 -> Camelot Chapter Release
 # TODO: Fate/Accel Zero Order (Pre-Event) -> Fate/Accel Zero Order Event
 
 # TODO: Correct:
@@ -629,7 +619,20 @@ def parse(banner_dict, page, event_date, parent=None):
 
             i += 1
 
-    if parent:
+        # Save the date of page creation with the summoning campaign.
+    chapter_release_title = f'{title.split("Summoning Campaign")[0].strip()} Chapter Release'
+    if chapter_release_title in banner_dict:
+        for rateup in banners:
+            src_index = banners.index(rateup)
+            if rateup in banner_dict[chapter_release_title][1]:
+                dest_index = banner_dict[chapter_release_title][1].index(rateup)
+                banner_dict[chapter_release_title][0][dest_index] = dates[src_index]
+                banner_dict[chapter_release_title][2][dest_index] = rateup_titles[src_index]
+            else:
+                banner_dict[chapter_release_title][0].append(dates[src_index])
+                banner_dict[chapter_release_title][1].append(rateup)
+                banner_dict[chapter_release_title][2].append(rateup_titles[src_index])
+    elif parent:
         try:
             banner_dict[parent][0].extend(dates)
             banner_dict[parent][1].extend(banners)

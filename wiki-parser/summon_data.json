@@ -384,10 +384,14 @@
   {
     "name": "E Pluribus Unum Chapter Release",
     "rateup_names": [
-      "E Pluribus Unum Chapter Release"
+      "E Pluribus Unum Chapter Release",
+      "E Pluribus Unum Summoning Campaign 2",
+      "E Pluribus Unum Summoning Campaign 3"
     ],
     "dates": [
-      "3/30/2016-3/30/2016"
+      "3/30/2016-3/30/2016",
+      "5/11/2016-5/18/2016",
+      "5/18/2016-5/25/2016"
     ],
     "rateups": [
       [
@@ -396,6 +400,13 @@
         "Helena Blavatsky",
         "Nightingale",
         "Rama"
+      ],
+      [
+        "Queen Medb"
+      ],
+      [
+        "C\u00fa Chulainn (Alter)",
+        "Thomas Edison"
       ]
     ]
   },
@@ -445,35 +456,6 @@
         "Hassan of the Hundred Faces",
         "Iskandar",
         "Zhuge Liang (Lord El-Melloi II)"
-      ]
-    ]
-  },
-  {
-    "name": "E Pluribus Unum Summoning Campaign 2",
-    "rateup_names": [
-      "E Pluribus Unum Summoning Campaign 2"
-    ],
-    "dates": [
-      "5/11/2016-5/18/2016"
-    ],
-    "rateups": [
-      [
-        "Queen Medb"
-      ]
-    ]
-  },
-  {
-    "name": "E Pluribus Unum Summoning Campaign 3",
-    "rateup_names": [
-      "E Pluribus Unum Summoning Campaign 3"
-    ],
-    "dates": [
-      "5/18/2016-5/25/2016"
-    ],
-    "rateups": [
-      [
-        "C\u00fa Chulainn (Alter)",
-        "Thomas Edison"
       ]
     ]
   },
@@ -557,10 +539,12 @@
   {
     "name": "Camelot Chapter Release",
     "rateup_names": [
-      "Camelot Chapter Release"
+      "Camelot Chapter Release",
+      "Camelot Summoning Campaign 2"
     ],
     "dates": [
-      "7/25/2016-7/25/2016"
+      "7/25/2016-7/25/2016",
+      "8/31/2016-9/7/2016"
     ],
     "rateups": [
       [
@@ -569,6 +553,11 @@
         "Nitocris",
         "Ozymandias",
         "Tawara T\u014dta"
+      ],
+      [
+        "Artoria Pendragon (Lancer)",
+        "Gawain",
+        "Tristan"
       ]
     ]
   },
@@ -649,22 +638,6 @@
         "Artoria Pendragon (Archer)",
         "Marie Antoinette (Caster)",
         "Martha (Ruler)"
-      ]
-    ]
-  },
-  {
-    "name": "Camelot Summoning Campaign 2",
-    "rateup_names": [
-      "Camelot Summoning Campaign 2"
-    ],
-    "dates": [
-      "8/31/2016-9/7/2016"
-    ],
-    "rateups": [
-      [
-        "Artoria Pendragon (Lancer)",
-        "Gawain",
-        "Tristan"
       ]
     ]
   },
@@ -963,28 +936,19 @@
   {
     "name": "Babylonia Chapter Release",
     "rateup_names": [
-      "Babylonia Chapter Release"
+      "Babylonia Chapter Release",
+      "Babylonia Summoning Campaign 2"
     ],
     "dates": [
-      "12/7/2016-12/21/2016"
+      "12/7/2016-12/21/2016",
+      "12/14/2016-12/31/2016"
     ],
     "rateups": [
       [
         "Enkidu",
         "Gilgamesh (Caster)",
         "Medusa (Lancer)"
-      ]
-    ]
-  },
-  {
-    "name": "Babylonia Summoning Campaign 2",
-    "rateup_names": [
-      "Babylonia Summoning Campaign 2"
-    ],
-    "dates": [
-      "12/14/2016-12/31/2016"
-    ],
-    "rateups": [
+      ],
       [
         "Gorgon",
         "Jaguar Man",
@@ -1134,28 +1098,19 @@
   {
     "name": "Shinjuku Chapter Release",
     "rateup_names": [
-      "Shinjuku Summoning Campaign"
+      "Shinjuku Summoning Campaign",
+      "Shinjuku Summoning Campaign 2"
     ],
     "dates": [
-      "2/24/2017-3/8/2017"
+      "2/24/2017-3/8/2017",
+      "3/1/2017-3/8/2017"
     ],
     "rateups": [
       [
         "Hessian Lobo",
         "James Moriarty",
         "Yan Qing"
-      ]
-    ]
-  },
-  {
-    "name": "Shinjuku Summoning Campaign 2",
-    "rateup_names": [
-      "Shinjuku Summoning Campaign 2"
-    ],
-    "dates": [
-      "3/1/2017-3/8/2017"
-    ],
-    "rateups": [
+      ],
       [
         "Artoria Pendragon (Alter)",
         "EMIYA (Alter)"
@@ -1451,28 +1406,19 @@
   {
     "name": "Agartha Chapter Release",
     "rateup_names": [
-      "Agartha Chapter Release"
+      "Agartha Chapter Release",
+      "Agartha Summoning Campaign 2"
     ],
     "dates": [
-      "6/29/2017-7/12/2017"
+      "6/29/2017-7/12/2017",
+      "7/5/2017-7/19/2017"
     ],
     "rateups": [
       [
         "Penthesilea",
         "Scheherazade",
         "Wu Zetian"
-      ]
-    ]
-  },
-  {
-    "name": "Agartha Summoning Campaign 2",
-    "rateup_names": [
-      "Agartha Summoning Campaign 2"
-    ],
-    "dates": [
-      "7/5/2017-7/19/2017"
-    ],
-    "rateups": [
+      ],
       [
         "Chevalier d'Eon",
         "Francis Drake",
@@ -1814,10 +1760,12 @@
   {
     "name": "Shimosa Chapter Release",
     "rateup_names": [
-      "Shimosa Chapter Release"
+      "Shimosa Chapter Release",
+      "Shimosa Summoning Campaign 2"
     ],
     "dates": [
-      "10/14/2017-10/14/2017"
+      "10/14/2017-10/14/2017",
+      "10/20/2017-11/1/2017"
     ],
     "rateups": [
       [
@@ -1825,18 +1773,7 @@
         "Miyamoto Musashi",
         "Mochizuki Chiyome",
         "Tomoe Gozen"
-      ]
-    ]
-  },
-  {
-    "name": "Shimosa Summoning Campaign 2",
-    "rateup_names": [
-      "Shimosa Summoning Campaign 2"
-    ],
-    "dates": [
-      "10/20/2017-11/1/2017"
-    ],
-    "rateups": [
+      ],
       [
         "F\u016bma Kotar\u014d",
         "Kat\u014d Danz\u014d",
@@ -1941,27 +1878,18 @@
   {
     "name": "Salem Chapter Release",
     "rateup_names": [
-      "Salem Chapter Release Summoning Campaign"
+      "Salem Chapter Release Summoning Campaign",
+      "Salem Summoning Campaign 2"
     ],
     "dates": [
-      "11/29/2017-12/13/2017"
+      "11/29/2017-12/13/2017",
+      "12/6/2017-12/20/2017"
     ],
     "rateups": [
       [
         "Circe",
         "Nezha"
-      ]
-    ]
-  },
-  {
-    "name": "Salem Summoning Campaign 2",
-    "rateup_names": [
-      "Salem Summoning Campaign 2"
-    ],
-    "dates": [
-      "12/6/2017-12/20/2017"
-    ],
-    "rateups": [
+      ],
       [
         "Abigail Williams",
         "Queen of Sheba"
@@ -2346,28 +2274,19 @@
   {
     "name": "Anastasia Chapter Release",
     "rateup_names": [
-      "Anastasia Chapter Release Summoning Campaign"
+      "Anastasia Chapter Release Summoning Campaign",
+      "Anastasia Summoning Campaign 2"
     ],
     "dates": [
-      "4/4/2018-4/18/2018"
+      "4/4/2018-4/18/2018",
+      "4/11/2018-4/25/2018"
     ],
     "rateups": [
       [
         "Anastasia",
         "Atalanta (Alter)",
         "Avicebron"
-      ]
-    ]
-  },
-  {
-    "name": "Anastasia Summoning Campaign 2",
-    "rateup_names": [
-      "Anastasia Summoning Campaign 2"
-    ],
-    "dates": [
-      "4/11/2018-4/25/2018"
-    ],
-    "rateups": [
+      ],
       [
         "Antonio Salieri",
         "Ivan the Terrible"
@@ -2917,10 +2836,12 @@
   {
     "name": "S I N Chapter Release",
     "rateup_names": [
-      "S I N Chapter Release Summoning Campaign"
+      "S I N Chapter Release Summoning Campaign",
+      "S I N Summoning Campaign 2"
     ],
     "dates": [
-      "11/27/2018-12/11/2018"
+      "11/27/2018-12/11/2018",
+      "12/4/2018-12/18/2018"
     ],
     "rateups": [
       [
@@ -2928,18 +2849,7 @@
         "Lanling Wang",
         "Qin Liangyu",
         "Xiang Yu"
-      ]
-    ]
-  },
-  {
-    "name": "S I N Summoning Campaign 2",
-    "rateup_names": [
-      "S I N Summoning Campaign 2"
-    ],
-    "dates": [
-      "12/4/2018-12/18/2018"
-    ],
-    "rateups": [
+      ],
       [
         "Consort Yu",
         "Red Hare",
@@ -3492,28 +3402,19 @@
   {
     "name": "Yuga Kshetra Chapter Release",
     "rateup_names": [
-      "Yuga Kshetra Chapter Release Summoning Campaign"
+      "Yuga Kshetra Chapter Release Summoning Campaign",
+      "Yuga Kshetra Summoning Campaign 2"
     ],
     "dates": [
-      "6/15/2019-6/29/2019"
+      "6/15/2019-6/29/2019",
+      "6/22/2019-7/6/2019"
     ],
     "rateups": [
       [
         "Jinako Carigiri",
         "Lakshmibai",
         "William Tell"
-      ]
-    ]
-  },
-  {
-    "name": "Yuga Kshetra Summoning Campaign 2",
-    "rateup_names": [
-      "Yuga Kshetra Summoning Campaign 2"
-    ],
-    "dates": [
-      "6/22/2019-7/6/2019"
-    ],
-    "rateups": [
+      ],
       [
         "Arjuna (Alter)",
         "Asclepius",
@@ -4247,27 +4148,18 @@
   {
     "name": "Olympus Chapter Release",
     "rateup_names": [
-      "Olympus Chapter Release Summoning Campaign"
+      "Olympus Chapter Release Summoning Campaign",
+      "Olympus Summoning Campaign 2"
     ],
     "dates": [
-      "4/9/2020-4/23/2020"
+      "4/9/2020-4/23/2020",
+      "4/16/2020-4/30/2020"
     ],
     "rateups": [
       [
         "Caenis",
         "Dioscuri"
-      ]
-    ]
-  },
-  {
-    "name": "Olympus Summoning Campaign 2",
-    "rateup_names": [
-      "Olympus Summoning Campaign 2"
-    ],
-    "dates": [
-      "4/16/2020-4/30/2020"
-    ],
-    "rateups": [
+      ],
       [
         "Romulus-Quirinus"
       ]
