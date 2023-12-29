@@ -400,7 +400,7 @@ def date_parser(start_date, end_date, year):
         end_month = start_month
         end_day = start_day
 
-    return f'{start_month}/{start_day}/{year}-{end_month}/{end_day}' if end_month >= start_month \
+    return f'{start_month}/{start_day}/{year}-{end_month}/{end_day}/{year}' if end_month >= start_month \
         else f'{start_month}/{start_day}/{year}-{end_month}/{end_day}/{year+1}'
 
 # Parse a wiki page
@@ -624,7 +624,8 @@ def parse(banner_dict, page, event_date, parent=None):
                 pass
 
             if match[2]:
-                dates[i] = match[2]
+                date_split = match[2].split("~")
+                dates[i] = date_parser(date_split[0], date_split[1], CURRENT_YEAR)
 
             i += 1
 
