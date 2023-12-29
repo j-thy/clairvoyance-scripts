@@ -5,12 +5,12 @@
       "3M Downloads Pick Up"
     ],
     "dates": [
-      "8/31-9/9"
+      "8/31/2015-9/9"
     ],
     "rateups": [
       [
         "Atalanta",
-        "Cú Chulainn (Prototype)",
+        "C\u00fa Chulainn (Prototype)",
         "Gilgamesh",
         "Lancelot",
         "Medea"
@@ -23,12 +23,12 @@
       "Fate/Stay Night Campaign"
     ],
     "dates": [
-      "9/9-9/16"
+      "9/9/2015-9/16"
     ],
     "rateups": [
       [
         "Artoria Pendragon",
-        "Cú Chulainn",
+        "C\u00fa Chulainn",
         "EMIYA",
         "Heracles",
         "Medea",
@@ -42,7 +42,7 @@
       "Nero Festival Pick Up"
     ],
     "dates": [
-      "9/16-9/25"
+      "9/16/2015-9/25"
     ],
     "rateups": [
       [
@@ -59,7 +59,7 @@
       "Moon Goddess Event Summoning Campaign"
     ],
     "dates": [
-      "9/25-10/2"
+      "9/25/2015-10/2"
     ],
     "rateups": [
       [
@@ -77,7 +77,7 @@
       "4M Downloads Campaign"
     ],
     "dates": [
-      "9/30-10/16"
+      "9/30/2015-10/16"
     ],
     "rateups": [
       [
@@ -95,7 +95,7 @@
       "Orleans Campaign"
     ],
     "dates": [
-      "10/14-10/21"
+      "10/14/2015-10/21"
     ],
     "rateups": [
       [
@@ -113,7 +113,7 @@
       "Halloween 2015 Event Summoning Campaign"
     ],
     "dates": [
-      "10/21-11/5"
+      "10/21/2015-11/5"
     ],
     "rateups": [
       [
@@ -131,7 +131,7 @@
       "Okeanos Summoning Campaign"
     ],
     "dates": [
-      "11/5-11/18"
+      "11/5/2015-11/18"
     ],
     "rateups": [
       [
@@ -149,12 +149,12 @@
       "Da Vinci-chan's Choice 2015"
     ],
     "dates": [
-      "11/18-11/25"
+      "11/18/2015-11/25"
     ],
     "rateups": [
       [
         "Alexander",
-        "Cú Chulainn (Prototype)",
+        "C\u00fa Chulainn (Prototype)",
         "Lancelot",
         "Siegfried",
         "Zhuge Liang (Lord El-Melloi II)"
@@ -167,32 +167,32 @@
       "GUDAGUDA Honnouji Event Summoning Campaign"
     ],
     "dates": [
-      "11/25-12/11"
+      "11/25/2015-12/11"
     ],
     "rateups": [
       [
-        "Cú Chulainn",
+        "C\u00fa Chulainn",
         "EMIYA",
         "Medusa",
         "Mephistopheles",
-        "Okita Sōji"
+        "Okita S\u014dji"
       ]
     ]
   },
   {
-    "name": "Scáthach Campaign",
+    "name": "Sc\u00e1thach Campaign",
     "rateup_names": [
-      "Scáthach Campaign"
+      "Sc\u00e1thach Campaign"
     ],
     "dates": [
-      "12/9-12/16"
+      "12/9/2015-12/16"
     ],
     "rateups": [
       [
         "Diarmuid Ua Duibhne",
-        "Fergus mac Róich",
+        "Fergus mac R\u00f3ich",
         "Medea (Lily)",
-        "Scáthach"
+        "Sc\u00e1thach"
       ]
     ]
   },
@@ -202,7 +202,7 @@
       "Christmas 2015 |-|Summoning Campaign"
     ],
     "dates": [
-      "12/16-12/25"
+      "12/16/2015-12/25"
     ],
     "rateups": [
       [
@@ -220,7 +220,7 @@
       "London Summoning Campaign"
     ],
     "dates": [
-      "12/5-1/13"
+      "12/5/2015-1/13/2016"
     ],
     "rateups": [
       [
@@ -238,7 +238,7 @@
       "New Year Campaign 2016"
     ],
     "dates": [
-      "1/1-1/13"
+      "1/1/2016-1/13"
     ],
     "rateups": [
       [
@@ -246,7 +246,7 @@
         "Gilgamesh",
         "Karna",
         "Sakata Kintoki",
-        "Scáthach"
+        "Sc\u00e1thach"
       ]
     ]
   },
@@ -256,7 +256,7 @@
       "London Campaign 2"
     ],
     "dates": [
-      "1/13-1/20"
+      "1/13/2016-1/20"
     ],
     "rateups": [
       [
@@ -271,7 +271,7 @@
       "Saber Wars Event"
     ],
     "dates": [
-      "1/20-2/3"
+      "1/20/2016-2/3"
     ],
     "rateups": [
       [
@@ -287,7 +287,7 @@
       "5M Downloads Campaign"
     ],
     "dates": [
-      "2/3-2/10"
+      "2/3/2016-2/10"
     ],
     "rateups": [
       [
@@ -303,7 +303,7 @@
       "Valentine 2016 Event Summoning Campaign"
     ],
     "dates": [
-      "2/10-2/19"
+      "2/10/2016-2/19"
     ],
     "rateups": [
       [
@@ -325,11 +325,11 @@
       "Kara no Kyoukai Collaboration Event Summoning Campaign"
     ],
     "dates": [
-      "2/25-3/9"
+      "2/25/2016-3/9"
     ],
     "rateups": [
       [
-        "Ryōgi Shiki (Saber)"
+        "Ry\u014dgi Shiki (Saber)"
       ]
     ]
   },
@@ -339,11 +339,11 @@
       "Chaldea Boys Collection 2016 Summoning Campaign"
     ],
     "dates": [
-      "3/9-3/16"
+      "3/9/2016-3/16"
     ],
     "rateups": [
       [
-        "Amakusa Shirō",
+        "Amakusa Shir\u014d",
         "Astolfo",
         "Kid Gil",
         "Nikola Tesla",
@@ -358,11 +358,11 @@
       "Cries of The Vengeful Demon in the Prison Tower"
     ],
     "dates": [
-      "3/16-3/23"
+      "3/16/2016-3/23"
     ],
     "rateups": [
       [
-        "Edmond Dantès"
+        "Edmond Dant\u00e8s"
       ]
     ]
   },
@@ -372,7 +372,7 @@
       "AnimeJapan 2016 Exhibition Commemoration Campaign"
     ],
     "dates": [
-      "3/26-3/28"
+      "3/26/2016-3/28"
     ],
     "rateups": [
       [
@@ -387,7 +387,7 @@
       "E Pluribus Unum Chapter Release"
     ],
     "dates": [
-      "3/30-3/30"
+      "3/30/2016-3/30"
     ],
     "rateups": [
       [
@@ -405,7 +405,7 @@
       "Da Vinci and The 7 Counterfeit Heroic Spirits Summoning Campaign"
     ],
     "dates": [
-      "4/11-4/21"
+      "4/11/2016-4/21"
     ],
     "rateups": [
       [
@@ -419,7 +419,7 @@
       "Fate/Accel Zero Order (Pre-Event)"
     ],
     "dates": [
-      "4/21-4/27"
+      "4/21/2016-4/27"
     ],
     "rateups": [
       [
@@ -437,7 +437,7 @@
       "Fate/Accel Zero Order Event"
     ],
     "dates": [
-      "4/27-5/18"
+      "4/27/2016-5/18"
     ],
     "rateups": [
       [
@@ -454,7 +454,7 @@
       "E Pluribus Unum Summoning Campaign 2"
     ],
     "dates": [
-      "5/11-5/18"
+      "5/11/2016-5/18"
     ],
     "rateups": [
       [
@@ -468,11 +468,11 @@
       "E Pluribus Unum Summoning Campaign 3"
     ],
     "dates": [
-      "5/18-5/25"
+      "5/18/2016-5/25"
     ],
     "rateups": [
       [
-        "Cú Chulainn (Alter)",
+        "C\u00fa Chulainn (Alter)",
         "Thomas Edison"
       ]
     ]
@@ -483,7 +483,7 @@
       "Kintoki Summoning Campaign"
     ],
     "dates": [
-      "5/25-6/1"
+      "5/25/2016-6/1"
     ],
     "rateups": [
       [
@@ -497,11 +497,11 @@
       "Rashomon Event Summoning Campaign"
     ],
     "dates": [
-      "5/31-6/15"
+      "5/31/2016-6/15"
     ],
     "rateups": [
       [
-        "Shuten Dōji"
+        "Shuten D\u014dji"
       ]
     ]
   },
@@ -511,7 +511,7 @@
       "Journey to The West"
     ],
     "dates": [
-      "6/15-6/29"
+      "6/15/2016-6/29"
     ],
     "rateups": [
       [
@@ -528,11 +528,11 @@
       "6M Downloads Campaign"
     ],
     "dates": [
-      "6/29-7/6"
+      "6/29/2016-7/6"
     ],
     "rateups": [
       [
-        "Scáthach"
+        "Sc\u00e1thach"
       ]
     ]
   },
@@ -542,14 +542,14 @@
       "Onigashima Event"
     ],
     "dates": [
-      "7/11-7/25"
+      "7/11/2016-7/25"
     ],
     "rateups": [
       [
-        "Fūma Kotarō",
-        "Ibaraki Dōji",
+        "F\u016bma Kotar\u014d",
+        "Ibaraki D\u014dji",
         "Kiyohime",
-        "Minamoto no Raikō",
+        "Minamoto no Raik\u014d",
         "Ushiwakamaru"
       ]
     ]
@@ -560,7 +560,7 @@
       "Camelot Chapter Release"
     ],
     "dates": [
-      "7/25-7/25"
+      "7/25/2016-7/25"
     ],
     "rateups": [
       [
@@ -568,7 +568,7 @@
         "Lancelot (Saber)",
         "Nitocris",
         "Ozymandias",
-        "Tawara Tōta"
+        "Tawara T\u014dta"
       ]
     ]
   },
@@ -578,7 +578,7 @@
       "FGO Summer Festival 2016 ~1st Anniversary~"
     ],
     "dates": [
-      "7/30-8/7"
+      "7/30/2016-8/7"
     ],
     "rateups": [
       [
@@ -591,9 +591,9 @@
         "Boudica",
         "Charles Babbage",
         "Chevalier d'Eon",
-        "Cú Chulainn",
-        "Cú Chulainn (Alter)",
-        "Cú Chulainn (Caster)",
+        "C\u00fa Chulainn",
+        "C\u00fa Chulainn (Alter)",
+        "C\u00fa Chulainn (Caster)",
         "David",
         "EMIYA",
         "Euryale",
@@ -635,8 +635,8 @@
       "FGO 2016 Summer Event/Part II Event Details Summer Event 2016 Summoning Campaign Part II"
     ],
     "dates": [
-      "8/11-8/31",
-      "8/11-8/31"
+      "8/11/2016-8/31",
+      "8/11/2016-8/31"
     ],
     "rateups": [
       [
@@ -658,7 +658,7 @@
       "Camelot Summoning Campaign 2"
     ],
     "dates": [
-      "8/31-9/7"
+      "8/31/2016-9/7"
     ],
     "rateups": [
       [
@@ -674,7 +674,7 @@
       "Prisma Causeway Event Summoning Campaign"
     ],
     "dates": [
-      "9/8-9/21"
+      "9/8/2016-9/21"
     ],
     "rateups": [
       [
@@ -692,7 +692,7 @@
       "Class-Specified Summoning Campaign"
     ],
     "dates": [
-      "9/21-9/28"
+      "9/21/2016-9/28"
     ],
     "rateups": [
       [
@@ -712,22 +712,22 @@
         "Carmilla",
         "Charles Babbage",
         "Chevalier d'Eon",
-        "Cú Chulainn",
-        "Cú Chulainn (Alter)",
-        "Cú Chulainn (Caster)",
-        "Cú Chulainn (Prototype)",
+        "C\u00fa Chulainn",
+        "C\u00fa Chulainn (Alter)",
+        "C\u00fa Chulainn (Caster)",
+        "C\u00fa Chulainn (Prototype)",
         "Darius III",
         "David",
         "Diarmuid Ua Duibhne",
         "EMIYA",
         "EMIYA (Assassin)",
-        "Elizabeth Báthory",
+        "Elizabeth B\u00e1thory",
         "Euryale",
-        "Fergus mac Róich",
+        "Fergus mac R\u00f3ich",
         "Fionn mac Cumhaill",
         "Francis Drake",
         "Frankenstein",
-        "Fūma Kotarō",
+        "F\u016bma Kotar\u014d",
         "Gaius Julius Caesar",
         "Gawain",
         "Geronimo",
@@ -739,7 +739,7 @@
         "Helena Blavatsky",
         "Henry Jekyll & Hyde",
         "Heracles",
-        "Ibaraki Dōji",
+        "Ibaraki D\u014dji",
         "Jack the Ripper",
         "Jeanne d'Arc",
         "Jing Ke",
@@ -773,7 +773,7 @@
         "Stheno",
         "Tamamo Cat",
         "Tamamo no Mae",
-        "Tawara Tōta",
+        "Tawara T\u014dta",
         "Thomas Edison",
         "Tristan",
         "Ushiwakamaru",
@@ -789,7 +789,7 @@
       "Nero Festival Redux ~2016 Autumn~ Summoning Campaign"
     ],
     "dates": [
-      "9/28-10/10"
+      "9/28/2016-10/10"
     ],
     "rateups": [
       [
@@ -807,7 +807,7 @@
       "7M Downloads Campaign"
     ],
     "dates": [
-      "10/5-10/12"
+      "10/5/2016-10/12"
     ],
     "rateups": [
       [
@@ -821,7 +821,7 @@
       "Halloween 2015 Event Re-Run Lite Ver Summoning Campaign"
     ],
     "dates": [
-      "10/12-10/26"
+      "10/12/2016-10/26"
     ],
     "rateups": [
       [
@@ -839,7 +839,7 @@
       "Halloween 2016 Event Summoning Campaign"
     ],
     "dates": [
-      "10/19-11/2"
+      "10/19/2016-11/2"
     ],
     "rateups": [
       [
@@ -854,15 +854,15 @@
       "Fate/EXTELLA Release Commemoration Campaign"
     ],
     "dates": [
-      "11/3-11/9"
+      "11/3/2016-11/9"
     ],
     "rateups": [
       [
         "Altera",
         "Artoria Pendragon",
-        "Cú Chulainn",
+        "C\u00fa Chulainn",
         "EMIYA",
-        "Elizabeth Báthory",
+        "Elizabeth B\u00e1thory",
         "Francis Drake",
         "Gawain",
         "Jeanne d'Arc",
@@ -884,7 +884,7 @@
       "Round Table Knights Summoning Campaign"
     ],
     "dates": [
-      "11/9-11/16"
+      "11/9/2016-11/16"
     ],
     "rateups": [
       [
@@ -906,7 +906,7 @@
       "Christmas 2015 Re-Run Summoning Campaign"
     ],
     "dates": [
-      "11/16-11/22"
+      "11/16/2016-11/22"
     ],
     "rateups": [
       [
@@ -919,16 +919,16 @@
     ]
   },
   {
-    "name": "Amakusa Shirō Summoning Campaign",
+    "name": "Amakusa Shir\u014d Summoning Campaign",
     "rateup_names": [
-      "Amakusa Shirō Summoning Campaign"
+      "Amakusa Shir\u014d Summoning Campaign"
     ],
     "dates": [
-      "11/22-11/30"
+      "11/22/2016-11/30"
     ],
     "rateups": [
       [
-        "Amakusa Shirō"
+        "Amakusa Shir\u014d"
       ]
     ]
   },
@@ -938,7 +938,7 @@
       "Christmas 2016 Summoning Campaign"
     ],
     "dates": [
-      "11/28-12/7"
+      "11/28/2016-12/7"
     ],
     "rateups": [
       [
@@ -952,7 +952,7 @@
       "Altera Summoning Campaign"
     ],
     "dates": [
-      "11/30-12/7"
+      "11/30/2016-12/7"
     ],
     "rateups": [
       [
@@ -966,7 +966,7 @@
       "Babylonia Chapter Release"
     ],
     "dates": [
-      "12/7-12/21"
+      "12/7/2016-12/21"
     ],
     "rateups": [
       [
@@ -982,7 +982,7 @@
       "Babylonia Summoning Campaign 2"
     ],
     "dates": [
-      "12/14-12/31"
+      "12/14/2016-12/31"
     ],
     "rateups": [
       [
@@ -998,7 +998,7 @@
       "Solomon Chapter Release"
     ],
     "dates": [
-      "12/22-12/30"
+      "12/22/2016-12/30"
     ],
     "rateups": [
       [
@@ -1012,7 +1012,7 @@
       "New Year 2017 Summoning Campaign"
     ],
     "dates": [
-      "1/1-1/15"
+      "1/1/2017-1/15"
     ],
     "rateups": [
       [
@@ -1021,23 +1021,23 @@
         "Ishtar",
         "Iskandar",
         "Miyamoto Musashi",
-        "Ryōgi Shiki (Saber)",
+        "Ry\u014dgi Shiki (Saber)",
         "Sakata Kintoki",
-        "Scáthach"
+        "Sc\u00e1thach"
       ]
     ]
   },
   {
-    "name": ""The Old Man of the Mountain" Summoning Campaign",
+    "name": "\"The Old Man of the Mountain\" Summoning Campaign",
     "rateup_names": [
-      ""The Old Man of the Mountain" Summoning Campaign"
+      "\"The Old Man of the Mountain\" Summoning Campaign"
     ],
     "dates": [
-      "1/11-1/25"
+      "1/11/2017-1/25"
     ],
     "rateups": [
       [
-        ""The Old Man of the Mountain""
+        "\"The Old Man of the Mountain\""
       ]
     ]
   },
@@ -1047,7 +1047,7 @@
       "Moon Goddess Event Re-Run Summoning Campaign"
     ],
     "dates": [
-      "1/18-1/25"
+      "1/18/2017-1/25"
     ],
     "rateups": [
       [
@@ -1065,11 +1065,11 @@
       "Cries of The Vengeful Demon in the Prison Tower Event Re-Run Summoning Campaign"
     ],
     "dates": [
-      "1/25-2/8"
+      "1/25/2017-2/8"
     ],
     "rateups": [
       [
-        "Edmond Dantès"
+        "Edmond Dant\u00e8s"
       ]
     ]
   },
@@ -1079,7 +1079,7 @@
       "8M Downloads Campaign"
     ],
     "dates": [
-      "2/1-2/8"
+      "2/1/2017-2/8"
     ],
     "rateups": [
       [
@@ -1095,9 +1095,9 @@
       "Valentine 2017 Summoning Campaign"
     ],
     "dates": [
-      "2/8-2/22",
-      "2/8-2/22",
-      "2/8-2/22"
+      "2/8/2017-2/22",
+      "2/8/2017-2/22",
+      "2/8/2017-2/22"
     ],
     "rateups": [
       [
@@ -1121,7 +1121,7 @@
       ],
       [
         "Arjuna",
-        "Cú Chulainn (Alter)",
+        "C\u00fa Chulainn (Alter)",
         "Enkidu",
         "Karna",
         "Nikola Tesla",
@@ -1137,7 +1137,7 @@
       "Shinjuku Summoning Campaign"
     ],
     "dates": [
-      "2/24-3/8"
+      "2/24/2017-3/8"
     ],
     "rateups": [
       [
@@ -1153,7 +1153,7 @@
       "Shinjuku Summoning Campaign 2"
     ],
     "dates": [
-      "3/1-3/8"
+      "3/1/2017-3/8"
     ],
     "rateups": [
       [
@@ -1168,11 +1168,11 @@
       "Chaldea Boys Collection 2016 Re-Run"
     ],
     "dates": [
-      "3/8-3/22"
+      "3/8/2017-3/22"
     ],
     "rateups": [
       [
-        "Amakusa Shirō",
+        "Amakusa Shir\u014d",
         "Astolfo",
         "Kid Gil"
       ]
@@ -1184,13 +1184,13 @@
       "Chaldea Boys Collection 2017"
     ],
     "dates": [
-      "3/8-3/22"
+      "3/8/2017-3/22"
     ],
     "rateups": [
       [
         "Arjuna",
         "Arthur Pendragon (Prototype)",
-        "Cú Chulainn (Alter)",
+        "C\u00fa Chulainn (Alter)",
         "Enkidu",
         "Karna",
         "Nikola Tesla",
@@ -1206,15 +1206,15 @@
       "GUDAGUDA Honnouji Event Re-Run Summoning Campaign"
     ],
     "dates": [
-      "3/15-3/31"
+      "3/15/2017-3/31"
     ],
     "rateups": [
       [
-        "Cú Chulainn",
+        "C\u00fa Chulainn",
         "EMIYA",
         "Medusa",
         "Mephistopheles",
-        "Okita Sōji"
+        "Okita S\u014dji"
       ]
     ]
   },
@@ -1224,7 +1224,7 @@
       "Class Based Summoning Campaign"
     ],
     "dates": [
-      "3/29-4/5"
+      "3/29/2017-4/5"
     ],
     "rateups": [
       [
@@ -1245,24 +1245,24 @@
         "Carmilla",
         "Charles Babbage",
         "Chevalier d'Eon",
-        "Cú Chulainn",
-        "Cú Chulainn (Alter)",
-        "Cú Chulainn (Caster)",
-        "Cú Chulainn (Prototype)",
+        "C\u00fa Chulainn",
+        "C\u00fa Chulainn (Alter)",
+        "C\u00fa Chulainn (Caster)",
+        "C\u00fa Chulainn (Prototype)",
         "Darius III",
         "David",
         "Diarmuid Ua Duibhne",
         "EMIYA",
         "EMIYA (Alter)",
         "EMIYA (Assassin)",
-        "Elizabeth Báthory",
+        "Elizabeth B\u00e1thory",
         "Enkidu",
         "Euryale",
-        "Fergus mac Róich",
+        "Fergus mac R\u00f3ich",
         "Fionn mac Cumhaill",
         "Francis Drake",
         "Frankenstein",
-        "Fūma Kotarō",
+        "F\u016bma Kotar\u014d",
         "Gaius Julius Caesar",
         "Gawain",
         "Geronimo",
@@ -1277,7 +1277,7 @@
         "Henry Jekyll & Hyde",
         "Heracles",
         "Hessian Lobo",
-        "Ibaraki Dōji",
+        "Ibaraki D\u014dji",
         "Jack the Ripper",
         "Jaguar Man",
         "Jeanne d'Arc",
@@ -1314,7 +1314,7 @@
         "Stheno",
         "Tamamo Cat",
         "Tamamo no Mae",
-        "Tawara Tōta",
+        "Tawara T\u014dta",
         "Thomas Edison",
         "Tristan",
         "Ushiwakamaru",
@@ -1332,11 +1332,11 @@
       "GUDAGUDA Meiji Ishin Summoning Campaign"
     ],
     "dates": [
-      "4/5-4/19"
+      "4/5/2017-4/19"
     ],
     "rateups": [
       [
-        "Hijikata Toshizō",
+        "Hijikata Toshiz\u014d",
         "Nikola Tesla"
       ]
     ]
@@ -1344,20 +1344,20 @@
   {
     "name": "SE.RA.PH",
     "rateup_names": [
-      "Fate/EXTRA CCC×Fate/Grand Order",
+      "Fate/EXTRA CCC\u00d7Fate/Grand Order",
       "SE.RA.PH Summoning Campaign",
       "SE.RA.PH Summoning Campaign 2"
     ],
     "dates": [
-      "4/19-4/30",
-      "5/1-5/24",
-      "5/1-5/24"
+      "4/19/2017-4/30",
+      "5/1/2017-5/24",
+      "5/1/2017-5/24"
     ],
     "rateups": [
       [
-        "Cú Chulainn",
+        "C\u00fa Chulainn",
         "EMIYA",
-        "Elizabeth Báthory",
+        "Elizabeth B\u00e1thory",
         "Gawain",
         "Gilgamesh",
         "Karna",
@@ -1373,9 +1373,9 @@
       ],
       [
         "EMIYA (Alter)",
-        "Elizabeth Báthory",
+        "Elizabeth B\u00e1thory",
         "Robin Hood",
-        "Sesshōin Kiara"
+        "Sessh\u014din Kiara"
       ]
     ]
   },
@@ -1385,7 +1385,7 @@
       "9M Downloads Campaign"
     ],
     "dates": [
-      "5/24-6/2"
+      "5/24/2017-6/2"
     ],
     "rateups": [
       [
@@ -1401,12 +1401,12 @@
       "Rashomon Event Rerun Summoning Campaign"
     ],
     "dates": [
-      "5/31-6/8"
+      "5/31/2017-6/8"
     ],
     "rateups": [
       [
-        "Ibaraki Dōji",
-        "Shuten Dōji"
+        "Ibaraki D\u014dji",
+        "Shuten D\u014dji"
       ]
     ]
   },
@@ -1416,7 +1416,7 @@
       "Main Quest 1/2 AP + Shinjuku Summoning Campaign"
     ],
     "dates": [
-      "6/7-6/21"
+      "6/7/2017-6/21"
     ],
     "rateups": [
       [
@@ -1432,19 +1432,19 @@
       "Onigashima Event Re-Run Summoning Campaign"
     ],
     "dates": [
-      "6/14-6/28"
+      "6/14/2017-6/28"
     ],
     "rateups": [
       [
         "EMIYA",
         "EMIYA (Alter)",
         "EMIYA (Assassin)",
-        "Fūma Kotarō",
-        "Minamoto no Raikō",
+        "F\u016bma Kotar\u014d",
+        "Minamoto no Raik\u014d",
         "Sakata Kintoki",
         "Suzuka Gozen",
         "Tamamo no Mae",
-        "Tawara Tōta"
+        "Tawara T\u014dta"
       ]
     ]
   },
@@ -1454,7 +1454,7 @@
       "Agartha Chapter Release"
     ],
     "dates": [
-      "6/29-7/12"
+      "6/29/2017-7/12"
     ],
     "rateups": [
       [
@@ -1470,7 +1470,7 @@
       "Agartha Summoning Campaign 2"
     ],
     "dates": [
-      "7/5-7/19"
+      "7/5/2017-7/19"
     ],
     "rateups": [
       [
@@ -1487,8 +1487,8 @@
       "FGO 2016 Summer Event Re-Run Part II Summoning Campaign"
     ],
     "dates": [
-      "7/12-7/29",
-      "7/12-7/29"
+      "7/12/2017-7/29",
+      "7/12/2017-7/29"
     ],
     "rateups": [
       [
@@ -1510,7 +1510,7 @@
       "FGO THE STAGE Performance Commemoration Campaign"
     ],
     "dates": [
-      "7/14-7/17"
+      "7/14/2017-7/17"
     ],
     "rateups": [
       [
@@ -1524,12 +1524,12 @@
     ]
   },
   {
-    "name": "Fate/Grand Order Fes. 2017 ～2nd Anniversary～",
+    "name": "Fate/Grand Order Fes. 2017 \uff5e2nd Anniversary\uff5e",
     "rateup_names": [
-      "Fate/Grand Order Fes. 2017 ～2nd Anniversary～ Singularity-Based Summoning Campaign"
+      "Fate/Grand Order Fes. 2017 \uff5e2nd Anniversary\uff5e Singularity-Based Summoning Campaign"
     ],
     "dates": [
-      "7/30-8/16"
+      "7/30/2017-8/16"
     ],
     "rateups": [
       [
@@ -1546,9 +1546,9 @@
       "Dead Heat Summer Race! Daily Special Summoning Campaign"
     ],
     "dates": [
-      "8/9-9/1",
-      "8/9-9/1",
-      "8/9-9/1"
+      "8/9/2017-9/1",
+      "8/9/2017-9/1",
+      "8/9/2017-9/1"
     ],
     "rateups": [
       [
@@ -1560,7 +1560,7 @@
       [
         "Artoria Pendragon (Rider Alter)",
         "Helena Blavatsky (Archer)",
-        "Minamoto no Raikō (Lancer)"
+        "Minamoto no Raik\u014d (Lancer)"
       ],
       [
         "Charles Babbage",
@@ -1571,12 +1571,12 @@
     ]
   },
   {
-    "name": "Fate/kaleid liner Prisma☆Illya Movie Premiere Commemoration Campaign",
+    "name": "Fate/kaleid liner Prisma\u2606Illya Movie Premiere Commemoration Campaign",
     "rateup_names": [
-      "Fate/kaleid liner Prisma☆Illya Movie Premiere Commemoration Campaign Summoning Campaign"
+      "Fate/kaleid liner Prisma\u2606Illya Movie Premiere Commemoration Campaign Summoning Campaign"
     ],
     "dates": [
-      "8/25-9/8"
+      "8/25/2017-9/8"
     ],
     "rateups": [
       [
@@ -1590,7 +1590,7 @@
       "Class-Based Summoning Campaign"
     ],
     "dates": [
-      "8/30-9/13"
+      "8/30/2017-9/13"
     ],
     "rateups": [
       [
@@ -1612,24 +1612,24 @@
         "Charles Babbage",
         "Chevalier d'Eon",
         "Christopher Columbus",
-        "Cú Chulainn",
-        "Cú Chulainn (Alter)",
-        "Cú Chulainn (Caster)",
-        "Cú Chulainn (Prototype)",
+        "C\u00fa Chulainn",
+        "C\u00fa Chulainn (Alter)",
+        "C\u00fa Chulainn (Caster)",
+        "C\u00fa Chulainn (Prototype)",
         "Darius III",
         "David",
         "Diarmuid Ua Duibhne",
         "EMIYA",
         "EMIYA (Alter)",
         "EMIYA (Assassin)",
-        "Elizabeth Báthory",
+        "Elizabeth B\u00e1thory",
         "Enkidu",
         "Euryale",
-        "Fergus mac Róich",
+        "Fergus mac R\u00f3ich",
         "Fionn mac Cumhaill",
         "Francis Drake",
         "Frankenstein",
-        "Fūma Kotarō",
+        "F\u016bma Kotar\u014d",
         "Gaius Julius Caesar",
         "Gawain",
         "Geronimo",
@@ -1644,7 +1644,7 @@
         "Henry Jekyll & Hyde",
         "Heracles",
         "Hessian Lobo",
-        "Ibaraki Dōji",
+        "Ibaraki D\u014dji",
         "Jack the Ripper",
         "Jaguar Man",
         "Jeanne d'Arc",
@@ -1684,7 +1684,7 @@
         "Suzuka Gozen",
         "Tamamo Cat",
         "Tamamo no Mae",
-        "Tawara Tōta",
+        "Tawara T\u014dta",
         "Thomas Edison",
         "Tristan",
         "Ushiwakamaru",
@@ -1703,7 +1703,7 @@
       "Nero Festival Redux ~2017 Autumn~ Summoning Campaign"
     ],
     "dates": [
-      "9/6-9/20"
+      "9/6/2017-9/20"
     ],
     "rateups": [
       [
@@ -1719,17 +1719,17 @@
       "KYOMAF2017 Exhibit Commemoration Summoning Campaign"
     ],
     "dates": [
-      "9/13-9/27"
+      "9/13/2017-9/27"
     ],
     "rateups": [
       [
-        "Fūma Kotarō",
-        "Hijikata Toshizō",
+        "F\u016bma Kotar\u014d",
+        "Hijikata Toshiz\u014d",
         "Kiyohime",
-        "Okita Sōji",
+        "Okita S\u014dji",
         "Suzuka Gozen",
         "Tamamo Cat",
-        "Tawara Tōta",
+        "Tawara T\u014dta",
         "Ushiwakamaru"
       ]
     ]
@@ -1740,7 +1740,7 @@
       "10M Downloads Campaign Summoning Campaign"
     ],
     "dates": [
-      "9/20-10/4"
+      "9/20/2017-10/4"
     ],
     "rateups": [
       [
@@ -1758,12 +1758,12 @@
       "Halloween 2016 Event Rerun Summoning Campaign"
     ],
     "dates": [
-      "9/27-10/11"
+      "9/27/2017-10/11"
     ],
     "rateups": [
       [
         "Cleopatra",
-        "Ibaraki Dōji",
+        "Ibaraki D\u014dji",
         "Nitocris",
         "Robin Hood",
         "Vlad III (EXTRA)"
@@ -1776,7 +1776,7 @@
       "FGO THE STAGE Autumn Performance Commemoration Campaign Summoning Campaign"
     ],
     "dates": [
-      "9/29-10/8"
+      "9/29/2017-10/8"
     ],
     "rateups": [
       [
@@ -1796,13 +1796,13 @@
       "Fate/stay night Heaven's Feel Premiere Commemoration Campaign Summoning Campaign"
     ],
     "dates": [
-      "10/8-11/12"
+      "10/8/2017-11/12"
     ],
     "rateups": [
       [
         "Artoria Pendragon",
         "Artoria Pendragon (Alter)",
-        "Cú Chulainn",
+        "C\u00fa Chulainn",
         "EMIYA",
         "Heracles",
         "Medea",
@@ -1817,11 +1817,11 @@
       "Shimosa Chapter Release"
     ],
     "dates": [
-      "10/14-10/14"
+      "10/14/2017-10/14"
     ],
     "rateups": [
       [
-        "Hōzōin Inshun",
+        "H\u014dz\u014din Inshun",
         "Miyamoto Musashi",
         "Mochizuki Chiyome",
         "Tomoe Gozen"
@@ -1834,15 +1834,15 @@
       "Shimosa Summoning Campaign 2"
     ],
     "dates": [
-      "10/20-11/1"
+      "10/20/2017-11/1"
     ],
     "rateups": [
       [
-        "Fūma Kotarō",
-        "Katō Danzō",
-        "Minamoto no Raikō",
-        "Shuten Dōji",
-        "Yagyū Munenori"
+        "F\u016bma Kotar\u014d",
+        "Kat\u014d Danz\u014d",
+        "Minamoto no Raik\u014d",
+        "Shuten D\u014dji",
+        "Yagy\u016b Munenori"
       ]
     ]
   },
@@ -1852,12 +1852,12 @@
       "Halloween 2017 Event Summoning Campaign"
     ],
     "dates": [
-      "10/25-11/10"
+      "10/25/2017-11/10"
     ],
     "rateups": [
       [
         "Carmilla",
-        "Elizabeth Báthory",
+        "Elizabeth B\u00e1thory",
         "Osakabehime",
         "Penthesilea",
         "Wu Zetian",
@@ -1871,14 +1871,14 @@
       "Interlude Campaign 3"
     ],
     "dates": [
-      "11/2-11/15"
+      "11/2/2017-11/15"
     ],
     "rateups": [
       [
         "EMIYA (Assassin)",
         "Hassan of the Serenity",
         "Ozymandias",
-        "Tawara Tōta",
+        "Tawara T\u014dta",
         "Xuanzang Sanzang"
       ]
     ]
@@ -1889,11 +1889,11 @@
       "Fate/Apocrypha Anime Broadcast Commemoration Campaign"
     ],
     "dates": [
-      "11/8-11/22"
+      "11/8/2017-11/22"
     ],
     "rateups": [
       [
-        "Amakusa Shirō",
+        "Amakusa Shir\u014d",
         "Astolfo",
         "Jack the Ripper",
         "Jeanne d'Arc",
@@ -1909,7 +1909,7 @@
       "Christmas 2016 Event Re-run Summoning Campaign"
     ],
     "dates": [
-      "11/15-11/24"
+      "11/15/2017-11/24"
     ],
     "rateups": [
       [
@@ -1928,11 +1928,11 @@
       "11M Downloads Campaign"
     ],
     "dates": [
-      "11/22-11/29"
+      "11/22/2017-11/29"
     ],
     "rateups": [
       [
-        ""The Old Man of the Mountain"",
+        "\"The Old Man of the Mountain\"",
         "Hassan of the Hundred Faces",
         "Hassan of the Serenity"
       ]
@@ -1959,7 +1959,7 @@
       "Salem Summoning Campaign 2"
     ],
     "dates": [
-      "12/6-12/20"
+      "12/6/2017-12/20"
     ],
     "rateups": [
       [
@@ -1974,7 +1974,7 @@
       "Christmas 2017 Summoning Campaign"
     ],
     "dates": [
-      "12/15-12/25"
+      "12/15/2017-12/25"
     ],
     "rateups": [
       [
@@ -1992,7 +1992,7 @@
       "New Year Campaign 2018 Summoning Campaign"
     ],
     "dates": [
-      "1/1-1/19"
+      "1/1/2018-1/19"
     ],
     "rateups": [
       [
@@ -2001,7 +2001,7 @@
         "Katsushika Hokusai",
         "Meltryllis",
         "Miyamoto Musashi",
-        "Scáthach",
+        "Sc\u00e1thach",
         "Tamamo no Mae"
       ]
     ]
@@ -2012,7 +2012,7 @@
       "Da Vinci and The 7 Counterfeit Heroic Spirits Rerun Lite Ver Summoning Campaign"
     ],
     "dates": [
-      "1/10-1/20"
+      "1/10/2018-1/20"
     ],
     "rateups": [
       [
@@ -2038,10 +2038,10 @@
     ],
     "rateups": [
       [
-        "Ibaraki Dōji",
-        "Minamoto no Raikō",
+        "Ibaraki D\u014dji",
+        "Minamoto no Raik\u014d",
         "Sakata Kintoki",
-        "Shuten Dōji",
+        "Shuten D\u014dji",
         "Tomoe Gozen"
       ]
     ]
@@ -2052,7 +2052,7 @@
       "Fate/EXTRA Last Encore Anime Broadcast Commemoration Campaign"
     ],
     "dates": [
-      "1/28-2/4"
+      "1/28/2018-2/4"
     ],
     "rateups": [
       [
@@ -2071,7 +2071,7 @@
       "Valentine 2018 Summoning Campaign"
     ],
     "dates": [
-      "1/31-2/15"
+      "1/31/2018-2/15"
     ],
     "rateups": [
       [
@@ -2100,7 +2100,7 @@
       "Valentine 2017 Summoning Campaign Re-Run"
     ],
     "dates": [
-      "2/7-2/21"
+      "2/7/2018-2/21"
     ],
     "rateups": [
       [
@@ -2114,17 +2114,17 @@
       "Kara no Kyoukai Collaboration Event Re-run Summoning Campaign"
     ],
     "dates": [
-      "2/15-2/28"
+      "2/15/2018-2/28"
     ],
     "rateups": [
       [
         "Artoria Pendragon (Lancer Alter)",
         "Asagami Fujino",
         "Boudica",
-        "Elizabeth Báthory",
+        "Elizabeth B\u00e1thory",
         "Henry Jekyll & Hyde",
         "Mephistopheles",
-        "Ryōgi Shiki (Saber)"
+        "Ry\u014dgi Shiki (Saber)"
       ]
     ]
   },
@@ -2134,7 +2134,7 @@
       "FGO Winter Festival 2017-2018 Summoning Campaign"
     ],
     "dates": [
-      "2/21-3/7"
+      "2/21/2018-3/7"
     ],
     "rateups": [
       [
@@ -2151,7 +2151,7 @@
       "FGO THE STAGE Blu-ray&DVD Release Commemoration Campaign"
     ],
     "dates": [
-      "2/26-3/7"
+      "2/26/2018-3/7"
     ],
     "rateups": [
       [
@@ -2170,13 +2170,13 @@
       "12M Downloads Campaign Summoning Campaign"
     ],
     "dates": [
-      "2/28-3/14"
+      "2/28/2018-3/14"
     ],
     "rateups": [
       [
         "EMIYA (Alter)",
         "Passionlip",
-        "Sesshōin Kiara",
+        "Sessh\u014din Kiara",
         "Suzuka Gozen"
       ]
     ]
@@ -2187,13 +2187,13 @@
       "Chaldea Boys Collection 2018 Summoning Campaign"
     ],
     "dates": [
-      "3/7-3/14"
+      "3/7/2018-3/14"
     ],
     "rateups": [
       [
         "Arjuna",
         "Arthur Pendragon (Prototype)",
-        "Cú Chulainn (Alter)",
+        "C\u00fa Chulainn (Alter)",
         "Enkidu",
         "Karna",
         "Nikola Tesla",
@@ -2209,7 +2209,7 @@
       "Saber Wars Event Re-run Summoning Campaign"
     ],
     "dates": [
-      "3/15-3/29"
+      "3/15/2018-3/29"
     ],
     "rateups": [
       [
@@ -2226,7 +2226,7 @@
       "Class-Based Summoning Campaign (April 2018)"
     ],
     "dates": [
-      "3/29-4/12"
+      "3/29/2018-4/12"
     ],
     "rateups": [
       [
@@ -2249,24 +2249,24 @@
         "Chevalier d'Eon",
         "Christopher Columbus",
         "Circe",
-        "Cú Chulainn",
-        "Cú Chulainn (Alter)",
-        "Cú Chulainn (Caster)",
-        "Cú Chulainn (Prototype)",
+        "C\u00fa Chulainn",
+        "C\u00fa Chulainn (Alter)",
+        "C\u00fa Chulainn (Caster)",
+        "C\u00fa Chulainn (Prototype)",
         "Darius III",
         "David",
         "Diarmuid Ua Duibhne",
         "EMIYA",
         "EMIYA (Alter)",
         "EMIYA (Assassin)",
-        "Elizabeth Báthory",
+        "Elizabeth B\u00e1thory",
         "Enkidu",
         "Euryale",
-        "Fergus mac Róich",
+        "Fergus mac R\u00f3ich",
         "Fionn mac Cumhaill",
         "Francis Drake",
         "Frankenstein",
-        "Fūma Kotarō",
+        "F\u016bma Kotar\u014d",
         "Gaius Julius Caesar",
         "Gawain",
         "Geronimo",
@@ -2281,14 +2281,14 @@
         "Henry Jekyll & Hyde",
         "Heracles",
         "Hessian Lobo",
-        "Hōzōin Inshun",
-        "Ibaraki Dōji",
+        "H\u014dz\u014din Inshun",
+        "Ibaraki D\u014dji",
         "Jack the Ripper",
         "Jaguar Man",
         "Jeanne d'Arc",
         "Jing Ke",
         "Karna",
-        "Katō Danzō",
+        "Kat\u014d Danz\u014d",
         "Kid Gil",
         "Kiyohime",
         "Lancelot",
@@ -2328,7 +2328,7 @@
         "Suzuka Gozen",
         "Tamamo Cat",
         "Tamamo no Mae",
-        "Tawara Tōta",
+        "Tawara T\u014dta",
         "Thomas Edison",
         "Tomoe Gozen",
         "Tristan",
@@ -2337,7 +2337,7 @@
         "Vlad III (EXTRA)",
         "Wu Zetian",
         "Xuanzang Sanzang",
-        "Yagyū Munenori",
+        "Yagy\u016b Munenori",
         "Yan Qing",
         "Zhuge Liang (Lord El-Melloi II)"
       ]
@@ -2349,7 +2349,7 @@
       "Anastasia Chapter Release Summoning Campaign"
     ],
     "dates": [
-      "4/4-4/18"
+      "4/4/2018-4/18"
     ],
     "rateups": [
       [
@@ -2365,7 +2365,7 @@
       "Anastasia Summoning Campaign 2"
     ],
     "dates": [
-      "4/11-4/25"
+      "4/11/2018-4/25"
     ],
     "rateups": [
       [
@@ -2380,7 +2380,7 @@
       "Journey to The West Re-Run Lite Ver Summoning Campaign"
     ],
     "dates": [
-      "4/18-4/29"
+      "4/18/2018-4/29"
     ],
     "rateups": [
       [
@@ -2400,13 +2400,13 @@
     "name": "Apocrypha/Inheritance of Glory",
     "rateup_names": [
       "Apocrypha Summoning Campaign",
-      "Fate/Apocrypha × FGO Special Campaign Summoning Campaign (Black Faction)",
-      "Fate/Apocrypha × FGO Special Campaign Summoning Campaign (Red Faction)"
+      "Fate/Apocrypha \u00d7 FGO Special Campaign Summoning Campaign (Black Faction)",
+      "Fate/Apocrypha \u00d7 FGO Special Campaign Summoning Campaign (Red Faction)"
     ],
     "dates": [
-      "4/29-5/13",
-      "4/25-5/9",
-      "4/25-5/9"
+      "4/29/2018-5/13",
+      "4/25/2018-5/9",
+      "4/25/2018-5/9"
     ],
     "rateups": [
       [
@@ -2422,7 +2422,7 @@
         "Vlad III"
       ],
       [
-        "Amakusa Shirō",
+        "Amakusa Shir\u014d",
         "Atalanta",
         "Karna",
         "Mordred",
@@ -2436,7 +2436,7 @@
       "Murder at the KOGETSUKAN Summoning Campaign"
     ],
     "dates": [
-      "5/11-5/25"
+      "5/11/2018-5/25"
     ],
     "rateups": [
       [
@@ -2459,14 +2459,14 @@
       "GUDAGUDA Meiji Ishin Re-run Summoning Campaign"
     ],
     "dates": [
-      "5/18-5/30"
+      "5/18/2018-5/30"
     ],
     "rateups": [
       [
-        "Cú Chulainn",
+        "C\u00fa Chulainn",
         "EMIYA",
         "Helena Blavatsky",
-        "Hijikata Toshizō",
+        "Hijikata Toshiz\u014d",
         "Medea",
         "Medusa",
         "Thomas Edison"
@@ -2474,16 +2474,16 @@
     ]
   },
   {
-    "name": "Okita Sōji Summoning Campaign",
+    "name": "Okita S\u014dji Summoning Campaign",
     "rateup_names": [
-      "Okita Sōji Summoning Campaign"
+      "Okita S\u014dji Summoning Campaign"
     ],
     "dates": [
-      "5/23-6/6"
+      "5/23/2018-6/6"
     ],
     "rateups": [
       [
-        "Okita Sōji"
+        "Okita S\u014dji"
       ]
     ]
   },
@@ -2493,7 +2493,7 @@
       "13M Downloads Campaign Summoning Campaign"
     ],
     "dates": [
-      "5/30-6/13"
+      "5/30/2018-6/13"
     ],
     "rateups": [
       [
@@ -2518,10 +2518,10 @@
         "Arjuna",
         "Artoria Pendragon",
         "Astolfo",
-        "Cú Chulainn",
+        "C\u00fa Chulainn",
         "Darius III",
         "EMIYA",
-        "Elizabeth Báthory",
+        "Elizabeth B\u00e1thory",
         "Francis Drake",
         "Gawain",
         "Gilles de Rais",
@@ -2543,7 +2543,7 @@
       "GUDAGUDA Teito Seihai Kitan Summoning Campaign"
     ],
     "dates": [
-      "6/13-6/27"
+      "6/13/2018-6/27"
     ],
     "rateups": [
       [
@@ -2551,8 +2551,8 @@
         "Li Shuwen (Lancer)",
         "Medea",
         "Medusa",
-        "Okada Izō",
-        "Okita Sōji (Alter)"
+        "Okada Iz\u014d",
+        "Okita S\u014dji (Alter)"
       ]
     ]
   },
@@ -2564,9 +2564,9 @@
       "Dead Heat Summer Race! Re-run Daily Special Summoning Campaign"
     ],
     "dates": [
-      "6/27-7/13",
-      "6/27-7/13",
-      "6/27-7/13"
+      "6/27/2018-7/13",
+      "6/27/2018-7/13",
+      "6/27/2018-7/13"
     ],
     "rateups": [
       [
@@ -2578,7 +2578,7 @@
       [
         "Artoria Pendragon (Rider Alter)",
         "Helena Blavatsky (Archer)",
-        "Minamoto no Raikō (Lancer)"
+        "Minamoto no Raik\u014d (Lancer)"
       ],
       [
         "Charles Babbage",
@@ -2588,26 +2588,26 @@
     ]
   },
   {
-    "name": "Götterdämmerung Lostbelt Pre-Release Campaign",
+    "name": "G\u00f6tterd\u00e4mmerung Lostbelt Pre-Release Campaign",
     "rateup_names": [
-      "Götterdämmerung Lostbelt Pre-Release Campaign Summoning Campaign"
+      "G\u00f6tterd\u00e4mmerung Lostbelt Pre-Release Campaign Summoning Campaign"
     ],
     "dates": [
-      "7/13-7/27"
+      "7/13/2018-7/27"
     ],
     "rateups": [
       [
-        "Napoléon"
+        "Napol\u00e9on"
       ]
     ]
   },
   {
-    "name": "Götterdämmerung Chapter Release",
+    "name": "G\u00f6tterd\u00e4mmerung Chapter Release",
     "rateup_names": [
-      "Götterdämmerung Chapter Release Summoning Campaign"
+      "G\u00f6tterd\u00e4mmerung Chapter Release Summoning Campaign"
     ],
     "dates": [
-      "7/18-8/1"
+      "7/18/2018-8/1"
     ],
     "rateups": [
       [
@@ -2618,12 +2618,12 @@
     ]
   },
   {
-    "name": "Fate/Grand Order Fes. 2018 ～3rd Anniversary～",
+    "name": "Fate/Grand Order Fes. 2018 \uff5e3rd Anniversary\uff5e",
     "rateup_names": [
-      "Fate/Grand Order Fes. 2018 ～3rd Anniversary～ Singularity-Based Summoning Campaign"
+      "Fate/Grand Order Fes. 2018 \uff5e3rd Anniversary\uff5e Singularity-Based Summoning Campaign"
     ],
     "dates": [
-      "7/29-8/12"
+      "7/29/2018-8/12"
     ],
     "rateups": [
       [
@@ -2638,9 +2638,9 @@
         "Boudica",
         "Charles Babbage",
         "Chevalier d'Eon",
-        "Cú Chulainn",
-        "Cú Chulainn (Alter)",
-        "Cú Chulainn (Caster)",
+        "C\u00fa Chulainn",
+        "C\u00fa Chulainn (Alter)",
+        "C\u00fa Chulainn (Caster)",
         "David",
         "EMIYA",
         "Enkidu",
@@ -2680,10 +2680,10 @@
         "Quetzalcoatl",
         "Rama",
         "Romulus",
-        "Scáthach-Skaði",
+        "Sc\u00e1thach-Ska\u00f0i",
         "Sherlock Holmes",
         "Siegfried",
-        "Tawara Tōta",
+        "Tawara T\u014dta",
         "Thomas Edison",
         "Tristan"
       ]
@@ -2700,21 +2700,21 @@
       "Servant Summer Festival! 2018 Summoning Campaign 3"
     ],
     "dates": [
-      "8/9-8/29",
-      "8/9-8/29",
-      "8/9-8/29",
-      "8/9-8/29",
-      "8/9-8/29",
-      "8/9-8/29"
+      "8/9/2018-8/29",
+      "8/9/2018-8/29",
+      "8/9/2018-8/29",
+      "8/9/2018-8/29",
+      "8/9/2018-8/29",
+      "8/9/2018-8/29"
     ],
     "rateups": [
       [
-        "Ibaraki Dōji (Lancer)",
+        "Ibaraki D\u014dji (Lancer)",
         "Jeanne d'Arc (Archer)",
         "Ushiwakamaru (Assassin)"
       ],
       [
-        "Edmond Dantès",
+        "Edmond Dant\u00e8s",
         "Gilgamesh (Caster)",
         "Robin Hood"
       ],
@@ -2724,12 +2724,12 @@
         "Queen Medb (Saber)"
       ],
       [
-        "Ibaraki Dōji (Lancer)",
+        "Ibaraki D\u014dji (Lancer)",
         "Jeanne d'Arc (Archer)",
         "Ushiwakamaru (Assassin)"
       ],
       [
-        "Edmond Dantès",
+        "Edmond Dant\u00e8s",
         "Gilgamesh (Caster)",
         "Robin Hood"
       ],
@@ -2746,7 +2746,7 @@
       "Fate/Grand Order Memories Release Commemoration Campaign"
     ],
     "dates": [
-      "8/19-9/2"
+      "8/19/2018-9/2"
     ],
     "rateups": [
       [
@@ -2760,7 +2760,7 @@
       "14M Downloads Campaign Summoning Campaign"
     ],
     "dates": [
-      "8/29-9/5"
+      "8/29/2018-9/5"
     ],
     "rateups": [
       [
@@ -2776,7 +2776,7 @@
       "Fate/Accel Zero Order -LAP 2- Summoning Campaign"
     ],
     "dates": [
-      "9/5-9/19"
+      "9/5/2018-9/19"
     ],
     "rateups": [
       [
@@ -2798,14 +2798,14 @@
       "KYOMAF2018 Exhibit Commemoration Summoning Campaign"
     ],
     "dates": [
-      "9/14-9/28"
+      "9/14/2018-9/28"
     ],
     "rateups": [
       [
-        "Minamoto no Raikō",
-        "Okada Izō",
-        "Shuten Dōji",
-        "Yagyū Munenori"
+        "Minamoto no Raik\u014d",
+        "Okada Iz\u014d",
+        "Shuten D\u014dji",
+        "Yagy\u016b Munenori"
       ]
     ]
   },
@@ -2815,7 +2815,7 @@
       "Battle in New York 2018 Summoning Campaign"
     ],
     "dates": [
-      "9/19-10/5"
+      "9/19/2018-10/5"
     ],
     "rateups": [
       [
@@ -2831,12 +2831,12 @@
       "Halloween 2017 Event Re-Run Summoning Campaign"
     ],
     "dates": [
-      "10/5-10/19"
+      "10/5/2018-10/19"
     ],
     "rateups": [
       [
         "Carmilla",
-        "Elizabeth Báthory",
+        "Elizabeth B\u00e1thory",
         "Osakabehime",
         "Penthesilea",
         "Wu Zetian",
@@ -2850,13 +2850,13 @@
       "Interlude Campaign 7 Summoning Campaign"
     ],
     "dates": [
-      "10/17-10/24"
+      "10/17/2018-10/24"
     ],
     "rateups": [
       [
-        "Cú Chulainn (Alter)",
-        "Hōzōin Inshun",
-        "Katō Danzō",
+        "C\u00fa Chulainn (Alter)",
+        "H\u014dz\u014din Inshun",
+        "Kat\u014d Danz\u014d",
         "Queen Medb"
       ]
     ]
@@ -2867,11 +2867,11 @@
       "Halloween 2018 Summoning Campaign"
     ],
     "dates": [
-      "10/24-11/7"
+      "10/24/2018-11/7"
     ],
     "rateups": [
       [
-        "Ibaraki Dōji",
+        "Ibaraki D\u014dji",
         "Mochizuki Chiyome",
         "Sitonai"
       ]
@@ -2883,7 +2883,7 @@
       "15M Downloads Campaign Summoning Campaign"
     ],
     "dates": [
-      "11/7-11/21"
+      "11/7/2018-11/21"
     ],
     "rateups": [
       [
@@ -2900,7 +2900,7 @@
       "Christmas 2017 Event Re-Run Summoning Campaign"
     ],
     "dates": [
-      "11/14-11/23"
+      "11/14/2018-11/23"
     ],
     "rateups": [
       [
@@ -2920,7 +2920,7 @@
       "S I N Chapter Release Summoning Campaign"
     ],
     "dates": [
-      "11/27-12/11"
+      "11/27/2018-12/11"
     ],
     "rateups": [
       [
@@ -2937,7 +2937,7 @@
       "S I N Summoning Campaign 2"
     ],
     "dates": [
-      "12/4-12/18"
+      "12/4/2018-12/18"
     ],
     "rateups": [
       [
@@ -2953,7 +2953,7 @@
       "Christmas 2018 Summoning Campaign"
     ],
     "dates": [
-      "12/12-12/25"
+      "12/12/2018-12/25"
     ],
     "rateups": [
       [
@@ -2970,12 +2970,12 @@
       "WinFes 2018/19 Commemoration Summoning Campaign"
     ],
     "dates": [
-      "12/21-12/31"
+      "12/21/2018-12/31"
     ],
     "rateups": [
       [
         "Mephistopheles",
-        "Napoléon",
+        "Napol\u00e9on",
         "Thomas Edison",
         "Valkyrie"
       ]
@@ -2987,7 +2987,7 @@
       "New Year Campaign 2019 Summoning Campaign"
     ],
     "dates": [
-      "1/1-1/15"
+      "1/1/2019-1/15"
     ],
     "rateups": [
       [
@@ -2996,7 +2996,7 @@
         "Jeanne d'Arc (Alter)",
         "Katsushika Hokusai",
         "Nero Claudius (Caster)",
-        "Scáthach",
+        "Sc\u00e1thach",
         "Sigurd"
       ]
     ]
@@ -3008,8 +3008,8 @@
       "New Year Event 2019 Summoning Campaign 2"
     ],
     "dates": [
-      "1/1-1/15",
-      "1/8-1/22"
+      "1/1/2019-1/15",
+      "1/8/2019-1/22"
     ],
     "rateups": [
       [
@@ -3032,7 +3032,7 @@
       "FGO THE STAGE Babylonia Performance Commemoration Campaign"
     ],
     "dates": [
-      "1/10-1/24"
+      "1/10/2019-1/24"
     ],
     "rateups": [
       [
@@ -3047,7 +3047,7 @@
       "Fate/stay night Heaven's Feel II Premiere Commemoration Campaign"
     ],
     "dates": [
-      "1/11-2/8"
+      "1/11/2019-2/8"
     ],
     "rateups": [
       [
@@ -3064,7 +3064,7 @@
       "WinFes 2018/19 Commemoration Summoning Campaign 2"
     ],
     "dates": [
-      "1/18-2/1"
+      "1/18/2019-2/1"
     ],
     "rateups": [
       [
@@ -3098,7 +3098,7 @@
       "Valentine 2019 Summoning Campaign"
     ],
     "dates": [
-      "2/6-2/20"
+      "2/6/2019-2/20"
     ],
     "rateups": [
       [
@@ -3133,7 +3133,7 @@
       "Valentine 2018 Summoning Campaign Re-Run"
     ],
     "dates": [
-      "2/13-2/27"
+      "2/13/2019-2/27"
     ],
     "rateups": [
       [
@@ -3149,7 +3149,7 @@
     ],
     "dates": [
       "February 20, 2019 18:00 ~ March 11, 2019 12:59 JST",
-      "2/27-3/13"
+      "2/27/2019-3/13"
     ],
     "rateups": [
       [
@@ -3172,20 +3172,20 @@
       "Chaldea Boys Collection 2019 Summoning Campaign"
     ],
     "dates": [
-      "3/11-3/25"
+      "3/11/2019-3/25"
     ],
     "rateups": [
       [
         "Achilles",
         "Alexander",
         "Arjuna",
-        "Cú Chulainn (Alter)",
+        "C\u00fa Chulainn (Alter)",
         "Enkidu",
         "James Moriarty",
         "Karna",
         "Lanling Wang",
         "Li Shuwen",
-        "Napoléon",
+        "Napol\u00e9on",
         "Nikola Tesla",
         "Ozymandias",
         "Vlad III",
@@ -3196,14 +3196,14 @@
     ]
   },
   {
-    "name": "Tokugawa Kaiten Meikyū - Ōoku",
+    "name": "Tokugawa Kaiten Meiky\u016b - \u014coku",
     "rateup_names": [
-      "Tokugawa Kaiten Meikyū - Ōoku Summoning Campaign",
-      "Tokugawa Kaiten Meikyū - Ōoku Summoning Campaign 2"
+      "Tokugawa Kaiten Meiky\u016b - \u014coku Summoning Campaign",
+      "Tokugawa Kaiten Meiky\u016b - \u014coku Summoning Campaign 2"
     ],
     "dates": [
       "March 27, 2019 18:00 ~ April 10, 2019 12:59 JST",
-      "4/3-4/17"
+      "4/3/2019-4/17"
     ],
     "rateups": [
       [
@@ -3212,8 +3212,8 @@
       ],
       [
         "Scheherazade",
-        "Sesshōin Kiara",
-        "Yagyū Munenori"
+        "Sessh\u014din Kiara",
+        "Yagy\u016b Munenori"
       ]
     ]
   },
@@ -3223,7 +3223,7 @@
       "16M Downloads Summoning Campaign"
     ],
     "dates": [
-      "4/10-4/24"
+      "4/10/2019-4/24"
     ],
     "rateups": [
       [
@@ -3242,12 +3242,12 @@
     "rateups": [
       [
         "EMIYA",
-        "Hijikata Toshizō",
+        "Hijikata Toshiz\u014d",
         "Li Shuwen (Lancer)",
         "Medea",
         "Medusa",
-        "Okada Izō",
-        "Okita Sōji (Alter)"
+        "Okada Iz\u014d",
+        "Okita S\u014dji (Alter)"
       ]
     ]
   },
@@ -3289,7 +3289,7 @@
       "Class-Based Summoning Campaign (May 2019)"
     ],
     "dates": [
-      "5/10-5/26"
+      "5/10/2019-5/26"
     ],
     "rateups": [
       [
@@ -3320,10 +3320,10 @@
         "Christopher Columbus",
         "Circe",
         "Consort Yu",
-        "Cú Chulainn",
-        "Cú Chulainn (Alter)",
-        "Cú Chulainn (Caster)",
-        "Cú Chulainn (Prototype)",
+        "C\u00fa Chulainn",
+        "C\u00fa Chulainn (Alter)",
+        "C\u00fa Chulainn (Caster)",
+        "C\u00fa Chulainn (Prototype)",
         "Darius III",
         "David",
         "Diarmuid Ua Duibhne",
@@ -3331,14 +3331,14 @@
         "EMIYA",
         "EMIYA (Alter)",
         "EMIYA (Assassin)",
-        "Elizabeth Báthory",
+        "Elizabeth B\u00e1thory",
         "Enkidu",
         "Euryale",
-        "Fergus mac Róich",
+        "Fergus mac R\u00f3ich",
         "Fionn mac Cumhaill",
         "Francis Drake",
         "Frankenstein",
-        "Fūma Kotarō",
+        "F\u016bma Kotar\u014d",
         "Gaius Julius Caesar",
         "Gawain",
         "Geronimo",
@@ -3353,14 +3353,14 @@
         "Henry Jekyll & Hyde",
         "Heracles",
         "Hessian Lobo",
-        "Hōzōin Inshun",
-        "Ibaraki Dōji",
+        "H\u014dz\u014din Inshun",
+        "Ibaraki D\u014dji",
         "Jack the Ripper",
         "Jaguar Man",
         "Jeanne d'Arc",
         "Jing Ke",
         "Karna",
-        "Katō Danzō",
+        "Kat\u014d Danz\u014d",
         "Kid Gil",
         "Kiyohime",
         "Lancelot",
@@ -3378,7 +3378,7 @@
         "Mephistopheles",
         "Mochizuki Chiyome",
         "Mordred",
-        "Napoléon",
+        "Napol\u00e9on",
         "Nero Claudius",
         "Nezha",
         "Nightingale",
@@ -3406,7 +3406,7 @@
         "Suzuka Gozen",
         "Tamamo Cat",
         "Tamamo no Mae",
-        "Tawara Tōta",
+        "Tawara T\u014dta",
         "Thomas Edison",
         "Tomoe Gozen",
         "Tristan",
@@ -3417,7 +3417,7 @@
         "Wu Zetian",
         "Xiang Yu",
         "Xuanzang Sanzang",
-        "Yagyū Munenori",
+        "Yagy\u016b Munenori",
         "Yan Qing",
         "Zhuge Liang (Lord El-Melloi II)"
       ]
@@ -3445,13 +3445,13 @@
       "Learn with Manga! F/GO Vol 2 Release Commemoration Summoning Campaign"
     ],
     "dates": [
-      "5/24-6/7"
+      "5/24/2019-6/7"
     ],
     "rateups": [
       [
         "Altera",
         "Circe",
-        "Elizabeth Báthory",
+        "Elizabeth B\u00e1thory",
         "Kiyohime",
         "Leonardo Da Vinci"
       ]
@@ -3463,7 +3463,7 @@
       "Interlude Campaign 9 Summoning Campaign"
     ],
     "dates": [
-      "6/5-6/19"
+      "6/5/2019-6/19"
     ],
     "rateups": [
       [
@@ -3480,7 +3480,7 @@
       "Yuga Kshetra Pre-Release Summoning Campaign"
     ],
     "dates": [
-      "6/7-6/21"
+      "6/7/2019-6/21"
     ],
     "rateups": [
       [
@@ -3511,13 +3511,13 @@
       "Yuga Kshetra Summoning Campaign 2"
     ],
     "dates": [
-      "6/22-7/6"
+      "6/22/2019-7/6"
     ],
     "rateups": [
       [
         "Arjuna (Alter)",
         "Asclepius",
-        "Aśvatthāman",
+        "A\u015bvatth\u0101man",
         "Karna"
       ]
     ]
@@ -3528,7 +3528,7 @@
       "17M Downloads Summoning Campaign"
     ],
     "dates": [
-      "6/26-7/10"
+      "6/26/2019-7/10"
     ],
     "rateups": [
       [
@@ -3540,9 +3540,9 @@
     ]
   },
   {
-    "name": "GUDAGUDA Final Honnōji 2019",
+    "name": "GUDAGUDA Final Honn\u014dji 2019",
     "rateup_names": [
-      "GUDAGUDA Final Honnōji 2019 Summoning Campaign"
+      "GUDAGUDA Final Honn\u014dji 2019 Summoning Campaign"
     ],
     "dates": [
       "July 4, 2019 18:00 ~ July 18, 2019, 12:59 JST"
@@ -3564,17 +3564,17 @@
     ],
     "dates": [
       "July 24, 2019 18:00 ~ August 3, 2019 12:59 JST<br/>",
-      "7/17-8/3",
-      "7/17-8/3"
+      "7/17/2019-8/3",
+      "7/17/2019-8/3"
     ],
     "rateups": [
       [
-        "Ibaraki Dōji (Lancer)",
+        "Ibaraki D\u014dji (Lancer)",
         "Jeanne d'Arc (Archer)",
         "Ushiwakamaru (Assassin)"
       ],
       [
-        "Edmond Dantès",
+        "Edmond Dant\u00e8s",
         "Gilgamesh (Caster)",
         "Robin Hood"
       ],
@@ -3586,12 +3586,12 @@
     ]
   },
   {
-    "name": "Fate/Grand Order Fes. 2019 ～4th Anniversary～",
+    "name": "Fate/Grand Order Fes. 2019 \uff5e4th Anniversary\uff5e",
     "rateup_names": [
-      "Fate/Grand Order Fes. 2019 ～4th Anniversary～ Summoning Campaign"
+      "Fate/Grand Order Fes. 2019 \uff5e4th Anniversary\uff5e Summoning Campaign"
     ],
     "dates": [
-      "8/4-8/18"
+      "8/4/2019-8/18"
     ],
     "rateups": [
       [
@@ -3604,13 +3604,13 @@
         "Consort Yu",
         "EMIYA (Alter)",
         "Hessian Lobo",
-        "Hōzōin Inshun",
-        "Katō Danzō",
+        "H\u014dz\u014din Inshun",
+        "Kat\u014d Danz\u014d",
         "Lanling Wang",
         "Leonardo Da Vinci (Rider)",
         "Li Shuwen",
         "Mochizuki Chiyome",
-        "Napoléon",
+        "Napol\u00e9on",
         "Nezha",
         "Penthesilea",
         "Qin Liangyu",
@@ -3622,7 +3622,7 @@
         "Valkyrie",
         "Wu Zetian",
         "Xiang Yu",
-        "Yagyū Munenori",
+        "Yagy\u016b Munenori",
         "Yan Qing"
       ]
     ]
@@ -3635,9 +3635,9 @@
       "Las Vegas Official Bout Summoning Campaign 2"
     ],
     "dates": [
-      "8/14-9/4",
-      "8/18-9/1",
-      "8/21-9/4"
+      "8/14/2019-9/4",
+      "8/18/2019-9/1",
+      "8/21/2019-9/4"
     ],
     "rateups": [
       [
@@ -3646,14 +3646,14 @@
         "Osakabehime (Archer)"
       ],
       [
-        "Fūma Kotarō",
+        "F\u016bma Kotar\u014d",
         "Merlin",
         "Siegfried"
       ],
       [
         "Artoria Pendragon (Ruler)",
-        "Mysterious Alter Ego Λ",
-        "Okita J Sōji"
+        "Mysterious Alter Ego \u039b",
+        "Okita J S\u014dji"
       ]
     ]
   },
@@ -3663,7 +3663,7 @@
       "Interlude Campaign 10 Summoning Campaign"
     ],
     "dates": [
-      "9/4-9/18"
+      "9/4/2019-9/18"
     ],
     "rateups": [
       [
@@ -3681,9 +3681,9 @@
       "Class-Based Summoning Campaign (September 2019)"
     ],
     "dates": [
-      "9/9-9/25",
-      "9/9-9/25",
-      "9/9-9/25"
+      "9/9/2019-9/25",
+      "9/9/2019-9/25",
+      "9/9/2019-9/25"
     ],
     "rateups": [
       [
@@ -3694,29 +3694,29 @@
         "Artoria Pendragon (Lancer Alter)",
         "Artoria Pendragon (Lancer)",
         "Atalanta",
-        "Aśvatthāman",
+        "A\u015bvatth\u0101man",
         "Bedivere",
         "Billy the Kid",
         "Bradamante",
         "Chevalier d'Eon",
         "Chiron",
-        "Cú Chulainn",
-        "Cú Chulainn (Prototype)",
+        "C\u00fa Chulainn",
+        "C\u00fa Chulainn (Prototype)",
         "David",
         "Diarmuid Ua Duibhne",
         "Diarmuid Ua Duibhne (Saber)",
         "EMIYA",
         "EMIYA (Alter)",
-        "Elizabeth Báthory",
+        "Elizabeth B\u00e1thory",
         "Enkidu",
         "Euryale",
-        "Fergus mac Róich",
+        "Fergus mac R\u00f3ich",
         "Fionn mac Cumhaill",
         "Gaius Julius Caesar",
         "Gawain",
         "Gilles de Rais (Saber)",
         "Hector",
-        "Hōzōin Inshun",
+        "H\u014dz\u014din Inshun",
         "Jaguar Man",
         "Karna",
         "Kid Gil",
@@ -3726,7 +3726,7 @@
         "Li Shuwen (Lancer)",
         "Medusa (Lancer)",
         "Mordred",
-        "Napoléon",
+        "Napol\u00e9on",
         "Nero Claudius",
         "Nezha",
         "Nikola Tesla",
@@ -3738,13 +3738,13 @@
         "Romulus",
         "Siegfried",
         "Suzuka Gozen",
-        "Tawara Tōta",
+        "Tawara T\u014dta",
         "Tomoe Gozen",
         "Tristan",
         "Valkyrie",
         "Vlad III (EXTRA)",
         "William Tell",
-        "Yagyū Munenori"
+        "Yagy\u016b Munenori"
       ],
       [
         "Achilles",
@@ -3762,13 +3762,13 @@
         "Christopher Columbus",
         "Circe",
         "Consort Yu",
-        "Cú Chulainn (Alter)",
-        "Cú Chulainn (Caster)",
+        "C\u00fa Chulainn (Alter)",
+        "C\u00fa Chulainn (Caster)",
         "Darius III",
         "EMIYA (Assassin)",
         "Francis Drake",
         "Frankenstein",
-        "Fūma Kotarō",
+        "F\u016bma Kotar\u014d",
         "Geronimo",
         "Gilgamesh (Caster)",
         "Gilles de Rais",
@@ -3777,10 +3777,10 @@
         "Helena Blavatsky",
         "Henry Jekyll & Hyde",
         "Heracles",
-        "Ibaraki Dōji",
+        "Ibaraki D\u014dji",
         "Jack the Ripper",
         "Jing Ke",
-        "Katō Danzō",
+        "Kat\u014d Danz\u014d",
         "Kiyohime",
         "Lancelot",
         "Li Shuwen",
@@ -3833,7 +3833,7 @@
       "Battle in New York 2019 Summoning Campaign"
     ],
     "dates": [
-      "9/18-10/2"
+      "9/18/2019-10/2"
     ],
     "rateups": [
       [
@@ -3849,11 +3849,11 @@
       "KYOMAF2019 Exhibit Commemoration Summoning Campaign"
     ],
     "dates": [
-      "9/22-10/6"
+      "9/22/2019-10/6"
     ],
     "rateups": [
       [
-        "Minamoto no Raikō (Lancer)",
+        "Minamoto no Raik\u014d (Lancer)",
         "Murasaki Shikibu",
         "Sakata Kintoki"
       ]
@@ -3865,7 +3865,7 @@
       "F/GO - Absolute Demonic Battlefront : Babylonia- Broadcast Summoning Campaign"
     ],
     "dates": [
-      "10/2-10/16"
+      "10/2/2019-10/16"
     ],
     "rateups": [
       [
@@ -3883,13 +3883,13 @@
       "Halloween 2018 Rerun Summoning Campaign"
     ],
     "dates": [
-      "10/11-10/25"
+      "10/11/2019-10/25"
     ],
     "rateups": [
       [
-        "Ibaraki Dōji",
-        "Ibaraki Dōji (Lancer)",
-        "Shuten Dōji",
+        "Ibaraki D\u014dji",
+        "Ibaraki D\u014dji (Lancer)",
+        "Shuten D\u014dji",
         "Sitonai"
       ]
     ]
@@ -3903,8 +3903,8 @@
     ],
     "dates": [
       "October 30, 2019 18:00 ~ November 13, 2019 12:59 JST",
-      "11/6-11/20",
-      "10/26-11/13"
+      "11/6/2019-11/20",
+      "10/26/2019-11/13"
     ],
     "rateups": [
       [
@@ -3913,7 +3913,7 @@
       ],
       [
         "Mysterious Heroine X (Alter)",
-        "Yagyū Munenori"
+        "Yagy\u016b Munenori"
       ],
       [
         "Mysterious Heroine X"
@@ -3926,11 +3926,11 @@
       "18M Downloads Summoning Campaign"
     ],
     "dates": [
-      "11/13-11/20"
+      "11/13/2019-11/20"
     ],
     "rateups": [
       [
-        "Scáthach-Skaði"
+        "Sc\u00e1thach-Ska\u00f0i"
       ]
     ]
   },
@@ -3940,7 +3940,7 @@
       "Fate/Prototype: Fragments of Sky Silver Drama CD Conclusion Commemoration Summoning Campaign"
     ],
     "dates": [
-      "11/20-12/4"
+      "11/20/2019-12/4"
     ],
     "rateups": [
       [
@@ -3958,12 +3958,12 @@
       "Christmas 2019 Summoning Campaign"
     ],
     "dates": [
-      "11/28-12/12"
+      "11/28/2019-12/12"
     ],
     "rateups": [
       [
         "Astolfo (Saber)",
-        "Aśvatthāman",
+        "A\u015bvatth\u0101man",
         "Boudica",
         "Darius III",
         "Gaius Julius Caesar",
@@ -3978,13 +3978,13 @@
       "Interlude Campaign 11 Summoning Campaign"
     ],
     "dates": [
-      "12/11-12/25"
+      "12/11/2019-12/25"
     ],
     "rateups": [
       [
         "Anastasia",
         "Lanling Wang",
-        "Napoléon",
+        "Napol\u00e9on",
         "Qin Liangyu"
       ]
     ]
@@ -3997,7 +3997,7 @@
     ],
     "dates": [
       "December 18, 2019 21:00 ~ December 31, 2019 23:59 JST<br />",
-      "12/25-12/31"
+      "12/25/2019-12/31"
     ],
     "rateups": [
       [
@@ -4019,15 +4019,15 @@
       "New Year 2020 Summoning Campaign"
     ],
     "dates": [
-      "1/1-1/15"
+      "1/1/2020-1/15"
     ],
     "rateups": [
       [
         "BB (Summer)",
         "Gilgamesh",
-        "Ryōgi Shiki (Saber)",
-        "Scáthach",
-        "Sesshōin Kiara",
+        "Ry\u014dgi Shiki (Saber)",
+        "Sc\u00e1thach",
+        "Sessh\u014din Kiara",
         "Shi Huang Di",
         "Yang Guifei"
       ]
@@ -4040,8 +4040,8 @@
       "New Year Event 2019 Re-Run Summoning Campaign 2"
     ],
     "dates": [
-      "1/4-1/18",
-      "1/11-1/25"
+      "1/4/2020-1/18",
+      "1/11/2020-1/25"
     ],
     "rateups": [
       [
@@ -4078,7 +4078,7 @@
       "FGO Epic of Remnant Episode I Comic Release Summoning Campaign"
     ],
     "dates": [
-      "2/1-2/15"
+      "2/1/2020-2/15"
     ],
     "rateups": [
       [
@@ -4095,7 +4095,7 @@
       "Interlude Campaign 12 Summoning Campaign"
     ],
     "dates": [
-      "2/5-2/19"
+      "2/5/2020-2/19"
     ],
     "rateups": [
       [
@@ -4111,7 +4111,7 @@
       "Valentine 2020 Summoning Campaign"
     ],
     "dates": [
-      "2/12-2/26"
+      "2/12/2020-2/26"
     ],
     "rateups": [
       [
@@ -4134,7 +4134,7 @@
         "Queen of Sheba",
         "Quetzalcoatl",
         "Scheherazade",
-        "Sei Shōnagon",
+        "Sei Sh\u014dnagon",
         "Sitonai",
         "Tamamo no Mae",
         "Xuanzang Sanzang"
@@ -4147,7 +4147,7 @@
       "19M Downloads Campaign Summoning Campaign"
     ],
     "dates": [
-      "2/26-3/6"
+      "2/26/2020-3/6"
     ],
     "rateups": [
       [
@@ -4162,18 +4162,18 @@
       "Chaldea Boys Collection 2020 Summoning Campaign"
     ],
     "dates": [
-      "3/6-3/16"
+      "3/6/2020-3/16"
     ],
     "rateups": [
       [
         "Achilles",
         "Arjuna",
         "Circe",
-        "Cú Chulainn (Alter)",
+        "C\u00fa Chulainn (Alter)",
         "Enkidu",
         "Karna",
         "Li Shuwen",
-        "Napoléon",
+        "Napol\u00e9on",
         "Nikola Tesla",
         "Odysseus",
         "Ozymandias",
@@ -4189,7 +4189,7 @@
       "CBC 2016 ~ 2019 Craft Essences Summoning Campaign"
     ],
     "dates": [
-      "3/11-3/20"
+      "3/11/2020-3/20"
     ],
     "rateups": [
       [
@@ -4204,11 +4204,11 @@
       "Absolute Demonic Battlefront Babylonia Release Campaign IV Summoning Campaign"
     ],
     "dates": [
-      "3/15-3/29"
+      "3/15/2020-3/29"
     ],
     "rateups": [
       [
-        ""The Old Man of the Mountain"",
+        "\"The Old Man of the Mountain\"",
         "Gilgamesh (Caster)",
         "Gorgon",
         "Jaguar Man",
@@ -4220,15 +4220,15 @@
   {
     "name": "Apocrypha/Inheritance of Glory Re-Run",
     "rateup_names": [
-      "Fate/Apocrypha × FGO Special Event Summoning Campaign Re-Run"
+      "Fate/Apocrypha \u00d7 FGO Special Event Summoning Campaign Re-Run"
     ],
     "dates": [
-      "3/25-4/8"
+      "3/25/2020-4/8"
     ],
     "rateups": [
       [
         "Achilles",
-        "Amakusa Shirō",
+        "Amakusa Shir\u014d",
         "Astolfo",
         "Astolfo (Saber)",
         "Atalanta",
@@ -4265,7 +4265,7 @@
       "Olympus Summoning Campaign 2"
     ],
     "dates": [
-      "4/16-4/30"
+      "4/16/2020-4/30"
     ],
     "rateups": [
       [
@@ -4279,7 +4279,7 @@
       "20M DL Summoning Campaign"
     ],
     "dates": [
-      "4/25-5/12"
+      "4/25/2020-5/12"
     ],
     "rateups": [
       [
@@ -4290,14 +4290,14 @@
         "Leonardo Da Vinci",
         "Miyamoto Musashi",
         "Sakata Kintoki",
-        "Scáthach"
+        "Sc\u00e1thach"
       ]
     ]
   },
   {
-    "name": "GUDAGUDA Final Honnōji 2019 Re-Run",
+    "name": "GUDAGUDA Final Honn\u014dji 2019 Re-Run",
     "rateup_names": [
-      "GUDAGUDA Final Honnōji 2019 Re-Run Summoning Campaign"
+      "GUDAGUDA Final Honn\u014dji 2019 Re-Run Summoning Campaign"
     ],
     "dates": [
       "May 3, 2020 18:00 ~ May 17, 2020 12:59 JST"
@@ -4308,7 +4308,7 @@
         "Li Shuwen",
         "Mori Nagayoshi",
         "Oda Nobunaga (Berserker)",
-        "Okita Sōji (Alter)"
+        "Okita S\u014dji (Alter)"
       ]
     ]
   },
@@ -4319,12 +4319,12 @@
       "Fate/Requiem Collaboration Pre-Release Summoning Campaign"
     ],
     "dates": [
-      "5/25-6/8",
-      "5/17-5/31"
+      "5/25/2020-6/8",
+      "5/17/2020-5/31"
     ],
     "rateups": [
       [
-        "Kijyo Kōyō",
+        "Kijyo K\u014dy\u014d",
         "Voyager"
       ],
       [
@@ -4343,9 +4343,9 @@
       "Las Vegas Official Bout Rerun Summoning Campaign 2"
     ],
     "dates": [
-      "6/8-6/29",
-      "6/14-6/28",
-      "6/15-6/29"
+      "6/8/2020-6/29",
+      "6/14/2020-6/28",
+      "6/15/2020-6/29"
     ],
     "rateups": [
       [
@@ -4354,14 +4354,14 @@
         "Osakabehime (Archer)"
       ],
       [
-        "Fūma Kotarō",
+        "F\u016bma Kotar\u014d",
         "Merlin",
         "Siegfried"
       ],
       [
         "Artoria Pendragon (Ruler)",
-        "Mysterious Alter Ego Λ",
-        "Okita J Sōji"
+        "Mysterious Alter Ego \u039b",
+        "Okita J S\u014dji"
       ]
     ]
   },
@@ -4371,7 +4371,7 @@
       "Interlude Campaign 13 Summoning Campaign"
     ],
     "dates": [
-      "6/29-7/13"
+      "6/29/2020-7/13"
     ],
     "rateups": [
       [
@@ -4388,7 +4388,7 @@
       "Swimsuit + AoE NP Only Summoning Campaign"
     ],
     "dates": [
-      "7/8-7/22"
+      "7/8/2020-7/22"
     ],
     "rateups": [
       [
@@ -4406,13 +4406,13 @@
         "Charles Babbage",
         "Darius III",
         "EMIYA",
-        "Elizabeth Báthory",
+        "Elizabeth B\u00e1thory",
         "Europa",
-        "Fergus mac Róich",
+        "Fergus mac R\u00f3ich",
         "Fionn mac Cumhaill",
         "Francis Drake",
         "Frankenstein",
-        "Fūma Kotarō",
+        "F\u016bma Kotar\u014d",
         "Geronimo",
         "Gilgamesh (Caster)",
         "Hector",
@@ -4432,7 +4432,7 @@
         "Mephistopheles",
         "Mordred",
         "Mordred (Rider)",
-        "Napoléon",
+        "Napol\u00e9on",
         "Nero Claudius (Caster)",
         "Nezha",
         "Nitocris",
@@ -4446,7 +4446,7 @@
         "Siegfried",
         "Suzuka Gozen",
         "Tamamo Cat",
-        "Tawara Tōta",
+        "Tawara T\u014dta",
         "Ushiwakamaru (Assassin)",
         "Valkyrie",
         "Xiang Yu"
@@ -4459,7 +4459,7 @@
       "SE.RA.PH Main Interlude Release Campaign Summoning Campaign"
     ],
     "dates": [
-      "7/15-7/29"
+      "7/15/2020-7/29"
     ],
     "rateups": [
       [
@@ -4471,9 +4471,9 @@
     ]
   },
   {
-    "name": "Tokugawa Kaiten Meikyū - Ōoku Rerun",
+    "name": "Tokugawa Kaiten Meiky\u016b - \u014coku Rerun",
     "rateup_names": [
-      "Tokugawa Kaiten Meikyū - Ōoku Rerun Summoning Campaign"
+      "Tokugawa Kaiten Meiky\u016b - \u014coku Rerun Summoning Campaign"
     ],
     "dates": [
       "July 22, 2020 18:00 ~ August 5, 2020 12:59 JST"
@@ -4481,18 +4481,18 @@
     "rateups": [
       [
         "Kama",
-        "Sesshōin Kiara",
-        "Yagyū Munenori"
+        "Sessh\u014din Kiara",
+        "Yagy\u016b Munenori"
       ]
     ]
   },
   {
-    "name": "Fate/Grand Order ～5th Anniversary～",
+    "name": "Fate/Grand Order \uff5e5th Anniversary\uff5e",
     "rateup_names": [
-      "Fate/Grand Order ～5th Anniversary～ Summoning Campaign"
+      "Fate/Grand Order \uff5e5th Anniversary\uff5e Summoning Campaign"
     ],
     "dates": [
-      "8/10-8/24"
+      "8/10/2020-8/24"
     ],
     "rateups": [
       [
@@ -4509,15 +4509,15 @@
       "Servant Summer Camp 2020 Summoning Campaign 2"
     ],
     "dates": [
-      "8/17-9/7",
-      "8/17-9/7",
-      "8/24-9/7"
+      "8/17/2020-9/7",
+      "8/17/2020-9/7",
+      "8/24/2020-9/7"
     ],
     "rateups": [
       [
         "Brynhildr (Berserker)",
         "Illyasviel von Einzbern (Archer)",
-        "Sesshōin Kiara (Moon Cancer)"
+        "Sessh\u014din Kiara (Moon Cancer)"
       ],
       [
         "EMIYA",
@@ -4537,7 +4537,7 @@
       "21M Downloads Summoning Campaign"
     ],
     "dates": [
-      "9/7-9/21"
+      "9/7/2020-9/21"
     ],
     "rateups": [
       [
@@ -4556,14 +4556,14 @@
       "Interlude Campaign 14 Summoning Campaign"
     ],
     "dates": [
-      "9/14-9/28"
+      "9/14/2020-9/28"
     ],
     "rateups": [
       [
         "Atalanta (Alter)",
         "Avicebron",
         "Red Hare",
-        "Shuten Dōji"
+        "Shuten D\u014dji"
       ]
     ]
   },
@@ -4573,13 +4573,13 @@
       "Dance Tournament in the Land of Shadows Summoning Campaign"
     ],
     "dates": [
-      "9/18-10/2"
+      "9/18/2020-10/2"
     ],
     "rateups": [
       [
         "Diarmuid Ua Duibhne (Saber)",
         "Fionn mac Cumhaill",
-        "Scáthach",
+        "Sc\u00e1thach",
         "Tamamo Cat"
       ]
     ]
@@ -4590,13 +4590,13 @@
       "GUDAGUDA Summoning Campaign"
     ],
     "dates": [
-      "10/2-10/16"
+      "10/2/2020-10/16"
     ],
     "rateups": [
       [
-        "Hijikata Toshizō",
-        "Okada Izō",
-        "Okita Sōji"
+        "Hijikata Toshiz\u014d",
+        "Okada Iz\u014d",
+        "Okita S\u014dji"
       ]
     ]
   },
@@ -4607,13 +4607,13 @@
       "GUDAGUDA Yamatai-koku 2020"
     ],
     "dates": [
-      "10/9-10/23",
-      "10/9-10/23"
+      "10/9/2020-10/23",
+      "10/9/2020-10/23"
     ],
     "rateups": [
       [
         "Himiko",
-        "Saitō Hajime"
+        "Sait\u014d Hajime"
       ],
       [
         "Oda Nobukatsu"
@@ -4626,13 +4626,13 @@
       "Christmas 2019 Re-Run"
     ],
     "dates": [
-      "10/23-11/4"
+      "10/23/2020-11/4"
     ],
     "rateups": [
       [
         "Astolfo",
         "Astolfo (Saber)",
-        "Aśvatthāman",
+        "A\u015bvatth\u0101man",
         "Bradamante",
         "Darius III",
         "Gaius Julius Caesar",
@@ -4648,8 +4648,8 @@
       "Imaginary Scramble Pre-Release Summoning Campaign"
     ],
     "dates": [
-      "11/11-11/25",
-      "11/4-11/18"
+      "11/11/2020-11/25",
+      "11/4/2020-11/18"
     ],
     "rateups": [
       [
@@ -4658,7 +4658,7 @@
       ],
       [
         "Frankenstein (Saber)",
-        "Minamoto no Raikō (Lancer)",
+        "Minamoto no Raik\u014d (Lancer)",
         "Mysterious Heroine XX",
         "Yang Guifei"
       ]
@@ -4670,7 +4670,7 @@
       "22M Downloads Summoning Campaign"
     ],
     "dates": [
-      "11/25-12/9"
+      "11/25/2020-12/9"
     ],
     "rateups": [
       [
@@ -4679,31 +4679,31 @@
     ]
   },
   {
-    "name": "Heian-kyō Chapter Release",
+    "name": "Heian-ky\u014d Chapter Release",
     "rateup_names": [
-      "Heian-kyō Chapter Release Summoning Campaign",
-      "Realm of Hell Mandala - Heian-kyō Pre-Release Summoning Campaign",
-      "Heian-kyō Summoning Campaign 2"
+      "Heian-ky\u014d Chapter Release Summoning Campaign",
+      "Realm of Hell Mandala - Heian-ky\u014d Pre-Release Summoning Campaign",
+      "Heian-ky\u014d Summoning Campaign 2"
     ],
     "dates": [
-      "12/4-12/18",
-      "11/27-12/11",
-      "12/11-12/25"
+      "12/4/2020-12/18",
+      "11/27/2020-12/11",
+      "12/11/2020-12/25"
     ],
     "rateups": [
       [
-        "Ashiya Dōman",
+        "Ashiya D\u014dman",
         "Watanabe no Tsuna"
       ],
       [
-        "Ibaraki Dōji",
-        "Katō Danzō",
-        "Minamoto no Raikō",
+        "Ibaraki D\u014dji",
+        "Kat\u014d Danz\u014d",
+        "Minamoto no Raik\u014d",
         "Sakata Kintoki"
       ],
       [
         "Charles Babbage",
-        "Ibuki Dōji",
+        "Ibuki D\u014dji",
         "Medea (Lily)",
         "Paracelsus von Hohenheim"
       ]
@@ -4717,7 +4717,7 @@
     ],
     "dates": [
       "December 16, 2020 18:00 ~ December 30, 2020 12:59 JST<br/>",
-      "12/23-12/31"
+      "12/23/2020-12/31"
     ],
     "rateups": [
       [
@@ -4738,7 +4738,7 @@
       "New Year 2021 Summoning Campaign"
     ],
     "dates": [
-      "1/1-1/15"
+      "1/1/2021-1/15"
     ],
     "rateups": [
       [
@@ -4760,7 +4760,7 @@
     ],
     "dates": [
       "January 6, 2021 18:00 ~ January 20, 2021 12:59 JST",
-      "1/13-1/27"
+      "1/13/2021-1/27"
     ],
     "rateups": [
       [
@@ -4769,7 +4769,7 @@
       ],
       [
         "Mysterious Heroine X",
-        "Yagyū Munenori"
+        "Yagy\u016b Munenori"
       ]
     ]
   },
@@ -4783,7 +4783,7 @@
     ],
     "rateups": [
       [
-        "Cú Chulainn (Alter)",
+        "C\u00fa Chulainn (Alter)",
         "Queen Medb",
         "Taira no Kagekiyo",
         "Ushiwakamaru"
@@ -4796,7 +4796,7 @@
       "Holy Grail Front ~Et tu, Brute?~ Summoning Campaign"
     ],
     "dates": [
-      "2/3-2/17"
+      "2/3/2021-2/17"
     ],
     "rateups": [
       [
@@ -4816,7 +4816,7 @@
       "Valentine 2021 Summoning Campaign"
     ],
     "dates": [
-      "2/10-2/24"
+      "2/10/2021-2/24"
     ],
     "rateups": [
       [
@@ -4852,11 +4852,11 @@
       "Valentine 2020 Summoning Campaign Re-Run"
     ],
     "dates": [
-      "2/17-3/3"
+      "2/17/2021-3/3"
     ],
     "rateups": [
       [
-        "Sei Shōnagon"
+        "Sei Sh\u014dnagon"
       ]
     ]
   },
@@ -4866,7 +4866,7 @@
       "23M Downloads Summoning Campaign"
     ],
     "dates": [
-      "2/24-3/10"
+      "2/24/2021-3/10"
     ],
     "rateups": [
       [
@@ -4881,21 +4881,21 @@
       "Chaldea Boys Collection 2021 Summoning Campaign 3"
     ],
     "dates": [
-      "3/3-3/17",
-      "3/10-3/24"
+      "3/3/2021-3/17",
+      "3/10/2021-3/24"
     ],
     "rateups": [
       [
         "Achilles",
-        "Amakusa Shirō",
+        "Amakusa Shir\u014d",
         "Arjuna",
-        "Cú Chulainn (Alter)",
+        "C\u00fa Chulainn (Alter)",
         "Dioscuri",
         "Enkidu",
         "Jing Ke",
         "Karna",
         "Li Shuwen",
-        "Napoléon",
+        "Napol\u00e9on",
         "Nemo",
         "Nikola Tesla",
         "Odysseus",
@@ -4922,9 +4922,9 @@
     ],
     "dates": [
       "March 24, 2021 18:00 ~ April 7, 2021 12:59 JST",
-      "3/15-3/31",
-      "3/15-3/31",
-      "3/15-3/31"
+      "3/15/2021-3/31",
+      "3/15/2021-3/31",
+      "3/15/2021-3/31"
     ],
     "rateups": [
       [
@@ -4940,31 +4940,31 @@
         "Artoria Pendragon (Lancer Alter)",
         "Artoria Pendragon (Lancer)",
         "Atalanta",
-        "Aśvatthāman",
+        "A\u015bvatth\u0101man",
         "Bedivere",
         "Billy the Kid",
         "Bradamante",
         "Caenis",
         "Chevalier d'Eon",
         "Chiron",
-        "Cú Chulainn",
-        "Cú Chulainn (Prototype)",
+        "C\u00fa Chulainn",
+        "C\u00fa Chulainn (Prototype)",
         "David",
         "Diarmuid Ua Duibhne",
         "Diarmuid Ua Duibhne (Saber)",
         "Dioscuri",
         "EMIYA",
         "EMIYA (Alter)",
-        "Elizabeth Báthory",
+        "Elizabeth B\u00e1thory",
         "Enkidu",
         "Euryale",
-        "Fergus mac Róich",
+        "Fergus mac R\u00f3ich",
         "Fionn mac Cumhaill",
         "Gaius Julius Caesar",
         "Gawain",
         "Gilles de Rais (Saber)",
         "Hector",
-        "Hōzōin Inshun",
+        "H\u014dz\u014din Inshun",
         "Jaguar Man",
         "Karna",
         "Kid Gil",
@@ -4974,7 +4974,7 @@
         "Li Shuwen (Lancer)",
         "Medusa (Lancer)",
         "Mordred",
-        "Napoléon",
+        "Napol\u00e9on",
         "Nero Claudius",
         "Nezha",
         "Nikola Tesla",
@@ -4986,7 +4986,7 @@
         "Romulus",
         "Siegfried",
         "Suzuka Gozen",
-        "Tawara Tōta",
+        "Tawara T\u014dta",
         "Tomoe Gozen",
         "Tristan",
         "Valkyrie",
@@ -4994,7 +4994,7 @@
         "Vritra",
         "Watanabe no Tsuna",
         "William Tell",
-        "Yagyū Munenori"
+        "Yagy\u016b Munenori"
       ],
       [
         "Achilles",
@@ -5012,14 +5012,14 @@
         "Christopher Columbus",
         "Circe",
         "Consort Yu",
-        "Cú Chulainn (Alter)",
-        "Cú Chulainn (Caster)",
+        "C\u00fa Chulainn (Alter)",
+        "C\u00fa Chulainn (Caster)",
         "Darius III",
         "EMIYA (Assassin)",
         "Europa",
         "Francis Drake",
         "Frankenstein",
-        "Fūma Kotarō",
+        "F\u016bma Kotar\u014d",
         "Geronimo",
         "Gilgamesh (Caster)",
         "Gilles de Rais",
@@ -5028,10 +5028,10 @@
         "Helena Blavatsky",
         "Henry Jekyll & Hyde",
         "Heracles",
-        "Ibaraki Dōji",
+        "Ibaraki D\u014dji",
         "Jack the Ripper",
         "Jing Ke",
-        "Katō Danzō",
+        "Kat\u014d Danz\u014d",
         "Kiyohime",
         "Lancelot",
         "Li Shuwen",
@@ -5087,11 +5087,11 @@
       "Spring in Full Bloom Summoning Campaign Summoning Campaign"
     ],
     "dates": [
-      "4/7-4/21"
+      "4/7/2021-4/21"
     ],
     "rateups": [
       [
-        "Hōzōin Inshun",
+        "H\u014dz\u014din Inshun",
         "Katsushika Hokusai",
         "Mochizuki Chiyome",
         "Tamamo no Mae"
@@ -5104,7 +5104,7 @@
       "Servant Strengthening Quests Part XIII Summoning Campaign"
     ],
     "dates": [
-      "4/14-4/28"
+      "4/14/2021-4/28"
     ],
     "rateups": [
       [
@@ -5123,14 +5123,14 @@
       "FGO x Waltz in the Moonlight Lostroom Collaboration Pre-Release Summoning Campaign Summoning Campaign"
     ],
     "dates": [
-      "4/21-5/5"
+      "4/21/2021-5/5"
     ],
     "rateups": [
       [
         "Euryale",
         "Helena Blavatsky",
         "Jeanne d'Arc",
-        "Shuten Dōji"
+        "Shuten D\u014dji"
       ]
     ]
   },
@@ -5183,7 +5183,7 @@
       "Holy Grail Front ~My Super Camelot 2021~ Summoning Campaign"
     ],
     "dates": [
-      "5/12-5/26"
+      "5/12/2021-5/26"
     ],
     "rateups": [
       [
@@ -5203,15 +5203,15 @@
       "Servant Summer Camp 2020 Rerun Summoning Campaign 2"
     ],
     "dates": [
-      "5/19-6/9",
-      "5/19-6/9",
-      "5/26-6/9"
+      "5/19/2021-6/9",
+      "5/19/2021-6/9",
+      "5/26/2021-6/9"
     ],
     "rateups": [
       [
         "Brynhildr (Berserker)",
         "Illyasviel von Einzbern (Archer)",
-        "Sesshōin Kiara (Moon Cancer)"
+        "Sessh\u014din Kiara (Moon Cancer)"
       ],
       [
         "EMIYA",
@@ -5248,13 +5248,13 @@
     ],
     "dates": [
       "June 11, 2021 20:30 ~ June 25, 2021 12:59 JST<br />",
-      "6/25-7/2"
+      "6/25/2021-7/2"
     ],
     "rateups": [
       [
         "Baobhan Sith",
         "Barghest",
-        "Cú Chulainn (Caster)",
+        "C\u00fa Chulainn (Caster)",
         "Morgan"
       ],
       [
@@ -5268,7 +5268,7 @@
       "Interlude Campaign 16 Summoning Campaign"
     ],
     "dates": [
-      "6/23-7/7"
+      "6/23/2021-7/7"
     ],
     "rateups": [
       [
@@ -5285,7 +5285,7 @@
       "Grand Nero Fest 2021 Summoning Campaign"
     ],
     "dates": [
-      "6/30-7/14"
+      "6/30/2021-7/14"
     ],
     "rateups": [
       [
@@ -5308,19 +5308,19 @@
     ],
     "rateups": [
       [
-        "Mélusine",
+        "M\u00e9lusine",
         "Percival"
       ]
     ]
   },
   {
-    "name": "Fate/Grand Order ～6th Anniversary～",
+    "name": "Fate/Grand Order \uff5e6th Anniversary\uff5e",
     "rateup_names": [
-      "Fate/Grand Order ～6th Anniversary～ Summoning Campaign",
-      "Fate/Grand Order ～6th Anniversary～ Commemorative Campaign Summoning Campaign"
+      "Fate/Grand Order \uff5e6th Anniversary\uff5e Summoning Campaign",
+      "Fate/Grand Order \uff5e6th Anniversary\uff5e Commemorative Campaign Summoning Campaign"
     ],
     "dates": [
-      "8/1-8/15",
+      "8/1/2021-8/15",
       "July 27, 2021 18:00 ~ August 1, 2021 12:59 JST<br />"
     ],
     "rateups": [
@@ -5330,7 +5330,7 @@
         "Asclepius",
         "Atalanta (Alter)",
         "Avicebron",
-        "Aśvatthāman",
+        "A\u015bvatth\u0101man",
         "Caenis",
         "Consort Yu",
         "Dioscuri",
@@ -5341,7 +5341,7 @@
         "Lanling Wang",
         "Li Shuwen",
         "Mandricardo",
-        "Napoléon",
+        "Napol\u00e9on",
         "Qin Liangyu",
         "Red Hare",
         "Sitonai",
@@ -5362,7 +5362,7 @@
     ],
     "dates": [
       "August 11, 2021 18:00 ~ August 25, 2021 12:59 JST<br />",
-      "8/18-9/1"
+      "8/18/2021-9/1"
     ],
     "rateups": [
       [
@@ -5405,17 +5405,17 @@
       "Chaldea Summer Adventure Pre-Release Campaign Summoning Campaign"
     ],
     "dates": [
-      "9/8-9/29",
-      "9/8-9/29",
-      "9/15-9/29",
-      "9/22-9/29",
+      "9/8/2021-9/29",
+      "9/8/2021-9/29",
+      "9/15/2021-9/29",
+      "9/22/2021-9/29",
       "September 1, 2021 18:00 ~ September 8, 2021 12:59 JST<br />"
     ],
     "rateups": [
       [
         "Anastasia & Viy",
         "Charlotte Corday (Caster)",
-        "Okita Sōji (Saber Alter)"
+        "Okita S\u014dji (Saber Alter)"
       ],
       [
         "Achilles",
@@ -5424,10 +5424,10 @@
       [
         "Caenis (Rider)",
         "Kama (Avenger)",
-        "Sei Shōnagon (Berserker)"
+        "Sei Sh\u014dnagon (Berserker)"
       ],
       [
-        "Ashiya Dōman",
+        "Ashiya D\u014dman",
         "Christopher Columbus"
       ],
       [
@@ -5444,11 +5444,11 @@
       "Interlude Campaign 17 Summoning Campaign"
     ],
     "dates": [
-      "9/29-10/13"
+      "9/29/2021-10/13"
     ],
     "rateups": [
       [
-        "Okita Sōji (Alter)",
+        "Okita S\u014dji (Alter)",
         "Van Gogh"
       ]
     ]
@@ -5473,15 +5473,15 @@
       "Halloween Trilogy Summoning Campaign"
     ],
     "dates": [
-      "10/6-10/20"
+      "10/6/2021-10/20"
     ],
     "rateups": [
       [
         "Carmilla",
         "Cleopatra",
-        "Elizabeth Báthory",
+        "Elizabeth B\u00e1thory",
         "Gaius Julius Caesar",
-        "Ibaraki Dōji",
+        "Ibaraki D\u014dji",
         "Kiyohime",
         "Nitocris",
         "Osakabehime",
@@ -5516,8 +5516,8 @@
       "Halloween 2021 Event Summoning 2"
     ],
     "dates": [
-      "10/20-11/3",
-      "10/22-11/3"
+      "10/20/2021-11/3",
+      "10/22/2021-11/3"
     ],
     "rateups": [
       [
@@ -5527,7 +5527,7 @@
       [
         "Bedivere",
         "Chevalier d'Eon",
-        "Napoléon"
+        "Napol\u00e9on"
       ]
     ]
   },
@@ -5541,7 +5541,7 @@
     ],
     "rateups": [
       [
-        "Amakusa Shirō",
+        "Amakusa Shir\u014d",
         "Astolfo",
         "Astolfo (Saber)",
         "Atalanta",
@@ -5565,15 +5565,15 @@
       "GUDAGUDA Yamatai-koku 2020 Rerun"
     ],
     "dates": [
-      "11/3-11/17",
-      "11/3-11/17"
+      "11/3/2021-11/17",
+      "11/3/2021-11/17"
     ],
     "rateups": [
       [
-        "Hijikata Toshizō",
+        "Hijikata Toshiz\u014d",
         "Himiko",
-        "Okita Sōji",
-        "Saitō Hajime"
+        "Okita S\u014dji",
+        "Sait\u014d Hajime"
       ],
       [
         "Oda Nobukatsu"
@@ -5586,11 +5586,11 @@
       "24M Downloads Summoning Campaign"
     ],
     "dates": [
-      "11/10-11/24"
+      "11/10/2021-11/24"
     ],
     "rateups": [
       [
-        "Ibuki Dōji",
+        "Ibuki D\u014dji",
         "Sakata Kintoki",
         "Watanabe no Tsuna"
       ]
@@ -5611,14 +5611,14 @@
         "Izumo no Okuni",
         "Mori Nagayoshi",
         "Oda Nobunaga (Berserker)",
-        "Okada Izō"
+        "Okada Iz\u014d"
       ],
       [
         "Demon King Nobunaga",
         "Mori Nagayoshi",
-        "Okada Izō",
-        "Okita J Sōji",
-        "Sakamoto Ryōma (Lancer)"
+        "Okada Iz\u014d",
+        "Okita J S\u014dji",
+        "Sakamoto Ry\u014dma (Lancer)"
       ]
     ]
   },
@@ -5628,7 +5628,7 @@
       "Interlude Campaign 18 Summoning Campaign"
     ],
     "dates": [
-      "12/2-12/16"
+      "12/2/2021-12/16"
     ],
     "rateups": [
       [
@@ -5650,7 +5650,7 @@
         "Beni-Enma",
         "EMIYA",
         "Martha",
-        "Scáthach-Skaði"
+        "Sc\u00e1thach-Ska\u00f0i"
       ]
     ]
   },
@@ -5660,12 +5660,12 @@
       "Avalon le Fae Clear Aid Summoning Campaign"
     ],
     "dates": [
-      "12/17-12/31"
+      "12/17/2021-12/31"
     ],
     "rateups": [
       [
         "Lancelot (Saber)",
-        "Mélusine",
+        "M\u00e9lusine",
         "Percival"
       ]
     ]
@@ -5691,16 +5691,16 @@
       "New Year 2022 Summoning Campaign"
     ],
     "dates": [
-      "1/1-1/10"
+      "1/1/2022-1/10"
     ],
     "rateups": [
       [
-        ""The Old Man of the Mountain"",
+        "\"The Old Man of the Mountain\"",
         "Arthur Pendragon (Prototype)",
         "Iskandar",
         "Koyanskaya of Darkness",
         "Leonardo Da Vinci",
-        "Scáthach",
+        "Sc\u00e1thach",
         "Taira no Kagekiyo"
       ]
     ]
@@ -5711,7 +5711,7 @@
       "Koyanskaya of Light Summoning Campaign"
     ],
     "dates": [
-      "1/10-1/12"
+      "1/10/2022-1/12"
     ],
     "rateups": [
       [
@@ -5746,11 +5746,11 @@
       "Prison Tower Free Access Commemorative Summoning Campaign"
     ],
     "dates": [
-      "1/19-1/25"
+      "1/19/2022-1/25"
     ],
     "rateups": [
       [
-        "Edmond Dantès",
+        "Edmond Dant\u00e8s",
         "Nightingale"
       ]
     ]
@@ -5761,7 +5761,7 @@
       "Arjuna & Karna Summoning Campaign"
     ],
     "dates": [
-      "1/19-1/25"
+      "1/19/2022-1/25"
     ],
     "rateups": [
       [
@@ -5776,7 +5776,7 @@
       "Merry Christmas from the Underworld Free Access Commemorative Summoning Campaign"
     ],
     "dates": [
-      "1/26-2/1"
+      "1/26/2022-2/1"
     ],
     "rateups": [
       [
@@ -5809,7 +5809,7 @@
         "Jack the Ripper",
         "Jeanne d'Arc",
         "Jinako Carigiri",
-        "Manannán mac Lir (Bazett)",
+        "Manann\u00e1n mac Lir (Bazett)",
         "Mordred",
         "Nightingale",
         "Orion",
@@ -5826,7 +5826,7 @@
         "Murasaki Shikibu",
         "Mysterious Heroine X (Alter)",
         "Nero Claudius (Bride)",
-        "Sei Shōnagon",
+        "Sei Sh\u014dnagon",
         "Semiramis"
       ]
     ]
@@ -5837,7 +5837,7 @@
       "Valentine 2021 Summoning Campaign Rerun"
     ],
     "dates": [
-      "2/16-2/23"
+      "2/16/2022-2/23"
     ],
     "rateups": [
       [
@@ -5851,7 +5851,7 @@
       "SE.RA.PH Free Access Commemorative Summoning Campaign"
     ],
     "dates": [
-      "2/23-3/2"
+      "2/23/2022-3/2"
     ],
     "rateups": [
       [
@@ -5869,27 +5869,27 @@
       "White Day 2022 Merlin Summoning Campaign"
     ],
     "dates": [
-      "3/2-3/16",
-      "3/12-3/14"
+      "3/2/2022-3/16",
+      "3/12/2022-3/14"
     ],
     "rateups": [
       [
         "Achilles",
         "Arjuna",
         "Arjuna (Alter)",
-        "Cú Chulainn (Alter)",
+        "C\u00fa Chulainn (Alter)",
         "Dioscuri",
         "Enkidu",
         "Gawain",
         "Karna",
         "Li Shuwen",
-        "Napoléon",
+        "Napol\u00e9on",
         "Nemo",
         "Nikola Tesla",
         "Odysseus",
         "Ozymandias",
         "Paracelsus von Hohenheim",
-        "Saitō Hajime",
+        "Sait\u014d Hajime",
         "Taigong Wang",
         "Vlad III",
         "Xiang Yu",
@@ -5926,7 +5926,7 @@
     ],
     "dates": [
       "March 16, 2022 18:00 ~ March 30, 2022 12:59 JST",
-      "3/23-3/30"
+      "3/23/2022-3/30"
     ],
     "rateups": [
       [
@@ -5952,8 +5952,8 @@
     "rateups": [
       [
         "Brynhildr",
-        "Napoléon",
-        "Scáthach-Skaði",
+        "Napol\u00e9on",
+        "Sc\u00e1thach-Ska\u00f0i",
         "Sigurd",
         "Sitonai",
         "Valkyrie"
@@ -5968,11 +5968,11 @@
     ],
     "dates": [
       "April 6, 2022 18:00 ~ April 27, 2022 12:59 JST",
-      "4/13-4/20"
+      "4/13/2022-4/20"
     ],
     "rateups": [
       [
-        "Mysterious Alter Ego Λ",
+        "Mysterious Alter Ego \u039b",
         "Trung Sisters"
       ],
       [
@@ -5988,8 +5988,8 @@
       "FGO x Learn with Manga! Collaboration Pre-Release Summoning Campaign"
     ],
     "dates": [
-      "4/27-5/18",
-      "4/20-5/10"
+      "4/27/2022-5/18",
+      "4/20/2022-5/10"
     ],
     "rateups": [
       [
@@ -6031,7 +6031,7 @@
         "Jacques de Molay",
         "Jeanne d'Arc (Alter)",
         "Miss Crane",
-        "Shuten Dōji",
+        "Shuten D\u014dji",
         "Yang Guifei"
       ]
     ]
@@ -6050,7 +6050,7 @@
       "June 8, 2022 18:00 ~ June 15, 2022 12:59 JST",
       "June 10, 2022 18:00 ~ June 17, 2022 12:59 JST",
       "May 18, 2022 18:00 ~ June 8, 2022 12:59 JST",
-      "5/25-6/1"
+      "5/25/2022-6/1"
     ],
     "rateups": [
       [
@@ -6132,24 +6132,24 @@
       [
         "Hessian Lobo",
         "Kyokutei Bakin",
-        "Okada Izō"
+        "Okada Iz\u014d"
       ],
       [
         "Hessian Lobo",
         "Minamoto no Tametomo",
-        "Okada Izō"
+        "Okada Iz\u014d"
       ],
       [
         "Hessian Lobo",
         "Katsushika Hokusai",
-        "Okada Izō"
+        "Okada Iz\u014d"
       ]
     ]
   },
   {
-    "name": "Main Interlude: Ōoku Release Campaign",
+    "name": "Main Interlude: \u014coku Release Campaign",
     "rateup_names": [
-      "Main Interlude: Ōoku Release Campaign Summoning Campaign"
+      "Main Interlude: \u014coku Release Campaign Summoning Campaign"
     ],
     "dates": [
       "July 13, 2022 18:00 ~ July 22, 2022 12:59 JST"
@@ -6159,17 +6159,17 @@
         "Kama",
         "Parvati",
         "Scheherazade",
-        "Sesshōin Kiara"
+        "Sessh\u014din Kiara"
       ]
     ]
   },
   {
-    "name": "Fate/Grand Order ～7th Anniversary～ Countdown Campaign",
+    "name": "Fate/Grand Order \uff5e7th Anniversary\uff5e Countdown Campaign",
     "rateup_names": [
-      "Fate/Grand Order ～7th Anniversary～ Countdown Campaign Summoning Campaign"
+      "Fate/Grand Order \uff5e7th Anniversary\uff5e Countdown Campaign Summoning Campaign"
     ],
     "dates": [
-      "7/21-7/31"
+      "7/21/2022-7/31"
     ],
     "rateups": [
       [
@@ -6178,7 +6178,7 @@
         "Artoria Pendragon (Ruler)",
         "Brynhildr (Berserker)",
         "Carmilla (Rider)",
-        "Ibaraki Dōji (Lancer)",
+        "Ibaraki D\u014dji (Lancer)",
         "Illyasviel von Einzbern (Archer)",
         "Jeanne d'Arc (Archer)",
         "Kiyohime (Lancer)",
@@ -6186,20 +6186,20 @@
         "Mordred (Rider)",
         "Nitocris (Assassin)",
         "Queen Medb (Saber)",
-        "Sesshōin Kiara (Moon Cancer)",
+        "Sessh\u014din Kiara (Moon Cancer)",
         "Tomoe Gozen (Saber)"
       ]
     ]
   },
   {
-    "name": "Fate/Grand Order ～7th Anniversary～",
+    "name": "Fate/Grand Order \uff5e7th Anniversary\uff5e",
     "rateup_names": [
-      "Fate/Grand Order ～7th Anniversary～ Summoning Campaign",
-      "Fate/Grand Order ～7th Anniversary～ Daily Summoning Campaign"
+      "Fate/Grand Order \uff5e7th Anniversary\uff5e Summoning Campaign",
+      "Fate/Grand Order \uff5e7th Anniversary\uff5e Daily Summoning Campaign"
     ],
     "dates": [
-      "7/31-8/10",
-      "8/3-8/11"
+      "7/31/2022-8/10",
+      "8/3/2022-8/11"
     ],
     "rateups": [
       [
@@ -6213,7 +6213,7 @@
         "Murasaki Shikibu (Rider)",
         "Mysterious Heroine X",
         "Nero Claudius (Caster)",
-        "Ryōgi Shiki (Saber)",
+        "Ry\u014dgi Shiki (Saber)",
         "Ushiwakamaru (Assassin)",
         "Voyager",
         "Xu Fu"
@@ -6241,15 +6241,15 @@
       ],
       [
         "Asclepius",
-        "Ashiya Dōman",
+        "Ashiya D\u014dman",
         "Yan Qing"
       ],
       [
-        "Ibuki Dōji (Berserker)",
+        "Ibuki D\u014dji (Berserker)",
         "Utsumi Erice (Avenger)"
       ],
       [
-        "Scáthach-Skaði (Ruler)",
+        "Sc\u00e1thach-Ska\u00f0i (Ruler)",
         "Wu Zetian (Caster)"
       ]
     ]
@@ -6260,7 +6260,7 @@
       "Summer 2021 Summoning Campaign Rerun"
     ],
     "dates": [
-      "8/21-8/31"
+      "8/21/2022-8/31"
     ],
     "rateups": [
       [
@@ -6268,8 +6268,8 @@
         "Caenis (Rider)",
         "Charlotte Corday (Caster)",
         "Kama (Avenger)",
-        "Okita Sōji (Saber Alter)",
-        "Sei Shōnagon (Berserker)"
+        "Okita S\u014dji (Saber Alter)",
+        "Sei Sh\u014dnagon (Berserker)"
       ]
     ]
   },
@@ -6289,11 +6289,11 @@
         "Space Ishtar"
       ],
       [
-        "Amakusa Shirō",
+        "Amakusa Shir\u014d",
         "Ereshkigal",
-        "Ibuki Dōji",
+        "Ibuki D\u014dji",
         "Ishtar",
-        "Minamoto no Raikō",
+        "Minamoto no Raik\u014d",
         "Mysterious Heroine X (Alter)"
       ]
     ]
@@ -6310,7 +6310,7 @@
       [
         "Arjuna (Alter)",
         "Asclepius",
-        "Aśvatthāman",
+        "A\u015bvatth\u0101man",
         "Jinako Carigiri",
         "Karna",
         "Lakshmibai",
@@ -6328,26 +6328,26 @@
     ],
     "dates": [
       "September 14, 2022 18:00 ~ October 5, 2022 12:59 JST",
-      "9/17-9/25"
+      "9/17/2022-9/25"
     ],
     "rateups": [
       [
         "Mori Nagayoshi",
-        "Sen no Rikyū",
+        "Sen no Riky\u016b",
         "Yamanami Keisuke"
       ],
       [
         "Demon King Nobunaga",
-        "Hijikata Toshizō",
+        "Hijikata Toshiz\u014d",
         "Himiko",
         "Izumo no Okuni",
         "Mori Nagayoshi",
         "Oda Nobunaga (Berserker)",
-        "Okita J Sōji",
-        "Okita Sōji",
-        "Okita Sōji (Alter)",
-        "Saitō Hajime",
-        "Sakamoto Ryōma (Lancer)"
+        "Okita J S\u014dji",
+        "Okita S\u014dji",
+        "Okita S\u014dji (Alter)",
+        "Sait\u014d Hajime",
+        "Sakamoto Ry\u014dma (Lancer)"
       ]
     ]
   },
@@ -6409,9 +6409,9 @@
         "Jacques de Molay",
         "Murasaki Shikibu",
         "Qin Liangyu",
-        "Sei Shōnagon",
+        "Sei Sh\u014dnagon",
         "Taigong Wang",
-        "Yagyū Munenori",
+        "Yagy\u016b Munenori",
         "Yan Qing"
       ]
     ]
@@ -6427,7 +6427,7 @@
     "rateups": [
       [
         "Frankenstein (Saber)",
-        "Minamoto no Raikō (Lancer)",
+        "Minamoto no Raik\u014d (Lancer)",
         "Nemo",
         "Van Gogh"
       ]
@@ -6489,7 +6489,7 @@
         "Nursery Rhyme"
       ],
       [
-        "Cú Chulainn (Alter)",
+        "C\u00fa Chulainn (Alter)",
         "Fionn mac Cumhaill",
         "Geronimo",
         "Queen Medb",
@@ -6497,7 +6497,7 @@
         "Thomas Edison"
       ],
       [
-        "Edmond Dantès"
+        "Edmond Dant\u00e8s"
       ],
       [
         "Bedivere",
@@ -6517,14 +6517,14 @@
         "Abigail Williams",
         "Circe",
         "EMIYA (Alter)",
-        "Hōzōin Inshun",
+        "H\u014dz\u014din Inshun",
         "James Moriarty",
-        "Katō Danzō",
+        "Kat\u014d Danz\u014d",
         "Miyamoto Musashi",
         "Penthesilea",
         "Queen of Sheba",
         "Scheherazade",
-        "Yagyū Munenori"
+        "Yagy\u016b Munenori"
       ]
     ]
   },
@@ -6540,7 +6540,7 @@
       "November 9, 2022 20:00 ~ November 23, 2022 12:59 JST",
       "November 13, 2022 18:00 ~ November 16, 2022 12:59 JST",
       "November 17, 2022 18:00 ~ November 21, 2022 12:59 JST",
-      "11/3-11/10"
+      "11/3/2022-11/10"
     ],
     "rateups": [
       [
@@ -6591,8 +6591,8 @@
     ],
     "rateups": [
       [
-        "Cú Chulainn (Caster)",
-        "Mélusine",
+        "C\u00fa Chulainn (Caster)",
+        "M\u00e9lusine",
         "Oberon",
         "Percival",
         "Red Hare",
@@ -6620,12 +6620,12 @@
     ]
   },
   {
-    "name": "MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dantès Game Entry Commemorative Campaign",
+    "name": "MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dant\u00e8s Game Entry Commemorative Campaign",
     "rateup_names": [
-      "MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dantès Game Entry Commemorative Campaign"
+      "MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dant\u00e8s Game Entry Commemorative Campaign"
     ],
     "dates": [
-      "12/12-12/19"
+      "12/12/2022-12/19"
     ],
     "rateups": [
       [
@@ -6640,7 +6640,7 @@
       "Fate/EXTRA Last Encore BD Standard Edition & OST Release Campaign"
     ],
     "dates": [
-      "12/14-12/21"
+      "12/14/2022-12/21"
     ],
     "rateups": [
       [
@@ -6669,12 +6669,12 @@
       "FGO Winter Party 2022-2023 Campaign: Hokkaido Summoning Campaign"
     ],
     "dates": [
-      "12/21-12/31"
+      "12/21/2022-12/31"
     ],
     "rateups": [
       [
         "James Moriarty (Ruler)",
-        "Mysterious Alter Ego Λ"
+        "Mysterious Alter Ego \u039b"
       ]
     ]
   },
@@ -6684,7 +6684,7 @@
       "New Year 2023 Summoning Campaign"
     ],
     "dates": [
-      "1/1-1/11"
+      "1/1/2023-1/11"
     ],
     "rateups": [
       [
@@ -6695,7 +6695,7 @@
         "Don Quixote",
         "Gilgamesh",
         "Grigori Rasputin",
-        "Kijyo Kōyō",
+        "Kijyo K\u014dy\u014d",
         "Kingprotea",
         "Koyanskaya of Darkness",
         "Miyu Edelfelt",
@@ -6713,8 +6713,8 @@
       "Nahui Mictlan Lostbelt Part II Pre-Release Campaign Summoning Campaign 2"
     ],
     "dates": [
-      "1/11-1/18",
-      "1/18-2/1"
+      "1/11/2023-1/18",
+      "1/18/2023-2/1"
     ],
     "rateups": [
       [
@@ -6733,8 +6733,8 @@
       "Nahui Mictlan Chapter Release Part 2 Summoning Campaign 2"
     ],
     "dates": [
-      "1/31-2/14",
-      "2/7-2/21"
+      "1/31/2023-2/14",
+      "2/7/2023-2/21"
     ],
     "rateups": [
       [
@@ -6753,7 +6753,7 @@
       "27M DL Summoning Campaign"
     ],
     "dates": [
-      "2/13-2/20"
+      "2/13/2023-2/20"
     ],
     "rateups": [
       [
@@ -6769,7 +6769,7 @@
     ],
     "dates": [
       "February 17, 2023 18:00 ~ March 10, 2023 12:59 JST",
-      "2/19-2/28"
+      "2/19/2023-2/28"
     ],
     "rateups": [
       [
@@ -6801,11 +6801,11 @@
       ],
       [
         "Amor (Caren)",
-        "Manannán mac Lir (Bazett)",
+        "Manann\u00e1n mac Lir (Bazett)",
         "Murasaki Shikibu",
         "Mysterious Heroine X (Alter)",
         "Nero Claudius (Bride)",
-        "Sei Shōnagon",
+        "Sei Sh\u014dnagon",
         "Semiramis"
       ]
     ]
@@ -6816,14 +6816,14 @@
       "White Day Memorial Summoning Campaign"
     ],
     "dates": [
-      "3/8-3/31"
+      "3/8/2023-3/31"
     ],
     "rateups": [
       [
-        "Amakusa Shirō",
+        "Amakusa Shir\u014d",
         "Arjuna (Alter)",
         "Arthur Pendragon (Prototype)",
-        "Edmond Dantès",
+        "Edmond Dant\u00e8s",
         "James Moriarty",
         "Odysseus",
         "Zhuge Liang (Lord El-Melloi II)"
@@ -6838,22 +6838,22 @@
       "Tales of Chaldean Heavy Industries Summoning Campaign 3"
     ],
     "dates": [
-      "3/17-4/7",
-      "3/22-4/7",
-      "3/24-4/7"
+      "3/17/2023-4/7",
+      "3/22/2023-4/7",
+      "3/24/2023-4/7"
     ],
     "rateups": [
       [
         "Achilles",
         "Arjuna",
-        "Cú Chulainn (Alter)",
+        "C\u00fa Chulainn (Alter)",
         "Dioscuri",
         "Enkidu",
         "Hector",
         "Karna",
         "Li Shuwen",
         "Minamoto no Tametomo",
-        "Napoléon",
+        "Napol\u00e9on",
         "Nemo",
         "Nikola Tesla",
         "Ozymandias",
@@ -6864,11 +6864,11 @@
       ],
       [
         "Demon King Nobunaga",
-        "Okada Izō"
+        "Okada Iz\u014d"
       ],
       [
-        "Okada Izō",
-        "Sakamoto Ryōma (Lancer)"
+        "Okada Iz\u014d",
+        "Sakamoto Ry\u014dma (Lancer)"
       ]
     ]
   },
@@ -6878,7 +6878,7 @@
       "Spring New Master 2023 Summoning Campaign"
     ],
     "dates": [
-      "3/27-4/7"
+      "3/27/2023-4/7"
     ],
     "rateups": [
       [
@@ -6898,24 +6898,24 @@
       "Evocation Festival Part 1 Summoning Campaign 2"
     ],
     "dates": [
-      "4/2-4/13",
-      "4/10-4/21"
+      "4/2/2023-4/13",
+      "4/10/2023-4/21"
     ],
     "rateups": [
       [
-        "Ibaraki Dōji",
+        "Ibaraki D\u014dji",
         "Martha (Ruler)",
         "Quetzalcoatl",
         "Sakata Kintoki",
-        "Shuten Dōji",
+        "Shuten D\u014dji",
         "Watanabe no Tsuna"
       ],
       [
         "Bradamante",
-        "Ibaraki Dōji (Lancer)",
-        "Ibuki Dōji",
+        "Ibaraki D\u014dji (Lancer)",
+        "Ibuki D\u014dji",
         "Martha (Ruler)",
-        "Minamoto no Raikō",
+        "Minamoto no Raik\u014d",
         "Mochizuki Chiyome"
       ]
     ]
@@ -6926,11 +6926,11 @@
       "FGO x FGO Arcade Collaboration Pre-Release Summoning Campaign"
     ],
     "dates": [
-      "4/19-5/17"
+      "4/19/2023-5/17"
     ],
     "rateups": [
       [
-        ""The Old Man of the Mountain"",
+        "\"The Old Man of the Mountain\"",
         "Larva/Tiamat",
         "Leonardo Da Vinci"
       ]
@@ -6945,10 +6945,10 @@
       "FGO x FGO Arcade Collaboration Summoning Campaign 4"
     ],
     "dates": [
-      "4/26-5/17",
-      "4/29-5/13",
-      "5/2-5/9",
-      "5/5-5/12"
+      "4/26/2023-5/17",
+      "4/29/2023-5/13",
+      "5/2/2023-5/9",
+      "5/5/2023-5/12"
     ],
     "rateups": [
       [
@@ -6962,7 +6962,7 @@
       ],
       [
         "Nightingale",
-        "Scáthach"
+        "Sc\u00e1thach"
       ],
       [
         "Artoria Pendragon (Lancer Alter)",
@@ -6978,15 +6978,15 @@
       "Evocation Festival Part 2 Summoning Campaign"
     ],
     "dates": [
-      "5/10-5/21"
+      "5/10/2023-5/21"
     ],
     "rateups": [
       [
-        "Elizabeth Báthory",
+        "Elizabeth B\u00e1thory",
         "Mysterious Heroine X",
         "Mysterious Heroine XX",
         "Oda Nobunaga (Berserker)",
-        "Okita Sōji",
+        "Okita S\u014dji",
         "Vlad III"
       ]
     ]
@@ -6997,7 +6997,7 @@
       "Ordeal Call Pre-Release Summoning Campaign"
     ],
     "dates": [
-      "5/17-5/26"
+      "5/17/2023-5/26"
     ],
     "rateups": [
       [
@@ -7018,23 +7018,23 @@
       "Fuun Karakuri Illya's Castle Summoning Campaign 3"
     ],
     "dates": [
-      "5/24-6/7",
-      "5/26-6/2",
-      "5/28-6/4"
+      "5/24/2023-6/7",
+      "5/26/2023-6/2",
+      "5/28/2023-6/4"
     ],
     "rateups": [
       [
-        "Fūma Kotarō",
+        "F\u016bma Kotar\u014d",
         "Kashin Koji",
-        "Katō Danzō"
+        "Kat\u014d Danz\u014d"
       ],
       [
-        "Fūma Kotarō",
+        "F\u016bma Kotar\u014d",
         "Illyasviel von Einzbern",
         "Miyu Edelfelt"
       ],
       [
-        "Katō Danzō",
+        "Kat\u014d Danz\u014d",
         "Miyu Edelfelt",
         "Sitonai"
       ]
@@ -7046,7 +7046,7 @@
       "Nero Fest & Battle in NY 2022 Summoning Campaign"
     ],
     "dates": [
-      "5/31-6/7"
+      "5/31/2023-6/7"
     ],
     "rateups": [
       [
@@ -7066,10 +7066,10 @@
       "Sovereign's Memoir I Pre-Release Summoning Campaign"
     ],
     "dates": [
-      "6/18-7/2",
-      "6/21-7/5",
-      "6/25-7/16",
-      "6/7-6/18"
+      "6/18/2023-7/2",
+      "6/21/2023-7/5",
+      "6/25/2023-7/16",
+      "6/7/2023-6/18"
     ],
     "rateups": [
       [
@@ -7101,14 +7101,14 @@
       "28M Downloads Summoning Campaign |-|Summoning Campaign III"
     ],
     "dates": [
-      "6/28-7/12",
-      "6/28-7/12",
-      "6/28-7/12"
+      "6/28/2023-7/12",
+      "6/28/2023-7/12",
+      "6/28/2023-7/12"
     ],
     "rateups": [
       [
         "Artoria Pendragon (Ruler)",
-        "Okita J Sōji"
+        "Okita J S\u014dji"
       ],
       [
         "Artoria Pendragon (Rider Alter)",
@@ -7126,7 +7126,7 @@
       "Strange Fake -Whispers of Dawn- Broadcast Commemoration Summoning Campaign"
     ],
     "dates": [
-      "7/2-7/10"
+      "7/2/2023-7/10"
     ],
     "rateups": [
       [
@@ -7141,7 +7141,7 @@
       "Evocation Festival Part 3 Summoning Campaign"
     ],
     "dates": [
-      "7/3-7/12"
+      "7/3/2023-7/12"
     ],
     "rateups": [
       [
@@ -7150,7 +7150,7 @@
         "Kiyohime (Lancer)",
         "Osakabehime (Archer)",
         "Queen Medb (Saber)",
-        "Scáthach-Skaði"
+        "Sc\u00e1thach-Ska\u00f0i"
       ]
     ]
   },
@@ -7163,10 +7163,10 @@
       "Mystic Eyes Symphony Summoning Campaign 4"
     ],
     "dates": [
-      "7/5-7/26",
-      "7/7-7/14",
-      "7/9-7/16",
-      "7/12-7/23"
+      "7/5/2023-7/26",
+      "7/7/2023-7/14",
+      "7/9/2023-7/16",
+      "7/12/2023-7/23"
     ],
     "rateups": [
       [
@@ -7194,16 +7194,16 @@
     ]
   },
   {
-    "name": "Fate/Grand Order ～8th Anniversary～",
+    "name": "Fate/Grand Order \uff5e8th Anniversary\uff5e",
     "rateup_names": [
-      "Fate/Grand Order ～8th Anniversary～ Summoning Campaign I",
-      "Fate/Grand Order ～8th Anniversary～ Summoning Campaign II",
+      "Fate/Grand Order \uff5e8th Anniversary\uff5e Summoning Campaign I",
+      "Fate/Grand Order \uff5e8th Anniversary\uff5e Summoning Campaign II",
       "FGO 8th Anniversary Pre-Release Summoning Campaign"
     ],
     "dates": [
-      "7/30-8/9",
-      "8/1-8/10",
-      "7/21-7/30"
+      "7/30/2023-8/9",
+      "8/1/2023-8/10",
+      "7/21/2023-7/30"
     ],
     "rateups": [
       [
@@ -7214,9 +7214,9 @@
         "Constantine XI",
         "Daikokuten",
         "Frankenstein (Saber)",
-        "Mysterious Alter Ego Λ",
-        "Saitō Hajime",
-        "Sei Shōnagon (Berserker)",
+        "Mysterious Alter Ego \u039b",
+        "Sait\u014d Hajime",
+        "Sei Sh\u014dnagon (Berserker)",
         "Space Ishtar",
         "Super Bunyan",
         "Taira no Kagekiyo",
@@ -7241,11 +7241,11 @@
       "Summer 2022 Rerun Summoning Campaign"
     ],
     "dates": [
-      "8/11-9/1",
-      "8/11-9/1",
-      "8/15-9/1",
-      "8/17-9/1",
-      "8/24-9/4"
+      "8/11/2023-9/1",
+      "8/11/2023-9/1",
+      "8/15/2023-9/1",
+      "8/17/2023-9/1",
+      "8/24/2023-9/4"
     ],
     "rateups": [
       [
@@ -7260,8 +7260,8 @@
         "Tristan"
       ],
       [
-        "Cait Cú Cerpriestess",
-        "Mélusine (Ruler)",
+        "Cait C\u00fa Cerpriestess",
+        "M\u00e9lusine (Ruler)",
         "UDK-Barghest"
       ],
       [
@@ -7269,9 +7269,9 @@
       ],
       [
         "Gareth (Saber)",
-        "Ibuki Dōji (Berserker)",
+        "Ibuki D\u014dji (Berserker)",
         "Lady Avalon",
-        "Scáthach-Skaði (Ruler)",
+        "Sc\u00e1thach-Ska\u00f0i (Ruler)",
         "Utsumi Erice (Avenger)",
         "Wu Zetian (Caster)"
       ]
@@ -7283,7 +7283,7 @@
       "Hunting Quests Part XIII Summoning Campaign"
     ],
     "dates": [
-      "9/1-9/16"
+      "9/1/2023-9/16"
     ],
     "rateups": [
       [
@@ -7296,8 +7296,8 @@
         "Illyasviel von Einzbern (Archer)",
         "Kama (Avenger)",
         "Murasaki Shikibu (Rider)",
-        "Okita Sōji (Saber Alter)",
-        "Sesshōin Kiara (Moon Cancer)",
+        "Okita S\u014dji (Saber Alter)",
+        "Sessh\u014din Kiara (Moon Cancer)",
         "Tomoe Gozen (Saber)"
       ]
     ]
@@ -7308,11 +7308,11 @@
       "Ordeal Call Campaign Part 2 Summoning Campaign"
     ],
     "dates": [
-      "9/8-9/19"
+      "9/8/2023-9/19"
     ],
     "rateups": [
       [
-        "Ashiya Dōman",
+        "Ashiya D\u014dman",
         "Grigori Rasputin",
         "Senji Muramasa"
       ]
@@ -7324,7 +7324,7 @@
       "Evocation Festival Part 4 Summoning Campaign"
     ],
     "dates": [
-      "9/13-9/24"
+      "9/13/2023-9/24"
     ],
     "rateups": [
       [
@@ -7343,12 +7343,12 @@
       "KYOMAF2023 Exhibit Commemoration Summoning Campaign"
     ],
     "dates": [
-      "9/17-9/28"
+      "9/17/2023-9/28"
     ],
     "rateups": [
       [
         "Beni-Enma",
-        "Ibuki Dōji",
+        "Ibuki D\u014dji",
         "Minamoto no Tametomo"
       ]
     ]
@@ -7360,15 +7360,15 @@
       "Wandjina World Tour Summoning Campaign 2"
     ],
     "dates": [
-      "9/20-10/11",
-      "9/24-10/3"
+      "9/20/2023-10/11",
+      "9/24/2023-10/3"
     ],
     "rateups": [
       [
         "Kriemhild",
         "Voyager",
         "Wandjina",
-        "Yagyū Munenori"
+        "Yagy\u016b Munenori"
       ],
       [
         "Cleopatra",
@@ -7383,13 +7383,13 @@
       "Fate/Samurai Remnant Release Commemoration Summoning Campaign"
     ],
     "dates": [
-      "9/28-10/9"
+      "9/28/2023-10/9"
     ],
     "rateups": [
       [
         "Arjuna",
         "Circe",
-        "Cú Chulainn",
+        "C\u00fa Chulainn",
         "Li Shuwen",
         "Miyamoto Musashi"
       ]
@@ -7401,7 +7401,7 @@
       "Ordeal Call Campaign Part 3 Summoning Campaign"
     ],
     "dates": [
-      "10/4-10/13"
+      "10/4/2023-10/13"
     ],
     "rateups": [
       [
@@ -7419,15 +7419,15 @@
       "Evocation Festival Part 5 Summoning Campaign"
     ],
     "dates": [
-      "10/11-10/20"
+      "10/11/2023-10/20"
     ],
     "rateups": [
       [
         "Asagami Fujino",
-        "Elizabeth Báthory",
+        "Elizabeth B\u00e1thory",
         "Hephaestion",
         "Osakabehime",
-        "Ryōgi Shiki (Saber)",
+        "Ry\u014dgi Shiki (Saber)",
         "Sima Yi (Reines)"
       ]
     ]
@@ -7438,7 +7438,7 @@
       "3,000 Days Anniversary Summoning Campaign"
     ],
     "dates": [
-      "10/15-10/25"
+      "10/15/2023-10/25"
     ],
     "rateups": [
       [
@@ -7455,15 +7455,15 @@
       "Grail Front ~White Castle by Day, Black Castle by Night~ Summoning Campaign 3"
     ],
     "dates": [
-      "10/25-11/15",
-      "10/30-11/11",
-      "11/1-11/15"
+      "10/25/2023-11/15",
+      "10/30/2023-11/11",
+      "11/1/2023-11/15"
     ],
     "rateups": [
       [
         "Penthesilea",
         "Ptolemaios",
-        "Sugitani Zenjūbō"
+        "Sugitani Zenj\u016bb\u014d"
       ],
       [
         "Nezha",
@@ -7472,7 +7472,7 @@
       ],
       [
         "Iskandar",
-        "Sugitani Zenjūbō",
+        "Sugitani Zenj\u016bb\u014d",
         "Theseus",
         "Zhuge Liang (Lord El-Melloi II)"
       ]
@@ -7484,7 +7484,7 @@
       "Ordeal Call Campaign Part 4 Summoning Campaign"
     ],
     "dates": [
-      "11/15-11/23"
+      "11/15/2023-11/23"
     ],
     "rateups": [
       [
@@ -7502,12 +7502,12 @@
       "29M Downloads Summoning Campaign"
     ],
     "dates": [
-      "11/17-12/1"
+      "11/17/2023-12/1"
     ],
     "rateups": [
       [
         "Barghest",
-        "Mélusine"
+        "M\u00e9lusine"
       ]
     ]
   },
@@ -7517,7 +7517,7 @@
       "Evocation Festival Part 6 Summoning Campaign"
     ],
     "dates": [
-      "11/22-12/3"
+      "11/22/2023-12/3"
     ],
     "rateups": [
       [
@@ -7525,8 +7525,8 @@
         "Nightingale",
         "Nursery Rhyme",
         "Oda Nobunaga (Berserker)",
-        "Okada Izō",
-        "Sakamoto Ryōma (Lancer)"
+        "Okada Iz\u014d",
+        "Sakamoto Ry\u014dma (Lancer)"
       ]
     ]
   },
@@ -7540,11 +7540,11 @@
       "GUDAGUDA Super Goryokaku FP Summoning Campaign"
     ],
     "dates": [
-      "11/29-12/19",
-      "12/1-12/10",
-      "12/6-12/19",
-      "12/9-12/19",
-      "11/29-12/19"
+      "11/29/2023-12/19",
+      "12/1/2023-12/10",
+      "12/6/2023-12/19",
+      "12/9/2023-12/19",
+      "11/29/2023-12/19"
     ],
     "rateups": [
       [
@@ -7553,10 +7553,10 @@
         "Takeda Shingen"
       ],
       [
-        "Hijikata Toshizō",
+        "Hijikata Toshiz\u014d",
         "Mori Nagayoshi",
-        "Okita Sōji",
-        "Saitō Hajime"
+        "Okita S\u014dji",
+        "Sait\u014d Hajime"
       ],
       [
         "Mori Nagayoshi",
@@ -7566,8 +7566,8 @@
       [
         "Izumo no Okuni",
         "Mori Nagayoshi",
-        "Okita Sōji (Alter)",
-        "Sen no Rikyū"
+        "Okita S\u014dji (Alter)",
+        "Sen no Riky\u016b"
       ],
       [
         "Oda Nobukatsu"

@@ -303,29 +303,29 @@ EVENT_LISTS = (
 MONTHS = ("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December")
 
 MONTH_TRANSLATE = {
-    "January" : "1",
-    "Jan" : "1",
-    "February" : "2",
-    "Feb" : "2",
-    "March" : "3",
-    "Mar" : "3",
-    "April" : "4",
-    "Apr" : "4",
-    "May" : "5",
-    "June" : "6",
-    "Jun" : "6",
-    "July" : "7",
-    "Jul" : "7",
-    "August" : "8",
-    "Aug" : "8",
-    "September" : "9",
-    "Sept" : "9",
-    "October" : "10",
-    "Oct" : "10",
-    "November" : "11",
-    "Nov" : "11",
-    "December" : "12",
-    "Dec" : "12",
+    "January" : 1,
+    "Jan" : 1,
+    "February" : 2,
+    "Feb" : 2,
+    "March" : 3,
+    "Mar" : 3,
+    "April" : 4,
+    "Apr" : 4,
+    "May" : 5,
+    "June" : 6,
+    "Jun" : 6,
+    "July" : 7,
+    "Jul" : 7,
+    "August" : 8,
+    "Aug" : 8,
+    "September" : 9,
+    "Sept" : 9,
+    "October" : 10,
+    "Oct" : 10,
+    "November" : 11,
+    "Nov" : 11,
+    "December" : 12,
+    "Dec" : 12,
 }
 
 SKIP_DATES = {
@@ -388,7 +388,7 @@ def correct_name(text):
         return NAME_FIXES[text]
     return text
 
-def date_parser(start_date, end_date):
+def date_parser(start_date, end_date, year):
     start_date_str = start_date.split(",")[0].strip().split(" ")
     end_date_str = end_date.split(",")[0].strip().split(" ")
     start_month = MONTH_TRANSLATE[start_date_str[0]]
@@ -400,7 +400,8 @@ def date_parser(start_date, end_date):
         end_month = start_month
         end_day = start_day
 
-    return f'{start_month}/{start_day}-{end_month}/{end_day}'
+    return f'{start_month}/{start_day}/{year}-{end_month}/{end_day}' if end_month >= start_month \
+        else f'{start_month}/{start_day}/{year}-{end_month}/{end_day}/{year+1}'
 
 # Parse a wiki page
 def parse(banner_dict, page, event_date, parent=None):
@@ -580,7 +581,7 @@ def parse(banner_dict, page, event_date, parent=None):
         if not end_date:
             end_date = start_date
 
-        event_date = date_parser(start_date, end_date)
+        event_date = date_parser(start_date, end_date, CURRENT_YEAR)
     # Date if it has old-style headers
     else:
         # Get the lines from text
@@ -598,7 +599,7 @@ def parse(banner_dict, page, event_date, parent=None):
                     date_split = date_split[0].split("～")
                 if not date_split[1].strip():
                     date_split[1] = date_split[0]
-                event_date = date_parser(date_split[0], date_split[1])
+                event_date = date_parser(date_split[0], date_split[1], CURRENT_YEAR)
                 break
 
     # Create a list of dates the same size as the list of banners.
@@ -627,7 +628,6 @@ def parse(banner_dict, page, event_date, parent=None):
 
             i += 1
 
-    # Save the date of page creation with the summoning campaign.
     if parent:
         try:
             banner_dict[parent][0].extend(dates)
@@ -761,7 +761,7 @@ def parse_event_lists():
                 # Match ".*\|" and remove anything before it.
                 line = re.sub(r'.*\|', '', line)
                 date_split = line.split("~")
-                date_list.append(date_parser(line, line) if len(date_split) == 1 else date_parser(date_split[0], date_split[1]))
+                date_list.append(date_parser(line, line, CURRENT_YEAR) if len(date_split) == 1 else date_parser(date_split[0], date_split[1], CURRENT_YEAR))
 
         wikicode = mwparserfromhell.parse(text)
         events = None
@@ -784,7 +784,7 @@ def parse_event_lists():
                     ends.append(x.get("end").value.strip())
                 except ValueError:
                     ends.append(starts[i])
-            date_list = [date_parser(starts[i], ends[i]) for i in range(len(starts))]
+            date_list = [date_parser(starts[i], ends[i], CURRENT_YEAR) for i in range(len(starts))]
 
         # Reverse events and date list
         events.reverse()
@@ -819,6 +819,9 @@ def remove_empty(banner_dict):
     for banner in list(banner_dict):
         if not banner_dict[banner][1]:
             del banner_dict[banner]
+
+def fix_rateup_names(banner_dict):
+    pass
 
 # If TESTING is 1, parse the test pages. Otherwise, parse the Summoning Campaign category.
 if TESTING == 1:
@@ -865,10 +868,10 @@ shutil.copy(os.path.join(DIR_PATH, FILE_NEW_NA), os.path.join(DIR_PATH, FILE_OLD
 # Create the new version of the JSON file from the banner list.
 json_obj = jsons.dump(banner_list_jp)
 with open(os.path.join(DIR_PATH, FILE_NEW_JP), 'w') as f:
-    f.write(json.dumps(json_obj, indent=2).encode().decode('unicode-escape'))
+    f.write(json.dumps(json_obj, indent=2))
 json_obj = jsons.dump(banner_list_na)
 with open(os.path.join(DIR_PATH, FILE_NEW_NA), 'w') as f:
-    f.write(json.dumps(json_obj, indent=2).encode().decode('unicode-escape'))
+    f.write(json.dumps(json_obj, indent=2))
 
 # Write the diff between the old and new banner list JSON to a file.
 with open(os.path.join(DIR_PATH, FILE_NEW_JP), 'r') as f1:
