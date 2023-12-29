@@ -15,6 +15,9 @@
         "Lancelot",
         "Medea"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -34,6 +37,9 @@
         "Medea",
         "Medusa"
       ]
+    ],
+    "len_rateups": [
+      6
     ]
   },
   {
@@ -51,6 +57,9 @@
         "Nero Claudius",
         "Romulus"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -69,6 +78,9 @@
         "Stheno",
         "Ushiwakamaru"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -87,6 +99,9 @@
         "Robin Hood",
         "Sakata Kintoki"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -105,6 +120,9 @@
         "Kiyohime",
         "Siegfried"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -123,6 +141,9 @@
         "Tamamo Cat",
         "Tamamo no Mae"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -141,6 +162,9 @@
         "Francis Drake",
         "Hector"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -159,6 +183,9 @@
         "Siegfried",
         "Zhuge Liang (Lord El-Melloi II)"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -177,6 +204,9 @@
         "Mephistopheles",
         "Okita S\u014dji"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -194,6 +224,9 @@
         "Medea (Lily)",
         "Sc\u00e1thach"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -212,6 +245,9 @@
         "Nursery Rhyme",
         "Robin Hood"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -230,6 +266,9 @@
         "Mordred",
         "Paracelsus von Hohenheim"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -248,6 +287,9 @@
         "Sakata Kintoki",
         "Sc\u00e1thach"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -263,6 +305,9 @@
         "Artoria Pendragon (Lancer Alter)",
         "Nikola Tesla"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
@@ -279,6 +324,9 @@
         "Mysterious Heroine X",
         "Nero Claudius"
       ]
+    ],
+    "len_rateups": [
+      3
     ]
   },
   {
@@ -295,6 +343,9 @@
         "Brynhildr",
         "Fionn mac Cumhaill"
       ]
+    ],
+    "len_rateups": [
+      3
     ]
   },
   {
@@ -317,6 +368,9 @@
         "Orion",
         "Tamamo no Mae"
       ]
+    ],
+    "len_rateups": [
+      9
     ]
   },
   {
@@ -331,6 +385,9 @@
       [
         "Ry\u014dgi Shiki (Saber)"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -350,6 +407,9 @@
         "Vlad III",
         "Zhuge Liang (Lord El-Melloi II)"
       ]
+    ],
+    "len_rateups": [
+      6
     ]
   },
   {
@@ -364,6 +424,9 @@
       [
         "Edmond Dant\u00e8s"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -379,6 +442,9 @@
         "Arjuna",
         "Karna"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
@@ -408,6 +474,11 @@
         "C\u00fa Chulainn (Alter)",
         "Thomas Edison"
       ]
+    ],
+    "len_rateups": [
+      5,
+      1,
+      2
     ]
   },
   {
@@ -422,6 +493,9 @@
       [
         "Jeanne d'Arc (Alter)"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -440,6 +514,9 @@
         "Gilles de Rais",
         "Lancelot"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -457,6 +534,9 @@
         "Iskandar",
         "Zhuge Liang (Lord El-Melloi II)"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -471,6 +551,9 @@
       [
         "Sakata Kintoki"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -485,6 +568,9 @@
       [
         "Shuten D\u014dji"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -502,6 +588,9 @@
         "Lu Bu Fengxian",
         "Xuanzang Sanzang"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -516,6 +605,9 @@
       [
         "Sc\u00e1thach"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -534,6 +626,9 @@
         "Minamoto no Raik\u014d",
         "Ushiwakamaru"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -559,6 +654,10 @@
         "Gawain",
         "Tristan"
       ]
+    ],
+    "len_rateups": [
+      5,
+      3
     ]
   },
   {
@@ -615,6 +714,9 @@
         "Siegfried",
         "Thomas Edison"
       ]
+    ],
+    "len_rateups": [
+      43
     ]
   },
   {
@@ -639,6 +741,10 @@
         "Marie Antoinette (Caster)",
         "Martha (Ruler)"
       ]
+    ],
+    "len_rateups": [
+      4,
+      3
     ]
   },
   {
@@ -657,6 +763,9 @@
         "Nursery Rhyme",
         "Queen Medb"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -754,6 +863,9 @@
         "Xuanzang Sanzang",
         "Zhuge Liang (Lord El-Melloi II)"
       ]
+    ],
+    "len_rateups": [
+      84
     ]
   },
   {
@@ -772,6 +884,9 @@
         "Nero Claudius (Bride)",
         "Romulus"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -786,6 +901,9 @@
       [
         "Jeanne d'Arc (Alter)"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -804,6 +922,9 @@
         "Tamamo Cat",
         "Tamamo no Mae"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -819,6 +940,9 @@
         "Cleopatra",
         "Vlad III (EXTRA)"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
@@ -849,6 +973,9 @@
         "Tamamo no Mae",
         "Vlad III (EXTRA)"
       ]
+    ],
+    "len_rateups": [
+      17
     ]
   },
   {
@@ -871,6 +998,9 @@
         "Mordred",
         "Tristan"
       ]
+    ],
+    "len_rateups": [
+      9
     ]
   },
   {
@@ -889,6 +1019,9 @@
         "Nursery Rhyme",
         "Robin Hood"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -903,6 +1036,9 @@
       [
         "Amakusa Shir\u014d"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -917,6 +1053,9 @@
       [
         "Ishtar"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -931,6 +1070,9 @@
       [
         "Altera"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -954,6 +1096,10 @@
         "Jaguar Man",
         "Quetzalcoatl"
       ]
+    ],
+    "len_rateups": [
+      3,
+      3
     ]
   },
   {
@@ -968,6 +1114,9 @@
       [
         "Merlin"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -989,6 +1138,9 @@
         "Sakata Kintoki",
         "Sc\u00e1thach"
       ]
+    ],
+    "len_rateups": [
+      8
     ]
   },
   {
@@ -1003,6 +1155,9 @@
       [
         "\"The Old Man of the Mountain\""
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -1021,6 +1176,9 @@
         "Stheno",
         "Ushiwakamaru"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -1035,6 +1193,9 @@
       [
         "Edmond Dant\u00e8s"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -1049,6 +1210,9 @@
       [
         "Leonardo Da Vinci"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -1093,12 +1257,17 @@
         "Vlad III",
         "Zhuge Liang (Lord El-Melloi II)"
       ]
+    ],
+    "len_rateups": [
+      7,
+      8,
+      8
     ]
   },
   {
     "name": "Shinjuku Chapter Release",
     "rateup_names": [
-      "Shinjuku Summoning Campaign",
+      "Shinjuku Summoning Campaign 1",
       "Shinjuku Summoning Campaign 2"
     ],
     "dates": [
@@ -1115,6 +1284,10 @@
         "Artoria Pendragon (Alter)",
         "EMIYA (Alter)"
       ]
+    ],
+    "len_rateups": [
+      3,
+      2
     ]
   },
   {
@@ -1131,6 +1304,9 @@
         "Astolfo",
         "Kid Gil"
       ]
+    ],
+    "len_rateups": [
+      3
     ]
   },
   {
@@ -1153,6 +1329,9 @@
         "Vlad III",
         "Zhuge Liang (Lord El-Melloi II)"
       ]
+    ],
+    "len_rateups": [
+      9
     ]
   },
   {
@@ -1171,6 +1350,9 @@
         "Mephistopheles",
         "Okita S\u014dji"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -1279,6 +1461,9 @@
         "Yan Qing",
         "Zhuge Liang (Lord El-Melloi II)"
       ]
+    ],
+    "len_rateups": [
+      95
     ]
   },
   {
@@ -1294,13 +1479,16 @@
         "Hijikata Toshiz\u014d",
         "Nikola Tesla"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
     "name": "SE.RA.PH",
     "rateup_names": [
       "Fate/EXTRA CCC\u00d7Fate/Grand Order",
-      "SE.RA.PH Summoning Campaign",
+      "SE.RA.PH Summoning Campaign 1",
       "SE.RA.PH Summoning Campaign 2"
     ],
     "dates": [
@@ -1332,6 +1520,11 @@
         "Robin Hood",
         "Sessh\u014din Kiara"
       ]
+    ],
+    "len_rateups": [
+      10,
+      3,
+      4
     ]
   },
   {
@@ -1348,6 +1541,9 @@
         "Orion",
         "Quetzalcoatl"
       ]
+    ],
+    "len_rateups": [
+      3
     ]
   },
   {
@@ -1363,6 +1559,9 @@
         "Ibaraki D\u014dji",
         "Shuten D\u014dji"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
@@ -1379,6 +1578,9 @@
         "James Moriarty",
         "Yan Qing"
       ]
+    ],
+    "len_rateups": [
+      3
     ]
   },
   {
@@ -1401,6 +1603,9 @@
         "Tamamo no Mae",
         "Tawara T\u014dta"
       ]
+    ],
+    "len_rateups": [
+      9
     ]
   },
   {
@@ -1424,6 +1629,10 @@
         "Francis Drake",
         "Heracles"
       ]
+    ],
+    "len_rateups": [
+      3,
+      3
     ]
   },
   {
@@ -1448,6 +1657,10 @@
         "Marie Antoinette (Caster)",
         "Martha (Ruler)"
       ]
+    ],
+    "len_rateups": [
+      4,
+      3
     ]
   },
   {
@@ -1467,6 +1680,9 @@
         "Mordred",
         "Tristan"
       ]
+    ],
+    "len_rateups": [
+      6
     ]
   },
   {
@@ -1482,6 +1698,9 @@
         "Leonardo Da Vinci",
         "Sherlock Holmes"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
@@ -1514,6 +1733,11 @@
         "Thomas Edison",
         "Xuanzang Sanzang"
       ]
+    ],
+    "len_rateups": [
+      4,
+      3,
+      4
     ]
   },
   {
@@ -1528,6 +1752,9 @@
       [
         "Illyasviel von Einzbern"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -1641,6 +1868,9 @@
         "Yan Qing",
         "Zhuge Liang (Lord El-Melloi II)"
       ]
+    ],
+    "len_rateups": [
+      100
     ]
   },
   {
@@ -1657,6 +1887,9 @@
         "Nero Claudius",
         "Nero Claudius (Bride)"
       ]
+    ],
+    "len_rateups": [
+      3
     ]
   },
   {
@@ -1678,6 +1911,9 @@
         "Tawara T\u014dta",
         "Ushiwakamaru"
       ]
+    ],
+    "len_rateups": [
+      8
     ]
   },
   {
@@ -1696,6 +1932,9 @@
         "Artoria Pendragon (Lancer)",
         "Merlin"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -1714,6 +1953,9 @@
         "Robin Hood",
         "Vlad III (EXTRA)"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -1734,6 +1976,9 @@
         "Ozymandias",
         "Tristan"
       ]
+    ],
+    "len_rateups": [
+      7
     ]
   },
   {
@@ -1755,6 +2000,9 @@
         "Medusa",
         "Parvati"
       ]
+    ],
+    "len_rateups": [
+      8
     ]
   },
   {
@@ -1781,6 +2029,10 @@
         "Shuten D\u014dji",
         "Yagy\u016b Munenori"
       ]
+    ],
+    "len_rateups": [
+      4,
+      5
     ]
   },
   {
@@ -1800,6 +2052,9 @@
         "Wu Zetian",
         "Yan Qing"
       ]
+    ],
+    "len_rateups": [
+      6
     ]
   },
   {
@@ -1818,6 +2073,9 @@
         "Tawara T\u014dta",
         "Xuanzang Sanzang"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -1838,6 +2096,9 @@
         "Mordred",
         "Vlad III"
       ]
+    ],
+    "len_rateups": [
+      7
     ]
   },
   {
@@ -1857,6 +2118,9 @@
         "Nursery Rhyme",
         "Ushiwakamaru"
       ]
+    ],
+    "len_rateups": [
+      6
     ]
   },
   {
@@ -1873,12 +2137,15 @@
         "Hassan of the Hundred Faces",
         "Hassan of the Serenity"
       ]
+    ],
+    "len_rateups": [
+      3
     ]
   },
   {
     "name": "Salem Chapter Release",
     "rateup_names": [
-      "Salem Chapter Release Summoning Campaign",
+      "Salem Chapter Release Summoning Campaign 1",
       "Salem Summoning Campaign 2"
     ],
     "dates": [
@@ -1894,6 +2161,10 @@
         "Abigail Williams",
         "Queen of Sheba"
       ]
+    ],
+    "len_rateups": [
+      2,
+      2
     ]
   },
   {
@@ -1912,6 +2183,9 @@
         "Medusa (Lancer)",
         "Ushiwakamaru"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -1932,6 +2206,9 @@
         "Sc\u00e1thach",
         "Tamamo no Mae"
       ]
+    ],
+    "len_rateups": [
+      7
     ]
   },
   {
@@ -1954,6 +2231,9 @@
         "Paracelsus von Hohenheim",
         "Siegfried"
       ]
+    ],
+    "len_rateups": [
+      9
     ]
   },
   {
@@ -1972,6 +2252,9 @@
         "Shuten D\u014dji",
         "Tomoe Gozen"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -1991,6 +2274,9 @@
         "Nursery Rhyme",
         "Robin Hood"
       ]
+    ],
+    "len_rateups": [
+      6
     ]
   },
   {
@@ -2020,6 +2306,9 @@
         "Tamamo no Mae",
         "Xuanzang Sanzang"
       ]
+    ],
+    "len_rateups": [
+      16
     ]
   },
   {
@@ -2034,6 +2323,9 @@
       [
         "Mysterious Heroine X (Alter)"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -2054,6 +2346,9 @@
         "Mephistopheles",
         "Ry\u014dgi Shiki (Saber)"
       ]
+    ],
+    "len_rateups": [
+      7
     ]
   },
   {
@@ -2071,6 +2366,9 @@
         "Nitocris",
         "Ozymandias"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -2090,6 +2388,9 @@
         "Mordred",
         "Tristan"
       ]
+    ],
+    "len_rateups": [
+      6
     ]
   },
   {
@@ -2107,6 +2408,9 @@
         "Sessh\u014din Kiara",
         "Suzuka Gozen"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -2129,6 +2433,9 @@
         "Vlad III",
         "Zhuge Liang (Lord El-Melloi II)"
       ]
+    ],
+    "len_rateups": [
+      9
     ]
   },
   {
@@ -2146,6 +2453,9 @@
         "Mordred",
         "Mysterious Heroine X"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -2269,12 +2579,15 @@
         "Yan Qing",
         "Zhuge Liang (Lord El-Melloi II)"
       ]
+    ],
+    "len_rateups": [
+      110
     ]
   },
   {
     "name": "Anastasia Chapter Release",
     "rateup_names": [
-      "Anastasia Chapter Release Summoning Campaign",
+      "Anastasia Chapter Release Summoning Campaign 1",
       "Anastasia Summoning Campaign 2"
     ],
     "dates": [
@@ -2291,6 +2604,10 @@
         "Antonio Salieri",
         "Ivan the Terrible"
       ]
+    ],
+    "len_rateups": [
+      3,
+      2
     ]
   },
   {
@@ -2313,6 +2630,9 @@
         "Yan Qing",
         "Zhuge Liang (Lord El-Melloi II)"
       ]
+    ],
+    "len_rateups": [
+      9
     ]
   },
   {
@@ -2347,6 +2667,11 @@
         "Mordred",
         "Semiramis"
       ]
+    ],
+    "len_rateups": [
+      2,
+      6,
+      5
     ]
   },
   {
@@ -2370,6 +2695,9 @@
         "Stheno",
         "Yan Qing"
       ]
+    ],
+    "len_rateups": [
+      10
     ]
   },
   {
@@ -2390,6 +2718,9 @@
         "Medusa",
         "Thomas Edison"
       ]
+    ],
+    "len_rateups": [
+      7
     ]
   },
   {
@@ -2404,6 +2735,9 @@
       [
         "Okita S\u014dji"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -2421,6 +2755,9 @@
         "Mordred (Rider)",
         "Tamamo no Mae (Lancer)"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -2454,6 +2791,9 @@
         "Robin Hood",
         "Tamamo no Mae"
       ]
+    ],
+    "len_rateups": [
+      20
     ]
   },
   {
@@ -2473,6 +2813,9 @@
         "Okada Iz\u014d",
         "Okita S\u014dji (Alter)"
       ]
+    ],
+    "len_rateups": [
+      6
     ]
   },
   {
@@ -2504,6 +2847,11 @@
         "Queen Medb",
         "Scheherazade"
       ]
+    ],
+    "len_rateups": [
+      4,
+      3,
+      3
     ]
   },
   {
@@ -2518,6 +2866,9 @@
       [
         "Napol\u00e9on"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -2534,6 +2885,9 @@
         "Sigurd",
         "Valkyrie"
       ]
+    ],
+    "len_rateups": [
+      3
     ]
   },
   {
@@ -2606,6 +2960,9 @@
         "Thomas Edison",
         "Tristan"
       ]
+    ],
+    "len_rateups": [
+      59
     ]
   },
   {
@@ -2657,6 +3014,14 @@
         "Mysterious Heroine XX",
         "Queen Medb (Saber)"
       ]
+    ],
+    "len_rateups": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
     ]
   },
   {
@@ -2671,6 +3036,9 @@
       [
         "Leonardo Da Vinci"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -2687,6 +3055,9 @@
         "Marie Antoinette (Caster)",
         "Martha (Ruler)"
       ]
+    ],
+    "len_rateups": [
+      3
     ]
   },
   {
@@ -2709,6 +3080,9 @@
         "Lancelot",
         "Zhuge Liang (Lord El-Melloi II)"
       ]
+    ],
+    "len_rateups": [
+      9
     ]
   },
   {
@@ -2726,6 +3100,9 @@
         "Shuten D\u014dji",
         "Yagy\u016b Munenori"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -2742,6 +3119,9 @@
         "Gilgamesh",
         "Queen of Sheba"
       ]
+    ],
+    "len_rateups": [
+      3
     ]
   },
   {
@@ -2761,6 +3141,9 @@
         "Wu Zetian",
         "Yan Qing"
       ]
+    ],
+    "len_rateups": [
+      6
     ]
   },
   {
@@ -2778,6 +3161,9 @@
         "Kat\u014d Danz\u014d",
         "Queen Medb"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -2794,6 +3180,9 @@
         "Mochizuki Chiyome",
         "Sitonai"
       ]
+    ],
+    "len_rateups": [
+      3
     ]
   },
   {
@@ -2811,6 +3200,9 @@
         "Nezha",
         "Robin Hood"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -2831,12 +3223,15 @@
         "Paracelsus von Hohenheim",
         "Ushiwakamaru"
       ]
+    ],
+    "len_rateups": [
+      7
     ]
   },
   {
     "name": "S I N Chapter Release",
     "rateup_names": [
-      "S I N Chapter Release Summoning Campaign",
+      "S I N Chapter Release Summoning Campaign 1",
       "S I N Summoning Campaign 2"
     ],
     "dates": [
@@ -2855,6 +3250,10 @@
         "Red Hare",
         "Shi Huang Di"
       ]
+    ],
+    "len_rateups": [
+      4,
+      3
     ]
   },
   {
@@ -2872,6 +3271,9 @@
         "Martha (Ruler)",
         "Quetzalcoatl"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -2889,6 +3291,9 @@
         "Thomas Edison",
         "Valkyrie"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -2909,12 +3314,15 @@
         "Sc\u00e1thach",
         "Sigurd"
       ]
+    ],
+    "len_rateups": [
+      7
     ]
   },
   {
     "name": "New Year Event 2019",
     "rateup_names": [
-      "New Year Event 2019 Summoning Campaign",
+      "New Year Event 2019 Summoning Campaign 1",
       "New Year Event 2019 Summoning Campaign 2"
     ],
     "dates": [
@@ -2934,6 +3342,10 @@
         "Li Shuwen",
         "Tomoe Gozen"
       ]
+    ],
+    "len_rateups": [
+      4,
+      4
     ]
   },
   {
@@ -2949,6 +3361,9 @@
         "Enkidu",
         "Gilgamesh (Caster)"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
@@ -2966,6 +3381,9 @@
         "Heracles",
         "Medusa"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -2981,6 +3399,9 @@
         "Ivan the Terrible",
         "Queen of Sheba"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
@@ -3000,6 +3421,9 @@
         "Nursery Rhyme",
         "Queen Medb"
       ]
+    ],
+    "len_rateups": [
+      6
     ]
   },
   {
@@ -3035,6 +3459,9 @@
         "Tamamo no Mae",
         "Xuanzang Sanzang"
       ]
+    ],
+    "len_rateups": [
+      22
     ]
   },
   {
@@ -3049,6 +3476,9 @@
       [
         "Semiramis"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -3074,6 +3504,10 @@
         "Kingprotea",
         "Tristan"
       ]
+    ],
+    "len_rateups": [
+      5,
+      3
     ]
   },
   {
@@ -3103,12 +3537,15 @@
         "Yan Qing",
         "Zhuge Liang (Lord El-Melloi II)"
       ]
+    ],
+    "len_rateups": [
+      16
     ]
   },
   {
     "name": "Tokugawa Kaiten Meiky\u016b - \u014coku",
     "rateup_names": [
-      "Tokugawa Kaiten Meiky\u016b - \u014coku Summoning Campaign",
+      "Tokugawa Kaiten Meiky\u016b - \u014coku Summoning Campaign 1",
       "Tokugawa Kaiten Meiky\u016b - \u014coku Summoning Campaign 2"
     ],
     "dates": [
@@ -3125,6 +3562,10 @@
         "Sessh\u014din Kiara",
         "Yagy\u016b Munenori"
       ]
+    ],
+    "len_rateups": [
+      2,
+      3
     ]
   },
   {
@@ -3139,6 +3580,9 @@
       [
         "Mysterious Heroine X (Alter)"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -3159,6 +3603,9 @@
         "Okada Iz\u014d",
         "Okita S\u014dji (Alter)"
       ]
+    ],
+    "len_rateups": [
+      7
     ]
   },
   {
@@ -3174,6 +3621,9 @@
         "Alexander",
         "Zhuge Liang (Lord El-Melloi II)"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
@@ -3191,6 +3641,9 @@
         "EMIYA (Assassin)",
         "Sima Yi (Reines)"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -3331,6 +3784,9 @@
         "Yan Qing",
         "Zhuge Liang (Lord El-Melloi II)"
       ]
+    ],
+    "len_rateups": [
+      127
     ]
   },
   {
@@ -3347,6 +3803,9 @@
         "Jeanne d'Arc (Alter)",
         "Tristan"
       ]
+    ],
+    "len_rateups": [
+      3
     ]
   },
   {
@@ -3365,6 +3824,9 @@
         "Kiyohime",
         "Leonardo Da Vinci"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -3382,6 +3844,9 @@
         "Osakabehime",
         "Wu Zetian"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -3397,12 +3862,15 @@
         "Arjuna",
         "Rama"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
     "name": "Yuga Kshetra Chapter Release",
     "rateup_names": [
-      "Yuga Kshetra Chapter Release Summoning Campaign",
+      "Yuga Kshetra Chapter Release Summoning Campaign 1",
       "Yuga Kshetra Summoning Campaign 2"
     ],
     "dates": [
@@ -3421,6 +3889,10 @@
         "A\u015bvatth\u0101man",
         "Karna"
       ]
+    ],
+    "len_rateups": [
+      3,
+      4
     ]
   },
   {
@@ -3438,6 +3910,9 @@
         "Nero Claudius (Bride)",
         "Romulus"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -3454,6 +3929,9 @@
         "Mori Nagayoshi",
         "Oda Nobunaga (Berserker)"
       ]
+    ],
+    "len_rateups": [
+      3
     ]
   },
   {
@@ -3484,6 +3962,11 @@
         "Mysterious Heroine XX",
         "Queen Medb (Saber)"
       ]
+    ],
+    "len_rateups": [
+      3,
+      3,
+      3
     ]
   },
   {
@@ -3526,13 +4009,16 @@
         "Yagy\u016b Munenori",
         "Yan Qing"
       ]
+    ],
+    "len_rateups": [
+      29
     ]
   },
   {
     "name": "Las Vegas Official Bout",
     "rateup_names": [
       "Las Vegas Official Bout Summoning Campaign 1",
-      "Las Vegas Official Bout/Merlin Summoning Campaign",
+      "Las Vegas Official Bout/Merlin Summoning Campaign 1",
       "Las Vegas Official Bout Summoning Campaign 2"
     ],
     "dates": [
@@ -3556,6 +4042,11 @@
         "Mysterious Alter Ego \u039b",
         "Okita J S\u014dji"
       ]
+    ],
+    "len_rateups": [
+      3,
+      3,
+      3
     ]
   },
   {
@@ -3572,6 +4063,9 @@
         "Nikola Tesla",
         "Parvati"
       ]
+    ],
+    "len_rateups": [
+      3
     ]
   },
   {
@@ -3726,6 +4220,11 @@
         "Jinako Carigiri",
         "Sitonai"
       ]
+    ],
+    "len_rateups": [
+      58,
+      68,
+      7
     ]
   },
   {
@@ -3742,6 +4241,9 @@
         "Gorgon",
         "Jaguar Man"
       ]
+    ],
+    "len_rateups": [
+      3
     ]
   },
   {
@@ -3758,6 +4260,9 @@
         "Murasaki Shikibu",
         "Sakata Kintoki"
       ]
+    ],
+    "len_rateups": [
+      3
     ]
   },
   {
@@ -3776,6 +4281,9 @@
         "Medusa (Lancer)",
         "Ushiwakamaru"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -3793,12 +4301,15 @@
         "Shuten D\u014dji",
         "Sitonai"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
     "name": "Saber Wars II",
     "rateup_names": [
-      "Saber Wars II Summoning Campaign",
+      "Saber Wars II Summoning Campaign 1",
       "Saber Wars II Summoning Campaign 2",
       "Saber Wars II Pre-Release Summoning Campaign"
     ],
@@ -3819,6 +4330,11 @@
       [
         "Mysterious Heroine X"
       ]
+    ],
+    "len_rateups": [
+      2,
+      2,
+      1
     ]
   },
   {
@@ -3833,6 +4349,9 @@
       [
         "Sc\u00e1thach-Ska\u00f0i"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -3851,6 +4370,9 @@
         "Ozymandias",
         "Paracelsus von Hohenheim"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -3871,6 +4393,9 @@
         "Nightingale",
         "Nursery Rhyme"
       ]
+    ],
+    "len_rateups": [
+      7
     ]
   },
   {
@@ -3888,12 +4413,15 @@
         "Napol\u00e9on",
         "Qin Liangyu"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
     "name": "Atlantis Chapter Release",
     "rateup_names": [
-      "Atlantis Chapter Release Summoning Campaign",
+      "Atlantis Chapter Release Summoning Campaign 1",
       "Atlantis Summoning Campaign 2"
     ],
     "dates": [
@@ -3912,6 +4440,10 @@
         "Astraea",
         "Hector"
       ]
+    ],
+    "len_rateups": [
+      4,
+      3
     ]
   },
   {
@@ -3932,12 +4464,15 @@
         "Shi Huang Di",
         "Yang Guifei"
       ]
+    ],
+    "len_rateups": [
+      7
     ]
   },
   {
     "name": "New Year Event 2019 Re-Run",
     "rateup_names": [
-      "New Year Event 2019 Re-Run Summoning Campaign",
+      "New Year Event 2019 Re-Run Summoning Campaign 1",
       "New Year Event 2019 Re-Run Summoning Campaign 2"
     ],
     "dates": [
@@ -3955,6 +4490,10 @@
         "Li Shuwen",
         "Tomoe Gozen"
       ]
+    ],
+    "len_rateups": [
+      3,
+      3
     ]
   },
   {
@@ -3971,6 +4510,9 @@
         "Osakabehime",
         "Penthesilea"
       ]
+    ],
+    "len_rateups": [
+      3
     ]
   },
   {
@@ -3988,6 +4530,9 @@
         "Hessian Lobo",
         "Yan Qing"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -4004,6 +4549,9 @@
         "Bradamante",
         "Xiang Yu"
       ]
+    ],
+    "len_rateups": [
+      3
     ]
   },
   {
@@ -4040,6 +4588,9 @@
         "Tamamo no Mae",
         "Xuanzang Sanzang"
       ]
+    ],
+    "len_rateups": [
+      23
     ]
   },
   {
@@ -4055,6 +4606,9 @@
         "Ereshkigal",
         "Fionn mac Cumhaill"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
@@ -4082,6 +4636,9 @@
         "Xiang Yu",
         "Zhuge Liang (Lord El-Melloi II)"
       ]
+    ],
+    "len_rateups": [
+      14
     ]
   },
   {
@@ -4097,6 +4654,9 @@
         "Circe",
         "Odysseus"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
@@ -4116,6 +4676,9 @@
         "Medusa (Lancer)",
         "Ushiwakamaru"
       ]
+    ],
+    "len_rateups": [
+      6
     ]
   },
   {
@@ -4143,12 +4706,15 @@
         "Siegfried",
         "Vlad III"
       ]
+    ],
+    "len_rateups": [
+      14
     ]
   },
   {
     "name": "Olympus Chapter Release",
     "rateup_names": [
-      "Olympus Chapter Release Summoning Campaign",
+      "Olympus Chapter Release Summoning Campaign 1",
       "Olympus Summoning Campaign 2"
     ],
     "dates": [
@@ -4163,6 +4729,10 @@
       [
         "Romulus-Quirinus"
       ]
+    ],
+    "len_rateups": [
+      2,
+      1
     ]
   },
   {
@@ -4184,6 +4754,9 @@
         "Sakata Kintoki",
         "Sc\u00e1thach"
       ]
+    ],
+    "len_rateups": [
+      8
     ]
   },
   {
@@ -4202,6 +4775,9 @@
         "Oda Nobunaga (Berserker)",
         "Okita S\u014dji (Alter)"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -4225,13 +4801,17 @@
         "Osakabehime",
         "Thomas Edison"
       ]
+    ],
+    "len_rateups": [
+      2,
+      4
     ]
   },
   {
     "name": "Las Vegas Official Bout Rerun",
     "rateup_names": [
       "Las Vegas Official Bout Rerun Summoning Campaign 1",
-      "Las Vegas Official Bout Rerun/Merlin Summoning Campaign",
+      "Las Vegas Official Bout Rerun/Merlin Summoning Campaign 1",
       "Las Vegas Official Bout Rerun Summoning Campaign 2"
     ],
     "dates": [
@@ -4255,6 +4835,11 @@
         "Mysterious Alter Ego \u039b",
         "Okita J S\u014dji"
       ]
+    ],
+    "len_rateups": [
+      3,
+      3,
+      3
     ]
   },
   {
@@ -4272,6 +4857,9 @@
         "Sima Yi (Reines)",
         "William Tell"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -4343,6 +4931,9 @@
         "Valkyrie",
         "Xiang Yu"
       ]
+    ],
+    "len_rateups": [
+      58
     ]
   },
   {
@@ -4360,6 +4951,9 @@
         "Passionlip",
         "Suzuka Gozen"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -4376,6 +4970,9 @@
         "Sessh\u014din Kiara",
         "Yagy\u016b Munenori"
       ]
+    ],
+    "len_rateups": [
+      3
     ]
   },
   {
@@ -4391,6 +4988,9 @@
         "Artoria Caster",
         "Leonardo Da Vinci (Rider)"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
@@ -4421,6 +5021,11 @@
         "Murasaki Shikibu (Rider)",
         "Tomoe Gozen (Saber)"
       ]
+    ],
+    "len_rateups": [
+      3,
+      3,
+      3
     ]
   },
   {
@@ -4440,6 +5045,9 @@
         "Shi Huang Di",
         "Wu Zetian"
       ]
+    ],
+    "len_rateups": [
+      6
     ]
   },
   {
@@ -4457,6 +5065,9 @@
         "Red Hare",
         "Shuten D\u014dji"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -4474,6 +5085,9 @@
         "Sc\u00e1thach",
         "Tamamo Cat"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -4490,6 +5104,9 @@
         "Okada Iz\u014d",
         "Okita S\u014dji"
       ]
+    ],
+    "len_rateups": [
+      3
     ]
   },
   {
@@ -4510,6 +5127,10 @@
       [
         "Oda Nobukatsu"
       ]
+    ],
+    "len_rateups": [
+      2,
+      1
     ]
   },
   {
@@ -4531,6 +5152,9 @@
         "Nightingale",
         "Nursery Rhyme"
       ]
+    ],
+    "len_rateups": [
+      8
     ]
   },
   {
@@ -4554,6 +5178,10 @@
         "Mysterious Heroine XX",
         "Yang Guifei"
       ]
+    ],
+    "len_rateups": [
+      2,
+      4
     ]
   },
   {
@@ -4568,13 +5196,16 @@
       [
         "Murasaki Shikibu"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
     "name": "Heian-ky\u014d Chapter Release",
     "rateup_names": [
       "Heian-ky\u014d Chapter Release Summoning Campaign",
-      "Realm of Hell Mandala - Heian-ky\u014d Pre-Release Summoning Campaign",
+      "Realm of Hell Mandala - Heian-ky\u014d Pre-Release Summoning Campaign 1",
       "Heian-ky\u014d Summoning Campaign 2"
     ],
     "dates": [
@@ -4599,6 +5230,11 @@
         "Medea (Lily)",
         "Paracelsus von Hohenheim"
       ]
+    ],
+    "len_rateups": [
+      2,
+      4,
+      4
     ]
   },
   {
@@ -4622,6 +5258,10 @@
         "Karna",
         "Parvati"
       ]
+    ],
+    "len_rateups": [
+      3,
+      3
     ]
   },
   {
@@ -4642,12 +5282,15 @@
         "Super Orion",
         "Tamamo no Mae (Lancer)"
       ]
+    ],
+    "len_rateups": [
+      7
     ]
   },
   {
     "name": "Saber Wars II Rerun",
     "rateup_names": [
-      "Saber Wars II Rerun Summoning Campaign",
+      "Saber Wars II Rerun Summoning Campaign 1",
       "Saber Wars II Rerun Summoning Campaign 2"
     ],
     "dates": [
@@ -4663,6 +5306,10 @@
         "Mysterious Heroine X",
         "Yagy\u016b Munenori"
       ]
+    ],
+    "len_rateups": [
+      2,
+      2
     ]
   },
   {
@@ -4680,6 +5327,9 @@
         "Taira no Kagekiyo",
         "Ushiwakamaru"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -4700,6 +5350,9 @@
         "Romulus",
         "Romulus-Quirinus"
       ]
+    ],
+    "len_rateups": [
+      7
     ]
   },
   {
@@ -4736,6 +5389,9 @@
         "Vritra",
         "Xuanzang Sanzang"
       ]
+    ],
+    "len_rateups": [
+      23
     ]
   },
   {
@@ -4750,6 +5406,9 @@
       [
         "Sei Sh\u014dnagon"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -4764,6 +5423,9 @@
       [
         "Arthur Pendragon (Prototype)"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -4802,6 +5464,10 @@
         "Voyager",
         "Watanabe no Tsuna"
       ]
+    ],
+    "len_rateups": [
+      18,
+      3
     ]
   },
   {
@@ -4971,6 +5637,12 @@
         "Jinako Carigiri",
         "Sitonai"
       ]
+    ],
+    "len_rateups": [
+      3,
+      62,
+      72,
+      7
     ]
   },
   {
@@ -4988,6 +5660,9 @@
         "Mochizuki Chiyome",
         "Tamamo no Mae"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -5007,6 +5682,9 @@
         "Vlad III",
         "Yan Qing"
       ]
+    ],
+    "len_rateups": [
+      6
     ]
   },
   {
@@ -5024,6 +5702,9 @@
         "Jeanne d'Arc",
         "Shuten D\u014dji"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -5050,6 +5731,10 @@
         "Tamamo Cat",
         "Ushiwakamaru"
       ]
+    ],
+    "len_rateups": [
+      4,
+      5
     ]
   },
   {
@@ -5067,6 +5752,9 @@
         "Ozymandias",
         "Xuanzang Sanzang"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -5085,6 +5773,9 @@
         "Mordred",
         "Tristan"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -5116,6 +5807,11 @@
         "Murasaki Shikibu (Rider)",
         "Tomoe Gozen (Saber)"
       ]
+    ],
+    "len_rateups": [
+      3,
+      3,
+      4
     ]
   },
   {
@@ -5130,12 +5826,15 @@
       [
         "Leonardo Da Vinci (Rider)"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
     "name": "Avalon le Fae Chapter Release",
     "rateup_names": [
-      "Avalon le Fae Chapter Release Summoning Campaign",
+      "Avalon le Fae Chapter Release Summoning Campaign 1",
       "Avalon le Fae Summoning Campaign 2"
     ],
     "dates": [
@@ -5152,6 +5851,10 @@
       [
         "Artoria Caster"
       ]
+    ],
+    "len_rateups": [
+      4,
+      1
     ]
   },
   {
@@ -5169,6 +5872,9 @@
         "Caenis",
         "Mandricardo"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -5188,6 +5894,9 @@
         "Nero Claudius (Caster)",
         "Romulus"
       ]
+    ],
+    "len_rateups": [
+      6
     ]
   },
   {
@@ -5203,6 +5912,9 @@
         "M\u00e9lusine",
         "Percival"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
@@ -5244,12 +5956,16 @@
       [
         "Sherlock Holmes"
       ]
+    ],
+    "len_rateups": [
+      23,
+      1
     ]
   },
   {
     "name": "Avalon le Fae Conclusion Campaign",
     "rateup_names": [
-      "Avalon le Fae Conclusion Campaign Summoning Campaign",
+      "Avalon le Fae Conclusion Campaign Summoning Campaign 1",
       "Avalon le Fae Conclusion Summoning Campaign 2"
     ],
     "dates": [
@@ -5269,6 +5985,10 @@
         "Barghest",
         "Morgan"
       ]
+    ],
+    "len_rateups": [
+      5,
+      3
     ]
   },
   {
@@ -5285,6 +6005,9 @@
         "Illyasviel von Einzbern (Archer)",
         "Miyu Edelfelt"
       ]
+    ],
+    "len_rateups": [
+      3
     ]
   },
   {
@@ -5328,6 +6051,13 @@
         "Francis Drake",
         "Nemo"
       ]
+    ],
+    "len_rateups": [
+      3,
+      2,
+      3,
+      2,
+      4
     ]
   },
   {
@@ -5343,6 +6073,9 @@
         "Okita S\u014dji (Alter)",
         "Van Gogh"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
@@ -5357,6 +6090,9 @@
       [
         "Artoria Pendragon"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -5385,6 +6121,9 @@
         "Wu Zetian",
         "Yan Qing"
       ]
+    ],
+    "len_rateups": [
+      15
     ]
   },
   {
@@ -5399,6 +6138,9 @@
       [
         "Ereshkigal"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -5421,6 +6163,10 @@
         "Chevalier d'Eon",
         "Napol\u00e9on"
       ]
+    ],
+    "len_rateups": [
+      2,
+      3
     ]
   },
   {
@@ -5448,6 +6194,9 @@
         "Semiramis",
         "Siegfried"
       ]
+    ],
+    "len_rateups": [
+      14
     ]
   },
   {
@@ -5470,6 +6219,10 @@
       [
         "Oda Nobukatsu"
       ]
+    ],
+    "len_rateups": [
+      4,
+      1
     ]
   },
   {
@@ -5486,12 +6239,15 @@
         "Sakata Kintoki",
         "Watanabe no Tsuna"
       ]
+    ],
+    "len_rateups": [
+      3
     ]
   },
   {
     "name": "GUDAGUDA Close Call 2021",
     "rateup_names": [
-      "GUDAGUDA Close Call 2021 Summoning Campaign",
+      "GUDAGUDA Close Call 2021 Summoning Campaign 1",
       "GUDAGUDA Close Call 2021 Summoning Campaign 2"
     ],
     "dates": [
@@ -5512,6 +6268,10 @@
         "Okita J S\u014dji",
         "Sakamoto Ry\u014dma (Lancer)"
       ]
+    ],
+    "len_rateups": [
+      4,
+      5
     ]
   },
   {
@@ -5527,6 +6287,9 @@
         "Galatea",
         "Katsushika Hokusai"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
@@ -5544,6 +6307,9 @@
         "Martha",
         "Sc\u00e1thach-Ska\u00f0i"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -5560,6 +6326,9 @@
         "M\u00e9lusine",
         "Percival"
       ]
+    ],
+    "len_rateups": [
+      3
     ]
   },
   {
@@ -5575,6 +6344,9 @@
         "Dobrynya Nikitich",
         "Taigong Wang"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
@@ -5595,6 +6367,9 @@
         "Sc\u00e1thach",
         "Taira no Kagekiyo"
       ]
+    ],
+    "len_rateups": [
+      7
     ]
   },
   {
@@ -5609,12 +6384,15 @@
       [
         "Koyanskaya of Light"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
     "name": "Lady Reines Case Files Rerun",
     "rateup_names": [
-      "Lady Reines Case Files Rerun Summoning Campaign",
+      "Lady Reines Case Files Rerun Summoning Campaign 1",
       "Lady Reines Case Files Rerun Summoning Campaign 2"
     ],
     "dates": [
@@ -5630,6 +6408,10 @@
         "Astraea",
         "Zhuge Liang (Lord El-Melloi II)"
       ]
+    ],
+    "len_rateups": [
+      2,
+      2
     ]
   },
   {
@@ -5645,6 +6427,9 @@
         "Edmond Dant\u00e8s",
         "Nightingale"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
@@ -5660,6 +6445,9 @@
         "Arjuna",
         "Karna"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
@@ -5675,6 +6463,9 @@
         "Ereshkigal",
         "Ishtar"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
@@ -5721,6 +6512,10 @@
         "Sei Sh\u014dnagon",
         "Semiramis"
       ]
+    ],
+    "len_rateups": [
+      24,
+      5
     ]
   },
   {
@@ -5735,6 +6530,9 @@
       [
         "Amor (Caren)"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -5752,6 +6550,9 @@
         "Passionlip",
         "Suzuka Gozen"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -5790,6 +6591,10 @@
       [
         "Merlin"
       ]
+    ],
+    "len_rateups": [
+      20,
+      1
     ]
   },
   {
@@ -5808,6 +6613,9 @@
         "Avicebron",
         "Ivan the Terrible"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -5831,6 +6639,10 @@
         "Gilgamesh",
         "Gilgamesh (Caster)"
       ]
+    ],
+    "len_rateups": [
+      4,
+      2
     ]
   },
   {
@@ -5850,6 +6662,9 @@
         "Sitonai",
         "Valkyrie"
       ]
+    ],
+    "len_rateups": [
+      6
     ]
   },
   {
@@ -5871,6 +6686,10 @@
         "Morgan",
         "Wu Zetian"
       ]
+    ],
+    "len_rateups": [
+      2,
+      2
     ]
   },
   {
@@ -5899,6 +6718,10 @@
         "Marie Antoinette (Caster)",
         "Tamamo no Mae (Lancer)"
       ]
+    ],
+    "len_rateups": [
+      3,
+      8
     ]
   },
   {
@@ -5926,6 +6749,10 @@
         "Shuten D\u014dji",
         "Yang Guifei"
       ]
+    ],
+    "len_rateups": [
+      4,
+      6
     ]
   },
   {
@@ -5966,6 +6793,13 @@
         "Dobrynya Nikitich",
         "Taigong Wang"
       ]
+    ],
+    "len_rateups": [
+      3,
+      3,
+      2,
+      1,
+      2
     ]
   },
   {
@@ -5985,6 +6819,10 @@
       [
         "BB (Summer)"
       ]
+    ],
+    "len_rateups": [
+      1,
+      1
     ]
   },
   {
@@ -6006,6 +6844,9 @@
         "Shi Huang Di",
         "Xiang Yu"
       ]
+    ],
+    "len_rateups": [
+      8
     ]
   },
   {
@@ -6036,6 +6877,11 @@
         "Katsushika Hokusai",
         "Okada Iz\u014d"
       ]
+    ],
+    "len_rateups": [
+      3,
+      3,
+      3
     ]
   },
   {
@@ -6053,6 +6899,9 @@
         "Scheherazade",
         "Sessh\u014din Kiara"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -6081,6 +6930,9 @@
         "Sessh\u014din Kiara (Moon Cancer)",
         "Tomoe Gozen (Saber)"
       ]
+    ],
+    "len_rateups": [
+      15
     ]
   },
   {
@@ -6110,6 +6962,10 @@
         "Voyager",
         "Xu Fu"
       ]
+    ],
+    "len_rateups": [
+      2,
+      10
     ]
   },
   {
@@ -6144,6 +7000,12 @@
         "Sc\u00e1thach-Ska\u00f0i (Ruler)",
         "Wu Zetian (Caster)"
       ]
+    ],
+    "len_rateups": [
+      2,
+      3,
+      2,
+      2
     ]
   },
   {
@@ -6163,6 +7025,9 @@
         "Okita S\u014dji (Saber Alter)",
         "Sei Sh\u014dnagon (Berserker)"
       ]
+    ],
+    "len_rateups": [
+      6
     ]
   },
   {
@@ -6188,6 +7053,10 @@
         "Minamoto no Raik\u014d",
         "Mysterious Heroine X (Alter)"
       ]
+    ],
+    "len_rateups": [
+      2,
+      6
     ]
   },
   {
@@ -6210,6 +7079,9 @@
         "Rama",
         "William Tell"
       ]
+    ],
+    "len_rateups": [
+      9
     ]
   },
   {
@@ -6241,6 +7113,10 @@
         "Sait\u014d Hajime",
         "Sakamoto Ry\u014dma (Lancer)"
       ]
+    ],
+    "len_rateups": [
+      3,
+      11
     ]
   },
   {
@@ -6262,6 +7138,9 @@
         "Odysseus",
         "Super Orion"
       ]
+    ],
+    "len_rateups": [
+      8
     ]
   },
   {
@@ -6279,6 +7158,9 @@
         "Europa",
         "Romulus-Quirinus"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -6306,6 +7188,10 @@
         "Yagy\u016b Munenori",
         "Yan Qing"
       ]
+    ],
+    "len_rateups": [
+      2,
+      8
     ]
   },
   {
@@ -6323,6 +7209,9 @@
         "Nemo",
         "Van Gogh"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -6418,6 +7307,17 @@
         "Scheherazade",
         "Yagy\u016b Munenori"
       ]
+    ],
+    "len_rateups": [
+      6,
+      6,
+      4,
+      6,
+      6,
+      1,
+      4,
+      6,
+      11
     ]
   },
   {
@@ -6456,6 +7356,12 @@
       [
         "Morgan"
       ]
+    ],
+    "len_rateups": [
+      3,
+      3,
+      6,
+      1
     ]
   },
   {
@@ -6471,6 +7377,9 @@
         "Artoria Caster",
         "Leonardo Da Vinci (Rider)"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
@@ -6490,6 +7399,9 @@
         "Red Hare",
         "Senji Muramasa"
       ]
+    ],
+    "len_rateups": [
+      6
     ]
   },
   {
@@ -6509,6 +7421,9 @@
         "Parvati",
         "Vritra"
       ]
+    ],
+    "len_rateups": [
+      6
     ]
   },
   {
@@ -6524,6 +7439,9 @@
         "Artoria Pendragon",
         "Ushiwakamaru"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
@@ -6539,6 +7457,9 @@
         "Nero Claudius",
         "Nero Claudius (Bride)"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
@@ -6553,6 +7474,9 @@
       [
         "Koyanskaya of Light"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -6568,6 +7492,9 @@
         "James Moriarty (Ruler)",
         "Mysterious Alter Ego \u039b"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
@@ -6596,6 +7523,9 @@
         "Passionlip",
         "Sima Yi (Reines)"
       ]
+    ],
+    "len_rateups": [
+      15
     ]
   },
   {
@@ -6616,6 +7546,10 @@
       [
         "Nitocris (Alter)"
       ]
+    ],
+    "len_rateups": [
+      2,
+      1
     ]
   },
   {
@@ -6637,6 +7571,10 @@
         "Kukulkan",
         "Tenochtitlan"
       ]
+    ],
+    "len_rateups": [
+      2,
+      2
     ]
   },
   {
@@ -6651,6 +7589,9 @@
       [
         "Ereshkigal"
       ]
+    ],
+    "len_rateups": [
+      1
     ]
   },
   {
@@ -6700,6 +7641,10 @@
         "Sei Sh\u014dnagon",
         "Semiramis"
       ]
+    ],
+    "len_rateups": [
+      25,
+      7
     ]
   },
   {
@@ -6720,6 +7665,9 @@
         "Odysseus",
         "Zhuge Liang (Lord El-Melloi II)"
       ]
+    ],
+    "len_rateups": [
+      7
     ]
   },
   {
@@ -6762,6 +7710,11 @@
         "Okada Iz\u014d",
         "Sakamoto Ry\u014dma (Lancer)"
       ]
+    ],
+    "len_rateups": [
+      17,
+      2,
+      2
     ]
   },
   {
@@ -6781,12 +7734,15 @@
         "Heracles",
         "Merlin"
       ]
+    ],
+    "len_rateups": [
+      6
     ]
   },
   {
     "name": "Evocation Festival Part 1",
     "rateup_names": [
-      "Evocation Festival Part 1 Summoning Campaign",
+      "Evocation Festival Part 1 Summoning Campaign 1",
       "Evocation Festival Part 1 Summoning Campaign 2"
     ],
     "dates": [
@@ -6810,6 +7766,10 @@
         "Minamoto no Raik\u014d",
         "Mochizuki Chiyome"
       ]
+    ],
+    "len_rateups": [
+      6,
+      6
     ]
   },
   {
@@ -6826,6 +7786,9 @@
         "Larva/Tiamat",
         "Leonardo Da Vinci"
       ]
+    ],
+    "len_rateups": [
+      3
     ]
   },
   {
@@ -6862,6 +7825,12 @@
         "Mordred",
         "Nero Claudius"
       ]
+    ],
+    "len_rateups": [
+      2,
+      3,
+      2,
+      4
     ]
   },
   {
@@ -6881,6 +7850,9 @@
         "Okita S\u014dji",
         "Vlad III"
       ]
+    ],
+    "len_rateups": [
+      6
     ]
   },
   {
@@ -6900,12 +7872,15 @@
         "Dobrynya Nikitich",
         "Ivan the Terrible"
       ]
+    ],
+    "len_rateups": [
+      6
     ]
   },
   {
     "name": "Fuun Karakuri Illya's Castle",
     "rateup_names": [
-      "Fuun Karakuri Illya's Castle Summoning Campaign",
+      "Fuun Karakuri Illya's Castle Summoning Campaign 1",
       "Fuun Karakuri Illya's Castle Summoning Campaign 2",
       "Fuun Karakuri Illya's Castle Summoning Campaign 3"
     ],
@@ -6930,6 +7905,11 @@
         "Miyu Edelfelt",
         "Sitonai"
       ]
+    ],
+    "len_rateups": [
+      3,
+      3,
+      3
     ]
   },
   {
@@ -6947,6 +7927,9 @@
         "Nikola Tesla",
         "Thomas Edison"
       ]
+    ],
+    "len_rateups": [
+      4
     ]
   },
   {
@@ -6983,6 +7966,12 @@
         "Nitocris (Alter)",
         "Tenochtitlan"
       ]
+    ],
+    "len_rateups": [
+      2,
+      4,
+      2,
+      3
     ]
   },
   {
@@ -7010,6 +7999,11 @@
         "Artoria Pendragon (Archer)",
         "Mordred (Rider)"
       ]
+    ],
+    "len_rateups": [
+      2,
+      2,
+      2
     ]
   },
   {
@@ -7025,6 +8019,9 @@
         "Enkidu",
         "Gilgamesh"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
@@ -7044,12 +8041,15 @@
         "Queen Medb (Saber)",
         "Sc\u00e1thach-Ska\u00f0i"
       ]
+    ],
+    "len_rateups": [
+      6
     ]
   },
   {
     "name": "Mystic Eyes Symphony",
     "rateup_names": [
-      "Mystic Eyes Symphony Summoning Campaign",
+      "Mystic Eyes Symphony Summoning Campaign 1",
       "Mystic Eyes Symphony Summoning Campaign 2",
       "Mystic Eyes Symphony Summoning Campaign 3",
       "Mystic Eyes Symphony Summoning Campaign 4"
@@ -7083,6 +8083,12 @@
         "Stheno",
         "Vritra"
       ]
+    ],
+    "len_rateups": [
+      1,
+      2,
+      2,
+      9
     ]
   },
   {
@@ -7121,6 +8127,11 @@
         "James Moriarty",
         "Leonardo Da Vinci (Rider)"
       ]
+    ],
+    "len_rateups": [
+      1,
+      14,
+      2
     ]
   },
   {
@@ -7167,6 +8178,13 @@
         "Utsumi Erice (Avenger)",
         "Wu Zetian (Caster)"
       ]
+    ],
+    "len_rateups": [
+      3,
+      4,
+      3,
+      1,
+      6
     ]
   },
   {
@@ -7192,6 +8210,9 @@
         "Sessh\u014din Kiara (Moon Cancer)",
         "Tomoe Gozen (Saber)"
       ]
+    ],
+    "len_rateups": [
+      12
     ]
   },
   {
@@ -7208,6 +8229,9 @@
         "Grigori Rasputin",
         "Senji Muramasa"
       ]
+    ],
+    "len_rateups": [
+      3
     ]
   },
   {
@@ -7227,6 +8251,9 @@
         "Miyu Edelfelt",
         "Siegfried"
       ]
+    ],
+    "len_rateups": [
+      6
     ]
   },
   {
@@ -7243,6 +8270,9 @@
         "Ibuki D\u014dji",
         "Minamoto no Tametomo"
       ]
+    ],
+    "len_rateups": [
+      3
     ]
   },
   {
@@ -7267,6 +8297,10 @@
         "Nitocris (Assassin)",
         "Ozymandias"
       ]
+    ],
+    "len_rateups": [
+      4,
+      3
     ]
   },
   {
@@ -7285,6 +8319,9 @@
         "Li Shuwen",
         "Miyamoto Musashi"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -7303,6 +8340,9 @@
         "Sigurd",
         "Valkyrie"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -7322,6 +8362,9 @@
         "Ry\u014dgi Shiki (Saber)",
         "Sima Yi (Reines)"
       ]
+    ],
+    "len_rateups": [
+      6
     ]
   },
   {
@@ -7337,12 +8380,15 @@
         "Artoria Caster",
         "Morgan"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
     "name": "Grail Front ~White Castle by Day, Black Castle by Night~",
     "rateup_names": [
-      "Grail Front ~White Castle by Day, Black Castle by Night~ Summoning Campaign",
+      "Grail Front ~White Castle by Day, Black Castle by Night~ Summoning Campaign 1",
       "Grail Front ~White Castle by Day, Black Castle by Night~ Summoning Campaign 2",
       "Grail Front ~White Castle by Day, Black Castle by Night~ Summoning Campaign 3"
     ],
@@ -7368,6 +8414,11 @@
         "Theseus",
         "Zhuge Liang (Lord El-Melloi II)"
       ]
+    ],
+    "len_rateups": [
+      3,
+      3,
+      4
     ]
   },
   {
@@ -7386,6 +8437,9 @@
         "Lakshmibai",
         "William Tell"
       ]
+    ],
+    "len_rateups": [
+      5
     ]
   },
   {
@@ -7401,6 +8455,9 @@
         "Barghest",
         "M\u00e9lusine"
       ]
+    ],
+    "len_rateups": [
+      2
     ]
   },
   {
@@ -7420,6 +8477,9 @@
         "Okada Iz\u014d",
         "Sakamoto Ry\u014dma (Lancer)"
       ]
+    ],
+    "len_rateups": [
+      6
     ]
   },
   {
@@ -7464,6 +8524,13 @@
       [
         "Oda Nobukatsu"
       ]
+    ],
+    "len_rateups": [
+      3,
+      4,
+      3,
+      4,
+      1
     ]
   }
 ]

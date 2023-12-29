@@ -825,7 +825,14 @@ def remove_empty(banner_dict):
             del banner_dict[banner]
 
 def fix_rateup_names(banner_dict):
-    pass
+    print('Fixing rateup names...')
+    for event in banner_dict:
+        for i, rateup_title in enumerate(banner_dict[event][2]):
+            if "Summoning Campaign 2" in rateup_title:
+                for j in range(max(i-1, 0), -1, -1):
+                    if banner_dict[event][2][j].endswith("Summoning Campaign"):
+                        banner_dict[event][2][j] += " 1"
+                        break
 
 # If TESTING is 1, parse the test pages. Otherwise, parse the Summoning Campaign category.
 if TESTING == 1:
@@ -837,6 +844,9 @@ else:
 remove_empty(BANNER_DICT_JP)
 remove_empty(BANNER_DICT_NA)
 
+fix_rateup_names(BANNER_DICT_JP)
+fix_rateup_names(BANNER_DICT_NA)
+
 # Sort the banners by date.
 print("Sorting by date...")
 banner_list_jp = []
@@ -845,7 +855,8 @@ for banner in BANNER_DICT_JP:
         'name': banner,
         'rateup_names' : BANNER_DICT_JP[banner][2],
         'dates': BANNER_DICT_JP[banner][0],
-        'rateups': BANNER_DICT_JP[banner][1]
+        'rateups': BANNER_DICT_JP[banner][1],
+        'len_rateups': [len(x) for x in BANNER_DICT_JP[banner][1]]
     })
 banner_list_na = []
 for banner in BANNER_DICT_NA:
@@ -853,7 +864,8 @@ for banner in BANNER_DICT_NA:
         'name': banner,
         'rateup_names' : BANNER_DICT_NA[banner][2],
         'dates': BANNER_DICT_NA[banner][0],
-        'rateups': BANNER_DICT_NA[banner][1]
+        'rateups': BANNER_DICT_NA[banner][1],
+        'len_rateups': [len(x) for x in BANNER_DICT_NA[banner][1]]
     })
 
 # Save the banner list to a JSON file.
