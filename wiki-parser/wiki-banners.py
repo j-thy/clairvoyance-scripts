@@ -194,12 +194,30 @@ EXCLUDE_PAGES = (
     "Valentine 2020/Main Info",
 )
 
+EVENT_RENAME = {
+    "Strange Fake -Whispers of Dawn- Broadcast Commemoration Summoning Campaign" : "Strange Fake -Whispers of Dawn- Broadcast Commemoration Campaign",
+    "Ordeal Call Pre-Release Campaign" : "Ordeal Call Release Campaign",
+    "Chaldea Boys Collection 2021" : "Slapstick Museum",
+    "Chaldea Boys Collection 2019" : "The Antiquated Spider Nostalgically Spins Its Thread",
+    "WinFes 2018/19 Commemoration Summoning Campaign 2" : "WinFes 2018/19 Commemoration Campaign: Osaka",
+}
+
+MERGE_RATEUPS_INTO = {
+    "FGO Arcade Collaboration Pre-Release Campaign" : "Lilim Harlot",
+    "Nahui Mictlan Lostbelt Part II Pre-Release Campaign" : "Nahui Mictlan Chapter Release Part 2",
+    "Fate/Grand Order ～7th Anniversary～ Countdown Campaign" : "Fate/Grand Order ～7th Anniversary～",
+    "Avalon le Fae Lostbelt Pre-Release Campaign" : "Avalon le Fae Chapter Release",
+    "Yuga Kshetra Pre-Release Campaign" : "Yuga Kshetra Chapter Release",
+    "Götterdämmerung Lostbelt Pre-Release Campaign" : "Götterdämmerung Chapter Release",
+    "Fate/Accel Zero Order (Pre-Event)" : "Fate/Accel Zero Order Event",
+}
+
 # NOTE: Halloween Trilogy missing Kiyohime in first table
+
 # TODO: Strange Fake -Whispers of Dawn- Broadcast Commemoration Campaign -> Strange Fake -Whispers of Dawn- Broadcast Commemoration Summoning Campaign
 # TODO: Ordeal Call Release Campaign -> Ordeal Call Pre-Release Campaign
 # TODO: Lilim Harlot -> FGO Arcade Collaboration Pre-Release Campaign
 # TODO: Nahui Mictlan Chapter Release Part 2 -> Nahui Mictlan Lostbelt Part II Pre-Release Campaign
-# TODO: Chaldea Faerie Knight Cup -> Chaldea Faerie Knight Cup Pre-Release Campaign
 # TODO: Fate/Grand Order ～7th Anniversary～ -> Fate/Grand Order ～7th Anniversary～ Countdown Campaign
 # TODO: Avalon le Fae Chapter Release -> Avalon le Fae Lostbelt Pre-Release Campaign
 # TODO: Slapstick Museum -> Chaldea Boys Collection 2021
