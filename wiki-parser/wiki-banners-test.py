@@ -302,6 +302,32 @@ EVENT_LISTS = (
 
 MONTHS = ("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December")
 
+MONTH_TRANSLATE = {
+    "January" : "1",
+    "Jan" : "1",
+    "February" : "2",
+    "Feb" : "2",
+    "March" : "3",
+    "Mar" : "3",
+    "April" : "4",
+    "Apr" : "4",
+    "May" : "5",
+    "June" : "6",
+    "Jun" : "6",
+    "July" : "7",
+    "Jul" : "7",
+    "August" : "8",
+    "Aug" : "8",
+    "September" : "9",
+    "Sept" : "9",
+    "October" : "10",
+    "Oct" : "10",
+    "November" : "11",
+    "Nov" : "11",
+    "December" : "12",
+    "Dec" : "12",
+}
+
 SKIP_DATES = {
     "Event List/2016 Events": ["|August 22 ~ August 31"],
     "Event List/2017 Events": ["|August 17 ~ September 1", "|July 20 ~ July 29"],
@@ -361,6 +387,20 @@ def correct_name(text):
     if text in NAME_FIXES:
         return NAME_FIXES[text]
     return text
+
+def date_parser(start_date, end_date):
+    start_date_str = start_date.split(",")[0].strip().split(" ")
+    end_date_str = end_date.split(",")[0].strip().split(" ")
+    start_month = MONTH_TRANSLATE[start_date_str[0]]
+    start_day = int(re.sub(r'[a-zA-Z]', '', start_date_str[1]))
+    try:
+        end_month = MONTH_TRANSLATE[end_date_str[0]]
+        end_day = int(re.sub(r'[a-zA-Z]', '', end_date_str[1]))
+    except KeyError:
+        end_month = start_month
+        end_day = start_day
+
+    return f'{start_month}/{start_day}-{end_month}/{end_day}'
 
 # Parse a wiki page
 def parse(banner_dict, page, event_date, parent=None):
@@ -537,7 +577,10 @@ def parse(banner_dict, page, event_date, parent=None):
             end_date = templates[0].get("end").value.strip()
         except ValueError:
             end_date = start_date
-        event_date = f'{start_date} ~ {end_date}'
+        if not end_date:
+            end_date = start_date
+
+        event_date = date_parser(start_date, end_date)
     # Date if it has old-style headers
     else:
         # Get the lines from text
@@ -548,7 +591,14 @@ def parse(banner_dict, page, event_date, parent=None):
             if "Duration" in line and title not in SKIP_DURATION_PARSE:
                 # Remove "'''" from line
                 line = re.sub(r"'''", '', line)
-                event_date = line.split(": ")[1].strip()
+                date_split = line.split(": ")[1].split("~")
+                if len(date_split) == 1:
+                    date_split = date_split[0].split("-")
+                if len(date_split) == 1:
+                    date_split = date_split[0].split("～")
+                if not date_split[1].strip():
+                    date_split[1] = date_split[0]
+                event_date = date_parser(date_split[0], date_split[1])
                 break
 
     # Create a list of dates the same size as the list of banners.
@@ -562,7 +612,7 @@ def parse(banner_dict, page, event_date, parent=None):
     rateup_titles = [subpage_title] * len(banners)
 
     # Finds date on pages with multiple summoning campaigns on different tabs
-    matches = re.findall(r'(.*Summo.*(?:\w|\)))=\n*((?:\[\[|{{).*)\n\n*(?:.*Duration.*?(?: |\'|:)([A-Z].*))?', text)
+    matches = re.findall(r'(.*Summo.*(?:\w|\)))=\n*((?:\[\[|{{|{\|).*)\n\n*(?:.*Duration.*?(?: |\'|:)([A-Z].*))?', text)
 
     i = 0
     for match in matches:
@@ -710,7 +760,8 @@ def parse_event_lists():
                 not "[[" in line:
                 # Match ".*\|" and remove anything before it.
                 line = re.sub(r'.*\|', '', line)
-                date_list.append(line)
+                date_split = line.split("~")
+                date_list.append(date_parser(line, line) if len(date_split) == 1 else date_parser(date_split[0], date_split[1]))
 
         wikicode = mwparserfromhell.parse(text)
         events = None
@@ -733,7 +784,7 @@ def parse_event_lists():
                     ends.append(x.get("end").value.strip())
                 except ValueError:
                     ends.append(starts[i])
-            date_list = [f'{starts[i]} ~ {ends[i]}' for i in range(len(starts))]
+            date_list = [date_parser(starts[i], ends[i]) for i in range(len(starts))]
 
         # Reverse events and date list
         events.reverse()
