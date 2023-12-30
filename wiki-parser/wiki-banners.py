@@ -696,10 +696,7 @@ def parse(event_set, page, duration, parent=None):
         chapter_release_rateups = [banner.rateups for banner in event_set[chapter_release_title].banners]
 
         # Check if each rateup list is already in the Chapter Release event
-        for rateup in rateups:
-            # Get the index of the rateup in the event currently being parsed
-            src_i = rateups.index(rateup)
-
+        for src_i, rateup in enumerate(rateups):
             # If the rateup is already in the Chapter Release event...
             if rateup in chapter_release_rateups:
                 # Get the index of the rateup in the Chapter Release event
@@ -711,8 +708,7 @@ def parse(event_set, page, duration, parent=None):
                 event_set[chapter_release_title].banners[dest_i].end_date = dates[src_i][1]
             # If the rateup list is not already in the Chapter Release event, add it
             else:
-                new_banner = Banner(rateup_titles[src_i], dates[src_i][0], dates[src_i][1], rateup)
-                event_set[chapter_release_title].banners.append(new_banner)
+                event_set[chapter_release_title].banners.append(banners[src_i])
     # If the banner already has a predetermined parent, add it to that parent
     elif parent:
         # If the parent event already exists, add the banners to it
