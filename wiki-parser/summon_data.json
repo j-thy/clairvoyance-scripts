@@ -8532,5 +8532,48 @@
       4,
       1
     ]
+  },
+  {
+    "name": "Christmas 2023",
+    "rateup_names": [
+      "Christmas 2023 Summoning Campaign 1",
+      "Christmas 2023 Summoning Campaign 2",
+      "Christmas 2023 Summoning Campaign 3",
+      "Christmas 2023 Summoning Campaign 4",
+      "Christmas 2023 FP Summoning Campaign"
+    ],
+    "dates": [
+      "12/20/2023-12/31/2023",
+      "12/21/2023-12/31/2023",
+      "12/24/2023-12/31/2023",
+      "12/25/2023-12/31/2023",
+      "12/20/2023-12/31/2023"
+    ],
+    "rateups": [
+      [
+        "Nemo"
+      ],
+      [
+        "Britomart"
+      ],
+      [
+        "A\u015bvatth\u0101man",
+        "BB (Summer)"
+      ],
+      [
+        "A\u015bvatth\u0101man",
+        "Sc\u00e1thach-Ska\u00f0i"
+      ],
+      [
+        "Mary Anning"
+      ]
+    ],
+    "len_rateups": [
+      1,
+      1,
+      2,
+      2,
+      1
+    ]
   }
 ]
