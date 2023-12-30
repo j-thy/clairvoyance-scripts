@@ -203,7 +203,7 @@ EVENT_RENAME = {
     "WinFes 2018/19 Commemoration Summoning Campaign 2" : "WinFes 2018/19 Commemoration Campaign: Osaka",
 }
 
-MERGE_RATEUPS_INTO = {
+MERGE_EVENTS_INTO = {
     "FGO Arcade Collaboration Pre-Release Campaign" : "Lilim Harlot",
     "Nahui Mictlan Lostbelt Part II Pre-Release Campaign" : "Nahui Mictlan Chapter Release Part 2",
     "Fate/Grand Order ～7th Anniversary～ Countdown Campaign" : "Fate/Grand Order ～7th Anniversary～",
@@ -214,19 +214,6 @@ MERGE_RATEUPS_INTO = {
 }
 
 # NOTE: Halloween Trilogy missing Kiyohime in first table
-
-# TODO: Strange Fake -Whispers of Dawn- Broadcast Commemoration Campaign -> Strange Fake -Whispers of Dawn- Broadcast Commemoration Summoning Campaign
-# TODO: Ordeal Call Release Campaign -> Ordeal Call Pre-Release Campaign
-# TODO: Lilim Harlot -> FGO Arcade Collaboration Pre-Release Campaign
-# TODO: Nahui Mictlan Chapter Release Part 2 -> Nahui Mictlan Lostbelt Part II Pre-Release Campaign
-# TODO: Fate/Grand Order ～7th Anniversary～ -> Fate/Grand Order ～7th Anniversary～ Countdown Campaign
-# TODO: Avalon le Fae Chapter Release -> Avalon le Fae Lostbelt Pre-Release Campaign
-# TODO: Slapstick Museum -> Chaldea Boys Collection 2021
-# TODO: Yuga Kshetra Pre-Release Campaign -> Yuga Kshetra Chapter Release
-# TODO: The Antiquated Spider Nostalgically Spins Its Thread -> Chaldea Boys Collection 2019
-# TODO: WinFes 2018/19 Commemoration Summoning Campaign 2 -> WinFes 2018/19 Commemoration Campaign: Osaka
-# TODO: Götterdämmerung Lostbelt Pre-Release Campaign -> Götterdämmerung Chapter Release
-# TODO: Fate/Accel Zero Order (Pre-Event) -> Fate/Accel Zero Order Event
 
 # TODO: Correct:
 # MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dantès Game Entry Commemorative Campaign
@@ -1008,6 +995,23 @@ def sort_banners(event_set):
     for event in event_set:
         event_set[event].banners = sorted(event_set[event].banners, key=lambda banner: (banner.start_date, banner.end_date))
 
+def merge_events(event_set):
+    # Merge events that are marked to be merged and delete the old events.
+    for src_event, dest_event in MERGE_EVENTS_INTO.items():
+        try:
+            event_set[dest_event].banners.extend(event_set[src_event].banners)
+            del event_set[src_event]
+        except KeyError:
+            pass
+
+def rename_events(event_set):
+    # Rename events that are marked to be renamed.
+    for old_name, new_name in EVENT_RENAME.items():
+        try:
+            event_set[old_name].name = new_name
+        except KeyError:
+            pass
+
 # If TESTING is 1, parse the test pages. Otherwise, parse the Summoning Campaign category.
 if TESTING == 1:
     parse_test()
@@ -1025,10 +1029,20 @@ print("Fixing banner names...")
 fix_banner_names(EVENT_SET_JP)
 fix_banner_names(EVENT_SET_NA)
 
+# Merge events that are marked to be merged and delete the old events.
+print("Merging events...")
+merge_events(EVENT_SET_JP)
+merge_events(EVENT_SET_NA)
+
 # Sort the banners by date.
 print("Sorting banners by date...")
 sort_banners(EVENT_SET_JP)
 sort_banners(EVENT_SET_NA)
+
+# Rename events that are marked to be renamed.
+print("Renaming events...")
+rename_events(EVENT_SET_JP)
+rename_events(EVENT_SET_NA)
 
 # Create the JSON representation
 print("Creating JSON data...")

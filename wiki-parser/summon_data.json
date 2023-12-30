@@ -457,7 +457,7 @@
     ]
   },
   {
-    "name": "Fate/Accel Zero Order (Pre-Event)",
+    "name": "Fate/Accel Zero Order Event",
     "region": "JP",
     "banners": [
       {
@@ -472,13 +472,7 @@
           "71": "Diarmuid Ua Duibhne"
         },
         "num_rateups": 5
-      }
-    ]
-  },
-  {
-    "name": "Fate/Accel Zero Order Event",
-    "region": "JP",
-    "banners": [
+      },
       {
         "name": "Fate/Accel Zero Order Event",
         "start_date": "4/27/2016",
@@ -2700,7 +2694,7 @@
     ]
   },
   {
-    "name": "G\u00f6tterd\u00e4mmerung Lostbelt Pre-Release Campaign",
+    "name": "G\u00f6tterd\u00e4mmerung Chapter Release",
     "region": "JP",
     "banners": [
       {
@@ -2711,13 +2705,7 @@
           "212": "Napol\u00e9on"
         },
         "num_rateups": 1
-      }
-    ]
-  },
-  {
-    "name": "G\u00f6tterd\u00e4mmerung Chapter Release",
-    "region": "JP",
-    "banners": [
+      },
       {
         "name": "G\u00f6tterd\u00e4mmerung Chapter Release Summoning Campaign",
         "start_date": "7/18/2018",
@@ -3211,7 +3199,7 @@
     ]
   },
   {
-    "name": "WinFes 2018/19 Commemoration Summoning Campaign 2",
+    "name": "WinFes 2018/19 Commemoration Campaign: Osaka",
     "region": "JP",
     "banners": [
       {
@@ -3328,7 +3316,7 @@
     ]
   },
   {
-    "name": "Chaldea Boys Collection 2019",
+    "name": "The Antiquated Spider Nostalgically Spins Its Thread",
     "region": "JP",
     "banners": [
       {
@@ -3650,7 +3638,7 @@
     ]
   },
   {
-    "name": "Yuga Kshetra Pre-Release Campaign",
+    "name": "Yuga Kshetra Chapter Release",
     "region": "JP",
     "banners": [
       {
@@ -3662,13 +3650,7 @@
           "101": "Rama"
         },
         "num_rateups": 2
-      }
-    ]
-  },
-  {
-    "name": "Yuga Kshetra Chapter Release",
-    "region": "JP",
-    "banners": [
+      },
       {
         "name": "Yuga Kshetra Chapter Release Summoning Campaign 1",
         "start_date": "6/15/2019",
@@ -5182,7 +5164,7 @@
     ]
   },
   {
-    "name": "Chaldea Boys Collection 2021",
+    "name": "Slapstick Museum",
     "region": "JP",
     "banners": [
       {
@@ -5571,7 +5553,7 @@
     ]
   },
   {
-    "name": "Avalon le Fae Lostbelt Pre-Release Campaign",
+    "name": "Avalon le Fae Chapter Release",
     "region": "JP",
     "banners": [
       {
@@ -5582,13 +5564,7 @@
           "253": "Leonardo Da Vinci (Rider)"
         },
         "num_rateups": 1
-      }
-    ]
-  },
-  {
-    "name": "Avalon le Fae Chapter Release",
-    "region": "JP",
-    "banners": [
+      },
       {
         "name": "Avalon le Fae Chapter Release Summoning Campaign 1",
         "start_date": "6/11/2021",
@@ -6647,7 +6623,7 @@
     ]
   },
   {
-    "name": "Fate/Grand Order \uff5e7th Anniversary\uff5e Countdown Campaign",
+    "name": "Fate/Grand Order \uff5e7th Anniversary\uff5e",
     "region": "JP",
     "banners": [
       {
@@ -6672,13 +6648,7 @@
           "290": "Tomoe Gozen (Saber)"
         },
         "num_rateups": 15
-      }
-    ]
-  },
-  {
-    "name": "Fate/Grand Order \uff5e7th Anniversary\uff5e",
-    "region": "JP",
-    "banners": [
+      },
       {
         "name": "Fate/Grand Order \uff5e7th Anniversary\uff5e Summoning Campaign",
         "start_date": "7/31/2022",
@@ -7283,7 +7253,7 @@
     ]
   },
   {
-    "name": "Nahui Mictlan Lostbelt Part II Pre-Release Campaign",
+    "name": "Nahui Mictlan Chapter Release Part 2",
     "region": "JP",
     "banners": [
       {
@@ -7304,13 +7274,7 @@
           "370": "Nitocris (Alter)"
         },
         "num_rateups": 1
-      }
-    ]
-  },
-  {
-    "name": "Nahui Mictlan Chapter Release Part 2",
-    "region": "JP",
-    "banners": [
+      },
       {
         "name": "Nahui Mictlan Chapter Release Part 2 Summoning Campaign 1",
         "start_date": "1/31/2023",
@@ -7529,7 +7493,7 @@
     ]
   },
   {
-    "name": "FGO Arcade Collaboration Pre-Release Campaign",
+    "name": "Lilim Harlot",
     "region": "JP",
     "banners": [
       {
@@ -7542,13 +7506,7 @@
           "376": "Larva/Tiamat"
         },
         "num_rateups": 3
-      }
-    ]
-  },
-  {
-    "name": "Lilim Harlot",
-    "region": "JP",
-    "banners": [
+      },
       {
         "name": "FGO x FGO Arcade Collaboration Summoning Campaign 1",
         "start_date": "4/26/2023",
@@ -7615,7 +7573,7 @@
     ]
   },
   {
-    "name": "Ordeal Call Pre-Release Campaign",
+    "name": "Ordeal Call Release Campaign",
     "region": "JP",
     "banners": [
       {
@@ -7777,7 +7735,7 @@
     ]
   },
   {
-    "name": "Strange Fake -Whispers of Dawn- Broadcast Commemoration Summoning Campaign",
+    "name": "Strange Fake -Whispers of Dawn- Broadcast Commemoration Campaign",
     "region": "JP",
     "banners": [
       {
