@@ -980,8 +980,6 @@ def parse_event_lists():
 
 # Remove events with no banners.
 def remove_empty(event_set):
-    print('Cleaning up empty rateups...')
-
     # Check each event for empty banners.
     for event in list(event_set):
         # If the banner list is empty, delete the event.
@@ -990,8 +988,6 @@ def remove_empty(event_set):
 
 # Fix events with multiple summoning campaigns but the first one is missing a number.
 def fix_banner_names(event_set):
-    print('Fixing rateup names...')
-
     # Check each event for banners with missing numbers.
     for event in event_set:
         # Get the list of banner titles.
@@ -1007,50 +1003,70 @@ def fix_banner_names(event_set):
                         event_set[event].banners[j].name += " 1"
                         break
 
+def sort_banners(event_set):
+    # Sort the banners by date.
+    for event in event_set:
+        event_set[event].banners = sorted(event_set[event].banners, key=lambda banner: (banner.start_date, banner.end_date))
+
 # If TESTING is 1, parse the test pages. Otherwise, parse the Summoning Campaign category.
 if TESTING == 1:
     parse_test()
 else:
+    print("Parsing all events...")
     parse_event_lists()
 
 # Remove banners with no rateups.
+print("Cleaning up empty events...")
 remove_empty(EVENT_SET_JP)
 remove_empty(EVENT_SET_NA)
 
+# Fix any banners with missing numbers.
+print("Fixing banner names...")
 fix_banner_names(EVENT_SET_JP)
 fix_banner_names(EVENT_SET_NA)
 
 # Sort the banners by date.
-print("Creating the JSON...")
-banner_list_jp = []
+print("Sorting banners by date...")
+sort_banners(EVENT_SET_JP)
+sort_banners(EVENT_SET_NA)
 
+# Create the JSON representation
+print("Creating JSON data...")
+event_list_jp = []
 for event in EVENT_SET_JP:
-    sorted_rateups = [list(banner.rateups.values()) for banner in EVENT_SET_JP[event].banners]
-    for rateup in sorted_rateups:
-        rateup.sort()
-    banner_list_jp.append({
+    banners = []
+    for banner in event.banners:
+        banners.append({
+            'name': banner.name,
+            'start_date': banner.start_date.strftime("%-m/%-d/%Y"),
+            'end_date': banner.end_date.strftime("%-m/%-d/%Y"),
+            'rateups': banner.rateups,
+            'num_rateups': len(banner.rateups),
+        })
+    event_list_jp.append({
         'name': event.name,
-        'rateup_names' : [banner.name for banner in EVENT_SET_JP[event].banners],
-        'dates': [f'{banner.start_date.strftime("%-m/%-d/%Y")}-{banner.end_date.strftime("%-m/%-d/%Y")}' for banner in EVENT_SET_JP[event].banners],
-        'rateups': sorted_rateups,
-        'len_rateups': [len(banner.rateups) for banner in EVENT_SET_JP[event].banners]
+        'region': event.region,
+        'banners': banners,
     })
-banner_list_na = []
-for banner in EVENT_SET_NA:
-    sorted_rateups = [list(banner.rateups.values()) for banner in EVENT_SET_NA[banner].banners]
-    for rateup in sorted_rateups:
-        rateup.sort()
-    banner_list_na.append({
-        'name': banner.name,
-        'rateup_names' : [banner.name for banner in EVENT_SET_NA[banner].banners],
-        'dates': [f'{banner.start_date.strftime("%m/%d/%Y")}-{banner.end_date.strftime("%m/%d/%Y")}' for banner in EVENT_SET_NA[banner].banners],
-        'rateups': sorted_rateups,
-        'len_rateups': [len(banner.rateups) for banner in EVENT_SET_NA[banner].banners]
+event_list_na = []
+for event in EVENT_SET_NA:
+    banners = []
+    for banner in banners:
+        banners.append({
+            'name': banner.name,
+            'start_date': banner.start_date.strftime("%-m/%-d/%Y"),
+            'end_date': banner.end_date.strftime("%-m/%-d/%Y"),
+            'rateups': banner.rateups,
+            'num_rateups': len(banner.rateups),
+        })
+    event_list_na.append({
+        'name': event.name,
+        'region': event.region,
+        'banners': banners,
     })
 
 # Save the banner list to a JSON file.
 print("Saving to JSON file...")
-
 # Filenames for the old and new JSON files.
 FILE_OLD_JP = "summon_data_test_old.json" if TESTING == 1 else "summon_data_old.json"
 FILE_NEW_JP = "summon_data_test.json" if TESTING == 1 else "summon_data.json"
@@ -1062,12 +1078,12 @@ shutil.copy(os.path.join(DIR_PATH, FILE_NEW_JP), os.path.join(DIR_PATH, FILE_OLD
 shutil.copy(os.path.join(DIR_PATH, FILE_NEW_NA), os.path.join(DIR_PATH, FILE_OLD_NA))
 
 # Create the new version of the JSON file from the banner list.
-json_obj = jsons.dump(banner_list_jp)
+json_obj = jsons.dump(event_list_jp)
 with open(os.path.join(DIR_PATH, FILE_NEW_JP), 'w') as f:
-    f.write(json.dumps(json_obj, indent=2))
-json_obj = jsons.dump(banner_list_na)
+    f.write(json.dumps(json_obj, indent=2, sort_keys=False))
+json_obj = jsons.dump(event_list_na)
 with open(os.path.join(DIR_PATH, FILE_NEW_NA), 'w') as f:
-    f.write(json.dumps(json_obj, indent=2))
+    f.write(json.dumps(json_obj, indent=2, sort_keys=False))
 
 # Write the diff between the old and new banner list JSON to a file.
 with open(os.path.join(DIR_PATH, FILE_NEW_JP), 'r') as f1:
