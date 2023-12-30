@@ -354,11 +354,18 @@ class Event:
         return str(self) == str(other)
     
 class Banner:
-    def __init__(self, name, start_date, end_date, rateups):
+    def __init__(self, name, start_date, end_date, date_origin, rateups):
         self.name = name
         self.start_date = start_date
         self.end_date = end_date
+        self.date_origin = date_origin
         self.rateups = rateups
+    
+    def copy_metadata(self, other):
+        self.name = other.name
+        self.start_date = other.start_date
+        self.end_date = other.end_date
+        self.date_origin = other.date_origin
 
 
 TESTING = 0 # Whether the script is being run in testing mode
@@ -614,6 +621,9 @@ def parse(event_set, page, duration, parent=None):
     # Create a list of banner titles
     rateup_titles = [subpage_title] * len(rateups)
 
+    # Default date origin
+    date_origin = "event list"
+
     # Parse dates from pages with new-style event headers
     templates = wikicode.filter_templates()
     if len(templates) > 0 and templates[0].name.strip() == "EventHeaderJP":
@@ -631,6 +641,7 @@ def parse(event_set, page, duration, parent=None):
 
         # Parse the start and end date into date objects
         duration = date_parser(start_date_str, end_date_str, CURRENT_YEAR)
+        date_origin = "event header jp new"
     # Parse dates from pages with old-style event headers
     else:
         # Get the lines from the page
@@ -659,10 +670,12 @@ def parse(event_set, page, duration, parent=None):
                 
                 # Parse the start and end date into date objects
                 duration = date_parser(date_split[0], date_split[1], CURRENT_YEAR)
+                date_origin = "event header jp old"
                 break
 
     # Create a list of dates the same size as the list of rateups.
     dates = [duration] * len(rateups)
+    date_origins = [date_origin] * len(rateups)
 
     # Finds dates and banner titles on pages with multiple summoning campaigns on different tabs
     matches = re.findall(r'(.*Summo.*(?:\w|\)))=\n*((?:\[\[|{{|{\|).*)\n\n*(?:.*Duration.*?(?: |\'|:)([A-Z].*))?', text)
@@ -682,12 +695,13 @@ def parse(event_set, page, duration, parent=None):
             if match[2]:
                 date_split = match[2].split("~")
                 dates[i] = date_parser(date_split[0], date_split[1], CURRENT_YEAR)
+                date_origins[i] = "tab"
 
             # Increment the banner index
             i += 1
     
     # Create banner objects for each rateup.
-    banners = [Banner(rateup_titles[i], dates[i][0], dates[i][1], rateups[i]) for i in range(len(rateups))]
+    banners = [Banner(rateup_titles[i], dates[i][0], dates[i][1], date_origins[i], rateups[i]) for i in range(len(rateups))]
 
     # Check if the event is a subsequent Summoning Campaign that can be merged into a Chapter Release event
     chapter_release_title = f'{title.split("Summoning Campaign")[0].strip()} Chapter Release'
@@ -703,9 +717,8 @@ def parse(event_set, page, duration, parent=None):
                 dest_i = chapter_release_rateups.index(rateup)
 
                 # Transfer date duration and rateup title over
-                event_set[chapter_release_title].banners[dest_i].name = rateup_titles[src_i]
-                event_set[chapter_release_title].banners[dest_i].start_date = dates[src_i][0]
-                event_set[chapter_release_title].banners[dest_i].end_date = dates[src_i][1]
+                temp_banner = Banner(rateup_titles[src_i], dates[src_i][0], dates[src_i][1], date_origins[src_i], None)
+                event_set[chapter_release_title].banners[dest_i].copy_metadata(temp_banner)
             # If the rateup list is not already in the Chapter Release event, add it
             else:
                 event_set[chapter_release_title].banners.append(banners[src_i])
@@ -745,9 +758,7 @@ def pre_release_remove(event_set):
                     dest_i = recent_event_rateups.index(rateup)
                     src_i = prev_event_rateups.index(rateup)
                     # Copy the name and date over
-                    events[-1].banners[dest_i].name = events[i].banners[src_i].name
-                    events[-1].banners[dest_i].start_date = events[i].banners[src_i].start_date
-                    events[-1].banners[dest_i].end_date = events[i].banners[src_i].end_date
+                    events[-1].banners[dest_i].copy_metadata(events[i].banners[src_i])
                     # Mark the event for deletion
                     mark_for_del = True
             # Delete the checked redundant event
@@ -777,9 +788,7 @@ def post_release_remove(event_set):
                     dest_i = prev_event_rateups.index(rateup)
                     src_i = recent_event_rateups.index(rateup)
                     # Copy the name and date over
-                    events[i].banners[dest_i].name = events[-1].banners[src_i].name
-                    events[i].banners[dest_i].start_date = events[-1].banners[src_i].start_date
-                    events[i].banners[dest_i].end_date = events[-1].banners[src_i].end_date
+                    events[i].banners[dest_i].copy_metadata(events[-1].banners[src_i])
                     # Mark the event for deletion
                     mark_for_del = True
     # Skip if there are less than 3 events
