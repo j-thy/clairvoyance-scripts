@@ -7,6 +7,7 @@
         "name": "3M Downloads Pick Up",
         "start_date": "8/31/2015",
         "end_date": "9/9/2015",
+        "date_origin": "event list",
         "rateups": {
           "12": "Gilgamesh",
           "14": "Atalanta",
@@ -26,6 +27,7 @@
         "name": "Fate/Stay Night Campaign",
         "start_date": "9/9/2015",
         "end_date": "9/16/2015",
+        "date_origin": "event list",
         "rateups": {
           "2": "Artoria Pendragon",
           "11": "EMIYA",
@@ -46,6 +48,7 @@
         "name": "Nero Festival Pick Up",
         "start_date": "9/16/2015",
         "end_date": "9/25/2015",
+        "date_origin": "event list",
         "rateups": {
           "5": "Nero Claudius",
           "7": "Gaius Julius Caesar",
@@ -64,6 +67,7 @@
         "name": "Moon Goddess Event Summoning Campaign",
         "start_date": "9/25/2015",
         "end_date": "10/2/2015",
+        "date_origin": "event list",
         "rateups": {
           "27": "Ushiwakamaru",
           "29": "Marie Antoinette",
@@ -83,6 +87,7 @@
         "name": "4M Downloads Campaign",
         "start_date": "9/30/2015",
         "end_date": "10/16/2015",
+        "date_origin": "event list",
         "rateups": {
           "3": "Artoria Pendragon (Alter)",
           "13": "Robin Hood",
@@ -102,6 +107,7 @@
         "name": "Orleans Campaign",
         "start_date": "10/14/2015",
         "end_date": "10/21/2015",
+        "date_origin": "event list",
         "rateups": {
           "6": "Siegfried",
           "9": "Gilles de Rais (Saber)",
@@ -121,6 +127,7 @@
         "name": "Halloween 2015 Event Summoning Campaign",
         "start_date": "10/21/2015",
         "end_date": "11/5/2015",
+        "date_origin": "event list",
         "rateups": {
           "35": "Mephistopheles",
           "46": "Carmilla",
@@ -140,6 +147,7 @@
         "name": "Okeanos Summoning Campaign",
         "start_date": "11/5/2015",
         "end_date": "11/18/2015",
+        "date_origin": "event header jp new",
         "rateups": {
           "15": "Euryale",
           "63": "David",
@@ -159,6 +167,7 @@
         "name": "Da Vinci-chan's Choice 2015",
         "start_date": "11/18/2015",
         "end_date": "11/25/2015",
+        "date_origin": "event list",
         "rateups": {
           "6": "Siegfried",
           "20": "C\u00fa Chulainn (Prototype)",
@@ -178,6 +187,7 @@
         "name": "GUDAGUDA Honnouji Event Summoning Campaign",
         "start_date": "11/25/2015",
         "end_date": "12/11/2015",
+        "date_origin": "event list",
         "rateups": {
           "11": "EMIYA",
           "17": "C\u00fa Chulainn",
@@ -197,6 +207,7 @@
         "name": "Sc\u00e1thach Campaign",
         "start_date": "12/9/2015",
         "end_date": "12/16/2015",
+        "date_origin": "event list",
         "rateups": {
           "67": "Medea (Lily)",
           "70": "Sc\u00e1thach",
@@ -215,6 +226,7 @@
         "name": "Christmas 2015 |-|Summoning Campaign",
         "start_date": "12/16/2015",
         "end_date": "12/25/2015",
+        "date_origin": "event list",
         "rateups": {
           "13": "Robin Hood",
           "29": "Marie Antoinette",
@@ -234,6 +246,7 @@
         "name": "London Summoning Campaign",
         "start_date": "12/5/2015",
         "end_date": "1/13/2016",
+        "date_origin": "event header jp new",
         "rateups": {
           "76": "Mordred",
           "79": "Paracelsus von Hohenheim",
@@ -253,6 +266,7 @@
         "name": "New Year Campaign 2016",
         "start_date": "1/1/2016",
         "end_date": "1/13/2016",
+        "date_origin": "event list",
         "rateups": {
           "12": "Gilgamesh",
           "51": "Sakata Kintoki",
@@ -272,6 +286,7 @@
         "name": "London Campaign 2",
         "start_date": "1/13/2016",
         "end_date": "1/20/2016",
+        "date_origin": "event list",
         "rateups": {
           "77": "Nikola Tesla",
           "78": "Artoria Pendragon (Lancer Alter)"
@@ -288,6 +303,7 @@
         "name": "Saber Wars Event",
         "start_date": "1/20/2016",
         "end_date": "2/3/2016",
+        "date_origin": "event list",
         "rateups": {
           "3": "Artoria Pendragon (Alter)",
           "5": "Nero Claudius",
@@ -305,6 +321,7 @@
         "name": "5M Downloads Campaign",
         "start_date": "2/3/2016",
         "end_date": "2/10/2016",
+        "date_origin": "event list",
         "rateups": {
           "87": "Fionn mac Cumhaill",
           "88": "Brynhildr",
@@ -322,6 +339,7 @@
         "name": "Valentine 2016 Event Summoning Campaign",
         "start_date": "2/10/2016",
         "end_date": "2/19/2016",
+        "date_origin": "event list",
         "rateups": {
           "2": "Artoria Pendragon",
           "8": "Altera",
@@ -345,6 +363,7 @@
         "name": "Kara no Kyoukai Collaboration Event Summoning Campaign",
         "start_date": "2/25/2016",
         "end_date": "3/9/2016",
+        "date_origin": "event list",
         "rateups": {
           "91": "Ry\u014dgi Shiki (Saber)"
         },
@@ -360,6 +379,7 @@
         "name": "Chaldea Boys Collection 2016 Summoning Campaign",
         "start_date": "3/9/2016",
         "end_date": "3/16/2016",
+        "date_origin": "event header jp old",
         "rateups": {
           "37": "Zhuge Liang (Lord El-Melloi II)",
           "52": "Vlad III",
@@ -380,6 +400,7 @@
         "name": "Cries of The Vengeful Demon in the Prison Tower",
         "start_date": "3/16/2016",
         "end_date": "3/23/2016",
+        "date_origin": "event header jp old",
         "rateups": {
           "96": "Edmond Dant\u00e8s"
         },
@@ -395,6 +416,7 @@
         "name": "AnimeJapan 2016 Exhibition Commemoration Campaign",
         "start_date": "3/26/2016",
         "end_date": "3/28/2016",
+        "date_origin": "event header jp old",
         "rateups": {
           "84": "Arjuna",
           "85": "Karna"
@@ -411,6 +433,7 @@
         "name": "E Pluribus Unum Chapter Release",
         "start_date": "3/30/2016",
         "end_date": "3/30/2016",
+        "date_origin": "event list",
         "rateups": {
           "97": "Nightingale",
           "100": "Helena Blavatsky",
@@ -424,6 +447,7 @@
         "name": "E Pluribus Unum Summoning Campaign 2",
         "start_date": "5/11/2016",
         "end_date": "5/18/2016",
+        "date_origin": "event list",
         "rateups": {
           "99": "Queen Medb"
         },
@@ -433,6 +457,7 @@
         "name": "E Pluribus Unum Summoning Campaign 3",
         "start_date": "5/18/2016",
         "end_date": "5/25/2016",
+        "date_origin": "event list",
         "rateups": {
           "98": "C\u00fa Chulainn (Alter)",
           "103": "Thomas Edison"
@@ -449,6 +474,7 @@
         "name": "Da Vinci and The 7 Counterfeit Heroic Spirits Summoning Campaign",
         "start_date": "4/11/2016",
         "end_date": "4/21/2016",
+        "date_origin": "event list",
         "rateups": {
           "106": "Jeanne d'Arc (Alter)"
         },
@@ -464,6 +490,7 @@
         "name": "Fate/Accel Zero Order (Pre-Event)",
         "start_date": "4/21/2016",
         "end_date": "4/27/2016",
+        "date_origin": "event header jp old",
         "rateups": {
           "2": "Artoria Pendragon",
           "12": "Gilgamesh",
@@ -477,6 +504,7 @@
         "name": "Fate/Accel Zero Order Event",
         "start_date": "4/27/2016",
         "end_date": "5/18/2016",
+        "date_origin": "event list",
         "rateups": {
           "37": "Zhuge Liang (Lord El-Melloi II)",
           "108": "Iskandar",
@@ -495,6 +523,7 @@
         "name": "Kintoki Summoning Campaign",
         "start_date": "5/25/2016",
         "end_date": "6/1/2016",
+        "date_origin": "event header jp old",
         "rateups": {
           "51": "Sakata Kintoki"
         },
@@ -510,6 +539,7 @@
         "name": "Rashomon Event Summoning Campaign",
         "start_date": "5/31/2016",
         "end_date": "6/15/2016",
+        "date_origin": "event list",
         "rateups": {
           "112": "Shuten D\u014dji"
         },
@@ -525,6 +555,7 @@
         "name": "Journey to The West",
         "start_date": "6/15/2016",
         "end_date": "6/29/2016",
+        "date_origin": "event header jp old",
         "rateups": {
           "49": "Lu Bu Fengxian",
           "63": "David",
@@ -543,6 +574,7 @@
         "name": "6M Downloads Campaign",
         "start_date": "6/29/2016",
         "end_date": "7/6/2016",
+        "date_origin": "event list",
         "rateups": {
           "70": "Sc\u00e1thach"
         },
@@ -558,6 +590,7 @@
         "name": "Onigashima Event",
         "start_date": "7/11/2016",
         "end_date": "7/25/2016",
+        "date_origin": "event header jp old",
         "rateups": {
           "27": "Ushiwakamaru",
           "56": "Kiyohime",
@@ -577,6 +610,7 @@
         "name": "Camelot Chapter Release",
         "start_date": "7/25/2016",
         "end_date": "7/25/2016",
+        "date_origin": "event header jp old",
         "rateups": {
           "118": "Ozymandias",
           "120": "Nitocris",
@@ -590,6 +624,7 @@
         "name": "Camelot Summoning Campaign 2",
         "start_date": "8/31/2016",
         "end_date": "9/7/2016",
+        "date_origin": "event list",
         "rateups": {
           "119": "Artoria Pendragon (Lancer)",
           "122": "Tristan",
@@ -607,6 +642,7 @@
         "name": "FGO Summer Festival 2016 ~1st Anniversary~",
         "start_date": "7/30/2016",
         "end_date": "8/7/2016",
+        "date_origin": "event header jp old",
         "rateups": {
           "2": "Artoria Pendragon",
           "3": "Artoria Pendragon (Alter)",
@@ -664,6 +700,7 @@
         "name": "FGO 2016 Summer Event/Event Details Summer Event 2016 Summoning Campaign",
         "start_date": "8/11/2016",
         "end_date": "8/31/2016",
+        "date_origin": "event list",
         "rateups": {
           "128": "Tamamo no Mae (Lancer)",
           "131": "Anne Bonny & Mary Read (Archer)",
@@ -676,6 +713,7 @@
         "name": "FGO 2016 Summer Event/Part II Event Details Summer Event 2016 Summoning Campaign Part II",
         "start_date": "8/11/2016",
         "end_date": "8/31/2016",
+        "date_origin": "event list",
         "rateups": {
           "129": "Artoria Pendragon (Archer)",
           "130": "Marie Antoinette (Caster)",
@@ -693,6 +731,7 @@
         "name": "Prisma Causeway Event Summoning Campaign",
         "start_date": "9/8/2016",
         "end_date": "9/21/2016",
+        "date_origin": "event list",
         "rateups": {
           "67": "Medea (Lily)",
           "74": "Nursery Rhyme",
@@ -712,6 +751,7 @@
         "name": "Class-Specified Summoning Campaign",
         "start_date": "9/21/2016",
         "end_date": "9/28/2016",
+        "date_origin": "event header jp old",
         "rateups": {
           "2": "Artoria Pendragon",
           "3": "Artoria Pendragon (Alter)",
@@ -810,6 +850,7 @@
         "name": "Nero Festival Redux ~2016 Autumn~ Summoning Campaign",
         "start_date": "9/28/2016",
         "end_date": "10/10/2016",
+        "date_origin": "event list",
         "rateups": {
           "5": "Nero Claudius",
           "7": "Gaius Julius Caesar",
@@ -829,6 +870,7 @@
         "name": "7M Downloads Campaign",
         "start_date": "10/5/2016",
         "end_date": "10/12/2016",
+        "date_origin": "event header jp old",
         "rateups": {
           "106": "Jeanne d'Arc (Alter)"
         },
@@ -844,6 +886,7 @@
         "name": "Halloween 2015 Event Re-Run Lite Ver Summoning Campaign",
         "start_date": "10/12/2016",
         "end_date": "10/26/2016",
+        "date_origin": "event list",
         "rateups": {
           "35": "Mephistopheles",
           "46": "Carmilla",
@@ -863,6 +906,7 @@
         "name": "Halloween 2016 Event Summoning Campaign",
         "start_date": "10/19/2016",
         "end_date": "11/2/2016",
+        "date_origin": "event list",
         "rateups": {
           "139": "Cleopatra",
           "140": "Vlad III (EXTRA)"
@@ -879,6 +923,7 @@
         "name": "Fate/EXTELLA Release Commemoration Campaign",
         "start_date": "11/3/2016",
         "end_date": "11/9/2016",
+        "date_origin": "event header jp old",
         "rateups": {
           "2": "Artoria Pendragon",
           "5": "Nero Claudius",
@@ -910,6 +955,7 @@
         "name": "Round Table Knights Summoning Campaign",
         "start_date": "11/9/2016",
         "end_date": "11/16/2016",
+        "date_origin": "event header jp old",
         "rateups": {
           "2": "Artoria Pendragon",
           "3": "Artoria Pendragon (Alter)",
@@ -933,6 +979,7 @@
         "name": "Christmas 2015 Re-Run Summoning Campaign",
         "start_date": "11/16/2016",
         "end_date": "11/22/2016",
+        "date_origin": "event list",
         "rateups": {
           "13": "Robin Hood",
           "29": "Marie Antoinette",
@@ -952,6 +999,7 @@
         "name": "Amakusa Shir\u014d Summoning Campaign",
         "start_date": "11/22/2016",
         "end_date": "11/30/2016",
+        "date_origin": "event header jp old",
         "rateups": {
           "93": "Amakusa Shir\u014d"
         },
@@ -967,6 +1015,7 @@
         "name": "Christmas 2016 Summoning Campaign",
         "start_date": "11/28/2016",
         "end_date": "12/7/2016",
+        "date_origin": "event list",
         "rateups": {
           "142": "Ishtar"
         },
@@ -982,6 +1031,7 @@
         "name": "Altera Summoning Campaign",
         "start_date": "11/30/2016",
         "end_date": "12/7/2016",
+        "date_origin": "event header jp old",
         "rateups": {
           "8": "Altera"
         },
@@ -997,6 +1047,7 @@
         "name": "Babylonia Chapter Release",
         "start_date": "12/7/2016",
         "end_date": "12/21/2016",
+        "date_origin": "event header jp old",
         "rateups": {
           "143": "Enkidu",
           "145": "Gilgamesh (Caster)",
@@ -1008,6 +1059,7 @@
         "name": "Babylonia Summoning Campaign 2",
         "start_date": "12/14/2016",
         "end_date": "12/31/2016",
+        "date_origin": "event header jp old",
         "rateups": {
           "144": "Quetzalcoatl",
           "147": "Gorgon",
@@ -1025,6 +1077,7 @@
         "name": "Solomon Chapter Release",
         "start_date": "12/22/2016",
         "end_date": "12/30/2016",
+        "date_origin": "event header jp old",
         "rateups": {
           "150": "Merlin"
         },
@@ -1040,6 +1093,7 @@
         "name": "New Year 2017 Summoning Campaign",
         "start_date": "1/1/2017",
         "end_date": "1/15/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "12": "Gilgamesh",
           "51": "Sakata Kintoki",
@@ -1062,6 +1116,7 @@
         "name": "\"The Old Man of the Mountain\" Summoning Campaign",
         "start_date": "1/11/2017",
         "end_date": "1/25/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "154": "\"The Old Man of the Mountain\""
         },
@@ -1077,6 +1132,7 @@
         "name": "Moon Goddess Event Re-Run Summoning Campaign",
         "start_date": "1/18/2017",
         "end_date": "1/25/2017",
+        "date_origin": "event list",
         "rateups": {
           "27": "Ushiwakamaru",
           "29": "Marie Antoinette",
@@ -1096,6 +1152,7 @@
         "name": "Cries of The Vengeful Demon in the Prison Tower Event Re-Run Summoning Campaign",
         "start_date": "1/25/2017",
         "end_date": "2/8/2017",
+        "date_origin": "event list",
         "rateups": {
           "96": "Edmond Dant\u00e8s"
         },
@@ -1111,6 +1168,7 @@
         "name": "8M Downloads Campaign",
         "start_date": "2/1/2017",
         "end_date": "2/8/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "127": "Leonardo Da Vinci"
         },
@@ -1126,6 +1184,7 @@
         "name": "Valentine 2017 Summoning Campaign",
         "start_date": "2/8/2017",
         "end_date": "2/22/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "2": "Artoria Pendragon",
           "59": "Jeanne d'Arc",
@@ -1141,6 +1200,7 @@
         "name": "Valentine 2017 Summoning Campaign",
         "start_date": "2/8/2017",
         "end_date": "2/22/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "8": "Altera",
           "60": "Orion",
@@ -1157,6 +1217,7 @@
         "name": "Valentine 2017 Summoning Campaign",
         "start_date": "2/8/2017",
         "end_date": "2/22/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "37": "Zhuge Liang (Lord El-Melloi II)",
           "52": "Vlad III",
@@ -1179,6 +1240,7 @@
         "name": "Shinjuku Summoning Campaign 1",
         "start_date": "2/24/2017",
         "end_date": "3/8/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "156": "James Moriarty",
           "158": "Hessian Lobo",
@@ -1190,6 +1252,7 @@
         "name": "Shinjuku Summoning Campaign 2",
         "start_date": "3/1/2017",
         "end_date": "3/8/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "3": "Artoria Pendragon (Alter)",
           "157": "EMIYA (Alter)"
@@ -1206,6 +1269,7 @@
         "name": "Chaldea Boys Collection 2016 Re-Run",
         "start_date": "3/8/2017",
         "end_date": "3/22/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "93": "Amakusa Shir\u014d",
           "94": "Astolfo",
@@ -1223,6 +1287,7 @@
         "name": "Chaldea Boys Collection 2017",
         "start_date": "3/8/2017",
         "end_date": "3/22/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "37": "Zhuge Liang (Lord El-Melloi II)",
           "52": "Vlad III",
@@ -1246,6 +1311,7 @@
         "name": "GUDAGUDA Honnouji Event Re-Run Summoning Campaign",
         "start_date": "3/15/2017",
         "end_date": "3/31/2017",
+        "date_origin": "event list",
         "rateups": {
           "11": "EMIYA",
           "17": "C\u00fa Chulainn",
@@ -1265,6 +1331,7 @@
         "name": "Class Based Summoning Campaign",
         "start_date": "3/29/2017",
         "end_date": "4/5/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "2": "Artoria Pendragon",
           "3": "Artoria Pendragon (Alter)",
@@ -1374,6 +1441,7 @@
         "name": "GUDAGUDA Meiji Ishin Summoning Campaign",
         "start_date": "4/5/2017",
         "end_date": "4/19/2017",
+        "date_origin": "event list",
         "rateups": {
           "77": "Nikola Tesla",
           "161": "Hijikata Toshiz\u014d"
@@ -1390,6 +1458,7 @@
         "name": "Fate/EXTRA CCC\u00d7Fate/Grand Order",
         "start_date": "4/19/2017",
         "end_date": "4/30/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "5": "Nero Claudius",
           "11": "EMIYA",
@@ -1408,6 +1477,7 @@
         "name": "SE.RA.PH Summoning Campaign 1",
         "start_date": "5/1/2017",
         "end_date": "5/24/2017",
+        "date_origin": "event list",
         "rateups": {
           "163": "Meltryllis",
           "164": "Passionlip",
@@ -1419,6 +1489,7 @@
         "name": "SE.RA.PH Summoning Campaign 2",
         "start_date": "5/1/2017",
         "end_date": "5/24/2017",
+        "date_origin": "event list",
         "rateups": {
           "13": "Robin Hood",
           "18": "Elizabeth B\u00e1thory",
@@ -1437,6 +1508,7 @@
         "name": "9M Downloads Campaign",
         "start_date": "5/24/2017",
         "end_date": "6/2/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "60": "Orion",
           "142": "Ishtar",
@@ -1454,6 +1526,7 @@
         "name": "Rashomon Event Rerun Summoning Campaign",
         "start_date": "5/31/2017",
         "end_date": "6/8/2017",
+        "date_origin": "event list",
         "rateups": {
           "112": "Shuten D\u014dji",
           "116": "Ibaraki D\u014dji"
@@ -1470,6 +1543,7 @@
         "name": "Main Quest 1/2 AP + Shinjuku Summoning Campaign",
         "start_date": "6/7/2017",
         "end_date": "6/21/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "156": "James Moriarty",
           "158": "Hessian Lobo",
@@ -1487,6 +1561,7 @@
         "name": "Onigashima Event Re-Run Summoning Campaign",
         "start_date": "6/14/2017",
         "end_date": "6/28/2017",
+        "date_origin": "event list",
         "rateups": {
           "11": "EMIYA",
           "51": "Sakata Kintoki",
@@ -1510,6 +1585,7 @@
         "name": "Agartha Chapter Release",
         "start_date": "6/29/2017",
         "end_date": "7/12/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "169": "Scheherazade",
           "170": "Wu Zetian",
@@ -1521,6 +1597,7 @@
         "name": "Agartha Summoning Campaign 2",
         "start_date": "7/5/2017",
         "end_date": "7/19/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "10": "Chevalier d'Eon",
           "47": "Heracles",
@@ -1538,6 +1615,7 @@
         "name": "FGO 2016 Summer Event Re-Run Part I Summoning Campaign",
         "start_date": "7/12/2017",
         "end_date": "7/29/2017",
+        "date_origin": "event list",
         "rateups": {
           "128": "Tamamo no Mae (Lancer)",
           "131": "Anne Bonny & Mary Read (Archer)",
@@ -1550,6 +1628,7 @@
         "name": "FGO 2016 Summer Event Re-Run Part II Summoning Campaign",
         "start_date": "7/12/2017",
         "end_date": "7/29/2017",
+        "date_origin": "event list",
         "rateups": {
           "129": "Artoria Pendragon (Archer)",
           "130": "Marie Antoinette (Caster)",
@@ -1567,6 +1646,7 @@
         "name": "FGO THE STAGE Performance Commemoration Campaign",
         "start_date": "7/14/2017",
         "end_date": "7/17/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "76": "Mordred",
           "119": "Artoria Pendragon (Lancer)",
@@ -1587,6 +1667,7 @@
         "name": "Fate/Grand Order Fes. 2017 \uff5e2nd Anniversary\uff5e Singularity-Based Summoning Campaign",
         "start_date": "7/30/2017",
         "end_date": "8/16/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "127": "Leonardo Da Vinci",
           "173": "Sherlock Holmes"
@@ -1603,6 +1684,7 @@
         "name": "Dead Heat Summer Race! |-|Part I Summoning Campaign",
         "start_date": "8/9/2017",
         "end_date": "9/1/2017",
+        "date_origin": "event list",
         "rateups": {
           "175": "Nero Claudius (Caster)",
           "176": "Frankenstein (Saber)",
@@ -1615,6 +1697,7 @@
         "name": "Dead Heat Summer Race! |-|Part II Summoning Campaign",
         "start_date": "8/9/2017",
         "end_date": "9/1/2017",
+        "date_origin": "event list",
         "rateups": {
           "179": "Artoria Pendragon (Rider Alter)",
           "180": "Helena Blavatsky (Archer)",
@@ -1626,6 +1709,7 @@
         "name": "Dead Heat Summer Race! Daily Special Summoning Campaign",
         "start_date": "8/9/2017",
         "end_date": "9/1/2017",
+        "date_origin": "event list",
         "rateups": {
           "80": "Charles Babbage",
           "99": "Queen Medb",
@@ -1644,6 +1728,7 @@
         "name": "Fate/kaleid liner Prisma\u2606Illya Movie Premiere Commemoration Campaign Summoning Campaign",
         "start_date": "8/25/2017",
         "end_date": "9/8/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "136": "Illyasviel von Einzbern"
         },
@@ -1659,6 +1744,7 @@
         "name": "Class-Based Summoning Campaign",
         "start_date": "8/30/2017",
         "end_date": "9/13/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "2": "Artoria Pendragon",
           "3": "Artoria Pendragon (Alter)",
@@ -1773,6 +1859,7 @@
         "name": "Nero Festival Redux ~2017 Autumn~ Summoning Campaign",
         "start_date": "9/6/2017",
         "end_date": "9/20/2017",
+        "date_origin": "event list",
         "rateups": {
           "5": "Nero Claudius",
           "88": "Brynhildr",
@@ -1790,6 +1877,7 @@
         "name": "KYOMAF2017 Exhibit Commemoration Summoning Campaign",
         "start_date": "9/13/2017",
         "end_date": "9/27/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "27": "Ushiwakamaru",
           "56": "Kiyohime",
@@ -1812,6 +1900,7 @@
         "name": "10M Downloads Campaign Summoning Campaign",
         "start_date": "9/20/2017",
         "end_date": "10/4/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "2": "Artoria Pendragon",
           "3": "Artoria Pendragon (Alter)",
@@ -1831,6 +1920,7 @@
         "name": "Halloween 2016 Event Rerun Summoning Campaign",
         "start_date": "9/27/2017",
         "end_date": "10/11/2017",
+        "date_origin": "event list",
         "rateups": {
           "13": "Robin Hood",
           "116": "Ibaraki D\u014dji",
@@ -1850,6 +1940,7 @@
         "name": "FGO THE STAGE Autumn Performance Commemoration Campaign Summoning Campaign",
         "start_date": "9/29/2017",
         "end_date": "10/8/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "76": "Mordred",
           "118": "Ozymandias",
@@ -1871,6 +1962,7 @@
         "name": "Fate/stay night Heaven's Feel Premiere Commemoration Campaign Summoning Campaign",
         "start_date": "10/8/2017",
         "end_date": "11/12/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "2": "Artoria Pendragon",
           "3": "Artoria Pendragon (Alter)",
@@ -1893,6 +1985,7 @@
         "name": "Shimosa Chapter Release",
         "start_date": "10/14/2017",
         "end_date": "10/14/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "153": "Miyamoto Musashi",
           "184": "Tomoe Gozen",
@@ -1905,6 +1998,7 @@
         "name": "Shimosa Summoning Campaign 2",
         "start_date": "10/20/2017",
         "end_date": "11/1/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "112": "Shuten D\u014dji",
           "114": "Minamoto no Raik\u014d",
@@ -1924,6 +2018,7 @@
         "name": "Halloween 2017 Event Summoning Campaign",
         "start_date": "10/25/2017",
         "end_date": "11/10/2017",
+        "date_origin": "event list",
         "rateups": {
           "18": "Elizabeth B\u00e1thory",
           "46": "Carmilla",
@@ -1944,6 +2039,7 @@
         "name": "Interlude Campaign 3",
         "start_date": "11/2/2017",
         "end_date": "11/15/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "109": "EMIYA (Assassin)",
           "113": "Xuanzang Sanzang",
@@ -1963,6 +2059,7 @@
         "name": "Fate/Apocrypha Anime Broadcast Commemoration Campaign",
         "start_date": "11/8/2017",
         "end_date": "11/22/2017",
+        "date_origin": "event list",
         "rateups": {
           "52": "Vlad III",
           "59": "Jeanne d'Arc",
@@ -1984,6 +2081,7 @@
         "name": "Christmas 2016 Event Re-run Summoning Campaign",
         "start_date": "11/15/2017",
         "end_date": "11/24/2017",
+        "date_origin": "event list",
         "rateups": {
           "11": "EMIYA",
           "27": "Ushiwakamaru",
@@ -2004,6 +2102,7 @@
         "name": "11M Downloads Campaign",
         "start_date": "11/22/2017",
         "end_date": "11/29/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "110": "Hassan of the Hundred Faces",
           "124": "Hassan of the Serenity",
@@ -2021,6 +2120,7 @@
         "name": "Salem Chapter Release Summoning Campaign 1",
         "start_date": "11/29/2017",
         "end_date": "12/13/2017",
+        "date_origin": "tab",
         "rateups": {
           "192": "Circe",
           "193": "Nezha"
@@ -2031,6 +2131,7 @@
         "name": "Salem Summoning Campaign 2",
         "start_date": "12/6/2017",
         "end_date": "12/20/2017",
+        "date_origin": "event header jp old",
         "rateups": {
           "194": "Queen of Sheba",
           "195": "Abigail Williams"
@@ -2047,6 +2148,7 @@
         "name": "Christmas 2017 Summoning Campaign",
         "start_date": "12/15/2017",
         "end_date": "12/25/2017",
+        "date_origin": "event list",
         "rateups": {
           "8": "Altera",
           "27": "Ushiwakamaru",
@@ -2066,6 +2168,7 @@
         "name": "New Year Campaign 2018 Summoning Campaign",
         "start_date": "1/1/2018",
         "end_date": "1/19/2018",
+        "date_origin": "event header jp old",
         "rateups": {
           "12": "Gilgamesh",
           "62": "Tamamo no Mae",
@@ -2087,6 +2190,7 @@
         "name": "Da Vinci and The 7 Counterfeit Heroic Spirits Rerun Lite Ver Summoning Campaign",
         "start_date": "1/10/2018",
         "end_date": "1/20/2018",
+        "date_origin": "event list",
         "rateups": {
           "6": "Siegfried",
           "7": "Gaius Julius Caesar",
@@ -2110,6 +2214,7 @@
         "name": "Setsubun 2018 Summoning Campaign",
         "start_date": "1/24/2018",
         "end_date": "2/7/2018",
+        "date_origin": "tab",
         "rateups": {
           "51": "Sakata Kintoki",
           "112": "Shuten D\u014dji",
@@ -2129,6 +2234,7 @@
         "name": "Fate/EXTRA Last Encore Anime Broadcast Commemoration Campaign",
         "start_date": "1/28/2018",
         "end_date": "2/4/2018",
+        "date_origin": "event header jp old",
         "rateups": {
           "5": "Nero Claudius",
           "13": "Robin Hood",
@@ -2149,6 +2255,7 @@
         "name": "Valentine 2018 Summoning Campaign",
         "start_date": "1/31/2018",
         "end_date": "2/15/2018",
+        "date_origin": "event list",
         "rateups": {
           "2": "Artoria Pendragon",
           "8": "Altera",
@@ -2179,6 +2286,7 @@
         "name": "Valentine 2017 Summoning Campaign Re-Run",
         "start_date": "2/7/2018",
         "end_date": "2/21/2018",
+        "date_origin": "event header jp old",
         "rateups": {
           "155": "Mysterious Heroine X (Alter)"
         },
@@ -2194,6 +2302,7 @@
         "name": "Kara no Kyoukai Collaboration Event Re-run Summoning Campaign",
         "start_date": "2/15/2018",
         "end_date": "2/28/2018",
+        "date_origin": "event list",
         "rateups": {
           "18": "Elizabeth B\u00e1thory",
           "26": "Boudica",
@@ -2215,6 +2324,7 @@
         "name": "FGO Winter Festival 2017-2018 Summoning Campaign",
         "start_date": "2/21/2018",
         "end_date": "3/7/2018",
+        "date_origin": "event header jp old",
         "rateups": {
           "28": "Alexander",
           "118": "Ozymandias",
@@ -2233,6 +2343,7 @@
         "name": "FGO THE STAGE Blu-ray&DVD Release Commemoration Campaign",
         "start_date": "2/26/2018",
         "end_date": "3/7/2018",
+        "date_origin": "event header jp old",
         "rateups": {
           "76": "Mordred",
           "119": "Artoria Pendragon (Lancer)",
@@ -2253,6 +2364,7 @@
         "name": "12M Downloads Campaign Summoning Campaign",
         "start_date": "2/28/2018",
         "end_date": "3/14/2018",
+        "date_origin": "event header jp old",
         "rateups": {
           "157": "EMIYA (Alter)",
           "164": "Passionlip",
@@ -2271,6 +2383,7 @@
         "name": "Chaldea Boys Collection 2018 Summoning Campaign",
         "start_date": "3/7/2018",
         "end_date": "3/14/2018",
+        "date_origin": "event list",
         "rateups": {
           "37": "Zhuge Liang (Lord El-Melloi II)",
           "52": "Vlad III",
@@ -2294,6 +2407,7 @@
         "name": "Saber Wars Event Re-run Summoning Campaign",
         "start_date": "3/15/2018",
         "end_date": "3/29/2018",
+        "date_origin": "event list",
         "rateups": {
           "2": "Artoria Pendragon",
           "8": "Altera",
@@ -2312,6 +2426,7 @@
         "name": "Class-Based Summoning Campaign (April 2018)",
         "start_date": "3/29/2018",
         "end_date": "4/12/2018",
+        "date_origin": "event header jp old",
         "rateups": {
           "2": "Artoria Pendragon",
           "3": "Artoria Pendragon (Alter)",
@@ -2436,6 +2551,7 @@
         "name": "Anastasia Chapter Release Summoning Campaign 1",
         "start_date": "4/4/2018",
         "end_date": "4/18/2018",
+        "date_origin": "event header jp old",
         "rateups": {
           "201": "Anastasia",
           "202": "Atalanta (Alter)",
@@ -2447,6 +2563,7 @@
         "name": "Anastasia Summoning Campaign 2",
         "start_date": "4/11/2018",
         "end_date": "4/25/2018",
+        "date_origin": "event header jp old",
         "rateups": {
           "204": "Antonio Salieri",
           "205": "Ivan the Terrible"
@@ -2463,6 +2580,7 @@
         "name": "Journey to The West Re-Run Lite Ver Summoning Campaign",
         "start_date": "4/18/2018",
         "end_date": "4/29/2018",
+        "date_origin": "event list",
         "rateups": {
           "37": "Zhuge Liang (Lord El-Melloi II)",
           "42": "Jing Ke",
@@ -2486,6 +2604,7 @@
         "name": "Fate/Apocrypha \u00d7 FGO Special Campaign Summoning Campaign (Black Faction)",
         "start_date": "4/25/2018",
         "end_date": "5/9/2018",
+        "date_origin": "event header jp old",
         "rateups": {
           "6": "Siegfried",
           "52": "Vlad III",
@@ -2500,6 +2619,7 @@
         "name": "Fate/Apocrypha \u00d7 FGO Special Campaign Summoning Campaign (Red Faction)",
         "start_date": "4/25/2018",
         "end_date": "5/9/2018",
+        "date_origin": "event header jp old",
         "rateups": {
           "14": "Atalanta",
           "76": "Mordred",
@@ -2513,6 +2633,7 @@
         "name": "Apocrypha Summoning Campaign",
         "start_date": "4/29/2018",
         "end_date": "5/13/2018",
+        "date_origin": "event list",
         "rateups": {
           "206": "Achilles",
           "207": "Chiron"
@@ -2529,6 +2650,7 @@
         "name": "Murder at the KOGETSUKAN Summoning Campaign",
         "start_date": "5/11/2018",
         "end_date": "5/25/2018",
+        "date_origin": "event header jp old",
         "rateups": {
           "15": "Euryale",
           "29": "Marie Antoinette",
@@ -2553,6 +2675,7 @@
         "name": "GUDAGUDA Meiji Ishin Re-run Summoning Campaign",
         "start_date": "5/18/2018",
         "end_date": "5/30/2018",
+        "date_origin": "event list",
         "rateups": {
           "11": "EMIYA",
           "17": "C\u00fa Chulainn",
@@ -2574,6 +2697,7 @@
         "name": "Okita S\u014dji Summoning Campaign",
         "start_date": "5/23/2018",
         "end_date": "6/6/2018",
+        "date_origin": "event header jp old",
         "rateups": {
           "68": "Okita S\u014dji"
         },
@@ -2589,6 +2713,7 @@
         "name": "13M Downloads Campaign Summoning Campaign",
         "start_date": "5/30/2018",
         "end_date": "6/13/2018",
+        "date_origin": "event header jp old",
         "rateups": {
           "128": "Tamamo no Mae (Lancer)",
           "131": "Anne Bonny & Mary Read (Archer)",
@@ -2607,6 +2732,7 @@
         "name": "Fate/EXTELLA LINK Release Commemoration Campaign Summoning Campaign",
         "start_date": "6/6/2018",
         "end_date": "6/20/2018",
+        "date_origin": "tab",
         "rateups": {
           "2": "Artoria Pendragon",
           "5": "Nero Claudius",
@@ -2641,6 +2767,7 @@
         "name": "GUDAGUDA Teito Seihai Kitan Summoning Campaign",
         "start_date": "6/13/2018",
         "end_date": "6/27/2018",
+        "date_origin": "event list",
         "rateups": {
           "11": "EMIYA",
           "23": "Medusa",
@@ -2661,6 +2788,7 @@
         "name": "Dead Heat Summer Race! Re-run |-|Part I Summoning Campaign",
         "start_date": "6/27/2018",
         "end_date": "7/13/2018",
+        "date_origin": "event list",
         "rateups": {
           "175": "Nero Claudius (Caster)",
           "176": "Frankenstein (Saber)",
@@ -2673,6 +2801,7 @@
         "name": "Dead Heat Summer Race! Re-run |-|Part II Summoning Campaign",
         "start_date": "6/27/2018",
         "end_date": "7/13/2018",
+        "date_origin": "event list",
         "rateups": {
           "179": "Artoria Pendragon (Rider Alter)",
           "180": "Helena Blavatsky (Archer)",
@@ -2684,6 +2813,7 @@
         "name": "Dead Heat Summer Race! Re-run Daily Special Summoning Campaign",
         "start_date": "6/27/2018",
         "end_date": "7/13/2018",
+        "date_origin": "event list",
         "rateups": {
           "80": "Charles Babbage",
           "99": "Queen Medb",
@@ -2701,6 +2831,7 @@
         "name": "G\u00f6tterd\u00e4mmerung Lostbelt Pre-Release Campaign Summoning Campaign",
         "start_date": "7/13/2018",
         "end_date": "7/27/2018",
+        "date_origin": "event header jp old",
         "rateups": {
           "212": "Napol\u00e9on"
         },
@@ -2710,6 +2841,7 @@
         "name": "G\u00f6tterd\u00e4mmerung Chapter Release Summoning Campaign",
         "start_date": "7/18/2018",
         "end_date": "8/1/2018",
+        "date_origin": "event header jp old",
         "rateups": {
           "88": "Brynhildr",
           "213": "Sigurd",
@@ -2727,6 +2859,7 @@
         "name": "Fate/Grand Order Fes. 2018 \uff5e3rd Anniversary\uff5e Singularity-Based Summoning Campaign",
         "start_date": "7/29/2018",
         "end_date": "8/12/2018",
+        "date_origin": "event header jp old",
         "rateups": {
           "2": "Artoria Pendragon",
           "3": "Artoria Pendragon (Alter)",
@@ -2800,6 +2933,7 @@
         "name": "Servant Summer Festival! 2018 Summoning Campaign 1",
         "start_date": "8/9/2018",
         "end_date": "8/29/2018",
+        "date_origin": "event list",
         "rateups": {
           "216": "Jeanne d'Arc (Archer)",
           "217": "Ibaraki D\u014dji (Lancer)",
@@ -2811,6 +2945,7 @@
         "name": "Servant Summer Festival! 2018 Summoning Campaign 2",
         "start_date": "8/9/2018",
         "end_date": "8/29/2018",
+        "date_origin": "event list",
         "rateups": {
           "13": "Robin Hood",
           "96": "Edmond Dant\u00e8s",
@@ -2822,6 +2957,7 @@
         "name": "Servant Summer Festival! 2018 Summoning Campaign 3",
         "start_date": "8/9/2018",
         "end_date": "8/29/2018",
+        "date_origin": "event list",
         "rateups": {
           "220": "BB (Summer)",
           "221": "Queen Medb (Saber)",
@@ -2833,6 +2969,7 @@
         "name": "Servant Summer Festival! 2018 Summoning Campaign 1",
         "start_date": "8/9/2018",
         "end_date": "8/29/2018",
+        "date_origin": "event list",
         "rateups": {
           "216": "Jeanne d'Arc (Archer)",
           "217": "Ibaraki D\u014dji (Lancer)",
@@ -2844,6 +2981,7 @@
         "name": "Servant Summer Festival! 2018 Summoning Campaign 2",
         "start_date": "8/9/2018",
         "end_date": "8/29/2018",
+        "date_origin": "event list",
         "rateups": {
           "13": "Robin Hood",
           "96": "Edmond Dant\u00e8s",
@@ -2855,6 +2993,7 @@
         "name": "Servant Summer Festival! 2018 Summoning Campaign 3",
         "start_date": "8/9/2018",
         "end_date": "8/29/2018",
+        "date_origin": "event list",
         "rateups": {
           "220": "BB (Summer)",
           "221": "Queen Medb (Saber)",
@@ -2872,6 +3011,7 @@
         "name": "Fate/Grand Order Memories Release Commemoration Campaign",
         "start_date": "8/19/2018",
         "end_date": "9/2/2018",
+        "date_origin": "event header jp old",
         "rateups": {
           "127": "Leonardo Da Vinci"
         },
@@ -2887,6 +3027,7 @@
         "name": "14M Downloads Campaign Summoning Campaign",
         "start_date": "8/29/2018",
         "end_date": "9/5/2018",
+        "date_origin": "event header jp old",
         "rateups": {
           "129": "Artoria Pendragon (Archer)",
           "130": "Marie Antoinette (Caster)",
@@ -2904,6 +3045,7 @@
         "name": "Fate/Accel Zero Order -LAP 2- Summoning Campaign",
         "start_date": "9/5/2018",
         "end_date": "9/19/2018",
+        "date_origin": "event list",
         "rateups": {
           "2": "Artoria Pendragon",
           "32": "Gilles de Rais",
@@ -2927,6 +3069,7 @@
         "name": "KYOMAF2018 Exhibit Commemoration Summoning Campaign",
         "start_date": "9/14/2018",
         "end_date": "9/28/2018",
+        "date_origin": "event header jp old",
         "rateups": {
           "112": "Shuten D\u014dji",
           "114": "Minamoto no Raik\u014d",
@@ -2945,6 +3088,7 @@
         "name": "Battle in New York 2018 Summoning Campaign",
         "start_date": "9/19/2018",
         "end_date": "10/5/2018",
+        "date_origin": "event list",
         "rateups": {
           "7": "Gaius Julius Caesar",
           "12": "Gilgamesh",
@@ -2962,6 +3106,7 @@
         "name": "Halloween 2017 Event Re-Run Summoning Campaign",
         "start_date": "10/5/2018",
         "end_date": "10/19/2018",
+        "date_origin": "event list",
         "rateups": {
           "18": "Elizabeth B\u00e1thory",
           "46": "Carmilla",
@@ -2982,6 +3127,7 @@
         "name": "Interlude Campaign 7 Summoning Campaign",
         "start_date": "10/17/2018",
         "end_date": "10/24/2018",
+        "date_origin": "event header jp old",
         "rateups": {
           "98": "C\u00fa Chulainn (Alter)",
           "99": "Queen Medb",
@@ -3000,6 +3146,7 @@
         "name": "Halloween 2018 Summoning Campaign",
         "start_date": "10/24/2018",
         "end_date": "11/7/2018",
+        "date_origin": "event list",
         "rateups": {
           "116": "Ibaraki D\u014dji",
           "185": "Mochizuki Chiyome",
@@ -3017,6 +3164,7 @@
         "name": "15M Downloads Campaign Summoning Campaign",
         "start_date": "11/7/2018",
         "end_date": "11/21/2018",
+        "date_origin": "event header jp old",
         "rateups": {
           "13": "Robin Hood",
           "192": "Circe",
@@ -3035,6 +3183,7 @@
         "name": "Christmas 2017 Event Re-Run Summoning Campaign",
         "start_date": "11/14/2018",
         "end_date": "11/23/2018",
+        "date_origin": "event list",
         "rateups": {
           "8": "Altera",
           "27": "Ushiwakamaru",
@@ -3056,6 +3205,7 @@
         "name": "S I N Chapter Release Summoning Campaign 1",
         "start_date": "11/27/2018",
         "end_date": "12/11/2018",
+        "date_origin": "event header jp old",
         "rateups": {
           "42": "Jing Ke",
           "226": "Xiang Yu",
@@ -3068,6 +3218,7 @@
         "name": "S I N Summoning Campaign 2",
         "start_date": "12/4/2018",
         "end_date": "12/18/2018",
+        "date_origin": "event header jp old",
         "rateups": {
           "229": "Shi Huang Di",
           "230": "Consort Yu",
@@ -3085,6 +3236,7 @@
         "name": "Christmas 2018 Summoning Campaign",
         "start_date": "12/12/2018",
         "end_date": "12/25/2018",
+        "date_origin": "event list",
         "rateups": {
           "30": "Martha",
           "135": "Martha (Ruler)",
@@ -3103,6 +3255,7 @@
         "name": "WinFes 2018/19 Commemoration Summoning Campaign",
         "start_date": "12/21/2018",
         "end_date": "12/31/2018",
+        "date_origin": "event header jp old",
         "rateups": {
           "35": "Mephistopheles",
           "103": "Thomas Edison",
@@ -3121,6 +3274,7 @@
         "name": "New Year Campaign 2019 Summoning Campaign",
         "start_date": "1/1/2019",
         "end_date": "1/15/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "12": "Gilgamesh",
           "70": "Sc\u00e1thach",
@@ -3142,6 +3296,7 @@
         "name": "New Year Event 2019 Summoning Campaign 1",
         "start_date": "1/1/2019",
         "end_date": "1/15/2019",
+        "date_origin": "event list",
         "rateups": {
           "58": "Tamamo Cat",
           "62": "Tamamo no Mae",
@@ -3154,6 +3309,7 @@
         "name": "New Year Event 2019 Summoning Campaign 2",
         "start_date": "1/8/2019",
         "end_date": "1/22/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "56": "Kiyohime",
           "184": "Tomoe Gozen",
@@ -3172,6 +3328,7 @@
         "name": "FGO THE STAGE Babylonia Performance Commemoration Campaign",
         "start_date": "1/10/2019",
         "end_date": "1/24/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "143": "Enkidu",
           "145": "Gilgamesh (Caster)"
@@ -3188,6 +3345,7 @@
         "name": "Fate/stay night Heaven's Feel II Premiere Commemoration Campaign",
         "start_date": "1/11/2019",
         "end_date": "2/8/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "2": "Artoria Pendragon",
           "3": "Artoria Pendragon (Alter)",
@@ -3206,6 +3364,7 @@
         "name": "WinFes 2018/19 Commemoration Summoning Campaign 2",
         "start_date": "1/18/2019",
         "end_date": "2/1/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "194": "Queen of Sheba",
           "205": "Ivan the Terrible"
@@ -3222,6 +3381,7 @@
         "name": "Prisma Causeway -Re-install- Summoning Campaign",
         "start_date": "1/23/2019",
         "end_date": "2/6/2019",
+        "date_origin": "tab",
         "rateups": {
           "67": "Medea (Lily)",
           "74": "Nursery Rhyme",
@@ -3242,6 +3402,7 @@
         "name": "Valentine 2019 Summoning Campaign",
         "start_date": "2/6/2019",
         "end_date": "2/20/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "2": "Artoria Pendragon",
           "8": "Altera",
@@ -3278,6 +3439,7 @@
         "name": "Valentine 2018 Summoning Campaign Re-Run",
         "start_date": "2/13/2019",
         "end_date": "2/27/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "199": "Semiramis"
         },
@@ -3293,6 +3455,7 @@
         "name": "SE.RA.PH -Second Ballet- Summoning Campaign",
         "start_date": "2/20/2019",
         "end_date": "3/11/2019",
+        "date_origin": "tab",
         "rateups": {
           "13": "Robin Hood",
           "157": "EMIYA (Alter)",
@@ -3306,6 +3469,7 @@
         "name": "Kingprotea Summoning Campaign",
         "start_date": "2/27/2019",
         "end_date": "3/13/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "122": "Tristan",
           "123": "Gawain",
@@ -3323,6 +3487,7 @@
         "name": "Chaldea Boys Collection 2019 Summoning Campaign",
         "start_date": "3/11/2019",
         "end_date": "3/25/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "28": "Alexander",
           "37": "Zhuge Liang (Lord El-Melloi II)",
@@ -3353,6 +3518,7 @@
         "name": "Tokugawa Kaiten Meiky\u016b - \u014coku Summoning Campaign 1",
         "start_date": "3/27/2019",
         "end_date": "4/10/2019",
+        "date_origin": "tab",
         "rateups": {
           "183": "Parvati",
           "239": "Kama"
@@ -3363,6 +3529,7 @@
         "name": "Tokugawa Kaiten Meiky\u016b - \u014coku Summoning Campaign 2",
         "start_date": "4/3/2019",
         "end_date": "4/17/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "167": "Sessh\u014din Kiara",
           "169": "Scheherazade",
@@ -3380,6 +3547,7 @@
         "name": "16M Downloads Summoning Campaign",
         "start_date": "4/10/2019",
         "end_date": "4/24/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "155": "Mysterious Heroine X (Alter)"
         },
@@ -3395,6 +3563,7 @@
         "name": "GUDAGUDA Teito Seihai Kitan Re-run Summoning Campaign",
         "start_date": "4/12/2019",
         "end_date": "4/26/2019",
+        "date_origin": "tab",
         "rateups": {
           "11": "EMIYA",
           "23": "Medusa",
@@ -3416,6 +3585,7 @@
         "name": "Lord El-Melloi II Case Files Collaboration Pre-campaign Summoning Campaign",
         "start_date": "4/22/2019",
         "end_date": "5/6/2019",
+        "date_origin": "tab",
         "rateups": {
           "28": "Alexander",
           "37": "Zhuge Liang (Lord El-Melloi II)"
@@ -3432,6 +3602,7 @@
         "name": "Lady Reines Case Files Summoning Campaign",
         "start_date": "4/27/2019",
         "end_date": "5/11/2019",
+        "date_origin": "tab",
         "rateups": {
           "80": "Charles Babbage",
           "109": "EMIYA (Assassin)",
@@ -3450,6 +3621,7 @@
         "name": "Class-Based Summoning Campaign (May 2019)",
         "start_date": "5/10/2019",
         "end_date": "5/26/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "2": "Artoria Pendragon",
           "3": "Artoria Pendragon (Alter)",
@@ -3591,6 +3763,7 @@
         "name": "A Study in the Dubious Meiho-sou Summoning Campaign",
         "start_date": "5/15/2019",
         "end_date": "5/29/2019",
+        "date_origin": "tab",
         "rateups": {
           "106": "Jeanne d'Arc (Alter)",
           "122": "Tristan",
@@ -3608,6 +3781,7 @@
         "name": "Learn with Manga! F/GO Vol 2 Release Commemoration Summoning Campaign",
         "start_date": "5/24/2019",
         "end_date": "6/7/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "8": "Altera",
           "18": "Elizabeth B\u00e1thory",
@@ -3627,6 +3801,7 @@
         "name": "Interlude Campaign 9 Summoning Campaign",
         "start_date": "6/5/2019",
         "end_date": "6/19/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "157": "EMIYA (Alter)",
           "170": "Wu Zetian",
@@ -3645,6 +3820,7 @@
         "name": "Yuga Kshetra Pre-Release Summoning Campaign",
         "start_date": "6/7/2019",
         "end_date": "6/21/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "84": "Arjuna",
           "101": "Rama"
@@ -3655,6 +3831,7 @@
         "name": "Yuga Kshetra Chapter Release Summoning Campaign 1",
         "start_date": "6/15/2019",
         "end_date": "6/29/2019",
+        "date_origin": "tab",
         "rateups": {
           "244": "Jinako Carigiri",
           "245": "Lakshmibai",
@@ -3666,6 +3843,7 @@
         "name": "Yuga Kshetra Summoning Campaign 2",
         "start_date": "6/22/2019",
         "end_date": "7/6/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "85": "Karna",
           "247": "Arjuna (Alter)",
@@ -3684,6 +3862,7 @@
         "name": "17M Downloads Summoning Campaign",
         "start_date": "6/26/2019",
         "end_date": "7/10/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "5": "Nero Claudius",
           "7": "Gaius Julius Caesar",
@@ -3702,6 +3881,7 @@
         "name": "GUDAGUDA Final Honn\u014dji 2019 Summoning Campaign",
         "start_date": "7/4/2019",
         "end_date": "7/18/2019",
+        "date_origin": "tab",
         "rateups": {
           "178": "Oda Nobunaga (Berserker)",
           "250": "Demon King Nobunaga",
@@ -3719,6 +3899,7 @@
         "name": "Servant Summer Festival! 2018 Rerun",
         "start_date": "7/17/2019",
         "end_date": "8/3/2019",
+        "date_origin": "event list",
         "rateups": {
           "13": "Robin Hood",
           "96": "Edmond Dant\u00e8s",
@@ -3730,6 +3911,7 @@
         "name": "Servant Summer Festival! 2018 Rerun",
         "start_date": "7/17/2019",
         "end_date": "8/3/2019",
+        "date_origin": "event list",
         "rateups": {
           "220": "BB (Summer)",
           "221": "Queen Medb (Saber)",
@@ -3741,6 +3923,7 @@
         "name": "Servant Summer Festival! 2018 Rerun Summoning Campaign 3",
         "start_date": "7/24/2019",
         "end_date": "8/3/2019",
+        "date_origin": "tab",
         "rateups": {
           "216": "Jeanne d'Arc (Archer)",
           "217": "Ibaraki D\u014dji (Lancer)",
@@ -3758,6 +3941,7 @@
         "name": "Fate/Grand Order Fes. 2019 \uff5e4th Anniversary\uff5e Summoning Campaign",
         "start_date": "8/4/2019",
         "end_date": "8/18/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "157": "EMIYA (Alter)",
           "158": "Hessian Lobo",
@@ -3801,6 +3985,7 @@
         "name": "Las Vegas Official Bout Summoning Campaign 1",
         "start_date": "8/14/2019",
         "end_date": "9/4/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "261": "Miyamoto Musashi (Berserker)",
           "262": "Osakabehime (Archer)",
@@ -3812,6 +3997,7 @@
         "name": "Las Vegas Official Bout/Merlin Summoning Campaign 1",
         "start_date": "8/18/2019",
         "end_date": "9/1/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "6": "Siegfried",
           "117": "F\u016bma Kotar\u014d",
@@ -3823,6 +4009,7 @@
         "name": "Las Vegas Official Bout Summoning Campaign 2",
         "start_date": "8/21/2019",
         "end_date": "9/4/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "265": "Artoria Pendragon (Ruler)",
           "266": "Mysterious Alter Ego \u039b",
@@ -3840,6 +4027,7 @@
         "name": "Interlude Campaign 10 Summoning Campaign",
         "start_date": "9/4/2019",
         "end_date": "9/18/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "75": "Jack the Ripper",
           "77": "Nikola Tesla",
@@ -3857,6 +4045,7 @@
         "name": "Class-Based Summoning Campaign (September 2019)",
         "start_date": "9/9/2019",
         "end_date": "9/25/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "2": "Artoria Pendragon",
           "3": "Artoria Pendragon (Alter)",
@@ -3923,6 +4112,7 @@
         "name": "Class-Based Summoning Campaign (September 2019)",
         "start_date": "9/9/2019",
         "end_date": "9/25/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "23": "Medusa",
           "26": "Boudica",
@@ -3999,6 +4189,7 @@
         "name": "Class-Based Summoning Campaign (September 2019)",
         "start_date": "9/9/2019",
         "end_date": "9/25/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "59": "Jeanne d'Arc",
           "147": "Gorgon",
@@ -4020,6 +4211,7 @@
         "name": "Battle in New York 2019 Summoning Campaign",
         "start_date": "9/18/2019",
         "end_date": "10/2/2019",
+        "date_origin": "event list",
         "rateups": {
           "12": "Gilgamesh",
           "147": "Gorgon",
@@ -4037,6 +4229,7 @@
         "name": "KYOMAF2019 Exhibit Commemoration Summoning Campaign",
         "start_date": "9/22/2019",
         "end_date": "10/6/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "51": "Sakata Kintoki",
           "181": "Minamoto no Raik\u014d (Lancer)",
@@ -4054,6 +4247,7 @@
         "name": "F/GO - Absolute Demonic Battlefront : Babylonia- Broadcast Summoning Campaign",
         "start_date": "10/2/2019",
         "end_date": "10/16/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "27": "Ushiwakamaru",
           "142": "Ishtar",
@@ -4073,6 +4267,7 @@
         "name": "Halloween 2018 Rerun Summoning Campaign",
         "start_date": "10/11/2019",
         "end_date": "10/25/2019",
+        "date_origin": "event list",
         "rateups": {
           "112": "Shuten D\u014dji",
           "116": "Ibaraki D\u014dji",
@@ -4091,6 +4286,7 @@
         "name": "Saber Wars II Pre-Release Summoning Campaign",
         "start_date": "10/26/2019",
         "end_date": "11/13/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "86": "Mysterious Heroine X"
         },
@@ -4100,6 +4296,7 @@
         "name": "Saber Wars II Summoning Campaign 1",
         "start_date": "10/30/2019",
         "end_date": "11/13/2019",
+        "date_origin": "tab",
         "rateups": {
           "268": "Space Ishtar",
           "269": "Calamity Jane"
@@ -4110,6 +4307,7 @@
         "name": "Saber Wars II Summoning Campaign 2",
         "start_date": "11/6/2019",
         "end_date": "11/20/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "155": "Mysterious Heroine X (Alter)",
           "187": "Yagy\u016b Munenori"
@@ -4126,6 +4324,7 @@
         "name": "18M Downloads Summoning Campaign",
         "start_date": "11/13/2019",
         "end_date": "11/20/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "215": "Sc\u00e1thach-Ska\u00f0i"
         },
@@ -4141,6 +4340,7 @@
         "name": "Fate/Prototype: Fragments of Sky Silver Drama CD Conclusion Commemoration Summoning Campaign",
         "start_date": "11/20/2019",
         "end_date": "12/4/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "79": "Paracelsus von Hohenheim",
           "81": "Henry Jekyll & Hyde",
@@ -4160,6 +4360,7 @@
         "name": "Christmas 2019 Summoning Campaign",
         "start_date": "11/28/2019",
         "end_date": "12/12/2019",
+        "date_origin": "event list",
         "rateups": {
           "7": "Gaius Julius Caesar",
           "26": "Boudica",
@@ -4181,6 +4382,7 @@
         "name": "Interlude Campaign 11 Summoning Campaign",
         "start_date": "12/11/2019",
         "end_date": "12/25/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "201": "Anastasia",
           "212": "Napol\u00e9on",
@@ -4199,6 +4401,7 @@
         "name": "Atlantis Chapter Release Summoning Campaign 1",
         "start_date": "12/18/2019",
         "end_date": "12/31/2019",
+        "date_origin": "tab",
         "rateups": {
           "272": "Super Orion",
           "273": "Mandricardo",
@@ -4211,6 +4414,7 @@
         "name": "Atlantis Summoning Campaign 2",
         "start_date": "12/25/2019",
         "end_date": "12/31/2019",
+        "date_origin": "event header jp old",
         "rateups": {
           "64": "Hector",
           "206": "Achilles",
@@ -4228,6 +4432,7 @@
         "name": "New Year 2020 Summoning Campaign",
         "start_date": "1/1/2020",
         "end_date": "1/15/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "12": "Gilgamesh",
           "70": "Sc\u00e1thach",
@@ -4249,6 +4454,7 @@
         "name": "New Year Event 2019 Re-Run Summoning Campaign 1",
         "start_date": "1/4/2020",
         "end_date": "1/18/2020",
+        "date_origin": "event list",
         "rateups": {
           "62": "Tamamo no Mae",
           "223": "Diarmuid Ua Duibhne (Saber)",
@@ -4260,6 +4466,7 @@
         "name": "New Year Event 2019 Re-Run Summoning Campaign 2",
         "start_date": "1/11/2020",
         "end_date": "1/25/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "56": "Kiyohime",
           "184": "Tomoe Gozen",
@@ -4277,6 +4484,7 @@
         "name": "Amazoness.com ~CEO Crisis 2020~ Summoning Campaign",
         "start_date": "1/22/2020",
         "end_date": "2/5/2020",
+        "date_origin": "tab",
         "rateups": {
           "139": "Cleopatra",
           "171": "Penthesilea",
@@ -4294,6 +4502,7 @@
         "name": "FGO Epic of Remnant Episode I Comic Release Summoning Campaign",
         "start_date": "2/1/2020",
         "end_date": "2/15/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "3": "Artoria Pendragon (Alter)",
           "157": "EMIYA (Alter)",
@@ -4312,6 +4521,7 @@
         "name": "Interlude Campaign 12 Summoning Campaign",
         "start_date": "2/5/2020",
         "end_date": "2/19/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "226": "Xiang Yu",
           "232": "Bradamante",
@@ -4329,6 +4539,7 @@
         "name": "Valentine 2020 Summoning Campaign",
         "start_date": "2/12/2020",
         "end_date": "2/26/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "2": "Artoria Pendragon",
           "8": "Altera",
@@ -4366,6 +4577,7 @@
         "name": "19M Downloads Campaign Summoning Campaign",
         "start_date": "2/26/2020",
         "end_date": "3/6/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "87": "Fionn mac Cumhaill",
           "196": "Ereshkigal"
@@ -4382,6 +4594,7 @@
         "name": "Chaldea Boys Collection 2020 Summoning Campaign",
         "start_date": "3/6/2020",
         "end_date": "3/16/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "277": "Odysseus",
           "37": "Zhuge Liang (Lord El-Melloi II)",
@@ -4410,6 +4623,7 @@
         "name": "CBC 2016 ~ 2019 Craft Essences Summoning Campaign",
         "start_date": "3/11/2020",
         "end_date": "3/20/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "192": "Circe",
           "277": "Odysseus"
@@ -4426,6 +4640,7 @@
         "name": "Absolute Demonic Battlefront Babylonia Release Campaign IV Summoning Campaign",
         "start_date": "3/15/2020",
         "end_date": "3/29/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "27": "Ushiwakamaru",
           "145": "Gilgamesh (Caster)",
@@ -4446,6 +4661,7 @@
         "name": "Fate/Apocrypha \u00d7 FGO Special Event Summoning Campaign Re-Run",
         "start_date": "3/25/2020",
         "end_date": "4/8/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "6": "Siegfried",
           "14": "Atalanta",
@@ -4474,6 +4690,7 @@
         "name": "Olympus Chapter Release Summoning Campaign 1",
         "start_date": "4/9/2020",
         "end_date": "4/23/2020",
+        "date_origin": "tab",
         "rateups": {
           "278": "Dioscuri",
           "279": "Caenis"
@@ -4484,6 +4701,7 @@
         "name": "Olympus Summoning Campaign 2",
         "start_date": "4/16/2020",
         "end_date": "4/30/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "280": "Romulus-Quirinus"
         },
@@ -4499,6 +4717,7 @@
         "name": "20M DL Summoning Campaign",
         "start_date": "4/25/2020",
         "end_date": "5/12/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "12": "Gilgamesh",
           "51": "Sakata Kintoki",
@@ -4521,6 +4740,7 @@
         "name": "GUDAGUDA Final Honn\u014dji 2019 Re-Run Summoning Campaign",
         "start_date": "5/3/2020",
         "end_date": "5/17/2020",
+        "date_origin": "tab",
         "rateups": {
           "178": "Oda Nobunaga (Berserker)",
           "209": "Okita S\u014dji (Alter)",
@@ -4540,6 +4760,7 @@
         "name": "Fate/Requiem Collaboration Pre-Release Summoning Campaign",
         "start_date": "5/17/2020",
         "end_date": "5/31/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "74": "Nursery Rhyme",
           "103": "Thomas Edison",
@@ -4552,6 +4773,7 @@
         "name": "Fate/Requiem Collaboration Event Summoning Campaign",
         "start_date": "5/25/2020",
         "end_date": "6/8/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "281": "Voyager",
           "282": "Kijyo K\u014dy\u014d"
@@ -4568,6 +4790,7 @@
         "name": "Las Vegas Official Bout Rerun Summoning Campaign 1",
         "start_date": "6/8/2020",
         "end_date": "6/29/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "261": "Miyamoto Musashi (Berserker)",
           "262": "Osakabehime (Archer)",
@@ -4579,6 +4802,7 @@
         "name": "Las Vegas Official Bout Rerun/Merlin Summoning Campaign 1",
         "start_date": "6/14/2020",
         "end_date": "6/28/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "6": "Siegfried",
           "117": "F\u016bma Kotar\u014d",
@@ -4590,6 +4814,7 @@
         "name": "Las Vegas Official Bout Rerun Summoning Campaign 2",
         "start_date": "6/15/2020",
         "end_date": "6/29/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "265": "Artoria Pendragon (Ruler)",
           "266": "Mysterious Alter Ego \u039b",
@@ -4607,6 +4832,7 @@
         "name": "Interlude Campaign 13 Summoning Campaign",
         "start_date": "6/29/2020",
         "end_date": "7/13/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "173": "Sherlock Holmes",
           "241": "Sima Yi (Reines)",
@@ -4625,6 +4851,7 @@
         "name": "Swimsuit + AoE NP Only Summoning Campaign",
         "start_date": "7/8/2020",
         "end_date": "7/22/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "2": "Artoria Pendragon",
           "6": "Siegfried",
@@ -4697,6 +4924,7 @@
         "name": "SE.RA.PH Main Interlude Release Campaign Summoning Campaign",
         "start_date": "7/15/2020",
         "end_date": "7/29/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "163": "Meltryllis",
           "164": "Passionlip",
@@ -4715,6 +4943,7 @@
         "name": "Tokugawa Kaiten Meiky\u016b - \u014coku Rerun Summoning Campaign",
         "start_date": "7/22/2020",
         "end_date": "8/5/2020",
+        "date_origin": "tab",
         "rateups": {
           "167": "Sessh\u014din Kiara",
           "187": "Yagy\u016b Munenori",
@@ -4732,6 +4961,7 @@
         "name": "Fate/Grand Order \uff5e5th Anniversary\uff5e Summoning Campaign",
         "start_date": "8/10/2020",
         "end_date": "8/24/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "253": "Leonardo Da Vinci (Rider)",
           "284": "Artoria Caster"
@@ -4748,6 +4978,7 @@
         "name": "Servant Summer Camp 2020 Summoning Campaign 1",
         "start_date": "8/17/2020",
         "end_date": "9/7/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "285": "Sessh\u014din Kiara (Moon Cancer)",
           "286": "Illyasviel von Einzbern (Archer)",
@@ -4759,6 +4990,7 @@
         "name": "Servant Summer Camp 2020 Summoning Campaign (Male)",
         "start_date": "8/17/2020",
         "end_date": "9/7/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "11": "EMIYA",
           "213": "Sigurd",
@@ -4770,6 +5002,7 @@
         "name": "Servant Summer Camp 2020 Summoning Campaign 2",
         "start_date": "8/24/2020",
         "end_date": "9/7/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "289": "Abigail Williams (Summer)",
           "290": "Tomoe Gozen (Saber)",
@@ -4787,6 +5020,7 @@
         "name": "21M Downloads Summoning Campaign",
         "start_date": "9/7/2020",
         "end_date": "9/21/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "42": "Jing Ke",
           "49": "Lu Bu Fengxian",
@@ -4807,6 +5041,7 @@
         "name": "Interlude Campaign 14 Summoning Campaign",
         "start_date": "9/14/2020",
         "end_date": "9/28/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "112": "Shuten D\u014dji",
           "202": "Atalanta (Alter)",
@@ -4825,6 +5060,7 @@
         "name": "Dance Tournament in the Land of Shadows Summoning Campaign",
         "start_date": "9/18/2020",
         "end_date": "10/2/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "58": "Tamamo Cat",
           "70": "Sc\u00e1thach",
@@ -4843,6 +5079,7 @@
         "name": "GUDAGUDA Summoning Campaign",
         "start_date": "10/2/2020",
         "end_date": "10/16/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "68": "Okita S\u014dji",
           "161": "Hijikata Toshiz\u014d",
@@ -4860,6 +5097,7 @@
         "name": "GUDAGUDA Yamatai-koku 2020",
         "start_date": "10/9/2020",
         "end_date": "10/23/2020",
+        "date_origin": "event list",
         "rateups": {
           "292": "Himiko",
           "293": "Sait\u014d Hajime"
@@ -4870,6 +5108,7 @@
         "name": "GUDAGUDA Yamatai-koku 2020",
         "start_date": "10/9/2020",
         "end_date": "10/23/2020",
+        "date_origin": "event list",
         "rateups": {
           "294": "Oda Nobukatsu"
         },
@@ -4885,6 +5124,7 @@
         "name": "Christmas 2019 Re-Run",
         "start_date": "10/23/2020",
         "end_date": "11/4/2020",
+        "date_origin": "event list",
         "rateups": {
           "7": "Gaius Julius Caesar",
           "55": "Darius III",
@@ -4907,6 +5147,7 @@
         "name": "Imaginary Scramble Pre-Release Summoning Campaign",
         "start_date": "11/4/2020",
         "end_date": "11/18/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "176": "Frankenstein (Saber)",
           "181": "Minamoto no Raik\u014d (Lancer)",
@@ -4919,6 +5160,7 @@
         "name": "Imaginary Scramble Summoning Campaign",
         "start_date": "11/11/2020",
         "end_date": "11/25/2020",
+        "date_origin": "event list",
         "rateups": {
           "295": "Van Gogh",
           "296": "Nemo"
@@ -4935,6 +5177,7 @@
         "name": "22M Downloads Summoning Campaign",
         "start_date": "11/25/2020",
         "end_date": "12/9/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "237": "Murasaki Shikibu"
         },
@@ -4950,6 +5193,7 @@
         "name": "Realm of Hell Mandala - Heian-ky\u014d Pre-Release Summoning Campaign 1",
         "start_date": "11/27/2020",
         "end_date": "12/11/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "51": "Sakata Kintoki",
           "114": "Minamoto no Raik\u014d",
@@ -4962,6 +5206,7 @@
         "name": "Heian-ky\u014d Chapter Release Summoning Campaign",
         "start_date": "12/4/2020",
         "end_date": "12/18/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "297": "Ashiya D\u014dman",
           "298": "Watanabe no Tsuna"
@@ -4972,6 +5217,7 @@
         "name": "Heian-ky\u014d Summoning Campaign 2",
         "start_date": "12/11/2020",
         "end_date": "12/25/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "67": "Medea (Lily)",
           "79": "Paracelsus von Hohenheim",
@@ -4990,6 +5236,7 @@
         "name": "Christmas 2020 Summoning 1",
         "start_date": "12/16/2020",
         "end_date": "12/30/2020",
+        "date_origin": "tab",
         "rateups": {
           "89": "Beowulf",
           "135": "Martha (Ruler)",
@@ -5001,6 +5248,7 @@
         "name": "Christmas 2020 Summoning Campaign 2",
         "start_date": "12/23/2020",
         "end_date": "12/31/2020",
+        "date_origin": "event header jp old",
         "rateups": {
           "84": "Arjuna",
           "85": "Karna",
@@ -5018,6 +5266,7 @@
         "name": "New Year 2021 Summoning Campaign",
         "start_date": "1/1/2021",
         "end_date": "1/15/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "128": "Tamamo no Mae (Lancer)",
           "136": "Illyasviel von Einzbern",
@@ -5039,6 +5288,7 @@
         "name": "Saber Wars II Rerun Summoning Campaign 1",
         "start_date": "1/6/2021",
         "end_date": "1/20/2021",
+        "date_origin": "tab",
         "rateups": {
           "268": "Space Ishtar",
           "269": "Calamity Jane"
@@ -5049,6 +5299,7 @@
         "name": "Saber Wars II Rerun Summoning Campaign 2",
         "start_date": "1/13/2021",
         "end_date": "1/27/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "86": "Mysterious Heroine X",
           "187": "Yagy\u016b Munenori"
@@ -5065,6 +5316,7 @@
         "name": "Little Big Tengu Summoning Campaign",
         "start_date": "1/20/2021",
         "end_date": "2/3/2021",
+        "date_origin": "tab",
         "rateups": {
           "27": "Ushiwakamaru",
           "98": "C\u00fa Chulainn (Alter)",
@@ -5083,6 +5335,7 @@
         "name": "Holy Grail Front ~Et tu, Brute?~ Summoning Campaign",
         "start_date": "2/3/2021",
         "end_date": "2/17/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "5": "Nero Claudius",
           "7": "Gaius Julius Caesar",
@@ -5104,6 +5357,7 @@
         "name": "Valentine 2021 Summoning Campaign",
         "start_date": "2/10/2021",
         "end_date": "2/24/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "305": "Amor (Caren)",
           "2": "Artoria Pendragon",
@@ -5141,6 +5395,7 @@
         "name": "Valentine 2020 Summoning Campaign Re-Run",
         "start_date": "2/17/2021",
         "end_date": "3/3/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "276": "Sei Sh\u014dnagon"
         },
@@ -5156,6 +5411,7 @@
         "name": "23M Downloads Summoning Campaign",
         "start_date": "2/24/2021",
         "end_date": "3/10/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "160": "Arthur Pendragon (Prototype)"
         },
@@ -5171,6 +5427,7 @@
         "name": "Chaldea Boys Collection 2021 Summoning Campaign",
         "start_date": "3/3/2021",
         "end_date": "3/17/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "37": "Zhuge Liang (Lord El-Melloi II)",
           "42": "Jing Ke",
@@ -5197,6 +5454,7 @@
         "name": "Chaldea Boys Collection 2021 Summoning Campaign 3",
         "start_date": "3/10/2021",
         "end_date": "3/24/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "42": "Jing Ke",
           "281": "Voyager",
@@ -5214,6 +5472,7 @@
         "name": "Class-Based Summoning Campaign (March 2021)",
         "start_date": "3/15/2021",
         "end_date": "3/31/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "2": "Artoria Pendragon",
           "3": "Artoria Pendragon (Alter)",
@@ -5284,6 +5543,7 @@
         "name": "Class-Based Summoning Campaign (March 2021)",
         "start_date": "3/15/2021",
         "end_date": "3/31/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "23": "Medusa",
           "26": "Boudica",
@@ -5364,6 +5624,7 @@
         "name": "Class-Based Summoning Campaign (March 2021)",
         "start_date": "3/15/2021",
         "end_date": "3/31/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "59": "Jeanne d'Arc",
           "147": "Gorgon",
@@ -5379,6 +5640,7 @@
         "name": "Akihabara Explosion Summoning Campaign",
         "start_date": "3/24/2021",
         "end_date": "4/7/2021",
+        "date_origin": "tab",
         "rateups": {
           "306": "Galatea",
           "90": "Nero Claudius (Bride)",
@@ -5396,6 +5658,7 @@
         "name": "Spring in Full Bloom Summoning Campaign Summoning Campaign",
         "start_date": "4/7/2021",
         "end_date": "4/21/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "62": "Tamamo no Mae",
           "185": "Mochizuki Chiyome",
@@ -5414,6 +5677,7 @@
         "name": "Servant Strengthening Quests Part XIII Summoning Campaign",
         "start_date": "4/14/2021",
         "end_date": "4/28/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "52": "Vlad III",
           "78": "Artoria Pendragon (Lancer Alter)",
@@ -5434,6 +5698,7 @@
         "name": "FGO x Waltz in the Moonlight Lostroom Collaboration Pre-Release Summoning Campaign Summoning Campaign",
         "start_date": "4/21/2021",
         "end_date": "5/5/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "15": "Euryale",
           "59": "Jeanne d'Arc",
@@ -5452,6 +5717,7 @@
         "name": "Grail Live Summoning Campaign 1",
         "start_date": "4/26/2021",
         "end_date": "5/10/2021",
+        "date_origin": "tab",
         "rateups": {
           "120": "Nitocris",
           "124": "Hassan of the Serenity",
@@ -5464,6 +5730,7 @@
         "name": "Grail Live Summoning Campaign 2",
         "start_date": "4/28/2021",
         "end_date": "5/12/2021",
+        "date_origin": "tab",
         "rateups": {
           "5": "Nero Claudius",
           "8": "Altera",
@@ -5483,6 +5750,7 @@
         "name": "Fate/Grand Order -Camelot- The Movie Pre-Release Campaign Summoning Campaign",
         "start_date": "5/10/2021",
         "end_date": "5/24/2021",
+        "date_origin": "tab",
         "rateups": {
           "113": "Xuanzang Sanzang",
           "118": "Ozymandias",
@@ -5501,6 +5769,7 @@
         "name": "Holy Grail Front ~My Super Camelot 2021~ Summoning Campaign",
         "start_date": "5/12/2021",
         "end_date": "5/26/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "76": "Mordred",
           "119": "Artoria Pendragon (Lancer)",
@@ -5520,6 +5789,7 @@
         "name": "Servant Summer Camp 2020 Rerun Summoning Campaign 1",
         "start_date": "5/19/2021",
         "end_date": "6/9/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "285": "Sessh\u014din Kiara (Moon Cancer)",
           "286": "Illyasviel von Einzbern (Archer)",
@@ -5531,6 +5801,7 @@
         "name": "Servant Summer Camp 2020 Rerun Summoning Campaign (Male)",
         "start_date": "5/19/2021",
         "end_date": "6/9/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "11": "EMIYA",
           "213": "Sigurd",
@@ -5542,6 +5813,7 @@
         "name": "Servant Summer Camp 2020 Rerun Summoning Campaign 2",
         "start_date": "5/26/2021",
         "end_date": "6/9/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "200": "Asagami Fujino",
           "289": "Abigail Williams (Summer)",
@@ -5560,6 +5832,7 @@
         "name": "Avalon le Fae Lostbelt Pre-Release Campaign Summoning Campaign",
         "start_date": "6/2/2021",
         "end_date": "6/16/2021",
+        "date_origin": "tab",
         "rateups": {
           "253": "Leonardo Da Vinci (Rider)"
         },
@@ -5569,6 +5842,7 @@
         "name": "Avalon le Fae Chapter Release Summoning Campaign 1",
         "start_date": "6/11/2021",
         "end_date": "6/25/2021",
+        "date_origin": "tab",
         "rateups": {
           "309": "Morgan",
           "310": "Barghest",
@@ -5581,6 +5855,7 @@
         "name": "Avalon le Fae Summoning Campaign 2",
         "start_date": "6/25/2021",
         "end_date": "7/2/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "284": "Artoria Caster"
         },
@@ -5596,6 +5871,7 @@
         "name": "Interlude Campaign 16 Summoning Campaign",
         "start_date": "6/23/2021",
         "end_date": "7/7/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "201": "Anastasia",
           "204": "Antonio Salieri",
@@ -5614,6 +5890,7 @@
         "name": "Grand Nero Fest 2021 Summoning Campaign",
         "start_date": "6/30/2021",
         "end_date": "7/14/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "7": "Gaius Julius Caesar",
           "22": "Romulus",
@@ -5634,6 +5911,7 @@
         "name": "Avalon le Fae Chapter Release Part 2 Summoning Campaign 3",
         "start_date": "7/14/2021",
         "end_date": "7/28/2021",
+        "date_origin": "tab",
         "rateups": {
           "312": "M\u00e9lusine",
           "313": "Percival"
@@ -5650,6 +5928,7 @@
         "name": "Fate/Grand Order \uff5e6th Anniversary\uff5e Commemorative Campaign Summoning Campaign",
         "start_date": "7/27/2021",
         "end_date": "8/1/2021",
+        "date_origin": "tab",
         "rateups": {
           "173": "Sherlock Holmes"
         },
@@ -5659,6 +5938,7 @@
         "name": "Fate/Grand Order \uff5e6th Anniversary\uff5e Summoning Campaign",
         "start_date": "8/1/2021",
         "end_date": "8/15/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "314": "Koyanskaya of Light",
           "201": "Anastasia",
@@ -5696,6 +5976,7 @@
         "name": "Avalon le Fae Conclusion Campaign Summoning Campaign 1",
         "start_date": "8/11/2021",
         "end_date": "8/25/2021",
+        "date_origin": "tab",
         "rateups": {
           "316": "Oberon",
           "122": "Tristan",
@@ -5709,6 +5990,7 @@
         "name": "Avalon le Fae Conclusion Summoning Campaign 2",
         "start_date": "8/18/2021",
         "end_date": "9/1/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "309": "Morgan",
           "310": "Barghest",
@@ -5726,6 +6008,7 @@
         "name": "Prisma Illya Licht Movie Release Campaign Summoning Campaign",
         "start_date": "8/27/2021",
         "end_date": "9/10/2021",
+        "date_origin": "tab",
         "rateups": {
           "136": "Illyasviel von Einzbern",
           "236": "Miyu Edelfelt",
@@ -5743,6 +6026,7 @@
         "name": "Chaldea Summer Adventure Pre-Release Campaign Summoning Campaign",
         "start_date": "9/1/2021",
         "end_date": "9/8/2021",
+        "date_origin": "tab",
         "rateups": {
           "65": "Francis Drake",
           "131": "Anne Bonny & Mary Read (Archer)",
@@ -5755,6 +6039,7 @@
         "name": "Chaldea Summer Adventure Summoning Campaign 1",
         "start_date": "9/8/2021",
         "end_date": "9/29/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "317": "Okita S\u014dji (Saber Alter)",
           "318": "Anastasia & Viy",
@@ -5766,6 +6051,7 @@
         "name": "Chaldea Summer Adventure Summoning Campaign (Male)",
         "start_date": "9/8/2021",
         "end_date": "9/29/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "206": "Achilles",
           "273": "Mandricardo"
@@ -5776,6 +6062,7 @@
         "name": "Chaldea Summer Adventure Summoning Campaign 2",
         "start_date": "9/15/2021",
         "end_date": "9/29/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "321": "Kama (Avenger)",
           "322": "Caenis (Rider)",
@@ -5787,6 +6074,7 @@
         "name": "Chaldea Summer Adventure Summoning Campaign 3",
         "start_date": "9/22/2021",
         "end_date": "9/29/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "172": "Christopher Columbus",
           "297": "Ashiya D\u014dman"
@@ -5803,6 +6091,7 @@
         "name": "Interlude Campaign 17 Summoning Campaign",
         "start_date": "9/29/2021",
         "end_date": "10/13/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "209": "Okita S\u014dji (Alter)",
           "295": "Van Gogh"
@@ -5819,6 +6108,7 @@
         "name": "MELTY BLOOD: TYPE LUMINA Saber's Game Entry Commemorative Campaign Summoning Campaign",
         "start_date": "9/30/2021",
         "end_date": "10/7/2021",
+        "date_origin": "tab",
         "rateups": {
           "2": "Artoria Pendragon"
         },
@@ -5834,6 +6124,7 @@
         "name": "Halloween Trilogy Summoning Campaign",
         "start_date": "10/6/2021",
         "end_date": "10/20/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "7": "Gaius Julius Caesar",
           "13": "Robin Hood",
@@ -5863,6 +6154,7 @@
         "name": "Fate/Grand Carnival 2nd Season Blu-ray&DVD Release Commemoration Campaign Summoning Campaign",
         "start_date": "10/12/2021",
         "end_date": "10/19/2021",
+        "date_origin": "tab",
         "rateups": {
           "196": "Ereshkigal"
         },
@@ -5878,6 +6170,7 @@
         "name": "Halloween 2021 Event Summoning",
         "start_date": "10/20/2021",
         "end_date": "11/3/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "324": "Jacques de Molay",
           "325": "Zenobia"
@@ -5888,6 +6181,7 @@
         "name": "Halloween 2021 Event Summoning 2",
         "start_date": "10/22/2021",
         "end_date": "11/3/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "10": "Chevalier d'Eon",
           "126": "Bedivere",
@@ -5905,6 +6199,7 @@
         "name": "Fate/Apocrypha Blu-ray Disc Box&OST Release Commemorative Campaign Summoning Campaign",
         "start_date": "10/27/2021",
         "end_date": "11/10/2021",
+        "date_origin": "tab",
         "rateups": {
           "6": "Siegfried",
           "14": "Atalanta",
@@ -5933,6 +6228,7 @@
         "name": "GUDAGUDA Yamatai-koku 2020 Rerun",
         "start_date": "11/3/2021",
         "end_date": "11/17/2021",
+        "date_origin": "event list",
         "rateups": {
           "68": "Okita S\u014dji",
           "161": "Hijikata Toshiz\u014d",
@@ -5945,6 +6241,7 @@
         "name": "GUDAGUDA Yamatai-koku 2020 Rerun",
         "start_date": "11/3/2021",
         "end_date": "11/17/2021",
+        "date_origin": "event list",
         "rateups": {
           "294": "Oda Nobukatsu"
         },
@@ -5960,6 +6257,7 @@
         "name": "24M Downloads Summoning Campaign",
         "start_date": "11/10/2021",
         "end_date": "11/24/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "51": "Sakata Kintoki",
           "298": "Watanabe no Tsuna",
@@ -5977,6 +6275,7 @@
         "name": "GUDAGUDA Close Call 2021 Summoning Campaign 1",
         "start_date": "11/17/2021",
         "end_date": "12/1/2021",
+        "date_origin": "tab",
         "rateups": {
           "178": "Oda Nobunaga (Berserker)",
           "210": "Okada Iz\u014d",
@@ -5989,6 +6288,7 @@
         "name": "GUDAGUDA Close Call 2021 Summoning Campaign 2",
         "start_date": "11/22/2021",
         "end_date": "12/6/2021",
+        "date_origin": "tab",
         "rateups": {
           "210": "Okada Iz\u014d",
           "250": "Demon King Nobunaga",
@@ -6008,6 +6308,7 @@
         "name": "Interlude Campaign 18 Summoning Campaign",
         "start_date": "12/2/2021",
         "end_date": "12/16/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "198": "Katsushika Hokusai",
           "306": "Galatea"
@@ -6024,6 +6325,7 @@
         "name": "Christmas 2021 Summoning Campaign",
         "start_date": "12/8/2021",
         "end_date": "12/22/2021",
+        "date_origin": "tab",
         "rateups": {
           "11": "EMIYA",
           "30": "Martha",
@@ -6042,6 +6344,7 @@
         "name": "Avalon le Fae Clear Aid Summoning Campaign",
         "start_date": "12/17/2021",
         "end_date": "12/31/2021",
+        "date_origin": "event header jp old",
         "rateups": {
           "121": "Lancelot (Saber)",
           "312": "M\u00e9lusine",
@@ -6059,6 +6362,7 @@
         "name": "Tunguska Sanctuary Summoning Campaign",
         "start_date": "12/22/2021",
         "end_date": "12/31/2021",
+        "date_origin": "tab",
         "rateups": {
           "331": "Taigong Wang",
           "332": "Dobrynya Nikitich"
@@ -6075,6 +6379,7 @@
         "name": "New Year 2022 Summoning Campaign",
         "start_date": "1/1/2022",
         "end_date": "1/10/2022",
+        "date_origin": "event header jp old",
         "rateups": {
           "70": "Sc\u00e1thach",
           "108": "Iskandar",
@@ -6096,6 +6401,7 @@
         "name": "Koyanskaya of Light Summoning Campaign",
         "start_date": "1/10/2022",
         "end_date": "1/12/2022",
+        "date_origin": "event header jp old",
         "rateups": {
           "314": "Koyanskaya of Light"
         },
@@ -6111,6 +6417,7 @@
         "name": "Lady Reines Case Files Rerun Summoning Campaign 1",
         "start_date": "1/12/2022",
         "end_date": "2/2/2022",
+        "date_origin": "tab",
         "rateups": {
           "241": "Sima Yi (Reines)",
           "335": "Hephaestion"
@@ -6121,6 +6428,7 @@
         "name": "Lady Reines Case Files Rerun Summoning Campaign 2",
         "start_date": "1/14/2022",
         "end_date": "1/19/2022",
+        "date_origin": "tab",
         "rateups": {
           "37": "Zhuge Liang (Lord El-Melloi II)",
           "242": "Astraea"
@@ -6137,6 +6445,7 @@
         "name": "Prison Tower Free Access Commemorative Summoning Campaign",
         "start_date": "1/19/2022",
         "end_date": "1/25/2022",
+        "date_origin": "event header jp old",
         "rateups": {
           "96": "Edmond Dant\u00e8s",
           "97": "Nightingale"
@@ -6153,6 +6462,7 @@
         "name": "Arjuna & Karna Summoning Campaign",
         "start_date": "1/19/2022",
         "end_date": "1/25/2022",
+        "date_origin": "event header jp old",
         "rateups": {
           "84": "Arjuna",
           "85": "Karna"
@@ -6169,6 +6479,7 @@
         "name": "Merry Christmas from the Underworld Free Access Commemorative Summoning Campaign",
         "start_date": "1/26/2022",
         "end_date": "2/1/2022",
+        "date_origin": "event header jp old",
         "rateups": {
           "142": "Ishtar",
           "196": "Ereshkigal"
@@ -6185,6 +6496,7 @@
         "name": "Valentine 2022 Pre-Release Campaign Summoning Campaign",
         "start_date": "2/2/2022",
         "end_date": "2/9/2022",
+        "date_origin": "tab",
         "rateups": {
           "90": "Nero Claudius (Bride)",
           "155": "Mysterious Heroine X (Alter)",
@@ -6198,6 +6510,7 @@
         "name": "Valentine 2022 Summoning Campaign",
         "start_date": "2/9/2022",
         "end_date": "2/23/2022",
+        "date_origin": "tab",
         "rateups": {
           "336": "Manann\u00e1n mac Lir (Bazett)",
           "2": "Artoria Pendragon",
@@ -6236,6 +6549,7 @@
         "name": "Valentine 2021 Summoning Campaign Rerun",
         "start_date": "2/16/2022",
         "end_date": "2/23/2022",
+        "date_origin": "event header jp old",
         "rateups": {
           "305": "Amor (Caren)"
         },
@@ -6251,6 +6565,7 @@
         "name": "SE.RA.PH Free Access Commemorative Summoning Campaign",
         "start_date": "2/23/2022",
         "end_date": "3/2/2022",
+        "date_origin": "event header jp old",
         "rateups": {
           "163": "Meltryllis",
           "164": "Passionlip",
@@ -6269,6 +6584,7 @@
         "name": "White Day 2022 Summoning Campaign",
         "start_date": "3/2/2022",
         "end_date": "3/16/2022",
+        "date_origin": "event header jp old",
         "rateups": {
           "37": "Zhuge Liang (Lord El-Melloi II)",
           "52": "Vlad III",
@@ -6297,6 +6613,7 @@
         "name": "White Day 2022 Merlin Summoning Campaign",
         "start_date": "3/12/2022",
         "end_date": "3/14/2022",
+        "date_origin": "event header jp old",
         "rateups": {
           "150": "Merlin"
         },
@@ -6312,6 +6629,7 @@
         "name": "Road to 7: Lostbelt No.1 Campaign Summoning Campaign",
         "start_date": "3/9/2022",
         "end_date": "3/16/2022",
+        "date_origin": "tab",
         "rateups": {
           "201": "Anastasia",
           "202": "Atalanta (Alter)",
@@ -6331,6 +6649,7 @@
         "name": "Battle in New York 2022 Summoning Campaign Summoning Campaign 1",
         "start_date": "3/16/2022",
         "end_date": "3/30/2022",
+        "date_origin": "tab",
         "rateups": {
           "5": "Nero Claudius",
           "77": "Nikola Tesla",
@@ -6343,6 +6662,7 @@
         "name": "Battle in New York 2022 Gilgamesh Summoning Campaign",
         "start_date": "3/23/2022",
         "end_date": "3/30/2022",
+        "date_origin": "event header jp old",
         "rateups": {
           "12": "Gilgamesh",
           "145": "Gilgamesh (Caster)"
@@ -6359,6 +6679,7 @@
         "name": "Road to 7: Lostbelt No.2 Campaign Summoning Campaign",
         "start_date": "3/30/2022",
         "end_date": "4/6/2022",
+        "date_origin": "tab",
         "rateups": {
           "88": "Brynhildr",
           "212": "Napol\u00e9on",
@@ -6379,6 +6700,7 @@
         "name": "Sea Monster Crisis Summoning Campaign",
         "start_date": "4/6/2022",
         "end_date": "4/27/2022",
+        "date_origin": "tab",
         "rateups": {
           "266": "Mysterious Alter Ego \u039b",
           "337": "Trung Sisters"
@@ -6389,6 +6711,7 @@
         "name": "Sea Monster Crisis Morgan Summoning Campaign",
         "start_date": "4/13/2022",
         "end_date": "4/20/2022",
+        "date_origin": "event header jp old",
         "rateups": {
           "170": "Wu Zetian",
           "309": "Morgan"
@@ -6405,6 +6728,7 @@
         "name": "FGO x Learn with Manga! Collaboration Pre-Release Summoning Campaign",
         "start_date": "4/20/2022",
         "end_date": "5/10/2022",
+        "date_origin": "event header jp old",
         "rateups": {
           "94": "Astolfo",
           "127": "Leonardo Da Vinci",
@@ -6421,6 +6745,7 @@
         "name": "FGO x Learn with Manga! Collaboration Summoning Campaign",
         "start_date": "4/27/2022",
         "end_date": "5/18/2022",
+        "date_origin": "event list",
         "rateups": {
           "339": "Super Bunyan",
           "340": "Daikokuten",
@@ -6438,6 +6763,7 @@
         "name": "25M Downloads Summoning Campaign Summoning Campaign 1",
         "start_date": "5/11/2022",
         "end_date": "5/18/2022",
+        "date_origin": "tab",
         "rateups": {
           "284": "Artoria Caster",
           "310": "Barghest",
@@ -6450,6 +6776,7 @@
         "name": "25M Downloads Summoning Campaign Summoning Campaign 2",
         "start_date": "5/12/2022",
         "end_date": "5/18/2022",
+        "date_origin": "tab",
         "rateups": {
           "106": "Jeanne d'Arc (Alter)",
           "112": "Shuten D\u014dji",
@@ -6470,6 +6797,7 @@
         "name": "Traum Pre-Release Campaign Part 1 Summoning Campaign",
         "start_date": "5/18/2022",
         "end_date": "6/8/2022",
+        "date_origin": "tab",
         "rateups": {
           "342": "Constantine XI"
         },
@@ -6479,6 +6807,7 @@
         "name": "Main Interlude: Tunguska Sanctuary Release Commemorative Summoning Campaign",
         "start_date": "5/25/2022",
         "end_date": "6/1/2022",
+        "date_origin": "event header jp old",
         "rateups": {
           "331": "Taigong Wang",
           "332": "Dobrynya Nikitich"
@@ -6489,6 +6818,7 @@
         "name": "Traum Chapter Release Summoning Campaign Summoning Campaign 1",
         "start_date": "6/1/2022",
         "end_date": "6/15/2022",
+        "date_origin": "tab",
         "rateups": {
           "343": "Charlemagne",
           "344": "Roland",
@@ -6500,6 +6830,7 @@
         "name": "Traum Chapter Release Summoning Campaign Summoning Campaign 2",
         "start_date": "6/8/2022",
         "end_date": "6/15/2022",
+        "date_origin": "tab",
         "rateups": {
           "346": "James Moriarty (Ruler)",
           "347": "Don Quixote",
@@ -6511,6 +6842,7 @@
         "name": "Traum Chapter Release Summoning Campaign Summoning Campaign 3",
         "start_date": "6/10/2022",
         "end_date": "6/17/2022",
+        "date_origin": "tab",
         "rateups": {
           "6": "Siegfried",
           "173": "Sherlock Holmes"
@@ -6527,6 +6859,7 @@
         "name": "Holy Grail Front ~Moonsault Operation~ Summoning Campaign 1",
         "start_date": "6/15/2022",
         "end_date": "6/29/2022",
+        "date_origin": "tab",
         "rateups": {
           "244": "Jinako Carigiri"
         },
@@ -6536,6 +6869,7 @@
         "name": "Holy Grail Front ~Moonsault Operation~ Summoning Campaign 2",
         "start_date": "6/19/2022",
         "end_date": "6/29/2022",
+        "date_origin": "tab",
         "rateups": {
           "220": "BB (Summer)"
         },
@@ -6551,6 +6885,7 @@
         "name": "Road to 7: Lostbelt No.3 Campaign Summoning Campaign",
         "start_date": "6/22/2022",
         "end_date": "6/29/2022",
+        "date_origin": "tab",
         "rateups": {
           "42": "Jing Ke",
           "226": "Xiang Yu",
@@ -6573,6 +6908,7 @@
         "name": "Nanmei Yumihari Hakkenden Summoning Campaign Summoning Campaign 1",
         "start_date": "6/29/2022",
         "end_date": "7/20/2022",
+        "date_origin": "tab",
         "rateups": {
           "158": "Hessian Lobo",
           "210": "Okada Iz\u014d",
@@ -6584,6 +6920,7 @@
         "name": "Nanmei Yumihari Hakkenden Summoning Campaign Summoning Campaign 2",
         "start_date": "7/3/2022",
         "end_date": "7/20/2022",
+        "date_origin": "tab",
         "rateups": {
           "158": "Hessian Lobo",
           "210": "Okada Iz\u014d",
@@ -6595,6 +6932,7 @@
         "name": "Nanmei Yumihari Hakkenden Summoning Campaign Summoning Campaign 3",
         "start_date": "7/6/2022",
         "end_date": "7/13/2022",
+        "date_origin": "tab",
         "rateups": {
           "158": "Hessian Lobo",
           "198": "Katsushika Hokusai",
@@ -6612,6 +6950,7 @@
         "name": "Main Interlude: \u014coku Release Campaign Summoning Campaign",
         "start_date": "7/13/2022",
         "end_date": "7/22/2022",
+        "date_origin": "tab",
         "rateups": {
           "167": "Sessh\u014din Kiara",
           "169": "Scheherazade",
@@ -6630,6 +6969,7 @@
         "name": "Fate/Grand Order \uff5e7th Anniversary\uff5e Countdown Campaign Summoning Campaign",
         "start_date": "7/21/2022",
         "end_date": "7/31/2022",
+        "date_origin": "event header jp old",
         "rateups": {
           "129": "Artoria Pendragon (Archer)",
           "132": "Mordred (Rider)",
@@ -6653,6 +6993,7 @@
         "name": "Fate/Grand Order \uff5e7th Anniversary\uff5e Summoning Campaign",
         "start_date": "7/31/2022",
         "end_date": "8/10/2022",
+        "date_origin": "event header jp old",
         "rateups": {
           "351": "Archetype: Earth",
           "352": "Xu Fu"
@@ -6663,6 +7004,7 @@
         "name": "Fate/Grand Order \uff5e7th Anniversary\uff5e Daily Summoning Campaign",
         "start_date": "8/3/2022",
         "end_date": "8/11/2022",
+        "date_origin": "event header jp old",
         "rateups": {
           "86": "Mysterious Heroine X",
           "91": "Ry\u014dgi Shiki (Saber)",
@@ -6687,6 +7029,7 @@
         "name": "Arctic Summer World Summoning Campaign Summoning Campaign 1",
         "start_date": "8/10/2022",
         "end_date": "8/31/2022",
+        "date_origin": "tab",
         "rateups": {
           "353": "Lady Avalon",
           "354": "Gareth (Saber)"
@@ -6697,6 +7040,7 @@
         "name": "Arctic Summer World Summoning Campaign Summoning Campaign (Male)",
         "start_date": "8/10/2022",
         "end_date": "8/31/2022",
+        "date_origin": "tab",
         "rateups": {
           "159": "Yan Qing",
           "249": "Asclepius",
@@ -6708,6 +7052,7 @@
         "name": "Arctic Summer World Summoning Campaign Summoning Campaign 2",
         "start_date": "8/14/2022",
         "end_date": "8/31/2022",
+        "date_origin": "tab",
         "rateups": {
           "355": "Ibuki D\u014dji (Berserker)",
           "356": "Utsumi Erice (Avenger)"
@@ -6718,6 +7063,7 @@
         "name": "Arctic Summer World Summoning Campaign Summoning Campaign 3",
         "start_date": "8/17/2022",
         "end_date": "8/31/2022",
+        "date_origin": "tab",
         "rateups": {
           "357": "Sc\u00e1thach-Ska\u00f0i (Ruler)",
           "358": "Wu Zetian (Caster)"
@@ -6734,6 +7080,7 @@
         "name": "Summer 2021 Summoning Campaign Rerun",
         "start_date": "8/21/2022",
         "end_date": "8/31/2022",
+        "date_origin": "event header jp old",
         "rateups": {
           "317": "Okita S\u014dji (Saber Alter)",
           "318": "Anastasia & Viy",
@@ -6754,6 +7101,7 @@
         "name": "26M Downloads Summoning Campaign Summoning Campaign 2",
         "start_date": "8/31/2022",
         "end_date": "9/12/2022",
+        "date_origin": "tab",
         "rateups": {
           "93": "Amakusa Shir\u014d",
           "114": "Minamoto no Raik\u014d",
@@ -6768,6 +7116,7 @@
         "name": "26M Downloads Summoning Campaign Summoning Campaign 1",
         "start_date": "8/31/2022",
         "end_date": "9/14/2022",
+        "date_origin": "tab",
         "rateups": {
           "268": "Space Ishtar",
           "269": "Calamity Jane"
@@ -6784,6 +7133,7 @@
         "name": "Road to 7: Lostbelt No.4 Campaign Summoning Campaign",
         "start_date": "9/7/2022",
         "end_date": "9/14/2022",
+        "date_origin": "tab",
         "rateups": {
           "85": "Karna",
           "101": "Rama",
@@ -6807,6 +7157,7 @@
         "name": "GUDAGUDA Shin Yamatai-koku 2022 Summoning Campaign Summoning Campaign 1",
         "start_date": "9/14/2022",
         "end_date": "10/5/2022",
+        "date_origin": "tab",
         "rateups": {
           "251": "Mori Nagayoshi",
           "362": "Sen no Riky\u016b",
@@ -6818,6 +7169,7 @@
         "name": "KYOMAF2022 Exhibit Commemoration Summoning Campaign",
         "start_date": "9/17/2022",
         "end_date": "9/25/2022",
+        "date_origin": "event header jp old",
         "rateups": {
           "68": "Okita S\u014dji",
           "161": "Hijikata Toshiz\u014d",
@@ -6843,6 +7195,7 @@
         "name": "Road to 7: Lostbelt No.5 -Atlantis- Campaign Summoning Campaign",
         "start_date": "9/28/2022",
         "end_date": "10/5/2022",
+        "date_origin": "tab",
         "rateups": {
           "64": "Hector",
           "185": "Mochizuki Chiyome",
@@ -6865,6 +7218,7 @@
         "name": "Road to 7: Lostbelt No.5 -Olympus- Campaign Summoning Campaign",
         "start_date": "10/5/2022",
         "end_date": "10/14/2022",
+        "date_origin": "tab",
         "rateups": {
           "274": "Europa",
           "278": "Dioscuri",
@@ -6883,6 +7237,7 @@
         "name": "Halloween 2022 Event Summoning Campaign Summoning Campaign 1",
         "start_date": "10/12/2022",
         "end_date": "11/2/2022",
+        "date_origin": "tab",
         "rateups": {
           "365": "Huyan Zhuo",
           "366": "Huang Feihu"
@@ -6893,6 +7248,7 @@
         "name": "Halloween 2022 Event Summoning Campaign Summoning Campaign 2",
         "start_date": "10/15/2022",
         "end_date": "10/20/2022",
+        "date_origin": "tab",
         "rateups": {
           "158": "Hessian Lobo",
           "159": "Yan Qing",
@@ -6915,6 +7271,7 @@
         "name": "Main Interlude: Imaginary Scramble Release Campaign Summoning Campaign",
         "start_date": "10/26/2022",
         "end_date": "11/4/2022",
+        "date_origin": "tab",
         "rateups": {
           "176": "Frankenstein (Saber)",
           "181": "Minamoto no Raik\u014d (Lancer)",
@@ -6933,6 +7290,7 @@
         "name": "Singularity Repair Support Campaign Summoning Campaign 1",
         "start_date": "10/27/2022",
         "end_date": "10/31/2022",
+        "date_origin": "tab",
         "rateups": {
           "9": "Gilles de Rais (Saber)",
           "29": "Marie Antoinette",
@@ -6947,6 +7305,7 @@
         "name": "Singularity Repair Support Campaign Summoning Campaign 2",
         "start_date": "10/31/2022",
         "end_date": "11/4/2022",
+        "date_origin": "tab",
         "rateups": {
           "8": "Altera",
           "26": "Boudica",
@@ -6961,6 +7320,7 @@
         "name": "Singularity Repair Support Campaign Summoning Campaign 3",
         "start_date": "11/4/2022",
         "end_date": "11/6/2022",
+        "date_origin": "tab",
         "rateups": {
           "63": "David",
           "65": "Francis Drake",
@@ -6973,6 +7333,7 @@
         "name": "Singularity Repair Support Campaign Summoning Campaign 4",
         "start_date": "11/6/2022",
         "end_date": "11/10/2022",
+        "date_origin": "tab",
         "rateups": {
           "74": "Nursery Rhyme",
           "75": "Jack the Ripper",
@@ -6987,6 +7348,7 @@
         "name": "Singularity Repair Support Campaign Summoning Campaign 6",
         "start_date": "11/10/2022",
         "end_date": "11/12/2022",
+        "date_origin": "tab",
         "rateups": {
           "96": "Edmond Dant\u00e8s"
         },
@@ -6996,6 +7358,7 @@
         "name": "Singularity Repair Support Campaign Summoning Campaign 5",
         "start_date": "11/12/2022",
         "end_date": "11/16/2022",
+        "date_origin": "tab",
         "rateups": {
           "13": "Robin Hood",
           "87": "Fionn mac Cumhaill",
@@ -7010,6 +7373,7 @@
         "name": "Singularity Repair Support Campaign Summoning Campaign 7",
         "start_date": "11/16/2022",
         "end_date": "11/18/2022",
+        "date_origin": "tab",
         "rateups": {
           "118": "Ozymandias",
           "122": "Tristan",
@@ -7022,6 +7386,7 @@
         "name": "Singularity Repair Support Campaign Summoning Campaign 8",
         "start_date": "11/18/2022",
         "end_date": "11/22/2022",
+        "date_origin": "tab",
         "rateups": {
           "27": "Ushiwakamaru",
           "143": "Enkidu",
@@ -7036,6 +7401,7 @@
         "name": "Singularity Repair Support Campaign Summoning Campaign 9",
         "start_date": "11/24/2022",
         "end_date": "11/29/2022",
+        "date_origin": "tab",
         "rateups": {
           "153": "Miyamoto Musashi",
           "156": "James Moriarty",
@@ -7061,6 +7427,7 @@
         "name": "Chaldea Faerie Knight Cup Pre-Release Summoning Campaign",
         "start_date": "11/3/2022",
         "end_date": "11/10/2022",
+        "date_origin": "event header jp old",
         "rateups": {
           "309": "Morgan"
         },
@@ -7070,6 +7437,7 @@
         "name": "Chaldea Faerie Knight Cup Summoning Campaign 1",
         "start_date": "11/9/2022",
         "end_date": "11/23/2022",
+        "date_origin": "tab",
         "rateups": {
           "310": "Barghest",
           "311": "Baobhan Sith",
@@ -7081,6 +7449,7 @@
         "name": "Chaldea Faerie Knight Cup Summoning Campaign 2",
         "start_date": "11/13/2022",
         "end_date": "11/16/2022",
+        "date_origin": "tab",
         "rateups": {
           "232": "Bradamante",
           "343": "Charlemagne",
@@ -7092,6 +7461,7 @@
         "name": "Chaldea Faerie Knight Cup Summoning Campaign 3",
         "start_date": "11/17/2022",
         "end_date": "11/21/2022",
+        "date_origin": "tab",
         "rateups": {
           "6": "Siegfried",
           "47": "Heracles",
@@ -7112,6 +7482,7 @@
         "name": "Lostbelt 7 Pre-Release Support Campaign Part 1 Summoning Campaign",
         "start_date": "11/23/2022",
         "end_date": "12/5/2022",
+        "date_origin": "tab",
         "rateups": {
           "253": "Leonardo Da Vinci (Rider)",
           "284": "Artoria Caster"
@@ -7128,6 +7499,7 @@
         "name": "Road to 7: Lostbelt No.6 Campaign Summoning Campaign",
         "start_date": "12/1/2022",
         "end_date": "12/23/2022",
+        "date_origin": "tab",
         "rateups": {
           "38": "C\u00fa Chulainn (Caster)",
           "231": "Red Hare",
@@ -7148,6 +7520,7 @@
         "name": "Christmas 2020 Re-run Summoning Campaign",
         "start_date": "12/7/2022",
         "end_date": "12/19/2022",
+        "date_origin": "tab",
         "rateups": {
           "30": "Martha",
           "84": "Arjuna",
@@ -7168,6 +7541,7 @@
         "name": "MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dant\u00e8s Game Entry Commemorative Campaign",
         "start_date": "12/12/2022",
         "end_date": "12/19/2022",
+        "date_origin": "event header jp old",
         "rateups": {
           "2": "Artoria Pendragon",
           "27": "Ushiwakamaru"
@@ -7184,6 +7558,7 @@
         "name": "Fate/EXTRA Last Encore BD Standard Edition & OST Release Campaign",
         "start_date": "12/14/2022",
         "end_date": "12/21/2022",
+        "date_origin": "event header jp old",
         "rateups": {
           "5": "Nero Claudius",
           "90": "Nero Claudius (Bride)"
@@ -7200,6 +7575,7 @@
         "name": "Lostbelt 7 Pre-Release Support Campaign Part 4 Summoning Campaign",
         "start_date": "12/19/2022",
         "end_date": "12/31/2022",
+        "date_origin": "tab",
         "rateups": {
           "314": "Koyanskaya of Light"
         },
@@ -7215,6 +7591,7 @@
         "name": "FGO Winter Party 2022-2023 Campaign: Hokkaido Summoning Campaign",
         "start_date": "12/21/2022",
         "end_date": "12/31/2022",
+        "date_origin": "event header jp new",
         "rateups": {
           "266": "Mysterious Alter Ego \u039b",
           "346": "James Moriarty (Ruler)"
@@ -7231,6 +7608,7 @@
         "name": "New Year 2023 Summoning Campaign",
         "start_date": "1/1/2023",
         "end_date": "1/11/2023",
+        "date_origin": "event header jp old",
         "rateups": {
           "12": "Gilgamesh",
           "234": "Beni-Enma",
@@ -7260,6 +7638,7 @@
         "name": "Nahui Mictlan Lostbelt Part II Pre-Release Campaign Summoning Campaign 1",
         "start_date": "1/11/2023",
         "end_date": "1/18/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "120": "Nitocris",
           "296": "Nemo"
@@ -7270,6 +7649,7 @@
         "name": "Nahui Mictlan Lostbelt Part II Pre-Release Campaign Summoning Campaign 2",
         "start_date": "1/18/2023",
         "end_date": "2/1/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "370": "Nitocris (Alter)"
         },
@@ -7279,6 +7659,7 @@
         "name": "Nahui Mictlan Chapter Release Part 2 Summoning Campaign 1",
         "start_date": "1/31/2023",
         "end_date": "2/14/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "371": "Tezcatlipoca",
           "372": "Tenochtitlan"
@@ -7289,6 +7670,7 @@
         "name": "Nahui Mictlan Chapter Release Part 2 Summoning Campaign 2",
         "start_date": "2/7/2023",
         "end_date": "2/21/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "372": "Tenochtitlan",
           "373": "Kukulkan"
@@ -7305,6 +7687,7 @@
         "name": "27M DL Summoning Campaign",
         "start_date": "2/13/2023",
         "end_date": "2/20/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "196": "Ereshkigal"
         },
@@ -7320,6 +7703,7 @@
         "name": "Valentine 2023 Summoning",
         "start_date": "2/17/2023",
         "end_date": "3/10/2023",
+        "date_origin": "tab",
         "rateups": {
           "374": "Popess Johanna",
           "2": "Artoria Pendragon",
@@ -7353,6 +7737,7 @@
         "name": "Valentine 2016-2022 Summoning Campaign Rerun",
         "start_date": "2/19/2023",
         "end_date": "2/28/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "90": "Nero Claudius (Bride)",
           "155": "Mysterious Heroine X (Alter)",
@@ -7374,6 +7759,7 @@
         "name": "White Day Memorial Summoning Campaign",
         "start_date": "3/8/2023",
         "end_date": "3/31/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "37": "Zhuge Liang (Lord El-Melloi II)",
           "93": "Amakusa Shir\u014d",
@@ -7395,6 +7781,7 @@
         "name": "Tales of Chaldean Heavy Industries Summoning Part 2",
         "start_date": "3/17/2023",
         "end_date": "4/7/2023",
+        "date_origin": "event list",
         "rateups": {
           "375": "Takasugi Shinsaku",
           "52": "Vlad III",
@@ -7420,6 +7807,7 @@
         "name": "Tales of Chaldean Heavy Industries Summoning Campaign 2",
         "start_date": "3/22/2023",
         "end_date": "4/7/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "210": "Okada Iz\u014d",
           "250": "Demon King Nobunaga"
@@ -7430,6 +7818,7 @@
         "name": "Tales of Chaldean Heavy Industries Summoning Campaign 3",
         "start_date": "3/24/2023",
         "end_date": "4/7/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "210": "Okada Iz\u014d",
           "329": "Sakamoto Ry\u014dma (Lancer)"
@@ -7446,6 +7835,7 @@
         "name": "Spring New Master 2023 Summoning Campaign",
         "start_date": "3/27/2023",
         "end_date": "4/7/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "2": "Artoria Pendragon",
           "11": "EMIYA",
@@ -7466,6 +7856,7 @@
         "name": "Evocation Festival Part 1 Summoning Campaign 1",
         "start_date": "4/2/2023",
         "end_date": "4/13/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "51": "Sakata Kintoki",
           "112": "Shuten D\u014dji",
@@ -7480,6 +7871,7 @@
         "name": "Evocation Festival Part 1 Summoning Campaign 2",
         "start_date": "4/10/2023",
         "end_date": "4/21/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "114": "Minamoto no Raik\u014d",
           "135": "Martha (Ruler)",
@@ -7500,6 +7892,7 @@
         "name": "FGO x FGO Arcade Collaboration Pre-Release Summoning Campaign",
         "start_date": "4/19/2023",
         "end_date": "5/17/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "127": "Leonardo Da Vinci",
           "154": "\"The Old Man of the Mountain\"",
@@ -7511,6 +7904,7 @@
         "name": "FGO x FGO Arcade Collaboration Summoning Campaign 1",
         "start_date": "4/26/2023",
         "end_date": "5/17/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "377": "Sodom's Beast/Draco",
           "378": "Locusta"
@@ -7521,6 +7915,7 @@
         "name": "FGO x FGO Arcade Collaboration Summoning Campaign 2",
         "start_date": "4/29/2023",
         "end_date": "5/13/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "145": "Gilgamesh (Caster)",
           "324": "Jacques de Molay",
@@ -7532,6 +7927,7 @@
         "name": "FGO x FGO Arcade Collaboration Summoning Campaign 3",
         "start_date": "5/2/2023",
         "end_date": "5/9/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "70": "Sc\u00e1thach",
           "97": "Nightingale"
@@ -7542,6 +7938,7 @@
         "name": "FGO x FGO Arcade Collaboration Summoning Campaign 4",
         "start_date": "5/5/2023",
         "end_date": "5/12/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "5": "Nero Claudius",
           "75": "Jack the Ripper",
@@ -7560,6 +7957,7 @@
         "name": "Evocation Festival Part 2 Summoning Campaign",
         "start_date": "5/10/2023",
         "end_date": "5/21/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "18": "Elizabeth B\u00e1thory",
           "52": "Vlad III",
@@ -7580,6 +7978,7 @@
         "name": "Ordeal Call Pre-Release Summoning Campaign",
         "start_date": "5/17/2023",
         "end_date": "5/26/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "201": "Anastasia",
           "202": "Atalanta (Alter)",
@@ -7600,6 +7999,7 @@
         "name": "Fuun Karakuri Illya's Castle Summoning Campaign 1",
         "start_date": "5/24/2023",
         "end_date": "6/7/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "117": "F\u016bma Kotar\u014d",
           "188": "Kat\u014d Danz\u014d",
@@ -7611,6 +8011,7 @@
         "name": "Fuun Karakuri Illya's Castle Summoning Campaign 2",
         "start_date": "5/26/2023",
         "end_date": "6/2/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "117": "F\u016bma Kotar\u014d",
           "136": "Illyasviel von Einzbern",
@@ -7622,6 +8023,7 @@
         "name": "Fuun Karakuri Illya's Castle Summoning Campaign 3",
         "start_date": "5/28/2023",
         "end_date": "6/4/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "188": "Kat\u014d Danz\u014d",
           "224": "Sitonai",
@@ -7639,6 +8041,7 @@
         "name": "Nero Fest & Battle in NY 2022 Summoning Campaign",
         "start_date": "5/31/2023",
         "end_date": "6/7/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "77": "Nikola Tesla",
           "90": "Nero Claudius (Bride)",
@@ -7657,6 +8060,7 @@
         "name": "Sovereign's Memoir I Pre-Release Summoning Campaign",
         "start_date": "6/7/2023",
         "end_date": "6/18/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "370": "Nitocris (Alter)",
           "372": "Tenochtitlan",
@@ -7668,6 +8072,7 @@
         "name": "Paper Moon Summoning Campaign 1",
         "start_date": "6/18/2023",
         "end_date": "7/2/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "381": "Bhima",
           "382": "Duryodhana"
@@ -7678,6 +8083,7 @@
         "name": "Paper Moon Summoning Campaign 2",
         "start_date": "6/21/2023",
         "end_date": "7/5/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "9": "Gilles de Rais (Saber)",
           "32": "Gilles de Rais",
@@ -7690,6 +8096,7 @@
         "name": "Paper Moon Summoning Campaign 3",
         "start_date": "6/25/2023",
         "end_date": "7/16/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "382": "Duryodhana",
           "383": "Durga"
@@ -7706,6 +8113,7 @@
         "name": "28M Downloads Summoning Campaign |-|Summoning Campaign I",
         "start_date": "6/28/2023",
         "end_date": "7/12/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "265": "Artoria Pendragon (Ruler)",
           "267": "Okita J S\u014dji"
@@ -7716,6 +8124,7 @@
         "name": "28M Downloads Summoning Campaign |-|Summoning Campaign II",
         "start_date": "6/28/2023",
         "end_date": "7/12/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "179": "Artoria Pendragon (Rider Alter)",
           "222": "Mysterious Heroine XX"
@@ -7726,6 +8135,7 @@
         "name": "28M Downloads Summoning Campaign |-|Summoning Campaign III",
         "start_date": "6/28/2023",
         "end_date": "7/12/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "129": "Artoria Pendragon (Archer)",
           "132": "Mordred (Rider)"
@@ -7742,6 +8152,7 @@
         "name": "Strange Fake -Whispers of Dawn- Broadcast Commemoration Summoning Campaign",
         "start_date": "7/2/2023",
         "end_date": "7/10/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "12": "Gilgamesh",
           "143": "Enkidu"
@@ -7758,6 +8169,7 @@
         "name": "Evocation Festival Part 3 Summoning Campaign",
         "start_date": "7/3/2023",
         "end_date": "7/12/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "106": "Jeanne d'Arc (Alter)",
           "134": "Kiyohime (Lancer)",
@@ -7778,6 +8190,7 @@
         "name": "Mystic Eyes Symphony Summoning Campaign 1",
         "start_date": "7/5/2023",
         "end_date": "7/26/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "384": "Medusa (Saber)"
         },
@@ -7787,6 +8200,7 @@
         "name": "Mystic Eyes Symphony Summoning Campaign 2",
         "start_date": "7/7/2023",
         "end_date": "7/14/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "158": "Hessian Lobo",
           "349": "Kyokutei Bakin"
@@ -7797,6 +8211,7 @@
         "name": "Mystic Eyes Symphony Summoning Campaign 3",
         "start_date": "7/9/2023",
         "end_date": "7/16/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "365": "Huyan Zhuo",
           "366": "Huang Feihu"
@@ -7807,6 +8222,7 @@
         "name": "Mystic Eyes Symphony Summoning Campaign 4",
         "start_date": "7/12/2023",
         "end_date": "7/23/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "15": "Euryale",
           "23": "Medusa",
@@ -7830,6 +8246,7 @@
         "name": "FGO 8th Anniversary Pre-Release Summoning Campaign",
         "start_date": "7/21/2023",
         "end_date": "7/30/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "156": "James Moriarty",
           "253": "Leonardo Da Vinci (Rider)"
@@ -7840,6 +8257,7 @@
         "name": "Fate/Grand Order \uff5e8th Anniversary\uff5e Summoning Campaign I",
         "start_date": "7/30/2023",
         "end_date": "8/9/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "385": "Aesc the Savior"
         },
@@ -7849,6 +8267,7 @@
         "name": "Fate/Grand Order \uff5e8th Anniversary\uff5e Summoning Campaign II",
         "start_date": "8/1/2023",
         "end_date": "8/10/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "128": "Tamamo no Mae (Lancer)",
           "176": "Frankenstein (Saber)",
@@ -7877,6 +8296,7 @@
         "name": "Servant Summer Festival! 2023 Summoning Campaign I",
         "start_date": "8/11/2023",
         "end_date": "9/1/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "386": "Artoria Caster (Berserker)",
           "387": "Suzuka Gozen (Summer Vacation)",
@@ -7888,6 +8308,7 @@
         "name": "Servant Summer Festival! 2023 Summoning Campaign II",
         "start_date": "8/11/2023",
         "end_date": "9/1/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "121": "Lancelot (Saber)",
           "122": "Tristan",
@@ -7900,6 +8321,7 @@
         "name": "Servant Summer Festival! 2023 Summoning Campaign III",
         "start_date": "8/15/2023",
         "end_date": "9/1/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "390": "M\u00e9lusine (Ruler)",
           "391": "UDK-Barghest",
@@ -7911,6 +8333,7 @@
         "name": "Servant Summer Festival! 2023 Summoning Campaign IV",
         "start_date": "8/17/2023",
         "end_date": "9/1/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "371": "Tezcatlipoca"
         },
@@ -7920,6 +8343,7 @@
         "name": "Summer 2022 Rerun Summoning Campaign",
         "start_date": "8/24/2023",
         "end_date": "9/4/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "353": "Lady Avalon",
           "354": "Gareth (Saber)",
@@ -7940,6 +8364,7 @@
         "name": "Hunting Quests Part XIII Summoning Campaign",
         "start_date": "9/1/2023",
         "end_date": "9/16/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "220": "BB (Summer)",
           "285": "Sessh\u014din Kiara (Moon Cancer)",
@@ -7966,6 +8391,7 @@
         "name": "Ordeal Call Campaign Part 2 Summoning Campaign",
         "start_date": "9/8/2023",
         "end_date": "9/19/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "297": "Ashiya D\u014dman",
           "302": "Senji Muramasa",
@@ -7983,6 +8409,7 @@
         "name": "Evocation Festival Part 4 Summoning Campaign",
         "start_date": "9/13/2023",
         "end_date": "9/24/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "2": "Artoria Pendragon",
           "6": "Siegfried",
@@ -8003,6 +8430,7 @@
         "name": "KYOMAF2023 Exhibit Commemoration Summoning Campaign",
         "start_date": "9/17/2023",
         "end_date": "9/28/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "234": "Beni-Enma",
           "299": "Ibuki D\u014dji",
@@ -8020,6 +8448,7 @@
         "name": "Wandjina World Tour Summoning Campaign 1",
         "start_date": "9/20/2023",
         "end_date": "10/11/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "187": "Yagy\u016b Munenori",
           "281": "Voyager",
@@ -8032,6 +8461,7 @@
         "name": "Wandjina World Tour Summoning Campaign 2",
         "start_date": "9/24/2023",
         "end_date": "10/3/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "118": "Ozymandias",
           "139": "Cleopatra",
@@ -8049,6 +8479,7 @@
         "name": "Fate/Samurai Remnant Release Commemoration Summoning Campaign",
         "start_date": "9/28/2023",
         "end_date": "10/9/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "17": "C\u00fa Chulainn",
           "84": "Arjuna",
@@ -8068,6 +8499,7 @@
         "name": "Ordeal Call Campaign Part 3 Summoning Campaign",
         "start_date": "10/4/2023",
         "end_date": "10/13/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "213": "Sigurd",
           "214": "Valkyrie",
@@ -8087,6 +8519,7 @@
         "name": "Evocation Festival Part 5 Summoning Campaign",
         "start_date": "10/11/2023",
         "end_date": "10/20/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "18": "Elizabeth B\u00e1thory",
           "91": "Ry\u014dgi Shiki (Saber)",
@@ -8107,6 +8540,7 @@
         "name": "3,000 Days Anniversary Summoning Campaign",
         "start_date": "10/15/2023",
         "end_date": "10/25/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "284": "Artoria Caster",
           "309": "Morgan"
@@ -8123,6 +8557,7 @@
         "name": "Grail Front ~White Castle by Day, Black Castle by Night~ Summoning Campaign 1",
         "start_date": "10/25/2023",
         "end_date": "11/15/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "171": "Penthesilea",
           "394": "Ptolemaios",
@@ -8134,6 +8569,7 @@
         "name": "Grail Front ~White Castle by Day, Black Castle by Night~ Summoning Campaign 2",
         "start_date": "10/30/2023",
         "end_date": "11/11/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "193": "Nezha",
           "331": "Taigong Wang",
@@ -8145,6 +8581,7 @@
         "name": "Grail Front ~White Castle by Day, Black Castle by Night~ Summoning Campaign 3",
         "start_date": "11/1/2023",
         "end_date": "11/15/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "37": "Zhuge Liang (Lord El-Melloi II)",
           "108": "Iskandar",
@@ -8163,6 +8600,7 @@
         "name": "Ordeal Call Campaign Part 4 Summoning Campaign",
         "start_date": "11/15/2023",
         "end_date": "11/23/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "244": "Jinako Carigiri",
           "245": "Lakshmibai",
@@ -8182,6 +8620,7 @@
         "name": "29M Downloads Summoning Campaign",
         "start_date": "11/17/2023",
         "end_date": "12/1/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "310": "Barghest",
           "312": "M\u00e9lusine"
@@ -8198,6 +8637,7 @@
         "name": "Evocation Festival Part 6 Summoning Campaign",
         "start_date": "11/22/2023",
         "end_date": "12/3/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "74": "Nursery Rhyme",
           "97": "Nightingale",
@@ -8218,6 +8658,7 @@
         "name": "GUDAGUDA Super Goryokaku Summoning Campaign 1",
         "start_date": "11/29/2023",
         "end_date": "12/19/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "251": "Mori Nagayoshi",
           "397": "Takeda Shingen",
@@ -8229,6 +8670,7 @@
         "name": "GUDAGUDA Super Goryokaku FP Summoning Campaign",
         "start_date": "11/29/2023",
         "end_date": "12/19/2023",
+        "date_origin": "event header jp old",
         "rateups": {
           "294": "Oda Nobukatsu"
         },
@@ -8238,6 +8680,7 @@
         "name": "GUDAGUDA Super Goryokaku Summoning Campaign 2",
         "start_date": "12/1/2023",
         "end_date": "12/10/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "68": "Okita S\u014dji",
           "161": "Hijikata Toshiz\u014d",
@@ -8250,6 +8693,7 @@
         "name": "GUDAGUDA Super Goryokaku Summoning Campaign 3",
         "start_date": "12/6/2023",
         "end_date": "12/19/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "251": "Mori Nagayoshi",
           "398": "Nagakura Shinpachi",
@@ -8261,6 +8705,7 @@
         "name": "GUDAGUDA Super Goryokaku Summoning Campaign 4",
         "start_date": "12/9/2023",
         "end_date": "12/19/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "209": "Okita S\u014dji (Alter)",
           "251": "Mori Nagayoshi",
@@ -8279,6 +8724,7 @@
         "name": "Christmas 2023 Summoning Campaign 1",
         "start_date": "12/20/2023",
         "end_date": "12/31/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "296": "Nemo"
         },
@@ -8288,6 +8734,7 @@
         "name": "Christmas 2023 FP Summoning Campaign",
         "start_date": "12/20/2023",
         "end_date": "12/31/2023",
+        "date_origin": "event header jp old",
         "rateups": {
           "341": "Mary Anning"
         },
@@ -8297,6 +8744,7 @@
         "name": "Christmas 2023 Summoning Campaign 2",
         "start_date": "12/21/2023",
         "end_date": "12/31/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "368": "Britomart"
         },
@@ -8306,6 +8754,7 @@
         "name": "Christmas 2023 Summoning Campaign 3",
         "start_date": "12/24/2023",
         "end_date": "12/31/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "220": "BB (Summer)",
           "248": "A\u015bvatth\u0101man"
@@ -8316,6 +8765,7 @@
         "name": "Christmas 2023 Summoning Campaign 4",
         "start_date": "12/25/2023",
         "end_date": "12/31/2023",
+        "date_origin": "event header jp new",
         "rateups": {
           "215": "Sc\u00e1thach-Ska\u00f0i",
           "248": "A\u015bvatth\u0101man"

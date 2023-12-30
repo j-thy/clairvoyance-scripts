@@ -1059,6 +1059,7 @@ for event in EVENT_SET_JP:
             'name': banner.name,
             'start_date': banner.start_date.strftime("%-m/%-d/%Y"),
             'end_date': banner.end_date.strftime("%-m/%-d/%Y"),
+            'date_origin': banner.date_origin,
             'rateups': banner.rateups,
             'num_rateups': len(banner.rateups),
         })
@@ -1075,6 +1076,7 @@ for event in EVENT_SET_NA:
             'name': banner.name,
             'start_date': banner.start_date.strftime("%-m/%-d/%Y"),
             'end_date': banner.end_date.strftime("%-m/%-d/%Y"),
+            'date_origin': banner.date_origin,
             'rateups': banner.rateups,
             'num_rateups': len(banner.rateups),
         })
