@@ -337,6 +337,7 @@ BANNER_NAME_FIX = {
     r"Summoning Campaign II$" : "Summoning Campaign 2",
     r"Summoning Campaign III$" : "Summoning Campaign 3",
     r"Summoning Campaign IV$" : "Summoning Campaign 4",
+    r"Summoning Campaign Summoning Campaign" : "Summoning Campaign",
 }
 
 FAKE_BANNERS = (
