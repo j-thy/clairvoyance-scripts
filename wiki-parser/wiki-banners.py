@@ -210,6 +210,7 @@ MERGE_EVENTS_INTO = {
     "Yuga Kshetra Pre-Release Campaign" : "Yuga Kshetra Chapter Release",
     "Götterdämmerung Lostbelt Pre-Release Campaign" : "Götterdämmerung Chapter Release",
     "Fate/Accel Zero Order (Pre-Event)" : "Fate/Accel Zero Order Event",
+    "Summer 2021 Summoning Campaign Rerun" : "Arctic Summer World",
 }
 
 INCLUDE_SUBPAGES = {
