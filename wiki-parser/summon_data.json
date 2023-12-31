@@ -7971,27 +7971,6 @@
     ]
   },
   {
-    "name": "Ordeal Call Release Campaign",
-    "region": "JP",
-    "banners": [
-      {
-        "name": "Ordeal Call Pre-Release Summoning Campaign",
-        "start_date": "5/17/2023",
-        "end_date": "5/26/2023",
-        "date_origin": "event header jp new",
-        "rateups": {
-          "201": "Anastasia",
-          "202": "Atalanta (Alter)",
-          "203": "Avicebron",
-          "204": "Antonio Salieri",
-          "205": "Ivan the Terrible",
-          "332": "Dobrynya Nikitich"
-        },
-        "num_rateups": 6
-      }
-    ]
-  },
-  {
     "name": "Fuun Karakuri Illya's Castle",
     "region": "JP",
     "banners": [
@@ -8049,6 +8028,27 @@
           "175": "Nero Claudius (Caster)"
         },
         "num_rateups": 4
+      }
+    ]
+  },
+  {
+    "name": "Ordeal Call Release Campaign",
+    "region": "JP",
+    "banners": [
+      {
+        "name": "Ordeal Call Pre-Release Summoning Campaign",
+        "start_date": "5/17/2023",
+        "end_date": "5/26/2023",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "201": "Anastasia",
+          "202": "Atalanta (Alter)",
+          "203": "Avicebron",
+          "204": "Antonio Salieri",
+          "205": "Ivan the Terrible",
+          "332": "Dobrynya Nikitich"
+        },
+        "num_rateups": 6
       }
     ]
   },

@@ -195,15 +195,12 @@ EXCLUDE_PAGES = (
     "Valentine 2020/Main Info",
 )
 
-EVENT_RENAME = {
+MERGE_EVENTS_INTO = {
     "Strange Fake -Whispers of Dawn- Broadcast Commemoration Summoning Campaign" : "Strange Fake -Whispers of Dawn- Broadcast Commemoration Campaign",
     "Ordeal Call Pre-Release Campaign" : "Ordeal Call Release Campaign",
     "Chaldea Boys Collection 2021" : "Slapstick Museum",
     "Chaldea Boys Collection 2019" : "The Antiquated Spider Nostalgically Spins Its Thread",
     "WinFes 2018/19 Commemoration Summoning Campaign 2" : "WinFes 2018/19 Commemoration Campaign: Osaka",
-}
-
-MERGE_EVENTS_INTO = {
     "FGO Arcade Collaboration Pre-Release Campaign" : "Lilim Harlot",
     "Nahui Mictlan Lostbelt Part II Pre-Release Campaign" : "Nahui Mictlan Chapter Release Part 2",
     "Fate/Grand Order ～7th Anniversary～ Countdown Campaign" : "Fate/Grand Order ～7th Anniversary～",
@@ -336,6 +333,11 @@ SKIP_DATES = {
 
 FAKE_BANNERS = (
     "MELTY BLOOD: TYPE LUMINA Mashu's Game Entry Commemorative Campaign",
+)
+
+ADD_EMPTY_ENTRY = (
+    "Slapstick Museum",
+    "The Antiquated Spider Nostalgically Spins Its Thread",
 )
 
 class Event:
@@ -846,24 +848,8 @@ def rec_check_subpages(event_set, event_page, date, parent_title):
 
 # Parse test pages
 def parse_test():
-    page = pywikibot.Page(SITE, "Event List/2021 Events")
-    # Get the title of the page
-    print(page.title())
-    print()
-    text = page.text
-    wikicode = mwparserfromhell.parse(text)
-
-    events = wikicode.filter_wikilinks()
-    events = [x for x in events if not x.startswith("[[File:") and not x.startswith("[[Category:") and not x.startswith("[[#")]
-    events = [x.title for x in events]
-
-    # events = wikicode.filter_templates()
-    # events = [x.get("event").value.strip() for x in events]
-
-    events.reverse()
-
-    for event in events:
-        print(event)
+    page = pywikibot.Page(SITE, "File:Summer2022rerunbanner.png")
+    print(page.text)
 
 # Parse events
 def parse_event_lists():
@@ -963,7 +949,8 @@ def parse_event_lists():
                     pre_release_remove(event_set)
 
             # Recursively find any summoning campaign subpages
-            rec_check_subpages(event_set, event_page, date, event_page.title())
+            if event not in ADD_EMPTY_ENTRY:
+                rec_check_subpages(event_set, event_page, date, event_page.title())
 
             # Remove the recently parsed event if it has already been parsed as a subpage
             post_release_remove(event_set)
@@ -1009,25 +996,13 @@ def merge_events(event_set):
         except KeyError:
             pass
 
-def rename_events(event_set):
-    # Rename events that are marked to be renamed.
-    for old_name, new_name in EVENT_RENAME.items():
-        try:
-            event_set[old_name].name = new_name
-        except KeyError:
-            pass
-
 # If TESTING is 1, parse the test pages. Otherwise, parse the Summoning Campaign category.
 if TESTING == 1:
     parse_test()
-else:
-    print("Parsing all events...")
-    parse_event_lists()
+    sys.exit(0)
 
-# Remove banners with no rateups.
-print("Cleaning up empty events...")
-remove_empty(EVENT_SET_JP)
-remove_empty(EVENT_SET_NA)
+print("Parsing all events...")
+parse_event_lists()
 
 # Fix any banners with missing numbers.
 print("Fixing banner names...")
@@ -1044,10 +1019,10 @@ print("Sorting banners by date...")
 sort_banners(EVENT_SET_JP)
 sort_banners(EVENT_SET_NA)
 
-# Rename events that are marked to be renamed.
-print("Renaming events...")
-rename_events(EVENT_SET_JP)
-rename_events(EVENT_SET_NA)
+# Remove banners with no rateups.
+print("Cleaning up empty events...")
+remove_empty(EVENT_SET_JP)
+remove_empty(EVENT_SET_NA)
 
 # Create the JSON representation
 print("Creating JSON data...")
