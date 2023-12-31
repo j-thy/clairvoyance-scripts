@@ -15,6 +15,8 @@ from iteration_utilities import unique_everseen
 # Define format of progress bar.
 BAR_FORMAT = "{l_bar}{bar:50}{r_bar}{bar:-50b}"
 
+# NOTE: Halloween Trilogy missing Kiyohime in first table
+
 # Keywords that indicate the wikitable is a rateup servants wikitable.
 TABLE_MATCHES = (
     "New Servant",
@@ -210,45 +212,6 @@ MERGE_EVENTS_INTO = {
     "Fate/Accel Zero Order (Pre-Event)" : "Fate/Accel Zero Order Event",
 }
 
-# NOTE: Halloween Trilogy missing Kiyohime in first table
-
-# TODO: Correct:
-# MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dantès Game Entry Commemorative Campaign
-# Christmas 2019 Re-Run
-# 19M Downloads Campaign
-# Servant Summer Festival! 2018 Rerun (maybe regex fix)
-# Christmas 2017 Event Re-Run
-# Interlude Campaign 7
-# Battle in New York 2018
-# 14M Downloads Campaign
-# Servant Summer Festival! 2018
-# Dead Heat Summer Race! Re-run
-# GUDAGUDA Meiji Ishin Re-run
-# Chaldea Boys Collection 2018
-# Kara no Kyoukai Collaboration Event Re-run
-# Fate/EXTRA Last Encore Anime Broadcast Commemoration Campaign
-# Da Vinci and The 7 Counterfeit Heroic Spirits Rerun Lite Ver
-# 11M Downloads Campaign (maybe regex edit)
-# Christmas 2016 Event Re-run
-# Halloween 2017 Event
-# Shimosa Chapter Release
-# Fate/stay night Heaven's Feel Premiere Commemoration Campaign
-# Dead Heat Summer Race!
-# FGO 2016 Summer Event Re-Run
-# Rashomon Event Rerun
-# 9M Downloads Campaign
-# SE.RA.PH
-# Valentine 2016 Event Re-Run
-# Moon Goddess Event Re-Run
-# Solomon Chapter Release
-# FGO 2016 Summer Event
-# Camelot Chapter Release
-# Fate/Accel Zero Order Event
-# Da Vinci and The 7 Counterfeit Heroic Spirits
-# E Pluribus Unum Chapter Release
-# AnimeJapan 2016 Exhibition Commemoration Campaign
-# New Year Campaign 2016
-# 4M Downloads Campaign
 INCLUDE_SUBPAGES = {
     "FGO 2016 Summer Event" : ["FGO 2016 Summer Event/Event Details", "FGO 2016 Summer Event/Part II Event Details"],
     "SE.RA.PH" : ["Fate/EXTRA CCC×Fate/Grand Order"],
@@ -293,9 +256,7 @@ EVENT_LISTS = (
     # "Event List (US)/2023 Events",
 )
 
-MONTHS = ("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December")
-
-MONTH_TRANSLATE = {
+MONTHS = {
     "January" : 1,
     "Jan" : 1,
     "February" : 2,
@@ -329,6 +290,45 @@ SKIP_DATES = {
     "Event List (US)/2018 Events": ["|August 6 ~ August 14"],
     "Event List (US)/2019 Events": ["|August 5 ~ August 20", "|July 19 ~ July 28"],
     "Event List (US)/2020 Events": ["|July 23 ~ August 1"],
+}
+
+CORRECT_DATES = {
+    # MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dantès Game Entry Commemorative Campaign
+    # Christmas 2019 Re-Run
+    # 19M Downloads Campaign
+    # Servant Summer Festival! 2018 Rerun (maybe regex fix)
+    # Christmas 2017 Event Re-Run
+    # Interlude Campaign 7
+    # Battle in New York 2018
+    # 14M Downloads Campaign
+    # Servant Summer Festival! 2018
+    # Dead Heat Summer Race! Re-run
+    # GUDAGUDA Meiji Ishin Re-run
+    # Chaldea Boys Collection 2018
+    # Kara no Kyoukai Collaboration Event Re-run
+    # Fate/EXTRA Last Encore Anime Broadcast Commemoration Campaign
+    # Da Vinci and The 7 Counterfeit Heroic Spirits Rerun Lite Ver
+    # 11M Downloads Campaign (maybe regex edit)
+    # Christmas 2016 Event Re-run
+    # Halloween 2017 Event
+    # Shimosa Chapter Release
+    # Fate/stay night Heaven's Feel Premiere Commemoration Campaign
+    # Dead Heat Summer Race!
+    # FGO 2016 Summer Event Re-Run
+    # Rashomon Event Rerun
+    # 9M Downloads Campaign
+    # SE.RA.PH
+    # Valentine 2016 Event Re-Run
+    # Moon Goddess Event Re-Run
+    # Solomon Chapter Release
+    # FGO 2016 Summer Event
+    # Camelot Chapter Release
+    # Fate/Accel Zero Order Event
+    # Da Vinci and The 7 Counterfeit Heroic Spirits
+    # E Pluribus Unum Chapter Release
+    # AnimeJapan 2016 Exhibition Commemoration Campaign
+    # New Year Campaign 2016
+    # 4M Downloads Campaign
 }
 
 FAKE_BANNERS = (
@@ -397,12 +397,12 @@ def date_parser(start_date, end_date, year):
     end_mon_yr = end_date.split(",")[0].strip().split(" ")
 
     # Parse the month and day from the start date string
-    start_month = MONTH_TRANSLATE[start_mon_yr[0]]
+    start_month = MONTHS[start_mon_yr[0]]
     start_day = int(re.sub(r'[a-zA-Z]', '', start_mon_yr[1]))
 
     # Parse the month and day from the end date string
     try:
-        end_month = MONTH_TRANSLATE[end_mon_yr[0]]
+        end_month = MONTHS[end_mon_yr[0]]
         end_day = int(re.sub(r'[a-zA-Z]', '', end_mon_yr[1]))
     # If the end date is missing, use the start date
     except KeyError:
