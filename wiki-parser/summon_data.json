@@ -1725,7 +1725,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Fate/kaleid liner Prisma\u2606Illya Movie Premiere Commemoration Campaign Summoning Campaign",
+        "name": "Fate/kaleid liner Prisma\u2606Illya Movie Premiere Commemoration Summoning Campaign",
         "start_date": "8/25/2017",
         "end_date": "9/8/2017",
         "date_origin": "event header jp old",
@@ -1897,7 +1897,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "10M Downloads Campaign Summoning Campaign",
+        "name": "10M Downloads Summoning Campaign",
         "start_date": "9/20/2017",
         "end_date": "10/4/2017",
         "date_origin": "event header jp old",
@@ -1937,7 +1937,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "FGO THE STAGE Autumn Performance Commemoration Campaign Summoning Campaign",
+        "name": "FGO THE STAGE Autumn Performance Commemoration Summoning Campaign",
         "start_date": "9/29/2017",
         "end_date": "10/8/2017",
         "date_origin": "event header jp old",
@@ -1959,7 +1959,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Fate/stay night Heaven's Feel Premiere Commemoration Campaign Summoning Campaign",
+        "name": "Fate/stay night Heaven's Feel Premiere Commemoration Summoning Campaign",
         "start_date": "10/8/2017",
         "end_date": "11/12/2017",
         "date_origin": "event header jp old",
@@ -2117,7 +2117,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Salem Chapter Release Summoning Campaign 1",
+        "name": "Salem Chapter Release Summoning Campaign",
         "start_date": "11/29/2017",
         "end_date": "12/13/2017",
         "date_origin": "tab",
@@ -2361,7 +2361,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "12M Downloads Campaign Summoning Campaign",
+        "name": "12M Downloads Summoning Campaign",
         "start_date": "2/28/2018",
         "end_date": "3/14/2018",
         "date_origin": "event header jp old",
@@ -2548,7 +2548,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Anastasia Chapter Release Summoning Campaign 1",
+        "name": "Anastasia Chapter Release Summoning Campaign",
         "start_date": "4/4/2018",
         "end_date": "4/18/2018",
         "date_origin": "event header jp old",
@@ -2601,7 +2601,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Fate/Apocrypha \u00d7 FGO Special Campaign Summoning Campaign (Black Faction)",
+        "name": "Fate/Apocrypha \u00d7 FGO Special Summoning Campaign (Black Faction)",
         "start_date": "4/25/2018",
         "end_date": "5/9/2018",
         "date_origin": "event header jp old",
@@ -2616,7 +2616,7 @@
         "num_rateups": 6
       },
       {
-        "name": "Fate/Apocrypha \u00d7 FGO Special Campaign Summoning Campaign (Red Faction)",
+        "name": "Fate/Apocrypha \u00d7 FGO Special Summoning Campaign (Red Faction)",
         "start_date": "4/25/2018",
         "end_date": "5/9/2018",
         "date_origin": "event header jp old",
@@ -2710,7 +2710,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "13M Downloads Campaign Summoning Campaign",
+        "name": "13M Downloads Summoning Campaign",
         "start_date": "5/30/2018",
         "end_date": "6/13/2018",
         "date_origin": "event header jp old",
@@ -2729,7 +2729,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Fate/EXTELLA LINK Release Commemoration Campaign Summoning Campaign",
+        "name": "Fate/EXTELLA LINK Release Commemoration Summoning Campaign",
         "start_date": "6/6/2018",
         "end_date": "6/20/2018",
         "date_origin": "tab",
@@ -2828,7 +2828,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "G\u00f6tterd\u00e4mmerung Lostbelt Pre-Release Campaign Summoning Campaign",
+        "name": "G\u00f6tterd\u00e4mmerung Lostbelt Pre-Release Summoning Campaign",
         "start_date": "7/13/2018",
         "end_date": "7/27/2018",
         "date_origin": "event header jp old",
@@ -3024,7 +3024,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "14M Downloads Campaign Summoning Campaign",
+        "name": "14M Downloads Summoning Campaign",
         "start_date": "8/29/2018",
         "end_date": "9/5/2018",
         "date_origin": "event header jp old",
@@ -3161,7 +3161,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "15M Downloads Campaign Summoning Campaign",
+        "name": "15M Downloads Summoning Campaign",
         "start_date": "11/7/2018",
         "end_date": "11/21/2018",
         "date_origin": "event header jp old",
@@ -3202,7 +3202,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "S I N Chapter Release Summoning Campaign 1",
+        "name": "S I N Chapter Release Summoning Campaign",
         "start_date": "11/27/2018",
         "end_date": "12/11/2018",
         "date_origin": "event header jp old",
@@ -3828,7 +3828,7 @@
         "num_rateups": 2
       },
       {
-        "name": "Yuga Kshetra Chapter Release Summoning Campaign 1",
+        "name": "Yuga Kshetra Chapter Release Summoning Campaign",
         "start_date": "6/15/2019",
         "end_date": "6/29/2019",
         "date_origin": "tab",
@@ -3994,7 +3994,7 @@
         "num_rateups": 3
       },
       {
-        "name": "Las Vegas Official Bout/Merlin Summoning Campaign 1",
+        "name": "Las Vegas Official Bout/Merlin Summoning Campaign",
         "start_date": "8/18/2019",
         "end_date": "9/1/2019",
         "date_origin": "event header jp old",
@@ -4398,7 +4398,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Atlantis Chapter Release Summoning Campaign 1",
+        "name": "Atlantis Chapter Release Summoning Campaign",
         "start_date": "12/18/2019",
         "end_date": "12/31/2019",
         "date_origin": "tab",
@@ -4574,7 +4574,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "19M Downloads Campaign Summoning Campaign",
+        "name": "19M Downloads Summoning Campaign",
         "start_date": "2/26/2020",
         "end_date": "3/6/2020",
         "date_origin": "event header jp old",
@@ -4687,7 +4687,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Olympus Chapter Release Summoning Campaign 1",
+        "name": "Olympus Chapter Release Summoning Campaign",
         "start_date": "4/9/2020",
         "end_date": "4/23/2020",
         "date_origin": "tab",
@@ -4799,7 +4799,7 @@
         "num_rateups": 3
       },
       {
-        "name": "Las Vegas Official Bout Rerun/Merlin Summoning Campaign 1",
+        "name": "Las Vegas Official Bout Rerun/Merlin Summoning Campaign",
         "start_date": "6/14/2020",
         "end_date": "6/28/2020",
         "date_origin": "event header jp old",
@@ -4921,7 +4921,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "SE.RA.PH Main Interlude Release Campaign Summoning Campaign",
+        "name": "SE.RA.PH Main Interlude Release Summoning Campaign",
         "start_date": "7/15/2020",
         "end_date": "7/29/2020",
         "date_origin": "event header jp old",
@@ -5190,7 +5190,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Realm of Hell Mandala - Heian-ky\u014d Pre-Release Summoning Campaign 1",
+        "name": "Realm of Hell Mandala - Heian-ky\u014d Pre-Release Summoning Campaign",
         "start_date": "11/27/2020",
         "end_date": "12/11/2020",
         "date_origin": "event header jp old",
@@ -5747,7 +5747,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Fate/Grand Order -Camelot- The Movie Pre-Release Campaign Summoning Campaign",
+        "name": "Fate/Grand Order -Camelot- The Movie Pre-Release Summoning Campaign",
         "start_date": "5/10/2021",
         "end_date": "5/24/2021",
         "date_origin": "tab",
@@ -5829,7 +5829,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Avalon le Fae Lostbelt Pre-Release Campaign Summoning Campaign",
+        "name": "Avalon le Fae Lostbelt Pre-Release Summoning Campaign",
         "start_date": "6/2/2021",
         "end_date": "6/16/2021",
         "date_origin": "tab",
@@ -5839,7 +5839,7 @@
         "num_rateups": 1
       },
       {
-        "name": "Avalon le Fae Chapter Release Summoning Campaign 1",
+        "name": "Avalon le Fae Chapter Release Summoning Campaign",
         "start_date": "6/11/2021",
         "end_date": "6/25/2021",
         "date_origin": "tab",
@@ -5925,7 +5925,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Fate/Grand Order \uff5e6th Anniversary\uff5e Commemorative Campaign Summoning Campaign",
+        "name": "Fate/Grand Order \uff5e6th Anniversary\uff5e Commemorative Summoning Campaign",
         "start_date": "7/27/2021",
         "end_date": "8/1/2021",
         "date_origin": "tab",
@@ -5973,7 +5973,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Avalon le Fae Conclusion Campaign Summoning Campaign 1",
+        "name": "Avalon le Fae Conclusion Summoning Campaign 1",
         "start_date": "8/11/2021",
         "end_date": "8/25/2021",
         "date_origin": "tab",
@@ -6005,7 +6005,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Prisma Illya Licht Movie Release Campaign Summoning Campaign",
+        "name": "Prisma Illya Licht Movie Release Summoning Campaign",
         "start_date": "8/27/2021",
         "end_date": "9/10/2021",
         "date_origin": "tab",
@@ -6023,7 +6023,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Chaldea Summer Adventure Pre-Release Campaign Summoning Campaign",
+        "name": "Chaldea Summer Adventure Pre-Release Summoning Campaign",
         "start_date": "9/1/2021",
         "end_date": "9/8/2021",
         "date_origin": "tab",
@@ -6105,7 +6105,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "MELTY BLOOD: TYPE LUMINA Saber's Game Entry Commemorative Campaign Summoning Campaign",
+        "name": "MELTY BLOOD: TYPE LUMINA Saber's Game Entry Commemorative Summoning Campaign",
         "start_date": "9/30/2021",
         "end_date": "10/7/2021",
         "date_origin": "tab",
@@ -6151,7 +6151,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Fate/Grand Carnival 2nd Season Blu-ray&DVD Release Commemoration Campaign Summoning Campaign",
+        "name": "Fate/Grand Carnival 2nd Season Blu-ray&DVD Release Commemoration Summoning Campaign",
         "start_date": "10/12/2021",
         "end_date": "10/19/2021",
         "date_origin": "tab",
@@ -6196,7 +6196,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Fate/Apocrypha Blu-ray Disc Box&OST Release Commemorative Campaign Summoning Campaign",
+        "name": "Fate/Apocrypha Blu-ray Disc Box&OST Release Commemorative Summoning Campaign",
         "start_date": "10/27/2021",
         "end_date": "11/10/2021",
         "date_origin": "tab",
@@ -6493,7 +6493,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Valentine 2022 Pre-Release Campaign Summoning Campaign",
+        "name": "Valentine 2022 Pre-Release Summoning Campaign",
         "start_date": "2/2/2022",
         "end_date": "2/9/2022",
         "date_origin": "tab",
@@ -6626,7 +6626,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Road to 7: Lostbelt No.1 Campaign Summoning Campaign",
+        "name": "Road to 7: Lostbelt No.1 Summoning Campaign",
         "start_date": "3/9/2022",
         "end_date": "3/16/2022",
         "date_origin": "tab",
@@ -6676,7 +6676,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Road to 7: Lostbelt No.2 Campaign Summoning Campaign",
+        "name": "Road to 7: Lostbelt No.2 Summoning Campaign",
         "start_date": "3/30/2022",
         "end_date": "4/6/2022",
         "date_origin": "tab",
@@ -6882,7 +6882,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Road to 7: Lostbelt No.3 Campaign Summoning Campaign",
+        "name": "Road to 7: Lostbelt No.3 Summoning Campaign",
         "start_date": "6/22/2022",
         "end_date": "6/29/2022",
         "date_origin": "tab",
@@ -6947,7 +6947,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Main Interlude: \u014coku Release Campaign Summoning Campaign",
+        "name": "Main Interlude: \u014coku Release Summoning Campaign",
         "start_date": "7/13/2022",
         "end_date": "7/22/2022",
         "date_origin": "tab",
@@ -6966,7 +6966,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Fate/Grand Order \uff5e7th Anniversary\uff5e Countdown Campaign Summoning Campaign",
+        "name": "Fate/Grand Order \uff5e7th Anniversary\uff5e Countdown Summoning Campaign",
         "start_date": "7/21/2022",
         "end_date": "7/31/2022",
         "date_origin": "event header jp old",
@@ -7130,7 +7130,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Road to 7: Lostbelt No.4 Campaign Summoning Campaign",
+        "name": "Road to 7: Lostbelt No.4 Summoning Campaign",
         "start_date": "9/7/2022",
         "end_date": "9/14/2022",
         "date_origin": "tab",
@@ -7192,7 +7192,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Road to 7: Lostbelt No.5 -Atlantis- Campaign Summoning Campaign",
+        "name": "Road to 7: Lostbelt No.5 -Atlantis- Summoning Campaign",
         "start_date": "9/28/2022",
         "end_date": "10/5/2022",
         "date_origin": "tab",
@@ -7215,7 +7215,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Road to 7: Lostbelt No.5 -Olympus- Campaign Summoning Campaign",
+        "name": "Road to 7: Lostbelt No.5 -Olympus- Summoning Campaign",
         "start_date": "10/5/2022",
         "end_date": "10/14/2022",
         "date_origin": "tab",
@@ -7268,7 +7268,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Main Interlude: Imaginary Scramble Release Campaign Summoning Campaign",
+        "name": "Main Interlude: Imaginary Scramble Release Summoning Campaign",
         "start_date": "10/26/2022",
         "end_date": "11/4/2022",
         "date_origin": "tab",
@@ -7287,7 +7287,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Singularity Repair Support Campaign Summoning Campaign 1",
+        "name": "Singularity Repair Support Summoning Campaign 1",
         "start_date": "10/27/2022",
         "end_date": "10/31/2022",
         "date_origin": "tab",
@@ -7302,7 +7302,7 @@
         "num_rateups": 6
       },
       {
-        "name": "Singularity Repair Support Campaign Summoning Campaign 2",
+        "name": "Singularity Repair Support Summoning Campaign 2",
         "start_date": "10/31/2022",
         "end_date": "11/4/2022",
         "date_origin": "tab",
@@ -7317,7 +7317,7 @@
         "num_rateups": 6
       },
       {
-        "name": "Singularity Repair Support Campaign Summoning Campaign 3",
+        "name": "Singularity Repair Support Summoning Campaign 3",
         "start_date": "11/4/2022",
         "end_date": "11/6/2022",
         "date_origin": "tab",
@@ -7330,7 +7330,7 @@
         "num_rateups": 4
       },
       {
-        "name": "Singularity Repair Support Campaign Summoning Campaign 4",
+        "name": "Singularity Repair Support Summoning Campaign 4",
         "start_date": "11/6/2022",
         "end_date": "11/10/2022",
         "date_origin": "tab",
@@ -7345,7 +7345,7 @@
         "num_rateups": 6
       },
       {
-        "name": "Singularity Repair Support Campaign Summoning Campaign 6",
+        "name": "Singularity Repair Support Summoning Campaign 6",
         "start_date": "11/10/2022",
         "end_date": "11/12/2022",
         "date_origin": "tab",
@@ -7355,7 +7355,7 @@
         "num_rateups": 1
       },
       {
-        "name": "Singularity Repair Support Campaign Summoning Campaign 5",
+        "name": "Singularity Repair Support Summoning Campaign 5",
         "start_date": "11/12/2022",
         "end_date": "11/16/2022",
         "date_origin": "tab",
@@ -7370,7 +7370,7 @@
         "num_rateups": 6
       },
       {
-        "name": "Singularity Repair Support Campaign Summoning Campaign 7",
+        "name": "Singularity Repair Support Summoning Campaign 7",
         "start_date": "11/16/2022",
         "end_date": "11/18/2022",
         "date_origin": "tab",
@@ -7383,7 +7383,7 @@
         "num_rateups": 4
       },
       {
-        "name": "Singularity Repair Support Campaign Summoning Campaign 8",
+        "name": "Singularity Repair Support Summoning Campaign 8",
         "start_date": "11/18/2022",
         "end_date": "11/22/2022",
         "date_origin": "tab",
@@ -7398,7 +7398,7 @@
         "num_rateups": 6
       },
       {
-        "name": "Singularity Repair Support Campaign Summoning Campaign 9",
+        "name": "Singularity Repair Support Summoning Campaign 9",
         "start_date": "11/24/2022",
         "end_date": "11/29/2022",
         "date_origin": "tab",
@@ -7496,7 +7496,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Road to 7: Lostbelt No.6 Campaign Summoning Campaign",
+        "name": "Road to 7: Lostbelt No.6 Summoning Campaign",
         "start_date": "12/1/2022",
         "end_date": "12/23/2022",
         "date_origin": "tab",
@@ -7635,7 +7635,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Nahui Mictlan Lostbelt Part II Pre-Release Campaign Summoning Campaign 1",
+        "name": "Nahui Mictlan Lostbelt Part II Pre-Release Summoning Campaign 1",
         "start_date": "1/11/2023",
         "end_date": "1/18/2023",
         "date_origin": "event header jp new",
@@ -7646,7 +7646,7 @@
         "num_rateups": 2
       },
       {
-        "name": "Nahui Mictlan Lostbelt Part II Pre-Release Campaign Summoning Campaign 2",
+        "name": "Nahui Mictlan Lostbelt Part II Pre-Release Summoning Campaign 2",
         "start_date": "1/18/2023",
         "end_date": "2/1/2023",
         "date_origin": "event header jp new",
@@ -7778,7 +7778,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Tales of Chaldean Heavy Industries Summoning Part 2",
+        "name": "Chaldea Boys Collection 2023 Summoning Campaign 1",
         "start_date": "3/17/2023",
         "end_date": "4/7/2023",
         "date_origin": "event list",
@@ -7804,7 +7804,7 @@
         "num_rateups": 17
       },
       {
-        "name": "Tales of Chaldean Heavy Industries Summoning Campaign 2",
+        "name": "Chaldea Boys Collection 2023 Summoning Campaign 2",
         "start_date": "3/22/2023",
         "end_date": "4/7/2023",
         "date_origin": "event header jp new",
@@ -7815,7 +7815,7 @@
         "num_rateups": 2
       },
       {
-        "name": "Tales of Chaldean Heavy Industries Summoning Campaign 3",
+        "name": "Chaldea Boys Collection 2023 Summoning Campaign 3",
         "start_date": "3/24/2023",
         "end_date": "4/7/2023",
         "date_origin": "event header jp new",

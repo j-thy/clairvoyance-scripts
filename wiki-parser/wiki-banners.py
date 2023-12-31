@@ -338,6 +338,12 @@ BANNER_NAME_FIX = {
     r"Summoning Campaign III$" : "Summoning Campaign 3",
     r"Summoning Campaign IV$" : "Summoning Campaign 4",
     r"Summoning Campaign Summoning Campaign" : "Summoning Campaign",
+    r"Campaign Summoning Campaign" : "Summoning Campaign",
+    r"Tales of Chaldean Heavy Industries" : "Chaldea Boys Collection 2023",
+}
+
+BANNER_NAME_CHANGE = {
+    ("Tales of Chaldean Heavy Industries", "Chaldea Boys Collection 2023 Summoning Part 2") : "Chaldea Boys Collection 2023 Summoning Campaign 1",
 }
 
 FAKE_BANNERS = (
@@ -981,11 +987,11 @@ def remove_empty(event_set):
 
 # Fix events with multiple summoning campaigns but the first one is missing a number.
 def fix_banner_names(event_set):
-    # Check each event for banners with missing numbers.
+    # Check each event to apply fixes to banner names
     for event in event_set:
         # Get the list of banner titles.
         banner_titles = [banner.name for banner in event_set[event].banners]
-        # Check each banner title for missing numbers.
+        # Check each banner title
         for i, banner_title in enumerate(banner_titles):
             # Apply any explicitly defined fixes
             for original, replace in BANNER_NAME_FIX.items():
@@ -993,14 +999,33 @@ def fix_banner_names(event_set):
                 if substituted != banner_title:
                     event_set[event].banners[i].name = substituted
                     banner_title = substituted
+
+    # Check each event for banners with missing numbers.
+    for event in event_set:
+        # Get the list of banner titles.
+        banner_titles = [banner.name for banner in event_set[event].banners]
+        # Check each banner title for missing numbers.
+        for i, banner_title in enumerate(banner_titles):
             # If there is a second banner...
             if "Summoning Campaign 2" in banner_title:
                 # Check the ones before it
                 for j in range(max(i-1, 0), -1, -1):
                     # If it is missing a number, add the number to the end of it.
-                    if banner_titles[j].endswith("Summoning Campaign"):
+                    if banner_titles[j].endswith("Summoning Campaign")\
+                        and banner_titles[j].split("Summoning Campaign")[0].strip() == banner_title.split("Summoning Campaign")[0].strip():
                         event_set[event].banners[j].name += " 1"
                         break
+
+    # Apply any explicitly defined banner name changes
+    for event_banner, change in BANNER_NAME_CHANGE.items():
+        event, target_banner = event_banner
+        try:
+            for banner in event_set[event].banners:
+                if banner.name == target_banner:
+                    banner.name = change
+                    break
+        except KeyError:
+            pass
 
 def sort_banners(event_set):
     # Sort the banners by date.
@@ -1024,11 +1049,6 @@ if TESTING == 1:
 print("Parsing all events...")
 parse_event_lists()
 
-# Fix any banners with missing numbers.
-print("Fixing banner names...")
-fix_banner_names(EVENT_SET_JP)
-fix_banner_names(EVENT_SET_NA)
-
 # Merge events that are marked to be merged and delete the old events.
 print("Merging events...")
 merge_events(EVENT_SET_JP)
@@ -1043,6 +1063,11 @@ sort_banners(EVENT_SET_NA)
 print("Cleaning up empty events...")
 remove_empty(EVENT_SET_JP)
 remove_empty(EVENT_SET_NA)
+
+# Fix any banners with missing numbers.
+print("Fixing banner names...")
+fix_banner_names(EVENT_SET_JP)
+fix_banner_names(EVENT_SET_NA)
 
 # Create the JSON representation
 print("Creating JSON data...")
