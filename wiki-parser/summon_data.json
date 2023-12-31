@@ -223,7 +223,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Christmas 2015 |-|Summoning Campaign",
+        "name": "Christmas 2015 Summoning Campaign",
         "start_date": "12/16/2015",
         "end_date": "12/25/2015",
         "date_origin": "event list",
@@ -1681,7 +1681,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Dead Heat Summer Race! |-|Part I Summoning Campaign",
+        "name": "Dead Heat Summer Race! Part I Summoning Campaign",
         "start_date": "8/9/2017",
         "end_date": "9/1/2017",
         "date_origin": "event list",
@@ -1694,7 +1694,7 @@
         "num_rateups": 4
       },
       {
-        "name": "Dead Heat Summer Race! |-|Part II Summoning Campaign",
+        "name": "Dead Heat Summer Race! Part II Summoning Campaign",
         "start_date": "8/9/2017",
         "end_date": "9/1/2017",
         "date_origin": "event list",
@@ -2785,7 +2785,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Dead Heat Summer Race! Re-run |-|Part I Summoning Campaign",
+        "name": "Dead Heat Summer Race! Re-run Part I Summoning Campaign",
         "start_date": "6/27/2018",
         "end_date": "7/13/2018",
         "date_origin": "event list",
@@ -2798,7 +2798,7 @@
         "num_rateups": 4
       },
       {
-        "name": "Dead Heat Summer Race! Re-run |-|Part II Summoning Campaign",
+        "name": "Dead Heat Summer Race! Re-run Part II Summoning Campaign",
         "start_date": "6/27/2018",
         "end_date": "7/13/2018",
         "date_origin": "event list",
@@ -8110,7 +8110,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "28M Downloads Summoning Campaign |-|Summoning Campaign 1",
+        "name": "28M Downloads Summoning Campaign Summoning Campaign 1",
         "start_date": "6/28/2023",
         "end_date": "7/12/2023",
         "date_origin": "event header jp new",
@@ -8121,7 +8121,7 @@
         "num_rateups": 2
       },
       {
-        "name": "28M Downloads Summoning Campaign |-|Summoning Campaign 2",
+        "name": "28M Downloads Summoning Campaign Summoning Campaign 2",
         "start_date": "6/28/2023",
         "end_date": "7/12/2023",
         "date_origin": "event header jp new",
@@ -8132,7 +8132,7 @@
         "num_rateups": 2
       },
       {
-        "name": "28M Downloads Summoning Campaign |-|Summoning Campaign 3",
+        "name": "28M Downloads Summoning Campaign Summoning Campaign 3",
         "start_date": "6/28/2023",
         "end_date": "7/12/2023",
         "date_origin": "event header jp new",

@@ -332,6 +332,7 @@ CORRECT_DATES = {
 }
 
 BANNER_NAME_FIX = {
+    r"\|-\|" : "",
     r"Summoning Campaign I$" : "Summoning Campaign 1",
     r"Summoning Campaign II$" : "Summoning Campaign 2",
     r"Summoning Campaign III$" : "Summoning Campaign 3",
@@ -990,6 +991,7 @@ def fix_banner_names(event_set):
                 substituted = re.sub(original, replace, banner_title)
                 if substituted != banner_title:
                     event_set[event].banners[i].name = substituted
+                    banner_title = substituted
             # If there is a second banner...
             if "Summoning Campaign 2" in banner_title:
                 # Check the ones before it
