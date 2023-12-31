@@ -848,8 +848,13 @@ def rec_check_subpages(event_set, event_page, date, parent_title):
 
 # Parse test pages
 def parse_test():
-    page = pywikibot.Page(SITE, "File:Summer2022rerunbanner.png")
-    print(page.text)
+    file_name = "Christmas2023.png"
+    page = pywikibot.FilePage(SITE, file_name)
+    # If the directory "imgs" does not already exist, create it.
+    if not os.path.exists("imgs"):
+        os.makedirs("imgs")
+    test = page.download(filename=f'imgs/{file_name}.!')
+    print(page)
 
 # Parse events
 def parse_event_lists():
