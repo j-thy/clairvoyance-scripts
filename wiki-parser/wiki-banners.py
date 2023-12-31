@@ -331,6 +331,13 @@ CORRECT_DATES = {
     # 4M Downloads Campaign
 }
 
+BANNER_NAME_FIX = {
+    r"Summoning Campaign I$" : "Summoning Campaign 1",
+    r"Summoning Campaign II$" : "Summoning Campaign 2",
+    r"Summoning Campaign III$" : "Summoning Campaign 3",
+    r"Summoning Campaign IV$" : "Summoning Campaign 4",
+}
+
 FAKE_BANNERS = (
     "MELTY BLOOD: TYPE LUMINA Mashu's Game Entry Commemorative Campaign",
 )
@@ -978,6 +985,11 @@ def fix_banner_names(event_set):
         banner_titles = [banner.name for banner in event_set[event].banners]
         # Check each banner title for missing numbers.
         for i, banner_title in enumerate(banner_titles):
+            # Apply any explicitly defined fixes
+            for original, replace in BANNER_NAME_FIX.items():
+                substituted = re.sub(original, replace, banner_title)
+                if substituted != banner_title:
+                    event_set[event].banners[i].name = substituted
             # If there is a second banner...
             if "Summoning Campaign 2" in banner_title:
                 # Check the ones before it

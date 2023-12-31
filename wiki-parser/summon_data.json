@@ -8110,7 +8110,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "28M Downloads Summoning Campaign |-|Summoning Campaign I",
+        "name": "28M Downloads Summoning Campaign |-|Summoning Campaign 1",
         "start_date": "6/28/2023",
         "end_date": "7/12/2023",
         "date_origin": "event header jp new",
@@ -8121,7 +8121,7 @@
         "num_rateups": 2
       },
       {
-        "name": "28M Downloads Summoning Campaign |-|Summoning Campaign II",
+        "name": "28M Downloads Summoning Campaign |-|Summoning Campaign 2",
         "start_date": "6/28/2023",
         "end_date": "7/12/2023",
         "date_origin": "event header jp new",
@@ -8132,7 +8132,7 @@
         "num_rateups": 2
       },
       {
-        "name": "28M Downloads Summoning Campaign |-|Summoning Campaign III",
+        "name": "28M Downloads Summoning Campaign |-|Summoning Campaign 3",
         "start_date": "6/28/2023",
         "end_date": "7/12/2023",
         "date_origin": "event header jp new",
@@ -8254,7 +8254,7 @@
         "num_rateups": 2
       },
       {
-        "name": "Fate/Grand Order \uff5e8th Anniversary\uff5e Summoning Campaign I",
+        "name": "Fate/Grand Order \uff5e8th Anniversary\uff5e Summoning Campaign 1",
         "start_date": "7/30/2023",
         "end_date": "8/9/2023",
         "date_origin": "event header jp new",
@@ -8264,7 +8264,7 @@
         "num_rateups": 1
       },
       {
-        "name": "Fate/Grand Order \uff5e8th Anniversary\uff5e Summoning Campaign II",
+        "name": "Fate/Grand Order \uff5e8th Anniversary\uff5e Summoning Campaign 2",
         "start_date": "8/1/2023",
         "end_date": "8/10/2023",
         "date_origin": "event header jp new",
@@ -8293,7 +8293,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Servant Summer Festival! 2023 Summoning Campaign I",
+        "name": "Servant Summer Festival! 2023 Summoning Campaign 1",
         "start_date": "8/11/2023",
         "end_date": "9/1/2023",
         "date_origin": "event header jp new",
@@ -8305,7 +8305,7 @@
         "num_rateups": 3
       },
       {
-        "name": "Servant Summer Festival! 2023 Summoning Campaign II",
+        "name": "Servant Summer Festival! 2023 Summoning Campaign 2",
         "start_date": "8/11/2023",
         "end_date": "9/1/2023",
         "date_origin": "event header jp new",
@@ -8318,7 +8318,7 @@
         "num_rateups": 4
       },
       {
-        "name": "Servant Summer Festival! 2023 Summoning Campaign III",
+        "name": "Servant Summer Festival! 2023 Summoning Campaign 3",
         "start_date": "8/15/2023",
         "end_date": "9/1/2023",
         "date_origin": "event header jp new",
@@ -8330,7 +8330,7 @@
         "num_rateups": 3
       },
       {
-        "name": "Servant Summer Festival! 2023 Summoning Campaign IV",
+        "name": "Servant Summer Festival! 2023 Summoning Campaign 4",
         "start_date": "8/17/2023",
         "end_date": "9/1/2023",
         "date_origin": "event header jp new",
