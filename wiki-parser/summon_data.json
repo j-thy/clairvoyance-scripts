@@ -24,7 +24,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Fate/Stay Night Campaign",
+        "name": "Fate/Stay Night Summoning Campaign",
         "start_date": "9/9/2015",
         "end_date": "9/16/2015",
         "date_origin": "event list",
@@ -84,7 +84,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "4M Downloads Campaign",
+        "name": "4M Downloads Summoning Campaign",
         "start_date": "9/30/2015",
         "end_date": "10/16/2015",
         "date_origin": "event list",
@@ -104,7 +104,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Orleans Campaign",
+        "name": "Orleans Summoning Campaign",
         "start_date": "10/14/2015",
         "end_date": "10/21/2015",
         "date_origin": "event list",
@@ -204,7 +204,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Sc\u00e1thach Campaign",
+        "name": "Sc\u00e1thach Summoning Campaign",
         "start_date": "12/9/2015",
         "end_date": "12/16/2015",
         "date_origin": "event list",
@@ -318,7 +318,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "5M Downloads Campaign",
+        "name": "5M Downloads Summoning Campaign",
         "start_date": "2/3/2016",
         "end_date": "2/10/2016",
         "date_origin": "event list",
@@ -413,7 +413,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "AnimeJapan 2016 Exhibition Commemoration Campaign",
+        "name": "AnimeJapan 2016 Exhibition Commemoration Summoning Campaign",
         "start_date": "3/26/2016",
         "end_date": "3/28/2016",
         "date_origin": "event header jp old",
@@ -571,7 +571,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "6M Downloads Campaign",
+        "name": "6M Downloads Summoning Campaign",
         "start_date": "6/29/2016",
         "end_date": "7/6/2016",
         "date_origin": "event list",
@@ -867,7 +867,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "7M Downloads Campaign",
+        "name": "7M Downloads Summoning Campaign",
         "start_date": "10/5/2016",
         "end_date": "10/12/2016",
         "date_origin": "event header jp old",
@@ -920,7 +920,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Fate/EXTELLA Release Commemoration Campaign",
+        "name": "Fate/EXTELLA Release Commemoration Summoning Campaign",
         "start_date": "11/3/2016",
         "end_date": "11/9/2016",
         "date_origin": "event header jp old",
@@ -1165,7 +1165,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "8M Downloads Campaign",
+        "name": "8M Downloads Summoning Campaign",
         "start_date": "2/1/2017",
         "end_date": "2/8/2017",
         "date_origin": "event header jp old",
@@ -1505,7 +1505,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "9M Downloads Campaign",
+        "name": "9M Downloads Summoning Campaign",
         "start_date": "5/24/2017",
         "end_date": "6/2/2017",
         "date_origin": "event header jp old",
@@ -1643,7 +1643,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "FGO THE STAGE Performance Commemoration Campaign",
+        "name": "FGO THE STAGE Performance Commemoration Summoning Campaign",
         "start_date": "7/14/2017",
         "end_date": "7/17/2017",
         "date_origin": "event header jp old",
@@ -2056,7 +2056,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Fate/Apocrypha Anime Broadcast Commemoration Campaign",
+        "name": "Fate/Apocrypha Anime Broadcast Commemoration Summoning Campaign",
         "start_date": "11/8/2017",
         "end_date": "11/22/2017",
         "date_origin": "event list",
@@ -2099,7 +2099,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "11M Downloads Campaign",
+        "name": "11M Downloads Summoning Campaign",
         "start_date": "11/22/2017",
         "end_date": "11/29/2017",
         "date_origin": "event header jp old",
@@ -2231,7 +2231,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Fate/EXTRA Last Encore Anime Broadcast Commemoration Campaign",
+        "name": "Fate/EXTRA Last Encore Anime Broadcast Commemoration Summoning Campaign",
         "start_date": "1/28/2018",
         "end_date": "2/4/2018",
         "date_origin": "event header jp old",
@@ -2340,7 +2340,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "FGO THE STAGE Blu-ray&DVD Release Commemoration Campaign",
+        "name": "FGO THE STAGE Blu-ray&DVD Release Commemoration Summoning Campaign",
         "start_date": "2/26/2018",
         "end_date": "3/7/2018",
         "date_origin": "event header jp old",
@@ -3008,7 +3008,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Fate/Grand Order Memories Release Commemoration Campaign",
+        "name": "Fate/Grand Order Memories Release Commemoration Summoning Campaign",
         "start_date": "8/19/2018",
         "end_date": "9/2/2018",
         "date_origin": "event header jp old",
@@ -3325,7 +3325,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "FGO THE STAGE Babylonia Performance Commemoration Campaign",
+        "name": "FGO THE STAGE Babylonia Performance Commemoration Summoning Campaign",
         "start_date": "1/10/2019",
         "end_date": "1/24/2019",
         "date_origin": "event header jp old",
@@ -3342,7 +3342,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Fate/stay night Heaven's Feel II Premiere Commemoration Campaign",
+        "name": "Fate/stay night Heaven's Feel II Premiere Commemoration Summoning Campaign",
         "start_date": "1/11/2019",
         "end_date": "2/8/2019",
         "date_origin": "event header jp old",
@@ -7538,7 +7538,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dant\u00e8s Game Entry Commemorative Campaign",
+        "name": "MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dant\u00e8s Game Entry Commemorative Summoning Campaign",
         "start_date": "12/12/2022",
         "end_date": "12/19/2022",
         "date_origin": "event header jp old",
@@ -7555,7 +7555,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Fate/EXTRA Last Encore BD Standard Edition & OST Release Campaign",
+        "name": "Fate/EXTRA Last Encore BD Standard Edition & OST Release Summoning Campaign",
         "start_date": "12/14/2022",
         "end_date": "12/21/2022",
         "date_origin": "event header jp old",

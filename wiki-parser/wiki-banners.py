@@ -936,9 +936,9 @@ def parse_event_lists():
 
             # Get the end date string of each event
             ends = []
-            for i, x in enumerate(event_templates):
+            for i, event_template in enumerate(event_templates):
                 try:
-                    ends.append(x.get("end").value.strip())
+                    ends.append(event_template.get("end").value.strip())
                 # If the end date is missing, set the end date to the start date
                 except ValueError:
                     ends.append(starts[i])
@@ -1007,7 +1007,18 @@ def fix_banner_names(event_set):
     for event in event_set:
         # Get the list of banner titles.
         banner_titles = [banner.name for banner in event_set[event].banners]
-        # Check each banner title for missing numbers.
+
+        # Check each banner title for "Campaign" without "Summoning Campaign" and missing numbers 
+        for i, banner_title in enumerate(banner_titles):
+            # If the banner title ends with "Campaign" but not "Summoning Campaign"...
+            if banner_title.endswith("Campaign") and not banner_title.endswith("Summoning Campaign"):
+                # Add "Summoning " behind "Campaign".
+                event_set[event].banners[i].name = re.sub(r'Campaign$', 'Summoning Campaign', banner_title)
+
+        # Get the list of banner titles.
+        banner_titles = [banner.name for banner in event_set[event].banners]
+
+        # Check each banner title for "Campaign" without "Summoning Campaign" and missing numbers 
         for i, banner_title in enumerate(banner_titles):
             # If there is a second banner...
             if "Summoning Campaign 2" in banner_title:
@@ -1016,7 +1027,9 @@ def fix_banner_names(event_set):
                     # If it is missing a number, add the number to the end of it.
                     if banner_titles[j].endswith("Summoning Campaign")\
                         and banner_titles[j].split("Summoning Campaign")[0].strip() == banner_title.split("Summoning Campaign")[0].strip():
+                        # Add a '1' to the end of the banner name
                         event_set[event].banners[j].name += " 1"
+                        banner_titles[j] = event_set[event].banners[j].name
                         break
 
     # Apply any explicitly defined banner name changes
