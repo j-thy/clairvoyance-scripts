@@ -5233,7 +5233,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Christmas 2020 Summoning 1",
+        "name": "Christmas 2020 Summoning Campaign 1",
         "start_date": "12/16/2020",
         "end_date": "12/30/2020",
         "date_origin": "tab",
@@ -6167,7 +6167,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Halloween 2021 Event Summoning",
+        "name": "Halloween 2021 Event Summoning Campaign 1",
         "start_date": "10/20/2021",
         "end_date": "11/3/2021",
         "date_origin": "event header jp old",
@@ -6178,7 +6178,7 @@
         "num_rateups": 2
       },
       {
-        "name": "Halloween 2021 Event Summoning 2",
+        "name": "Halloween 2021 Event Summoning Campaign 2",
         "start_date": "10/22/2021",
         "end_date": "11/3/2021",
         "date_origin": "event header jp old",
@@ -7700,7 +7700,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Valentine 2023 Summoning",
+        "name": "Valentine 2023 Summoning Campaign",
         "start_date": "2/17/2023",
         "end_date": "3/10/2023",
         "date_origin": "tab",

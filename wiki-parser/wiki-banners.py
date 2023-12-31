@@ -333,6 +333,9 @@ CORRECT_DATES = {
 
 BANNER_NAME_FIX = {
     r"\|-\|" : "",
+    r"Summoning$" : "Summoning Campaign",
+    r"Summoning 1$" : "Summoning Campaign 1",
+    r"Summoning 2$" : "Summoning Campaign 2",
     r"Summoning Campaign I$" : "Summoning Campaign 1",
     r"Summoning Campaign II$" : "Summoning Campaign 2",
     r"Summoning Campaign III$" : "Summoning Campaign 3",
