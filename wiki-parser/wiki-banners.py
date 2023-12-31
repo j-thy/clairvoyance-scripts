@@ -1048,7 +1048,7 @@ def fix_banner_names(event_set):
 def sort_banners(event_set):
     # Sort the banners by date.
     for event in event_set:
-        event_set[event].banners = sorted(event_set[event].banners, key=lambda banner: (banner.start_date, banner.end_date))
+        event_set[event].banners = sorted(event_set[event].banners, key=lambda banner: banner.start_date)
 
 def merge_events(event_set):
     # Merge events that are marked to be merged and delete the old events.

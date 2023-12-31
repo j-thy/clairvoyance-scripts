@@ -7098,6 +7098,17 @@
     "region": "JP",
     "banners": [
       {
+        "name": "26M Downloads Summoning Campaign 1",
+        "start_date": "8/31/2022",
+        "end_date": "9/14/2022",
+        "date_origin": "tab",
+        "rateups": {
+          "268": "Space Ishtar",
+          "269": "Calamity Jane"
+        },
+        "num_rateups": 2
+      },
+      {
         "name": "26M Downloads Summoning Campaign 2",
         "start_date": "8/31/2022",
         "end_date": "9/12/2022",
@@ -7111,17 +7122,6 @@
           "299": "Ibuki D\u014dji"
         },
         "num_rateups": 6
-      },
-      {
-        "name": "26M Downloads Summoning Campaign 1",
-        "start_date": "8/31/2022",
-        "end_date": "9/14/2022",
-        "date_origin": "tab",
-        "rateups": {
-          "268": "Space Ishtar",
-          "269": "Calamity Jane"
-        },
-        "num_rateups": 2
       }
     ]
   },
