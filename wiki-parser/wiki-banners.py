@@ -293,7 +293,7 @@ SKIP_DATES = {
 }
 
 CORRECT_DATES = {
-    # MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dantès Game Entry Commemorative Campaign
+    # MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dantès Game Entry Commemorative Campaign -> End: 12/17/22
     # Christmas 2019 Re-Run
     # 19M Downloads Campaign
     # Servant Summer Festival! 2018 Rerun (maybe regex fix)
@@ -347,6 +347,8 @@ BANNER_NAME_FIX = {
 
 BANNER_NAME_CHANGE = {
     ("Tales of Chaldean Heavy Industries", "Chaldea Boys Collection 2023 Summoning Part 2") : "Chaldea Boys Collection 2023 Summoning Campaign 1",
+    ("Singularity Repair Support Campaign", "Singularity Repair Support Summoning Campaign 7") : "Singularity Repair Support Summoning Campaign 6",
+    ("Singularity Repair Support Campaign", "Singularity Repair Support Summoning Campaign 6") : "Singularity Repair Support Summoning Campaign 7",
 }
 
 FAKE_BANNERS = (
