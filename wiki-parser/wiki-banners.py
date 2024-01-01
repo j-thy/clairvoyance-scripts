@@ -220,6 +220,7 @@ MERGE_EVENTS_INTO = {
     "CBC 2016 ~ 2019 Craft Essences Summoning Campaign" : "Aeaean Spring Breeze",
     "Lord El-Melloi II Case Files Collaboration Pre-campaign" : "Lady Reines Case Files",
     "Valentine 2018 Summoning Campaign Re-Run" : "Valentine 2019",
+    "Valentine 2017 Summoning Campaign Re-Run" : "Valentine 2018",
 }
 
 INCLUDE_SUBPAGES = {
@@ -285,14 +286,15 @@ CORRECT_DATES = {
     # Chaldea Boys Collection 2020 Summoning Campaign -> End: 3/20/20
     # 19M Downloads Campaign -> End: 3/11/2020
     # Fate/stay night Heaven's Feel II Premiere Commemoration Summoning Campaign -> End: 1/25/19
-    # Christmas 2017 Event Re-Run -> 11/28/2018
-    # Interlude Campaign 7 -> 10/31/2018
-    # 14M Downloads Campaign -> 9/12/2018
-    # Servant Summer Festival! 2018 Summoning Campaign 3 -> Start: 8/16/2018
-    # Dead Heat Summer Race! Re-run
-    # GUDAGUDA Meiji Ishin Re-run
-    # Chaldea Boys Collection 2018
-    # Kara no Kyoukai Collaboration Event Re-run
+    # Christmas 2017 Event Re-Run -> End: 11/28/18
+    # Interlude Campaign 7 -> End: 10/31/18
+    # 14M Downloads Campaign -> End: 9/12/18
+    # Servant Summer Festival! 2018 Summoning Campaign 3 -> Start: 8/16/18
+    # Dead Heat Summer Race! Re-run Daily Special Summoning Campaign -> Start: 7/6/18
+    # Dead Heat Summer Race! Re-run Summoning Campaign 2 -> Start: 7/4/18
+    # GUDAGUDA Meiji Ishin Re-run -> End: 6/1/18
+    # Chaldea Boys Collection 2018 -> End: 3/21/18
+    # Kara no Kyoukai Collaboration Event Re-run -> End: 3/1/18
     # Fate/EXTRA Last Encore Anime Broadcast Commemoration Campaign
     # Da Vinci and The 7 Counterfeit Heroic Spirits Rerun Lite Ver
     # 11M Downloads Campaign (maybe regex edit)
