@@ -276,7 +276,7 @@ SKIP_DATES = {
 
 CORRECT_DATES = {
     # MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dantès Game Entry Commemorative Campaign -> End: 12/17/22
-    # Christmas 2019 Re-Run
+    # Christmas 2019 Re-Run -> End: 11/6/19
     # 19M Downloads Campaign
     # Servant Summer Festival! 2018 Rerun (maybe regex fix)
     # Christmas 2017 Event Re-Run
@@ -336,6 +336,7 @@ BANNER_NAME_CHANGE = (
     ("GUDAGUDA Yamatai-koku 2020 Rerun", "GUDAGUDA Yamatai-koku 2020 Rerun", "GUDAGUDA Yamatai-koku 2020 Rerun FP Summoning Campaign"),
     ("Avalon le Fae Chapter Release Part 2", "Avalon le Fae Chapter Release Part 2 Summoning Campaign 3", "Avalon le Fae Chapter Release Part 2 Summoning Campaign"),
     ("Slapstick Museum", "Chaldea Boys Collection 2021 Summoning Campaign", "Chaldea Boys Collection 2021 Summoning Campaign 1 & 2"),
+    ("Christmas 2019 Re-Run", "Christmas 2019 Re-Run", "Christmas 2019 Re-Run Summoning Campaign"),
 )
 
 FAKE_BANNERS = (
