@@ -1023,6 +1023,19 @@ def fix_banner_names(event_set):
 
         # Check each banner title for "Campaign" without "Summoning Campaign" and missing numbers 
         for i, banner_title in enumerate(banner_titles):
+            # If the banner title ends with "Summoning Campaign 1" but there's no "Summoning Campaign 2" after it...
+            if "Summoning Campaign 1" in banner_title:
+                # Check the ones after it
+                second_summon_found = False
+                for j in range(i+1, len(banner_titles)):
+                    # If a second campaign is found, don't remove the 1
+                    if "Summoning Campaign 2" in banner_titles[j]:
+                        second_summon_found = True
+                        break
+                # Otherwise, remove the 1
+                if not second_summon_found:
+                    event_set[event].banners[i].name = re.sub(r'Summoning Campaign 1', 'Summoning Campaign', banner_title)
+
             # If there is a second banner...
             if "Summoning Campaign 2" in banner_title:
                 # Check the ones before it
