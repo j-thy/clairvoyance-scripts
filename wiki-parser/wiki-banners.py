@@ -178,6 +178,7 @@ SUBPAGE_TITLE_REPLACE = (
     "/Summoning",
     "/Summon",
     "/FP",
+    "/Merlin",
 )
 
 # Pages that should not be parsed nor merged into.
