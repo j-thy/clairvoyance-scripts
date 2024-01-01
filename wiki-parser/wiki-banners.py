@@ -337,6 +337,8 @@ BANNER_NAME_CHANGE = (
     ("Avalon le Fae Chapter Release Part 2", "Avalon le Fae Chapter Release Part 2 Summoning Campaign 3", "Avalon le Fae Chapter Release Part 2 Summoning Campaign"),
     ("Slapstick Museum", "Chaldea Boys Collection 2021 Summoning Campaign", "Chaldea Boys Collection 2021 Summoning Campaign 1 & 2"),
     ("Christmas 2019 Re-Run", "Christmas 2019 Re-Run", "Christmas 2019 Re-Run Summoning Campaign"),
+    ("GUDAGUDA Yamatai-koku 2020", "GUDAGUDA Yamatai-koku 2020", "GUDAGUDA Yamatai-koku 2020 Summoning Campaign"),
+    ("GUDAGUDA Yamatai-koku 2020", "GUDAGUDA Yamatai-koku 2020", "GUDAGUDA Yamatai-koku 2020 FP Summoning Campaign"),
 )
 
 FAKE_BANNERS = (
