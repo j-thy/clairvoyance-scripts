@@ -2261,18 +2261,18 @@
           "8": "Altera",
           "59": "Jeanne d'Arc",
           "60": "Orion",
-          "76": "Mordred",
-          "97": "Nightingale",
-          "119": "Artoria Pendragon (Lancer)",
-          "199": "Semiramis",
           "62": "Tamamo no Mae",
           "65": "Francis Drake",
           "75": "Jack the Ripper",
+          "76": "Mordred",
+          "97": "Nightingale",
           "99": "Queen Medb",
           "113": "Xuanzang Sanzang",
+          "119": "Artoria Pendragon (Lancer)",
           "144": "Quetzalcoatl",
           "169": "Scheherazade",
-          "189": "Osakabehime"
+          "189": "Osakabehime",
+          "199": "Semiramis"
         },
         "num_rateups": 16
       }
@@ -4403,10 +4403,10 @@
         "end_date": "12/31/2019",
         "date_origin": "tab",
         "rateups": {
+          "185": "Mochizuki Chiyome",
           "272": "Super Orion",
           "273": "Mandricardo",
-          "274": "Europa",
-          "185": "Mochizuki Chiyome"
+          "274": "Europa"
         },
         "num_rateups": 4
       },
@@ -4596,7 +4596,6 @@
         "end_date": "3/16/2020",
         "date_origin": "event header jp old",
         "rateups": {
-          "277": "Odysseus",
           "37": "Zhuge Liang (Lord El-Melloi II)",
           "52": "Vlad III",
           "77": "Nikola Tesla",
@@ -4609,7 +4608,8 @@
           "206": "Achilles",
           "212": "Napol\u00e9on",
           "226": "Xiang Yu",
-          "235": "Li Shuwen"
+          "235": "Li Shuwen",
+          "277": "Odysseus"
         },
         "num_rateups": 14
       }
@@ -5359,7 +5359,6 @@
         "end_date": "2/24/2021",
         "date_origin": "event header jp old",
         "rateups": {
-          "305": "Amor (Caren)",
           "2": "Artoria Pendragon",
           "8": "Altera",
           "59": "Jeanne d'Arc",
@@ -5381,7 +5380,8 @@
           "244": "Jinako Carigiri",
           "274": "Europa",
           "278": "Dioscuri",
-          "300": "Vritra"
+          "300": "Vritra",
+          "305": "Amor (Caren)"
         },
         "num_rateups": 23
       }
@@ -5490,52 +5490,6 @@
           "18": "Elizabeth B\u00e1thory",
           "20": "C\u00fa Chulainn (Prototype)",
           "22": "Romulus",
-          "60": "Orion",
-          "63": "David",
-          "64": "Hector",
-          "71": "Diarmuid Ua Duibhne",
-          "72": "Fergus mac R\u00f3ich",
-          "76": "Mordred",
-          "77": "Nikola Tesla",
-          "78": "Artoria Pendragon (Lancer Alter)",
-          "84": "Arjuna",
-          "85": "Karna",
-          "87": "Fionn mac Cumhaill",
-          "95": "Kid Gil",
-          "101": "Rama",
-          "102": "Li Shuwen (Lancer)",
-          "105": "Billy the Kid",
-          "119": "Artoria Pendragon (Lancer)",
-          "121": "Lancelot (Saber)",
-          "122": "Tristan",
-          "123": "Gawain",
-          "125": "Tawara T\u014dta",
-          "126": "Bedivere",
-          "140": "Vlad III (EXTRA)",
-          "143": "Enkidu",
-          "146": "Medusa (Lancer)",
-          "148": "Jaguar Man",
-          "157": "EMIYA (Alter)",
-          "165": "Suzuka Gozen",
-          "183": "Parvati",
-          "184": "Tomoe Gozen",
-          "186": "H\u014dz\u014din Inshun",
-          "187": "Yagy\u016b Munenori",
-          "193": "Nezha",
-          "207": "Chiron",
-          "212": "Napol\u00e9on",
-          "214": "Valkyrie",
-          "223": "Diarmuid Ua Duibhne (Saber)",
-          "227": "Lanling Wang",
-          "228": "Qin Liangyu",
-          "232": "Bradamante",
-          "245": "Lakshmibai",
-          "246": "William Tell",
-          "248": "A\u015bvatth\u0101man",
-          "278": "Dioscuri",
-          "279": "Caenis",
-          "298": "Watanabe no Tsuna",
-          "300": "Vritra",
           "23": "Medusa",
           "26": "Boudica",
           "27": "Ushiwakamaru",
@@ -5557,64 +5511,110 @@
           "55": "Darius III",
           "56": "Kiyohime",
           "58": "Tamamo Cat",
+          "59": "Jeanne d'Arc",
+          "60": "Orion",
           "62": "Tamamo no Mae",
+          "63": "David",
+          "64": "Hector",
           "65": "Francis Drake",
           "66": "Anne Bonny & Mary Read",
           "67": "Medea (Lily)",
+          "71": "Diarmuid Ua Duibhne",
+          "72": "Fergus mac R\u00f3ich",
           "74": "Nursery Rhyme",
           "75": "Jack the Ripper",
+          "76": "Mordred",
+          "77": "Nikola Tesla",
+          "78": "Artoria Pendragon (Lancer Alter)",
           "79": "Paracelsus von Hohenheim",
           "80": "Charles Babbage",
           "81": "Henry Jekyll & Hyde",
           "82": "Frankenstein",
+          "84": "Arjuna",
+          "85": "Karna",
+          "87": "Fionn mac Cumhaill",
           "89": "Beowulf",
           "94": "Astolfo",
+          "95": "Kid Gil",
           "97": "Nightingale",
           "98": "C\u00fa Chulainn (Alter)",
           "99": "Queen Medb",
           "100": "Helena Blavatsky",
+          "101": "Rama",
+          "102": "Li Shuwen (Lancer)",
           "103": "Thomas Edison",
           "104": "Geronimo",
+          "105": "Billy the Kid",
           "109": "EMIYA (Assassin)",
           "110": "Hassan of the Hundred Faces",
           "113": "Xuanzang Sanzang",
           "116": "Ibaraki D\u014dji",
           "117": "F\u016bma Kotar\u014d",
           "118": "Ozymandias",
+          "119": "Artoria Pendragon (Lancer)",
           "120": "Nitocris",
+          "121": "Lancelot (Saber)",
+          "122": "Tristan",
+          "123": "Gawain",
           "124": "Hassan of the Serenity",
+          "125": "Tawara T\u014dta",
+          "126": "Bedivere",
+          "140": "Vlad III (EXTRA)",
+          "143": "Enkidu",
           "144": "Quetzalcoatl",
           "145": "Gilgamesh (Caster)",
+          "146": "Medusa (Lancer)",
+          "147": "Gorgon",
+          "148": "Jaguar Man",
+          "157": "EMIYA (Alter)",
+          "158": "Hessian Lobo",
           "159": "Yan Qing",
+          "165": "Suzuka Gozen",
           "169": "Scheherazade",
           "170": "Wu Zetian",
           "171": "Penthesilea",
           "172": "Christopher Columbus",
+          "183": "Parvati",
+          "184": "Tomoe Gozen",
           "185": "Mochizuki Chiyome",
+          "186": "H\u014dz\u014din Inshun",
+          "187": "Yagy\u016b Munenori",
           "188": "Kat\u014d Danz\u014d",
           "189": "Osakabehime",
           "192": "Circe",
+          "193": "Nezha",
           "194": "Queen of Sheba",
           "201": "Anastasia",
           "202": "Atalanta (Alter)",
           "203": "Avicebron",
+          "204": "Antonio Salieri",
           "206": "Achilles",
+          "207": "Chiron",
+          "212": "Napol\u00e9on",
+          "214": "Valkyrie",
+          "223": "Diarmuid Ua Duibhne (Saber)",
+          "224": "Sitonai",
           "226": "Xiang Yu",
+          "227": "Lanling Wang",
+          "228": "Qin Liangyu",
           "230": "Consort Yu",
           "231": "Red Hare",
+          "232": "Bradamante",
           "235": "Li Shuwen",
+          "242": "Astraea",
+          "244": "Jinako Carigiri",
+          "245": "Lakshmibai",
+          "246": "William Tell",
+          "248": "A\u015bvatth\u0101man",
           "249": "Asclepius",
           "273": "Mandricardo",
           "274": "Europa",
           "277": "Odysseus",
+          "278": "Dioscuri",
+          "279": "Caenis",
           "296": "Nemo",
-          "59": "Jeanne d'Arc",
-          "147": "Gorgon",
-          "158": "Hessian Lobo",
-          "204": "Antonio Salieri",
-          "224": "Sitonai",
-          "242": "Astraea",
-          "244": "Jinako Carigiri"
+          "298": "Watanabe no Tsuna",
+          "300": "Vritra"
         },
         "num_rateups": 141
       },
@@ -5624,9 +5624,9 @@
         "end_date": "4/7/2021",
         "date_origin": "tab",
         "rateups": {
-          "306": "Galatea",
           "90": "Nero Claudius (Bride)",
-          "189": "Osakabehime"
+          "189": "Osakabehime",
+          "306": "Galatea"
         },
         "num_rateups": 3
       }
@@ -5826,10 +5826,10 @@
         "end_date": "6/25/2021",
         "date_origin": "tab",
         "rateups": {
+          "38": "C\u00fa Chulainn (Caster)",
           "309": "Morgan",
           "310": "Barghest",
-          "311": "Baobhan Sith",
-          "38": "C\u00fa Chulainn (Caster)"
+          "311": "Baobhan Sith"
         },
         "num_rateups": 4
       },
@@ -5922,7 +5922,6 @@
         "end_date": "8/15/2021",
         "date_origin": "event header jp old",
         "rateups": {
-          "314": "Koyanskaya of Light",
           "201": "Anastasia",
           "202": "Atalanta (Alter)",
           "203": "Avicebron",
@@ -5944,7 +5943,8 @@
           "273": "Mandricardo",
           "274": "Europa",
           "278": "Dioscuri",
-          "279": "Caenis"
+          "279": "Caenis",
+          "314": "Koyanskaya of Light"
         },
         "num_rateups": 23
       }
@@ -5960,11 +5960,11 @@
         "end_date": "8/25/2021",
         "date_origin": "tab",
         "rateups": {
-          "316": "Oberon",
           "122": "Tristan",
           "123": "Gawain",
           "310": "Barghest",
-          "311": "Baobhan Sith"
+          "311": "Baobhan Sith",
+          "316": "Oberon"
         },
         "num_rateups": 5
       },
@@ -6113,6 +6113,7 @@
           "18": "Elizabeth B\u00e1thory",
           "46": "Carmilla",
           "52": "Vlad III",
+          "56": "Kiyohime",
           "58": "Tamamo Cat",
           "116": "Ibaraki D\u014dji",
           "120": "Nitocris",
@@ -6121,8 +6122,7 @@
           "159": "Yan Qing",
           "170": "Wu Zetian",
           "171": "Penthesilea",
-          "189": "Osakabehime",
-          "56": "Kiyohime"
+          "189": "Osakabehime"
         },
         "num_rateups": 15
       }
@@ -6494,7 +6494,6 @@
         "end_date": "2/23/2022",
         "date_origin": "tab",
         "rateups": {
-          "336": "Manann\u00e1n mac Lir (Bazett)",
           "2": "Artoria Pendragon",
           "8": "Altera",
           "59": "Jeanne d'Arc",
@@ -6517,7 +6516,8 @@
           "274": "Europa",
           "278": "Dioscuri",
           "300": "Vritra",
-          "306": "Galatea"
+          "306": "Galatea",
+          "336": "Manann\u00e1n mac Lir (Bazett)"
         },
         "num_rateups": 24
       },
@@ -7590,20 +7590,20 @@
         "date_origin": "event header jp old",
         "rateups": {
           "12": "Gilgamesh",
-          "234": "Beni-Enma",
-          "238": "Kingprotea",
-          "241": "Sima Yi (Reines)",
-          "270": "Astolfo (Saber)",
-          "305": "Amor (Caren)",
-          "334": "Koyanskaya of Darkness",
-          "369": "Grigori Rasputin",
           "164": "Passionlip",
           "177": "Nitocris (Assassin)",
           "200": "Asagami Fujino",
           "222": "Mysterious Heroine XX",
+          "234": "Beni-Enma",
           "236": "Miyu Edelfelt",
+          "238": "Kingprotea",
+          "241": "Sima Yi (Reines)",
+          "270": "Astolfo (Saber)",
           "282": "Kijyo K\u014dy\u014d",
-          "347": "Don Quixote"
+          "305": "Amor (Caren)",
+          "334": "Koyanskaya of Darkness",
+          "347": "Don Quixote",
+          "369": "Grigori Rasputin"
         },
         "num_rateups": 15
       }
@@ -7684,7 +7684,6 @@
         "end_date": "3/10/2023",
         "date_origin": "tab",
         "rateups": {
-          "374": "Popess Johanna",
           "2": "Artoria Pendragon",
           "8": "Altera",
           "59": "Jeanne d'Arc",
@@ -7708,7 +7707,8 @@
           "278": "Dioscuri",
           "300": "Vritra",
           "306": "Galatea",
-          "370": "Nitocris (Alter)"
+          "370": "Nitocris (Alter)",
+          "374": "Popess Johanna"
         },
         "num_rateups": 25
       },
@@ -7762,7 +7762,6 @@
         "end_date": "4/7/2023",
         "date_origin": "event list",
         "rateups": {
-          "375": "Takasugi Shinsaku",
           "52": "Vlad III",
           "64": "Hector",
           "77": "Nikola Tesla",
@@ -7778,7 +7777,8 @@
           "278": "Dioscuri",
           "296": "Nemo",
           "331": "Taigong Wang",
-          "350": "Minamoto no Tametomo"
+          "350": "Minamoto no Tametomo",
+          "375": "Takasugi Shinsaku"
         },
         "num_rateups": 17
       },

@@ -574,6 +574,8 @@ def parse(event_set, page, duration, parent=None):
                              and not (title in NO_MERGE and num_parsed in NO_MERGE[title]))):
                     # Merge the new banner into the previous one.
                     rateups[-2].update(rateups[-1])
+                    # Sort the servants by ID.
+                    rateups[-2] = dict(sorted(rateups[-2].items()))
                     # Remove the new banner since it's been merged into the previous one.
                     del rateups[-1]
 
@@ -584,6 +586,8 @@ def parse(event_set, page, duration, parent=None):
                         and title not in NO_MERGE:
                         # Merge the new banner into the previous one.
                         rateups[-2].update(rateups[-1])
+                        # Sort the servants by ID.
+                        rateups[-2] = dict(sorted(rateups[-2].items()))
                         # Remove the new banner since it's been merged into the previous one
                         del rateups[-1]
 
@@ -603,6 +607,8 @@ def parse(event_set, page, duration, parent=None):
             rateup_servants = parse_wikilinks(links)
             # If rateup servants were found...
             if rateup_servants:
+                # Sort the servants by ID.
+                rateup_servants = dict(sorted(rateup_servants.items()))
                 # Append the rateup to the start of the rateups list.
                 rateups.insert(0, rateup_servants)
 
@@ -632,6 +638,8 @@ def parse(event_set, page, duration, parent=None):
                 rateup_servants = parse_wikilinks(links)
                 # If rateup servants were found...
                 if rateup_servants:
+                    # Sort the servants by ID.
+                    rateup_servants = dict(sorted(rateup_servants.items()))
                     # Append the rateup to the start of the rateups list (since the page is parsed backwards).
                     rateups.insert(0, rateup_servants)
 
