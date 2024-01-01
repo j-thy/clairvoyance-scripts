@@ -350,6 +350,7 @@ BANNER_NAME_CHANGE = (
     ("Interlude Campaign 3", "Interlude Campaign 3", "Interlude Campaign 3 Summoning Campaign"),
     ("Shimosa Chapter Release", "Shimosa Chapter Release", "Shimosa Chapter Release Summoning Campaign"),
     ("Agartha Chapter Release", "Agartha Chapter Release", "Agartha Chapter Release Summoning Campaign"),
+    ("Main Quest 1/2 AP + Shinjuku Summoning Campaign", "Main Quest 1/2 AP + Shinjuku Summoning Campaign", "Shinjuku Summoning Campaign"),
 )
 
 FAKE_BANNERS = (
