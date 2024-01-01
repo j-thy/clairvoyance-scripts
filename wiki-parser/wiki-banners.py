@@ -344,6 +344,7 @@ BANNER_NAME_FIX = {
     r"Summoning Campaign Summoning Campaign" : "Summoning Campaign",
     r"Campaign Summoning Campaign" : "Summoning Campaign",
     r"Tales of Chaldean Heavy Industries" : "Chaldea Boys Collection 2023",
+    r"White Day 2022" : "Chaldea Boys Collection 2022 / White Day 2022",
 }
 
 BANNER_NAME_CHANGE = {
