@@ -295,8 +295,8 @@ CORRECT_DATES = {
     # GUDAGUDA Meiji Ishin Re-run -> End: 6/1/18
     # Chaldea Boys Collection 2018 -> End: 3/21/18
     # Kara no Kyoukai Collaboration Event Re-run -> End: 3/1/18
-    # Fate/EXTRA Last Encore Anime Broadcast Commemoration Campaign
-    # Da Vinci and The 7 Counterfeit Heroic Spirits Rerun Lite Ver
+    # Fate/EXTRA Last Encore Anime Broadcast Commemoration Campaign -> End: 2/11/18
+    # Da Vinci and The 7 Counterfeit Heroic Spirits Rerun Lite Ver -> End: 1/24/18
     # 11M Downloads Campaign (maybe regex edit)
     # Christmas 2016 Event Re-run
     # Halloween 2017 Event
@@ -356,6 +356,7 @@ FAKE_BANNERS = (
     "F/GO Memories III Release Commemoration Summoning Campaign",
     "F/GO Memories II Release Commemoration Campaign",
     "F/GO Memories II Release Commemoration Campaign Summoning Campaign",
+    "Fate/Grand Order VR feat. Mashu Release Commemoration Campaign",
 )
 
 ADD_EMPTY_ENTRY = (
