@@ -303,9 +303,10 @@ CORRECT_DATES = {
     # Dead Heat Summer Race! Daily Special Summoning Campaign -> Start: 8/24/17
     # Dead Heat Summer Race! Summoning Campaign 2 -> Start: 8/16/17
     # FGO 2016 Summer Event Re-Run Summoning Campaign 2 -> Start: 7/20/17
-    # Rashomon Event Rerun
-    # 9M Downloads Campaign
-    # SE.RA.PH
+    # Rashomon Event Rerun -> End: 6/14/17
+    # 9M Downloads Campaign -> End: 6/7/17
+    # SE.RA.PH Summoning Campaign 2 -> Start: 5/10/2017
+    # Fate/EXTRA CCC×Fate/Grand Order -> End: 5/3/2017
     # Valentine 2016 Event Re-Run
     # Moon Goddess Event Re-Run
     # Solomon Chapter Release
@@ -351,6 +352,7 @@ BANNER_NAME_CHANGE = (
     ("Shimosa Chapter Release", "Shimosa Chapter Release", "Shimosa Chapter Release Summoning Campaign"),
     ("Agartha Chapter Release", "Agartha Chapter Release", "Agartha Chapter Release Summoning Campaign"),
     ("Main Quest 1/2 AP + Shinjuku Summoning Campaign", "Main Quest 1/2 AP + Shinjuku Summoning Campaign", "Shinjuku Summoning Campaign"),
+    ("Chaldea Boys Collection 2017", "Chaldea Boys Collection 2017", "Chaldea Boys Collection 2017 Summoning Campaign"),
 )
 
 FAKE_BANNERS = (
