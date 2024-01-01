@@ -323,6 +323,8 @@ BANNER_NAME_FIX = {
     r"Summoning$" : "Summoning Campaign",
     r"Summoning 1$" : "Summoning Campaign 1",
     r"Summoning 2$" : "Summoning Campaign 2",
+    r"Part I Summoning Campaign" : "Summoning Campaign 1",
+    r"Part II Summoning Campaign" : "Summoning Campaign 2",
     r"Summoning Campaign I$" : "Summoning Campaign 1",
     r"Summoning Campaign II$" : "Summoning Campaign 2",
     r"Summoning Campaign III$" : "Summoning Campaign 3",

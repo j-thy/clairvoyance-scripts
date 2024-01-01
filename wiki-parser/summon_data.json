@@ -1612,7 +1612,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "FGO 2016 Summer Event Re-Run Part I Summoning Campaign",
+        "name": "FGO 2016 Summer Event Re-Run Summoning Campaign 1",
         "start_date": "7/12/2017",
         "end_date": "7/29/2017",
         "date_origin": "event list",
@@ -1625,7 +1625,7 @@
         "num_rateups": 4
       },
       {
-        "name": "FGO 2016 Summer Event Re-Run Part II Summoning Campaign",
+        "name": "FGO 2016 Summer Event Re-Run Summoning Campaign 2",
         "start_date": "7/12/2017",
         "end_date": "7/29/2017",
         "date_origin": "event list",
@@ -1681,7 +1681,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Dead Heat Summer Race! Part I Summoning Campaign",
+        "name": "Dead Heat Summer Race! Summoning Campaign 1",
         "start_date": "8/9/2017",
         "end_date": "9/1/2017",
         "date_origin": "event list",
@@ -1694,7 +1694,7 @@
         "num_rateups": 4
       },
       {
-        "name": "Dead Heat Summer Race! Part II Summoning Campaign",
+        "name": "Dead Heat Summer Race! Summoning Campaign 2",
         "start_date": "8/9/2017",
         "end_date": "9/1/2017",
         "date_origin": "event list",
@@ -2785,7 +2785,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Dead Heat Summer Race! Re-run Part I Summoning Campaign",
+        "name": "Dead Heat Summer Race! Re-run Summoning Campaign 1",
         "start_date": "6/27/2018",
         "end_date": "7/13/2018",
         "date_origin": "event list",
@@ -2798,7 +2798,7 @@
         "num_rateups": 4
       },
       {
-        "name": "Dead Heat Summer Race! Re-run Part II Summoning Campaign",
+        "name": "Dead Heat Summer Race! Re-run Summoning Campaign 2",
         "start_date": "6/27/2018",
         "end_date": "7/13/2018",
         "date_origin": "event list",
