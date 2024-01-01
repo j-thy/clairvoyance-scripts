@@ -211,6 +211,7 @@ MERGE_EVENTS_INTO = {
     "Götterdämmerung Lostbelt Pre-Release Campaign" : "Götterdämmerung Chapter Release",
     "Fate/Accel Zero Order (Pre-Event)" : "Fate/Accel Zero Order Event",
     "Summer 2021 Summoning Campaign Rerun" : "Arctic Summer World",
+    "Valentine 2021 Summoning Campaign Rerun" : "Valentine 2022",
 }
 
 INCLUDE_SUBPAGES = {
