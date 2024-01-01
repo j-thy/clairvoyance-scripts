@@ -236,28 +236,6 @@ TEST_PAGES = (
     "Fate/Apocrypha Collaboration Event Revival (US)/Summoning Campaign",
 )
 
-# List of Event Pages. TODO: Can probably replace later with just parsing event list page.
-# If it is 0, parse wikinlinks
-# If it is 1, parse templates
-EVENT_LISTS = (
-    "Event List/2015 Events",
-    "Event List/2016 Events",
-    "Event List/2017 Events",
-    "Event List/2018 Events",
-    "Event List/2019 Events",
-    "Event List/2020 Events",
-    "Event List/2021 Events",
-    "Event List/2022 Events",
-    "Event List/2023 Events",
-    # "Event List (US)/2017 Events",
-    # "Event List (US)/2018 Events",
-    # "Event List (US)/2019 Events",
-    # "Event List (US)/2020 Events",
-    # "Event List (US)/2021 Events",
-    # "Event List (US)/2022 Events",
-    # "Event List (US)/2023 Events",
-)
-
 MONTHS = {
     "January" : 1,
     "Jan" : 1,
@@ -348,11 +326,13 @@ BANNER_NAME_FIX = {
     r"White Day 2022" : "Chaldea Boys Collection 2022 / White Day 2022",
 }
 
-BANNER_NAME_CHANGE = {
-    ("Tales of Chaldean Heavy Industries", "Chaldea Boys Collection 2023 Summoning Part 2") : "Chaldea Boys Collection 2023 Summoning Campaign 1",
-    ("Singularity Repair Support Campaign", "Singularity Repair Support Summoning Campaign 7") : "Singularity Repair Support Summoning Campaign 6",
-    ("Singularity Repair Support Campaign", "Singularity Repair Support Summoning Campaign 6") : "Singularity Repair Support Summoning Campaign 7",
-}
+BANNER_NAME_CHANGE = (
+    ("Tales of Chaldean Heavy Industries", "Chaldea Boys Collection 2023 Summoning Part 2", "Chaldea Boys Collection 2023 Summoning Campaign 1"),
+    ("Singularity Repair Support Campaign", "Singularity Repair Support Summoning Campaign 7", "Singularity Repair Support Summoning Campaign 6"),
+    ("Singularity Repair Support Campaign", "Singularity Repair Support Summoning Campaign 6", "Singularity Repair Support Summoning Campaign 7"),
+    ("GUDAGUDA Yamatai-koku 2020 Rerun", "GUDAGUDA Yamatai-koku 2020 Rerun", "GUDAGUDA Yamatai-koku 2020 Rerun Summoning Campaign"),
+    ("GUDAGUDA Yamatai-koku 2020 Rerun", "GUDAGUDA Yamatai-koku 2020 Rerun", "GUDAGUDA Yamatai-koku 2020 Rerun FP Summoning Campaign"),
+)
 
 FAKE_BANNERS = (
     "MELTY BLOOD: TYPE LUMINA Mashu's Game Entry Commemorative Campaign",
@@ -361,6 +341,28 @@ FAKE_BANNERS = (
 ADD_EMPTY_ENTRY = (
     "Slapstick Museum",
     "The Antiquated Spider Nostalgically Spins Its Thread",
+)
+
+# List of Event Pages. TODO: Can probably replace later with just parsing event list page.
+# If it is 0, parse wikinlinks
+# If it is 1, parse templates
+EVENT_LISTS = (
+    "Event List/2015 Events",
+    "Event List/2016 Events",
+    "Event List/2017 Events",
+    "Event List/2018 Events",
+    "Event List/2019 Events",
+    "Event List/2020 Events",
+    "Event List/2021 Events",
+    "Event List/2022 Events",
+    "Event List/2023 Events",
+    # "Event List (US)/2017 Events",
+    # "Event List (US)/2018 Events",
+    # "Event List (US)/2019 Events",
+    # "Event List (US)/2020 Events",
+    # "Event List (US)/2021 Events",
+    # "Event List (US)/2022 Events",
+    # "Event List (US)/2023 Events",
 )
 
 class Event:
@@ -1051,8 +1053,7 @@ def fix_banner_names(event_set):
                         break
 
     # Apply any explicitly defined banner name changes
-    for event_banner, change in BANNER_NAME_CHANGE.items():
-        event, target_banner = event_banner
+    for event, target_banner, change in BANNER_NAME_CHANGE:
         try:
             for banner in event_set[event].banners:
                 if banner.name == target_banner:
