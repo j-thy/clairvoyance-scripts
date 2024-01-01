@@ -349,6 +349,8 @@ FAKE_BANNERS = (
     "MELTY BLOOD: TYPE LUMINA Mashu's Game Entry Commemorative Campaign",
     "F/GO Memories III Release Commemoration Campaign",
     "F/GO Memories III Release Commemoration Summoning Campaign",
+    "F/GO Memories II Release Commemoration Campaign",
+    "F/GO Memories II Release Commemoration Campaign Summoning Campaign",
 )
 
 ADD_EMPTY_ENTRY = (
