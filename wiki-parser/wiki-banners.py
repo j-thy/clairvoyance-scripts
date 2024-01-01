@@ -219,6 +219,7 @@ MERGE_EVENTS_INTO = {
     "Valentine 2020 Summoning Campaign Re-Run" : "Valentine 2021",
     "CBC 2016 ~ 2019 Craft Essences Summoning Campaign" : "Aeaean Spring Breeze",
     "Lord El-Melloi II Case Files Collaboration Pre-campaign" : "Lady Reines Case Files",
+    "Valentine 2018 Summoning Campaign Re-Run" : "Valentine 2019",
 }
 
 INCLUDE_SUBPAGES = {
@@ -284,7 +285,7 @@ CORRECT_DATES = {
     # Christmas 2019 Re-Run -> End: 11/6/19
     # Chaldea Boys Collection 2020 Summoning Campaign -> End: 3/20/20
     # 19M Downloads Campaign -> End: 3/11/2020
-    # Servant Summer Festival! 2018 Rerun (maybe regex fix)
+    # Fate/stay night Heaven's Feel II Premiere Commemoration Summoning Campaign -> End: 1/25/19
     # Christmas 2017 Event Re-Run
     # Interlude Campaign 7
     # Battle in New York 2018
