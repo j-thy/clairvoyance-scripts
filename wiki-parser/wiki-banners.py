@@ -215,6 +215,7 @@ MERGE_EVENTS_INTO = {
     "Summer 2021 Summoning Campaign Rerun" : "Arctic Summer World",
     "Valentine 2021 Summoning Campaign Rerun" : "Valentine 2022",
     "Valentine 2020 Summoning Campaign Re-Run" : "Valentine 2021",
+    "CBC 2016 ~ 2019 Craft Essences Summoning Campaign" : "Aeaean Spring Breeze",
 }
 
 INCLUDE_SUBPAGES = {
@@ -278,6 +279,7 @@ SKIP_DATES = {
 CORRECT_DATES = {
     # MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dantès Game Entry Commemorative Campaign -> End: 12/17/22
     # Christmas 2019 Re-Run -> End: 11/6/19
+    # Chaldea Boys Collection 2020 Summoning Campaign -> 3/20/20
     # 19M Downloads Campaign
     # Servant Summer Festival! 2018 Rerun (maybe regex fix)
     # Christmas 2017 Event Re-Run
