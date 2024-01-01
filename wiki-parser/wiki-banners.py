@@ -230,7 +230,6 @@ INCLUDE_SUBPAGES = {
     "Setsubun 2018" : ["Setsubun 2018/Main Info"],
     "Dead Heat Summer Race! Re-run" : ["Dead Heat Summer Race! Re-run/Event Info"],
     "FGO Summer 2018 Event (US)" : ["FGO Summer 2018 Event (US)/Summoning Campaign"],
-    "Servant Summer Festival! 2018" : ["Servant Summer Festival! 2018/Event Info"],
     "FGO Summer 2018 Event Revival (US)" : ["FGO Summer 2018 Event Revival (US)/Summoning Campaign"],
     "Servant Summer Festival! 2018 Rerun" : ["Servant Summer Festival! 2018 Rerun/Main Info"],
     "FGO Summer 2019 Event (US)" : ["FGO Summer 2019 Event (US)/Summoning Campaign"],
@@ -289,7 +288,7 @@ CORRECT_DATES = {
     # Christmas 2017 Event Re-Run -> 11/28/2018
     # Interlude Campaign 7 -> 10/31/2018
     # 14M Downloads Campaign -> 9/12/2018
-    # Servant Summer Festival! 2018
+    # Servant Summer Festival! 2018 Summoning Campaign 3 -> Start: 8/16/2018
     # Dead Heat Summer Race! Re-run
     # GUDAGUDA Meiji Ishin Re-run
     # Chaldea Boys Collection 2018
