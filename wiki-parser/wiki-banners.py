@@ -105,6 +105,7 @@ FORCE_MERGE = (
     "Fate/Apocrypha Collaboration Event Revival (US)/Summoning Campaign",
     "Chaldea Boys Collection 2023 (US)",
     "Valentine 2023 Event (US)/Summoning Campaign",
+    "Class-Based Summoning Campaign (March 2021)",
 )
 
 # Specify specific rateups in summoning campaigns that should not be merged into any other rateups.

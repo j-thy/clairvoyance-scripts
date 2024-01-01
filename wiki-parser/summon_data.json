@@ -5535,16 +5535,7 @@
           "278": "Dioscuri",
           "279": "Caenis",
           "298": "Watanabe no Tsuna",
-          "300": "Vritra"
-        },
-        "num_rateups": 62
-      },
-      {
-        "name": "Class-Based Summoning Campaign (March 2021)",
-        "start_date": "3/15/2021",
-        "end_date": "3/31/2021",
-        "date_origin": "event header jp old",
-        "rateups": {
+          "300": "Vritra",
           "23": "Medusa",
           "26": "Boudica",
           "27": "Ushiwakamaru",
@@ -5616,16 +5607,7 @@
           "273": "Mandricardo",
           "274": "Europa",
           "277": "Odysseus",
-          "296": "Nemo"
-        },
-        "num_rateups": 72
-      },
-      {
-        "name": "Class-Based Summoning Campaign (March 2021)",
-        "start_date": "3/15/2021",
-        "end_date": "3/31/2021",
-        "date_origin": "event header jp old",
-        "rateups": {
+          "296": "Nemo",
           "59": "Jeanne d'Arc",
           "147": "Gorgon",
           "158": "Hessian Lobo",
@@ -5634,7 +5616,7 @@
           "242": "Astraea",
           "244": "Jinako Carigiri"
         },
-        "num_rateups": 7
+        "num_rateups": 141
       },
       {
         "name": "Akihabara Explosion Summoning Campaign",
