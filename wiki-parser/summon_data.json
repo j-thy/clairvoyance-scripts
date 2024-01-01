@@ -6748,10 +6748,19 @@
         "date_origin": "event list",
         "rateups": {
           "339": "Super Bunyan",
-          "340": "Daikokuten",
+          "340": "Daikokuten"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "FGO x Learn with Manga! Collaboration FP Summoning Campaign",
+        "start_date": "4/27/2022",
+        "end_date": "5/18/2022",
+        "date_origin": "event list",
+        "rateups": {
           "341": "Mary Anning"
         },
-        "num_rateups": 3
+        "num_rateups": 1
       }
     ]
   },
