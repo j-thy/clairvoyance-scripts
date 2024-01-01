@@ -3578,7 +3578,7 @@
     ]
   },
   {
-    "name": "Lord El-Melloi II Case Files Collaboration Pre-campaign",
+    "name": "Lady Reines Case Files",
     "region": "JP",
     "banners": [
       {
@@ -3591,13 +3591,7 @@
           "37": "Zhuge Liang (Lord El-Melloi II)"
         },
         "num_rateups": 2
-      }
-    ]
-  },
-  {
-    "name": "Lady Reines Case Files",
-    "region": "JP",
-    "banners": [
+      },
       {
         "name": "Lady Reines Case Files Summoning Campaign",
         "start_date": "4/27/2019",

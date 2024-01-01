@@ -218,6 +218,7 @@ MERGE_EVENTS_INTO = {
     "Valentine 2021 Summoning Campaign Rerun" : "Valentine 2022",
     "Valentine 2020 Summoning Campaign Re-Run" : "Valentine 2021",
     "CBC 2016 ~ 2019 Craft Essences Summoning Campaign" : "Aeaean Spring Breeze",
+    "Lord El-Melloi II Case Files Collaboration Pre-campaign" : "Lady Reines Case Files",
 }
 
 INCLUDE_SUBPAGES = {
