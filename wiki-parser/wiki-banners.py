@@ -297,9 +297,8 @@ CORRECT_DATES = {
     # Kara no Kyoukai Collaboration Event Re-run -> End: 3/1/18
     # Fate/EXTRA Last Encore Anime Broadcast Commemoration Campaign -> End: 2/11/18
     # Da Vinci and The 7 Counterfeit Heroic Spirits Rerun Lite Ver -> End: 1/24/18
-    # Christmas 2016 Event Re-run -> 11/29/17
-    # Halloween 2017 Event
-    # Shimosa Chapter Release
+    # Christmas 2016 Event Re-run -> End: 11/29/17
+    # Shimosa Chapter Release -> End: 11/1/17
     # Fate/stay night Heaven's Feel Premiere Commemoration Campaign
     # Dead Heat Summer Race!
     # FGO 2016 Summer Event Re-Run
@@ -348,6 +347,7 @@ BANNER_NAME_CHANGE = (
     ("GUDAGUDA Yamatai-koku 2020", "GUDAGUDA Yamatai-koku 2020", "GUDAGUDA Yamatai-koku 2020 Summoning Campaign"),
     ("GUDAGUDA Yamatai-koku 2020", "GUDAGUDA Yamatai-koku 2020", "GUDAGUDA Yamatai-koku 2020 FP Summoning Campaign"),
     ("Interlude Campaign 3", "Interlude Campaign 3", "Interlude Campaign 3 Summoning Campaign"),
+    ("Shimosa Chapter Release", "Shimosa Chapter Release", "Shimosa Chapter Release Summoning Campaign"),
 )
 
 FAKE_BANNERS = (
