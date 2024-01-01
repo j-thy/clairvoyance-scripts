@@ -340,6 +340,7 @@ BANNER_NAME_CHANGE = (
 
 FAKE_BANNERS = (
     "MELTY BLOOD: TYPE LUMINA Mashu's Game Entry Commemorative Campaign",
+    "F/GO Memories III Release Commemoration Campaign",
 )
 
 ADD_EMPTY_ENTRY = (
