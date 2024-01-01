@@ -221,6 +221,7 @@ MERGE_EVENTS_INTO = {
     "Lord El-Melloi II Case Files Collaboration Pre-campaign" : "Lady Reines Case Files",
     "Valentine 2018 Summoning Campaign Re-Run" : "Valentine 2019",
     "Valentine 2017 Summoning Campaign Re-Run" : "Valentine 2018",
+    "Chaldea Boys Collection 2016 Re-Run" : "Chaldea Boys Collection 2017",
 }
 
 INCLUDE_SUBPAGES = {

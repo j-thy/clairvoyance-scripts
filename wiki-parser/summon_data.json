@@ -1262,24 +1262,6 @@
     ]
   },
   {
-    "name": "Chaldea Boys Collection 2016 Re-Run",
-    "region": "JP",
-    "banners": [
-      {
-        "name": "Chaldea Boys Collection 2016 Re-Run",
-        "start_date": "3/8/2017",
-        "end_date": "3/22/2017",
-        "date_origin": "event header jp old",
-        "rateups": {
-          "93": "Amakusa Shir\u014d",
-          "94": "Astolfo",
-          "95": "Kid Gil"
-        },
-        "num_rateups": 3
-      }
-    ]
-  },
-  {
     "name": "Chaldea Boys Collection 2017",
     "region": "JP",
     "banners": [
@@ -1300,6 +1282,18 @@
           "160": "Arthur Pendragon (Prototype)"
         },
         "num_rateups": 9
+      },
+      {
+        "name": "Chaldea Boys Collection 2016 Re-Run",
+        "start_date": "3/8/2017",
+        "end_date": "3/22/2017",
+        "date_origin": "event header jp old",
+        "rateups": {
+          "93": "Amakusa Shir\u014d",
+          "94": "Astolfo",
+          "95": "Kid Gil"
+        },
+        "num_rateups": 3
       }
     ]
   },
