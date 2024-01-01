@@ -105,6 +105,7 @@ FORCE_MERGE = (
     "Fate/Apocrypha Collaboration Event Revival (US)/Summoning Campaign",
     "Chaldea Boys Collection 2023 (US)",
     "Valentine 2023 Event (US)/Summoning Campaign",
+    "Class-Based Summoning Campaign (September 2019)",
     "Class-Based Summoning Campaign (March 2021)",
 )
 
@@ -279,8 +280,8 @@ SKIP_DATES = {
 CORRECT_DATES = {
     # MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dantès Game Entry Commemorative Campaign -> End: 12/17/22
     # Christmas 2019 Re-Run -> End: 11/6/19
-    # Chaldea Boys Collection 2020 Summoning Campaign -> 3/20/20
-    # 19M Downloads Campaign
+    # Chaldea Boys Collection 2020 Summoning Campaign -> End: 3/20/20
+    # 19M Downloads Campaign -> End: 3/11/2020
     # Servant Summer Festival! 2018 Rerun (maybe regex fix)
     # Christmas 2017 Event Re-Run
     # Interlude Campaign 7
