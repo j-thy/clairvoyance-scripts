@@ -138,6 +138,7 @@ PAGE_FIXES = {
     'Class Based Summoning Campaign August 2021 (US)' : [r'Knight Classes=\n(.*\n)', r'Knight Classes=\n\1! colspan=2|Rate-Up Servant List'],
     'Class Based Summoning Campaign March 2023 (US)' : [r'</tabber>', r'|}\n</tabber>'],
     'Holy Grail Front ~Moonsault Operation~/Event Info' : [r'{{!}}', r'|'],
+    'Servant Summer Festival! 2018 Rerun/Main Info' : [r'=\n*<center>\n*{\|\n*\|(\[\[.*)\n*\|}\n*<\/center>', r'=\n\1\n'],
 }
 
 SKIP_DURATION_PARSE = (

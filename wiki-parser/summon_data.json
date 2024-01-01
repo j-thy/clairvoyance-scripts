@@ -3896,26 +3896,26 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Servant Summer Festival! 2018 Rerun",
+        "name": "Servant Summer Festival! 2018 Rerun Summoning Campaign 1",
         "start_date": "7/17/2019",
         "end_date": "8/3/2019",
-        "date_origin": "event list",
+        "date_origin": "tab",
         "rateups": {
-          "13": "Robin Hood",
-          "96": "Edmond Dant\u00e8s",
-          "145": "Gilgamesh (Caster)"
+          "216": "Jeanne d'Arc (Archer)",
+          "217": "Ibaraki D\u014dji (Lancer)",
+          "218": "Ushiwakamaru (Assassin)"
         },
         "num_rateups": 3
       },
       {
-        "name": "Servant Summer Festival! 2018 Rerun",
+        "name": "Servant Summer Festival! 2018 Rerun Summoning Campaign 2",
         "start_date": "7/17/2019",
         "end_date": "8/3/2019",
-        "date_origin": "event list",
+        "date_origin": "tab",
         "rateups": {
-          "220": "BB (Summer)",
-          "221": "Queen Medb (Saber)",
-          "222": "Mysterious Heroine XX"
+          "13": "Robin Hood",
+          "96": "Edmond Dant\u00e8s",
+          "145": "Gilgamesh (Caster)"
         },
         "num_rateups": 3
       },
@@ -3925,9 +3925,9 @@
         "end_date": "8/3/2019",
         "date_origin": "tab",
         "rateups": {
-          "216": "Jeanne d'Arc (Archer)",
-          "217": "Ibaraki D\u014dji (Lancer)",
-          "218": "Ushiwakamaru (Assassin)"
+          "220": "BB (Summer)",
+          "221": "Queen Medb (Saber)",
+          "222": "Mysterious Heroine XX"
         },
         "num_rateups": 3
       }
