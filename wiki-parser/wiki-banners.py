@@ -299,9 +299,10 @@ CORRECT_DATES = {
     # Da Vinci and The 7 Counterfeit Heroic Spirits Rerun Lite Ver -> End: 1/24/18
     # Christmas 2016 Event Re-run -> End: 11/29/17
     # Shimosa Chapter Release -> End: 11/1/17
-    # Fate/stay night Heaven's Feel Premiere Commemoration Campaign
-    # Dead Heat Summer Race!
-    # FGO 2016 Summer Event Re-Run
+    # Fate/stay night Heaven's Feel Premiere Commemoration Campaign -> End: 10/22/17
+    # Dead Heat Summer Race! Daily Special Summoning Campaign -> Start: 8/24/17
+    # Dead Heat Summer Race! Summoning Campaign 2 -> Start: 8/16/17
+    # FGO 2016 Summer Event Re-Run Summoning Campaign 2 -> Start: 7/20/17
     # Rashomon Event Rerun
     # 9M Downloads Campaign
     # SE.RA.PH
@@ -348,6 +349,7 @@ BANNER_NAME_CHANGE = (
     ("GUDAGUDA Yamatai-koku 2020", "GUDAGUDA Yamatai-koku 2020", "GUDAGUDA Yamatai-koku 2020 FP Summoning Campaign"),
     ("Interlude Campaign 3", "Interlude Campaign 3", "Interlude Campaign 3 Summoning Campaign"),
     ("Shimosa Chapter Release", "Shimosa Chapter Release", "Shimosa Chapter Release Summoning Campaign"),
+    ("Agartha Chapter Release", "Agartha Chapter Release", "Agartha Chapter Release Summoning Campaign"),
 )
 
 FAKE_BANNERS = (
