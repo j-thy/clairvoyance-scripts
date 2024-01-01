@@ -213,6 +213,7 @@ MERGE_EVENTS_INTO = {
     "Fate/Accel Zero Order (Pre-Event)" : "Fate/Accel Zero Order Event",
     "Summer 2021 Summoning Campaign Rerun" : "Arctic Summer World",
     "Valentine 2021 Summoning Campaign Rerun" : "Valentine 2022",
+    "Valentine 2020 Summoning Campaign Re-Run" : "Valentine 2021",
 }
 
 INCLUDE_SUBPAGES = {
