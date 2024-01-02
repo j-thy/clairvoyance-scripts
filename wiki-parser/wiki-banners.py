@@ -312,13 +312,11 @@ CORRECT_DATES = {
     # Valentine 2017 Summoning Campaign 2 -> Start: 2/11/17
     # Moon Goddess Event Re-Run -> End: 1/30/17
     # Solomon Chapter Release -> End: 12/31/16
-    # Amakusa Shirō Summoning Campaign -> End: 12/7/2016
+    # Amakusa Shirō Summoning Campaign -> End: 12/7/16
     # FGO 2016 Summer Event Summoning Campaign 2 -> Start: 8/22/16
-    # Camelot Chapter Release Summoning Campaign -> End: 7/29/2016
-    # Fate/Accel Zero Order Event
-    # Da Vinci and The 7 Counterfeit Heroic Spirits
-    # E Pluribus Unum Chapter Release
-    # AnimeJapan 2016 Exhibition Commemoration Campaign
+    # Camelot Chapter Release Summoning Campaign -> End: 7/29/16
+    # E Pluribus Unum Chapter Release Summoning Campaign -> End: 4/13/16
+    # AnimeJapan 2016 Exhibition Commemoration Campaign -> Start: 3/23/16, End: 3/30/16
     # New Year Campaign 2016
     # 4M Downloads Campaign
 }
@@ -364,6 +362,13 @@ BANNER_NAME_CHANGE = (
     ("FGO 2016 Summer Event", "FGO 2016 Summer Event/Part II Event Details Summer Event 2016 Summoning Campaign Part II", "FGO 2016 Summer Event Summoning Campaign 2"),
     ("FGO Summer Festival 2016 ~1st Anniversary~", "FGO Summer Festival 2016 ~1st Anniversary~", "FGO Summer Festival 2016 ~1st Anniversary~ Order-Based Summoning Campaign"),
     ("Camelot Chapter Release", "Camelot Chapter Release", "Camelot Chapter Release Summoning Campaign"),
+    ("Onigashima Event", "Onigashima Event", "Onigashima Event Summoning Campaign"),
+    ("Journey to The West", "Journey to The West", "Journey to The West Summoning Campaign"),
+    ("Fate/Accel Zero Order Event", "Fate/Accel Zero Order (Pre-Event)", "Fate/Accel Zero Order (Pre-Event) Summoning Campaign"),
+    ("Fate/Accel Zero Order Event", "Fate/Accel Zero Order Event", "Fate/Accel Zero Order Event Summoning Campaign"),
+    ("E Pluribus Unum Chapter Release", "E Pluribus Unum Chapter Release", "E Pluribus Unum Chapter Release Summoning Campaign"),
+    ("Cries of The Vengeful Demon in the Prison Tower", "Cries of The Vengeful Demon in the Prison Tower", "Cries of The Vengeful Demon in the Prison Tower Summoning Campaign"),
+    ("Saber Wars Event", "Saber Wars Event", "Saber Wars Event Summoning Campaign"),
 )
 
 FAKE_BANNERS = (
