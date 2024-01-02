@@ -484,7 +484,7 @@
         "name": "Fate/Accel Zero Order (Pre-Event) Summoning Campaign",
         "start_date": "4/21/2016",
         "end_date": "4/27/2016",
-        "date_origin": "event header jp old",
+        "date_origin": "event header jp new",
         "rateups": {
           "2": "Artoria Pendragon",
           "12": "Gilgamesh",
