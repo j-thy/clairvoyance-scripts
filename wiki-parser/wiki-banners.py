@@ -306,9 +306,9 @@ CORRECT_DATES = {
     # FGO 2016 Summer Event Re-Run Summoning Campaign 2 -> Start: 7/20/17
     # Rashomon Event Rerun -> End: 6/14/17
     # 9M Downloads Campaign -> End: 6/7/17
-    # SE.RA.PH Summoning Campaign 2 -> Start: 5/10/2017
-    # Fate/EXTRA CCC×Fate/Grand Order -> End: 5/3/2017
-    # Valentine 2016 Event Re-Run
+    # SE.RA.PH Summoning Campaign 2 -> Start: 5/10/17
+    # Fate/EXTRA CCC×Fate/Grand Order -> End: 5/3/17
+    # Valentine 2017 Summoning Campaign 2 -> Start: 2/11/17
     # Moon Goddess Event Re-Run
     # Solomon Chapter Release
     # FGO 2016 Summer Event
@@ -352,8 +352,10 @@ BANNER_NAME_CHANGE = (
     ("Interlude Campaign 3", "Interlude Campaign 3", "Interlude Campaign 3 Summoning Campaign"),
     ("Shimosa Chapter Release", "Shimosa Chapter Release", "Shimosa Chapter Release Summoning Campaign"),
     ("Agartha Chapter Release", "Agartha Chapter Release", "Agartha Chapter Release Summoning Campaign"),
-    ("Main Quest 1/2 AP + Shinjuku Summoning Campaign", "Main Quest 1/2 AP + Shinjuku Summoning Campaign", "Shinjuku Summoning Campaign"),
     ("Chaldea Boys Collection 2017", "Chaldea Boys Collection 2017", "Chaldea Boys Collection 2017 Summoning Campaign"),
+    ("Valentine 2016 Event Re-Run", "Valentine 2017 Summoning Campaign", "Valentine 2017 Summoning Campaign 1"),
+    ("Valentine 2016 Event Re-Run", "Valentine 2017 Summoning Campaign", "Valentine 2017 Summoning Campaign 2"),
+    ("Valentine 2016 Event Re-Run", "Valentine 2017 Summoning Campaign", "Valentine 2017 Summoning Campaign (Male)"),
 )
 
 FAKE_BANNERS = (

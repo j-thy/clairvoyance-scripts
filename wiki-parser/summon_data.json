@@ -1181,7 +1181,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Valentine 2017 Summoning Campaign",
+        "name": "Valentine 2017 Summoning Campaign 1",
         "start_date": "2/8/2017",
         "end_date": "2/22/2017",
         "date_origin": "event header jp old",
@@ -1197,7 +1197,7 @@
         "num_rateups": 7
       },
       {
-        "name": "Valentine 2017 Summoning Campaign",
+        "name": "Valentine 2017 Summoning Campaign 2",
         "start_date": "2/8/2017",
         "end_date": "2/22/2017",
         "date_origin": "event header jp old",
@@ -1214,7 +1214,7 @@
         "num_rateups": 8
       },
       {
-        "name": "Valentine 2017 Summoning Campaign",
+        "name": "Valentine 2017 Summoning Campaign (Male)",
         "start_date": "2/8/2017",
         "end_date": "2/22/2017",
         "date_origin": "event header jp old",
@@ -1534,7 +1534,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Shinjuku Summoning Campaign",
+        "name": "Main Quest 1/2 AP + Shinjuku Summoning Campaign",
         "start_date": "6/7/2017",
         "end_date": "6/21/2017",
         "date_origin": "event header jp old",
