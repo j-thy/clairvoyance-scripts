@@ -281,6 +281,7 @@ SKIP_DATES = {
     "Event List (US)/2020 Events": ["|July 23 ~ August 1"],
 }
 
+# TODO: Sort after correcting
 CORRECT_DATES = {
     # MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dantès Game Entry Commemorative Campaign -> End: 12/17/22
     # Christmas 2019 Re-Run -> End: 11/6/20
@@ -309,8 +310,9 @@ CORRECT_DATES = {
     # SE.RA.PH Summoning Campaign 2 -> Start: 5/10/17
     # Fate/EXTRA CCC×Fate/Grand Order -> End: 5/3/17
     # Valentine 2017 Summoning Campaign 2 -> Start: 2/11/17
-    # Moon Goddess Event Re-Run
-    # Solomon Chapter Release
+    # Moon Goddess Event Re-Run -> End: 1/30/17
+    # Solomon Chapter Release -> End: 12/31/16
+    # Amakusa Shirō Summoning Campaign -> End: 12/7/2016
     # FGO 2016 Summer Event
     # Camelot Chapter Release
     # Fate/Accel Zero Order Event
@@ -356,6 +358,8 @@ BANNER_NAME_CHANGE = (
     ("Valentine 2016 Event Re-Run", "Valentine 2017 Summoning Campaign", "Valentine 2017 Summoning Campaign 1"),
     ("Valentine 2016 Event Re-Run", "Valentine 2017 Summoning Campaign", "Valentine 2017 Summoning Campaign 2"),
     ("Valentine 2016 Event Re-Run", "Valentine 2017 Summoning Campaign", "Valentine 2017 Summoning Campaign (Male)"),
+    ("Solomon Chapter Release", "Solomon Chapter Release", "Solomon Chapter Release Summoning Campaign"),
+    ("Babylonia Chapter Release", "Babylonia Chapter Release", "Babylonia Chapter Release Summoning Campaign"),
 )
 
 FAKE_BANNERS = (
