@@ -475,12 +475,12 @@ def date_parser(start_date, end_date, year):
 
     # Parse the month and day from the start date string
     start_month = MONTHS[start_mon_yr[0]]
-    start_day = int(re.sub(r'[a-zA-Z]', '', start_mon_yr[1]))
+    start_day = int(re.sub(r'\D+', '', start_mon_yr[1]))
 
     # Parse the month and day from the end date string
     try:
         end_month = MONTHS[end_mon_yr[0]]
-        end_day = int(re.sub(r'[a-zA-Z]', '', end_mon_yr[1]))
+        end_day = int(re.sub(r'\D+', '', end_mon_yr[1]))
     # If the end date is missing, use the start date
     except KeyError:
         end_month = start_month
@@ -781,6 +781,10 @@ def parse(event_set, page, duration, parent=None):
             # Update the duration if a new duration was found
             if match[2]:
                 date_split = match[2].split("~")
+                if len(date_split) == 1:
+                    date_split = date_split[0].split("-")
+                if len(date_split) == 1:
+                    date_split = date_split[0].split("～")
                 dates[i] = date_parser(date_split[0], date_split[1], CURRENT_YEAR)
                 date_origins[i] = "tab"
 
@@ -1223,5 +1227,5 @@ if TESTING == 1:
     parse_test()
     sys.exit(0)
 
-parse_and_create(EVENT_LIST_JP, EVENT_SET_JP, "JP")
 parse_and_create(EVENT_LIST_NA, EVENT_SET_NA, "NA")
+parse_and_create(EVENT_LIST_JP, EVENT_SET_JP, "JP")
