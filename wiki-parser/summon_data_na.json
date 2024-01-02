@@ -1,10 +1,10 @@
 [
   {
-    "name": "66,666 Facebook Likes Campaign (US)",
+    "name": "66,666 Facebook Likes Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "66,666 Facebook Likes Campaign (US)",
+        "name": "66,666 Facebook Likes Summoning Campaign",
         "start_date": "7/6/2017",
         "end_date": "7/20/2017",
         "date_origin": "event list",
@@ -20,11 +20,11 @@
     ]
   },
   {
-    "name": "Nero Festival (US)",
+    "name": "Nero Festival",
     "region": "NA",
     "banners": [
       {
-        "name": "Nero Festival (US) Summoning Campaign",
+        "name": "Nero Festival Summoning Campaign",
         "start_date": "7/25/2017",
         "end_date": "8/3/2017",
         "date_origin": "event list",
@@ -39,11 +39,11 @@
     ]
   },
   {
-    "name": "Otakon 2017 Campaign (US)",
+    "name": "Otakon 2017 Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Otakon 2017 Campaign (US)",
+        "name": "Otakon 2017 Summoning Campaign",
         "start_date": "8/8/2017",
         "end_date": "8/17/2017",
         "date_origin": "event header jp old",
@@ -59,11 +59,11 @@
     ]
   },
   {
-    "name": "Moon Goddess Event (US)",
+    "name": "Moon Goddess Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Moon Goddess Event (US) Summoning Campaign",
+        "name": "Moon Goddess Event Summoning Campaign",
         "start_date": "8/17/2017",
         "end_date": "8/24/2017",
         "date_origin": "event list",
@@ -79,11 +79,11 @@
     ]
   },
   {
-    "name": "1M Download Campaign (US)",
+    "name": "1M Download Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "1M Download Campaign (US)",
+        "name": "1M Download Summoning Campaign",
         "start_date": "8/31/2017",
         "end_date": "9/14/2017",
         "date_origin": "event header jp old",
@@ -104,11 +104,11 @@
     ]
   },
   {
-    "name": "Fuyuki Pickup Summon (US)",
+    "name": "Fuyuki Pickup Summon",
     "region": "NA",
     "banners": [
       {
-        "name": "Fuyuki Pickup Summon (US)",
+        "name": "Fuyuki Pickup Summon",
         "start_date": "9/14/2017",
         "end_date": "9/21/2017",
         "date_origin": "event header jp old",
@@ -125,11 +125,11 @@
     ]
   },
   {
-    "name": "Septem Campaign (US)",
+    "name": "Septem Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Septem Campaign (US)",
+        "name": "Septem Summoning Campaign",
         "start_date": "9/21/2017",
         "end_date": "9/28/2017",
         "date_origin": "event list",
@@ -146,11 +146,11 @@
     ]
   },
   {
-    "name": "Okeanos Chapter Release (US)",
+    "name": "Okeanos Chapter Release",
     "region": "NA",
     "banners": [
       {
-        "name": "Okeanos Chapter Release (US)",
+        "name": "Okeanos Chapter Release",
         "start_date": "9/28/2017",
         "end_date": "9/28/2017",
         "date_origin": "event list",
@@ -166,11 +166,11 @@
     ]
   },
   {
-    "name": "Okeanos Campaign 2 (US)",
+    "name": "Okeanos Campaign 2",
     "region": "NA",
     "banners": [
       {
-        "name": "Okeanos Campaign 2 (US)",
+        "name": "Okeanos Campaign 2",
         "start_date": "10/5/2017",
         "end_date": "10/17/2017",
         "date_origin": "event list",
@@ -187,11 +187,11 @@
     ]
   },
   {
-    "name": "Halloween 2017 Event (US)",
+    "name": "Halloween 2017 Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Halloween 2017 Event (US) Summoning Campaign",
+        "name": "Halloween 2017 Event Summoning Campaign",
         "start_date": "10/17/2017",
         "end_date": "11/1/2017",
         "date_origin": "event list",
@@ -207,11 +207,11 @@
     ]
   },
   {
-    "name": "Da Vinci's Selection Campaign (US)",
+    "name": "Da Vinci's Selection Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Da Vinci's Selection Campaign (US)",
+        "name": "Da Vinci's Selection Summoning Campaign",
         "start_date": "11/1/2017",
         "end_date": "11/8/2017",
         "date_origin": "event header jp old",
@@ -227,11 +227,11 @@
     ]
   },
   {
-    "name": "GUDAGUDA Honnouji Event (US)",
+    "name": "GUDAGUDA Honnouji Event",
     "region": "NA",
     "banners": [
       {
-        "name": "GUDAGUDA Honnouji Event (US) Summoning Campaign",
+        "name": "GUDAGUDA Honnouji Event Summoning Campaign",
         "start_date": "11/8/2017",
         "end_date": "11/24/2017",
         "date_origin": "event list",
@@ -247,11 +247,11 @@
     ]
   },
   {
-    "name": "FGO Thanksgiving Special 2017 (US)",
+    "name": "FGO Thanksgiving Special 2017",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO Thanksgiving Special 2017 (US)",
+        "name": "FGO Thanksgiving Special 2017",
         "start_date": "11/22/2017",
         "end_date": "12/1/2017",
         "date_origin": "event list",
@@ -268,11 +268,11 @@
     ]
   },
   {
-    "name": "Christmas 2017 Event (US)",
+    "name": "Christmas 2017 Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Christmas 2017 Event (US)",
+        "name": "Christmas 2017 Event",
         "start_date": "12/1/2017",
         "end_date": "12/11/2017",
         "date_origin": "event list",
@@ -288,11 +288,11 @@
     ]
   },
   {
-    "name": "Singularity Pickup Summon (US)",
+    "name": "Singularity Pickup Summon",
     "region": "NA",
     "banners": [
       {
-        "name": "Singularity Pickup Summon (US)",
+        "name": "Singularity Pickup Summon",
         "start_date": "12/11/2017",
         "end_date": "12/19/2017",
         "date_origin": "event header jp old",
@@ -309,7 +309,7 @@
         "num_rateups": 8
       },
       {
-        "name": "Singularity Pickup Summon (US)",
+        "name": "Singularity Pickup Summon",
         "start_date": "12/11/2017",
         "end_date": "12/19/2017",
         "date_origin": "event header jp old",
@@ -325,7 +325,7 @@
         "num_rateups": 7
       },
       {
-        "name": "Singularity Pickup Summon (US)",
+        "name": "Singularity Pickup Summon",
         "start_date": "12/11/2017",
         "end_date": "12/19/2017",
         "date_origin": "event header jp old",
@@ -341,7 +341,7 @@
         "num_rateups": 7
       },
       {
-        "name": "Singularity Pickup Summon (US)",
+        "name": "Singularity Pickup Summon",
         "start_date": "12/11/2017",
         "end_date": "12/19/2017",
         "date_origin": "event header jp old",
@@ -359,11 +359,11 @@
     ]
   },
   {
-    "name": "London Chapter Release (US)",
+    "name": "London Chapter Release",
     "region": "NA",
     "banners": [
       {
-        "name": "London Chapter Release (US) Summoning Campaign",
+        "name": "London Chapter Release Summoning Campaign",
         "start_date": "12/19/2017",
         "end_date": "12/19/2017",
         "date_origin": "event list",
@@ -375,15 +375,9 @@
           "82": "Frankenstein"
         },
         "num_rateups": 5
-      }
-    ]
-  },
-  {
-    "name": "London Campaign 2 (US)",
-    "region": "NA",
-    "banners": [
+      },
       {
-        "name": "London Campaign 2 (US)",
+        "name": "London Summoning Campaign 2",
         "start_date": "12/26/2017",
         "end_date": "1/4/2018",
         "date_origin": "event list",
@@ -396,11 +390,11 @@
     ]
   },
   {
-    "name": "Happy New Year 2018 (US)",
+    "name": "Happy New Year 2018",
     "region": "NA",
     "banners": [
       {
-        "name": "Happy New Year 2018 (US)",
+        "name": "Happy New Year 2018",
         "start_date": "12/28/2017",
         "end_date": "1/4/2018",
         "date_origin": "event list",
@@ -417,11 +411,11 @@
     ]
   },
   {
-    "name": "Saber Wars Event (US)",
+    "name": "Saber Wars Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Saber Wars Event (US) Summoning Campaign",
+        "name": "Saber Wars Event Summoning Campaign",
         "start_date": "1/4/2018",
         "end_date": "1/18/2018",
         "date_origin": "event list",
@@ -435,11 +429,11 @@
     ]
   },
   {
-    "name": "2M Downloads Campaign (US)",
+    "name": "2M Downloads Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "2M Downloads Campaign (US)",
+        "name": "2M Downloads Summoning Campaign",
         "start_date": "1/18/2018",
         "end_date": "1/25/2018",
         "date_origin": "event list",
@@ -453,11 +447,11 @@
     ]
   },
   {
-    "name": "Valentine 2018 Event (US)",
+    "name": "Valentine 2018 Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Valentine 2018 Event (US) Summoning Campaign",
+        "name": "Valentine 2018 Event Summoning Campaign",
         "start_date": "1/25/2018",
         "end_date": "2/3/2018",
         "date_origin": "event list",
@@ -477,11 +471,11 @@
     ]
   },
   {
-    "name": "Three Knights and Four Cavalries Summon Campaign (US)",
+    "name": "Three Knights and Four Cavalries Summon Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Three Knights and Four Cavalries Summon Campaign (US)",
+        "name": "Three Knights and Four Cavalries Summon Summoning Campaign",
         "start_date": "2/1/2018",
         "end_date": "2/8/2018",
         "date_origin": "event header jp old",
@@ -552,11 +546,11 @@
     ]
   },
   {
-    "name": "The Garden of Sinners Collaboration Event (US)",
+    "name": "The Garden of Sinners Collaboration Event",
     "region": "NA",
     "banners": [
       {
-        "name": "The Garden of Sinners Collaboration Event (US) Summoning Campaign",
+        "name": "The Garden of Sinners Collaboration Event Summoning Campaign",
         "start_date": "2/8/2018",
         "end_date": "2/22/2018",
         "date_origin": "event list",
@@ -568,11 +562,11 @@
     ]
   },
   {
-    "name": "Chaldea Boys Collection 2018 (US)",
+    "name": "Chaldea Boys Collection 2018",
     "region": "NA",
     "banners": [
       {
-        "name": "Chaldea Boys Collection 2018 (US)",
+        "name": "Chaldea Boys Collection 2018",
         "start_date": "2/22/2018",
         "end_date": "3/1/2018",
         "date_origin": "event header jp old",
@@ -589,11 +583,11 @@
     ]
   },
   {
-    "name": "Vengeful Demon's Wail at the Prison Tower (US)",
+    "name": "Vengeful Demon's Wail at the Prison Tower",
     "region": "NA",
     "banners": [
       {
-        "name": "Vengeful Demon's Wail at the Prison Tower (US) Summoning Campaign",
+        "name": "Vengeful Demon's Wail at the Prison Tower Summoning Campaign",
         "start_date": "3/1/2018",
         "end_date": "3/8/2018",
         "date_origin": "event list",
@@ -605,11 +599,11 @@
     ]
   },
   {
-    "name": "Singularity Summon Campaign (US)",
+    "name": "Singularity Summon Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Singularity Summon Campaign (US)",
+        "name": "Singularity Summon Summoning Campaign",
         "start_date": "3/8/2018",
         "end_date": "3/15/2018",
         "date_origin": "event header jp old",
@@ -626,7 +620,7 @@
         "num_rateups": 8
       },
       {
-        "name": "Singularity Summon Campaign (US)",
+        "name": "Singularity Summon Summoning Campaign",
         "start_date": "3/8/2018",
         "end_date": "3/15/2018",
         "date_origin": "event header jp old",
@@ -643,7 +637,7 @@
         "num_rateups": 8
       },
       {
-        "name": "Singularity Summon Campaign (US)",
+        "name": "Singularity Summon Summoning Campaign",
         "start_date": "3/8/2018",
         "end_date": "3/15/2018",
         "date_origin": "event header jp old",
@@ -659,7 +653,7 @@
         "num_rateups": 7
       },
       {
-        "name": "Singularity Summon Campaign (US)",
+        "name": "Singularity Summon Summoning Campaign",
         "start_date": "3/8/2018",
         "end_date": "3/15/2018",
         "date_origin": "event header jp old",
@@ -675,7 +669,7 @@
         "num_rateups": 7
       },
       {
-        "name": "Singularity Summon Campaign (US)",
+        "name": "Singularity Summon Summoning Campaign",
         "start_date": "3/8/2018",
         "end_date": "3/15/2018",
         "date_origin": "event header jp old",
@@ -694,13 +688,13 @@
     ]
   },
   {
-    "name": "E Pluribus Unum Chapter Release (US)",
+    "name": "E Pluribus Unum Chapter Release",
     "region": "NA",
     "banners": [
       {
-        "name": "E Pluribus Unum Chapter Release (US)",
+        "name": "E Pluribus Unum Chapter Release Summoning Campaign",
         "start_date": "3/15/2018",
-        "end_date": "3/15/2018",
+        "end_date": "4/13/2016",
         "date_origin": "event list",
         "rateups": {
           "97": "Nightingale",
@@ -714,11 +708,11 @@
     ]
   },
   {
-    "name": "E Pluribus Unum Summoning Campaign 2 (US)",
+    "name": "E Pluribus Unum Summoning Campaign 2",
     "region": "NA",
     "banners": [
       {
-        "name": "E Pluribus Unum Summoning Campaign 2 (US)",
+        "name": "E Pluribus Unum Summoning Campaign 2",
         "start_date": "3/22/2018",
         "end_date": "4/5/2018",
         "date_origin": "event header jp old",
@@ -730,11 +724,11 @@
     ]
   },
   {
-    "name": "E Pluribus Unum Summoning Campaign 3 (US)",
+    "name": "E Pluribus Unum Summoning Campaign 3",
     "region": "NA",
     "banners": [
       {
-        "name": "E Pluribus Unum Summoning Campaign 3 (US)",
+        "name": "E Pluribus Unum Summoning Campaign 3",
         "start_date": "3/29/2018",
         "end_date": "4/12/2018",
         "date_origin": "event list",
@@ -747,11 +741,11 @@
     ]
   },
   {
-    "name": "Da Vinci and the 7 Counterfeit Heroic Spirits (US)",
+    "name": "Da Vinci and the 7 Counterfeit Heroic Spirits",
     "region": "NA",
     "banners": [
       {
-        "name": "Da Vinci and the 7 Counterfeit Heroic Spirits (US) Summoning Campaign",
+        "name": "Da Vinci and the 7 Counterfeit Heroic Spirits Summoning Campaign",
         "start_date": "4/4/2018",
         "end_date": "4/13/2018",
         "date_origin": "event list",
@@ -763,11 +757,11 @@
     ]
   },
   {
-    "name": "Fate/Accel Zero Order Collaboration Event (US)",
+    "name": "Fate/Accel Zero Order Collaboration Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Fate/Accel Zero Order Advance Campaign (US)",
+        "name": "Fate/Accel Zero Order Advance Summoning Campaign",
         "start_date": "4/11/2018",
         "end_date": "4/18/2018",
         "date_origin": "event header jp old",
@@ -781,7 +775,7 @@
         "num_rateups": 5
       },
       {
-        "name": "Fate/Accel Zero Order Collaboration Event (US) Summoning Campaign",
+        "name": "Fate/Accel Zero Order Collaboration Event Summoning Campaign",
         "start_date": "4/19/2018",
         "end_date": "5/10/2018",
         "date_origin": "event list",
@@ -796,11 +790,11 @@
     ]
   },
   {
-    "name": "Sakata Kintoki Summoning Campaign (US)",
+    "name": "Sakata Kintoki Summoning Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Sakata Kintoki Summoning Campaign (US)",
+        "name": "Sakata Kintoki Summoning Campaign",
         "start_date": "5/10/2018",
         "end_date": "5/23/2018",
         "date_origin": "event header jp old",
@@ -812,11 +806,11 @@
     ]
   },
   {
-    "name": "Rashomon Event (US)",
+    "name": "Rashomon Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Rashomon Event (US) Summoning Campaign",
+        "name": "Rashomon Event Summoning Campaign",
         "start_date": "5/16/2018",
         "end_date": "5/30/2018",
         "date_origin": "event list",
@@ -828,11 +822,11 @@
     ]
   },
   {
-    "name": "Sanzang Coming to the West (US)",
+    "name": "Sanzang Coming to the West",
     "region": "NA",
     "banners": [
       {
-        "name": "Sanzang Coming to the West (US) Summoning Campaign",
+        "name": "Sanzang Coming to the West Summoning Campaign",
         "start_date": "5/31/2018",
         "end_date": "6/13/2018",
         "date_origin": "event list",
@@ -847,11 +841,11 @@
     ]
   },
   {
-    "name": "3M Downloads Campaign (US)",
+    "name": "3M Downloads Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "3M Downloads Campaign (US)",
+        "name": "3M Downloads Summoning Campaign",
         "start_date": "6/6/2018",
         "end_date": "6/13/2018",
         "date_origin": "event list",
@@ -863,11 +857,11 @@
     ]
   },
   {
-    "name": "Onigashima Event (US)",
+    "name": "Onigashima Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Onigashima Event (US) Summoning Campaign",
+        "name": "Onigashima Event Summoning Campaign",
         "start_date": "6/14/2018",
         "end_date": "6/27/2018",
         "date_origin": "event list",
@@ -883,13 +877,13 @@
     ]
   },
   {
-    "name": "Camelot Chapter Release (US)",
+    "name": "Camelot Chapter Release",
     "region": "NA",
     "banners": [
       {
-        "name": "Camelot Chapter Release (US)",
+        "name": "Camelot Chapter Release Summoning Campaign",
         "start_date": "6/28/2018",
-        "end_date": "6/28/2018",
+        "end_date": "7/29/2016",
         "date_origin": "event list",
         "rateups": {
           "118": "Ozymandias",
@@ -903,11 +897,11 @@
     ]
   },
   {
-    "name": "FGO Festival 2018 ~1st Anniversary~ (US)",
+    "name": "FGO Festival 2018 ~1st Anniversary~",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO Festival 2018 ~1st Anniversary~ (US)",
+        "name": "FGO Festival 2018 ~1st Anniversary~",
         "start_date": "7/7/2018",
         "end_date": "7/19/2018",
         "date_origin": "event header jp old",
@@ -961,11 +955,11 @@
     ]
   },
   {
-    "name": "Camelot Summoning Campaign 2 (US)",
+    "name": "Camelot Summoning Campaign 2",
     "region": "NA",
     "banners": [
       {
-        "name": "Camelot Summoning Campaign 2 (US)",
+        "name": "Camelot Summoning Campaign 2",
         "start_date": "7/17/2018",
         "end_date": "8/1/2018",
         "date_origin": "event list",
@@ -979,11 +973,11 @@
     ]
   },
   {
-    "name": "FGO Summer 2018 Event (US)",
+    "name": "FGO Summer 2018 Event",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO Summer 2018 Event (US) Summoning Campaign 1",
+        "name": "FGO Summer 2018 Event Summoning Campaign 1",
         "start_date": "7/26/2018",
         "end_date": "8/14/2018",
         "date_origin": "event list",
@@ -996,7 +990,7 @@
         "num_rateups": 4
       },
       {
-        "name": "FGO Summer 2018 Event (US) Summoning Campaign 2",
+        "name": "FGO Summer 2018 Event Summoning Campaign 2",
         "start_date": "7/26/2018",
         "end_date": "8/14/2018",
         "date_origin": "event list",
@@ -1010,11 +1004,11 @@
     ]
   },
   {
-    "name": "Prisma Codes Collaboration Event (US)",
+    "name": "Prisma Codes Collaboration Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Prisma Codes Collaboration Event (US) Summoning Campaign",
+        "name": "Prisma Codes Collaboration Event Summoning Campaign",
         "start_date": "8/23/2018",
         "end_date": "9/4/2018",
         "date_origin": "event list",
@@ -1030,11 +1024,11 @@
     ]
   },
   {
-    "name": "Class Specified Summoning Campaign (US)",
+    "name": "Class Specified Summoning Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Class Specified Summoning Campaign (US)",
+        "name": "Class Specified Summoning Campaign",
         "start_date": "9/4/2018",
         "end_date": "9/11/2018",
         "date_origin": "event header jp old",
@@ -1129,11 +1123,11 @@
     ]
   },
   {
-    "name": "Nero Festival Return ~Autumn 2018~ (US)",
+    "name": "Nero Festival Return ~Autumn 2018~",
     "region": "NA",
     "banners": [
       {
-        "name": "Nero Festival Return ~Autumn 2018~ (US) Summoning Campaign",
+        "name": "Nero Festival Return ~Autumn 2018~ Summoning Campaign",
         "start_date": "9/13/2018",
         "end_date": "9/26/2018",
         "date_origin": "event list",
@@ -1149,11 +1143,11 @@
     ]
   },
   {
-    "name": "Singularity Summon Campaign September 2018 (US)",
+    "name": "Singularity Summon Campaign September 2018",
     "region": "NA",
     "banners": [
       {
-        "name": "Singularity Summon Campaign September 2018 (US)",
+        "name": "Singularity Summon Campaign September 2018",
         "start_date": "9/25/2018",
         "end_date": "10/3/2018",
         "date_origin": "event header jp old",
@@ -1170,7 +1164,7 @@
         "num_rateups": 8
       },
       {
-        "name": "Singularity Summon Campaign September 2018 (US)",
+        "name": "Singularity Summon Campaign September 2018",
         "start_date": "9/25/2018",
         "end_date": "10/3/2018",
         "date_origin": "event header jp old",
@@ -1185,7 +1179,7 @@
         "num_rateups": 6
       },
       {
-        "name": "Singularity Summon Campaign September 2018 (US)",
+        "name": "Singularity Summon Campaign September 2018",
         "start_date": "9/25/2018",
         "end_date": "10/3/2018",
         "date_origin": "event header jp old",
@@ -1199,7 +1193,7 @@
         "num_rateups": 5
       },
       {
-        "name": "Singularity Summon Campaign September 2018 (US)",
+        "name": "Singularity Summon Campaign September 2018",
         "start_date": "9/25/2018",
         "end_date": "10/3/2018",
         "date_origin": "event header jp old",
@@ -1214,7 +1208,7 @@
         "num_rateups": 6
       },
       {
-        "name": "Singularity Summon Campaign September 2018 (US)",
+        "name": "Singularity Summon Campaign September 2018",
         "start_date": "9/25/2018",
         "end_date": "10/3/2018",
         "date_origin": "event header jp old",
@@ -1231,7 +1225,7 @@
         "num_rateups": 8
       },
       {
-        "name": "Singularity Summon Campaign September 2018 (US)",
+        "name": "Singularity Summon Campaign September 2018",
         "start_date": "9/25/2018",
         "end_date": "10/3/2018",
         "date_origin": "event header jp old",
@@ -1249,7 +1243,7 @@
         "num_rateups": 9
       },
       {
-        "name": "Singularity Summon Campaign September 2018 (US)",
+        "name": "Singularity Summon Campaign September 2018",
         "start_date": "9/25/2018",
         "end_date": "10/3/2018",
         "date_origin": "event header jp old",
@@ -1269,11 +1263,11 @@
     ]
   },
   {
-    "name": "Halloween 2017 Event Revival (US)",
+    "name": "Halloween 2017 Event Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "Halloween 2017 Event Revival (US) Summoning Campaign",
+        "name": "Halloween 2017 Event Revival Summoning Campaign",
         "start_date": "10/4/2018",
         "end_date": "10/17/2018",
         "date_origin": "event list",
@@ -1289,13 +1283,13 @@
     ]
   },
   {
-    "name": "4M Downloads Campaign (US)",
+    "name": "4M Downloads Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "4M Downloads Campaign (US)",
+        "name": "4M Downloads Summoning Campaign",
         "start_date": "10/17/2018",
-        "end_date": "10/24/2018",
+        "end_date": "10/14/2015",
         "date_origin": "event header jp old",
         "rateups": {
           "106": "Jeanne d'Arc (Alter)"
@@ -1305,11 +1299,11 @@
     ]
   },
   {
-    "name": "Halloween 2018 Event (US)",
+    "name": "Halloween 2018 Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Halloween 2018 Event (US) Summoning Campaign",
+        "name": "Halloween 2018 Event Summoning Campaign",
         "start_date": "10/25/2018",
         "end_date": "11/8/2018",
         "date_origin": "event list",
@@ -1322,11 +1316,11 @@
     ]
   },
   {
-    "name": "New Interludes and Knights of the Round Table Summon Campaign (US)",
+    "name": "New Interludes and Knights of the Round Table Summon Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "New Interludes and Knights of the Round Table Summon Campaign (US) Knights of the Round Table Summon Summoning Campaign",
+        "name": "New Interludes and Knights of the Round Table Summon Campaign Knights of the Round Table Summon Summoning Campaign",
         "start_date": "11/7/2018",
         "end_date": "11/20/2018",
         "date_origin": "tab",
@@ -1346,11 +1340,11 @@
     ]
   },
   {
-    "name": "Christmas 2017 Event Revival (US)",
+    "name": "Christmas 2017 Event Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "Christmas 2017 Event Revival (US) Summoning Campaign",
+        "name": "Christmas 2017 Event Revival Summoning Campaign",
         "start_date": "11/13/2018",
         "end_date": "11/20/2018",
         "date_origin": "event list",
@@ -1366,11 +1360,11 @@
     ]
   },
   {
-    "name": "FGO Thanksgiving Special 2018 (US)",
+    "name": "FGO Thanksgiving Special 2018",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO Thanksgiving Special 2018 (US) Summoning Campaign",
+        "name": "FGO Thanksgiving Special 2018 Summoning Campaign",
         "start_date": "11/18/2018",
         "end_date": "11/26/2018",
         "date_origin": "event header jp old",
@@ -1388,11 +1382,11 @@
     ]
   },
   {
-    "name": "Christmas 2018 Event (US)",
+    "name": "Christmas 2018 Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Christmas 2018 Event (US) Summoning Campaign Summon Campaign 1",
+        "name": "Christmas 2018 Event Summoning Campaign Summon Campaign 1",
         "start_date": "11/26/2018",
         "end_date": "12/5/2018",
         "date_origin": "event list",
@@ -1402,7 +1396,7 @@
         "num_rateups": 1
       },
       {
-        "name": "Christmas 2018 Event (US) Summoning Campaign Summon Campaign 2",
+        "name": "Christmas 2018 Event Summoning Campaign Summon Campaign 2",
         "start_date": "11/26/2018",
         "end_date": "12/5/2018",
         "date_origin": "event list",
@@ -1414,11 +1408,11 @@
     ]
   },
   {
-    "name": "Babylonia Chapter Release (US)",
+    "name": "Babylonia Chapter Release",
     "region": "NA",
     "banners": [
       {
-        "name": "Babylonia Chapter Release (US) Summoning Campaign",
+        "name": "Babylonia Chapter Release Summoning Campaign",
         "start_date": "12/5/2018",
         "end_date": "12/5/2018",
         "date_origin": "event list",
@@ -1432,11 +1426,11 @@
     ]
   },
   {
-    "name": "Babylonia Summoning Campaign 2 (US)",
+    "name": "Babylonia Summoning Campaign 2",
     "region": "NA",
     "banners": [
       {
-        "name": "Babylonia Summoning Campaign 2 (US)",
+        "name": "Babylonia Summoning Campaign 2",
         "start_date": "12/12/2018",
         "end_date": "12/31/2018",
         "date_origin": "event list",
@@ -1450,13 +1444,13 @@
     ]
   },
   {
-    "name": "Solomon Chapter Release (US)",
+    "name": "Solomon Chapter Release",
     "region": "NA",
     "banners": [
       {
-        "name": "Solomon Chapter Release (US) Summoning Campaign",
+        "name": "Solomon Chapter Release Summoning Campaign",
         "start_date": "12/20/2018",
-        "end_date": "12/20/2018",
+        "end_date": "12/31/2016",
         "date_origin": "event list",
         "rateups": {
           "150": "Merlin"
@@ -1466,11 +1460,11 @@
     ]
   },
   {
-    "name": "Happy New Year 2019 (US)",
+    "name": "Happy New Year 2019",
     "region": "NA",
     "banners": [
       {
-        "name": "Happy New Year 2019 (US) Summoning Campaign",
+        "name": "Happy New Year 2019 Summoning Campaign",
         "start_date": "12/31/2018",
         "end_date": "1/9/2019",
         "date_origin": "event list",
@@ -1484,11 +1478,11 @@
     ]
   },
   {
-    "name": "\"First Hassan\" Summoning Campaign (US)",
+    "name": "\"First Hassan\" Summoning Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "\"First Hassan\" Summoning Campaign (US)",
+        "name": "\"First Hassan\" Summoning Campaign",
         "start_date": "1/9/2019",
         "end_date": "1/23/2019",
         "date_origin": "event header jp old",
@@ -1500,11 +1494,11 @@
     ]
   },
   {
-    "name": "Moon Goddess Event Revival (US)",
+    "name": "Moon Goddess Event Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "Moon Goddess Event Revival (US) Summoning Campaign",
+        "name": "Moon Goddess Event Revival Summoning Campaign",
         "start_date": "1/16/2019",
         "end_date": "1/23/2019",
         "date_origin": "event list",
@@ -1520,11 +1514,11 @@
     ]
   },
   {
-    "name": "Vengeful Demon's Wail at the Prison Tower Revival (US)",
+    "name": "Vengeful Demon's Wail at the Prison Tower Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "Vengeful Demon's Wail at the Prison Tower Revival (US) Summoning Campaign",
+        "name": "Vengeful Demon's Wail at the Prison Tower Revival Summoning Campaign",
         "start_date": "1/23/2019",
         "end_date": "2/6/2019",
         "date_origin": "event list",
@@ -1536,11 +1530,11 @@
     ]
   },
   {
-    "name": "5M Downloads Campaign (US)",
+    "name": "5M Downloads Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "5M Downloads Campaign (US)",
+        "name": "5M Downloads Summoning Campaign",
         "start_date": "1/30/2019",
         "end_date": "2/13/2019",
         "date_origin": "event header jp old",
@@ -1552,11 +1546,11 @@
     ]
   },
   {
-    "name": "Valentine 2018 Event Revival (US)",
+    "name": "Valentine 2018 Event Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "Valentine 2018 Event Revival (US) Summoning Campaign",
+        "name": "Valentine 2018 Event Revival Summoning Campaign",
         "start_date": "2/6/2019",
         "end_date": "2/20/2019",
         "date_origin": "event list",
@@ -1579,7 +1573,7 @@
         "num_rateups": 14
       },
       {
-        "name": "Valentine 2018 Event Revival (US) Summoning Campaign",
+        "name": "Valentine 2018 Event Revival Summoning Campaign",
         "start_date": "2/6/2019",
         "end_date": "2/20/2019",
         "date_origin": "event list",
@@ -1598,11 +1592,11 @@
     ]
   },
   {
-    "name": "FGO USA Tour 2019 Kickoff Commemorative Campaign (US)",
+    "name": "FGO USA Tour 2019 Kickoff Commemorative Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO USA Tour 2019 Kickoff Commemorative Campaign (US) Summoning Campaign",
+        "name": "FGO USA Tour 2019 Kickoff Commemorative Summoning Campaign",
         "start_date": "2/18/2019",
         "end_date": "2/24/2019",
         "date_origin": "event header jp old",
@@ -1670,11 +1664,11 @@
     ]
   },
   {
-    "name": "Shinjuku Chapter Release (US)",
+    "name": "Shinjuku Chapter Release",
     "region": "NA",
     "banners": [
       {
-        "name": "Shinjuku Chapter Release (US) Summoning Campaign",
+        "name": "Shinjuku Chapter Release Summoning Campaign",
         "start_date": "2/24/2019",
         "end_date": "2/24/2019",
         "date_origin": "event list",
@@ -1688,11 +1682,11 @@
     ]
   },
   {
-    "name": "Shinjuku Summoning Campaign 2 (US)",
+    "name": "Shinjuku Summoning Campaign 2",
     "region": "NA",
     "banners": [
       {
-        "name": "Shinjuku Summoning Campaign 2 (US)",
+        "name": "Shinjuku Summoning Campaign 2",
         "start_date": "3/3/2019",
         "end_date": "3/19/2019",
         "date_origin": "event header jp old",
@@ -1705,11 +1699,11 @@
     ]
   },
   {
-    "name": "Chaldea Boys Collection 2018 Revival (US)",
+    "name": "Chaldea Boys Collection 2018 Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "Chaldea Boys Collection 2018 Revival (US) Summoning Campaign",
+        "name": "Chaldea Boys Collection 2018 Revival Summoning Campaign",
         "start_date": "3/6/2019",
         "end_date": "3/20/2019",
         "date_origin": "event header jp old",
@@ -1723,11 +1717,11 @@
     ]
   },
   {
-    "name": "Chaldea Boys Collection 2019 (US)",
+    "name": "Chaldea Boys Collection 2019",
     "region": "NA",
     "banners": [
       {
-        "name": "Chaldea Boys Collection 2019 (US) Summoning Campaign",
+        "name": "Chaldea Boys Collection 2019 Summoning Campaign",
         "start_date": "3/6/2019",
         "end_date": "3/20/2019",
         "date_origin": "event header jp old",
@@ -1747,11 +1741,11 @@
     ]
   },
   {
-    "name": "GUDAGUDA Honnouji Event Revival (US)",
+    "name": "GUDAGUDA Honnouji Event Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "GUDAGUDA Honnouji Event Revival (US) Summoning Campaign",
+        "name": "GUDAGUDA Honnouji Event Revival Summoning Campaign",
         "start_date": "3/12/2019",
         "end_date": "3/27/2019",
         "date_origin": "event list",
@@ -1767,11 +1761,11 @@
     ]
   },
   {
-    "name": "Class Based Summoning Campaign (US)",
+    "name": "Class Based Summoning Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Class Based Summoning Campaign (US)",
+        "name": "Class Based Summoning Campaign",
         "start_date": "3/19/2019",
         "end_date": "3/26/2019",
         "date_origin": "event header jp old",
@@ -1877,11 +1871,11 @@
     ]
   },
   {
-    "name": "GUDAGUDA Meiji Restoration (US)",
+    "name": "GUDAGUDA Meiji Restoration",
     "region": "NA",
     "banners": [
       {
-        "name": "GUDAGUDA Meiji Restoration (US) Summoning Campaign",
+        "name": "GUDAGUDA Meiji Restoration Summoning Campaign",
         "start_date": "3/28/2019",
         "end_date": "4/10/2019",
         "date_origin": "event list",
@@ -1897,11 +1891,11 @@
     ]
   },
   {
-    "name": "Fate/Extra CCC Collaboration Event (US)",
+    "name": "Fate/Extra CCC Collaboration Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Fate/Extra CCC Event Pre-Release Campaign (US) Summoning Campaign",
+        "name": "Fate/Extra CCC Event Pre-Release Summoning Campaign",
         "start_date": "4/9/2019",
         "end_date": "5/15/2019",
         "date_origin": "event header jp old",
@@ -1920,7 +1914,7 @@
         "num_rateups": 10
       },
       {
-        "name": "Fate/Extra CCC Collaboration Event (US) Summoning Campaign 1",
+        "name": "Fate/Extra CCC Collaboration Event Summoning Campaign 1",
         "start_date": "4/23/2019",
         "end_date": "5/15/2019",
         "date_origin": "event list",
@@ -1932,7 +1926,7 @@
         "num_rateups": 3
       },
       {
-        "name": "Fate/Extra CCC Collaboration Event (US) Summoning Campaign 2",
+        "name": "Fate/Extra CCC Collaboration Event Summoning Campaign 2",
         "start_date": "4/23/2019",
         "end_date": "5/15/2019",
         "date_origin": "event list",
@@ -1947,11 +1941,11 @@
     ]
   },
   {
-    "name": "6M Downloads Campaign (US)",
+    "name": "6M Downloads Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "6M Downloads Campaign (US)",
+        "name": "6M Downloads Summoning Campaign",
         "start_date": "5/15/2019",
         "end_date": "5/30/2019",
         "date_origin": "event header jp old",
@@ -1971,11 +1965,11 @@
     ]
   },
   {
-    "name": "Rashomon Event Revival (US)",
+    "name": "Rashomon Event Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "Rashomon Event Revival (US) Summoning Campaign",
+        "name": "Rashomon Event Revival Summoning Campaign",
         "start_date": "5/22/2019",
         "end_date": "5/30/2019",
         "date_origin": "event list",
@@ -1988,11 +1982,11 @@
     ]
   },
   {
-    "name": "Main Quest 1/2 AP + Shinjuku Summoning Campaign (US)",
+    "name": "Main Quest 1/2 AP + Shinjuku Summoning Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Main Quest 1/2 AP + Shinjuku Summoning Campaign (US)",
+        "name": "Main Quest 1/2 AP + Shinjuku Summoning Campaign",
         "start_date": "5/27/2019",
         "end_date": "6/13/2019",
         "date_origin": "event header jp old",
@@ -2006,11 +2000,11 @@
     ]
   },
   {
-    "name": "Onigashima Event Revival (US)",
+    "name": "Onigashima Event Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "Onigashima Event Revival (US) Summoning Campaign",
+        "name": "Onigashima Event Revival Summoning Campaign",
         "start_date": "6/6/2019",
         "end_date": "6/20/2019",
         "date_origin": "event list",
@@ -2031,11 +2025,11 @@
     ]
   },
   {
-    "name": "Agartha Chapter Release (US)",
+    "name": "Agartha Chapter Release",
     "region": "NA",
     "banners": [
       {
-        "name": "Agartha Chapter Release (US) Summoning Campaign",
+        "name": "Agartha Chapter Release Summoning Campaign",
         "start_date": "6/21/2019",
         "end_date": "6/21/2019",
         "date_origin": "event list",
@@ -2049,11 +2043,11 @@
     ]
   },
   {
-    "name": "Agartha Summoning Campaign 2 (US)",
+    "name": "Agartha Summoning Campaign 2",
     "region": "NA",
     "banners": [
       {
-        "name": "Agartha Summoning Campaign 2 (US)",
+        "name": "Agartha Summoning Campaign 2",
         "start_date": "6/27/2019",
         "end_date": "7/11/2019",
         "date_origin": "event header jp old",
@@ -2067,11 +2061,11 @@
     ]
   },
   {
-    "name": "FGO Festival 2019 ~2nd Anniversary~ (US)",
+    "name": "FGO Festival 2019 ~2nd Anniversary~",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO Festival 2019 ~2nd Anniversary~ (US) Summoning Campaign",
+        "name": "FGO Festival 2019 ~2nd Anniversary~ Summoning Campaign",
         "start_date": "7/3/2019",
         "end_date": "7/21/2019",
         "date_origin": "event list",
@@ -2149,11 +2143,11 @@
     ]
   },
   {
-    "name": "FGO Summer 2018 Event Revival (US)",
+    "name": "FGO Summer 2018 Event Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO Summer 2018 Event Revival (US) Summoning Campaign 1",
+        "name": "FGO Summer 2018 Event Revival Summoning Campaign 1",
         "start_date": "7/12/2019",
         "end_date": "7/28/2019",
         "date_origin": "event list",
@@ -2166,7 +2160,7 @@
         "num_rateups": 4
       },
       {
-        "name": "FGO Summer 2018 Event Revival (US) Summoning Campaign 2",
+        "name": "FGO Summer 2018 Event Revival Summoning Campaign 2",
         "start_date": "7/12/2019",
         "end_date": "7/28/2019",
         "date_origin": "event list",
@@ -2180,11 +2174,11 @@
     ]
   },
   {
-    "name": "FGO Summer 2019 Event (US)",
+    "name": "FGO Summer 2019 Event",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO Summer 2019 Event (US) Summoning Campaign 1",
+        "name": "FGO Summer 2019 Event Summoning Campaign 1",
         "start_date": "7/29/2019",
         "end_date": "8/20/2019",
         "date_origin": "event list",
@@ -2197,7 +2191,7 @@
         "num_rateups": 4
       },
       {
-        "name": "FGO Summer 2019 Event (US) Summoning Campaign 2",
+        "name": "FGO Summer 2019 Event Summoning Campaign 2",
         "start_date": "7/29/2019",
         "end_date": "8/20/2019",
         "date_origin": "event list",
@@ -2209,7 +2203,7 @@
         "num_rateups": 3
       },
       {
-        "name": "FGO Summer 2019 Event (US) Summoning Campaign 3",
+        "name": "FGO Summer 2019 Event Summoning Campaign 3",
         "start_date": "7/29/2019",
         "end_date": "8/20/2019",
         "date_origin": "event list",
@@ -2224,11 +2218,11 @@
     ]
   },
   {
-    "name": "Illyasviel von Einzbern Summoning Campaign (US)",
+    "name": "Illyasviel von Einzbern Summoning Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Illyasviel von Einzbern Summoning Campaign (US)",
+        "name": "Illyasviel von Einzbern Summoning Campaign",
         "start_date": "8/21/2019",
         "end_date": "9/3/2019",
         "date_origin": "event header jp old",
@@ -2240,11 +2234,11 @@
     ]
   },
   {
-    "name": "Class Specific Summoning Campaign (US)",
+    "name": "Class Specific Summoning Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Class Specific Summoning Campaign (US)",
+        "name": "Class Specific Summoning Campaign",
         "start_date": "8/21/2019",
         "end_date": "9/3/2019",
         "date_origin": "event header jp old",
@@ -2354,11 +2348,11 @@
     ]
   },
   {
-    "name": "Nero Festival Return ~Autumn 2019~ (US)",
+    "name": "Nero Festival Return ~Autumn 2019~",
     "region": "NA",
     "banners": [
       {
-        "name": "Nero Festival Return ~Autumn 2019~ (US) Summoning Campaign",
+        "name": "Nero Festival Return ~Autumn 2019~ Summoning Campaign",
         "start_date": "8/29/2019",
         "end_date": "9/11/2019",
         "date_origin": "event list",
@@ -2372,11 +2366,11 @@
     ]
   },
   {
-    "name": "7M Downloads Campaign (US)",
+    "name": "7M Downloads Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "7M Downloads Campaign (US) Summoning Campaign",
+        "name": "7M Downloads Summoning Campaign",
         "start_date": "9/12/2019",
         "end_date": "9/25/2019",
         "date_origin": "event header jp old",
@@ -2392,11 +2386,11 @@
     ]
   },
   {
-    "name": "Halloween 2018 Event Revival (US)",
+    "name": "Halloween 2018 Event Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "Halloween 2018 Event Revival (US) Summoning Campaign",
+        "name": "Halloween 2018 Event Revival Summoning Campaign",
         "start_date": "9/19/2019",
         "end_date": "10/2/2019",
         "date_origin": "event list",
@@ -2412,11 +2406,11 @@
     ]
   },
   {
-    "name": "Fate/Stay Night Heaven's Feel II Blu-ray Release Commemorative Campaign (US)",
+    "name": "Fate/Stay Night Heaven's Feel II Blu-ray Release Commemorative Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Fate/Stay Night Heaven's Feel II Blu-ray Release Commemorative Campaign (US) Summoning Campaign",
+        "name": "Fate/Stay Night Heaven's Feel II Blu-ray Release Commemorative Summoning Campaign",
         "start_date": "10/1/2019",
         "end_date": "10/16/2019",
         "date_origin": "event header jp old",
@@ -2435,11 +2429,11 @@
     ]
   },
   {
-    "name": "Shimousa Chapter Release (US)",
+    "name": "Shimousa Chapter Release",
     "region": "NA",
     "banners": [
       {
-        "name": "Shimousa Chapter Release (US) Summoning Campaign",
+        "name": "Shimousa Chapter Release Summoning Campaign",
         "start_date": "10/10/2019",
         "end_date": "10/10/2019",
         "date_origin": "event list",
@@ -2454,11 +2448,11 @@
     ]
   },
   {
-    "name": "Shimousa Summoning Campaign 2 (US)",
+    "name": "Shimousa Summoning Campaign 2",
     "region": "NA",
     "banners": [
       {
-        "name": "Shimousa Summoning Campaign 2 (US)",
+        "name": "Shimousa Summoning Campaign 2",
         "start_date": "10/16/2019",
         "end_date": "10/28/2019",
         "date_origin": "event header jp old",
@@ -2474,11 +2468,11 @@
     ]
   },
   {
-    "name": "Halloween 2019 Event (US)",
+    "name": "Halloween 2019 Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Halloween 2019 Event (US) Summoning Campaign",
+        "name": "Halloween 2019 Event Summoning Campaign",
         "start_date": "10/23/2019",
         "end_date": "11/7/2019",
         "date_origin": "event list",
@@ -2495,11 +2489,11 @@
     ]
   },
   {
-    "name": "Interlude Campaign 3 (US)",
+    "name": "Interlude Campaign 3",
     "region": "NA",
     "banners": [
       {
-        "name": "Interlude Campaign 3 (US) Summoning Campaign",
+        "name": "Interlude Campaign 3 Summoning Campaign",
         "start_date": "10/30/2019",
         "end_date": "11/13/2019",
         "date_origin": "event header jp old",
@@ -2515,11 +2509,11 @@
     ]
   },
   {
-    "name": "Fate/Grand Order Absolute Demonic Front: Babylonia Anime Release Campaign (US)",
+    "name": "Fate/Grand Order Absolute Demonic Front: Babylonia Anime Release Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Fate/Grand Order Absolute Demonic Front: Babylonia Anime Release Campaign (US) Summoning Campaign",
+        "name": "Fate/Grand Order Absolute Demonic Front: Babylonia Anime Release Summoning Campaign",
         "start_date": "10/30/2019",
         "end_date": "11/14/2019",
         "date_origin": "event header jp old",
@@ -2535,11 +2529,11 @@
     ]
   },
   {
-    "name": "8M Downloads Campaign (US)",
+    "name": "8M Downloads Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "8M Downloads Campaign (US) Summoning Campaign",
+        "name": "8M Downloads Summoning Campaign",
         "start_date": "11/7/2019",
         "end_date": "11/20/2019",
         "date_origin": "event header jp old",
@@ -2553,11 +2547,11 @@
     ]
   },
   {
-    "name": "Christmas 2018 Event Revival (US)",
+    "name": "Christmas 2018 Event Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "Christmas 2018 Event Revival (US) Summoning Campaign",
+        "name": "Christmas 2018 Event Revival Summoning Campaign",
         "start_date": "11/12/2019",
         "end_date": "11/21/2019",
         "date_origin": "event list",
@@ -2574,11 +2568,11 @@
     ]
   },
   {
-    "name": "FGO Thanksgiving Special 2019 (US)",
+    "name": "FGO Thanksgiving Special 2019",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO Thanksgiving Special 2019 (US) Summoning Campaign",
+        "name": "FGO Thanksgiving Special 2019 Summoning Campaign",
         "start_date": "11/20/2019",
         "end_date": "12/1/2019",
         "date_origin": "event header jp old",
@@ -2597,11 +2591,11 @@
     ]
   },
   {
-    "name": "Salem Chapter Release (US)",
+    "name": "Salem Chapter Release",
     "region": "NA",
     "banners": [
       {
-        "name": "Salem Chapter Release (US) Summoning Campaign",
+        "name": "Salem Chapter Release Summoning Campaign",
         "start_date": "12/2/2019",
         "end_date": "12/2/2019",
         "date_origin": "event list",
@@ -2614,11 +2608,11 @@
     ]
   },
   {
-    "name": "Salem Summoning Campaign 2 (US)",
+    "name": "Salem Summoning Campaign 2",
     "region": "NA",
     "banners": [
       {
-        "name": "Salem Summoning Campaign 2 (US)",
+        "name": "Salem Summoning Campaign 2",
         "start_date": "12/8/2019",
         "end_date": "12/22/2019",
         "date_origin": "event header jp old",
@@ -2631,11 +2625,11 @@
     ]
   },
   {
-    "name": "Christmas 2019 Event (US)",
+    "name": "Christmas 2019 Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Christmas 2019 Event (US) Summoning Campaign",
+        "name": "Christmas 2019 Event Summoning Campaign",
         "start_date": "12/16/2019",
         "end_date": "12/25/2019",
         "date_origin": "event list",
@@ -2651,11 +2645,11 @@
     ]
   },
   {
-    "name": "Happy New Year 2020 (US)",
+    "name": "Happy New Year 2020",
     "region": "NA",
     "banners": [
       {
-        "name": "Happy New Year 2020 (US) Summoning Campaign",
+        "name": "Happy New Year 2020 Summoning Campaign",
         "start_date": "12/31/2019",
         "end_date": "1/10/2020",
         "date_origin": "event list",
@@ -2673,11 +2667,11 @@
     ]
   },
   {
-    "name": "Da Vinci and the 7 Counterfeit Heroic Spirits Revival (US)",
+    "name": "Da Vinci and the 7 Counterfeit Heroic Spirits Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "Da Vinci and the 7 Counterfeit Heroic Spirits Revival (US) Summoning Campaign",
+        "name": "Da Vinci and the 7 Counterfeit Heroic Spirits Revival Summoning Campaign",
         "start_date": "1/10/2020",
         "end_date": "1/19/2020",
         "date_origin": "event list",
@@ -2697,11 +2691,11 @@
     ]
   },
   {
-    "name": "The Tale of Setsubun (US)",
+    "name": "The Tale of Setsubun",
     "region": "NA",
     "banners": [
       {
-        "name": "The Tale of Setsubun (US) Summoning Campaign",
+        "name": "The Tale of Setsubun Summoning Campaign",
         "start_date": "1/27/2020",
         "end_date": "2/2/2020",
         "date_origin": "event list",
@@ -2717,11 +2711,11 @@
     ]
   },
   {
-    "name": "Valentine 2020 Event (US)",
+    "name": "Valentine 2020 Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Valentine 2020 Event (US) Summoning Campaign",
+        "name": "Valentine 2020 Event Summoning Campaign",
         "start_date": "2/3/2020",
         "end_date": "2/17/2020",
         "date_origin": "event list",
@@ -2748,11 +2742,11 @@
     ]
   },
   {
-    "name": "Valentine 2019 Summoning Campaign Revival (US)",
+    "name": "Valentine 2019 Summoning Campaign Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "Valentine 2019 Summoning Campaign Revival (US)",
+        "name": "Valentine 2019 Summoning Campaign Revival",
         "start_date": "2/9/2020",
         "end_date": "2/23/2020",
         "date_origin": "event header jp old",
@@ -2764,11 +2758,11 @@
     ]
   },
   {
-    "name": "The Garden of Sinners Collaboration Event Revival (US)",
+    "name": "The Garden of Sinners Collaboration Event Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "The Garden of Sinners Collaboration Event Revival (US) Summoning Campaign",
+        "name": "The Garden of Sinners Collaboration Event Revival Summoning Campaign",
         "start_date": "2/18/2020",
         "end_date": "3/1/2020",
         "date_origin": "event list",
@@ -2786,13 +2780,13 @@
     ]
   },
   {
-    "name": "9M Downloads Campaign (US)",
+    "name": "9M Downloads Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "9M Downloads Campaign (US) Summoning Campaign",
+        "name": "9M Downloads Summoning Campaign",
         "start_date": "2/24/2020",
-        "end_date": "3/9/2020",
+        "end_date": "6/7/2017",
         "date_origin": "event header jp old",
         "rateups": {
           "157": "EMIYA (Alter)",
@@ -2805,11 +2799,11 @@
     ]
   },
   {
-    "name": "Chaldea Boys Collection 2020 (US)",
+    "name": "Chaldea Boys Collection 2020",
     "region": "NA",
     "banners": [
       {
-        "name": "Chaldea Boys Collection 2020 (US) Summoning Campaign",
+        "name": "Chaldea Boys Collection 2020 Summoning Campaign",
         "start_date": "3/5/2020",
         "end_date": "3/12/2020",
         "date_origin": "event header jp old",
@@ -2829,11 +2823,11 @@
     ]
   },
   {
-    "name": "Saber Wars Event Revival (US)",
+    "name": "Saber Wars Event Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "Saber Wars Event Revival (US) Summoning Campaign",
+        "name": "Saber Wars Event Revival Summoning Campaign",
         "start_date": "3/13/2020",
         "end_date": "3/26/2020",
         "date_origin": "event list",
@@ -2848,11 +2842,11 @@
     ]
   },
   {
-    "name": "New Interludes + Class Pickup Summoning Campaign (US)",
+    "name": "New Interludes + Class Pickup Summoning Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "New Interludes + Class Pickup Summoning Campaign (US) Summoning Campaign",
+        "name": "New Interludes + Class Pickup Summoning Campaign",
         "start_date": "3/19/2020",
         "end_date": "4/2/2020",
         "date_origin": "tab",
@@ -2972,11 +2966,11 @@
     ]
   },
   {
-    "name": "Anastasia Chapter Release (US)",
+    "name": "Anastasia Chapter Release",
     "region": "NA",
     "banners": [
       {
-        "name": "Anastasia Chapter Release (US) Summoning Campaign",
+        "name": "Anastasia Chapter Release Summoning Campaign",
         "start_date": "3/27/2020",
         "end_date": "3/27/2020",
         "date_origin": "event list",
@@ -2990,11 +2984,11 @@
     ]
   },
   {
-    "name": "Anastasia Summoning Campaign 2 (US)",
+    "name": "Anastasia Summoning Campaign 2",
     "region": "NA",
     "banners": [
       {
-        "name": "Anastasia Summoning Campaign 2 (US)",
+        "name": "Anastasia Summoning Campaign 2",
         "start_date": "4/2/2020",
         "end_date": "4/16/2020",
         "date_origin": "event header jp old",
@@ -3007,11 +3001,11 @@
     ]
   },
   {
-    "name": "Sanzang Coming to the West Revival (US)",
+    "name": "Sanzang Coming to the West Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "Sanzang Coming to the West Revival (US) Summoning Campaign",
+        "name": "Sanzang Coming to the West Revival Summoning Campaign",
         "start_date": "4/10/2020",
         "end_date": "4/20/2020",
         "date_origin": "event list",
@@ -3031,11 +3025,11 @@
     ]
   },
   {
-    "name": "Fate/Apocrypha Collaboration Event (US)",
+    "name": "Fate/Apocrypha Collaboration Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Fate/Apocrypha Event Pre-Release Campaign (US) Summoning Campaign",
+        "name": "Fate/Apocrypha Event Pre-Release Summoning Campaign",
         "start_date": "4/19/2020",
         "end_date": "5/3/2020",
         "date_origin": "event header jp old",
@@ -3055,7 +3049,7 @@
         "num_rateups": 11
       },
       {
-        "name": "Fate/Apocrypha Collaboration Event (US) Summoning Campaign",
+        "name": "Fate/Apocrypha Collaboration Event Summoning Campaign",
         "start_date": "4/24/2020",
         "end_date": "5/7/2020",
         "date_origin": "event list",
@@ -3068,11 +3062,11 @@
     ]
   },
   {
-    "name": "GUDAGUDA Meiji Restoration Revival (US)",
+    "name": "GUDAGUDA Meiji Restoration Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "GUDAGUDA Meiji Restoration Revival (US) Summoning Campaign",
+        "name": "GUDAGUDA Meiji Restoration Revival Summoning Campaign",
         "start_date": "5/8/2020",
         "end_date": "5/19/2020",
         "date_origin": "event list",
@@ -3090,11 +3084,11 @@
     ]
   },
   {
-    "name": "Okita Souji Summoning Campaign (US)",
+    "name": "Okita Souji Summoning Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Okita Souji Summoning Campaign (US)",
+        "name": "Okita Souji Summoning Campaign",
         "start_date": "5/13/2020",
         "end_date": "5/27/2020",
         "date_origin": "event header jp old",
@@ -3106,11 +3100,11 @@
     ]
   },
   {
-    "name": "Murder at the Kogetsukan (US)",
+    "name": "Murder at the Kogetsukan",
     "region": "NA",
     "banners": [
       {
-        "name": "Murder at the Kogetsukan (US) Summoning Campaign",
+        "name": "Murder at the Kogetsukan Summoning Campaign",
         "start_date": "5/19/2020",
         "end_date": "6/2/2020",
         "date_origin": "event header jp old",
@@ -3131,11 +3125,11 @@
     ]
   },
   {
-    "name": "10M Downloads Campaign (US)",
+    "name": "10M Downloads Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "10M Downloads Campaign (US) Summoning Campaign",
+        "name": "10M Downloads Summoning Campaign",
         "start_date": "5/27/2020",
         "end_date": "6/9/2020",
         "date_origin": "event header jp old",
@@ -3150,11 +3144,11 @@
     ]
   },
   {
-    "name": "GUDAGUDA Legend of the Imperial Capital Grail (US)",
+    "name": "GUDAGUDA Legend of the Imperial Capital Grail",
     "region": "NA",
     "banners": [
       {
-        "name": "GUDAGUDA Legend of the Imperial Capital Grail (US) Summoning Campaign",
+        "name": "GUDAGUDA Legend of the Imperial Capital Grail Summoning Campaign",
         "start_date": "6/3/2020",
         "end_date": "6/16/2020",
         "date_origin": "event list",
@@ -3171,11 +3165,11 @@
     ]
   },
   {
-    "name": "G\u00f6tterd\u00e4mmerung Chapter Release (US)",
+    "name": "G\u00f6tterd\u00e4mmerung Chapter Release",
     "region": "NA",
     "banners": [
       {
-        "name": "G\u00f6tterd\u00e4mmerung Pre-Release Campaign (US) Summoning Campaign",
+        "name": "G\u00f6tterd\u00e4mmerung Pre-Release Summoning Campaign",
         "start_date": "6/18/2020",
         "end_date": "7/2/2020",
         "date_origin": "event header jp old",
@@ -3185,7 +3179,7 @@
         "num_rateups": 1
       },
       {
-        "name": "G\u00f6tterd\u00e4mmerung Chapter Release (US) Summoning Campaign",
+        "name": "G\u00f6tterd\u00e4mmerung Chapter Release Summoning Campaign",
         "start_date": "6/23/2020",
         "end_date": "6/23/2020",
         "date_origin": "event list",
@@ -3199,11 +3193,11 @@
     ]
   },
   {
-    "name": "FGO Festival 2020 ~3rd Anniversary~ (US)",
+    "name": "FGO Festival 2020 ~3rd Anniversary~",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO Festival 2020 ~3rd Anniversary~ (US) Summoning Campaign",
+        "name": "FGO Festival 2020 ~3rd Anniversary~ Summoning Campaign",
         "start_date": "7/6/2020",
         "end_date": "7/22/2020",
         "date_origin": "event list",
@@ -3273,11 +3267,11 @@
     ]
   },
   {
-    "name": "FGO Summer 2019 Event Revival (US)",
+    "name": "FGO Summer 2019 Event Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO Summer 2019 Event Revival (US) Summoning Campaign 1",
+        "name": "FGO Summer 2019 Event Revival Summoning Campaign 1",
         "start_date": "7/17/2020",
         "end_date": "8/1/2020",
         "date_origin": "event list",
@@ -3290,7 +3284,7 @@
         "num_rateups": 4
       },
       {
-        "name": "FGO Summer 2019 Event Revival (US) Summoning Campaign 2",
+        "name": "FGO Summer 2019 Event Revival Summoning Campaign 2",
         "start_date": "7/17/2020",
         "end_date": "8/1/2020",
         "date_origin": "event list",
@@ -3302,7 +3296,7 @@
         "num_rateups": 3
       },
       {
-        "name": "FGO Summer 2019 Event Revival (US) Summoning Campaign 3",
+        "name": "FGO Summer 2019 Event Revival Summoning Campaign 3",
         "start_date": "7/17/2020",
         "end_date": "8/1/2020",
         "date_origin": "event list",
@@ -3316,11 +3310,11 @@
     ]
   },
   {
-    "name": "FGO Summer 2020 Event (US)",
+    "name": "FGO Summer 2020 Event",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO Summer 2020 Event (US) Summoning Campaign 1",
+        "name": "FGO Summer 2020 Event Summoning Campaign 1",
         "start_date": "8/3/2020",
         "end_date": "8/22/2020",
         "date_origin": "event list",
@@ -3332,7 +3326,7 @@
         "num_rateups": 3
       },
       {
-        "name": "FGO Summer 2020 Event (US) Summoning Campaign 2",
+        "name": "FGO Summer 2020 Event Summoning Campaign 2",
         "start_date": "8/3/2020",
         "end_date": "8/22/2020",
         "date_origin": "event list",
@@ -3344,7 +3338,7 @@
         "num_rateups": 3
       },
       {
-        "name": "FGO Summer 2020 Event (US) Summoning Campaign 3",
+        "name": "FGO Summer 2020 Event Summoning Campaign 3",
         "start_date": "8/3/2020",
         "end_date": "8/22/2020",
         "date_origin": "event list",
@@ -3358,11 +3352,11 @@
     ]
   },
   {
-    "name": "11M Downloads Campaign (US)",
+    "name": "11M Downloads Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "11M Downloads Campaign (US) Summoning Campaign",
+        "name": "11M Downloads Summoning Campaign",
         "start_date": "8/24/2020",
         "end_date": "9/6/2020",
         "date_origin": "event header jp old",
@@ -3376,11 +3370,11 @@
     ]
   },
   {
-    "name": "Fate/Accel Zero Order Collaboration Event Revival (US)",
+    "name": "Fate/Accel Zero Order Collaboration Event Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "Fate/Accel Zero Order Collaboration Event Revival (US) Summoning Campaign",
+        "name": "Fate/Accel Zero Order Collaboration Event Revival Summoning Campaign",
         "start_date": "8/31/2020",
         "end_date": "9/13/2020",
         "date_origin": "event list",
@@ -3400,11 +3394,11 @@
     ]
   },
   {
-    "name": "Shuten Douji Rank Up Quest Commemorative Summoning Campaign (US)",
+    "name": "Shuten Douji Rank Up Quest Commemorative Summoning Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Shuten Douji Rank Up Quest Commemorative Summoning Campaign (US)",
+        "name": "Shuten Douji Rank Up Quest Commemorative Summoning Campaign",
         "start_date": "9/6/2020",
         "end_date": "9/20/2020",
         "date_origin": "event header na new",
@@ -3419,11 +3413,11 @@
     ]
   },
   {
-    "name": "Battle in New York 2020 (US)",
+    "name": "Battle in New York 2020",
     "region": "NA",
     "banners": [
       {
-        "name": "Battle in New York 2020 (US) Summoning Campaign",
+        "name": "Battle in New York 2020 Summoning Campaign",
         "start_date": "9/14/2020",
         "end_date": "9/29/2020",
         "date_origin": "event list",
@@ -3437,11 +3431,11 @@
     ]
   },
   {
-    "name": "Halloween 2019 Event Revival (US)",
+    "name": "Halloween 2019 Event Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "Halloween 2019 Event Revival (US) Summoning Campaign",
+        "name": "Halloween 2019 Event Revival Summoning Campaign",
         "start_date": "9/30/2020",
         "end_date": "10/13/2020",
         "date_origin": "event list",
@@ -3458,11 +3452,11 @@
     ]
   },
   {
-    "name": "Halloween 2020 Event (US)",
+    "name": "Halloween 2020 Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Halloween 2020 Event (US) Summoning Campaign",
+        "name": "Halloween 2020 Event Summoning Campaign",
         "start_date": "10/19/2020",
         "end_date": "11/1/2020",
         "date_origin": "event list",
@@ -3476,13 +3470,13 @@
     ]
   },
   {
-    "name": "Interlude Campaign 7 (US)",
+    "name": "Interlude Campaign 7",
     "region": "NA",
     "banners": [
       {
-        "name": "Interlude Campaign 7 (US) Summoning Campaign",
+        "name": "Interlude Campaign 7 Summoning Campaign",
         "start_date": "11/1/2020",
-        "end_date": "11/8/2020",
+        "end_date": "10/31/2018",
         "date_origin": "event header jp old",
         "rateups": {
           "98": "C\u00fa Chulainn (Alter)",
@@ -3495,11 +3489,11 @@
     ]
   },
   {
-    "name": "12M Downloads Campaign (US)",
+    "name": "12M Downloads Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "12M Downloads Campaign (US) Summoning Campaign",
+        "name": "12M Downloads Summoning Campaign",
         "start_date": "11/5/2020",
         "end_date": "11/18/2020",
         "date_origin": "event header na new",
@@ -3514,11 +3508,11 @@
     ]
   },
   {
-    "name": "Christmas 2019 Event Revival (US)",
+    "name": "Christmas 2019 Event Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "Christmas 2019 Event Revival (US) Summoning Campaign",
+        "name": "Christmas 2019 Event Revival Summoning Campaign",
         "start_date": "11/12/2020",
         "end_date": "11/20/2020",
         "date_origin": "event list",
@@ -3536,11 +3530,11 @@
     ]
   },
   {
-    "name": "Fate/Stay Night Heaven's Feel III Theatrical Release Commemorative Campaign (US)",
+    "name": "Fate/Stay Night Heaven's Feel III Theatrical Release Commemorative Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Fate/Stay Night Heaven's Feel III Theatrical Release Commemorative Campaign (US) Summoning Campaign",
+        "name": "Fate/Stay Night Heaven's Feel III Theatrical Release Commemorative Summoning Campaign",
         "start_date": "11/12/2020",
         "end_date": "1/6/2021",
         "date_origin": "event header na new",
@@ -3555,11 +3549,11 @@
     ]
   },
   {
-    "name": "FGO Thanksgiving Special 2020 (US)",
+    "name": "FGO Thanksgiving Special 2020",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO Thanksgiving Special 2020 (US) Summoning Campaign",
+        "name": "FGO Thanksgiving Special 2020 Summoning Campaign",
         "start_date": "11/19/2020",
         "end_date": "11/29/2020",
         "date_origin": "event header na new",
@@ -3577,11 +3571,11 @@
     ]
   },
   {
-    "name": "SIN Chapter Release (US)",
+    "name": "SIN Chapter Release",
     "region": "NA",
     "banners": [
       {
-        "name": "SIN Chapter Release (US) Summoning Campaign",
+        "name": "SIN Chapter Release Summoning Campaign",
         "start_date": "11/26/2020",
         "end_date": "11/26/2020",
         "date_origin": "event list",
@@ -3596,11 +3590,11 @@
     ]
   },
   {
-    "name": "SIN Summoning Campaign 2 (US)",
+    "name": "SIN Summoning Campaign 2",
     "region": "NA",
     "banners": [
       {
-        "name": "SIN Summoning Campaign 2 (US)",
+        "name": "SIN Summoning Campaign 2",
         "start_date": "12/2/2020",
         "end_date": "12/16/2020",
         "date_origin": "event header jp old",
@@ -3614,11 +3608,11 @@
     ]
   },
   {
-    "name": "Christmas 2020 Event (US)",
+    "name": "Christmas 2020 Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Christmas 2020 Event (US) Summoning Campaign",
+        "name": "Christmas 2020 Event Summoning Campaign",
         "start_date": "12/13/2020",
         "end_date": "12/25/2020",
         "date_origin": "event list",
@@ -3633,11 +3627,11 @@
     ]
   },
   {
-    "name": "Happy New Year 2021 (US)",
+    "name": "Happy New Year 2021",
     "region": "NA",
     "banners": [
       {
-        "name": "Happy New Year 2021 (US) Summoning Campaign",
+        "name": "Happy New Year 2021 Summoning Campaign",
         "start_date": "1/1/2021",
         "end_date": "1/10/2021",
         "date_origin": "event list",
@@ -3655,11 +3649,11 @@
     ]
   },
   {
-    "name": "New Year 2021 Event (US)",
+    "name": "New Year 2021 Event",
     "region": "NA",
     "banners": [
       {
-        "name": "New Year 2021 Event (US) Summoning Campaign 1",
+        "name": "New Year 2021 Event Summoning Campaign 1",
         "start_date": "1/1/2021",
         "end_date": "1/15/2021",
         "date_origin": "event list",
@@ -3672,7 +3666,7 @@
         "num_rateups": 4
       },
       {
-        "name": "New Year 2021 Event (US) Summoning Campaign 2",
+        "name": "New Year 2021 Event Summoning Campaign 2",
         "start_date": "1/1/2021",
         "end_date": "1/15/2021",
         "date_origin": "event list",
@@ -3687,11 +3681,11 @@
     ]
   },
   {
-    "name": "Even More Learning With Manga Release Celebration Campaign (US)",
+    "name": "Even More Learning With Manga Release Celebration Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Even More Learning With Manga Release Celebration Campaign (US) Summoning Campaign",
+        "name": "Even More Learning With Manga Release Celebration Summoning Campaign",
         "start_date": "1/13/2021",
         "end_date": "1/20/2021",
         "date_origin": "event header na new",
@@ -3707,11 +3701,11 @@
     ]
   },
   {
-    "name": "Prisma Codes Collaboration Event Revival (US)",
+    "name": "Prisma Codes Collaboration Event Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "Prisma Codes Collaboration Event Revival (US) Summoning Campaign",
+        "name": "Prisma Codes Collaboration Event Revival Summoning Campaign",
         "start_date": "1/20/2021",
         "end_date": "2/2/2021",
         "date_origin": "event list",
@@ -3728,11 +3722,11 @@
     ]
   },
   {
-    "name": "Valentine 2021 Event (US)",
+    "name": "Valentine 2021 Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Valentine 2021 Event (US) Summoning Campaign",
+        "name": "Valentine 2021 Event Summoning Campaign",
         "start_date": "2/3/2021",
         "end_date": "2/16/2021",
         "date_origin": "event list",
@@ -3762,11 +3756,11 @@
     ]
   },
   {
-    "name": "Valentine 2020 Summoning Campaign Revival (US)",
+    "name": "Valentine 2020 Summoning Campaign Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "Valentine 2020 Summoning Campaign Revival (US)",
+        "name": "Valentine 2020 Summoning Campaign Revival",
         "start_date": "2/9/2021",
         "end_date": "2/23/2021",
         "date_origin": "event header jp old",
@@ -3778,11 +3772,11 @@
     ]
   },
   {
-    "name": "Fate/Extra CCC Collaboration Event Revival (US)",
+    "name": "Fate/Extra CCC Collaboration Event Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "Fate/Extra CCC Collaboration Event Revival (US) Summoning Campaign 1",
+        "name": "Fate/Extra CCC Collaboration Event Revival Summoning Campaign 1",
         "start_date": "2/17/2021",
         "end_date": "3/7/2021",
         "date_origin": "event list",
@@ -3796,7 +3790,7 @@
         "num_rateups": 5
       },
       {
-        "name": "Fate/Extra CCC Collaboration Event Revival (US) Summoning Campaign 2",
+        "name": "Fate/Extra CCC Collaboration Event Revival Summoning Campaign 2",
         "start_date": "2/17/2021",
         "end_date": "3/7/2021",
         "date_origin": "event list",
@@ -3810,11 +3804,11 @@
     ]
   },
   {
-    "name": "Chaldea Boys Collection 2021 (US)",
+    "name": "Chaldea Boys Collection 2021",
     "region": "NA",
     "banners": [
       {
-        "name": "Chaldea Boys Collection 2021 (US) Summoning Campaign",
+        "name": "Chaldea Boys Collection 2021 Summoning Campaign",
         "start_date": "3/8/2021",
         "end_date": "3/17/2021",
         "date_origin": "event header na new",
@@ -3841,11 +3835,11 @@
     ]
   },
   {
-    "name": "Tokugawa Restoration Labyrinth (US)",
+    "name": "Tokugawa Restoration Labyrinth",
     "region": "NA",
     "banners": [
       {
-        "name": "Tokugawa Restoration Labyrinth (US) Summoning Campaign 1",
+        "name": "Tokugawa Restoration Labyrinth Summoning Campaign 1",
         "start_date": "3/23/2021",
         "end_date": "4/5/2021",
         "date_origin": "event list",
@@ -3856,7 +3850,7 @@
         "num_rateups": 2
       },
       {
-        "name": "Tokugawa Restoration Labyrinth (US) Summoning Campaign 2",
+        "name": "Tokugawa Restoration Labyrinth Summoning Campaign 2",
         "start_date": "3/23/2021",
         "end_date": "4/5/2021",
         "date_origin": "event list",
@@ -3870,11 +3864,11 @@
     ]
   },
   {
-    "name": "Fate/Grand Order Absolute Demonic Front: Babylonia Blu-ray Release Campaign (US)",
+    "name": "Fate/Grand Order Absolute Demonic Front: Babylonia Blu-ray Release Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Fate/Grand Order Absolute Demonic Front: Babylonia Blu-ray Release Campaign (US) Summoning Campaign",
+        "name": "Fate/Grand Order Absolute Demonic Front: Babylonia Blu-ray Release Summoning Campaign",
         "start_date": "3/29/2021",
         "end_date": "4/11/2021",
         "date_origin": "event header na new",
@@ -3890,11 +3884,11 @@
     ]
   },
   {
-    "name": "13M Downloads Campaign (US)",
+    "name": "13M Downloads Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "13M Downloads Campaign (US) Summoning Campaign",
+        "name": "13M Downloads Summoning Campaign",
         "start_date": "4/4/2021",
         "end_date": "4/18/2021",
         "date_origin": "event header na new",
@@ -3906,11 +3900,11 @@
     ]
   },
   {
-    "name": "GUDAGUDA Legend of the Imperial Capital Grail Revival (US)",
+    "name": "GUDAGUDA Legend of the Imperial Capital Grail Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "GUDAGUDA Legend of the Imperial Capital Grail Revival (US) Summoning Campaign",
+        "name": "GUDAGUDA Legend of the Imperial Capital Grail Revival Summoning Campaign",
         "start_date": "4/12/2021",
         "end_date": "4/25/2021",
         "date_origin": "event list",
@@ -3928,11 +3922,11 @@
     ]
   },
   {
-    "name": "Lord El-Melloi II Case Files Collaboration Event (US)",
+    "name": "Lord El-Melloi II Case Files Collaboration Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Lord El-Melloi II Case Files Event Pre-Release Campaign (US) Summoning Campaign",
+        "name": "Lord El-Melloi II Case Files Event Pre-Release Summoning Campaign",
         "start_date": "4/25/2021",
         "end_date": "5/9/2021",
         "date_origin": "event header na new",
@@ -3943,7 +3937,7 @@
         "num_rateups": 2
       },
       {
-        "name": "Lord El-Melloi II Case Files Collaboration Event (US) Summoning Campaign",
+        "name": "Lord El-Melloi II Case Files Collaboration Event Summoning Campaign",
         "start_date": "4/30/2021",
         "end_date": "5/13/2021",
         "date_origin": "event list",
@@ -3958,11 +3952,11 @@
     ]
   },
   {
-    "name": "Class Based Summoning Campaign May 2021 (US)",
+    "name": "Class Based Summoning Campaign May 2021",
     "region": "NA",
     "banners": [
       {
-        "name": "Class Based Summoning Campaign May 2021 (US)",
+        "name": "Class Based Summoning Campaign May 2021",
         "start_date": "5/9/2021",
         "end_date": "5/25/2021",
         "date_origin": "event header na new",
@@ -4100,11 +4094,11 @@
     ]
   },
   {
-    "name": "A Meihousou Most Foul (US)",
+    "name": "A Meihousou Most Foul",
     "region": "NA",
     "banners": [
       {
-        "name": "A Meihousou Most Foul (US) Summoning Campaign",
+        "name": "A Meihousou Most Foul Summoning Campaign",
         "start_date": "5/14/2021",
         "end_date": "5/27/2021",
         "date_origin": "event header na new",
@@ -4118,11 +4112,11 @@
     ]
   },
   {
-    "name": "Interlude Campaign 9 (US)",
+    "name": "Interlude Campaign 9",
     "region": "NA",
     "banners": [
       {
-        "name": "Interlude Campaign 9 (US) Summoning Campaign",
+        "name": "Interlude Campaign 9 Summoning Campaign",
         "start_date": "5/28/2021",
         "end_date": "6/3/2021",
         "date_origin": "event header na new",
@@ -4137,11 +4131,11 @@
     ]
   },
   {
-    "name": "Yugakshetra Chapter Release (US)",
+    "name": "Yugakshetra Chapter Release",
     "region": "NA",
     "banners": [
       {
-        "name": "Yugakshetra Pre-Release Campaign (US) Summoning Campaign",
+        "name": "Yugakshetra Pre-Release Summoning Campaign",
         "start_date": "5/30/2021",
         "end_date": "6/13/2021",
         "date_origin": "event header na new",
@@ -4152,7 +4146,7 @@
         "num_rateups": 2
       },
       {
-        "name": "Yugakshetra Chapter Release (US) Summoning Campaign",
+        "name": "Yugakshetra Chapter Release Summoning Campaign",
         "start_date": "6/3/2021",
         "end_date": "6/3/2021",
         "date_origin": "event list",
@@ -4166,11 +4160,11 @@
     ]
   },
   {
-    "name": "Yugakshetra Summoning Campaign 2 (US)",
+    "name": "Yugakshetra Summoning Campaign 2",
     "region": "NA",
     "banners": [
       {
-        "name": "Yugakshetra Summoning Campaign 2 (US)",
+        "name": "Yugakshetra Summoning Campaign 2",
         "start_date": "6/9/2021",
         "end_date": "6/23/2021",
         "date_origin": "event header jp old",
@@ -4185,13 +4179,13 @@
     ]
   },
   {
-    "name": "14M Downloads Campaign (US)",
+    "name": "14M Downloads Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "14M Downloads Campaign (US) Summoning Campaign",
+        "name": "14M Downloads Summoning Campaign",
         "start_date": "6/16/2021",
-        "end_date": "6/23/2021",
+        "end_date": "9/12/2018",
         "date_origin": "event header na new",
         "rateups": {
           "5": "Nero Claudius",
@@ -4204,11 +4198,11 @@
     ]
   },
   {
-    "name": "GUDAGUDA Final Honnoji 2021 (US)",
+    "name": "GUDAGUDA Final Honnoji 2021",
     "region": "NA",
     "banners": [
       {
-        "name": "GUDAGUDA Final Honnoji 2021 (US) Summoning Campaign",
+        "name": "GUDAGUDA Final Honnoji 2021 Summoning Campaign",
         "start_date": "6/20/2021",
         "end_date": "7/3/2021",
         "date_origin": "event list",
@@ -4222,11 +4216,11 @@
     ]
   },
   {
-    "name": "Fate/Grand Order Absolute Demonic Front: Babylonia Blu-ray Release Campaign Part II (US)",
+    "name": "Fate/Grand Order Absolute Demonic Front: Babylonia Blu-ray Release Campaign Part II",
     "region": "NA",
     "banners": [
       {
-        "name": "Fate/Grand Order Absolute Demonic Front: Babylonia Blu-ray Release Campaign Part II (US)",
+        "name": "Fate/Grand Order Absolute Demonic Front: Babylonia Blu-ray Release Campaign Part II",
         "start_date": "6/27/2021",
         "end_date": "7/11/2021",
         "date_origin": "event header na new",
@@ -4243,11 +4237,11 @@
     ]
   },
   {
-    "name": "FGO Festival 2021 ~4th Anniversary~ (US)",
+    "name": "FGO Festival 2021 ~4th Anniversary~",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO Festival 2021 ~4th Anniversary~ (US) Summoning Campaign Saint Quartz Summon",
+        "name": "FGO Festival 2021 ~4th Anniversary~ Summoning Campaign Saint Quartz Summon",
         "start_date": "7/3/2021",
         "end_date": "7/14/2021",
         "date_origin": "event list",
@@ -4287,11 +4281,11 @@
     ]
   },
   {
-    "name": "FGO Summer 2020 Event Revival (US)",
+    "name": "FGO Summer 2020 Event Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO Summer 2020 Event Revival (US) Summoning Campaign 1",
+        "name": "FGO Summer 2020 Event Revival Summoning Campaign 1",
         "start_date": "7/12/2021",
         "end_date": "7/28/2021",
         "date_origin": "event list",
@@ -4303,7 +4297,7 @@
         "num_rateups": 3
       },
       {
-        "name": "FGO Summer 2020 Event Revival (US) Summoning Campaign 2",
+        "name": "FGO Summer 2020 Event Revival Summoning Campaign 2",
         "start_date": "7/12/2021",
         "end_date": "7/28/2021",
         "date_origin": "event list",
@@ -4315,7 +4309,7 @@
         "num_rateups": 3
       },
       {
-        "name": "FGO Summer 2020 Event Revival (US) Summoning Campaign 3",
+        "name": "FGO Summer 2020 Event Revival Summoning Campaign 3",
         "start_date": "7/12/2021",
         "end_date": "7/28/2021",
         "date_origin": "event list",
@@ -4329,11 +4323,11 @@
     ]
   },
   {
-    "name": "FGO Summer 2021 Event (US)",
+    "name": "FGO Summer 2021 Event",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO Summer 2021 Event (US) Summoning Campaign 1",
+        "name": "FGO Summer 2021 Event Summoning Campaign 1",
         "start_date": "7/29/2021",
         "end_date": "8/18/2021",
         "date_origin": "event list",
@@ -4345,7 +4339,7 @@
         "num_rateups": 3
       },
       {
-        "name": "FGO Summer 2021 Event (US) Summoning Campaign 2",
+        "name": "FGO Summer 2021 Event Summoning Campaign 2",
         "start_date": "7/29/2021",
         "end_date": "8/18/2021",
         "date_origin": "event list",
@@ -4357,7 +4351,7 @@
         "num_rateups": 3
       },
       {
-        "name": "FGO Summer 2021 Event (US) Summoning Campaign 3",
+        "name": "FGO Summer 2021 Event Summoning Campaign 3",
         "start_date": "7/29/2021",
         "end_date": "8/18/2021",
         "date_origin": "event list",
@@ -4371,11 +4365,11 @@
     ]
   },
   {
-    "name": "Interlude Campaign 10 (US)",
+    "name": "Interlude Campaign 10",
     "region": "NA",
     "banners": [
       {
-        "name": "Interlude Campaign 10 (US) Summoning Campaign",
+        "name": "Interlude Campaign 10 Summoning Campaign",
         "start_date": "8/18/2021",
         "end_date": "9/1/2021",
         "date_origin": "event header na new",
@@ -4389,11 +4383,11 @@
     ]
   },
   {
-    "name": "Class Based Summoning Campaign August 2021 (US)",
+    "name": "Class Based Summoning Campaign August 2021",
     "region": "NA",
     "banners": [
       {
-        "name": "Class Based Summoning Campaign August 2021 (US)",
+        "name": "Class Based Summoning Campaign August 2021",
         "start_date": "8/25/2021",
         "end_date": "9/9/2021",
         "date_origin": "event header na new",
@@ -4460,7 +4454,7 @@
         "num_rateups": 58
       },
       {
-        "name": "Class Based Summoning Campaign August 2021 (US)",
+        "name": "Class Based Summoning Campaign August 2021",
         "start_date": "8/25/2021",
         "end_date": "9/9/2021",
         "date_origin": "event header na new",
@@ -4537,7 +4531,7 @@
         "num_rateups": 68
       },
       {
-        "name": "Class Based Summoning Campaign August 2021 (US)",
+        "name": "Class Based Summoning Campaign August 2021",
         "start_date": "8/25/2021",
         "end_date": "9/9/2021",
         "date_origin": "event header na new",
@@ -4555,11 +4549,11 @@
     ]
   },
   {
-    "name": "Battle in New York 2021 (US)",
+    "name": "Battle in New York 2021",
     "region": "NA",
     "banners": [
       {
-        "name": "Battle in New York 2021 (US) Summoning Campaign",
+        "name": "Battle in New York 2021 Summoning Campaign",
         "start_date": "9/2/2021",
         "end_date": "9/15/2021",
         "date_origin": "event list",
@@ -4573,11 +4567,11 @@
     ]
   },
   {
-    "name": "Back to School Campaign 2021 Part 2 (US)",
+    "name": "Back to School Campaign 2021 Part 2",
     "region": "NA",
     "banners": [
       {
-        "name": "Back to School Campaign 2021 Part 2 (US)",
+        "name": "Back to School Campaign 2021 Part 2",
         "start_date": "9/8/2021",
         "end_date": "9/22/2021",
         "date_origin": "event header na new",
@@ -4591,11 +4585,11 @@
     ]
   },
   {
-    "name": "FGO THE STAGE Camelot Release Campaign (US)",
+    "name": "FGO THE STAGE Camelot Release Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO THE STAGE Camelot Release Campaign (US) Summoning Campaign 1",
+        "name": "FGO THE STAGE Camelot Release Summoning Campaign 1",
         "start_date": "9/15/2021",
         "end_date": "9/29/2021",
         "date_origin": "event header na new",
@@ -4610,7 +4604,7 @@
         "num_rateups": 6
       },
       {
-        "name": "FGO THE STAGE Camelot Release Campaign (US) Summoning Campaign 2",
+        "name": "FGO THE STAGE Camelot Release Summoning Campaign 2",
         "start_date": "9/15/2021",
         "end_date": "9/29/2021",
         "date_origin": "event header na new",
@@ -4627,11 +4621,11 @@
     ]
   },
   {
-    "name": "Halloween 2020 Event Revival (US)",
+    "name": "Halloween 2020 Event Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "Halloween 2020 Event Revival (US) Summoning Campaign",
+        "name": "Halloween 2020 Event Revival Summoning Campaign",
         "start_date": "9/24/2021",
         "end_date": "10/7/2021",
         "date_origin": "event list",
@@ -4646,11 +4640,11 @@
     ]
   },
   {
-    "name": "FGO THE STAGE Babylonia Release Campaign (US)",
+    "name": "FGO THE STAGE Babylonia Release Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO THE STAGE Babylonia Release Campaign (US) Summoning Campaign",
+        "name": "FGO THE STAGE Babylonia Release Summoning Campaign",
         "start_date": "10/3/2021",
         "end_date": "10/17/2021",
         "date_origin": "event header na new",
@@ -4663,11 +4657,11 @@
     ]
   },
   {
-    "name": "Saber Wars II (US)",
+    "name": "Saber Wars II",
     "region": "NA",
     "banners": [
       {
-        "name": "Saber Wars II Pre-Release Campaign (US) Summoning Campaign",
+        "name": "Saber Wars II Pre-Release Summoning Campaign",
         "start_date": "10/12/2021",
         "end_date": "10/17/2021",
         "date_origin": "event header na new",
@@ -4677,7 +4671,7 @@
         "num_rateups": 1
       },
       {
-        "name": "Saber Wars II (US) Summoning Campaign 1",
+        "name": "Saber Wars II Summoning Campaign 1",
         "start_date": "10/18/2021",
         "end_date": "10/31/2021",
         "date_origin": "event list",
@@ -4688,7 +4682,7 @@
         "num_rateups": 2
       },
       {
-        "name": "Saber Wars II (US) Summoning Campaign 2",
+        "name": "Saber Wars II Summoning Campaign 2",
         "start_date": "10/18/2021",
         "end_date": "10/31/2021",
         "date_origin": "event list",
@@ -4701,11 +4695,11 @@
     ]
   },
   {
-    "name": "15M Downloads Campaign (US)",
+    "name": "15M Downloads Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "15M Downloads Campaign (US) Summoning Campaign",
+        "name": "15M Downloads Summoning Campaign",
         "start_date": "10/31/2021",
         "end_date": "11/15/2021",
         "date_origin": "event header na new",
@@ -4717,11 +4711,11 @@
     ]
   },
   {
-    "name": "Early Winter Campaign 2021 (US)",
+    "name": "Early Winter Campaign 2021",
     "region": "NA",
     "banners": [
       {
-        "name": "Early Winter Campaign 2021 (US) Summoning Campaign",
+        "name": "Early Winter Campaign 2021 Summoning Campaign",
         "start_date": "11/8/2021",
         "end_date": "11/15/2021",
         "date_origin": "event header na new",
@@ -4737,11 +4731,11 @@
     ]
   },
   {
-    "name": "Interlude Campaign 11 (US)",
+    "name": "Interlude Campaign 11",
     "region": "NA",
     "banners": [
       {
-        "name": "Interlude Campaign 11 (US) Summoning Campaign",
+        "name": "Interlude Campaign 11 Summoning Campaign",
         "start_date": "11/16/2021",
         "end_date": "11/22/2021",
         "date_origin": "event header na new",
@@ -4756,11 +4750,11 @@
     ]
   },
   {
-    "name": "FGO Thanksgiving Special 2021 (US)",
+    "name": "FGO Thanksgiving Special 2021",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO Thanksgiving Special 2021 (US) Summoning Campaign",
+        "name": "FGO Thanksgiving Special 2021 Summoning Campaign",
         "start_date": "11/24/2021",
         "end_date": "12/4/2021",
         "date_origin": "event header na new",
@@ -4778,11 +4772,11 @@
     ]
   },
   {
-    "name": "Atlantis Chapter Release (US)",
+    "name": "Atlantis Chapter Release",
     "region": "NA",
     "banners": [
       {
-        "name": "Atlantis Chapter Release (US) Summoning Campaign",
+        "name": "Atlantis Chapter Release Summoning Campaign",
         "start_date": "12/1/2021",
         "end_date": "12/1/2021",
         "date_origin": "event list",
@@ -4796,11 +4790,11 @@
     ]
   },
   {
-    "name": "Atlantis Summoning Campaign 2 (US)",
+    "name": "Atlantis Summoning Campaign 2",
     "region": "NA",
     "banners": [
       {
-        "name": "Atlantis Summoning Campaign 2 (US)",
+        "name": "Atlantis Summoning Campaign 2",
         "start_date": "12/7/2021",
         "end_date": "12/14/2021",
         "date_origin": "event header jp old",
@@ -4815,11 +4809,11 @@
     ]
   },
   {
-    "name": "Christmas 2021 Event (US)",
+    "name": "Christmas 2021 Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Christmas 2021 Event (US) Summoning Campaign",
+        "name": "Christmas 2021 Event Summoning Campaign",
         "start_date": "12/14/2021",
         "end_date": "12/27/2021",
         "date_origin": "event list",
@@ -4837,11 +4831,11 @@
     ]
   },
   {
-    "name": "Happy New Year 2022 (US)",
+    "name": "Happy New Year 2022",
     "region": "NA",
     "banners": [
       {
-        "name": "Happy New Year 2022 (US) Summoning Campaign",
+        "name": "Happy New Year 2022 Summoning Campaign",
         "start_date": "12/31/2021",
         "end_date": "1/10/2022",
         "date_origin": "event header na new",
@@ -4859,11 +4853,11 @@
     ]
   },
   {
-    "name": "New Year 2021 Event Revival (US)",
+    "name": "New Year 2021 Event Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "New Year 2021 Event Revival (US) Summoning Campaign 1",
+        "name": "New Year 2021 Event Revival Summoning Campaign 1",
         "start_date": "1/4/2022",
         "end_date": "1/17/2022",
         "date_origin": "event list",
@@ -4875,7 +4869,7 @@
         "num_rateups": 3
       },
       {
-        "name": "New Year 2021 Event Revival (US) Summoning Campaign 2",
+        "name": "New Year 2021 Event Revival Summoning Campaign 2",
         "start_date": "1/4/2022",
         "end_date": "1/17/2022",
         "date_origin": "event list",
@@ -4889,11 +4883,11 @@
     ]
   },
   {
-    "name": "Amazones.com ~CEO Crisis 2022~ (US)",
+    "name": "Amazones.com ~CEO Crisis 2022~",
     "region": "NA",
     "banners": [
       {
-        "name": "Amazones.com ~CEO Crisis 2022~ (US) Summoning Campaign",
+        "name": "Amazones.com ~CEO Crisis 2022~ Summoning Campaign",
         "start_date": "1/18/2022",
         "end_date": "1/31/2022",
         "date_origin": "event list",
@@ -4907,11 +4901,11 @@
     ]
   },
   {
-    "name": "Interlude Campaign 12 (US)",
+    "name": "Interlude Campaign 12",
     "region": "NA",
     "banners": [
       {
-        "name": "Interlude Campaign 12 (US) Summoning Campaign",
+        "name": "Interlude Campaign 12 Summoning Campaign",
         "start_date": "1/26/2022",
         "end_date": "2/2/2022",
         "date_origin": "event header na new",
@@ -4925,11 +4919,11 @@
     ]
   },
   {
-    "name": "Valentine 2022 Event (US)",
+    "name": "Valentine 2022 Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Valentine 2022 Event (US) Summoning Campaign",
+        "name": "Valentine 2022 Event Summoning Campaign",
         "start_date": "2/1/2022",
         "end_date": "2/14/2022",
         "date_origin": "event list",
@@ -4963,11 +4957,11 @@
     ]
   },
   {
-    "name": "16M Downloads Campaign (US)",
+    "name": "16M Downloads Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "16M Downloads Campaign (US) Summoning Campaign",
+        "name": "16M Downloads Summoning Campaign",
         "start_date": "2/14/2022",
         "end_date": "2/23/2022",
         "date_origin": "event header na new",
@@ -4980,11 +4974,11 @@
     ]
   },
   {
-    "name": "Presidents Day Celebration Campaign 2022 (US)",
+    "name": "Presidents Day Celebration Campaign 2022",
     "region": "NA",
     "banners": [
       {
-        "name": "Presidents Day Celebration Campaign 2022 (US) Summoning Campaign",
+        "name": "Presidents Day Celebration Campaign 2022 Summoning Campaign",
         "start_date": "2/20/2022",
         "end_date": "2/25/2022",
         "date_origin": "event header na new",
@@ -4997,11 +4991,11 @@
     ]
   },
   {
-    "name": "Chaldea Boys Collection 2022 (US)",
+    "name": "Chaldea Boys Collection 2022",
     "region": "NA",
     "banners": [
       {
-        "name": "Chaldea Boys Collection 2022 (US) Summoning Campaign",
+        "name": "Chaldea Boys Collection 2022 Summoning Campaign",
         "start_date": "2/28/2022",
         "end_date": "3/9/2022",
         "date_origin": "event header na new",
@@ -5026,11 +5020,11 @@
     ]
   },
   {
-    "name": "Chaldea Boys Collection 2018 - 2021 CE Summoning Campaign (US)",
+    "name": "Chaldea Boys Collection 2018 - 2021 CE Summoning Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Chaldea Boys Collection 2018 - 2021 CE Summoning Campaign (US)",
+        "name": "Chaldea Boys Collection 2018 - 2021 CE Summoning Campaign",
         "start_date": "3/4/2022",
         "end_date": "3/13/2022",
         "date_origin": "event header na new",
@@ -5043,11 +5037,11 @@
     ]
   },
   {
-    "name": "Fate/Apocrypha Collaboration Event Revival (US)",
+    "name": "Fate/Apocrypha Collaboration Event Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "Fate/Apocrypha Collaboration Event Revival (US) Summoning Campaign",
+        "name": "Fate/Apocrypha Collaboration Event Revival Summoning Campaign",
         "start_date": "3/10/2022",
         "end_date": "3/23/2022",
         "date_origin": "event list",
@@ -5072,11 +5066,11 @@
     ]
   },
   {
-    "name": "Olympus Chapter Release (US)",
+    "name": "Olympus Chapter Release",
     "region": "NA",
     "banners": [
       {
-        "name": "Olympus Chapter Release (US) Summoning Campaign",
+        "name": "Olympus Chapter Release Summoning Campaign",
         "start_date": "3/24/2022",
         "end_date": "3/24/2022",
         "date_origin": "event list",
@@ -5089,11 +5083,11 @@
     ]
   },
   {
-    "name": "Olympus Summoning Campaign 2 (US)",
+    "name": "Olympus Summoning Campaign 2",
     "region": "NA",
     "banners": [
       {
-        "name": "Olympus Summoning Campaign 2 (US)",
+        "name": "Olympus Summoning Campaign 2",
         "start_date": "3/30/2022",
         "end_date": "4/13/2022",
         "date_origin": "event header jp old",
@@ -5105,11 +5099,11 @@
     ]
   },
   {
-    "name": "Lostbelt 5 Conclusion Summoning Campaign (US)",
+    "name": "Lostbelt 5 Conclusion Summoning Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Lostbelt 5 Conclusion Summoning Campaign (US)",
+        "name": "Lostbelt 5 Conclusion Summoning Campaign",
         "start_date": "4/6/2022",
         "end_date": "4/15/2022",
         "date_origin": "event header jp old",
@@ -5124,11 +5118,11 @@
     ]
   },
   {
-    "name": "17M Downloads Campaign (US)",
+    "name": "17M Downloads Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "17M Downloads Campaign (US) Summoning Campaign",
+        "name": "17M Downloads Summoning Campaign",
         "start_date": "4/14/2022",
         "end_date": "4/21/2022",
         "date_origin": "event header na new",
@@ -5147,11 +5141,11 @@
     ]
   },
   {
-    "name": "GUDAGUDA Final Honnoji 2021 Revival (US)",
+    "name": "GUDAGUDA Final Honnoji 2021 Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "GUDAGUDA Final Honnoji 2021 Revival (US) Summoning Campaign 1",
+        "name": "GUDAGUDA Final Honnoji 2021 Revival Summoning Campaign 1",
         "start_date": "4/19/2022",
         "end_date": "5/2/2022",
         "date_origin": "event list",
@@ -5165,7 +5159,7 @@
         "num_rateups": 5
       },
       {
-        "name": "GUDAGUDA Final Honnoji 2021 Revival (US) Summoning Campaign 2",
+        "name": "GUDAGUDA Final Honnoji 2021 Revival Summoning Campaign 2",
         "start_date": "4/19/2022",
         "end_date": "5/2/2022",
         "date_origin": "event list",
@@ -5180,11 +5174,11 @@
     ]
   },
   {
-    "name": "Fate/Requiem Collaboration Event (US)",
+    "name": "Fate/Requiem Collaboration Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Fate/Requiem Collaboration Event Pre-Release Campaign (US) Summoning Campaign",
+        "name": "Fate/Requiem Collaboration Event Pre-Release Summoning Campaign",
         "start_date": "5/1/2022",
         "end_date": "5/15/2022",
         "date_origin": "event header na new",
@@ -5197,7 +5191,7 @@
         "num_rateups": 4
       },
       {
-        "name": "Fate/Requiem Collaboration Event (US) Summoning Campaign",
+        "name": "Fate/Requiem Collaboration Event Summoning Campaign",
         "start_date": "5/6/2022",
         "end_date": "5/19/2022",
         "date_origin": "event list",
@@ -5210,11 +5204,11 @@
     ]
   },
   {
-    "name": "Interlude Campaign 13 (US)",
+    "name": "Interlude Campaign 13",
     "region": "NA",
     "banners": [
       {
-        "name": "Interlude Campaign 13 (US) Summoning Campaign",
+        "name": "Interlude Campaign 13 Summoning Campaign",
         "start_date": "5/15/2022",
         "end_date": "5/22/2022",
         "date_origin": "event header na new",
@@ -5229,11 +5223,11 @@
     ]
   },
   {
-    "name": "FGO Summer 2021 Event Revival (US)",
+    "name": "FGO Summer 2021 Event Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO Summer 2021 Event Revival (US) Summoning Campaign 1",
+        "name": "FGO Summer 2021 Event Revival Summoning Campaign 1",
         "start_date": "5/23/2022",
         "end_date": "6/12/2022",
         "date_origin": "event list",
@@ -5245,7 +5239,7 @@
         "num_rateups": 3
       },
       {
-        "name": "FGO Summer 2021 Event Revival (US) Summoning Campaign 2",
+        "name": "FGO Summer 2021 Event Revival Summoning Campaign 2",
         "start_date": "5/23/2022",
         "end_date": "6/12/2022",
         "date_origin": "event list",
@@ -5257,7 +5251,7 @@
         "num_rateups": 3
       },
       {
-        "name": "FGO Summer 2021 Event Revival (US) Summoning Campaign 3",
+        "name": "FGO Summer 2021 Event Revival Summoning Campaign 3",
         "start_date": "5/23/2022",
         "end_date": "6/12/2022",
         "date_origin": "event list",
@@ -5271,11 +5265,11 @@
     ]
   },
   {
-    "name": "Swimsuit + AoE NP Only Summoning Campaign (US)",
+    "name": "Swimsuit + AoE NP Only Summoning Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Swimsuit + AoE NP Only Summoning Campaign (US)",
+        "name": "Swimsuit + AoE NP Only Summoning Campaign",
         "start_date": "6/5/2022",
         "end_date": "6/19/2022",
         "date_origin": "event header jp old",
@@ -5344,11 +5338,11 @@
     ]
   },
   {
-    "name": "SE.RA.PH Main Interlude Release Campaign (US)",
+    "name": "SE.RA.PH Main Interlude Release Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "SE.RA.PH Main Interlude Release Campaign (US) Summoning Campaign",
+        "name": "SE.RA.PH Main Interlude Release Summoning Campaign",
         "start_date": "6/21/2022",
         "end_date": "6/27/2022",
         "date_origin": "event header na new",
@@ -5363,11 +5357,11 @@
     ]
   },
   {
-    "name": "FGO Festival 2022 ~5th Anniversary~ (US)",
+    "name": "FGO Festival 2022 ~5th Anniversary~",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO 5th Anniversary Pre-Anniversary Campaign (US) Summoning Campaign",
+        "name": "FGO 5th Anniversary Pre-Anniversary Summoning Campaign",
         "start_date": "6/13/2022",
         "end_date": "7/3/2022",
         "date_origin": "event header na new",
@@ -5392,7 +5386,7 @@
         "num_rateups": 16
       },
       {
-        "name": "FGO Festival 2022 ~5th Anniversary~ (US) Summoning Campaign",
+        "name": "FGO Festival 2022 ~5th Anniversary~ Summoning Campaign",
         "start_date": "7/4/2022",
         "end_date": "7/17/2022",
         "date_origin": "event list",
@@ -5405,11 +5399,11 @@
     ]
   },
   {
-    "name": "FGO Summer 2022 Event (US)",
+    "name": "FGO Summer 2022 Event",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO Summer 2022 Event (US) Summoning Campaign 1",
+        "name": "FGO Summer 2022 Event Summoning Campaign 1",
         "start_date": "7/12/2022",
         "end_date": "8/1/2022",
         "date_origin": "event list",
@@ -5421,7 +5415,7 @@
         "num_rateups": 3
       },
       {
-        "name": "FGO Summer 2022 Event (US) Summoning Campaign 2",
+        "name": "FGO Summer 2022 Event Summoning Campaign 2",
         "start_date": "7/12/2022",
         "end_date": "8/1/2022",
         "date_origin": "event list",
@@ -5433,7 +5427,7 @@
         "num_rateups": 3
       },
       {
-        "name": "FGO Summer 2022 Event (US) Summoning Campaign 3",
+        "name": "FGO Summer 2022 Event Summoning Campaign 3",
         "start_date": "7/12/2022",
         "end_date": "8/1/2022",
         "date_origin": "event list",
@@ -5445,7 +5439,7 @@
         "num_rateups": 3
       },
       {
-        "name": "FGO Summer 2022 Event (US) Summoning Campaign 4",
+        "name": "FGO Summer 2022 Event Summoning Campaign 4",
         "start_date": "7/12/2022",
         "end_date": "8/1/2022",
         "date_origin": "event list",
@@ -5460,11 +5454,11 @@
     ]
   },
   {
-    "name": "Tokugawa Restoration Labyrinth Revival (US)",
+    "name": "Tokugawa Restoration Labyrinth Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "Tokugawa Restoration Labyrinth Revival (US) Summoning Campaign",
+        "name": "Tokugawa Restoration Labyrinth Revival Summoning Campaign",
         "start_date": "8/2/2022",
         "end_date": "8/15/2022",
         "date_origin": "event list",
@@ -5478,11 +5472,11 @@
     ]
   },
   {
-    "name": "Melty Blood: Type Lumina Evo 2022 Celebration Campaign (US)",
+    "name": "Melty Blood: Type Lumina Evo 2022 Celebration Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Melty Blood: Type Lumina Evo 2022 Celebration Campaign (US) Summoning Campaign",
+        "name": "Melty Blood: Type Lumina Evo 2022 Celebration Summoning Campaign",
         "start_date": "8/4/2022",
         "end_date": "8/11/2022",
         "date_origin": "event header na new",
@@ -5494,11 +5488,11 @@
     ]
   },
   {
-    "name": "18M Downloads Campaign (US)",
+    "name": "18M Downloads Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "18M Downloads Campaign (US) Summoning Campaign",
+        "name": "18M Downloads Summoning Campaign",
         "start_date": "8/9/2022",
         "end_date": "8/16/2022",
         "date_origin": "event header na new",
@@ -5515,11 +5509,11 @@
     ]
   },
   {
-    "name": "Interlude Campaign 14 (US)",
+    "name": "Interlude Campaign 14",
     "region": "NA",
     "banners": [
       {
-        "name": "Interlude Campaign 14 (US) Summoning Campaign",
+        "name": "Interlude Campaign 14 Summoning Campaign",
         "start_date": "8/16/2022",
         "end_date": "8/23/2022",
         "date_origin": "event header na new",
@@ -5534,11 +5528,11 @@
     ]
   },
   {
-    "name": "Land of Shadows Battleground Blitz (US)",
+    "name": "Land of Shadows Battleground Blitz",
     "region": "NA",
     "banners": [
       {
-        "name": "Land of Shadows Battleground Blitz (US) Summoning Campaign",
+        "name": "Land of Shadows Battleground Blitz Summoning Campaign",
         "start_date": "8/22/2022",
         "end_date": "9/4/2022",
         "date_origin": "event list",
@@ -5553,11 +5547,11 @@
     ]
   },
   {
-    "name": "Back to School Campaign 2022 (US)",
+    "name": "Back to School Campaign 2022",
     "region": "NA",
     "banners": [
       {
-        "name": "Back to School Campaign 2022 (US) Summoning Campaign",
+        "name": "Back to School Campaign 2022 Summoning Campaign",
         "start_date": "8/29/2022",
         "end_date": "9/12/2022",
         "date_origin": "event header na new",
@@ -5571,11 +5565,11 @@
     ]
   },
   {
-    "name": "GUDAGUDA Summoning Campaign (US)",
+    "name": "GUDAGUDA Summoning Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "GUDAGUDA Summoning Campaign (US) Summoning Campaign",
+        "name": "GUDAGUDA Summoning Campaign",
         "start_date": "9/4/2022",
         "end_date": "9/21/2022",
         "date_origin": "event header na new",
@@ -5589,11 +5583,11 @@
     ]
   },
   {
-    "name": "GUDAGUDA Yamataikoku 2022 (US)",
+    "name": "GUDAGUDA Yamataikoku 2022",
     "region": "NA",
     "banners": [
       {
-        "name": "GUDAGUDA Yamataikoku 2022 (US) Summoning Campaign Saint Quartz Summon",
+        "name": "GUDAGUDA Yamataikoku 2022 Summoning Campaign Saint Quartz Summon",
         "start_date": "9/14/2022",
         "end_date": "9/27/2022",
         "date_origin": "event list",
@@ -5604,7 +5598,7 @@
         "num_rateups": 2
       },
       {
-        "name": "GUDAGUDA Yamataikoku 2022 (US) Summoning Campaign Friend Point Summon",
+        "name": "GUDAGUDA Yamataikoku 2022 Summoning Campaign Friend Point Summon",
         "start_date": "9/14/2022",
         "end_date": "9/27/2022",
         "date_origin": "event list",
@@ -5616,11 +5610,11 @@
     ]
   },
   {
-    "name": "FGO THE STAGE Solomon Release Campaign (US)",
+    "name": "FGO THE STAGE Solomon Release Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO THE STAGE Solomon Release Campaign (US) Summoning Campaign",
+        "name": "FGO THE STAGE Solomon Release Summoning Campaign",
         "start_date": "9/21/2022",
         "end_date": "10/12/2022",
         "date_origin": "event header na new",
@@ -5636,11 +5630,11 @@
     ]
   },
   {
-    "name": "Christmas 2021 Event Revival Pre-Release Campaign (US)",
+    "name": "Christmas 2021 Event Revival Pre-Release Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Christmas 2021 Event Revival Pre-Release Campaign (US) Summoning Campaign",
+        "name": "Christmas 2021 Event Revival Pre-Release Summoning Campaign",
         "start_date": "9/28/2022",
         "end_date": "10/11/2022",
         "date_origin": "event header na new",
@@ -5655,11 +5649,11 @@
     ]
   },
   {
-    "name": "Christmas 2021 Event Revival (US)",
+    "name": "Christmas 2021 Event Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "Christmas 2021 Event Revival (US) Summoning Campaign",
+        "name": "Christmas 2021 Event Revival Summoning Campaign",
         "start_date": "10/6/2022",
         "end_date": "10/17/2022",
         "date_origin": "event list",
@@ -5678,11 +5672,11 @@
     ]
   },
   {
-    "name": "Halloween Campaign 2022 (US)",
+    "name": "Halloween Campaign 2022",
     "region": "NA",
     "banners": [
       {
-        "name": "Halloween Campaign 2022 (US) Summoning Campaign",
+        "name": "Halloween Campaign 2022 Summoning Campaign",
         "start_date": "10/17/2022",
         "end_date": "10/30/2022",
         "date_origin": "event header na new",
@@ -5699,11 +5693,11 @@
     ]
   },
   {
-    "name": "Imaginary Scramble (US)",
+    "name": "Imaginary Scramble",
     "region": "NA",
     "banners": [
       {
-        "name": "Imaginary Scramble Pre-Release Campaign (US) Summoning Campaign",
+        "name": "Imaginary Scramble Pre-Release Summoning Campaign",
         "start_date": "10/23/2022",
         "end_date": "11/6/2022",
         "date_origin": "event header na new",
@@ -5716,7 +5710,7 @@
         "num_rateups": 4
       },
       {
-        "name": "Imaginary Scramble (US) Summoning Campaign 1",
+        "name": "Imaginary Scramble Summoning Campaign 1",
         "start_date": "10/27/2022",
         "end_date": "10/27/2022",
         "date_origin": "event list",
@@ -5727,7 +5721,7 @@
         "num_rateups": 2
       },
       {
-        "name": "Imaginary Scramble (US) Summoning Campaign 2",
+        "name": "Imaginary Scramble Summoning Campaign 2",
         "start_date": "10/27/2022",
         "end_date": "10/27/2022",
         "date_origin": "event list",
@@ -5741,11 +5735,11 @@
     ]
   },
   {
-    "name": "Heian-kyo Chapter Release (US)",
+    "name": "Heian-kyo Chapter Release",
     "region": "NA",
     "banners": [
       {
-        "name": "Heian-kyo Pre-Release Campaign (US) Summoning Campaign",
+        "name": "Heian-kyo Pre-Release Summoning Campaign",
         "start_date": "11/9/2022",
         "end_date": "11/16/2022",
         "date_origin": "event header na new",
@@ -5758,7 +5752,7 @@
         "num_rateups": 4
       },
       {
-        "name": "Heian-kyo Chapter Release (US) Summoning Campaign",
+        "name": "Heian-kyo Chapter Release Summoning Campaign",
         "start_date": "11/21/2022",
         "end_date": "11/21/2022",
         "date_origin": "event list",
@@ -5771,11 +5765,11 @@
     ]
   },
   {
-    "name": "FGO Thanksgiving Special 2022 (US)",
+    "name": "FGO Thanksgiving Special 2022",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO Thanksgiving Special 2022 (US) Summoning Campaign",
+        "name": "FGO Thanksgiving Special 2022 Summoning Campaign",
         "start_date": "11/24/2022",
         "end_date": "12/4/2022",
         "date_origin": "event header na new",
@@ -5791,11 +5785,11 @@
     ]
   },
   {
-    "name": "Heian-kyo Summoning Campaign 2 (US)",
+    "name": "Heian-kyo Summoning Campaign 2",
     "region": "NA",
     "banners": [
       {
-        "name": "Heian-kyo Summoning Campaign 2 (US) Summon Summoning Campaign 1",
+        "name": "Heian-kyo Summoning Campaign 2 Summon Summoning Campaign 1",
         "start_date": "11/27/2022",
         "end_date": "12/11/2022",
         "date_origin": "event header jp old",
@@ -5810,11 +5804,11 @@
     ]
   },
   {
-    "name": "Interlude Campaign 15 (US)",
+    "name": "Interlude Campaign 15",
     "region": "NA",
     "banners": [
       {
-        "name": "Interlude Campaign 15 (US) Summoning Campaign",
+        "name": "Interlude Campaign 15 Summoning Campaign",
         "start_date": "12/1/2022",
         "end_date": "12/8/2022",
         "date_origin": "event header na new",
@@ -5828,13 +5822,13 @@
     ]
   },
   {
-    "name": "19M Downloads Campaign (US)",
+    "name": "19M Downloads Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "19M Downloads Campaign (US) Summoning Campaign",
+        "name": "19M Downloads Summoning Campaign",
         "start_date": "12/5/2022",
-        "end_date": "12/12/2022",
+        "end_date": "3/11/2020",
         "date_origin": "event header na new",
         "rateups": {
           "237": "Murasaki Shikibu"
@@ -5844,11 +5838,11 @@
     ]
   },
   {
-    "name": "Christmas 2022 Event (US)",
+    "name": "Christmas 2022 Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Christmas 2022 Event (US) Summoning Campaign 1",
+        "name": "Christmas 2022 Event Summoning Campaign 1",
         "start_date": "12/12/2022",
         "end_date": "12/12/2022",
         "date_origin": "event list",
@@ -5860,7 +5854,7 @@
         "num_rateups": 3
       },
       {
-        "name": "Christmas 2022 Event (US) Summoning Campaign 2",
+        "name": "Christmas 2022 Event Summoning Campaign 2",
         "start_date": "12/12/2022",
         "end_date": "12/12/2022",
         "date_origin": "event list",
@@ -5874,11 +5868,11 @@
     ]
   },
   {
-    "name": "New Year 2023 Countdown Campaign (US)",
+    "name": "New Year 2023 Countdown Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "New Year 2023 Countdown Campaign (US) Summoning Campaign",
+        "name": "New Year 2023 Countdown Summoning Campaign",
         "start_date": "12/27/2022",
         "end_date": "12/31/2022",
         "date_origin": "event header na new",
@@ -5891,11 +5885,11 @@
     ]
   },
   {
-    "name": "Happy New Year 2023 (US)",
+    "name": "Happy New Year 2023",
     "region": "NA",
     "banners": [
       {
-        "name": "Happy New Year 2023 (US) Summoning Campaign 1",
+        "name": "Happy New Year 2023 Summoning Campaign 1",
         "start_date": "12/31/2022",
         "end_date": "12/31/2022",
         "date_origin": "event list",
@@ -5905,7 +5899,7 @@
         "num_rateups": 1
       },
       {
-        "name": "Happy New Year 2023 (US) Summoning Campaign 2",
+        "name": "Happy New Year 2023 Summoning Campaign 2",
         "start_date": "12/31/2022",
         "end_date": "12/31/2022",
         "date_origin": "event list",
@@ -5922,11 +5916,11 @@
     ]
   },
   {
-    "name": "Saber Wars II Revival (US)",
+    "name": "Saber Wars II Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "Saber Wars II Revival (US) Summoning Campaign 1",
+        "name": "Saber Wars II Revival Summoning Campaign 1",
         "start_date": "1/5/2023",
         "end_date": "1/18/2023",
         "date_origin": "event list",
@@ -5937,7 +5931,7 @@
         "num_rateups": 2
       },
       {
-        "name": "Saber Wars II Revival (US) Summoning Campaign 2",
+        "name": "Saber Wars II Revival Summoning Campaign 2",
         "start_date": "1/5/2023",
         "end_date": "1/18/2023",
         "date_origin": "event list",
@@ -5950,11 +5944,11 @@
     ]
   },
   {
-    "name": "Little Big Tengu (US)",
+    "name": "Little Big Tengu",
     "region": "NA",
     "banners": [
       {
-        "name": "Little Big Tengu (US) Summoning Campaign",
+        "name": "Little Big Tengu Summoning Campaign",
         "start_date": "1/20/2023",
         "end_date": "2/2/2023",
         "date_origin": "event list",
@@ -5969,11 +5963,11 @@
     ]
   },
   {
-    "name": "Grail Front Event ~Et Tu, Brute?~ (US)",
+    "name": "Grail Front Event ~Et Tu, Brute?~",
     "region": "NA",
     "banners": [
       {
-        "name": "Grail Front Event ~Et Tu, Brute?~ (US) Summoning Campaign",
+        "name": "Grail Front Event ~Et Tu, Brute?~ Summoning Campaign",
         "start_date": "2/6/2023",
         "end_date": "2/19/2023",
         "date_origin": "event list",
@@ -5991,11 +5985,11 @@
     ]
   },
   {
-    "name": "Valentine 2023 Event (US)",
+    "name": "Valentine 2023 Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Valentine 2023 Event (US) Summoning Campaign",
+        "name": "Valentine 2023 Event Summoning Campaign",
         "start_date": "2/13/2023",
         "end_date": "2/26/2023",
         "date_origin": "event list",
@@ -6029,11 +6023,11 @@
     ]
   },
   {
-    "name": "Valentine 2022 Summoning Campaign Revival (US)",
+    "name": "Valentine 2022 Summoning Campaign Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "Valentine 2022 Summoning Campaign Revival (US)",
+        "name": "Valentine 2022 Summoning Campaign Revival",
         "start_date": "2/19/2023",
         "end_date": "3/5/2023",
         "date_origin": "event header na new",
@@ -6045,11 +6039,11 @@
     ]
   },
   {
-    "name": "Spring has Sprung Campaign 2023 (US)",
+    "name": "Spring has Sprung Campaign 2023",
     "region": "NA",
     "banners": [
       {
-        "name": "Spring has Sprung Campaign 2023 (US) Summoning Campaign",
+        "name": "Spring has Sprung Campaign 2023 Summoning Campaign",
         "start_date": "2/23/2023",
         "end_date": "3/2/2023",
         "date_origin": "event header na new",
@@ -6061,11 +6055,11 @@
     ]
   },
   {
-    "name": "Chaldea Boys Collection 2023 (US)",
+    "name": "Chaldea Boys Collection 2023",
     "region": "NA",
     "banners": [
       {
-        "name": "Chaldea Boys Collection 2023 (US) Summoning Campaign",
+        "name": "Chaldea Boys Collection 2023 Summoning Campaign",
         "start_date": "3/3/2023",
         "end_date": "3/14/2023",
         "date_origin": "event header na new",
@@ -6093,11 +6087,11 @@
     ]
   },
   {
-    "name": "Chaldea Boys Collection 2023 Summoning Campaign 2 (US)",
+    "name": "Chaldea Boys Collection 2023 Summoning Campaign 2",
     "region": "NA",
     "banners": [
       {
-        "name": "Chaldea Boys Collection 2023 Summoning Campaign 2 (US)",
+        "name": "Chaldea Boys Collection 2023 Summoning Campaign 2",
         "start_date": "3/9/2023",
         "end_date": "3/23/2023",
         "date_origin": "event header na new",
@@ -6111,11 +6105,11 @@
     ]
   },
   {
-    "name": "Class Based Summoning Campaign March 2023 (US)",
+    "name": "Class Based Summoning Campaign March 2023",
     "region": "NA",
     "banners": [
       {
-        "name": "Class Based Summoning Campaign March 2023 (US)",
+        "name": "Class Based Summoning Campaign March 2023",
         "start_date": "3/12/2023",
         "end_date": "3/28/2023",
         "date_origin": "event header na new",
@@ -6186,7 +6180,7 @@
         "num_rateups": 62
       },
       {
-        "name": "Class Based Summoning Campaign March 2023 (US)",
+        "name": "Class Based Summoning Campaign March 2023",
         "start_date": "3/12/2023",
         "end_date": "3/28/2023",
         "date_origin": "event header na new",
@@ -6267,7 +6261,7 @@
         "num_rateups": 72
       },
       {
-        "name": "Class Based Summoning Campaign March 2023 (US)",
+        "name": "Class Based Summoning Campaign March 2023",
         "start_date": "3/12/2023",
         "end_date": "3/28/2023",
         "date_origin": "event header na new",
@@ -6285,11 +6279,11 @@
     ]
   },
   {
-    "name": "Akihabara Explosion (US)",
+    "name": "Akihabara Explosion",
     "region": "NA",
     "banners": [
       {
-        "name": "Akihabara Explosion (US) Summoning Campaign",
+        "name": "Akihabara Explosion Summoning Campaign",
         "start_date": "3/17/2023",
         "end_date": "3/30/2023",
         "date_origin": "event list",
@@ -6303,11 +6297,11 @@
     ]
   },
   {
-    "name": "Arc 1 & Arc 1.5 Memorial Summoning Campaign (US)",
+    "name": "Arc 1 & Arc 1.5 Memorial Summoning Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Arc 1 & Arc 1.5 Memorial Summoning Campaign (US) Summoning Campaign 1",
+        "name": "Arc 1 & Arc 1.5 Memorial Summoning Campaign 1",
         "start_date": "3/23/2023",
         "end_date": "3/30/2023",
         "date_origin": "event header na new",
@@ -6319,7 +6313,7 @@
         "num_rateups": 3
       },
       {
-        "name": "Arc 1 & Arc 1.5 Memorial Summoning Campaign (US) Summoning Campaign 2",
+        "name": "Arc 1 & Arc 1.5 Memorial Summoning Campaign 2",
         "start_date": "3/23/2023",
         "end_date": "3/30/2023",
         "date_origin": "event header na new",
@@ -6333,11 +6327,11 @@
     ]
   },
   {
-    "name": "Spring Break Summoning Campaign (US)",
+    "name": "Spring Break Summoning Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Spring Break Summoning Campaign (US) Summoning Campaign",
+        "name": "Spring Break Summoning Campaign",
         "start_date": "3/30/2023",
         "end_date": "4/9/2023",
         "date_origin": "event header na new",
@@ -6352,11 +6346,11 @@
     ]
   },
   {
-    "name": "Servant Rank Up Quests Part XIII (US)",
+    "name": "Servant Rank Up Quests Part XIII",
     "region": "NA",
     "banners": [
       {
-        "name": "Servant Rank Up Quests Part XIII (US) Summoning Campaign",
+        "name": "Servant Rank Up Quests Part XIII Summoning Campaign",
         "start_date": "4/5/2023",
         "end_date": "4/19/2023",
         "date_origin": "event header na new",
@@ -6373,11 +6367,11 @@
     ]
   },
   {
-    "name": "FGO Waltz in the Moonlight Collaboration Event (US)",
+    "name": "FGO Waltz in the Moonlight Collaboration Event",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO Waltz in the Moonlight Collaboration Event Pre-Release Campaign (US) Summoning Campaign",
+        "name": "FGO Waltz in the Moonlight Collaboration Event Pre-Release Summoning Campaign",
         "start_date": "4/9/2023",
         "end_date": "4/23/2023",
         "date_origin": "event header na new",
@@ -6390,7 +6384,7 @@
         "num_rateups": 4
       },
       {
-        "name": "FGO Waltz in the Moonlight Collaboration Event (US) Summoning Campaign 1",
+        "name": "FGO Waltz in the Moonlight Collaboration Event Summoning Campaign 1",
         "start_date": "4/17/2023",
         "end_date": "4/30/2023",
         "date_origin": "event list",
@@ -6403,7 +6397,7 @@
         "num_rateups": 4
       },
       {
-        "name": "FGO Waltz in the Moonlight Collaboration Event (US) Summoning Campaign 2",
+        "name": "FGO Waltz in the Moonlight Collaboration Event Summoning Campaign 2",
         "start_date": "4/17/2023",
         "end_date": "4/30/2023",
         "date_origin": "event list",
@@ -6419,11 +6413,11 @@
     ]
   },
   {
-    "name": "My Super Camelot 2023 Pre-Release Campaign (US)",
+    "name": "My Super Camelot 2023 Pre-Release Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "My Super Camelot 2023 Pre-Release Campaign (US) Summoning Campaign",
+        "name": "My Super Camelot 2023 Pre-Release Summoning Campaign",
         "start_date": "4/30/2023",
         "end_date": "5/28/2023",
         "date_origin": "event header na new",
@@ -6437,11 +6431,11 @@
     ]
   },
   {
-    "name": "Grail Front Event ~My Super Camelot 2023~ (US)",
+    "name": "Grail Front Event ~My Super Camelot 2023~",
     "region": "NA",
     "banners": [
       {
-        "name": "Grail Front Event ~My Super Camelot 2023~ (US) Summoning Campaign",
+        "name": "Grail Front Event ~My Super Camelot 2023~ Summoning Campaign",
         "start_date": "5/8/2023",
         "end_date": "5/21/2023",
         "date_origin": "event list",
@@ -6457,11 +6451,11 @@
     ]
   },
   {
-    "name": "FGO Summer 2022 Event Revival (US)",
+    "name": "FGO Summer 2022 Event Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO Summer 2022 Event Revival (US) Summoning Campaign 1",
+        "name": "FGO Summer 2022 Event Revival Summoning Campaign 1",
         "start_date": "5/16/2023",
         "end_date": "6/5/2023",
         "date_origin": "event list",
@@ -6473,7 +6467,7 @@
         "num_rateups": 3
       },
       {
-        "name": "FGO Summer 2022 Event Revival (US) Summoning Campaign 2",
+        "name": "FGO Summer 2022 Event Revival Summoning Campaign 2",
         "start_date": "5/16/2023",
         "end_date": "6/5/2023",
         "date_origin": "event list",
@@ -6485,7 +6479,7 @@
         "num_rateups": 3
       },
       {
-        "name": "FGO Summer 2022 Event Revival (US) Summoning Campaign 3",
+        "name": "FGO Summer 2022 Event Revival Summoning Campaign 3",
         "start_date": "5/16/2023",
         "end_date": "6/5/2023",
         "date_origin": "event list",
@@ -6500,11 +6494,11 @@
     ]
   },
   {
-    "name": "Arc 2 Chapter 5 Memorial Summoning Campaign (US)",
+    "name": "Arc 2 Chapter 5 Memorial Summoning Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Arc 2 Chapter 5 Memorial Summoning Campaign (US)",
+        "name": "Arc 2 Chapter 5 Memorial Summoning Campaign",
         "start_date": "5/28/2023",
         "end_date": "6/9/2023",
         "date_origin": "event header na new",
@@ -6519,11 +6513,11 @@
     ]
   },
   {
-    "name": "Avalon le Fae Part 1 Chapter Release (US)",
+    "name": "Avalon le Fae Part 1 Chapter Release",
     "region": "NA",
     "banners": [
       {
-        "name": "Avalon le Fae Pre-Release Campaign (US) Summoning Campaign",
+        "name": "Avalon le Fae Pre-Release Summoning Campaign",
         "start_date": "6/1/2023",
         "end_date": "6/29/2023",
         "date_origin": "event header na new",
@@ -6533,7 +6527,7 @@
         "num_rateups": 1
       },
       {
-        "name": "Avalon le Fae Part 1 Chapter Release (US) Summoning Campaign",
+        "name": "Avalon le Fae Part 1 Chapter Release Summoning Campaign",
         "start_date": "6/6/2023",
         "end_date": "6/6/2023",
         "date_origin": "event header na new",
@@ -6548,11 +6542,11 @@
     ]
   },
   {
-    "name": "Avalon le Fae Part 1 Summoning Campaign 2 (US)",
+    "name": "Avalon le Fae Part 1 Summoning Campaign 2",
     "region": "NA",
     "banners": [
       {
-        "name": "Avalon le Fae Part 1 Summoning Campaign 2 (US)",
+        "name": "Avalon le Fae Part 1 Summoning Campaign 2",
         "start_date": "6/12/2023",
         "end_date": "6/19/2023",
         "date_origin": "event header na new",
@@ -6564,11 +6558,11 @@
     ]
   },
   {
-    "name": "Interlude Campaign 16 (US)",
+    "name": "Interlude Campaign 16",
     "region": "NA",
     "banners": [
       {
-        "name": "Interlude Campaign 16 (US) Summoning Campaign",
+        "name": "Interlude Campaign 16 Summoning Campaign",
         "start_date": "6/15/2023",
         "end_date": "6/22/2023",
         "date_origin": "event header na new",
@@ -6583,11 +6577,11 @@
     ]
   },
   {
-    "name": "Avalon le Fae Part 2 Chapter Release (US)",
+    "name": "Avalon le Fae Part 2 Chapter Release",
     "region": "NA",
     "banners": [
       {
-        "name": "Avalon le Fae Part 2 Chapter Release (US) Summoning Campaign",
+        "name": "Avalon le Fae Part 2 Chapter Release Summoning Campaign",
         "start_date": "6/20/2023",
         "end_date": "6/20/2023",
         "date_origin": "event header na new",
@@ -6600,11 +6594,11 @@
     ]
   },
   {
-    "name": "FGO Festival 2023 ~6th Anniversary~ (US)",
+    "name": "FGO Festival 2023 ~6th Anniversary~",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO 6th Anniversary Commemorative Campaign (US) Summoning Campaign",
+        "name": "FGO 6th Anniversary Commemorative Summoning Campaign",
         "start_date": "6/28/2023",
         "end_date": "7/12/2023",
         "date_origin": "event header na new",
@@ -6614,7 +6608,7 @@
         "num_rateups": 1
       },
       {
-        "name": "FGO Festival 2023 ~6th Anniversary~ (US) Summoning Campaign",
+        "name": "FGO Festival 2023 ~6th Anniversary~ Summoning Campaign",
         "start_date": "7/3/2023",
         "end_date": "7/16/2023",
         "date_origin": "event list",
@@ -6629,11 +6623,11 @@
     ]
   },
   {
-    "name": "FGO 6th Anniversary Daily Summoning Campaign (US)",
+    "name": "FGO 6th Anniversary Daily Summoning Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO 6th Anniversary Daily Summoning Campaign (US)",
+        "name": "FGO 6th Anniversary Daily Summoning Campaign",
         "start_date": "7/5/2023",
         "end_date": "7/13/2023",
         "date_origin": "event header na new",
@@ -6663,11 +6657,11 @@
     ]
   },
   {
-    "name": "Avalon le Fae Conclusion Campaign (US)",
+    "name": "Avalon le Fae Conclusion Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Avalon le Fae Conclusion Campaign (US) Summoning Campaign 1",
+        "name": "Avalon le Fae Conclusion Summoning Campaign 1",
         "start_date": "7/10/2023",
         "end_date": "8/6/2023",
         "date_origin": "event header na new",
@@ -6681,7 +6675,7 @@
         "num_rateups": 5
       },
       {
-        "name": "Avalon le Fae Conclusion Campaign (US) Summoning Campaign 2",
+        "name": "Avalon le Fae Conclusion Summoning Campaign 2",
         "start_date": "7/10/2023",
         "end_date": "8/6/2023",
         "date_origin": "event header na new",
@@ -6693,7 +6687,7 @@
         "num_rateups": 3
       },
       {
-        "name": "Avalon le Fae Conclusion Campaign (US) Summoning Campaign 3",
+        "name": "Avalon le Fae Conclusion Summoning Campaign 3",
         "start_date": "7/10/2023",
         "end_date": "8/6/2023",
         "date_origin": "event header na new",
@@ -6709,11 +6703,11 @@
     ]
   },
   {
-    "name": "Grand Nero Festival 2023 (US)",
+    "name": "Grand Nero Festival 2023",
     "region": "NA",
     "banners": [
       {
-        "name": "Grand Nero Festival 2023 (US) Summoning Campaign 1",
+        "name": "Grand Nero Festival 2023 Summoning Campaign 1",
         "start_date": "7/31/2023",
         "end_date": "8/13/2023",
         "date_origin": "event list",
@@ -6728,7 +6722,7 @@
         "num_rateups": 6
       },
       {
-        "name": "Grand Nero Festival 2023 (US) Summoning Campaign 2",
+        "name": "Grand Nero Festival 2023 Summoning Campaign 2",
         "start_date": "7/31/2023",
         "end_date": "8/13/2023",
         "date_origin": "event list",
@@ -6747,11 +6741,11 @@
     ]
   },
   {
-    "name": "Melty Blood: Type Lumina Evo 2023 Celebration Campaign (US)",
+    "name": "Melty Blood: Type Lumina Evo 2023 Celebration Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Melty Blood: Type Lumina Evo 2023 Celebration Campaign (US) Summoning Campaign",
+        "name": "Melty Blood: Type Lumina Evo 2023 Celebration Summoning Campaign",
         "start_date": "8/3/2023",
         "end_date": "8/10/2023",
         "date_origin": "event header na new",
@@ -6764,11 +6758,11 @@
     ]
   },
   {
-    "name": "Back to School Campaign 2023 (US)",
+    "name": "Back to School Campaign 2023",
     "region": "NA",
     "banners": [
       {
-        "name": "Back to School Campaign 2023 (US) Summoning Campaign",
+        "name": "Back to School Campaign 2023 Summoning Campaign",
         "start_date": "8/15/2023",
         "end_date": "10/31/2023",
         "date_origin": "event header na new",
@@ -6782,11 +6776,11 @@
     ]
   },
   {
-    "name": "Revival Summer Servants Summoning Campaign (US)",
+    "name": "Revival Summer Servants Summoning Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Revival Summer Servants Summoning Campaign (US)",
+        "name": "Revival Summer Servants Summoning Campaign",
         "start_date": "8/24/2023",
         "end_date": "8/30/2023",
         "date_origin": "event header na new",
@@ -6813,11 +6807,11 @@
     ]
   },
   {
-    "name": "FGO Summer 2023 Event (US)",
+    "name": "FGO Summer 2023 Event",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO Summer 2023 Event Pre-Release Campaign (US) Summoning Campaign",
+        "name": "FGO Summer 2023 Event Pre-Release Summoning Campaign",
         "start_date": "8/22/2023",
         "end_date": "8/29/2023",
         "date_origin": "event header na new",
@@ -6830,7 +6824,7 @@
         "num_rateups": 4
       },
       {
-        "name": "FGO Summer 2023 Event (US) Summoning Campaign 1",
+        "name": "FGO Summer 2023 Event Summoning Campaign 1",
         "start_date": "8/31/2023",
         "end_date": "9/20/2023",
         "date_origin": "event list",
@@ -6842,7 +6836,7 @@
         "num_rateups": 3
       },
       {
-        "name": "FGO Summer 2023 Event (US) Summoning Campaign 2",
+        "name": "FGO Summer 2023 Event Summoning Campaign 2",
         "start_date": "8/31/2023",
         "end_date": "9/20/2023",
         "date_origin": "event list",
@@ -6853,7 +6847,7 @@
         "num_rateups": 2
       },
       {
-        "name": "FGO Summer 2023 Event (US) Summoning Campaign 3",
+        "name": "FGO Summer 2023 Event Summoning Campaign 3",
         "start_date": "8/31/2023",
         "end_date": "9/20/2023",
         "date_origin": "event list",
@@ -6865,7 +6859,7 @@
         "num_rateups": 3
       },
       {
-        "name": "FGO Summer 2023 Event (US) Summoning Campaign 4",
+        "name": "FGO Summer 2023 Event Summoning Campaign 4",
         "start_date": "8/31/2023",
         "end_date": "9/20/2023",
         "date_origin": "event list",
@@ -6878,11 +6872,11 @@
     ]
   },
   {
-    "name": "Interlude Campaign 17 (US)",
+    "name": "Interlude Campaign 17",
     "region": "NA",
     "banners": [
       {
-        "name": "Interlude Campaign 17 (US) Summoning Campaign",
+        "name": "Interlude Campaign 17 Summoning Campaign",
         "start_date": "9/20/2023",
         "end_date": "9/27/2023",
         "date_origin": "event header na new",
@@ -6895,11 +6889,11 @@
     ]
   },
   {
-    "name": "Fate/Samurai Remnant Release Campaign (US)",
+    "name": "Fate/Samurai Remnant Release Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Fate/Samurai Remnant Release Campaign (US) Summoning Campaign",
+        "name": "Fate/Samurai Remnant Release Summoning Campaign",
         "start_date": "9/28/2023",
         "end_date": "10/4/2023",
         "date_origin": "event header na new",
@@ -6915,11 +6909,11 @@
     ]
   },
   {
-    "name": "Halloween Trilogy Event (US)",
+    "name": "Halloween Trilogy Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Halloween Trilogy Event (US) Summoning Campaign",
+        "name": "Halloween Trilogy Event Summoning Campaign",
         "start_date": "9/29/2023",
         "end_date": "10/25/2023",
         "date_origin": "event list",
@@ -6945,11 +6939,11 @@
     ]
   },
   {
-    "name": "Fate/Grand Carnival Recollection Campaign (US)",
+    "name": "Fate/Grand Carnival Recollection Campaign",
     "region": "NA",
     "banners": [
       {
-        "name": "Fate/Grand Carnival Recollection Campaign (US) Summoning Campaign",
+        "name": "Fate/Grand Carnival Recollection Summoning Campaign",
         "start_date": "10/2/2023",
         "end_date": "10/13/2023",
         "date_origin": "event header na new",
@@ -6964,11 +6958,11 @@
     ]
   },
   {
-    "name": "Halloween 2023 Event (US)",
+    "name": "Halloween 2023 Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Halloween 2023 Event (US) Summoning Campaign 1",
+        "name": "Halloween 2023 Event Summoning Campaign 1",
         "start_date": "10/11/2023",
         "end_date": "10/25/2023",
         "date_origin": "event list",
@@ -6979,7 +6973,7 @@
         "num_rateups": 2
       },
       {
-        "name": "Halloween 2023 Event (US) Summoning Campaign 2",
+        "name": "Halloween 2023 Event Summoning Campaign 2",
         "start_date": "10/11/2023",
         "end_date": "10/25/2023",
         "date_origin": "event list",
@@ -6991,7 +6985,7 @@
         "num_rateups": 3
       },
       {
-        "name": "Halloween 2023 Event (US) Summoning Campaign 3",
+        "name": "Halloween 2023 Event Summoning Campaign 3",
         "start_date": "10/11/2023",
         "end_date": "10/25/2023",
         "date_origin": "event list",
@@ -7005,11 +6999,11 @@
     ]
   },
   {
-    "name": "GUDAGUDA Yamataikoku 2022 Revival (US)",
+    "name": "GUDAGUDA Yamataikoku 2022 Revival",
     "region": "NA",
     "banners": [
       {
-        "name": "GUDAGUDA Yamataikoku 2022 Revival (US) Summoning Campaign Saint Quartz Summon I",
+        "name": "GUDAGUDA Yamataikoku 2022 Revival Summoning Campaign Saint Quartz Summon I",
         "start_date": "10/26/2023",
         "end_date": "11/8/2023",
         "date_origin": "event list",
@@ -7022,7 +7016,7 @@
         "num_rateups": 4
       },
       {
-        "name": "GUDAGUDA Yamataikoku 2022 Revival (US) Summoning Campaign Saint Quartz Summon II",
+        "name": "GUDAGUDA Yamataikoku 2022 Revival Summoning Campaign Saint Quartz Summon II",
         "start_date": "10/26/2023",
         "end_date": "11/8/2023",
         "date_origin": "event list",
@@ -7036,11 +7030,11 @@
     ]
   },
   {
-    "name": "Cozy up for Winter Campaign 2023 (US)",
+    "name": "Cozy up for Winter Campaign 2023",
     "region": "NA",
     "banners": [
       {
-        "name": "Cozy up for Winter Campaign 2023 (US) Summoning Campaign",
+        "name": "Cozy up for Winter Campaign 2023 Summoning Campaign",
         "start_date": "11/7/2023",
         "end_date": "11/21/2023",
         "date_origin": "tab",
@@ -7054,11 +7048,11 @@
     ]
   },
   {
-    "name": "GUDAGUDA Ryouma's Narrow Escape 2023 (US)",
+    "name": "GUDAGUDA Ryouma's Narrow Escape 2023",
     "region": "NA",
     "banners": [
       {
-        "name": "GUDAGUDA Ryouma's Narrow Escape 2023 (US) Summoning Campaign 1",
+        "name": "GUDAGUDA Ryouma's Narrow Escape 2023 Summoning Campaign 1",
         "start_date": "11/13/2023",
         "end_date": "11/26/2023",
         "date_origin": "tab",
@@ -7071,7 +7065,7 @@
         "num_rateups": 4
       },
       {
-        "name": "GUDAGUDA Ryouma's Narrow Escape 2023 (US) Summoning Campaign 2",
+        "name": "GUDAGUDA Ryouma's Narrow Escape 2023 Summoning Campaign 2",
         "start_date": "11/17/2023",
         "end_date": "12/1/2023",
         "date_origin": "tab",
@@ -7087,11 +7081,11 @@
     ]
   },
   {
-    "name": "FGO Thanksgiving Special 2023 (US)",
+    "name": "FGO Thanksgiving Special 2023",
     "region": "NA",
     "banners": [
       {
-        "name": "FGO Thanksgiving Special 2023 (US) Summoning Campaign",
+        "name": "FGO Thanksgiving Special 2023 Summoning Campaign",
         "start_date": "11/21/2023",
         "end_date": "12/6/2023",
         "date_origin": "tab",
@@ -7116,11 +7110,11 @@
     ]
   },
   {
-    "name": "Interlude Campaign 18 (US)",
+    "name": "Interlude Campaign 18",
     "region": "NA",
     "banners": [
       {
-        "name": "Interlude Campaign 18 (US) Summoning Campaign",
+        "name": "Interlude Campaign 18 Summoning Campaign",
         "start_date": "11/26/2023",
         "end_date": "12/10/2023",
         "date_origin": "tab",
@@ -7133,11 +7127,11 @@
     ]
   },
   {
-    "name": "Christmas 2023 Event (US)",
+    "name": "Christmas 2023 Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Christmas 2023 Event (US) Summoning Campaign",
+        "name": "Christmas 2023 Event Summoning Campaign",
         "start_date": "12/7/2023",
         "end_date": "12/20/2023",
         "date_origin": "event header jp old",
@@ -7152,11 +7146,11 @@
     ]
   },
   {
-    "name": "Story Clear Support Campaign Part 4 (US)",
+    "name": "Story Clear Support Campaign Part 4",
     "region": "NA",
     "banners": [
       {
-        "name": "Story Clear Support Campaign Part 4 (US) Summoning Campaign 1",
+        "name": "Story Clear Support Campaign Part 4 Summoning Campaign 1",
         "start_date": "12/13/2023",
         "end_date": "12/21/2023",
         "date_origin": "tab",
@@ -7168,7 +7162,7 @@
         "num_rateups": 3
       },
       {
-        "name": "Story Clear Support Campaign Part 4 (US) Summoning Campaign 2",
+        "name": "Story Clear Support Campaign Part 4 Summoning Campaign 2",
         "start_date": "12/17/2023",
         "end_date": "12/31/2023",
         "date_origin": "tab",
@@ -7182,11 +7176,11 @@
     ]
   },
   {
-    "name": "Tunguska Sanctuary (US)",
+    "name": "Tunguska Sanctuary",
     "region": "NA",
     "banners": [
       {
-        "name": "Tunguska Sanctuary (US) Summoning Campaign",
+        "name": "Tunguska Sanctuary Summoning Campaign",
         "start_date": "12/22/2023",
         "end_date": "12/30/2023",
         "date_origin": "event header jp old",

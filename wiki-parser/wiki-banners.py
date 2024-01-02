@@ -1158,9 +1158,26 @@ def fix_dates(event_set):
         except KeyError:
             pass
 
+def remove_us_suffix(event_set):
+    temp_dict = {}
+
+    # Remove the "US" suffix from the end of event names.
+    for event in event_set:
+        for i, banner in enumerate(event_set[event].banners):
+            event_set[event].banners[i].name = re.sub(r' \(US\)', '', banner.name)
+        new_event = Event(re.sub(r' \(US\)', '', event.name), event.region, event.banners)
+        temp_dict[new_event] = new_event
+
+    return temp_dict
+
 def parse_and_create(event_list, event_set, region):
     print("Parsing all events...")
     parse_event_lists(event_list, region)
+
+    if region == "NA":
+        # Remove the "US" suffix from the end of event names.
+        print("Removing US suffix...")
+        event_set = remove_us_suffix(event_set)
 
     # Merge events that are marked to be merged and delete the old events.
     print("Merging events...")
