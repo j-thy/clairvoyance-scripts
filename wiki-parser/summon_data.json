@@ -697,7 +697,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "FGO 2016 Summer Event/Event Details Summer Event 2016 Summoning Campaign",
+        "name": "FGO 2016 Summer Event Summoning Campaign 1",
         "start_date": "8/11/2016",
         "end_date": "8/31/2016",
         "date_origin": "event list",
@@ -710,7 +710,7 @@
         "num_rateups": 4
       },
       {
-        "name": "FGO 2016 Summer Event/Part II Event Details Summer Event 2016 Summoning Campaign Part II",
+        "name": "FGO 2016 Summer Event Summoning Campaign 2",
         "start_date": "8/11/2016",
         "end_date": "8/31/2016",
         "date_origin": "event list",

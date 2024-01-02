@@ -313,7 +313,7 @@ CORRECT_DATES = {
     # Moon Goddess Event Re-Run -> End: 1/30/17
     # Solomon Chapter Release -> End: 12/31/16
     # Amakusa Shirō Summoning Campaign -> End: 12/7/2016
-    # FGO 2016 Summer Event
+    # FGO 2016 Summer Event Summoning Campaign 2 -> Start: 8/22/16
     # Camelot Chapter Release
     # Fate/Accel Zero Order Event
     # Da Vinci and The 7 Counterfeit Heroic Spirits
@@ -360,6 +360,8 @@ BANNER_NAME_CHANGE = (
     ("Valentine 2016 Event Re-Run", "Valentine 2017 Summoning Campaign", "Valentine 2017 Summoning Campaign (Male)"),
     ("Solomon Chapter Release", "Solomon Chapter Release", "Solomon Chapter Release Summoning Campaign"),
     ("Babylonia Chapter Release", "Babylonia Chapter Release", "Babylonia Chapter Release Summoning Campaign"),
+    ("FGO 2016 Summer Event", "FGO 2016 Summer Event/Event Details Summer Event 2016 Summoning Campaign", "FGO 2016 Summer Event Summoning Campaign 1"),
+    ("FGO 2016 Summer Event", "FGO 2016 Summer Event/Part II Event Details Summer Event 2016 Summoning Campaign Part II", "FGO 2016 Summer Event Summoning Campaign 2"),
 )
 
 FAKE_BANNERS = (
