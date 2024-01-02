@@ -144,7 +144,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Okeanos Summoning Campaign",
+        "name": "Okeanos Chapter Release Summoning Campaign",
         "start_date": "11/5/2015",
         "end_date": "11/18/2015",
         "date_origin": "event header jp new",
@@ -164,7 +164,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "Da Vinci-chan's Choice 2015",
+        "name": "Da Vinci-chan's Choice 2015 Summoning Campaign",
         "start_date": "11/18/2015",
         "end_date": "11/25/2015",
         "date_origin": "event list",
@@ -243,7 +243,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "London Summoning Campaign",
+        "name": "London Chapter Release Summoning Campaign",
         "start_date": "12/5/2015",
         "end_date": "1/13/2016",
         "date_origin": "event header jp new",
@@ -255,6 +255,17 @@
           "82": "Frankenstein"
         },
         "num_rateups": 5
+      },
+      {
+        "name": "London Summoning Campaign 2",
+        "start_date": "1/13/2016",
+        "end_date": "1/20/2016",
+        "date_origin": "event list",
+        "rateups": {
+          "77": "Nikola Tesla",
+          "78": "Artoria Pendragon (Lancer Alter)"
+        },
+        "num_rateups": 2
       }
     ]
   },
@@ -263,7 +274,7 @@
     "region": "JP",
     "banners": [
       {
-        "name": "New Year Campaign 2016",
+        "name": "New Year Campaign 2016 Summoning Campaign",
         "start_date": "1/1/2016",
         "end_date": "1/13/2016",
         "date_origin": "event list",
@@ -275,23 +286,6 @@
           "85": "Karna"
         },
         "num_rateups": 5
-      }
-    ]
-  },
-  {
-    "name": "London Campaign 2",
-    "region": "JP",
-    "banners": [
-      {
-        "name": "London Campaign 2",
-        "start_date": "1/13/2016",
-        "end_date": "1/20/2016",
-        "date_origin": "event list",
-        "rateups": {
-          "77": "Nikola Tesla",
-          "78": "Artoria Pendragon (Lancer Alter)"
-        },
-        "num_rateups": 2
       }
     ]
   },

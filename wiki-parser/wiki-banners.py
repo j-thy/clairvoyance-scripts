@@ -222,6 +222,7 @@ MERGE_EVENTS_INTO = {
     "Valentine 2018 Summoning Campaign Re-Run" : "Valentine 2019",
     "Valentine 2017 Summoning Campaign Re-Run" : "Valentine 2018",
     "Chaldea Boys Collection 2016 Re-Run" : "Chaldea Boys Collection 2017",
+    "London Campaign 2" : "London Chapter Release",
 }
 
 INCLUDE_SUBPAGES = {
@@ -317,8 +318,8 @@ CORRECT_DATES = {
     # Camelot Chapter Release Summoning Campaign -> End: 7/29/16
     # E Pluribus Unum Chapter Release Summoning Campaign -> End: 4/13/16
     # AnimeJapan 2016 Exhibition Commemoration Campaign -> Start: 3/23/16, End: 3/30/16
-    # New Year Campaign 2016
-    # 4M Downloads Campaign
+    # New Year Campaign 2016 -> End: 1/13/2016
+    # 4M Downloads Campaign -> End: 10/14/2015
 }
 
 BANNER_NAME_FIX = {
@@ -369,6 +370,11 @@ BANNER_NAME_CHANGE = (
     ("E Pluribus Unum Chapter Release", "E Pluribus Unum Chapter Release", "E Pluribus Unum Chapter Release Summoning Campaign"),
     ("Cries of The Vengeful Demon in the Prison Tower", "Cries of The Vengeful Demon in the Prison Tower", "Cries of The Vengeful Demon in the Prison Tower Summoning Campaign"),
     ("Saber Wars Event", "Saber Wars Event", "Saber Wars Event Summoning Campaign"),
+    ("London Chapter Release", "London Summoning Campaign", "London Chapter Release Summoning Campaign"),
+    ("London Chapter Release", "London Campaign 2", "London Summoning Campaign 2"),
+    ("New Year Campaign 2016", "New Year Campaign 2016", "New Year Campaign 2016 Summoning Campaign"),
+    ("Da Vinci-chan's Choice 2015", "Da Vinci-chan's Choice 2015", "Da Vinci-chan's Choice 2015 Summoning Campaign"),
+    ("Okeanos Chapter Release", "Okeanos Summoning Campaign", "Okeanos Chapter Release Summoning Campaign"),
 )
 
 FAKE_BANNERS = (
