@@ -4241,7 +4241,7 @@
     "region": "NA",
     "banners": [
       {
-        "name": "FGO Festival 2021 ~4th Anniversary~ Summoning Campaign Saint Quartz Summon",
+        "name": "FGO Festival 2021 ~4th Anniversary~ Summoning Campaign",
         "start_date": "7/3/2021",
         "end_date": "7/14/2021",
         "date_origin": "event list",
@@ -5587,7 +5587,7 @@
     "region": "NA",
     "banners": [
       {
-        "name": "GUDAGUDA Yamataikoku 2022 Summoning Campaign Saint Quartz Summon",
+        "name": "GUDAGUDA Yamataikoku 2022 Summoning Campaign",
         "start_date": "9/14/2022",
         "end_date": "9/27/2022",
         "date_origin": "event list",
@@ -5598,7 +5598,7 @@
         "num_rateups": 2
       },
       {
-        "name": "GUDAGUDA Yamataikoku 2022 Summoning Campaign Friend Point Summon",
+        "name": "GUDAGUDA Yamataikoku 2022 FP Summoning Campaign",
         "start_date": "9/14/2022",
         "end_date": "9/27/2022",
         "date_origin": "event list",
@@ -7003,7 +7003,7 @@
     "region": "NA",
     "banners": [
       {
-        "name": "GUDAGUDA Yamataikoku 2022 Revival Summoning Campaign Saint Quartz Summon I",
+        "name": "GUDAGUDA Yamataikoku 2022 Revival Summoning Campaign 1",
         "start_date": "10/26/2023",
         "end_date": "11/8/2023",
         "date_origin": "event list",
@@ -7016,7 +7016,7 @@
         "num_rateups": 4
       },
       {
-        "name": "GUDAGUDA Yamataikoku 2022 Revival Summoning Campaign Saint Quartz Summon II",
+        "name": "GUDAGUDA Yamataikoku 2022 Revival Summoning Campaign 2",
         "start_date": "10/26/2023",
         "end_date": "11/8/2023",
         "date_origin": "event list",
@@ -7028,7 +7028,7 @@
         "num_rateups": 3
       },
       {
-        "name": "GUDAGUDA Yamataikoku 2022 Revival Summoning Campaign Friend Point Summon",
+        "name": "GUDAGUDA Yamataikoku 2022 Revival FP Summoning Campaign",
         "start_date": "10/26/2023",
         "end_date": "11/8/2023",
         "date_origin": "event list",
