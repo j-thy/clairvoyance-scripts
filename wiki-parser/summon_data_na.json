@@ -7026,6 +7026,16 @@
           "268": "Space Ishtar"
         },
         "num_rateups": 3
+      },
+      {
+        "name": "GUDAGUDA Yamataikoku 2022 Revival Summoning Campaign Friend Point Summon",
+        "start_date": "10/26/2023",
+        "end_date": "11/8/2023",
+        "date_origin": "event list",
+        "rateups": {
+          "294": "Oda Nobukatsu"
+        },
+        "num_rateups": 1
       }
     ]
   },

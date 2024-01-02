@@ -114,6 +114,7 @@ TABLE_MATCHES = (
     "Summoning Campaign Servant List", # Swimsuit + AoE NP Only Summoning Campaign
     "Featured Servants", # Interlude Campaign 14 and 16
     "Rate-Up", # New Year Campaign 2018
+    "Limited Servant",
     "Limited Servants", # S I N Summoning Campaign 2
     "Edmond Dantès]] {{LimitedS}}\n|{{Avenger}}\n|-\n|4{{Star}}\n|{{Gilgamesh (Caster)", # Servant Summer Festival! 2018/Event Info
 )
