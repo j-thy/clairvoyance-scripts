@@ -17,23 +17,7 @@ BAR_FORMAT = "{l_bar}{bar:50}{r_bar}{bar:-50b}"
 
 # NOTE: Halloween Trilogy missing Kiyohime in first table
 
-# Keywords that indicate the wikitable is a rateup servants wikitable.
-TABLE_MATCHES = (
-    "New Servant",
-    "Rate-Up Servants",
-    "Rate-Up Limited Servants",
-    "Rate-Up Servant",
-    "Rate Up Servant",
-    "Rate-up Servants",
-    "Rate-Up Schedule",
-    "All-Time Rate Up",
-    "Summoning Campaign Servant List", # Swimsuit + AoE NP Only Summoning Campaign
-    "Featured Servants", # Interlude Campaign 14 and 16
-    "Rate-Up", # New Year Campaign 2018
-    "Limited Servants", # S I N Summoning Campaign 2
-    "Edmond Dantès]] {{LimitedS}}\n|{{Avenger}}\n|-\n|4{{Star}}\n|{{Gilgamesh (Caster)", # Servant Summer Festival! 2018/Event Info
-)
-
+# NOTE: Used by parse()
 # Keywords that indicate link-style rateups after it.
 LINK_MATCHES = (
     "Draw rates",
@@ -61,14 +45,6 @@ LINK_MATCHES = (
     # "NeroFestival2018CampaignUS",
 )
 
-# Keywords before a section of text that should be removed before any parsing is done.
-PRIORITY_REMOVE_MATCHES = (
-    "CBC 2022=",
-    "{{Napoléon}} {{Valkyrie}} {{Thomas Edison}}", # WinFes 2018/19 Commemoration Summoning Campaign
-    "Craft Essences are now unique per party, allowing Servants in multiple parties to hold different Craft Essences", # London Chapter Release
-    r"==New \[\[Friend Point\]\] Gacha Servants==",
-)
-
 # Keywords before a section of text that should be removed before link-style parsing is done.
 REMOVE_MATCHES = (
     "receive one free",
@@ -84,21 +60,75 @@ REMOVE_MATCHES = (
     "New Servant Interlude",
 )
 
+# Pages that should not be parsed nor merged into.
+EXCLUDE_PAGES = (
+    "2017 New Year Lucky Bag Summoning Campaign",
+    "Fate/Grand Order Fes. 2017 ～2nd Anniversary～ Lucky Bag Summoning Campaign",
+    "Fate/Grand Order Fes. 2018 ～3rd Anniversary～ Lucky Bag Summoning Campaign",
+    "New Year Lucky-Bag Summoning Campaign 2019",
+    "Fate/Grand Order Fes. 2019 ～4th Anniversary～/Lucky Bag Summoning Campaign",
+    "New Year Lucky-Bag Summoning Campaign 2020",
+    "Fate/Grand Order ～5th Anniversary～ Lucky Bag Summoning Campaign",
+    "Lucky Bag 2021 Summoning Campaign New Year Special",
+    "Fate/Grand Order ～6th Anniversary～ Lucky Bag Summoning Campaign",
+    "Lucky Bag 2022 Summoning Campaign New Year Special",
+    "Fate/Grand Order ～7th Anniversary～ Lucky Bag Summoning Campaign",
+    "WinFes 2018/19 Commemoration Campaign: Kumamoto",
+    "Fate/Apocrypha Event Pre-Release Campaign (US)/Rate Up Schedule",
+    "Valentine 2020/Main Info",
+)
+
+# Wiki pages with errors that prevent parsing that should be fixed.
+PAGE_FIXES = {
+    'Class Specific Summoning Campaign (US)' : [r'\|(.*)}}\n\[\[', r'|\1}}\n|}\n[['], # Class Specific Summoning Campaign (US)
+    'FGO Summer 2018 Event Revival (US)/Summoning Campaign' : [r'{{Marie Antoinette}}', r'{{Marie Antoinette (Caster)}}'],
+    'Class Based Summoning Campaign August 2021 (US)' : [r'Knight Classes=\n(.*\n)', r'Knight Classes=\n\1! colspan=2|Rate-Up Servant List'],
+    'Class Based Summoning Campaign March 2023 (US)' : [r'</tabber>', r'|}\n</tabber>'],
+    'Holy Grail Front ~Moonsault Operation~/Event Info' : [r'{{!}}', r'|'],
+    'Servant Summer Festival! 2018 Rerun/Main Info' : [r'=\n*<center>\n*{\|\n*\|(\[\[.*)\n*\|}\n*<\/center>', r'=\n\1\n'],
+}
+
+# Keywords before a section of text that should be removed before any parsing is done.
+PRIORITY_REMOVE_MATCHES = (
+    "CBC 2022=",
+    "{{Napoléon}} {{Valkyrie}} {{Thomas Edison}}", # WinFes 2018/19 Commemoration Summoning Campaign
+    "Craft Essences are now unique per party, allowing Servants in multiple parties to hold different Craft Essences", # London Chapter Release
+    r"==New \[\[Friend Point\]\] Gacha Servants==",
+)
+
 # Pages with wikitables that can generate false positives so table-style parsing should be skipped.
 SKIP_TABLE_PARSE_PAGES = (
     "Prisma Codes Collaboration Event (US)/Summoning Campaign",
 )
 
-# Pages that should be link-style parsed regardless of keywords being present.
-PRIORITY_PAGES = (
-    "Amakusa Shirō Summoning Campaign",
-    "Babylonia Summoning Campaign 2",
-    "Salem Summoning Campaign 2",
-    "Valentine 2017 Summoning Campaign Re-Run",
-    "Anastasia Summoning Campaign 2",
-    "Nero Festival Return ~Autumn 2018~ (US)/Summoning Campaign",
-    "Prisma Codes Collaboration Event (US)/Summoning Campaign",
+# Keywords that indicate the wikitable is a rateup servants wikitable.
+TABLE_MATCHES = (
+    "New Servant",
+    "Rate-Up Servants",
+    "Rate-Up Limited Servants",
+    "Rate-Up Servant",
+    "Rate Up Servant",
+    "Rate-up Servants",
+    "Rate-Up Schedule",
+    "All-Time Rate Up",
+    "Summoning Campaign Servant List", # Swimsuit + AoE NP Only Summoning Campaign
+    "Featured Servants", # Interlude Campaign 14 and 16
+    "Rate-Up", # New Year Campaign 2018
+    "Limited Servants", # S I N Summoning Campaign 2
+    "Edmond Dantès]] {{LimitedS}}\n|{{Avenger}}\n|-\n|4{{Star}}\n|{{Gilgamesh (Caster)", # Servant Summer Festival! 2018/Event Info
 )
+
+# Servant names that are incorrect on the wiki that should be fixed.
+NAME_FIXES = {
+    'Attila' : 'Altera', # FGO Summer Festival 2016 ~1st Anniversary~
+    "EMIYA (Alter) NA" : "EMIYA (Alter)",
+    "Jaguar Warrior" : "Jaguar Man",
+}
+
+# Rateup servants that are missing from the banner on the wiki that should be fixed.
+RATEUP_FIXES = {
+    'S I N Chapter Release' : 'Jing Ke', # S I N Chapter Release
+}
 
 # Pages with multiple rateups that should be merged into one regardless of whether there are common servants.
 FORCE_MERGE = (
@@ -119,32 +149,68 @@ NO_MERGE = {
     "GUDAGUDA Ryouma's Narrow Escape 2023 (US)/Summoning Campaign" : (1,),
 }
 
-# Servant names that are incorrect on the wiki that should be fixed.
-NAME_FIXES = {
-    'Attila' : 'Altera', # FGO Summer Festival 2016 ~1st Anniversary~
-    "EMIYA (Alter) NA" : "EMIYA (Alter)",
-    "Jaguar Warrior" : "Jaguar Man",
+# Pages that should be link-style parsed regardless of keywords being present.
+PRIORITY_PAGES = (
+    "Amakusa Shirō Summoning Campaign",
+    "Babylonia Summoning Campaign 2",
+    "Salem Summoning Campaign 2",
+    "Valentine 2017 Summoning Campaign Re-Run",
+    "Anastasia Summoning Campaign 2",
+    "Nero Festival Return ~Autumn 2018~ (US)/Summoning Campaign",
+    "Prisma Codes Collaboration Event (US)/Summoning Campaign",
+)
+
+# Remove slash and everything after in the subpage title
+SUBPAGE_TITLE_REMOVE = (
+    "/Event Info",
+    "/Event_Info",
+    "/Main Info",
+    "/Main_Info",
+    "/Event Summary",
+    "/Info",
+)
+
+# Replace slash with space in the subpage title
+SUBPAGE_TITLE_REPLACE = (
+    "/Summoning",
+    "/Summon",
+    "/FP",
+    "/Merlin",
+)
+
+# Month name to number mapping
+MONTHS = {
+    "January" : 1, "Jan" : 1,
+    "February" : 2, "Feb" : 2,
+    "March" : 3, "Mar" : 3,
+    "April" : 4, "Apr" : 4,
+    "May" : 5,
+    "June" : 6, "Jun" : 6,
+    "July" : 7, "Jul" : 7,
+    "August" : 8, "Aug" : 8,
+    "September" : 9, "Sept" : 9,
+    "October" : 10, "Oct" : 10,
+    "November" : 11, "Nov" : 11,
+    "December" : 12, "Dec" : 12,
 }
 
-# Rateup servants that are missing from the banner on the wiki that should be fixed.
-RATEUP_FIXES = {
-    'S I N Chapter Release' : 'Jing Ke', # S I N Chapter Release
-}
-
-# Wiki pages with errors that prevent parsing that should be fixed.
-PAGE_FIXES = {
-    'Class Specific Summoning Campaign (US)' : [r'\|(.*)}}\n\[\[', r'|\1}}\n|}\n[['], # Class Specific Summoning Campaign (US)
-    'FGO Summer 2018 Event Revival (US)/Summoning Campaign' : [r'{{Marie Antoinette}}', r'{{Marie Antoinette (Caster)}}'],
-    'Class Based Summoning Campaign August 2021 (US)' : [r'Knight Classes=\n(.*\n)', r'Knight Classes=\n\1! colspan=2|Rate-Up Servant List'],
-    'Class Based Summoning Campaign March 2023 (US)' : [r'</tabber>', r'|}\n</tabber>'],
-    'Holy Grail Front ~Moonsault Operation~/Event Info' : [r'{{!}}', r'|'],
-    'Servant Summer Festival! 2018 Rerun/Main Info' : [r'=\n*<center>\n*{\|\n*\|(\[\[.*)\n*\|}\n*<\/center>', r'=\n\1\n'],
-}
-
+# Do not parse dates
 SKIP_DURATION_PARSE = (
     "SE.RA.PH",
 )
 
+# Only CE banners
+FAKE_BANNERS = (
+    "MELTY BLOOD: TYPE LUMINA Mashu's Game Entry Commemorative Campaign",
+    "F/GO Memories III Release Commemoration Campaign",
+    "F/GO Memories III Release Commemoration Summoning Campaign",
+    "F/GO Memories II Release Commemoration Campaign",
+    "F/GO Memories II Release Commemoration Campaign Summoning Campaign",
+    "Fate/Grand Order VR feat. Mashu Release Commemoration Campaign",
+)
+
+# NOTE: Used by rec_check_subpages()
+# Keyword indicating a subpage with a summoning campaign
 SUMMON_SUBPAGE = (
     "Summoning Campaign",
     "Summoning_Campaign",
@@ -167,40 +233,8 @@ SUMMON_SUBPAGE = (
     "Pre-Anniversary Campaign",
 )
 
-SUBPAGE_TITLE_REMOVE = (
-    "/Event Info",
-    "/Event_Info",
-    "/Main Info",
-    "/Main_Info",
-    "/Event Summary",
-    "/Info",
-)
-
-SUBPAGE_TITLE_REPLACE = (
-    "/Summoning",
-    "/Summon",
-    "/FP",
-    "/Merlin",
-)
-
-# Pages that should not be parsed nor merged into.
-EXCLUDE_PAGES = (
-    "2017 New Year Lucky Bag Summoning Campaign",
-    "Fate/Grand Order Fes. 2017 ～2nd Anniversary～ Lucky Bag Summoning Campaign",
-    "Fate/Grand Order Fes. 2018 ～3rd Anniversary～ Lucky Bag Summoning Campaign",
-    "New Year Lucky-Bag Summoning Campaign 2019",
-    "Fate/Grand Order Fes. 2019 ～4th Anniversary～/Lucky Bag Summoning Campaign",
-    "New Year Lucky-Bag Summoning Campaign 2020",
-    "Fate/Grand Order ～5th Anniversary～ Lucky Bag Summoning Campaign",
-    "Lucky Bag 2021 Summoning Campaign New Year Special",
-    "Fate/Grand Order ～6th Anniversary～ Lucky Bag Summoning Campaign",
-    "Lucky Bag 2022 Summoning Campaign New Year Special",
-    "Fate/Grand Order ～7th Anniversary～ Lucky Bag Summoning Campaign",
-    "WinFes 2018/19 Commemoration Campaign: Kumamoto",
-    "Fate/Apocrypha Event Pre-Release Campaign (US)/Rate Up Schedule",
-    "Valentine 2020/Main Info",
-)
-
+# NOTE: Used by merge_events()
+# Merge one event's banners into another event's banners
 MERGE_EVENTS_INTO = {
     "Strange Fake -Whispers of Dawn- Broadcast Commemoration Summoning Campaign" : "Strange Fake -Whispers of Dawn- Broadcast Commemoration Campaign",
     "Ordeal Call Pre-Release Campaign" : "Ordeal Call Release Campaign",
@@ -225,103 +259,8 @@ MERGE_EVENTS_INTO = {
     "London Campaign 2" : "London Chapter Release",
 }
 
-INCLUDE_SUBPAGES = {
-    "FGO 2016 Summer Event" : ["FGO 2016 Summer Event/Event Details", "FGO 2016 Summer Event/Part II Event Details"],
-    "SE.RA.PH" : ["Fate/EXTRA CCC×Fate/Grand Order"],
-    "FGO 2016 Summer Event Re-Run" : ["FGO 2016 Summer Event Re-Run/Event Info"],
-    "Dead Heat Summer Race!" : ["Dead Heat Summer Race!/Event Info"],
-    "Setsubun 2018" : ["Setsubun 2018/Main Info"],
-    "Dead Heat Summer Race! Re-run" : ["Dead Heat Summer Race! Re-run/Event Info"],
-    "FGO Summer 2018 Event (US)" : ["FGO Summer 2018 Event (US)/Summoning Campaign"],
-    "FGO Summer 2018 Event Revival (US)" : ["FGO Summer 2018 Event Revival (US)/Summoning Campaign"],
-    "Servant Summer Festival! 2018 Rerun" : ["Servant Summer Festival! 2018 Rerun/Main Info"],
-    "FGO Summer 2019 Event (US)" : ["FGO Summer 2019 Event (US)/Summoning Campaign"],
-    "Halloween 2018 Event Revival (US)" : ["Halloween 2018 Event Revival (US)/Summoning Campaign"],
-    "The Tale of Setsubun (US)" : ["The Tale of Setsubun (US)/Summoning Campaign"],
-    "FGO Summer 2019 Event Revival (US)" : ["FGO Summer 2019 Event Revival (US)/Summoning Campaign"],
-}
-
-# Test pages to parse.
-TEST_PAGES = (
-    "Fate/Apocrypha Collaboration Event Revival (US)/Summoning Campaign",
-)
-
-MONTHS = {
-    "January" : 1,
-    "Jan" : 1,
-    "February" : 2,
-    "Feb" : 2,
-    "March" : 3,
-    "Mar" : 3,
-    "April" : 4,
-    "Apr" : 4,
-    "May" : 5,
-    "June" : 6,
-    "Jun" : 6,
-    "July" : 7,
-    "Jul" : 7,
-    "August" : 8,
-    "Aug" : 8,
-    "September" : 9,
-    "Sept" : 9,
-    "October" : 10,
-    "Oct" : 10,
-    "November" : 11,
-    "Nov" : 11,
-    "December" : 12,
-    "Dec" : 12,
-}
-
-SKIP_DATES = {
-    "Event List/2016 Events": ["|August 22 ~ August 31"],
-    "Event List/2017 Events": ["|August 17 ~ September 1", "|July 20 ~ July 29"],
-    "Event List/2018 Events": ["|July 4 ~ July 13"],
-    "Event List (US)/2017 Events": ["|July 13 ~ July 20"],
-    "Event List (US)/2018 Events": ["|August 6 ~ August 14"],
-    "Event List (US)/2019 Events": ["|August 5 ~ August 20", "|July 19 ~ July 28"],
-    "Event List (US)/2020 Events": ["|July 23 ~ August 1"],
-}
-
-# TODO: Sort after correcting
-CORRECT_DATES = {
-    ("MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dantès Game Entry Commemorative Campaign", "MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dantès Game Entry Commemorative Summoning Campaign") : (None, date(2022, 12, 17)),
-    ("Christmas 2019 Re-Run", "Christmas 2019 Re-Run Summoning Campaign") : (None, date(2020, 11, 6)),
-    ("Aeaean Spring Breeze", "Chaldea Boys Collection 2020 Summoning Campaign") : (None, date(2020, 3, 20)),
-    ("19M Downloads Campaign", "19M Downloads Summoning Campaign") : (None, date(2020, 3, 11)),
-    ("Fate/stay night Heaven's Feel II Premiere Commemoration Campaign", "Fate/stay night Heaven's Feel II Premiere Commemoration Summoning Campaign") : (None, date(2019, 1, 25)),
-    ("Christmas 2017 Event Re-Run", "Christmas 2017 Event Re-Run Summoning Campaign") : (None, date(2018, 11, 28)),
-    ("Interlude Campaign 7", "Interlude Campaign 7 Summoning Campaign") : (None, date(2018, 10, 31)),
-    ("14M Downloads Campaign", "14M Downloads Summoning Campaign") : (None, date(2018, 9, 12)),
-    ("Servant Summer Festival! 2018", "Servant Summer Festival! 2018 Summoning Campaign 3") : (date(2018, 8, 16), None),
-    ("Dead Heat Summer Race! Re-run", "Dead Heat Summer Race! Re-run Daily Special Summoning Campaign") : (date(2018, 7, 6), None),
-    ("Dead Heat Summer Race! Re-run", "Dead Heat Summer Race! Re-run Summoning Campaign 2") : (date(2018, 7, 4), None),
-    ("GUDAGUDA Meiji Ishin Re-run", "GUDAGUDA Meiji Ishin Re-run Summoning Campaign") : (None, date(2018, 6, 1)),
-    ("Chaldea Boys Collection 2018", "Chaldea Boys Collection 2018 Summoning Campaign") : (None, date(2018, 3, 21)),
-    ("Kara no Kyoukai Collaboration Event Re-run", "Kara no Kyoukai Collaboration Event Re-run Summoning Campaign") : (None, date(2018, 3, 1)),
-    ("Fate/EXTRA Last Encore Anime Broadcast Commemoration Campaign", "Fate/EXTRA Last Encore Anime Broadcast Commemoration Summoning Campaign") : (None, date(2018, 2, 11)),
-    ("Da Vinci and The 7 Counterfeit Heroic Spirits Rerun Lite Ver", "Da Vinci and The 7 Counterfeit Heroic Spirits Rerun Lite Ver Summoning Campaign") : (None, date(2018, 1, 24)),
-    ("Christmas 2016 Event Re-run", "Christmas 2016 Event Re-run Summoning Campaign") : (None, date(2017, 11, 29)),
-    ("Shimosa Chapter Release", "Shimosa Chapter Release Summoning Campaign") : (None, date(2017, 11, 1)),
-    ("Fate/stay night Heaven's Feel Premiere Commemoration Campaign", "Fate/stay night Heaven's Feel Premiere Commemoration Summoning Campaign") : (None, date(2017, 10, 22)),
-    ("Dead Heat Summer Race!", "Dead Heat Summer Race! Daily Special Summoning Campaign") : (date(2017, 8, 24), None),
-    ("Dead Heat Summer Race!", "Dead Heat Summer Race! Summoning Campaign 2") : (date(2017, 8, 16), None),
-    ("FGO 2016 Summer Event Re-Run", "FGO 2016 Summer Event Re-Run Summoning Campaign 2") : (date(2017, 7, 20), None),
-    ("Rashomon Event Rerun", "Rashomon Event Rerun Summoning Campaign") : (None, date(2017, 6, 14)),
-    ("9M Downloads Campaign", "9M Downloads Summoning Campaign") : (None, date(2017, 6, 7)),
-    ("SE.RA.PH", "SE.RA.PH Summoning Campaign 2") : (date(2017, 5, 10), None),
-    ("SE.RA.PH", "Fate/EXTRA CCC×Fate/Grand Order Summoning Campaign") : (None, date(2017, 5, 3)),
-    ("Valentine 2016 Event Re-Run", "Valentine 2017 Summoning Campaign 2") : (date(2017, 2, 11), None),
-    ("Moon Goddess Event Re-Run", "Moon Goddess Event Re-Run Summoning Campaign") : (None, date(2017, 1, 30)),
-    ("Solomon Chapter Release", "Solomon Chapter Release Summoning Campaign") : (None, date(2016, 12, 31)),
-    ("Amakusa Shirō Summoning Campaign", "Amakusa Shirō Summoning Campaign") : (None, date(2016, 12, 7)),
-    ("FGO 2016 Summer Event", "FGO 2016 Summer Event Summoning Campaign 2") : (date(2016, 8, 22), None),
-    ("Camelot Chapter Release", "Camelot Chapter Release Summoning Campaign") : (None, date(2016, 7, 29)),
-    ("E Pluribus Unum Chapter Release", "E Pluribus Unum Chapter Release Summoning Campaign") : (None, date(2016, 4, 13)),
-    ("AnimeJapan 2016 Exhibition Commemoration Campaign", "AnimeJapan 2016 Exhibition Commemoration Summoning Campaign") : (date(2016, 3, 23), date(2016, 3, 30)),
-    ("New Year Campaign 2016", "New Year Campaign 2016 Summoning Campaign") : (None, date(2016, 1, 7)),
-    ("4M Downloads Campaign", "4M Downloads Summoning Campaign") : (None, date(2015, 10, 14)),
-}
-
+# NOTE: Used by fix_banner_names()
+# Change all banners' names
 BANNER_NAME_FIX = {
     r"\|-\|" : "",
     r"Summoning$" : "Summoning Campaign",
@@ -339,6 +278,7 @@ BANNER_NAME_FIX = {
     r"White Day 2022" : "Chaldea Boys Collection 2022 / White Day 2022",
 }
 
+# Change specific banner names
 BANNER_NAME_CHANGE = (
     ("Tales of Chaldean Heavy Industries", "Chaldea Boys Collection 2023 Summoning Part 2", "Chaldea Boys Collection 2023 Summoning Campaign 1"),
     ("Singularity Repair Support Campaign", "Singularity Repair Support Summoning Campaign 7", "Singularity Repair Support Summoning Campaign 6"),
@@ -378,23 +318,83 @@ BANNER_NAME_CHANGE = (
     ("Okeanos Chapter Release", "Okeanos Summoning Campaign", "Okeanos Chapter Release Summoning Campaign"),
 )
 
-FAKE_BANNERS = (
-    "MELTY BLOOD: TYPE LUMINA Mashu's Game Entry Commemorative Campaign",
-    "F/GO Memories III Release Commemoration Campaign",
-    "F/GO Memories III Release Commemoration Summoning Campaign",
-    "F/GO Memories II Release Commemoration Campaign",
-    "F/GO Memories II Release Commemoration Campaign Summoning Campaign",
-    "Fate/Grand Order VR feat. Mashu Release Commemoration Campaign",
-)
+# NOTE: Used by fix_dates()
+# Change the banner dates
+CORRECT_DATES = {
+    ("MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dantès Game Entry Commemorative Campaign", "MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dantès Game Entry Commemorative Summoning Campaign") : (None, date(2022, 12, 17)),
+    ("Christmas 2019 Re-Run", "Christmas 2019 Re-Run Summoning Campaign") : (None, date(2020, 11, 6)),
+    ("Aeaean Spring Breeze", "Chaldea Boys Collection 2020 Summoning Campaign") : (None, date(2020, 3, 20)),
+    ("19M Downloads Campaign", "19M Downloads Summoning Campaign") : (None, date(2020, 3, 11)),
+    ("Fate/stay night Heaven's Feel II Premiere Commemoration Campaign", "Fate/stay night Heaven's Feel II Premiere Commemoration Summoning Campaign") : (None, date(2019, 1, 25)),
+    ("Christmas 2017 Event Re-Run", "Christmas 2017 Event Re-Run Summoning Campaign") : (None, date(2018, 11, 28)),
+    ("Interlude Campaign 7", "Interlude Campaign 7 Summoning Campaign") : (None, date(2018, 10, 31)),
+    ("14M Downloads Campaign", "14M Downloads Summoning Campaign") : (None, date(2018, 9, 12)),
+    ("Servant Summer Festival! 2018", "Servant Summer Festival! 2018 Summoning Campaign 3") : (date(2018, 8, 16), None),
+    ("Dead Heat Summer Race! Re-run", "Dead Heat Summer Race! Re-run Daily Special Summoning Campaign") : (date(2018, 7, 6), None),
+    ("Dead Heat Summer Race! Re-run", "Dead Heat Summer Race! Re-run Summoning Campaign 2") : (date(2018, 7, 4), None),
+    ("GUDAGUDA Meiji Ishin Re-run", "GUDAGUDA Meiji Ishin Re-run Summoning Campaign") : (None, date(2018, 6, 1)),
+    ("Chaldea Boys Collection 2018", "Chaldea Boys Collection 2018 Summoning Campaign") : (None, date(2018, 3, 21)),
+    ("Kara no Kyoukai Collaboration Event Re-run", "Kara no Kyoukai Collaboration Event Re-run Summoning Campaign") : (None, date(2018, 3, 1)),
+    ("Fate/EXTRA Last Encore Anime Broadcast Commemoration Campaign", "Fate/EXTRA Last Encore Anime Broadcast Commemoration Summoning Campaign") : (None, date(2018, 2, 11)),
+    ("Da Vinci and The 7 Counterfeit Heroic Spirits Rerun Lite Ver", "Da Vinci and The 7 Counterfeit Heroic Spirits Rerun Lite Ver Summoning Campaign") : (None, date(2018, 1, 24)),
+    ("Christmas 2016 Event Re-run", "Christmas 2016 Event Re-run Summoning Campaign") : (None, date(2017, 11, 29)),
+    ("Shimosa Chapter Release", "Shimosa Chapter Release Summoning Campaign") : (None, date(2017, 11, 1)),
+    ("Fate/stay night Heaven's Feel Premiere Commemoration Campaign", "Fate/stay night Heaven's Feel Premiere Commemoration Summoning Campaign") : (None, date(2017, 10, 22)),
+    ("Dead Heat Summer Race!", "Dead Heat Summer Race! Daily Special Summoning Campaign") : (date(2017, 8, 24), None),
+    ("Dead Heat Summer Race!", "Dead Heat Summer Race! Summoning Campaign 2") : (date(2017, 8, 16), None),
+    ("FGO 2016 Summer Event Re-Run", "FGO 2016 Summer Event Re-Run Summoning Campaign 2") : (date(2017, 7, 20), None),
+    ("Rashomon Event Rerun", "Rashomon Event Rerun Summoning Campaign") : (None, date(2017, 6, 14)),
+    ("9M Downloads Campaign", "9M Downloads Summoning Campaign") : (None, date(2017, 6, 7)),
+    ("SE.RA.PH", "SE.RA.PH Summoning Campaign 2") : (date(2017, 5, 10), None),
+    ("SE.RA.PH", "Fate/EXTRA CCC×Fate/Grand Order Summoning Campaign") : (None, date(2017, 5, 3)),
+    ("Valentine 2016 Event Re-Run", "Valentine 2017 Summoning Campaign 2") : (date(2017, 2, 11), None),
+    ("Moon Goddess Event Re-Run", "Moon Goddess Event Re-Run Summoning Campaign") : (None, date(2017, 1, 30)),
+    ("Solomon Chapter Release", "Solomon Chapter Release Summoning Campaign") : (None, date(2016, 12, 31)),
+    ("Amakusa Shirō Summoning Campaign", "Amakusa Shirō Summoning Campaign") : (None, date(2016, 12, 7)),
+    ("FGO 2016 Summer Event", "FGO 2016 Summer Event Summoning Campaign 2") : (date(2016, 8, 22), None),
+    ("Camelot Chapter Release", "Camelot Chapter Release Summoning Campaign") : (None, date(2016, 7, 29)),
+    ("E Pluribus Unum Chapter Release", "E Pluribus Unum Chapter Release Summoning Campaign") : (None, date(2016, 4, 13)),
+    ("AnimeJapan 2016 Exhibition Commemoration Campaign", "AnimeJapan 2016 Exhibition Commemoration Summoning Campaign") : (date(2016, 3, 23), date(2016, 3, 30)),
+    ("New Year Campaign 2016", "New Year Campaign 2016 Summoning Campaign") : (None, date(2016, 1, 7)),
+    ("4M Downloads Campaign", "4M Downloads Summoning Campaign") : (None, date(2015, 10, 14)),
+}
 
+# NOTE: Used by parse_event_lists()
+# Skip parsing certain dates in event list
+SKIP_DATES = {
+    "Event List/2016 Events": ["|August 22 ~ August 31"],
+    "Event List/2017 Events": ["|August 17 ~ September 1", "|July 20 ~ July 29"],
+    "Event List/2018 Events": ["|July 4 ~ July 13"],
+    "Event List (US)/2017 Events": ["|July 13 ~ July 20"],
+    "Event List (US)/2018 Events": ["|August 6 ~ August 14"],
+    "Event List (US)/2019 Events": ["|August 5 ~ August 20", "|July 19 ~ July 28"],
+    "Event List (US)/2020 Events": ["|July 23 ~ August 1"],
+}
+
+# Include certain subpages in an event
+INCLUDE_SUBPAGES = {
+    "FGO 2016 Summer Event" : ["FGO 2016 Summer Event/Event Details", "FGO 2016 Summer Event/Part II Event Details"],
+    "SE.RA.PH" : ["Fate/EXTRA CCC×Fate/Grand Order"],
+    "FGO 2016 Summer Event Re-Run" : ["FGO 2016 Summer Event Re-Run/Event Info"],
+    "Dead Heat Summer Race!" : ["Dead Heat Summer Race!/Event Info"],
+    "Setsubun 2018" : ["Setsubun 2018/Main Info"],
+    "Dead Heat Summer Race! Re-run" : ["Dead Heat Summer Race! Re-run/Event Info"],
+    "FGO Summer 2018 Event (US)" : ["FGO Summer 2018 Event (US)/Summoning Campaign"],
+    "FGO Summer 2018 Event Revival (US)" : ["FGO Summer 2018 Event Revival (US)/Summoning Campaign"],
+    "Servant Summer Festival! 2018 Rerun" : ["Servant Summer Festival! 2018 Rerun/Main Info"],
+    "FGO Summer 2019 Event (US)" : ["FGO Summer 2019 Event (US)/Summoning Campaign"],
+    "Halloween 2018 Event Revival (US)" : ["Halloween 2018 Event Revival (US)/Summoning Campaign"],
+    "The Tale of Setsubun (US)" : ["The Tale of Setsubun (US)/Summoning Campaign"],
+    "FGO Summer 2019 Event Revival (US)" : ["FGO Summer 2019 Event Revival (US)/Summoning Campaign"],
+}
+
+# Keep certain events so it can have banners merged into it
 ADD_EMPTY_ENTRY = (
     "Slapstick Museum",
     "The Antiquated Spider Nostalgically Spins Its Thread",
 )
 
-# List of Event Pages. TODO: Can probably replace later with just parsing event list page.
-# If it is 0, parse wikinlinks
-# If it is 1, parse templates
+# List of JP event pages
 EVENT_LIST_JP = (
     "Event List/2015 Events",
     "Event List/2016 Events",
@@ -407,6 +407,7 @@ EVENT_LIST_JP = (
     "Event List/2023 Events",
 )
 
+# List of NA event pages
 EVENT_LIST_NA = (
     "Event List (US)/2017 Events",
     "Event List (US)/2018 Events",
@@ -571,7 +572,7 @@ def parse(event_set, page, duration, parent=None):
 
         num_parsed = 0
         # Find any tags containing the rateup servants wikitable
-        for tag in tags:
+        for i, tag in enumerate(tags):
             # For the tag to contain a valid rateup servants wikitable:
             # 1. The tag must have a "class" field.
             try:
@@ -713,7 +714,7 @@ def parse(event_set, page, duration, parent=None):
 
     # Parse dates from pages with new-style event headers
     templates = wikicode.filter_templates()
-    if len(templates) > 0 and templates[0].name.strip() == "EventHeaderJP":
+    if len(templates) > 0 and (templates[0].name.strip() == "EventHeaderJP" or templates[0].name.strip() == "EventHeaderNA"):
         # Get the raw start date
         start_date_str = templates[0].get("start").value.strip()
 
@@ -728,7 +729,7 @@ def parse(event_set, page, duration, parent=None):
 
         # Parse the start and end date into date objects
         duration = date_parser(start_date_str, end_date_str, CURRENT_YEAR)
-        date_origin = "event header jp new"
+        date_origin = "event header jp new" if templates[0].name.strip() == "EventHeaderJP" else "event header na new"
     # Parse dates from pages with old-style event headers
     else:
         # Get the lines from the page
