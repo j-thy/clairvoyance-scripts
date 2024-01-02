@@ -395,7 +395,7 @@ ADD_EMPTY_ENTRY = (
 # List of Event Pages. TODO: Can probably replace later with just parsing event list page.
 # If it is 0, parse wikinlinks
 # If it is 1, parse templates
-EVENT_LISTS = (
+EVENT_LIST_JP = (
     "Event List/2015 Events",
     "Event List/2016 Events",
     "Event List/2017 Events",
@@ -405,13 +405,16 @@ EVENT_LISTS = (
     "Event List/2021 Events",
     "Event List/2022 Events",
     "Event List/2023 Events",
-    # "Event List (US)/2017 Events",
-    # "Event List (US)/2018 Events",
-    # "Event List (US)/2019 Events",
-    # "Event List (US)/2020 Events",
-    # "Event List (US)/2021 Events",
-    # "Event List (US)/2022 Events",
-    # "Event List (US)/2023 Events",
+)
+
+EVENT_LIST_NA = (
+    "Event List (US)/2017 Events",
+    "Event List (US)/2018 Events",
+    "Event List (US)/2019 Events",
+    "Event List (US)/2020 Events",
+    "Event List (US)/2021 Events",
+    "Event List (US)/2022 Events",
+    "Event List (US)/2023 Events",
 )
 
 class Event:
@@ -939,15 +942,15 @@ def parse_test():
     print(page)
 
 # Parse events
-def parse_event_lists():
+def parse_event_lists(event_lists, region):
     global CURRENT_YEAR
     global CURRENT_REGION
 
     # Parse event lists
-    for event_list in EVENT_LISTS:
+    for event_list in event_lists:
         # Get the current year and region of the event list
         CURRENT_YEAR = int(event_list.split('/')[1][:4])
-        CURRENT_REGION = "NA" if "US" in event_list else "JP"
+        CURRENT_REGION = region
 
         # Choose which event set to put the events into
         event_set = EVENT_SET_NA if CURRENT_REGION == "NA" else EVENT_SET_JP
@@ -1150,104 +1153,75 @@ def fix_dates(event_set):
         except KeyError:
             pass
 
+def parse_and_create(event_list, event_set, region):
+    print("Parsing all events...")
+    parse_event_lists(event_list, region)
+
+    # Merge events that are marked to be merged and delete the old events.
+    print("Merging events...")
+    merge_events(event_set)
+
+    # Sort the banners by date.
+    print("Sorting banners by date...")
+    sort_banners(event_set)
+
+    # Remove banners with no rateups.
+    print("Cleaning up empty events...")
+    remove_empty(event_set)
+
+    # Fix any banners with missing numbers.
+    print("Fixing banner names...")
+    fix_banner_names(event_set)
+
+    # Fix dates for events that are marked to be fixed.
+    print("Fixing dates...")
+    fix_dates(event_set)
+
+    # Create the JSON representation
+    print("Creating JSON data...")
+    event_list = []
+    for event in event_set:
+        banners = []
+        for banner in event.banners:
+            banners.append({
+                'name': banner.name,
+                'start_date': banner.start_date.strftime("%-m/%-d/%Y"),
+                'end_date': banner.end_date.strftime("%-m/%-d/%Y"),
+                'date_origin': banner.date_origin,
+                'rateups': banner.rateups,
+                'num_rateups': len(banner.rateups),
+            })
+        event_list.append({
+            'name': event.name,
+            'region': event.region,
+            'banners': banners,
+        })
+
+    # Save the banner list to a JSON file.
+    print("Saving to JSON file...")
+    # Filenames for the old and new JSON files.
+    FILE_OLD = "summon_data_old.json" if region == "JP" else "summon_data_old_na.json"
+    FILE_NEW = "summon_data.json" if region == "JP" else "summon_data_na.json"
+
+    # Save the old version of the JSON file for diff comparison.
+    shutil.copy(os.path.join(DIR_PATH, FILE_NEW), os.path.join(DIR_PATH, FILE_OLD))
+
+    # Create the new version of the JSON file from the banner list.
+    json_obj = jsons.dump(event_list)
+    with open(os.path.join(DIR_PATH, FILE_NEW), 'w') as f:
+        f.write(json.dumps(json_obj, indent=2, sort_keys=False))
+
+    # Write the diff between the old and new banner list JSON to a file.
+    with open(os.path.join(DIR_PATH, FILE_NEW), 'r') as f1:
+        with open(os.path.join(DIR_PATH, FILE_OLD), 'r') as f2:
+            diff = difflib.unified_diff(f2.readlines(), f1.readlines())
+            with open(os.path.join(DIR_PATH, 'diff.txt' if region == "JP" else 'diff_na.txt'), 'w') as f3:
+                f3.writelines(diff)
+
 # If TESTING is 1, parse the test pages. Otherwise, parse the Summoning Campaign category.
 if TESTING == 1:
     parse_test()
     sys.exit(0)
 
-print("Parsing all events...")
-parse_event_lists()
-
-# Merge events that are marked to be merged and delete the old events.
-print("Merging events...")
-merge_events(EVENT_SET_JP)
-merge_events(EVENT_SET_NA)
-
-# Sort the banners by date.
-print("Sorting banners by date...")
-sort_banners(EVENT_SET_JP)
-sort_banners(EVENT_SET_NA)
-
-# Remove banners with no rateups.
-print("Cleaning up empty events...")
-remove_empty(EVENT_SET_JP)
-remove_empty(EVENT_SET_NA)
-
-# Fix any banners with missing numbers.
-print("Fixing banner names...")
-fix_banner_names(EVENT_SET_JP)
-fix_banner_names(EVENT_SET_NA)
-
-# Fix dates for events that are marked to be fixed.
-print("Fixing dates...")
-fix_dates(EVENT_SET_JP)
-fix_dates(EVENT_SET_NA)
-
-# Create the JSON representation
-print("Creating JSON data...")
-event_list_jp = []
-for event in EVENT_SET_JP:
-    banners = []
-    for banner in event.banners:
-        banners.append({
-            'name': banner.name,
-            'start_date': banner.start_date.strftime("%-m/%-d/%Y"),
-            'end_date': banner.end_date.strftime("%-m/%-d/%Y"),
-            'date_origin': banner.date_origin,
-            'rateups': banner.rateups,
-            'num_rateups': len(banner.rateups),
-        })
-    event_list_jp.append({
-        'name': event.name,
-        'region': event.region,
-        'banners': banners,
-    })
-event_list_na = []
-for event in EVENT_SET_NA:
-    banners = []
-    for banner in banners:
-        banners.append({
-            'name': banner.name,
-            'start_date': banner.start_date.strftime("%-m/%-d/%Y"),
-            'end_date': banner.end_date.strftime("%-m/%-d/%Y"),
-            'date_origin': banner.date_origin,
-            'rateups': banner.rateups,
-            'num_rateups': len(banner.rateups),
-        })
-    event_list_na.append({
-        'name': event.name,
-        'region': event.region,
-        'banners': banners,
-    })
-
-# Save the banner list to a JSON file.
-print("Saving to JSON file...")
-# Filenames for the old and new JSON files.
-FILE_OLD_JP = "summon_data_test_old.json" if TESTING == 1 else "summon_data_old.json"
-FILE_NEW_JP = "summon_data_test.json" if TESTING == 1 else "summon_data.json"
-FILE_OLD_NA = "summon_data_na_test_old.json" if TESTING == 1 else "summon_data_na_old_na.json"
-FILE_NEW_NA = "summon_data_na_test.json" if TESTING == 1 else "summon_data_na.json"
-
-# Save the old version of the JSON file for diff comparison.
-shutil.copy(os.path.join(DIR_PATH, FILE_NEW_JP), os.path.join(DIR_PATH, FILE_OLD_JP))
-shutil.copy(os.path.join(DIR_PATH, FILE_NEW_NA), os.path.join(DIR_PATH, FILE_OLD_NA))
-
-# Create the new version of the JSON file from the banner list.
-json_obj = jsons.dump(event_list_jp)
-with open(os.path.join(DIR_PATH, FILE_NEW_JP), 'w') as f:
-    f.write(json.dumps(json_obj, indent=2, sort_keys=False))
-json_obj = jsons.dump(event_list_na)
-with open(os.path.join(DIR_PATH, FILE_NEW_NA), 'w') as f:
-    f.write(json.dumps(json_obj, indent=2, sort_keys=False))
-
-# Write the diff between the old and new banner list JSON to a file.
-with open(os.path.join(DIR_PATH, FILE_NEW_JP), 'r') as f1:
-    with open(os.path.join(DIR_PATH, FILE_OLD_JP), 'r') as f2:
-        diff = difflib.unified_diff(f2.readlines(), f1.readlines())
-        with open(os.path.join(DIR_PATH, 'diff_jp.txt'), 'w') as f3:
-            f3.writelines(diff)
-with open(os.path.join(DIR_PATH, FILE_NEW_NA), 'r') as f1:
-    with open(os.path.join(DIR_PATH, FILE_OLD_NA), 'r') as f2:
-        diff = difflib.unified_diff(f2.readlines(), f1.readlines())
-        with open(os.path.join(DIR_PATH, 'diff_na.txt'), 'w') as f3:
-            f3.writelines(diff)
+parse_and_create(EVENT_LIST_JP, EVENT_SET_JP, "JP")
+parse_and_create(EVENT_LIST_NA, EVENT_SET_NA, "NA")
