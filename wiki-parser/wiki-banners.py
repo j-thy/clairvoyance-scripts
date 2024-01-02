@@ -285,30 +285,55 @@ SKIP_DATES = {
 # TODO: Sort after correcting
 CORRECT_DATES = {
     # MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dantès Game Entry Commemorative Campaign -> End: 12/17/22
+    ("MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dantès Game Entry Commemorative Campaign", "MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dantès Game Entry Commemorative Summoning Campaign") : (None, date(2022, 12, 17)),
     # Christmas 2019 Re-Run -> End: 11/6/20
+    ("Christmas 2019 Re-Run", "Christmas 2019 Re-Run Summoning Campaign") : (None, date(2020, 11, 6)),
     # Chaldea Boys Collection 2020 Summoning Campaign -> End: 3/20/20
+    ("Aeaean Spring Breeze", "Chaldea Boys Collection 2020 Summoning Campaign") : (None, date(2020, 3, 20)),
     # 19M Downloads Campaign -> End: 3/11/2020
+    ("19M Downloads Campaign", "19M Downloads Summoning Campaign") : (None, date(2020, 3, 11)),
     # Fate/stay night Heaven's Feel II Premiere Commemoration Summoning Campaign -> End: 1/25/19
+    ("Fate/stay night Heaven's Feel II Premiere Commemoration Campaign", "Fate/stay night Heaven's Feel II Premiere Commemoration Summoning Campaign") : (None, date(2019, 1, 25)),
     # Christmas 2017 Event Re-Run -> End: 11/28/18
+    ("Christmas 2017 Event Re-Run", "Christmas 2017 Event Re-Run Summoning Campaign") : (None, date(2018, 11, 28)),
     # Interlude Campaign 7 -> End: 10/31/18
+    ("Interlude Campaign 7", "Interlude Campaign 7 Summoning Campaign") : (None, date(2018, 10, 31)),
     # 14M Downloads Campaign -> End: 9/12/18
+    ("14M Downloads Campaign", "14M Downloads Summoning Campaign") : (None, date(2018, 9, 12)),
     # Servant Summer Festival! 2018 Summoning Campaign 3 -> Start: 8/16/18
+    ("Servant Summer Festival! 2018", "Servant Summer Festival! 2018 Summoning Campaign 3") : (date(2018, 8, 16), None),
     # Dead Heat Summer Race! Re-run Daily Special Summoning Campaign -> Start: 7/6/18
+    ("Dead Heat Summer Race! Re-run", "Dead Heat Summer Race! Re-run Daily Special Summoning Campaign") : (date(2018, 7, 6), None),
     # Dead Heat Summer Race! Re-run Summoning Campaign 2 -> Start: 7/4/18
+    ("Dead Heat Summer Race! Re-run", "Dead Heat Summer Race! Re-run Summoning Campaign 2") : (date(2018, 7, 4), None),
     # GUDAGUDA Meiji Ishin Re-run -> End: 6/1/18
+    ("GUDAGUDA Meiji Ishin Re-run", "GUDAGUDA Meiji Ishin Re-run Summoning Campaign") : (None, date(2018, 6, 1)),
     # Chaldea Boys Collection 2018 -> End: 3/21/18
+    ("Chaldea Boys Collection 2018", "Chaldea Boys Collection 2018 Summoning Campaign") : (None, date(2018, 3, 21)),
     # Kara no Kyoukai Collaboration Event Re-run -> End: 3/1/18
+    ("Kara no Kyoukai Collaboration Event Re-run", "Kara no Kyoukai Collaboration Event Re-run Summoning Campaign") : (None, date(2018, 3, 1)),
     # Fate/EXTRA Last Encore Anime Broadcast Commemoration Campaign -> End: 2/11/18
+    ("Fate/EXTRA Last Encore Anime Broadcast Commemoration Campaign", "Fate/EXTRA Last Encore Anime Broadcast Commemoration Summoning Campaign") : (None, date(2018, 2, 11)),
     # Da Vinci and The 7 Counterfeit Heroic Spirits Rerun Lite Ver -> End: 1/24/18
+    ("Da Vinci and The 7 Counterfeit Heroic Spirits Rerun Lite Ver", "Da Vinci and The 7 Counterfeit Heroic Spirits Rerun Lite Ver Summoning Campaign") : (None, date(2018, 1, 24)),
     # Christmas 2016 Event Re-run -> End: 11/29/17
+    ("Christmas 2016 Event Re-run", "Christmas 2016 Event Re-run Summoning Campaign") : (None, date(2017, 11, 29)),
     # Shimosa Chapter Release -> End: 11/1/17
+    ("Shimosa Chapter Release", "Shimosa Chapter Release Summoning Campaign") : (None, date(2017, 11, 1)),
     # Fate/stay night Heaven's Feel Premiere Commemoration Campaign -> End: 10/22/17
+    ("Fate/stay night Heaven's Feel Premiere Commemoration Campaign", "Fate/stay night Heaven's Feel Premiere Commemoration Summoning Campaign") : (None, date(2017, 10, 22)),
     # Dead Heat Summer Race! Daily Special Summoning Campaign -> Start: 8/24/17
+    ("Dead Heat Summer Race!", "Dead Heat Summer Race! Daily Special Summoning Campaign") : (date(2017, 8, 24), None),
     # Dead Heat Summer Race! Summoning Campaign 2 -> Start: 8/16/17
+    ("Dead Heat Summer Race!", "Dead Heat Summer Race! Summoning Campaign 2") : (date(2017, 8, 16), None),
     # FGO 2016 Summer Event Re-Run Summoning Campaign 2 -> Start: 7/20/17
+    ("FGO 2016 Summer Event Re-Run", "FGO 2016 Summer Event Re-Run Summoning Campaign 2") : (date(2017, 7, 20), None),
     # Rashomon Event Rerun -> End: 6/14/17
+    ("Rashomon Event Rerun", "Rashomon Event Rerun Summoning Campaign") : (None, date(2017, 6, 14)),
     # 9M Downloads Campaign -> End: 6/7/17
+    ("9M Downloads Campaign", "9M Downloads Summoning Campaign") : (None, date(2017, 6, 7)),
     # SE.RA.PH Summoning Campaign 2 -> Start: 5/10/17
+    ("SE.RA.PH", "SE.RA.PH Summoning Campaign 2") : (date(2017, 5, 10), None),
     # Fate/EXTRA CCC×Fate/Grand Order -> End: 5/3/17
     # Valentine 2017 Summoning Campaign 2 -> Start: 2/11/17
     # Moon Goddess Event Re-Run -> End: 1/30/17
@@ -353,6 +378,7 @@ BANNER_NAME_CHANGE = (
     ("Interlude Campaign 3", "Interlude Campaign 3", "Interlude Campaign 3 Summoning Campaign"),
     ("Shimosa Chapter Release", "Shimosa Chapter Release", "Shimosa Chapter Release Summoning Campaign"),
     ("Agartha Chapter Release", "Agartha Chapter Release", "Agartha Chapter Release Summoning Campaign"),
+    ("SE.RA.PH", "Fate/EXTRA CCC×Fate/Grand Order", "Fate/EXTRA CCC×Fate/Grand Order Summoning Campaign"),
     ("Chaldea Boys Collection 2017", "Chaldea Boys Collection 2017", "Chaldea Boys Collection 2017 Summoning Campaign"),
     ("Valentine 2016 Event Re-Run", "Valentine 2017 Summoning Campaign", "Valentine 2017 Summoning Campaign 1"),
     ("Valentine 2016 Event Re-Run", "Valentine 2017 Summoning Campaign", "Valentine 2017 Summoning Campaign 2"),
