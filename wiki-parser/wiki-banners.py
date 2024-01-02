@@ -314,7 +314,7 @@ CORRECT_DATES = {
     # Solomon Chapter Release -> End: 12/31/16
     # Amakusa Shirō Summoning Campaign -> End: 12/7/2016
     # FGO 2016 Summer Event Summoning Campaign 2 -> Start: 8/22/16
-    # Camelot Chapter Release
+    # Camelot Chapter Release Summoning Campaign -> End: 7/29/2016
     # Fate/Accel Zero Order Event
     # Da Vinci and The 7 Counterfeit Heroic Spirits
     # E Pluribus Unum Chapter Release
@@ -362,6 +362,8 @@ BANNER_NAME_CHANGE = (
     ("Babylonia Chapter Release", "Babylonia Chapter Release", "Babylonia Chapter Release Summoning Campaign"),
     ("FGO 2016 Summer Event", "FGO 2016 Summer Event/Event Details Summer Event 2016 Summoning Campaign", "FGO 2016 Summer Event Summoning Campaign 1"),
     ("FGO 2016 Summer Event", "FGO 2016 Summer Event/Part II Event Details Summer Event 2016 Summoning Campaign Part II", "FGO 2016 Summer Event Summoning Campaign 2"),
+    ("FGO Summer Festival 2016 ~1st Anniversary~", "FGO Summer Festival 2016 ~1st Anniversary~", "FGO Summer Festival 2016 ~1st Anniversary~ Order-Based Summoning Campaign"),
+    ("Camelot Chapter Release", "Camelot Chapter Release", "Camelot Chapter Release Summoning Campaign"),
 )
 
 FAKE_BANNERS = (
