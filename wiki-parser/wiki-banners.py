@@ -335,16 +335,27 @@ CORRECT_DATES = {
     # SE.RA.PH Summoning Campaign 2 -> Start: 5/10/17
     ("SE.RA.PH", "SE.RA.PH Summoning Campaign 2") : (date(2017, 5, 10), None),
     # Fate/EXTRA CCC×Fate/Grand Order -> End: 5/3/17
+    ("SE.RA.PH", "Fate/EXTRA CCC×Fate/Grand Order Summoning Campaign") : (None, date(2017, 5, 3)),
     # Valentine 2017 Summoning Campaign 2 -> Start: 2/11/17
+    ("Valentine 2016 Event Re-Run", "Valentine 2017 Summoning Campaign 2") : (date(2017, 2, 11), None),
     # Moon Goddess Event Re-Run -> End: 1/30/17
+    ("Moon Goddess Event Re-Run", "Moon Goddess Event Re-Run Summoning Campaign") : (None, date(2017, 1, 30)),
     # Solomon Chapter Release -> End: 12/31/16
+    ("Solomon Chapter Release", "Solomon Chapter Release Summoning Campaign") : (None, date(2016, 12, 31)),
     # Amakusa Shirō Summoning Campaign -> End: 12/7/16
+    ("Amakusa Shirō Summoning Campaign", "Amakusa Shirō Summoning Campaign") : (None, date(2016, 12, 7)),
     # FGO 2016 Summer Event Summoning Campaign 2 -> Start: 8/22/16
+    ("FGO 2016 Summer Event", "FGO 2016 Summer Event Summoning Campaign 2") : (date(2016, 8, 22), None),
     # Camelot Chapter Release Summoning Campaign -> End: 7/29/16
+    ("Camelot Chapter Release", "Camelot Chapter Release Summoning Campaign") : (None, date(2016, 7, 29)),
     # E Pluribus Unum Chapter Release Summoning Campaign -> End: 4/13/16
+    ("E Pluribus Unum Chapter Release", "E Pluribus Unum Chapter Release Summoning Campaign") : (None, date(2016, 4, 13)),
     # AnimeJapan 2016 Exhibition Commemoration Campaign -> Start: 3/23/16, End: 3/30/16
-    # New Year Campaign 2016 -> End: 1/13/2016
+    ("AnimeJapan 2016 Exhibition Commemoration Campaign", "AnimeJapan 2016 Exhibition Commemoration Summoning Campaign") : (date(2016, 3, 23), date(2016, 3, 30)),
+    # New Year Campaign 2016 -> End: 1/7/2016
+    ("New Year Campaign 2016", "New Year Campaign 2016 Summoning Campaign") : (None, date(2016, 1, 7)),
     # 4M Downloads Campaign -> End: 10/14/2015
+    ("4M Downloads Campaign", "4M Downloads Summoning Campaign") : (None, date(2015, 10, 14)),
 }
 
 BANNER_NAME_FIX = {
@@ -1158,6 +1169,23 @@ def merge_events(event_set):
         except KeyError:
             pass
 
+def fix_dates(event_set):
+    # Fix dates for events that are marked to be fixed.
+    for event_banner, dates in CORRECT_DATES.items():
+        try:
+            target_event, target_banner = event_banner
+            start_date, end_date = dates
+            for i, banner in enumerate(event_set[target_event].banners):
+                if banner.name == target_banner:
+                    if start_date:
+                        event_set[target_event].banners[i].start_date = start_date
+                    if end_date:
+                        event_set[target_event].banners[i].end_date = end_date
+                    event_set[target_event].banners = sorted(event_set[target_event].banners, key=lambda banner: banner.start_date)
+                    break
+        except KeyError:
+            pass
+
 # If TESTING is 1, parse the test pages. Otherwise, parse the Summoning Campaign category.
 if TESTING == 1:
     parse_test()
@@ -1185,6 +1213,11 @@ remove_empty(EVENT_SET_NA)
 print("Fixing banner names...")
 fix_banner_names(EVENT_SET_JP)
 fix_banner_names(EVENT_SET_NA)
+
+# Fix dates for events that are marked to be fixed.
+print("Fixing dates...")
+fix_dates(EVENT_SET_JP)
+fix_dates(EVENT_SET_NA)
 
 # Create the JSON representation
 print("Creating JSON data...")
