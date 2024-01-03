@@ -16,6 +16,7 @@ from iteration_utilities import unique_everseen
 BAR_FORMAT = "{l_bar}{bar:50}{r_bar}{bar:-50b}"
 
 # NOTE: Halloween Trilogy missing Kiyohime in first table
+# NOTE: FGO 2nd Anni JP missing lots of servants
 
 # NOTE: Used by parse()
 # Keywords that indicate link-style rateups after it.
@@ -351,6 +352,7 @@ BANNER_NAME_CHANGE = (
     ("Fate/Grand Order Absolute Demonic Front: Babylonia Blu-ray Release Campaign Part II", "Fate/Grand Order Absolute Demonic Front: Babylonia Blu-ray Release Campaign Part II", "Fate/Grand Order Absolute Demonic Front: Babylonia Blu-ray Release Campaign Part II Summoning Campaign"),
     ("Valentine 2018 Event Revival", "Valentine 2018 Event Revival Summoning Campaign", "Valentine 2018 Event Revival Summoning Campaign (Female)"),
     ("Valentine 2018 Event Revival", "Valentine 2018 Event Revival Summoning Campaign", "Valentine 2018 Event Revival Summoning Campaign (Male)"),
+    ("New Interludes and Knights of the Round Table Summon Campaign", "New Interludes and Knights of the Round Table Summoning Campaign Knights of the Round Table Summoning Campaign", "New Interludes and Knights of the Round Table Summoning Campaign"),
 )
 
 # NOTE: Used by fix_dates()
