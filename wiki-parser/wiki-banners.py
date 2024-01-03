@@ -143,6 +143,7 @@ FORCE_MERGE = (
     "Class Based Summoning Campaign March 2023 (US)",
     "Class Based Summoning Campaign August 2021 (US)",
     "Singularity Summon Campaign September 2018 (US)",
+    "Singularity Summon Campaign (US)",
 )
 
 # Specify specific rateups in summoning campaigns that should not be merged into any other rateups.
@@ -355,6 +356,7 @@ BANNER_NAME_CHANGE = (
     ("Valentine 2018 Event Revival", "Valentine 2018 Event Revival Summoning Campaign", "Valentine 2018 Event Revival Summoning Campaign (Male)"),
     ("New Interludes and Knights of the Round Table Summon Campaign", "New Interludes and Knights of the Round Table Summoning Campaign Knights of the Round Table Summoning Campaign", "New Interludes and Knights of the Round Table Summoning Campaign"),
     ("FGO Festival 2018 ~1st Anniversary~", "FGO Festival 2018 ~1st Anniversary~", "FGO Festival 2018 ~1st Anniversary~ Summoning Campaign"),
+    ("Chaldea Boys Collection 2018", "Chaldea Boys Collection 2018", "Chaldea Boys Collection 2018 Summoning Campaign"),
 )
 
 # NOTE: Used by fix_dates()
@@ -511,6 +513,8 @@ CORRECT_DATES_NA = {
     # Christmas 2018 Event Summoning Campaign 2 - Start: 12/2/2018, End: 12/12/2018
     # FGO Summer 2018 Event Summoning Campaign 2 - Start: 8/6/2018, End: 8/22/2018
     # FGO Festival 2018 ~1st Anniversary~ Summoning Campaign - End: 7/17/2018
+    # Camelot Chapter Release Summoning Campaign - End: 7/6/2018
+    # E Pluribus Unum Chapter Release Summoning Campaign - End: 3/29/2018
 }
 
 # NOTE: Used by parse_event_lists()

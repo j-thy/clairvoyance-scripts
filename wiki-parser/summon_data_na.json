@@ -572,7 +572,7 @@
     "region": "NA",
     "banners": [
       {
-        "name": "Chaldea Boys Collection 2018",
+        "name": "Chaldea Boys Collection 2018 Summoning Campaign",
         "start_date": "2/22/2018",
         "end_date": "3/1/2018",
         "date_origin": "event header jp old",
@@ -616,70 +616,34 @@
         "rateups": {
           "2": "Artoria Pendragon",
           "3": "Artoria Pendragon (Alter)",
-          "11": "EMIYA",
-          "17": "C\u00fa Chulainn",
-          "23": "Medusa",
-          "31": "Medea",
-          "38": "C\u00fa Chulainn (Caster)",
-          "47": "Heracles"
-        },
-        "num_rateups": 8
-      },
-      {
-        "name": "Singularity Summoning Campaign",
-        "start_date": "3/8/2018",
-        "end_date": "3/15/2018",
-        "date_origin": "event header jp old",
-        "rateups": {
-          "6": "Siegfried",
-          "9": "Gilles de Rais (Saber)",
-          "10": "Chevalier d'Eon",
-          "32": "Gilles de Rais",
-          "46": "Carmilla",
-          "52": "Vlad III",
-          "56": "Kiyohime",
-          "59": "Jeanne d'Arc"
-        },
-        "num_rateups": 8
-      },
-      {
-        "name": "Singularity Summoning Campaign",
-        "start_date": "3/8/2018",
-        "end_date": "3/15/2018",
-        "date_origin": "event header jp old",
-        "rateups": {
           "5": "Nero Claudius",
+          "6": "Siegfried",
           "7": "Gaius Julius Caesar",
           "8": "Altera",
+          "9": "Gilles de Rais (Saber)",
+          "10": "Chevalier d'Eon",
+          "11": "EMIYA",
+          "15": "Euryale",
+          "17": "C\u00fa Chulainn",
           "18": "Elizabeth B\u00e1thory",
           "22": "Romulus",
+          "23": "Medusa",
           "26": "Boudica",
-          "37": "Zhuge Liang (Lord El-Melloi II)"
-        },
-        "num_rateups": 7
-      },
-      {
-        "name": "Singularity Summoning Campaign",
-        "start_date": "3/8/2018",
-        "end_date": "3/15/2018",
-        "date_origin": "event header jp old",
-        "rateups": {
-          "15": "Euryale",
+          "31": "Medea",
+          "32": "Gilles de Rais",
+          "37": "Zhuge Liang (Lord El-Melloi II)",
+          "38": "C\u00fa Chulainn (Caster)",
+          "46": "Carmilla",
+          "47": "Heracles",
+          "52": "Vlad III",
+          "56": "Kiyohime",
+          "59": "Jeanne d'Arc",
           "60": "Orion",
           "63": "David",
           "64": "Hector",
           "65": "Francis Drake",
           "66": "Anne Bonny & Mary Read",
-          "67": "Medea (Lily)"
-        },
-        "num_rateups": 7
-      },
-      {
-        "name": "Singularity Summoning Campaign",
-        "start_date": "3/8/2018",
-        "end_date": "3/15/2018",
-        "date_origin": "event header jp old",
-        "rateups": {
+          "67": "Medea (Lily)",
           "74": "Nursery Rhyme",
           "76": "Mordred",
           "77": "Nikola Tesla",
@@ -689,7 +653,7 @@
           "81": "Henry Jekyll & Hyde",
           "82": "Frankenstein"
         },
-        "num_rateups": 8
+        "num_rateups": 38
       }
     ]
   },
