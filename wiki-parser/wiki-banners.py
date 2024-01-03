@@ -144,6 +144,7 @@ FORCE_MERGE = (
     "Class Based Summoning Campaign August 2021 (US)",
     "Singularity Summon Campaign September 2018 (US)",
     "Singularity Summon Campaign (US)",
+    "Singularity Pickup Summon (US)",
 )
 
 # Specify specific rateups in summoning campaigns that should not be merged into any other rateups.
@@ -284,6 +285,7 @@ MERGE_EVENTS_NA = {
     "Valentine 2020 Summoning Campaign Revival" : "Valentine 2021 Event",
     "Valentine 2019 Summoning Campaign Revival" : "Valentine 2020 Event",
     "Chaldea Boys Collection 2018 Revival" : "Chaldea Boys Collection 2019",
+    "London Campaign 2" : "London Chapter Release",
 }
 
 # NOTE: Used by fix_banner_names()
@@ -357,6 +359,11 @@ BANNER_NAME_CHANGE = (
     ("New Interludes and Knights of the Round Table Summon Campaign", "New Interludes and Knights of the Round Table Summoning Campaign Knights of the Round Table Summoning Campaign", "New Interludes and Knights of the Round Table Summoning Campaign"),
     ("FGO Festival 2018 ~1st Anniversary~", "FGO Festival 2018 ~1st Anniversary~", "FGO Festival 2018 ~1st Anniversary~ Summoning Campaign"),
     ("Chaldea Boys Collection 2018", "Chaldea Boys Collection 2018", "Chaldea Boys Collection 2018 Summoning Campaign"),
+    ("Happy New Year 2018", "Happy New Year 2018", "Happy New Year 2018 Summoning Campaign"),
+    ("Christmas 2017 Event", "Christmas 2017 Event", "Christmas 2017 Event Summoning Campaign"),
+    ("FGO Thanksgiving Special 2017", "FGO Thanksgiving Special 2017", "FGO Thanksgiving Special 2017 Summoning Campaign"),
+    # ("Okeanos Chapter Release", "Okeanos Campaign 2", "Okeanos Summoning Campaign 2"),
+    # ("Okeanos Chapter Release", "Okeanos Chapter Release", "Okeanos Chapter Release Summoning Campaign"),
 )
 
 # NOTE: Used by fix_dates()
@@ -515,6 +522,9 @@ CORRECT_DATES_NA = {
     # FGO Festival 2018 ~1st Anniversary~ Summoning Campaign - End: 7/17/2018
     # Camelot Chapter Release Summoning Campaign - End: 7/6/2018
     # E Pluribus Unum Chapter Release Summoning Campaign - End: 3/29/2018
+    # London Chapter Release Summoning Campaign - End: 1/4/2018
+    # Okeanos Chapter Release Summoning Campaign - End: 10/12/2017
+    # Moon Goddess Event Summoning Campaign - End: 8/31/2017
 }
 
 # NOTE: Used by parse_event_lists()
