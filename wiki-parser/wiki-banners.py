@@ -128,7 +128,8 @@ NAME_FIXES = {
 
 # Rateup servants that are missing from the banner on the wiki that should be fixed.
 RATEUP_FIXES = {
-    'S I N Chapter Release' : 'Jing Ke', # S I N Chapter Release
+    'S I N Chapter Release' : 'Jing Ke',
+    'New Interludes + Class Pickup Summoning Campaign (US)' : 'Hōzōin Inshun',
 }
 
 # Pages with multiple rateups that should be merged into one regardless of whether there are common servants.
@@ -241,8 +242,7 @@ SUMMON_SUBPAGE = (
 
 # NOTE: Used by merge_events()
 # Merge one event's banners into another event's banners
-MERGE_EVENTS_INTO = {
-    # JP Events
+MERGE_EVENTS_JP = {
     "Strange Fake -Whispers of Dawn- Broadcast Commemoration Summoning Campaign" : "Strange Fake -Whispers of Dawn- Broadcast Commemoration Campaign",
     "Ordeal Call Pre-Release Campaign" : "Ordeal Call Release Campaign",
     "Chaldea Boys Collection 2021" : "Slapstick Museum",
@@ -264,7 +264,10 @@ MERGE_EVENTS_INTO = {
     "Valentine 2017 Summoning Campaign Re-Run" : "Valentine 2018",
     "Chaldea Boys Collection 2016 Re-Run" : "Chaldea Boys Collection 2017",
     "London Campaign 2" : "London Chapter Release",
-    # NA Events
+}
+
+# Merge one event's banners into another event's banners
+MERGE_EVENTS_NA = {
     "FGO 6th Anniversary Daily Summoning Campaign" : "FGO Festival 2023 ~6th Anniversary~",
     "My Super Camelot 2023 Pre-Release Campaign" : "Grail Front Event ~My Super Camelot 2023~",
     "Chaldea Boys Collection 2023 Summoning Campaign 2" : "White Day 2023 Event",
@@ -460,6 +463,19 @@ CORRECT_DATES_NA = {
     # Fate/Extra CCC Collaboration Event Revival Summoning Campaign 2 - Start: 2/22/2021, End: 3/8/2021
     # Even More Learning With Manga Release Celebration Summoning Campaign - End: 1/27/2021
     # New Year 2021 Event Summoning Campaign 2 - Start: 1/7/2021, End: 1/21/2021
+    # Happy New Year 2021 Summoning Campaign - End: 1/15/2021
+    # SIN Chapter Release Summoning Campaign - End: 12/9/2020
+    # Fate/Stay Night Heaven's Feel III Theatrical Release Commemorative Summoning Campaign - End: 11/25/2020
+    # Christmas 2019 Event Revival Summoning Campaign - End: 11/25/2020
+    # Interlude Campaign 7 Summoning Campaign - End: 11/15/2020
+    # FGO Summer 2020 Event Summoning Campaign 3 - Start: 8/9/2020
+    # FGO Summer 2019 Event Revival Summoning Campaign 3 - Start: 7/24/2020
+    # FGO Summer 2019 Event Revival Summoning Campaign 2 - Start: 7/23/2020
+    # FGO Festival 2020 ~3rd Anniversary~ Summoning Campaign - End: 7/20/2020
+    # Götterdämmerung Chapter Release Summoning Campaign - End: 7/6/2020
+    # GUDAGUDA Meiji Restoration Revival Summoning Campaign - End: 5/21/2020
+    # Fate/Apocrypha Event Pre-Release Summoning Campaign - End: 5/4/2020
+    # Anastasia Chapter Release Summoning Campaign - End: 4/9/2020
 }
 
 # NOTE: Used by parse_event_lists()
@@ -1242,9 +1258,9 @@ def sort_banners(event_set):
     for event in event_set:
         event_set[event].banners = sorted(event_set[event].banners, key=lambda banner: banner.start_date)
 
-def merge_events(event_set):
+def merge_events(event_set, merge_event_list):
     # Merge events that are marked to be merged and delete the old events.
-    for src_event, dest_event in MERGE_EVENTS_INTO.items():
+    for src_event, dest_event in merge_event_list.items():
         try:
             event_set[dest_event].banners.extend(event_set[src_event].banners)
             del event_set[src_event]
@@ -1291,7 +1307,7 @@ def parse_and_create(event_list, event_set, region):
 
     # Merge events that are marked to be merged and delete the old events.
     print("Merging events...")
-    merge_events(event_set)
+    merge_events(event_set, MERGE_EVENTS_JP if region == "JP" else MERGE_EVENTS_NA)
 
     # Sort the banners by date.
     print("Sorting banners by date...")

@@ -375,9 +375,15 @@
           "82": "Frankenstein"
         },
         "num_rateups": 5
-      },
+      }
+    ]
+  },
+  {
+    "name": "London Campaign 2",
+    "region": "NA",
+    "banners": [
       {
-        "name": "London Summoning Campaign 2",
+        "name": "London Campaign 2",
         "start_date": "12/26/2017",
         "end_date": "1/4/2018",
         "date_origin": "event list",
@@ -2906,6 +2912,7 @@
           "183": "Parvati",
           "184": "Tomoe Gozen",
           "185": "Mochizuki Chiyome",
+          "186": "H\u014dz\u014din Inshun",
           "187": "Yagy\u016b Munenori",
           "188": "Kat\u014d Danz\u014d",
           "189": "Osakabehime",
@@ -2913,7 +2920,7 @@
           "193": "Nezha",
           "194": "Queen of Sheba"
         },
-        "num_rateups": 109
+        "num_rateups": 110
       }
     ]
   },
