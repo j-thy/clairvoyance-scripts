@@ -273,6 +273,7 @@ MERGE_EVENTS_INTO = {
     "Lostbelt 5 Conclusion Summoning Campaign" : "Olympus Chapter Release",
     "Chaldea Boys Collection 2022" : "White Day 2022 Event",
     "Chaldea Boys Collection 2018 - 2021 CE Summoning Campaign" : "White Day 2022 Event",
+    "Chaldea Boys Collection 2021" : "White Day 2021 Event",
 }
 
 # NOTE: Used by fix_banner_names()
@@ -452,6 +453,10 @@ CORRECT_DATES_NA = {
     # 14M Downloads Summoning Campaign - End: 6/30/2021
     # Yugakshetra Chapter Release Summoning Campaign - End: 6/16/2021
     # Interlude Campaign 9 Summoning Campaign - End: 6/10/2021
+    # Fate/Grand Order Absolute Demonic Front: Babylonia Blu-ray Release Summoning Campaign - End: 4/12/2021
+    # Tokugawa Restoration Labyrinth Summoning Campaign 2 - Start: 3/28/2021, End: 4/11/2021
+    # Chaldea Boys Collection 2021 Summoning Campaign - End: 3/21/2021
+    # Fate/Extra CCC Collaboration Event Revival Summoning Campaign 2 - Start: 2/22/2021, End: 3/8/2021
 }
 
 # NOTE: Used by parse_event_lists()
@@ -489,6 +494,7 @@ ADD_EMPTY_ENTRY = (
     "The Antiquated Spider Nostalgically Spins Its Thread",
     "White Day 2023 Event (US)",
     "White Day 2022 Event (US)",
+    "White Day 2021 Event (US)",
 )
 
 # List of JP event pages
