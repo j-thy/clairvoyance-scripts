@@ -340,6 +340,7 @@ BANNER_NAME_CHANGE = (
     ("Okeanos Chapter Release", "Okeanos Summoning Campaign", "Okeanos Chapter Release Summoning Campaign"),
     # NA Events
     ("Heian-kyo Chapter Release", "Heian-kyo Summoning Campaign 2 Summoning Campaign", "Heian-kyo Summoning Campaign 2"),
+    ("Fate/Grand Order Absolute Demonic Front: Babylonia Blu-ray Release Campaign Part II", "Fate/Grand Order Absolute Demonic Front: Babylonia Blu-ray Release Campaign Part II", "Fate/Grand Order Absolute Demonic Front: Babylonia Blu-ray Release Campaign Part II Summoning Campaign"),
 )
 
 # NOTE: Used by fix_dates()
@@ -447,6 +448,10 @@ CORRECT_DATES_NA = {
     # FGO Summer 2021 Event Summoning Campaign 3 - Start: 8/4/2021
     # FGO Summer 2021 Event Summoning Campaign 2 - Start: 8/1/2021, End: 8/15/2021
     # FGO Summer 2020 Event Revival Summoning Campaign 3 - Start: 7/18/2021
+    # FGO Festival 2021 ~4th Anniversary~ Summoning Campaign - End: 7/17/2021
+    # 14M Downloads Summoning Campaign - End: 6/30/2021
+    # Yugakshetra Chapter Release Summoning Campaign - End: 6/16/2021
+    # Interlude Campaign 9 Summoning Campaign - End: 6/10/2021
 }
 
 # NOTE: Used by parse_event_lists()
