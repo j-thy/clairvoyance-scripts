@@ -150,7 +150,7 @@
     "region": "NA",
     "banners": [
       {
-        "name": "Okeanos Chapter Release",
+        "name": "Okeanos Chapter Release Summoning Campaign",
         "start_date": "9/28/2017",
         "end_date": "9/28/2017",
         "date_origin": "event list",
@@ -162,15 +162,9 @@
           "66": "Anne Bonny & Mary Read"
         },
         "num_rateups": 5
-      }
-    ]
-  },
-  {
-    "name": "Okeanos Campaign 2",
-    "region": "NA",
-    "banners": [
+      },
       {
-        "name": "Okeanos Campaign 2",
+        "name": "Okeanos Summoning Campaign 2",
         "start_date": "10/5/2017",
         "end_date": "10/17/2017",
         "date_origin": "event list",

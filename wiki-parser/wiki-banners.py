@@ -286,6 +286,7 @@ MERGE_EVENTS_NA = {
     "Valentine 2019 Summoning Campaign Revival" : "Valentine 2020 Event",
     "Chaldea Boys Collection 2018 Revival" : "Chaldea Boys Collection 2019",
     "London Campaign 2" : "London Chapter Release",
+    "Okeanos Campaign 2" : "Okeanos Chapter Release",
 }
 
 # NOTE: Used by fix_banner_names()
@@ -362,8 +363,8 @@ BANNER_NAME_CHANGE = (
     ("Happy New Year 2018", "Happy New Year 2018", "Happy New Year 2018 Summoning Campaign"),
     ("Christmas 2017 Event", "Christmas 2017 Event", "Christmas 2017 Event Summoning Campaign"),
     ("FGO Thanksgiving Special 2017", "FGO Thanksgiving Special 2017", "FGO Thanksgiving Special 2017 Summoning Campaign"),
-    # ("Okeanos Chapter Release", "Okeanos Campaign 2", "Okeanos Summoning Campaign 2"),
-    # ("Okeanos Chapter Release", "Okeanos Chapter Release", "Okeanos Chapter Release Summoning Campaign"),
+    ("Okeanos Chapter Release", "Okeanos Campaign 2", "Okeanos Summoning Campaign 2"),
+    ("Okeanos Chapter Release", "Okeanos Chapter Release", "Okeanos Chapter Release Summoning Campaign"),
 )
 
 # NOTE: Used by fix_dates()
