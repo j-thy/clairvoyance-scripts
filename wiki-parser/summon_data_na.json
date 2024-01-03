@@ -6413,7 +6413,7 @@
     ]
   },
   {
-    "name": "My Super Camelot 2023 Pre-Release Campaign",
+    "name": "Grail Front Event ~My Super Camelot 2023~",
     "region": "NA",
     "banners": [
       {
@@ -6427,13 +6427,7 @@
           "126": "Bedivere"
         },
         "num_rateups": 3
-      }
-    ]
-  },
-  {
-    "name": "Grail Front Event ~My Super Camelot 2023~",
-    "region": "NA",
-    "banners": [
+      },
       {
         "name": "Grail Front Event ~My Super Camelot 2023~ Summoning Campaign",
         "start_date": "5/8/2023",

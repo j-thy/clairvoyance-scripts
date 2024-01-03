@@ -262,6 +262,7 @@ MERGE_EVENTS_INTO = {
     # NA Events
     "FGO 6th Anniversary Daily Summoning Campaign" : "FGO Festival 2023 ~6th Anniversary~",
     "Avalon le Fae Part 1 Summoning Campaign 2" : "Avalon le Fae Part 1 Chapter Release",
+    "My Super Camelot 2023 Pre-Release Campaign" : "Grail Front Event ~My Super Camelot 2023~",
 }
 
 # NOTE: Used by fix_banner_names()
@@ -390,6 +391,8 @@ CORRECT_DATES_NA = {
     # Avalon le Fae Part 1 Chapter Release Summoning Campaign - End: 6/19/2023
     # Avalon le Fae Pre-Release Summoning Campaign - End: 6/15/2023
     # FGO Summer 2022 Event Revival Summoning Campaign 3 - Start: 5/22/2023
+    # My Super Camelot 2023 Pre-Release Summoning Campaign - End: 5/8/2023
+    # FGO Waltz in the Moonlight Collaboration Event Summoning Campaign 2 - Start: 4/20/2023, End: 5/5/2023
 }
 
 # NOTE: Used by parse_event_lists()
