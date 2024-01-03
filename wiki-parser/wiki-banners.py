@@ -209,6 +209,7 @@ FAKE_BANNERS = (
     "F/GO Memories II Release Commemoration Campaign",
     "F/GO Memories II Release Commemoration Campaign Summoning Campaign",
     "Fate/Grand Order VR feat. Mashu Release Commemoration Campaign",
+    "FGO Craft Essence Recollection 2023 Campaign (US)",
 )
 
 # NOTE: Used by rec_check_subpages()
@@ -399,6 +400,8 @@ CORRECT_DATES_NA = {
     # FGO Waltz in the Moonlight Collaboration Event Summoning Campaign 2 - Start: 4/20/2023, End: 5/5/2023
     # Chaldea Boys Collection 2023 Summoning Campaign 1 - End: 3/16/2023
     # Spring has Sprung Campaign 2023 Summoning Campaign - End: 3/9/2023
+    # Saber Wars II Revival Summoning Campaign 2 - Start: 1/11/2023, End: 1/25/2023
+    # Happy New Year 2023 Summoning Campaign 2 - Start: 1/2/2023, End: 1/9/2023
 }
 
 # NOTE: Used by parse_event_lists()
@@ -533,6 +536,16 @@ def date_parser(start_date, end_date, year):
     # Return the date range
     return (date(year, start_month, start_day), date(year, end_month, end_day)) if end_month >= start_month \
         else (date(year, start_month, start_day), date(year+1, end_month, end_day))
+
+# Split date strings into start and end dates
+def date_splitter(date_str):
+    date_split = date_str.split("~")
+    if len(date_split) == 1:
+        date_split = date_split[0].split("-")
+    if len(date_split) == 1:
+        date_split = date_split[0].split("～")
+    
+    return date_split
 
 # Parse an FGO wiki page
 def parse(event_set, page, duration, parent=None):
@@ -789,11 +802,7 @@ def parse(event_set, page, duration, parent=None):
                 line = re.sub(r"'''", '', line)
 
                 # Attempt to split the start and end date using either ~, -, or ～
-                date_split = line.split(": ")[1].split("~")
-                if len(date_split) == 1:
-                    date_split = date_split[0].split("-")
-                if len(date_split) == 1:
-                    date_split = date_split[0].split("～")
+                date_split = date_splitter(line.split(": ")[1])
 
                 # If the end date is missing or invalid, set the end date to the start date
                 if not date_split[1].strip():
@@ -824,11 +833,7 @@ def parse(event_set, page, duration, parent=None):
 
             # Update the duration if a new duration was found
             if match[2]:
-                date_split = match[2].split("~")
-                if len(date_split) == 1:
-                    date_split = date_split[0].split("-")
-                if len(date_split) == 1:
-                    date_split = date_split[0].split("～")
+                date_split = date_splitter(match[2])
                 dates[i] = date_parser(date_split[0], date_split[1], CURRENT_YEAR)
                 date_origins[i] = "tab"
 
@@ -1029,7 +1034,7 @@ def parse_event_lists(event_lists, region):
                     # Remove the bar at the beginning of the line
                     line = re.sub(r'.*\|', '', line)
                     # Separate the raw date string into start and end date strings
-                    date_split = line.split("~")
+                    date_split = date_splitter(line)
                     # Set the end date to the start date if the end date is missing, otherwise parse both dates into date objects
                     date_list.append(date_parser(line, line, CURRENT_YEAR) if len(date_split) == 1 \
                                      else date_parser(date_split[0], date_split[1], CURRENT_YEAR))
