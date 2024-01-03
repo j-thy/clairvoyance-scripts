@@ -6019,13 +6019,7 @@
           "305": "Amor (Caren)"
         },
         "num_rateups": 23
-      }
-    ]
-  },
-  {
-    "name": "Valentine 2022 Summoning Campaign Revival",
-    "region": "NA",
-    "banners": [
+      },
       {
         "name": "Valentine 2022 Summoning Campaign Revival",
         "start_date": "2/19/2023",
@@ -6055,11 +6049,11 @@
     ]
   },
   {
-    "name": "Chaldea Boys Collection 2023",
+    "name": "White Day 2023 Event",
     "region": "NA",
     "banners": [
       {
-        "name": "Chaldea Boys Collection 2023 Summoning Campaign",
+        "name": "Chaldea Boys Collection 2023 Summoning Campaign 1",
         "start_date": "3/3/2023",
         "end_date": "3/14/2023",
         "date_origin": "event header na new",
@@ -6083,13 +6077,7 @@
           "298": "Watanabe no Tsuna"
         },
         "num_rateups": 17
-      }
-    ]
-  },
-  {
-    "name": "Chaldea Boys Collection 2023 Summoning Campaign 2",
-    "region": "NA",
-    "banners": [
+      },
       {
         "name": "Chaldea Boys Collection 2023 Summoning Campaign 2",
         "start_date": "3/9/2023",
