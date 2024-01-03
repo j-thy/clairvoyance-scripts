@@ -139,6 +139,7 @@ FORCE_MERGE = (
     "Class-Based Summoning Campaign (September 2019)",
     "Class-Based Summoning Campaign (March 2021)",
     "Class Based Summoning Campaign March 2023 (US)",
+    "Class Based Summoning Campaign August 2021 (US)",
 )
 
 # Specify specific rateups in summoning campaigns that should not be merged into any other rateups.
@@ -211,6 +212,7 @@ FAKE_BANNERS = (
     "Fate/Grand Order VR feat. Mashu Release Commemoration Campaign",
     "FGO Craft Essence Recollection 2023 Campaign (US)",
     "FGO 5th Anniversary Countdown Campaign (US)",
+    "FGO Craft Essence Recollection Campaign (US)",
 )
 
 # NOTE: Used by rec_check_subpages()
@@ -433,6 +435,18 @@ CORRECT_DATES_NA = {
     # New Year 2021 Event Revival Summoning Campaign 2 - Start: 1/10/2022, End: 1/24/2022
     # Happy New Year 2022 Summoning Campaign - End: 1/15/2022
     # Christmas 2021 Event Summoning Campaign - End: 12/31/2021
+    # Atlantis Chapter Release Summoning Campaign - End: 12/14/2021
+    # FGO Thanksgiving Special 2021 Summoning Campaign - End: 12/1/2021
+    # Interlude Campaign 11 Summoning Campaign - End: 11/29/2021
+    # Early Winter Campaign 2021 Summoning Campaign - End: 11/22/2021
+    # 15M Downloads Summoning Campaign - End: 11/8/2021
+    # Saber Wars II Summoning Campaign 2 - Start: 10/23/2021, End: 11/6/2021
+    # Saber Wars II Pre-Release Summoning Campaign - End: 10/31/2021
+    # FGO THE STAGE Camelot Release Summoning Campaign 2 - Start: 9/24/2021, End: 10/3/2021
+    # FGO THE STAGE Camelot Release Summoning Campaign 1 - End: 9/24/2021
+    # FGO Summer 2021 Event Summoning Campaign 3 - Start: 8/4/2021
+    # FGO Summer 2021 Event Summoning Campaign 2 - Start: 8/1/2021, End: 8/15/2021
+    # FGO Summer 2020 Event Revival Summoning Campaign 3 - Start: 7/18/2021
 }
 
 # NOTE: Used by parse_event_lists()
