@@ -481,6 +481,13 @@ CORRECT_DATES_NA = {
     # The Garden of Sinners Collaboration Event Revival Summoning Campaign - End: 3/2/2020
     # The Tale of Setsubun Summoning Campaign - End: 2/9/2020
     # Da Vinci and the 7 Counterfeit Heroic Spirits Revival Summoning Campaign - End: 1/23/2020
+    # Happy New Year 2020 Summoning Campaign - End: 1/19/2020
+    # Salem Chapter Release Summoning Campaign - End: 12/15/2019
+    # FGO Thanksgiving Special 2019 Summoning Campaign - End: 12/2/2019
+    # Christmas 2018 Event Revival Summoning Campaign - End: 11/26/2019
+    # 8M Downloads Summoning Campaign - End: 11/21/2019
+    # Shimousa Chapter Release Summoning Campaign - End: 10/28/2019
+    # FGO Summer 2019 Event Summoning Campaign 3 - Start: 8/12/2019
 }
 
 # NOTE: Used by parse_event_lists()
