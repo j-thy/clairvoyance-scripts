@@ -138,6 +138,7 @@ FORCE_MERGE = (
     "Valentine 2023 Event (US)/Summoning Campaign",
     "Class-Based Summoning Campaign (September 2019)",
     "Class-Based Summoning Campaign (March 2021)",
+    "Class Based Summoning Campaign March 2023 (US)",
 )
 
 # Specify specific rateups in summoning campaigns that should not be merged into any other rateups.
