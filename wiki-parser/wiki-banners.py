@@ -269,6 +269,7 @@ MERGE_EVENTS_INTO = {
     "Chaldea Boys Collection 2023" : "White Day 2023 Event",
     "Valentine 2022 Summoning Campaign Revival" : "Valentine 2023 Event",
     "Heian-kyo Summoning Campaign 2" : "Heian-kyo Chapter Release",
+    "Christmas 2021 Event Revival Pre-Release Campaign" : "Christmas 2021 Event Revival",
 }
 
 # NOTE: Used by fix_banner_names()
@@ -410,6 +411,11 @@ CORRECT_DATES_NA = {
     # Interlude Campaign 15 Summoning Campaign - End: 12/11/2022
     # Heian-kyo Chapter Release Summoning Campaign - End: 12/4/2022
     # Heian-kyo Pre-Release Summoning Campaign - End: 11/20/2022
+    # Imaginary Scramble Summoning Campaign 2 - Start: 11/3/2022, End: 11/13/2022
+    # Imaginary Scramble Pre-Release Summoning Campaign - End: 11/7/2022
+    # Christmas 2021 Event Revival Summoning Campaign - End: 10/19/2022
+    # FGO THE STAGE Solomon Release Summoning Campaign - End: 10/5/2022
+    # Interlude Campaign 14 Summoning Campaign - End: 8/30/2022
 }
 
 # NOTE: Used by parse_event_lists()

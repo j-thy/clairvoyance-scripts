@@ -5630,7 +5630,7 @@
     ]
   },
   {
-    "name": "Christmas 2021 Event Revival Pre-Release Campaign",
+    "name": "Christmas 2021 Event Revival",
     "region": "NA",
     "banners": [
       {
@@ -5645,13 +5645,7 @@
           "202": "Atalanta (Alter)"
         },
         "num_rateups": 4
-      }
-    ]
-  },
-  {
-    "name": "Christmas 2021 Event Revival",
-    "region": "NA",
-    "banners": [
+      },
       {
         "name": "Christmas 2021 Event Revival Summoning Campaign",
         "start_date": "10/6/2022",
