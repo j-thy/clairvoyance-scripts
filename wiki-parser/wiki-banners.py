@@ -274,6 +274,7 @@ MERGE_EVENTS_INTO = {
     "Chaldea Boys Collection 2022" : "White Day 2022 Event",
     "Chaldea Boys Collection 2018 - 2021 CE Summoning Campaign" : "White Day 2022 Event",
     "Chaldea Boys Collection 2021" : "White Day 2021 Event",
+    "Valentine 2020 Summoning Campaign Revival" : "Valentine 2021 Event",
 }
 
 # NOTE: Used by fix_banner_names()
@@ -457,6 +458,8 @@ CORRECT_DATES_NA = {
     # Tokugawa Restoration Labyrinth Summoning Campaign 2 - Start: 3/28/2021, End: 4/11/2021
     # Chaldea Boys Collection 2021 Summoning Campaign - End: 3/21/2021
     # Fate/Extra CCC Collaboration Event Revival Summoning Campaign 2 - Start: 2/22/2021, End: 3/8/2021
+    # Even More Learning With Manga Release Celebration Summoning Campaign - End: 1/27/2021
+    # New Year 2021 Event Summoning Campaign 2 - Start: 1/7/2021, End: 1/21/2021
 }
 
 # NOTE: Used by parse_event_lists()
