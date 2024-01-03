@@ -264,14 +264,10 @@ MERGE_EVENTS_INTO = {
     "London Campaign 2" : "London Chapter Release",
     # NA Events
     "FGO 6th Anniversary Daily Summoning Campaign" : "FGO Festival 2023 ~6th Anniversary~",
-    "Avalon le Fae Part 1 Summoning Campaign 2" : "Avalon le Fae Part 1 Chapter Release",
     "My Super Camelot 2023 Pre-Release Campaign" : "Grail Front Event ~My Super Camelot 2023~",
     "Chaldea Boys Collection 2023 Summoning Campaign 2" : "White Day 2023 Event",
     "Chaldea Boys Collection 2023" : "White Day 2023 Event",
     "Valentine 2022 Summoning Campaign Revival" : "Valentine 2023 Event",
-    "Heian-kyo Summoning Campaign 2" : "Heian-kyo Chapter Release",
-    "Christmas 2021 Event Revival Pre-Release Campaign" : "Christmas 2021 Event Revival",
-    "Olympus Summoning Campaign 2" : "Olympus Chapter Release",
     "Lostbelt 5 Conclusion Summoning Campaign" : "Olympus Chapter Release",
     "Chaldea Boys Collection 2022" : "White Day 2022 Event",
     "Chaldea Boys Collection 2018 - 2021 CE Summoning Campaign" : "White Day 2022 Event",
@@ -433,6 +429,10 @@ CORRECT_DATES_NA = {
     # Olympus Chapter Release Summoning Campaign - End: 4/6/2022
     # Chaldea Boys Collection 2022 Summoning Campaign - End: 3/13/2022
     # 16M Downloads Summoning Campaign - End: 2/27/2022
+    # Interlude Campaign 12 Summoning Campaign - End: 2/9/2022
+    # New Year 2021 Event Revival Summoning Campaign 2 - Start: 1/10/2022, End: 1/24/2022
+    # Happy New Year 2022 Summoning Campaign - End: 1/15/2022
+    # Christmas 2021 Event Summoning Campaign - End: 12/31/2021
 }
 
 # NOTE: Used by parse_event_lists()
@@ -877,7 +877,9 @@ def parse(event_set, page, duration, parent=None):
 
     # Check if the event is a subsequent Summoning Campaign that can be merged into a Chapter Release event
     chapter_release_title = f'{title.split("Summoning Campaign")[0].strip()} Chapter Release'
-    if chapter_release_title in event_set:
+    if chapter_release_title in event_set or chapter_release_title + " (US)" in event_set:
+        if chapter_release_title + " (US)" in event_set:
+            chapter_release_title += " (US)"
         # Get the rateups of the chapter release
         chapter_release_rateups = [banner.rateups for banner in event_set[chapter_release_title].banners]
 
@@ -980,7 +982,7 @@ def pre_release_merge(event_set):
             # Find the name of the event the pre-release is for
             pre_release_parent = events[i].name.split("Pre-Release")[0].strip()
             # If that event is the same as the most recent event, merge the pre-release into the main event
-            if pre_release_parent == events[-1].name:
+            if pre_release_parent == events[-1].name or pre_release_parent + " (US)" == events[-1].name:
                 # Merge the pre-release banners into the main event
                 events[-1].banners.extend(events[i].banners)
                 # Delete the pre-release event

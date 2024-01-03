@@ -704,13 +704,7 @@
           "105": "Billy the Kid"
         },
         "num_rateups": 5
-      }
-    ]
-  },
-  {
-    "name": "E Pluribus Unum Summoning Campaign 2",
-    "region": "NA",
-    "banners": [
+      },
       {
         "name": "E Pluribus Unum Summoning Campaign 2",
         "start_date": "3/22/2018",
@@ -720,13 +714,7 @@
           "99": "Queen Medb"
         },
         "num_rateups": 1
-      }
-    ]
-  },
-  {
-    "name": "E Pluribus Unum Summoning Campaign 3",
-    "region": "NA",
-    "banners": [
+      },
       {
         "name": "E Pluribus Unum Summoning Campaign 3",
         "start_date": "3/29/2018",
@@ -893,6 +881,18 @@
           "125": "Tawara T\u014dta"
         },
         "num_rateups": 5
+      },
+      {
+        "name": "Camelot Summoning Campaign 2",
+        "start_date": "7/17/2018",
+        "end_date": "8/1/2018",
+        "date_origin": "event list",
+        "rateups": {
+          "119": "Artoria Pendragon (Lancer)",
+          "122": "Tristan",
+          "123": "Gawain"
+        },
+        "num_rateups": 3
       }
     ]
   },
@@ -951,24 +951,6 @@
           "127": "Leonardo Da Vinci"
         },
         "num_rateups": 43
-      }
-    ]
-  },
-  {
-    "name": "Camelot Summoning Campaign 2",
-    "region": "NA",
-    "banners": [
-      {
-        "name": "Camelot Summoning Campaign 2",
-        "start_date": "7/17/2018",
-        "end_date": "8/1/2018",
-        "date_origin": "event list",
-        "rateups": {
-          "119": "Artoria Pendragon (Lancer)",
-          "122": "Tristan",
-          "123": "Gawain"
-        },
-        "num_rateups": 3
       }
     ]
   },
@@ -1422,13 +1404,7 @@
           "146": "Medusa (Lancer)"
         },
         "num_rateups": 3
-      }
-    ]
-  },
-  {
-    "name": "Babylonia Summoning Campaign 2",
-    "region": "NA",
-    "banners": [
+      },
       {
         "name": "Babylonia Summoning Campaign 2",
         "start_date": "12/12/2018",
@@ -1678,13 +1654,7 @@
           "159": "Yan Qing"
         },
         "num_rateups": 3
-      }
-    ]
-  },
-  {
-    "name": "Shinjuku Summoning Campaign 2",
-    "region": "NA",
-    "banners": [
+      },
       {
         "name": "Shinjuku Summoning Campaign 2",
         "start_date": "3/3/2019",
@@ -2039,13 +2009,7 @@
           "171": "Penthesilea"
         },
         "num_rateups": 3
-      }
-    ]
-  },
-  {
-    "name": "Agartha Summoning Campaign 2",
-    "region": "NA",
-    "banners": [
+      },
       {
         "name": "Agartha Summoning Campaign 2",
         "start_date": "6/27/2019",
@@ -2444,13 +2408,7 @@
           "186": "H\u014dz\u014din Inshun"
         },
         "num_rateups": 4
-      }
-    ]
-  },
-  {
-    "name": "Shimousa Summoning Campaign 2",
-    "region": "NA",
-    "banners": [
+      },
       {
         "name": "Shimousa Summoning Campaign 2",
         "start_date": "10/16/2019",
@@ -2604,13 +2562,7 @@
           "193": "Nezha"
         },
         "num_rateups": 2
-      }
-    ]
-  },
-  {
-    "name": "Salem Summoning Campaign 2",
-    "region": "NA",
-    "banners": [
+      },
       {
         "name": "Salem Summoning Campaign 2",
         "start_date": "12/8/2019",
@@ -2980,13 +2932,7 @@
           "203": "Avicebron"
         },
         "num_rateups": 3
-      }
-    ]
-  },
-  {
-    "name": "Anastasia Summoning Campaign 2",
-    "region": "NA",
-    "banners": [
+      },
       {
         "name": "Anastasia Summoning Campaign 2",
         "start_date": "4/2/2020",
@@ -3586,13 +3532,7 @@
           "228": "Qin Liangyu"
         },
         "num_rateups": 4
-      }
-    ]
-  },
-  {
-    "name": "SIN Summoning Campaign 2",
-    "region": "NA",
-    "banners": [
+      },
       {
         "name": "SIN Summoning Campaign 2",
         "start_date": "12/2/2020",
@@ -4156,13 +4096,7 @@
           "246": "William Tell"
         },
         "num_rateups": 3
-      }
-    ]
-  },
-  {
-    "name": "Yugakshetra Summoning Campaign 2",
-    "region": "NA",
-    "banners": [
+      },
       {
         "name": "Yugakshetra Summoning Campaign 2",
         "start_date": "6/9/2021",
@@ -4786,13 +4720,7 @@
           "273": "Mandricardo"
         },
         "num_rateups": 3
-      }
-    ]
-  },
-  {
-    "name": "Atlantis Summoning Campaign 2",
-    "region": "NA",
-    "banners": [
+      },
       {
         "name": "Atlantis Summoning Campaign 2",
         "start_date": "12/7/2021",
