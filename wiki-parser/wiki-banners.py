@@ -324,8 +324,8 @@ BANNER_NAME_CHANGE = (
 )
 
 # NOTE: Used by fix_dates()
-# Change the banner dates
-CORRECT_DATES = {
+# Change the JP banner dates
+CORRECT_DATES_JP = {
     ("MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dantès Game Entry Commemorative Campaign", "MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dantès Game Entry Commemorative Summoning Campaign") : (None, date(2022, 12, 17)),
     ("Christmas 2019 Re-Run", "Christmas 2019 Re-Run Summoning Campaign") : (None, date(2020, 11, 6)),
     ("Aeaean Spring Breeze", "Chaldea Boys Collection 2020 Summoning Campaign") : (None, date(2020, 3, 20)),
@@ -362,6 +362,10 @@ CORRECT_DATES = {
     ("AnimeJapan 2016 Exhibition Commemoration Campaign", "AnimeJapan 2016 Exhibition Commemoration Summoning Campaign") : (date(2016, 3, 23), date(2016, 3, 30)),
     ("New Year Campaign 2016", "New Year Campaign 2016 Summoning Campaign") : (None, date(2016, 1, 7)),
     ("4M Downloads Campaign", "4M Downloads Summoning Campaign") : (None, date(2015, 10, 14)),
+}
+
+# Change the NA banner dates
+CORRECT_DATES_NA = {
 }
 
 # NOTE: Used by parse_event_lists()
@@ -1146,9 +1150,9 @@ def merge_events(event_set):
         except KeyError:
             pass
 
-def fix_dates(event_set):
+def fix_dates(event_set, correct_dates):
     # Fix dates for events that are marked to be fixed.
-    for event_banner, dates in CORRECT_DATES.items():
+    for event_banner, dates in correct_dates.items():
         try:
             target_event, target_banner = event_banner
             start_date, end_date = dates
@@ -1202,7 +1206,7 @@ def parse_and_create(event_list, event_set, region):
 
     # Fix dates for events that are marked to be fixed.
     print("Fixing dates...")
-    fix_dates(event_set)
+    fix_dates(event_set, CORRECT_DATES_JP if region == "JP" else CORRECT_DATES_NA)
 
     # Create the JSON representation
     print("Creating JSON data...")

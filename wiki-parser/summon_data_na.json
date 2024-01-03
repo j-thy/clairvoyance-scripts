@@ -694,7 +694,7 @@
       {
         "name": "E Pluribus Unum Chapter Release Summoning Campaign",
         "start_date": "3/15/2018",
-        "end_date": "4/13/2016",
+        "end_date": "3/15/2018",
         "date_origin": "event list",
         "rateups": {
           "97": "Nightingale",
@@ -883,7 +883,7 @@
       {
         "name": "Camelot Chapter Release Summoning Campaign",
         "start_date": "6/28/2018",
-        "end_date": "7/29/2016",
+        "end_date": "6/28/2018",
         "date_origin": "event list",
         "rateups": {
           "118": "Ozymandias",
@@ -1289,7 +1289,7 @@
       {
         "name": "4M Downloads Summoning Campaign",
         "start_date": "10/17/2018",
-        "end_date": "10/14/2015",
+        "end_date": "10/24/2018",
         "date_origin": "event header jp old",
         "rateups": {
           "106": "Jeanne d'Arc (Alter)"
@@ -1450,7 +1450,7 @@
       {
         "name": "Solomon Chapter Release Summoning Campaign",
         "start_date": "12/20/2018",
-        "end_date": "12/31/2016",
+        "end_date": "12/20/2018",
         "date_origin": "event list",
         "rateups": {
           "150": "Merlin"
@@ -2786,7 +2786,7 @@
       {
         "name": "9M Downloads Summoning Campaign",
         "start_date": "2/24/2020",
-        "end_date": "6/7/2017",
+        "end_date": "3/9/2020",
         "date_origin": "event header jp old",
         "rateups": {
           "157": "EMIYA (Alter)",
@@ -3476,7 +3476,7 @@
       {
         "name": "Interlude Campaign 7 Summoning Campaign",
         "start_date": "11/1/2020",
-        "end_date": "10/31/2018",
+        "end_date": "11/8/2020",
         "date_origin": "event header jp old",
         "rateups": {
           "98": "C\u00fa Chulainn (Alter)",
@@ -4185,7 +4185,7 @@
       {
         "name": "14M Downloads Summoning Campaign",
         "start_date": "6/16/2021",
-        "end_date": "9/12/2018",
+        "end_date": "6/23/2021",
         "date_origin": "event header na new",
         "rateups": {
           "5": "Nero Claudius",
@@ -5828,7 +5828,7 @@
       {
         "name": "19M Downloads Summoning Campaign",
         "start_date": "12/5/2022",
-        "end_date": "3/11/2020",
+        "end_date": "12/12/2022",
         "date_origin": "event header na new",
         "rateups": {
           "237": "Murasaki Shikibu"
