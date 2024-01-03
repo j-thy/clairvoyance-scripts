@@ -210,6 +210,7 @@ FAKE_BANNERS = (
     "F/GO Memories II Release Commemoration Campaign Summoning Campaign",
     "Fate/Grand Order VR feat. Mashu Release Commemoration Campaign",
     "FGO Craft Essence Recollection 2023 Campaign (US)",
+    "FGO 5th Anniversary Countdown Campaign (US)",
 )
 
 # NOTE: Used by rec_check_subpages()
@@ -270,6 +271,10 @@ MERGE_EVENTS_INTO = {
     "Valentine 2022 Summoning Campaign Revival" : "Valentine 2023 Event",
     "Heian-kyo Summoning Campaign 2" : "Heian-kyo Chapter Release",
     "Christmas 2021 Event Revival Pre-Release Campaign" : "Christmas 2021 Event Revival",
+    "Olympus Summoning Campaign 2" : "Olympus Chapter Release",
+    "Lostbelt 5 Conclusion Summoning Campaign" : "Olympus Chapter Release",
+    "Chaldea Boys Collection 2022" : "White Day 2022 Event",
+    "Chaldea Boys Collection 2018 - 2021 CE Summoning Campaign" : "White Day 2022 Event",
 }
 
 # NOTE: Used by fix_banner_names()
@@ -416,6 +421,18 @@ CORRECT_DATES_NA = {
     # Christmas 2021 Event Revival Summoning Campaign - End: 10/19/2022
     # FGO THE STAGE Solomon Release Summoning Campaign - End: 10/5/2022
     # Interlude Campaign 14 Summoning Campaign - End: 8/30/2022
+    # 18M Downloads Summoning Campaign - End: 8/23/2022
+    # FGO Summer 2022 Event Summoning Campaign 4 - Start: 7/25/2022, End: 8/6/2022
+    # FGO Summer 2022 Event Summoning Campaign 3 - Start: 7/18/2022
+    # FGO 5th Anniversary Pre-Anniversary Summoning Campaign - End: 6/23/2022
+    # SE.RA.PH Main Interlude Release Summoning Campaign - End: 7/4/2022
+    # FGO Summer 2021 Event Revival Summoning Campaign 3 - Start: 5/29/2022
+    # FGO Summer 2021 Event Revival Summoning Campaign 2 - Start: 5/29/2022
+    # GUDAGUDA Final Honnoji 2021 Revival Summoning Campaign 2 - Start: 4/24/2022, End: 5/4/2022
+    # 17M Downloads Summoning Campaign - Start: 4/10/2022, End: 4/27/2022
+    # Olympus Chapter Release Summoning Campaign - End: 4/6/2022
+    # Chaldea Boys Collection 2022 Summoning Campaign - End: 3/13/2022
+    # 16M Downloads Summoning Campaign - End: 2/27/2022
 }
 
 # NOTE: Used by parse_event_lists()
@@ -452,6 +469,7 @@ ADD_EMPTY_ENTRY = (
     "Slapstick Museum",
     "The Antiquated Spider Nostalgically Spins Its Thread",
     "White Day 2023 Event (US)",
+    "White Day 2022 Event (US)",
 )
 
 # List of JP event pages

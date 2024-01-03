@@ -4991,7 +4991,7 @@
     ]
   },
   {
-    "name": "Chaldea Boys Collection 2022",
+    "name": "White Day 2022 Event",
     "region": "NA",
     "banners": [
       {
@@ -5016,13 +5016,7 @@
           "277": "Odysseus"
         },
         "num_rateups": 14
-      }
-    ]
-  },
-  {
-    "name": "Chaldea Boys Collection 2018 - 2021 CE Summoning Campaign",
-    "region": "NA",
-    "banners": [
+      },
       {
         "name": "Chaldea Boys Collection 2018 - 2021 CE Summoning Campaign",
         "start_date": "3/4/2022",
@@ -5079,13 +5073,7 @@
           "279": "Caenis"
         },
         "num_rateups": 2
-      }
-    ]
-  },
-  {
-    "name": "Olympus Summoning Campaign 2",
-    "region": "NA",
-    "banners": [
+      },
       {
         "name": "Olympus Summoning Campaign 2",
         "start_date": "3/30/2022",
@@ -5095,13 +5083,7 @@
           "280": "Romulus-Quirinus"
         },
         "num_rateups": 1
-      }
-    ]
-  },
-  {
-    "name": "Lostbelt 5 Conclusion Summoning Campaign",
-    "region": "NA",
-    "banners": [
+      },
       {
         "name": "Lostbelt 5 Conclusion Summoning Campaign",
         "start_date": "4/6/2022",
