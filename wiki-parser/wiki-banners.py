@@ -410,237 +410,121 @@ CORRECT_DATES_JP = {
 
 # Change the NA banner dates
 CORRECT_DATES_NA = {
-    # GUDAGUDA Yamataikoku 2022 Revival Summoning Campaign 2 - Start: 10/31/2023
     ("GUDAGUDA Yamataikoku 2022 Revival", "GUDAGUDA Yamataikoku 2022 Revival Summoning Campaign 2") : (date(2023, 10, 31), None),
-    # Halloween 2023 Event Summoning Campaign 3 - Start: 10/19/2023
     ("Halloween 2023 Event", "Halloween 2023 Event Summoning Campaign 3") : (date(2023, 10, 19), None),
-    # Halloween Trilogy Event Summoning Campaign - End: 10/12/2023
     ("Halloween Trilogy Event", "Halloween Trilogy Event Summoning Campaign") : (None, date(2023, 10, 12)),
-    # Fate/Samurai Remnant Release Summoning Campaign - End: 10/8/2023
     ("Fate/Samurai Remnant Release Campaign", "Fate/Samurai Remnant Release Summoning Campaign") : (None, date(2023, 10, 8)),
-    # Interlude Campaign 17 Summoning Campaign - End: 10/4/2023
     ("Interlude Campaign 17", "Interlude Campaign 17 Summoning Campaign") : (None, date(2023, 10, 4)),
-    # FGO Summer 2023 Event Summoning Campaign 3 - Start: 9/6/2023
     ("FGO Summer 2023 Event", "FGO Summer 2023 Event Summoning Campaign 3") : (date(2023, 9, 6), None),
-    # FGO Summer 2023 Event Summoning Campaign 4 - Start: 9/13/2023
     ("FGO Summer 2023 Event", "FGO Summer 2023 Event Summoning Campaign 4") : (date(2023, 9, 13), None),
-    # Back to School Campaign 2023 Summoning Campaign - End: 8/28/2023
     ("Back to School Campaign 2023", "Back to School Campaign 2023 Summoning Campaign") : (None, date(2023, 8, 28)),
-    # Grand Nero Festival 2023 Summoning Campaign 2 - Start: 8/6/2023
     ("Grand Nero Festival 2023", "Grand Nero Festival 2023 Summoning Campaign 2") : (date(2023, 8, 6), None),
-    # Avalon le Fae Conclusion Summoning Campaign 3 - Start: 7/24/2023, End: 7/31/2023
     ("Avalon le Fae Conclusion Campaign", "Avalon le Fae Conclusion Summoning Campaign 3") : (date(2023, 7, 24), date(2023, 7, 31)),
-    # Avalon le Fae Conclusion Summoning Campaign 2 - Start: 7/17/2023, End: 7/31/2023
     ("Avalon le Fae Conclusion Campaign", "Avalon le Fae Conclusion Summoning Campaign 2") : (date(2023, 7, 17), date(2023, 7, 31)),
-    # Avalon le Fae Conclusion Summoning Campaign 1 - Start: 7/12/2023, End: 7/26/2023
     ("Avalon le Fae Conclusion Campaign", "Avalon le Fae Conclusion Summoning Campaign 1") : (date(2023, 7, 12), date(2023, 7, 26)),
-    # FGO 6th Anniversary Commemorative Summoning Campaign - End: 7/2/2023
     ("FGO Festival 2023 ~6th Anniversary~", "FGO 6th Anniversary Commemorative Summoning Campaign") : (None, date(2023, 7, 2)),
-    # Avalon le Fae Part 2 Chapter Release Summoning Campaign - End: 7/2/2023
     ("Avalon le Fae Part 2 Chapter Release", "Avalon le Fae Part 2 Chapter Release Summoning Campaign") : (None, date(2023, 7, 2)),
-    # Interlude Campaign 16 Summoning Campaign - End: 6/29/2023
     ("Interlude Campaign 16", "Interlude Campaign 16 Summoning Campaign") : (None, date(2023, 6, 29)),
-    # Avalon le Fae Part 1 Chapter Release Summoning Campaign - End: 6/19/2023
     ("Avalon le Fae Part 1 Chapter Release", "Avalon le Fae Part 1 Chapter Release Summoning Campaign") : (None, date(2023, 6, 19)),
-    # Avalon le Fae Pre-Release Summoning Campaign - End: 6/15/2023
     ("Avalon le Fae Part 1 Chapter Release", "Avalon le Fae Pre-Release Summoning Campaign") : (None, date(2023, 6, 15)),
-    # FGO Summer 2022 Event Revival Summoning Campaign 3 - Start: 5/22/2023
     ("FGO Summer 2022 Event Revival", "FGO Summer 2022 Event Revival Summoning Campaign 3") : (date(2023, 5, 22), None),
-    # My Super Camelot 2023 Pre-Release Summoning Campaign - End: 5/8/2023
     ("Grail Front Event ~My Super Camelot 2023~", "My Super Camelot 2023 Pre-Release Summoning Campaign") : (None, date(2023, 5, 8)),
-    # FGO Waltz in the Moonlight Collaboration Event Summoning Campaign 2 - Start: 4/20/2023, End: 5/5/2023
     ("FGO Waltz in the Moonlight Collaboration Event", "FGO Waltz in the Moonlight Collaboration Event Summoning Campaign 2") : (date(2023, 4, 20), date(2023, 5, 5)),
-    # Chaldea Boys Collection 2023 Summoning Campaign 1 - End: 3/16/2023
     ("White Day 2023 Event", "Chaldea Boys Collection 2023 Summoning Campaign 1") : (None, date(2023, 3, 16)),
-    # Spring has Sprung Campaign 2023 Summoning Campaign - End: 3/9/2023
     ("Spring has Sprung Campaign 2023", "Spring has Sprung Campaign 2023 Summoning Campaign") : (None, date(2023, 3, 9)),
-    # Saber Wars II Revival Summoning Campaign 2 - Start: 1/11/2023, End: 1/25/2023
     ("Saber Wars II Revival", "Saber Wars II Revival Summoning Campaign 2") : (date(2023, 1, 11), date(2023, 1, 25)),
-    # Happy New Year 2023 Summoning Campaign 2 - Start: 1/2/2023, End: 1/9/2023
     ("Happy New Year 2023", "Happy New Year 2023 Summoning Campaign 2") : (date(2023, 1, 2), date(2023, 1, 9)),
-    # Christmas 2022 Event Summoning Campaign 2 - Start: 12/18/2022, End: 12/26/2022
     ("Christmas 2022 Event", "Christmas 2022 Event Summoning Campaign 2") : (date(2022, 12, 18), date(2022, 12, 26)),
-    # 19M Downloads Summoning Campaign - End: 12/19/2022
     ("19M Downloads Campaign", "19M Downloads Summoning Campaign") : (None, date(2022, 12, 19)),
-    # Interlude Campaign 15 Summoning Campaign - End: 12/11/2022
     ("Interlude Campaign 15", "Interlude Campaign 15 Summoning Campaign") : (None, date(2022, 12, 11)),
-    # Heian-kyo Chapter Release Summoning Campaign - End: 12/4/2022
     ("Heian-kyo Chapter Release", "Heian-kyo Chapter Release Summoning Campaign") : (None, date(2022, 12, 4)),
-    # Heian-kyo Pre-Release Summoning Campaign - End: 11/20/2022
     ("Heian-kyo Chapter Release", "Heian-kyo Pre-Release Summoning Campaign") : (None, date(2022, 11, 20)),
-    # Imaginary Scramble Summoning Campaign 2 - Start: 11/3/2022, End: 11/13/2022
     ("Imaginary Scramble", "Imaginary Scramble Summoning Campaign 2") : (date(2022, 11, 3), date(2022, 11, 13)),
-    # Imaginary Scramble Pre-Release Summoning Campaign - End: 11/7/2022
     ("Imaginary Scramble", "Imaginary Scramble Pre-Release Summoning Campaign") : (None, date(2022, 11, 7)),
-    # Christmas 2021 Event Revival Summoning Campaign - End: 10/19/2022
     ("Christmas 2021 Event Revival", "Christmas 2021 Event Revival Summoning Campaign") : (None, date(2022, 10, 19)),
-    # FGO THE STAGE Solomon Release Summoning Campaign - End: 10/5/2022
     ("FGO THE STAGE Solomon Release Campaign", "FGO THE STAGE Solomon Release Summoning Campaign") : (None, date(2022, 10, 5)),
-    # Interlude Campaign 14 Summoning Campaign - End: 8/30/2022
     ("Interlude Campaign 14", "Interlude Campaign 14 Summoning Campaign") : (None, date(2022, 8, 30)),
-    # 18M Downloads Summoning Campaign - End: 8/23/2022
     ("18M Downloads Campaign", "18M Downloads Summoning Campaign") : (None, date(2022, 8, 23)),
-    # FGO Summer 2022 Event Summoning Campaign 4 - Start: 7/25/2022, End: 8/6/2022
     ("FGO Summer 2022 Event", "FGO Summer 2022 Event Summoning Campaign 4") : (date(2022, 7, 25), date(2022, 8, 6)),
-    # FGO Summer 2022 Event Summoning Campaign 3 - Start: 7/18/2022
     ("FGO Summer 2022 Event", "FGO Summer 2022 Event Summoning Campaign 3") : (date(2022, 7, 18), None),
-    # FGO 5th Anniversary Pre-Anniversary Summoning Campaign - End: 6/23/2022
     ("FGO Festival 2022 ~5th Anniversary~", "FGO 5th Anniversary Pre-Anniversary Summoning Campaign") : (None, date(2022, 6, 23)),
-    # SE.RA.PH Main Interlude Release Summoning Campaign - End: 7/4/2022
     ("SE.RA.PH Main Interlude Release Campaign", "SE.RA.PH Main Interlude Release Summoning Campaign") : (None, date(2022, 7, 4)),
-    # FGO Summer 2021 Event Revival Summoning Campaign 3 - Start: 5/29/2022
     ("FGO Summer 2021 Event Revival", "FGO Summer 2021 Event Revival Summoning Campaign 3") : (date(2022, 5, 29), None),
-    # FGO Summer 2021 Event Revival Summoning Campaign 2 - Start: 5/29/2022
     ("FGO Summer 2021 Event Revival", "FGO Summer 2021 Event Revival Summoning Campaign 2") : (date(2022, 5, 29), None),
-    # GUDAGUDA Final Honnoji 2021 Revival Summoning Campaign 2 - Start: 4/24/2022, End: 5/4/2022
     ("GUDAGUDA Final Honnoji 2021 Revival", "GUDAGUDA Final Honnoji 2021 Revival Summoning Campaign 2") : (date(2022, 4, 24), date(2022, 5, 4)),
-    # 17M Downloads Summoning Campaign - Start: 4/10/2022, End: 4/27/2022
     ("17M Downloads Campaign", "17M Downloads Summoning Campaign") : (date(2022, 4, 10), date(2022, 4, 27)),
-    # Olympus Chapter Release Summoning Campaign - End: 4/6/2022
     ("Olympus Chapter Release", "Olympus Chapter Release Summoning Campaign") : (None, date(2022, 4, 6)),
-    # Chaldea Boys Collection 2022 Summoning Campaign - End: 3/13/2022
     ("White Day 2022 Event", "Chaldea Boys Collection 2022 Summoning Campaign") : (None, date(2022, 3, 13)),
-    # 16M Downloads Summoning Campaign - End: 2/27/2022
     ("16M Downloads Campaign", "16M Downloads Summoning Campaign") : (None, date(2022, 2, 27)),
-    # Interlude Campaign 12 Summoning Campaign - End: 2/9/2022
     ("Interlude Campaign 12", "Interlude Campaign 12 Summoning Campaign") : (None, date(2022, 2, 9)),
-    # New Year 2021 Event Revival Summoning Campaign 2 - Start: 1/10/2022, End: 1/24/2022
     ("New Year 2021 Event Revival", "New Year 2021 Event Revival Summoning Campaign 2") : (date(2022, 1, 10), date(2022, 1, 24)),
-    # Happy New Year 2022 Summoning Campaign - End: 1/15/2022
     ("Happy New Year 2022", "Happy New Year 2022 Summoning Campaign") : (None, date(2022, 1, 15)),
-    # Christmas 2021 Event Summoning Campaign - End: 12/31/2021
     ("Christmas 2021 Event", "Christmas 2021 Event Summoning Campaign") : (None, date(2021, 12, 31)),
-    # Atlantis Chapter Release Summoning Campaign - End: 12/14/2021
     ("Atlantis Chapter Release", "Atlantis Chapter Release Summoning Campaign") : (None, date(2021, 12, 14)),
-    # FGO Thanksgiving Special 2021 Summoning Campaign - End: 12/1/2021
     ("FGO Thanksgiving Special 2021", "FGO Thanksgiving Special 2021 Summoning Campaign") : (None, date(2021, 12, 1)),
-    # Interlude Campaign 11 Summoning Campaign - End: 11/29/2021
     ("Interlude Campaign 11", "Interlude Campaign 11 Summoning Campaign") : (None, date(2021, 11, 29)),
-    # Early Winter Campaign 2021 Summoning Campaign - End: 11/22/2021
     ("Early Winter Campaign 2021", "Early Winter Campaign 2021 Summoning Campaign") : (None, date(2021, 11, 22)),
-    # 15M Downloads Summoning Campaign - End: 11/8/2021
     ("15M Downloads Campaign", "15M Downloads Summoning Campaign") : (None, date(2021, 11, 8)),
-    # Saber Wars II Summoning Campaign 2 - Start: 10/23/2021, End: 11/6/2021
     ("Saber Wars II", "Saber Wars II Summoning Campaign 2") : (date(2021, 10, 23), date(2021, 11, 6)),
-    # Saber Wars II Pre-Release Summoning Campaign - End: 10/31/2021
     ("Saber Wars II", "Saber Wars II Pre-Release Summoning Campaign") : (None, date(2021, 10, 31)),
-    # FGO THE STAGE Camelot Release Summoning Campaign 2 - Start: 9/24/2021, End: 10/3/2021
     ("FGO THE STAGE Camelot Release Campaign", "FGO THE STAGE Camelot Release Summoning Campaign 2") : (date(2021, 9, 24), date(2021, 10, 3)),
-    # FGO THE STAGE Camelot Release Summoning Campaign 1 - End: 9/24/2021
     ("FGO THE STAGE Camelot Release Campaign", "FGO THE STAGE Camelot Release Summoning Campaign 1") : (None, date(2021, 9, 24)),
-    # FGO Summer 2021 Event Summoning Campaign 3 - Start: 8/4/2021
     ("FGO Summer 2021 Event", "FGO Summer 2021 Event Summoning Campaign 3") : (date(2021, 8, 4), None),
-    # FGO Summer 2021 Event Summoning Campaign 2 - Start: 8/1/2021, End: 8/15/2021
     ("FGO Summer 2021 Event", "FGO Summer 2021 Event Summoning Campaign 2") : (date(2021, 8, 1), date(2021, 8, 15)),
-    # FGO Summer 2020 Event Revival Summoning Campaign 3 - Start: 7/18/2021
     ("FGO Summer 2020 Event Revival", "FGO Summer 2020 Event Revival Summoning Campaign 3") : (date(2021, 7, 18), None),
-    # FGO Festival 2021 ~4th Anniversary~ Summoning Campaign - End: 7/17/2021
     ("FGO Festival 2021 ~4th Anniversary~", "FGO Festival 2021 ~4th Anniversary~ Summoning Campaign") : (None, date(2021, 7, 17)),
-    # 14M Downloads Summoning Campaign - End: 6/30/2021
     ("14M Downloads Campaign", "14M Downloads Summoning Campaign") : (None, date(2021, 6, 30)),
-    # Yugakshetra Chapter Release Summoning Campaign - End: 6/16/2021
     ("Yugakshetra Chapter Release", "Yugakshetra Chapter Release Summoning Campaign") : (None, date(2021, 6, 16)),
-    # Interlude Campaign 9 Summoning Campaign - End: 6/10/2021
     ("Interlude Campaign 9", "Interlude Campaign 9 Summoning Campaign") : (None, date(2021, 6, 10)),
-    # Fate/Grand Order Absolute Demonic Front: Babylonia Blu-ray Release Summoning Campaign - End: 4/12/2021
     ("Fate/Grand Order Absolute Demonic Front: Babylonia Blu-ray Release Campaign", "Fate/Grand Order Absolute Demonic Front: Babylonia Blu-ray Release Summoning Campaign") : (None, date(2021, 4, 12)),
-    # Tokugawa Restoration Labyrinth Summoning Campaign 2 - Start: 3/28/2021, End: 4/11/2021
     ("Tokugawa Restoration Labyrinth", "Tokugawa Restoration Labyrinth Summoning Campaign 2") : (date(2021, 3, 28), date(2021, 4, 11)),
-    # Chaldea Boys Collection 2021 Summoning Campaign - End: 3/21/2021
     ("White Day 2021 Event", "Chaldea Boys Collection 2021 Summoning Campaign") : (None, date(2021, 3, 21)),
-    # Fate/Extra CCC Collaboration Event Revival Summoning Campaign 2 - Start: 2/22/2021, End: 3/8/2021
     ("Fate/Extra CCC Collaboration Event Revival", "Fate/Extra CCC Collaboration Event Revival Summoning Campaign 2") : (date(2021, 2, 22), date(2021, 3, 8)),
-    # Even More Learning With Manga Release Celebration Summoning Campaign - End: 1/27/2021
     ("Even More Learning With Manga Release Celebration Campaign", "Even More Learning With Manga Release Celebration Summoning Campaign") : (None, date(2021, 1, 27)),
-    # New Year 2021 Event Summoning Campaign 2 - Start: 1/7/2021, End: 1/21/2021
     ("New Year 2021 Event", "New Year 2021 Event Summoning Campaign 2") : (date(2021, 1, 7), date(2021, 1, 21)),
-    # Happy New Year 2021 Summoning Campaign - End: 1/15/2021
     ("Happy New Year 2021", "Happy New Year 2021 Summoning Campaign") : (None, date(2021, 1, 15)),
-    # SIN Chapter Release Summoning Campaign - End: 12/9/2020
     ("SIN Chapter Release", "SIN Chapter Release Summoning Campaign") : (None, date(2020, 12, 9)),
-    # Fate/Stay Night Heaven's Feel III Theatrical Release Commemorative Summoning Campaign - End: 11/25/2020
     ("Fate/Stay Night Heaven's Feel III Theatrical Release Commemorative Campaign", "Fate/Stay Night Heaven's Feel III Theatrical Release Commemorative Summoning Campaign") : (None, date(2020, 11, 25)),
-    # Christmas 2019 Event Revival Summoning Campaign - End: 11/25/2020
     ("Christmas 2019 Event Revival", "Christmas 2019 Event Revival Summoning Campaign") : (None, date(2020, 11, 25)),
-    # Interlude Campaign 7 Summoning Campaign - End: 11/15/2020
     ("Interlude Campaign 7", "Interlude Campaign 7 Summoning Campaign") : (None, date(2020, 11, 15)),
-    # FGO Summer 2020 Event Summoning Campaign 3 - Start: 8/9/2020
     ("FGO Summer 2020 Event", "FGO Summer 2020 Event Summoning Campaign 3") : (date(2020, 8, 9), None),
-    # FGO Summer 2019 Event Revival Summoning Campaign 3 - Start: 7/24/2020
     ("FGO Summer 2019 Event Revival", "FGO Summer 2019 Event Revival Summoning Campaign 3") : (date(2020, 7, 24), None),
-    # FGO Summer 2019 Event Revival Summoning Campaign 2 - Start: 7/23/2020
     ("FGO Summer 2019 Event Revival", "FGO Summer 2019 Event Revival Summoning Campaign 2") : (date(2020, 7, 23), None),
-    # FGO Festival 2020 ~3rd Anniversary~ Summoning Campaign - End: 7/20/2020
     ("FGO Festival 2020 ~3rd Anniversary~", "FGO Festival 2020 ~3rd Anniversary~ Summoning Campaign") : (None, date(2020, 7, 20)),
-    # Götterdämmerung Chapter Release Summoning Campaign - End: 7/6/2020
     ("Götterdämmerung Chapter Release", "Götterdämmerung Chapter Release Summoning Campaign") : (None, date(2020, 7, 6)),
-    # GUDAGUDA Meiji Restoration Revival Summoning Campaign - End: 5/21/2020
     ("GUDAGUDA Meiji Restoration Revival", "GUDAGUDA Meiji Restoration Revival Summoning Campaign") : (None, date(2020, 5, 21)),
-    # Fate/Apocrypha Event Pre-Release Summoning Campaign - End: 5/4/2020
     ("Fate/Apocrypha Collaboration Event", "Fate/Apocrypha Event Pre-Release Summoning Campaign") : (None, date(2020, 5, 4)),
-    # Anastasia Chapter Release Summoning Campaign - End: 4/9/2020
     ("Anastasia Chapter Release", "Anastasia Chapter Release Summoning Campaign") : (None, date(2020, 4, 9)),
-    # Chaldea Boys Collection 2020 Summoning Campaign - End: 3/19/2020
     ("Chaldea Boys Collection 2020", "Chaldea Boys Collection 2020 Summoning Campaign") : (None, date(2020, 3, 19)),
-    # The Garden of Sinners Collaboration Event Revival Summoning Campaign - End: 3/2/2020
     ("The Garden of Sinners Collaboration Event Revival", "The Garden of Sinners Collaboration Event Revival Summoning Campaign") : (None, date(2020, 3, 2)),
-    # The Tale of Setsubun Summoning Campaign - End: 2/9/2020
     ("The Tale of Setsubun", "The Tale of Setsubun Summoning Campaign") : (None, date(2020, 2, 9)),
-    # Da Vinci and the 7 Counterfeit Heroic Spirits Revival Summoning Campaign - End: 1/23/2020
     ("Da Vinci and the 7 Counterfeit Heroic Spirits Revival", "Da Vinci and the 7 Counterfeit Heroic Spirits Revival Summoning Campaign") : (None, date(2020, 1, 23)),
-    # Happy New Year 2020 Summoning Campaign - End: 1/19/2020
     ("Happy New Year 2020", "Happy New Year 2020 Summoning Campaign") : (None, date(2020, 1, 19)),
-    # Salem Chapter Release Summoning Campaign - End: 12/15/2019
     ("Salem Chapter Release", "Salem Chapter Release Summoning Campaign") : (None, date(2019, 12, 15)),
-    # FGO Thanksgiving Special 2019 Summoning Campaign - End: 12/2/2019
     ("FGO Thanksgiving Special 2019", "FGO Thanksgiving Special 2019 Summoning Campaign") : (None, date(2019, 12, 2)),
-    # Christmas 2018 Event Revival Summoning Campaign - End: 11/26/2019
     ("Christmas 2018 Event Revival", "Christmas 2018 Event Revival Summoning Campaign") : (None, date(2019, 11, 26)),
-    # 8M Downloads Summoning Campaign - End: 11/21/2019
     ("8M Downloads Campaign", "8M Downloads Summoning Campaign") : (None, date(2019, 11, 21)),
-    # Shimousa Chapter Release Summoning Campaign - End: 10/28/2019
     ("Shimousa Chapter Release", "Shimousa Chapter Release Summoning Campaign") : (None, date(2019, 10, 28)),
-    # FGO Summer 2019 Event Summoning Campaign 3 - Start: 8/12/2019
     ("FGO Summer 2019 Event", "FGO Summer 2019 Event Summoning Campaign 3") : (date(2019, 8, 12), None),
-    # FGO Summer 2019 Event Summoning Campaign 2 - Start: 8/5/2019
     ("FGO Summer 2019 Event", "FGO Summer 2019 Event Summoning Campaign 2") : (date(2019, 8, 5), None),
-    # FGO Summer 2018 Event Revival Summoning Campaign 2 - Start: 7/19/2019
     ("FGO Summer 2018 Event Revival", "FGO Summer 2018 Event Revival Summoning Campaign 2") : (date(2019, 7, 19), None),
-    # FGO Festival 2019 ~2nd Anniversary~ Summoning Campaign - Start: 7/6/2019, End: 7/23/2019
     ("FGO Festival 2019 ~2nd Anniversary~", "FGO Festival 2019 ~2nd Anniversary~ Summoning Campaign") : (date(2019, 7, 6), date(2019, 7, 23)),
-    # Agartha Chapter Release Summoning Campaign - End: 7/6/2019
     ("Agartha Chapter Release", "Agartha Chapter Release Summoning Campaign") : (None, date(2019, 7, 6)),
-    # Rashomon Event Revival Summoning Campaign - End: 6/6/2019
     ("Rashomon Event Revival", "Rashomon Event Revival Summoning Campaign") : (None, date(2019, 6, 6)),
-    # Fate/Extra CCC Collaboration Event Summoning Campaign 2 - Start: 5/1/2019
     ("Fate/Extra CCC Collaboration Event", "Fate/Extra CCC Collaboration Event Summoning Campaign 2") : (date(2019, 5, 1), None),
-    # Fate/Extra CCC Event Pre-Release Summoning Campaign - End: 4/22/2019
     ("Fate/Extra CCC Collaboration Event", "Fate/Extra CCC Event Pre-Release Summoning Campaign") : (None, date(2019, 4, 22)),
-    # Shinjuku Chapter Release Summoning Campaign - End: 3/11/2019
     ("Shinjuku Chapter Release", "Shinjuku Chapter Release Summoning Campaign") : (None, date(2019, 3, 11)),
-    # 5M Downloads Summoning Campaign - End: 2/6/2019
     ("5M Downloads Campaign", "5M Downloads Summoning Campaign") : (None, date(2019, 2, 6)),
-    # Moon Goddess Event Revival Summoning Campaign - End: 1/30/2019
     ("Moon Goddess Event Revival", "Moon Goddess Event Revival Summoning Campaign") : (None, date(2019, 1, 30)),
-    # Solomon Chapter Release Summoning Campaign - End: 12/31/2018
     ("Solomon Chapter Release", "Solomon Chapter Release Summoning Campaign") : (None, date(2018, 12, 31)),
-    # Babylonia Chapter Release Summoning Campaign - End: 12/31/2018
     ("Babylonia Chapter Release", "Babylonia Chapter Release Summoning Campaign") : (None, date(2018, 12, 31)),
-    # Christmas 2018 Event Summoning Campaign 2 - Start: 12/2/2018, End: 12/12/2018
     ("Christmas 2018 Event", "Christmas 2018 Event Summoning Campaign 2") : (date(2018, 12, 2), date(2018, 12, 12)),
-    # FGO Summer 2018 Event Summoning Campaign 2 - Start: 8/6/2018, End: 8/22/2018
     ("FGO Summer 2018 Event", "FGO Summer 2018 Event Summoning Campaign 2") : (date(2018, 8, 6), date(2018, 8, 22)),
-    # FGO Festival 2018 ~1st Anniversary~ Summoning Campaign - End: 7/17/2018
     ("FGO Festival 2018 ~1st Anniversary~", "FGO Festival 2018 ~1st Anniversary~ Summoning Campaign") : (None, date(2018, 7, 17)),
-    # Camelot Chapter Release Summoning Campaign - End: 7/6/2018
     ("Camelot Chapter Release", "Camelot Chapter Release Summoning Campaign") : (None, date(2018, 7, 6)),
-    # E Pluribus Unum Chapter Release Summoning Campaign - End: 3/29/2018
     ("E Pluribus Unum Chapter Release", "E Pluribus Unum Chapter Release Summoning Campaign") : (None, date(2018, 3, 29)),
-    # London Chapter Release Summoning Campaign - End: 1/4/2018
     ("London Chapter Release", "London Chapter Release Summoning Campaign") : (None, date(2018, 1, 4)),
-    # Okeanos Chapter Release Summoning Campaign - End: 10/12/2017
     ("Okeanos Chapter Release", "Okeanos Chapter Release Summoning Campaign") : (None, date(2017, 10, 12)),
-    # Moon Goddess Event Summoning Campaign - End: 8/31/2017
     ("Moon Goddess Event", "Moon Goddess Event Summoning Campaign") : (None, date(2017, 8, 31)),
 }
 
