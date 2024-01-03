@@ -278,6 +278,7 @@ MERGE_EVENTS_NA = {
     "Chaldea Boys Collection 2018 - 2021 CE Summoning Campaign" : "White Day 2022 Event",
     "Chaldea Boys Collection 2021" : "White Day 2021 Event",
     "Valentine 2020 Summoning Campaign Revival" : "Valentine 2021 Event",
+    "Valentine 2019 Summoning Campaign Revival" : "Valentine 2020 Event",
 }
 
 # NOTE: Used by fix_banner_names()
@@ -476,6 +477,10 @@ CORRECT_DATES_NA = {
     # GUDAGUDA Meiji Restoration Revival Summoning Campaign - End: 5/21/2020
     # Fate/Apocrypha Event Pre-Release Summoning Campaign - End: 5/4/2020
     # Anastasia Chapter Release Summoning Campaign - End: 4/9/2020
+    # Chaldea Boys Collection 2020 Summoning Campaign - End: 3/19/2020
+    # The Garden of Sinners Collaboration Event Revival Summoning Campaign - End: 3/2/2020
+    # The Tale of Setsubun Summoning Campaign - End: 2/9/2020
+    # Da Vinci and the 7 Counterfeit Heroic Spirits Revival Summoning Campaign - End: 1/23/2020
 }
 
 # NOTE: Used by parse_event_lists()
