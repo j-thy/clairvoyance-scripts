@@ -907,7 +907,7 @@
     "region": "NA",
     "banners": [
       {
-        "name": "FGO Festival 2018 ~1st Anniversary~",
+        "name": "FGO Festival 2018 ~1st Anniversary~ Summoning Campaign",
         "start_date": "7/7/2018",
         "end_date": "7/19/2018",
         "date_origin": "event header jp old",
@@ -1142,65 +1142,29 @@
         "rateups": {
           "2": "Artoria Pendragon",
           "3": "Artoria Pendragon (Alter)",
-          "11": "EMIYA",
-          "17": "C\u00fa Chulainn",
-          "23": "Medusa",
-          "31": "Medea",
-          "38": "C\u00fa Chulainn (Caster)",
-          "47": "Heracles"
-        },
-        "num_rateups": 8
-      },
-      {
-        "name": "Singularity Summoning Campaign September 2018",
-        "start_date": "9/25/2018",
-        "end_date": "10/3/2018",
-        "date_origin": "event header jp old",
-        "rateups": {
-          "6": "Siegfried",
-          "9": "Gilles de Rais (Saber)",
-          "10": "Chevalier d'Eon",
-          "32": "Gilles de Rais",
-          "56": "Kiyohime",
-          "59": "Jeanne d'Arc"
-        },
-        "num_rateups": 6
-      },
-      {
-        "name": "Singularity Summoning Campaign September 2018",
-        "start_date": "9/25/2018",
-        "end_date": "10/3/2018",
-        "date_origin": "event header jp old",
-        "rateups": {
           "5": "Nero Claudius",
+          "6": "Siegfried",
           "7": "Gaius Julius Caesar",
           "8": "Altera",
-          "22": "Romulus",
-          "26": "Boudica"
-        },
-        "num_rateups": 5
-      },
-      {
-        "name": "Singularity Summoning Campaign September 2018",
-        "start_date": "9/25/2018",
-        "end_date": "10/3/2018",
-        "date_origin": "event header jp old",
-        "rateups": {
+          "9": "Gilles de Rais (Saber)",
+          "10": "Chevalier d'Eon",
+          "11": "EMIYA",
           "15": "Euryale",
+          "17": "C\u00fa Chulainn",
+          "22": "Romulus",
+          "23": "Medusa",
+          "26": "Boudica",
+          "31": "Medea",
+          "32": "Gilles de Rais",
+          "38": "C\u00fa Chulainn (Caster)",
+          "47": "Heracles",
+          "56": "Kiyohime",
+          "59": "Jeanne d'Arc",
           "63": "David",
           "64": "Hector",
           "65": "Francis Drake",
           "66": "Anne Bonny & Mary Read",
-          "67": "Medea (Lily)"
-        },
-        "num_rateups": 6
-      },
-      {
-        "name": "Singularity Summoning Campaign September 2018",
-        "start_date": "9/25/2018",
-        "end_date": "10/3/2018",
-        "date_origin": "event header jp old",
-        "rateups": {
+          "67": "Medea (Lily)",
           "74": "Nursery Rhyme",
           "76": "Mordred",
           "77": "Nikola Tesla",
@@ -1208,16 +1172,7 @@
           "79": "Paracelsus von Hohenheim",
           "80": "Charles Babbage",
           "81": "Henry Jekyll & Hyde",
-          "82": "Frankenstein"
-        },
-        "num_rateups": 8
-      },
-      {
-        "name": "Singularity Summoning Campaign September 2018",
-        "start_date": "9/25/2018",
-        "end_date": "10/3/2018",
-        "date_origin": "event header jp old",
-        "rateups": {
+          "82": "Frankenstein",
           "97": "Nightingale",
           "98": "C\u00fa Chulainn (Alter)",
           "99": "Queen Medb",
@@ -1226,16 +1181,7 @@
           "102": "Li Shuwen (Lancer)",
           "103": "Thomas Edison",
           "104": "Geronimo",
-          "105": "Billy the Kid"
-        },
-        "num_rateups": 9
-      },
-      {
-        "name": "Singularity Summoning Campaign September 2018",
-        "start_date": "9/25/2018",
-        "end_date": "10/3/2018",
-        "date_origin": "event header jp old",
-        "rateups": {
+          "105": "Billy the Kid",
           "118": "Ozymandias",
           "119": "Artoria Pendragon (Lancer)",
           "120": "Nitocris",
@@ -1246,7 +1192,7 @@
           "125": "Tawara T\u014dta",
           "126": "Bedivere"
         },
-        "num_rateups": 9
+        "num_rateups": 51
       }
     ]
   },
