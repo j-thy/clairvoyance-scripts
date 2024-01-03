@@ -34,16 +34,10 @@ LINK_MATCHES = (
     "Summon rates for the following",
     "rate-up event",
     "Commemoration Summoning Campaign",
-    # "Amakusagacha",
-    # "Babylonia Summoning Campaign",
     "Rate Up Schedule \(Female-Servants 2\)",
     "Rate Up \(Male-Servants\)",
     "Servant Lineups",
-    # "Salem Summon 2",
-    # "Valentine2017 gacha rerun",
-    # "Anastasia_summon_banner2",
     "■ .*? Downloads Summoning Campaign",
-    # "NeroFestival2018CampaignUS",
 )
 
 # Keywords before a section of text that should be removed before link-style parsing is done.
