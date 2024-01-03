@@ -237,6 +237,7 @@ SUMMON_SUBPAGE = (
 # NOTE: Used by merge_events()
 # Merge one event's banners into another event's banners
 MERGE_EVENTS_INTO = {
+    # JP Events
     "Strange Fake -Whispers of Dawn- Broadcast Commemoration Summoning Campaign" : "Strange Fake -Whispers of Dawn- Broadcast Commemoration Campaign",
     "Ordeal Call Pre-Release Campaign" : "Ordeal Call Release Campaign",
     "Chaldea Boys Collection 2021" : "Slapstick Museum",
@@ -258,6 +259,9 @@ MERGE_EVENTS_INTO = {
     "Valentine 2017 Summoning Campaign Re-Run" : "Valentine 2018",
     "Chaldea Boys Collection 2016 Re-Run" : "Chaldea Boys Collection 2017",
     "London Campaign 2" : "London Chapter Release",
+    # NA Events
+    "FGO 6th Anniversary Daily Summoning Campaign" : "FGO Festival 2023 ~6th Anniversary~",
+    "Avalon le Fae Part 1 Summoning Campaign 2" : "Avalon le Fae Part 1 Chapter Release",
 }
 
 # NOTE: Used by fix_banner_names()
@@ -285,6 +289,7 @@ BANNER_NAME_FIX = {
 
 # Change specific banner names
 BANNER_NAME_CHANGE = (
+    # JP Events
     ("Tales of Chaldean Heavy Industries", "Chaldea Boys Collection 2023 Summoning Part 2", "Chaldea Boys Collection 2023 Summoning Campaign 1"),
     ("Singularity Repair Support Campaign", "Singularity Repair Support Summoning Campaign 7", "Singularity Repair Support Summoning Campaign 6"),
     ("Singularity Repair Support Campaign", "Singularity Repair Support Summoning Campaign 6", "Singularity Repair Support Summoning Campaign 7"),
@@ -321,6 +326,7 @@ BANNER_NAME_CHANGE = (
     ("New Year Campaign 2016", "New Year Campaign 2016", "New Year Campaign 2016 Summoning Campaign"),
     ("Da Vinci-chan's Choice 2015", "Da Vinci-chan's Choice 2015", "Da Vinci-chan's Choice 2015 Summoning Campaign"),
     ("Okeanos Chapter Release", "Okeanos Summoning Campaign", "Okeanos Chapter Release Summoning Campaign"),
+    # NA Events
 )
 
 # NOTE: Used by fix_dates()
@@ -366,6 +372,24 @@ CORRECT_DATES_JP = {
 
 # Change the NA banner dates
 CORRECT_DATES_NA = {
+    # GUDAGUDA Yamataikoku 2022 Revival Summoning Campaign 2 - Start: 10/31/2023
+    # Halloween 2023 Event Summoning Campaign 3 - Start: 10/19/2023
+    # Halloween Trilogy Event Summoning Campaign - End: 10/12/2023
+    # Fate/Samurai Remnant Release Summoning Campaign - End: 10/8/2023
+    # Interlude Campaign 17 Summoning Campaign - End: 10/4/2023
+    # FGO Summer 2023 Event Summoning Campaign 3 - Start: 9/6/2023
+    # FGO Summer 2023 Event Summoning Campaign 4 - Start: 9/13/2023
+    # Back to School Campaign 2023 Summoning Campaign - End: 8/28/2023
+    # Grand Nero Festival 2023 Summoning Campaign 2 - Start: 8/6/2023
+    # Avalon le Fae Conclusion Summoning Campaign 3 - Start: 7/24/2023, End: 7/31/2023
+    # Avalon le Fae Conclusion Summoning Campaign 2 - Start: 7/17/2023, End: 7/31/2023
+    # Avalon le Fae Conclusion Summoning Campaign 1 - Start: 7/12/2023, End: 7/26/2023
+    # FGO 6th Anniversary Commemorative Summoning Campaign - End: 7/2/2023
+    # Avalon le Fae Part 2 Chapter Release Summoning Campaign - End: 7/2/2023
+    # Interlude Campaign 16 Summoning Campaign - End: 6/29/2023
+    # Avalon le Fae Part 1 Chapter Release Summoning Campaign - End: 6/19/2023
+    # Avalon le Fae Pre-Release Summoning Campaign - End: 6/15/2023
+    # FGO Summer 2022 Event Revival Summoning Campaign 3 - Start: 5/22/2023
 }
 
 # NOTE: Used by parse_event_lists()
