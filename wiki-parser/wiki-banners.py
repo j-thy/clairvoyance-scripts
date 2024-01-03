@@ -214,6 +214,7 @@ FAKE_BANNERS = (
     "FGO Craft Essence Recollection 2023 Campaign (US)",
     "FGO 5th Anniversary Countdown Campaign (US)",
     "FGO Craft Essence Recollection Campaign (US)",
+    "Fate/Grand Order VR feat. Mash Kyrielight Release Campaign (US)",
 )
 
 # NOTE: Used by rec_check_subpages()
@@ -279,6 +280,7 @@ MERGE_EVENTS_NA = {
     "Chaldea Boys Collection 2021" : "White Day 2021 Event",
     "Valentine 2020 Summoning Campaign Revival" : "Valentine 2021 Event",
     "Valentine 2019 Summoning Campaign Revival" : "Valentine 2020 Event",
+    "Chaldea Boys Collection 2018 Revival" : "Chaldea Boys Collection 2019",
 }
 
 # NOTE: Used by fix_banner_names()
@@ -347,6 +349,8 @@ BANNER_NAME_CHANGE = (
     # NA Events
     ("Heian-kyo Chapter Release", "Heian-kyo Summoning Campaign 2 Summoning Campaign", "Heian-kyo Summoning Campaign 2"),
     ("Fate/Grand Order Absolute Demonic Front: Babylonia Blu-ray Release Campaign Part II", "Fate/Grand Order Absolute Demonic Front: Babylonia Blu-ray Release Campaign Part II", "Fate/Grand Order Absolute Demonic Front: Babylonia Blu-ray Release Campaign Part II Summoning Campaign"),
+    ("Valentine 2018 Event Revival", "Valentine 2018 Event Revival Summoning Campaign", "Valentine 2018 Event Revival Summoning Campaign (Female)"),
+    ("Valentine 2018 Event Revival", "Valentine 2018 Event Revival Summoning Campaign", "Valentine 2018 Event Revival Summoning Campaign (Male)"),
 )
 
 # NOTE: Used by fix_dates()
@@ -488,6 +492,19 @@ CORRECT_DATES_NA = {
     # 8M Downloads Summoning Campaign - End: 11/21/2019
     # Shimousa Chapter Release Summoning Campaign - End: 10/28/2019
     # FGO Summer 2019 Event Summoning Campaign 3 - Start: 8/12/2019
+    # FGO Summer 2019 Event Summoning Campaign 2 - Start: 8/5/2019
+    # FGO Summer 2018 Event Revival Summoning Campaign 2 - Start: 7/19/2019
+    # FGO Festival 2019 ~2nd Anniversary~ Summoning Campaign - Start: 7/6/2019, End: 7/23/2019
+    # Agartha Chapter Release Summoning Campaign - End: 7/6/2019
+    # Rashomon Event Revival Summoning Campaign - End: 6/6/2019
+    # Fate/Extra CCC Collaboration Event Summoning Campaign 2 - Start: 5/1/2019, End: 5/15/2019
+    # Fate/Extra CCC Event Pre-Release Summoning Campaign - End: 4/22/2019
+    # Shinjuku Chapter Release Summoning Campaign - End: 3/11/2019
+    # 5M Downloads Summoning Campaign - End: 2/6/2019
+    # Moon Goddess Event Revival Summoning Campaign - End: 1/30/2019
+    # Solomon Chapter Release Summoning Campaign - End: 12/31/2018
+    # Babylonia Chapter Release Summoning Campaign - End: 12/31/2018
+    # Christmas 2018 Event Summoning Campaign 2 - Start: 12/2/2018, End: 12/12/2018
 }
 
 # NOTE: Used by parse_event_lists()

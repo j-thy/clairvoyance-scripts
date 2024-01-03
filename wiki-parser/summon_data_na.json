@@ -1532,7 +1532,7 @@
     "region": "NA",
     "banners": [
       {
-        "name": "Valentine 2018 Event Revival Summoning Campaign",
+        "name": "Valentine 2018 Event Revival Summoning Campaign (Female)",
         "start_date": "2/6/2019",
         "end_date": "2/20/2019",
         "date_origin": "event list",
@@ -1555,7 +1555,7 @@
         "num_rateups": 14
       },
       {
-        "name": "Valentine 2018 Event Revival Summoning Campaign",
+        "name": "Valentine 2018 Event Revival Summoning Campaign (Male)",
         "start_date": "2/6/2019",
         "end_date": "2/20/2019",
         "date_origin": "event list",
@@ -1675,24 +1675,6 @@
     ]
   },
   {
-    "name": "Chaldea Boys Collection 2018 Revival",
-    "region": "NA",
-    "banners": [
-      {
-        "name": "Chaldea Boys Collection 2018 Revival Summoning Campaign",
-        "start_date": "3/6/2019",
-        "end_date": "3/20/2019",
-        "date_origin": "event header jp old",
-        "rateups": {
-          "93": "Amakusa Shir\u014d",
-          "94": "Astolfo",
-          "95": "Kid Gil"
-        },
-        "num_rateups": 3
-      }
-    ]
-  },
-  {
     "name": "Chaldea Boys Collection 2019",
     "region": "NA",
     "banners": [
@@ -1713,6 +1695,18 @@
           "160": "Arthur Pendragon (Prototype)"
         },
         "num_rateups": 9
+      },
+      {
+        "name": "Chaldea Boys Collection 2018 Revival Summoning Campaign",
+        "start_date": "3/6/2019",
+        "end_date": "3/20/2019",
+        "date_origin": "event header jp old",
+        "rateups": {
+          "93": "Amakusa Shir\u014d",
+          "94": "Astolfo",
+          "95": "Kid Gil"
+        },
+        "num_rateups": 3
       }
     ]
   },
