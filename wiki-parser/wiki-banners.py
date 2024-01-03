@@ -268,6 +268,7 @@ MERGE_EVENTS_INTO = {
     "Chaldea Boys Collection 2023 Summoning Campaign 2" : "White Day 2023 Event",
     "Chaldea Boys Collection 2023" : "White Day 2023 Event",
     "Valentine 2022 Summoning Campaign Revival" : "Valentine 2023 Event",
+    "Heian-kyo Summoning Campaign 2" : "Heian-kyo Chapter Release",
 }
 
 # NOTE: Used by fix_banner_names()
@@ -286,6 +287,7 @@ BANNER_NAME_FIX = {
     r"Saint Quartz Summon$" : "Summoning Campaign",
     r"Saint Quartz Summon I$" : "Summoning Campaign 1",
     r"Saint Quartz Summon II$" : "Summoning Campaign 2",
+    r"Summon Campaign" : "Summoning Campaign",
     r"Summoning Campaign Friend Point Summon" : "FP Summoning Campaign",
     r"Summoning Campaign Summoning Campaign" : "Summoning Campaign",
     r"Campaign Summoning Campaign" : "Summoning Campaign",
@@ -333,6 +335,7 @@ BANNER_NAME_CHANGE = (
     ("Da Vinci-chan's Choice 2015", "Da Vinci-chan's Choice 2015", "Da Vinci-chan's Choice 2015 Summoning Campaign"),
     ("Okeanos Chapter Release", "Okeanos Summoning Campaign", "Okeanos Chapter Release Summoning Campaign"),
     # NA Events
+    ("Heian-kyo Chapter Release", "Heian-kyo Summoning Campaign 2 Summoning Campaign", "Heian-kyo Summoning Campaign 2"),
 )
 
 # NOTE: Used by fix_dates()
@@ -402,6 +405,11 @@ CORRECT_DATES_NA = {
     # Spring has Sprung Campaign 2023 Summoning Campaign - End: 3/9/2023
     # Saber Wars II Revival Summoning Campaign 2 - Start: 1/11/2023, End: 1/25/2023
     # Happy New Year 2023 Summoning Campaign 2 - Start: 1/2/2023, End: 1/9/2023
+    # Christmas 2022 Event Summoning Campaign 2 - Start: 12/18/2022, End: 12/26/2022
+    # 19M Downloads Summoning Campaign - End: 12/19/2022
+    # Interlude Campaign 15 Summoning Campaign - End: 12/11/2022
+    # Heian-kyo Chapter Release Summoning Campaign - End: 12/4/2022
+    # Heian-kyo Pre-Release Summoning Campaign - End: 11/20/2022
 }
 
 # NOTE: Used by parse_event_lists()

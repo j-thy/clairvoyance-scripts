@@ -475,7 +475,7 @@
     "region": "NA",
     "banners": [
       {
-        "name": "Three Knights and Four Cavalries Summon Summoning Campaign",
+        "name": "Three Knights and Four Cavalries Summoning Campaign",
         "start_date": "2/1/2018",
         "end_date": "2/8/2018",
         "date_origin": "event header jp old",
@@ -603,7 +603,7 @@
     "region": "NA",
     "banners": [
       {
-        "name": "Singularity Summon Summoning Campaign",
+        "name": "Singularity Summoning Campaign",
         "start_date": "3/8/2018",
         "end_date": "3/15/2018",
         "date_origin": "event header jp old",
@@ -620,7 +620,7 @@
         "num_rateups": 8
       },
       {
-        "name": "Singularity Summon Summoning Campaign",
+        "name": "Singularity Summoning Campaign",
         "start_date": "3/8/2018",
         "end_date": "3/15/2018",
         "date_origin": "event header jp old",
@@ -637,7 +637,7 @@
         "num_rateups": 8
       },
       {
-        "name": "Singularity Summon Summoning Campaign",
+        "name": "Singularity Summoning Campaign",
         "start_date": "3/8/2018",
         "end_date": "3/15/2018",
         "date_origin": "event header jp old",
@@ -653,7 +653,7 @@
         "num_rateups": 7
       },
       {
-        "name": "Singularity Summon Summoning Campaign",
+        "name": "Singularity Summoning Campaign",
         "start_date": "3/8/2018",
         "end_date": "3/15/2018",
         "date_origin": "event header jp old",
@@ -669,7 +669,7 @@
         "num_rateups": 7
       },
       {
-        "name": "Singularity Summon Summoning Campaign",
+        "name": "Singularity Summoning Campaign",
         "start_date": "3/8/2018",
         "end_date": "3/15/2018",
         "date_origin": "event header jp old",
@@ -1147,7 +1147,7 @@
     "region": "NA",
     "banners": [
       {
-        "name": "Singularity Summon Campaign September 2018",
+        "name": "Singularity Summoning Campaign September 2018",
         "start_date": "9/25/2018",
         "end_date": "10/3/2018",
         "date_origin": "event header jp old",
@@ -1164,7 +1164,7 @@
         "num_rateups": 8
       },
       {
-        "name": "Singularity Summon Campaign September 2018",
+        "name": "Singularity Summoning Campaign September 2018",
         "start_date": "9/25/2018",
         "end_date": "10/3/2018",
         "date_origin": "event header jp old",
@@ -1179,7 +1179,7 @@
         "num_rateups": 6
       },
       {
-        "name": "Singularity Summon Campaign September 2018",
+        "name": "Singularity Summoning Campaign September 2018",
         "start_date": "9/25/2018",
         "end_date": "10/3/2018",
         "date_origin": "event header jp old",
@@ -1193,7 +1193,7 @@
         "num_rateups": 5
       },
       {
-        "name": "Singularity Summon Campaign September 2018",
+        "name": "Singularity Summoning Campaign September 2018",
         "start_date": "9/25/2018",
         "end_date": "10/3/2018",
         "date_origin": "event header jp old",
@@ -1208,7 +1208,7 @@
         "num_rateups": 6
       },
       {
-        "name": "Singularity Summon Campaign September 2018",
+        "name": "Singularity Summoning Campaign September 2018",
         "start_date": "9/25/2018",
         "end_date": "10/3/2018",
         "date_origin": "event header jp old",
@@ -1225,7 +1225,7 @@
         "num_rateups": 8
       },
       {
-        "name": "Singularity Summon Campaign September 2018",
+        "name": "Singularity Summoning Campaign September 2018",
         "start_date": "9/25/2018",
         "end_date": "10/3/2018",
         "date_origin": "event header jp old",
@@ -1243,7 +1243,7 @@
         "num_rateups": 9
       },
       {
-        "name": "Singularity Summon Campaign September 2018",
+        "name": "Singularity Summoning Campaign September 2018",
         "start_date": "9/25/2018",
         "end_date": "10/3/2018",
         "date_origin": "event header jp old",
@@ -1320,7 +1320,7 @@
     "region": "NA",
     "banners": [
       {
-        "name": "New Interludes and Knights of the Round Table Summon Campaign Knights of the Round Table Summon Summoning Campaign",
+        "name": "New Interludes and Knights of the Round Table Summoning Campaign Knights of the Round Table Summoning Campaign",
         "start_date": "11/7/2018",
         "end_date": "11/20/2018",
         "date_origin": "tab",
@@ -1386,7 +1386,7 @@
     "region": "NA",
     "banners": [
       {
-        "name": "Christmas 2018 Event Summoning Campaign Summon Campaign 1",
+        "name": "Christmas 2018 Event Summoning Campaign 1",
         "start_date": "11/26/2018",
         "end_date": "12/5/2018",
         "date_origin": "event list",
@@ -1396,7 +1396,7 @@
         "num_rateups": 1
       },
       {
-        "name": "Christmas 2018 Event Summoning Campaign Summon Campaign 2",
+        "name": "Christmas 2018 Event Summoning Campaign 2",
         "start_date": "11/26/2018",
         "end_date": "12/5/2018",
         "date_origin": "event list",
@@ -5761,6 +5761,19 @@
           "298": "Watanabe no Tsuna"
         },
         "num_rateups": 2
+      },
+      {
+        "name": "Heian-kyo Summoning Campaign 2",
+        "start_date": "11/27/2022",
+        "end_date": "12/11/2022",
+        "date_origin": "event header jp old",
+        "rateups": {
+          "67": "Medea (Lily)",
+          "79": "Paracelsus von Hohenheim",
+          "80": "Charles Babbage",
+          "299": "Ibuki D\u014dji"
+        },
+        "num_rateups": 4
       }
     ]
   },
@@ -5781,25 +5794,6 @@
           "234": "Beni-Enma"
         },
         "num_rateups": 5
-      }
-    ]
-  },
-  {
-    "name": "Heian-kyo Summoning Campaign 2",
-    "region": "NA",
-    "banners": [
-      {
-        "name": "Heian-kyo Summoning Campaign 2 Summon Summoning Campaign 1",
-        "start_date": "11/27/2022",
-        "end_date": "12/11/2022",
-        "date_origin": "event header jp old",
-        "rateups": {
-          "67": "Medea (Lily)",
-          "79": "Paracelsus von Hohenheim",
-          "80": "Charles Babbage",
-          "299": "Ibuki D\u014dji"
-        },
-        "num_rateups": 4
       }
     ]
   },
