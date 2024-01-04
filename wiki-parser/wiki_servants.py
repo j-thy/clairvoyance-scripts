@@ -72,6 +72,7 @@ class Servant:
 SERVANT_DICT = {}
 
 def parse_servants():
+    print('Parsing servants...')
     # Load the servants page
     site = pywikibot.Site()
     category = pywikibot.Category(site, CATEGORY)
@@ -107,6 +108,7 @@ def parse_servants():
                 break
 
 def write_to_json():
+    print('Writing servant data to JSON...')
     # Save to JSON file
     with open(os.path.join(os.path.dirname(__file__), 'servant_data.json'), 'w') as f:
         json_obj = jsons.dump(SERVANT_DICT)
