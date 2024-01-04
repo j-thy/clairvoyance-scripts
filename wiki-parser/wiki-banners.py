@@ -70,6 +70,7 @@ EXCLUDE_PAGES = (
     "WinFes 2018/19 Commemoration Campaign: Kumamoto",
     "Fate/Apocrypha Event Pre-Release Campaign (US)/Rate Up Schedule",
     "Valentine 2020/Main Info",
+    "Lucky Bag 2024 Summoning Campaign New Year Special",
 )
 
 # Wiki pages with errors that prevent parsing that should be fixed.
@@ -368,6 +369,7 @@ EVENT_LIST_JP = (
     "Event List/2021 Events",
     "Event List/2022 Events",
     "Event List/2023 Events",
+    "Event List/2024 Events",
 )
 
 # List of NA event pages
@@ -379,6 +381,7 @@ EVENT_LIST_NA = (
     "Event List (US)/2021 Events",
     "Event List (US)/2022 Events",
     "Event List (US)/2023 Events",
+    "Event List (US)/2024 Events",
 )
 
 class Event:
@@ -418,8 +421,10 @@ DIR_PATH = os.path.dirname(__file__) # Path to the directory of this file
 SITE = pywikibot.Site() # Wiki site
 EVENT_SET_JP = {} # Dictionary of banners for JP
 EVENT_SET_NA = {} # Dictionary of banners for NA
+PAGES_VISITED = set() # Set of pages visited
 CURRENT_YEAR = 0 # Current year
 CURRENT_REGION = "" # Current region
+PRESENT_YEAR = 2024
 
 # Check if the script is being run in testing mode.
 if len(sys.argv) > 1:
@@ -464,6 +469,30 @@ def date_splitter(date_str):
         date_split = date_split[0].split("～")
     
     return date_split
+
+def get_header_info(page):
+    text = page.text
+    wikicode = mwparserfromhell.parse(text)
+    templates = wikicode.filter_templates()
+    if len(templates) > 0 and (templates[0].name.strip() == "EventHeaderJP" or templates[0].name.strip() == "EventHeaderNA"):
+        # Get the image file
+        image_file = templates[0].get("image").value.strip()
+
+        # Get the raw start date
+        start_date_str = templates[0].get("start").value.strip()
+
+        # Get the raw end date
+        try:
+            end_date_str = templates[0].get("end").value.strip()
+        # If the end date is missing or invalid, set the end date to the start date
+        except ValueError:
+            end_date_str = start_date_str
+        if not end_date_str:
+            end_date_str = start_date_str
+
+        # Parse the start and end date into date objects
+        duration = date_parser(start_date_str, end_date_str, CURRENT_YEAR)
+        return (image_file, duration)
 
 # Parse an FGO wiki page
 def parse(event_set, page, duration, parent=None, image_file=None):
@@ -514,6 +543,7 @@ def parse(event_set, page, duration, parent=None, image_file=None):
 
     # Get the title of the page
     title = page.title()
+    PAGES_VISITED.add(title)
 
     # Do not parse explicitly excluded pages and user blogs.
     if title in EXCLUDE_PAGES or title.startswith("User blog:"):
@@ -1005,6 +1035,26 @@ def parse_event_lists(event_lists, region):
         events.reverse()
         date_list.reverse()
         images.reverse()
+
+        if CURRENT_YEAR == PRESENT_YEAR:
+            current_event_category = pywikibot.Category(SITE, "Current Event" if CURRENT_REGION == "JP" else "Current Event (US)")
+            current_events = []
+            current_date_list = []
+            current_images = []
+            for page in current_event_category.articles():
+                title = page.title()
+                # If title in PAGES_VISITED, skip it
+                if title in PAGES_VISITED or title in events:
+                    continue
+                image_file, duration = get_header_info(page)
+                current_events.append((title, duration, image_file))
+                # Sort current events by starting date in duration
+                current_events.sort(key=lambda x: (x[1][0], x[1][1]))
+            for event in current_events:
+                events.append(event[0])
+                date_list.append(event[1])
+                images.append(event[2])
+
         # Create a dict where the key is the event name and the value is the date of the event.
         event_dates = dict(zip(events, date_list))
         event_images = dict(zip(events, images))

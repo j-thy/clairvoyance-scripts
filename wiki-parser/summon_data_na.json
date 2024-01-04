@@ -7124,5 +7124,37 @@
         "num_rateups": 2
       }
     ]
+  },
+  {
+    "name": "Happy New Year 2024",
+    "region": "NA",
+    "image_file": "HappyNewYear2024US.png",
+    "banners": [
+      {
+        "name": "Happy New Year 2024 Summoning Campaign",
+        "start_date": "12/31/2023",
+        "end_date": "1/10/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "334": "Koyanskaya of Darkness"
+        },
+        "num_rateups": 1
+      },
+      {
+        "name": "Happy New Year 2024 Summoning Campaign 2",
+        "start_date": "1/2/2024",
+        "end_date": "1/8/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "70": "Sc\u00e1thach",
+          "108": "Iskandar",
+          "127": "Leonardo Da Vinci",
+          "154": "\"The Old Man of the Mountain\"",
+          "160": "Arthur Pendragon (Prototype)",
+          "303": "Taira no Kagekiyo"
+        },
+        "num_rateups": 6
+      }
+    ]
   }
 ]

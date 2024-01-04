@@ -8952,5 +8952,36 @@
         "num_rateups": 2
       }
     ]
+  },
+  {
+    "name": "New Year Campaign 2024",
+    "region": "JP",
+    "image_file": "newyear2024_cp.png",
+    "banners": [
+      {
+        "name": "New Year 2024 Summoning Campaign",
+        "start_date": "1/1/2024",
+        "end_date": "1/10/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "3": "Artoria Pendragon (Alter)",
+          "150": "Merlin",
+          "163": "Meltryllis",
+          "180": "Helena Blavatsky (Archer)",
+          "181": "Minamoto no Raik\u014d (Lancer)",
+          "216": "Jeanne d'Arc (Archer)",
+          "279": "Caenis",
+          "280": "Romulus-Quirinus",
+          "292": "Himiko",
+          "311": "Baobhan Sith",
+          "314": "Koyanskaya of Light",
+          "363": "Yamanami Keisuke",
+          "376": "Larva/Tiamat",
+          "378": "Locusta",
+          "402": "Yamato Takeru"
+        },
+        "num_rateups": 15
+      }
+    ]
   }
 ]
