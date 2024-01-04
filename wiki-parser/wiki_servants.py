@@ -112,6 +112,3 @@ def write_to_json():
         json_obj = jsons.dump(SERVANT_DICT)
         # Convert unicode \uXXXX to actual characters
         f.write(json_filter(json.dumps(json_obj, indent=2)).encode().decode('unicode-escape'))
-
-parse_servants()
-write_to_json()

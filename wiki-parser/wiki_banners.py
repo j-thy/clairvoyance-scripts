@@ -414,11 +414,10 @@ class Banner:
         self.end_date = other.end_date
         self.date_origin = other.date_origin
 
-
-TESTING = 0 # Whether the script is being run in testing mode
 SERVANT_DATA = None # Servant data
-DIR_PATH = os.path.dirname(__file__) # Path to the directory of this file
-SITE = pywikibot.Site() # Wiki site
+SERVANT_NAMES = None # Servant data
+DIR_PATH = None # Path to the directory of this file
+SITE = None # Wiki site
 EVENT_SET_JP = {} # Dictionary of banners for JP
 EVENT_SET_NA = {} # Dictionary of banners for NA
 PAGES_VISITED = set() # Set of pages visited
@@ -426,16 +425,21 @@ CURRENT_YEAR = 0 # Current year
 CURRENT_REGION = "" # Current region
 PRESENT_YEAR = 2024
 
-# Check if the script is being run in testing mode.
-if len(sys.argv) > 1:
-    TESTING = int(sys.argv[1])
+def initialize():
+    global SERVANT_DATA
+    global SERVANT_NAMES
+    global DIR_PATH
+    global SITE
 
-# Import the servant data.
-with open(os.path.join(DIR_PATH, 'servant_data.json')) as f:
-    SERVANT_DATA = jsons.loads(f.read())
+    DIR_PATH = os.path.dirname(__file__) # Path to the directory of this file
+    SITE = pywikibot.Site() # Wiki site
 
-# Get the names and IDs of all the servants.
-SERVANT_NAMES = {SERVANT_DATA[servant]['name'] : int(SERVANT_DATA[servant]['id']) for servant in SERVANT_DATA}
+    # Import the servant data.
+    with open(os.path.join(DIR_PATH, 'servant_data.json')) as f:
+        SERVANT_DATA = jsons.loads(f.read())
+
+    # Get the names and IDs of all the servants.
+    SERVANT_NAMES = {SERVANT_DATA[servant]['name'] : int(SERVANT_DATA[servant]['id']) for servant in SERVANT_DATA}
 
 # Parse the raw date range strings into date objects
 def date_parser(start_date, end_date, year):
@@ -1264,11 +1268,3 @@ def parse_and_create(event_list, event_set, region):
     json_obj = jsons.dump(event_list)
     with open(os.path.join(DIR_PATH, FILE_NEW), 'w') as f:
         f.write(json.dumps(json_obj, indent=2, sort_keys=False))
-
-# If TESTING is 1, parse the test pages. Otherwise, parse the Summoning Campaign category.
-if TESTING == 1:
-    parse_test()
-    sys.exit(0)
-
-parse_and_create(EVENT_LIST_NA, EVENT_SET_NA, "NA")
-parse_and_create(EVENT_LIST_JP, EVENT_SET_JP, "JP")
