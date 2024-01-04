@@ -1,6 +1,3 @@
-.env
-credentials.json
-token.json
 banner_data.json
 user-password.py
 pywikibot-*.lwp
