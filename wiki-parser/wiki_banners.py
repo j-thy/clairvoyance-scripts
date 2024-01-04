@@ -437,7 +437,7 @@ def initialize():
     SITE = pywikibot.Site() # Wiki site
 
     # Import the servant data.
-    with open(os.path.join(DIR_PATH, 'servant_data.json')) as f:
+    with open(os.path.join(DIR_PATH, 'servant_details.json')) as f:
         SERVANT_DATA = jsons.loads(f.read())
 
     # Get the names and IDs of all the servants.
