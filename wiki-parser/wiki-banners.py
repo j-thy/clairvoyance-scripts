@@ -6,8 +6,6 @@ import json
 import os
 import re
 import sys
-import shutil
-import difflib
 from tqdm import tqdm
 from datetime import date
 from iteration_utilities import unique_everseen
