@@ -307,7 +307,7 @@ BANNER_NAME_FIX = {
 }
 
 # NOTE: Used by parse_event_lists()
-# Skip parsing certain dates in event list
+# Skip parsing certain dates in event list (pre-2023)
 SKIP_DATES = {
     "Event List/2016 Events": ["|August 22 ~ August 31"],
     "Event List/2017 Events": ["|August 17 ~ September 1", "|July 20 ~ July 29"],
@@ -316,6 +316,19 @@ SKIP_DATES = {
     "Event List (US)/2018 Events": ["|August 6 ~ August 14"],
     "Event List (US)/2019 Events": ["|August 5 ~ August 20", "|July 19 ~ July 28"],
     "Event List (US)/2020 Events": ["|July 23 ~ August 1"],
+}
+
+# Skip parsing certain iamge files in event list (pre-2023)
+SKIP_IMAGE_FILE = {
+    "Event List/2016 Events": ["Banner 100739874.png"],
+    "Event List/2017 Events": ["DeathJailDateUpdate.png", "Summer 2016 re-run part2.png", "Extra CCC Event Banner Real.png"],
+    "Event List/2018 Events": ["DeadHeatRerun2.png"],
+    "Event List/2019 Events": ["Binny ishtar.png"],
+    "Event List (US)/2017 Events": ["66666LikesPart2.png"],
+    "Event List (US)/2018 Events": ["FGO2018BannerPart2US.png"],
+    "Event List (US)/2019 Events": ["DeathJailBannerUS.png", "FGOSummer2018RevivalPart2US.png", "CCCEventTeaserBannerUS.png"],
+    "Event List (US)/2020 Events": ["DeathJailRevivalUS.png"],
+    "Event List (US)/2021 Events": ["BINY2021Banner2US.png"],
 }
 
 # Include certain subpages in an event
@@ -369,9 +382,10 @@ EVENT_LIST_NA = (
 )
 
 class Event:
-    def __init__(self, name, region, banners):
+    def __init__(self, name, region, image_file, banners):
         self.name = name
         self.region = region
+        self.image_file = image_file
         self.banners = banners
     
     def __str__(self):
@@ -452,7 +466,7 @@ def date_splitter(date_str):
     return date_split
 
 # Parse an FGO wiki page
-def parse(event_set, page, duration, parent=None):
+def parse(event_set, page, duration, parent=None, image_file=None):
     # Finds indexes of matching keywords in order to breaks link-style pages into chunks, each with a rateup.
     def create_text_splits(text):
         splits = {}
@@ -775,11 +789,11 @@ def parse(event_set, page, duration, parent=None):
             event_set[parent].banners.extend(banners)
         # If the parent event does not exist, create it
         except KeyError:
-            new_event = Event(parent, CURRENT_REGION, banners)
+            new_event = Event(parent, CURRENT_REGION, image_file, banners)
             event_set[new_event] = new_event
     # If the event is not in the set, add it
     else:
-        new_event = Event(title, CURRENT_REGION, banners)
+        new_event = Event(title, CURRENT_REGION, image_file, banners)
         event_set[new_event] = new_event
 
 # Delete any pre-release events with rateups that are already in the main event
@@ -883,7 +897,7 @@ def rec_check_subpages(event_set, event_page, date, parent_title):
             # Open the summoning campaign page
             summon_page = pywikibot.Page(SITE, summon_name)
             # Parse the summoning campaign page for rateups
-            parse(event_set, summon_page, date, parent_title)
+            parse(event_set, summon_page, date, parent=parent_title)
 
             # Check another level of subpages
             rec_check_subpages(event_set, summon_page, date, parent_title)
@@ -945,6 +959,12 @@ def parse_event_lists(event_lists, region):
                     date_list.append(date_parser(line, line, CURRENT_YEAR) if len(date_split) == 1 \
                                      else date_parser(date_split[0], date_split[1], CURRENT_YEAR))
                     
+            # Find all image links
+            images = re.findall(r'\[\[File:(.*?)\|', text)
+            if event_list in SKIP_IMAGE_FILE:
+                for skip_image in SKIP_IMAGE_FILE[event_list]:
+                    images.remove(skip_image)
+                    
             # Get all the wikilinks in the page
             events = wikicode.filter_wikilinks()
             # Filter out non-event pages
@@ -959,6 +979,8 @@ def parse_event_lists(event_lists, region):
             events = [x.get("event").value.strip() for x in event_templates]
             # Get the start date string of each event
             starts = [x.get("start").value.strip() for x in event_templates]
+            # Get the image file name of each event
+            images = [x.get("image").value.strip() for x in event_templates]
 
             # Get the end date string of each event
             ends = []
@@ -972,20 +994,29 @@ def parse_event_lists(event_lists, region):
             # Parse the start and end date strings into date objects
             date_list = [date_parser(starts[i], ends[i], CURRENT_YEAR) for i in range(len(starts))]
 
+        if len(events) != len(date_list):
+            print(f"Error: Number of events ({len(events)}) does not match number of dates ({len(date_list)})")
+            sys.exit(1)
+        if len(events) != len(images):
+            print(f"Error: Number of events ({len(events)}) does not match number of images ({len(images)})")
+            sys.exit(1)
+
         # Reverse events and date list since events in the event list are listed from newest to oldest
         events.reverse()
         date_list.reverse()
+        images.reverse()
         # Create a dict where the key is the event name and the value is the date of the event.
-        events = dict(zip(events, date_list))
+        event_dates = dict(zip(events, date_list))
+        event_images = dict(zip(events, images))
 
         # Parse each event
-        for event, date in (pbar := tqdm(events.items(), bar_format=BAR_FORMAT)):
+        for event in (pbar := tqdm(events, bar_format=BAR_FORMAT)):
             pbar.set_postfix_str(event)
 
             # Open the event page
             event_page = pywikibot.Page(SITE, event)
             # Parse the event page
-            parse(event_set, event_page, date)
+            parse(event_set, event_page, event_dates[event], image_file=event_images[event])
 
             # Parse any explicitly defined subpages of the event page
             if event_page.title() in INCLUDE_SUBPAGES:
@@ -993,13 +1024,13 @@ def parse_event_lists(event_lists, region):
                     # Open the subpage
                     summon_page = pywikibot.Page(SITE, subpage)
                     # Parse the subpage and set the parent to the event page
-                    parse(event_set, summon_page, date, event_page.title())
+                    parse(event_set, summon_page, event_dates[event], parent=event_page.title())
                     # Remove any pre-release events with rateups that are already in the main event
                     pre_release_remove(event_set)
 
             # Recursively find any summoning campaign subpages
             if event not in ADD_EMPTY_ENTRY:
-                rec_check_subpages(event_set, event_page, date, event_page.title())
+                rec_check_subpages(event_set, event_page, event_dates[event], event_page.title())
 
             # Remove the recently parsed event if it has already been parsed as a subpage
             post_release_remove(event_set)
@@ -1119,7 +1150,7 @@ def remove_us_suffix(event_set):
     for event in event_set:
         for i, banner in enumerate(event_set[event].banners):
             event_set[event].banners[i].name = re.sub(r' \(US\)', '', banner.name)
-        new_event = Event(re.sub(r' \(US\)', '', event.name), event.region, event.banners)
+        new_event = Event(re.sub(r' \(US\)', '', event.name), event.region, event.image_file, event.banners)
         temp_dict[new_event] = new_event
 
     return temp_dict
@@ -1170,6 +1201,7 @@ def parse_and_create(event_list, event_set, region):
         event_list.append({
             'name': event.name,
             'region': event.region,
+            'image_file' : event.image_file,
             'banners': banners,
         })
 

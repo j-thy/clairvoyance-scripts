@@ -2,6 +2,7 @@
   {
     "name": "3M Downloads Campaign",
     "region": "JP",
+    "image_file": "3mdownloads.png",
     "banners": [
       {
         "name": "3M Downloads Pick Up",
@@ -22,6 +23,7 @@
   {
     "name": "Fate/Stay Night Campaign",
     "region": "JP",
+    "image_file": "fsnevent.png",
     "banners": [
       {
         "name": "Fate/Stay Night Summoning Campaign",
@@ -43,6 +45,7 @@
   {
     "name": "Nero Festival",
     "region": "JP",
+    "image_file": "nerofestival.png",
     "banners": [
       {
         "name": "Nero Festival Pick Up",
@@ -62,6 +65,7 @@
   {
     "name": "Moon Goddess Event",
     "region": "JP",
+    "image_file": "artemisevent.png",
     "banners": [
       {
         "name": "Moon Goddess Event Summoning Campaign",
@@ -82,6 +86,7 @@
   {
     "name": "4M Downloads Campaign",
     "region": "JP",
+    "image_file": "4mdownloads.png",
     "banners": [
       {
         "name": "4M Downloads Summoning Campaign",
@@ -102,6 +107,7 @@
   {
     "name": "Orleans Campaign",
     "region": "JP",
+    "image_file": "orleansevent.png",
     "banners": [
       {
         "name": "Orleans Summoning Campaign",
@@ -122,6 +128,7 @@
   {
     "name": "Halloween 2015 Event",
     "region": "JP",
+    "image_file": "hallowelizevent.png",
     "banners": [
       {
         "name": "Halloween 2015 Event Summoning Campaign",
@@ -142,6 +149,7 @@
   {
     "name": "Okeanos Chapter Release",
     "region": "JP",
+    "image_file": "Okeanos release banner.png",
     "banners": [
       {
         "name": "Okeanos Chapter Release Summoning Campaign",
@@ -162,6 +170,7 @@
   {
     "name": "Da Vinci-chan's Choice 2015",
     "region": "JP",
+    "image_file": "Summon 20151118.png",
     "banners": [
       {
         "name": "Da Vinci-chan's Choice 2015 Summoning Campaign",
@@ -182,6 +191,7 @@
   {
     "name": "GUDAGUDA Honnouji Event",
     "region": "JP",
+    "image_file": "honnojievent.png",
     "banners": [
       {
         "name": "GUDAGUDA Honnouji Event Summoning Campaign",
@@ -202,6 +212,7 @@
   {
     "name": "Sc\u00e1thach Campaign",
     "region": "JP",
+    "image_file": "Scathachevent.jpg",
     "banners": [
       {
         "name": "Sc\u00e1thach Summoning Campaign",
@@ -221,6 +232,7 @@
   {
     "name": "Christmas 2015",
     "region": "JP",
+    "image_file": "Altersantaevent.png",
     "banners": [
       {
         "name": "Christmas 2015 Summoning Campaign",
@@ -241,6 +253,7 @@
   {
     "name": "London Chapter Release",
     "region": "JP",
+    "image_file": "Londonrelease.png",
     "banners": [
       {
         "name": "London Chapter Release Summoning Campaign",
@@ -272,6 +285,7 @@
   {
     "name": "New Year Campaign 2016",
     "region": "JP",
+    "image_file": "Newyear2016.png",
     "banners": [
       {
         "name": "New Year Campaign 2016 Summoning Campaign",
@@ -292,6 +306,7 @@
   {
     "name": "Saber Wars Event",
     "region": "JP",
+    "image_file": "saberwars.png",
     "banners": [
       {
         "name": "Saber Wars Event Summoning Campaign",
@@ -310,6 +325,7 @@
   {
     "name": "5M Downloads Campaign",
     "region": "JP",
+    "image_file": "5MilDL_Event_Banner.png",
     "banners": [
       {
         "name": "5M Downloads Summoning Campaign",
@@ -328,6 +344,7 @@
   {
     "name": "Valentine 2016 Event",
     "region": "JP",
+    "image_file": "Valentine_2016_Banner.png",
     "banners": [
       {
         "name": "Valentine 2016 Event Summoning Campaign",
@@ -352,6 +369,7 @@
   {
     "name": "Kara no Kyoukai Collaboration Event",
     "region": "JP",
+    "image_file": "Kara_no_kyoukai_event.png",
     "banners": [
       {
         "name": "Kara no Kyoukai Collaboration Event Summoning Campaign",
@@ -368,6 +386,7 @@
   {
     "name": "Chaldea Boys Collection 2016",
     "region": "JP",
+    "image_file": "Chaldea Boys Collection.png",
     "banners": [
       {
         "name": "Chaldea Boys Collection 2016 Summoning Campaign",
@@ -389,6 +408,7 @@
   {
     "name": "Cries of The Vengeful Demon in the Prison Tower",
     "region": "JP",
+    "image_file": "Avenger_Event.png",
     "banners": [
       {
         "name": "Cries of The Vengeful Demon in the Prison Tower Summoning Campaign",
@@ -405,6 +425,7 @@
   {
     "name": "AnimeJapan 2016 Exhibition Commemoration Campaign",
     "region": "JP",
+    "image_file": "AnimeJapan 2016 Exhibiion Campaign.png",
     "banners": [
       {
         "name": "AnimeJapan 2016 Exhibition Commemoration Summoning Campaign",
@@ -422,6 +443,7 @@
   {
     "name": "E Pluribus Unum Chapter Release",
     "region": "JP",
+    "image_file": "Americabanner.png",
     "banners": [
       {
         "name": "E Pluribus Unum Chapter Release Summoning Campaign",
@@ -463,6 +485,7 @@
   {
     "name": "Da Vinci and The 7 Counterfeit Heroic Spirits",
     "region": "JP",
+    "image_file": "Da Vinci and 7 Fakers.png",
     "banners": [
       {
         "name": "Da Vinci and The 7 Counterfeit Heroic Spirits Summoning Campaign",
@@ -479,6 +502,7 @@
   {
     "name": "Fate/Accel Zero Order Event",
     "region": "JP",
+    "image_file": "Fzeventreal2.png",
     "banners": [
       {
         "name": "Fate/Accel Zero Order (Pre-Event) Summoning Campaign",
@@ -512,6 +536,7 @@
   {
     "name": "Kintoki Summoning Campaign",
     "region": "JP",
+    "image_file": "Kintoki Gacha.png",
     "banners": [
       {
         "name": "Kintoki Summoning Campaign",
@@ -528,6 +553,7 @@
   {
     "name": "Rashomon Event",
     "region": "JP",
+    "image_file": "Banner Ibaraki Douji Event.png",
     "banners": [
       {
         "name": "Rashomon Event Summoning Campaign",
@@ -544,6 +570,7 @@
   {
     "name": "Journey to The West",
     "region": "JP",
+    "image_file": "Journey to the west cover.png",
     "banners": [
       {
         "name": "Journey to The West Summoning Campaign",
@@ -563,6 +590,7 @@
   {
     "name": "6M Downloads Campaign",
     "region": "JP",
+    "image_file": "6M_Downloads_Banner.png",
     "banners": [
       {
         "name": "6M Downloads Summoning Campaign",
@@ -579,6 +607,7 @@
   {
     "name": "Onigashima Event",
     "region": "JP",
+    "image_file": "Onigashima Event.png",
     "banners": [
       {
         "name": "Onigashima Event Summoning Campaign",
@@ -599,6 +628,7 @@
   {
     "name": "Camelot Chapter Release",
     "region": "JP",
+    "image_file": "Camelot Banner.png",
     "banners": [
       {
         "name": "Camelot Chapter Release Summoning Campaign",
@@ -631,6 +661,7 @@
   {
     "name": "FGO Summer Festival 2016 ~1st Anniversary~",
     "region": "JP",
+    "image_file": "Summerbanner.png",
     "banners": [
       {
         "name": "FGO Summer Festival 2016 ~1st Anniversary~ Order-Based Summoning Campaign",
@@ -689,6 +720,7 @@
   {
     "name": "FGO 2016 Summer Event",
     "region": "JP",
+    "image_file": "FGO 2016 Summer.png",
     "banners": [
       {
         "name": "FGO 2016 Summer Event Summoning Campaign 1",
@@ -720,6 +752,7 @@
   {
     "name": "Prisma Causeway Event",
     "region": "JP",
+    "image_file": "Banner 100797458.png",
     "banners": [
       {
         "name": "Prisma Causeway Event Summoning Campaign",
@@ -740,6 +773,7 @@
   {
     "name": "Class-Specified Summoning Campaign",
     "region": "JP",
+    "image_file": "ClassSpecifiedRateUp.png",
     "banners": [
       {
         "name": "Class-Specified Summoning Campaign",
@@ -839,6 +873,7 @@
   {
     "name": "Nero Festival Redux ~2016 Autumn~",
     "region": "JP",
+    "image_file": "Banner 100832456.png",
     "banners": [
       {
         "name": "Nero Festival Redux ~2016 Autumn~ Summoning Campaign",
@@ -859,6 +894,7 @@
   {
     "name": "7M Downloads Campaign",
     "region": "JP",
+    "image_file": "7MDLBanner.png",
     "banners": [
       {
         "name": "7M Downloads Summoning Campaign",
@@ -875,6 +911,7 @@
   {
     "name": "Halloween 2015 Event Re-Run Lite Ver",
     "region": "JP",
+    "image_file": "Halloween Re-Run Lite Ver..png",
     "banners": [
       {
         "name": "Halloween 2015 Event Re-Run Lite Ver Summoning Campaign",
@@ -895,6 +932,7 @@
   {
     "name": "Halloween 2016 Event",
     "region": "JP",
+    "image_file": "Halloween2016ActualBanner.png",
     "banners": [
       {
         "name": "Halloween 2016 Event Summoning Campaign",
@@ -912,6 +950,7 @@
   {
     "name": "Fate/EXTELLA Release Commemoration Campaign",
     "region": "JP",
+    "image_file": "Fate Extella Campaign.png",
     "banners": [
       {
         "name": "Fate/EXTELLA Release Commemoration Summoning Campaign",
@@ -944,6 +983,7 @@
   {
     "name": "Round Table Knights Summoning Campaign",
     "region": "JP",
+    "image_file": "Round Table Bait.png",
     "banners": [
       {
         "name": "Round Table Knights Summoning Campaign",
@@ -968,6 +1008,7 @@
   {
     "name": "Christmas 2015 Re-Run",
     "region": "JP",
+    "image_file": "ReRunChristmas2015Banner.png",
     "banners": [
       {
         "name": "Christmas 2015 Re-Run Summoning Campaign",
@@ -988,6 +1029,7 @@
   {
     "name": "Amakusa Shir\u014d Summoning Campaign",
     "region": "JP",
+    "image_file": "amakusagacha.jpg",
     "banners": [
       {
         "name": "Amakusa Shir\u014d Summoning Campaign",
@@ -1004,6 +1046,7 @@
   {
     "name": "Christmas 2016",
     "region": "JP",
+    "image_file": "Xmas2016bannerreal.png",
     "banners": [
       {
         "name": "Christmas 2016 Summoning Campaign",
@@ -1020,6 +1063,7 @@
   {
     "name": "Altera Summoning Campaign",
     "region": "JP",
+    "image_file": "AttilaGacha.jpg",
     "banners": [
       {
         "name": "Altera Summoning Campaign",
@@ -1036,6 +1080,7 @@
   {
     "name": "Babylonia Chapter Release",
     "region": "JP",
+    "image_file": "Banner 101030245.png",
     "banners": [
       {
         "name": "Babylonia Chapter Release Summoning Campaign",
@@ -1066,6 +1111,7 @@
   {
     "name": "Solomon Chapter Release",
     "region": "JP",
+    "image_file": "SalomonBanner.png",
     "banners": [
       {
         "name": "Solomon Chapter Release Summoning Campaign",
@@ -1082,6 +1128,7 @@
   {
     "name": "New Year Campaign 2017",
     "region": "JP",
+    "image_file": "Happy New Year 2017 Banner.png",
     "banners": [
       {
         "name": "New Year 2017 Summoning Campaign",
@@ -1105,6 +1152,7 @@
   {
     "name": "\"The Old Man of the Mountain\" Summoning Campaign",
     "region": "JP",
+    "image_file": "DW SON OF.jpg",
     "banners": [
       {
         "name": "\"The Old Man of the Mountain\" Summoning Campaign",
@@ -1121,6 +1169,7 @@
   {
     "name": "Moon Goddess Event Re-Run",
     "region": "JP",
+    "image_file": "Moon Goddess Event Rerun Banner.png",
     "banners": [
       {
         "name": "Moon Goddess Event Re-Run Summoning Campaign",
@@ -1141,6 +1190,7 @@
   {
     "name": "Cries of The Vengeful Demon in the Prison Tower Event Re-Run",
     "region": "JP",
+    "image_file": "banner_1011705381.png",
     "banners": [
       {
         "name": "Cries of The Vengeful Demon in the Prison Tower Event Re-Run Summoning Campaign",
@@ -1157,6 +1207,7 @@
   {
     "name": "8M Downloads Campaign",
     "region": "JP",
+    "image_file": "banner_101183705.png",
     "banners": [
       {
         "name": "8M Downloads Summoning Campaign",
@@ -1173,6 +1224,7 @@
   {
     "name": "Valentine 2016 Event Re-Run",
     "region": "JP",
+    "image_file": "Banner 101206832.png",
     "banners": [
       {
         "name": "Valentine 2017 Summoning Campaign 1",
@@ -1229,6 +1281,7 @@
   {
     "name": "Shinjuku Chapter Release",
     "region": "JP",
+    "image_file": "Banner Illusionist.png",
     "banners": [
       {
         "name": "Shinjuku Summoning Campaign 1",
@@ -1258,6 +1311,7 @@
   {
     "name": "Chaldea Boys Collection 2017",
     "region": "JP",
+    "image_file": "CBC2017 Banner.png",
     "banners": [
       {
         "name": "Chaldea Boys Collection 2017 Summoning Campaign",
@@ -1294,6 +1348,7 @@
   {
     "name": "GUDAGUDA Honnouji Event Re-Run",
     "region": "JP",
+    "image_file": "Banner 101286942.png",
     "banners": [
       {
         "name": "GUDAGUDA Honnouji Event Re-Run Summoning Campaign",
@@ -1314,6 +1369,7 @@
   {
     "name": "Class Based Summoning Campaign",
     "region": "JP",
+    "image_file": "Summon 20170405 c5axg.jpg",
     "banners": [
       {
         "name": "Class Based Summoning Campaign",
@@ -1424,6 +1480,7 @@
   {
     "name": "GUDAGUDA Meiji Ishin",
     "region": "JP",
+    "image_file": "Banner 101339862.png",
     "banners": [
       {
         "name": "GUDAGUDA Meiji Ishin Summoning Campaign",
@@ -1441,6 +1498,7 @@
   {
     "name": "SE.RA.PH",
     "region": "JP",
+    "image_file": "SERAPH_banner.png",
     "banners": [
       {
         "name": "Fate/EXTRA CCC\u00d7Fate/Grand Order Summoning Campaign",
@@ -1491,6 +1549,7 @@
   {
     "name": "9M Downloads Campaign",
     "region": "JP",
+    "image_file": "Top banner.png",
     "banners": [
       {
         "name": "9M Downloads Summoning Campaign",
@@ -1509,6 +1568,7 @@
   {
     "name": "Rashomon Event Rerun",
     "region": "JP",
+    "image_file": "RashoumonEventRerun.png",
     "banners": [
       {
         "name": "Rashomon Event Rerun Summoning Campaign",
@@ -1526,6 +1586,7 @@
   {
     "name": "Main Quest 1/2 AP + Shinjuku Summoning Campaign",
     "region": "JP",
+    "image_file": "Shinjukuhalfap.png",
     "banners": [
       {
         "name": "Main Quest 1/2 AP + Shinjuku Summoning Campaign",
@@ -1544,6 +1605,7 @@
   {
     "name": "Onigashima Event Re-Run",
     "region": "JP",
+    "image_file": "OnigashimaLiteBanner.PNG",
     "banners": [
       {
         "name": "Onigashima Event Re-Run Summoning Campaign",
@@ -1568,6 +1630,7 @@
   {
     "name": "Agartha Chapter Release",
     "region": "JP",
+    "image_file": "Agartha banner.png",
     "banners": [
       {
         "name": "Agartha Chapter Release Summoning Campaign",
@@ -1598,6 +1661,7 @@
   {
     "name": "FGO 2016 Summer Event Re-Run",
     "region": "JP",
+    "image_file": "Summer2016 rerun.png",
     "banners": [
       {
         "name": "FGO 2016 Summer Event Re-Run Summoning Campaign 1",
@@ -1629,6 +1693,7 @@
   {
     "name": "FGO THE STAGE Performance Commemoration Campaign",
     "region": "JP",
+    "image_file": "FGO the stage commeration.png",
     "banners": [
       {
         "name": "FGO THE STAGE Performance Commemoration Summoning Campaign",
@@ -1650,6 +1715,7 @@
   {
     "name": "Fate/Grand Order Fes. 2017 \uff5e2nd Anniversary\uff5e",
     "region": "JP",
+    "image_file": "2nd anniversary banner extended.png",
     "banners": [
       {
         "name": "Fate/Grand Order Fes. 2017 \uff5e2nd Anniversary\uff5e Singularity-Based Summoning Campaign",
@@ -1667,6 +1733,7 @@
   {
     "name": "Dead Heat Summer Race!",
     "region": "JP",
+    "image_file": "DeadHeatDateUpdate.png",
     "banners": [
       {
         "name": "Dead Heat Summer Race! Summoning Campaign 1",
@@ -1711,6 +1778,7 @@
   {
     "name": "Fate/kaleid liner Prisma\u2606Illya Movie Premiere Commemoration Campaign",
     "region": "JP",
+    "image_file": "Prisma ilya movie.png",
     "banners": [
       {
         "name": "Fate/kaleid liner Prisma\u2606Illya Movie Premiere Commemoration Summoning Campaign",
@@ -1727,6 +1795,7 @@
   {
     "name": "Class-Based Summoning Campaign",
     "region": "JP",
+    "image_file": "Classbasedscseptember.png",
     "banners": [
       {
         "name": "Class-Based Summoning Campaign",
@@ -1842,6 +1911,7 @@
   {
     "name": "Nero Festival Redux ~2017 Autumn~",
     "region": "JP",
+    "image_file": "NeroFes2017banner.png",
     "banners": [
       {
         "name": "Nero Festival Redux ~2017 Autumn~ Summoning Campaign",
@@ -1860,6 +1930,7 @@
   {
     "name": "KYOMAF2017 Exhibit Commemoration Summoning Campaign",
     "region": "JP",
+    "image_file": "KYOMAF 2017 banner.png",
     "banners": [
       {
         "name": "KYOMAF2017 Exhibit Commemoration Summoning Campaign",
@@ -1883,6 +1954,7 @@
   {
     "name": "10M Downloads Campaign",
     "region": "JP",
+    "image_file": "10M DL2.png",
     "banners": [
       {
         "name": "10M Downloads Summoning Campaign",
@@ -1903,6 +1975,7 @@
   {
     "name": "Halloween 2016 Event Rerun",
     "region": "JP",
+    "image_file": "Halloween2016Rerun.png",
     "banners": [
       {
         "name": "Halloween 2016 Event Rerun Summoning Campaign",
@@ -1923,6 +1996,7 @@
   {
     "name": "FGO THE STAGE Autumn Performance Commemoration Campaign",
     "region": "JP",
+    "image_file": "Musicalcampaignbanner.png",
     "banners": [
       {
         "name": "FGO THE STAGE Autumn Performance Commemoration Summoning Campaign",
@@ -1945,6 +2019,7 @@
   {
     "name": "Fate/stay night Heaven's Feel Premiere Commemoration Campaign",
     "region": "JP",
+    "image_file": "HeavensFeel_banner.png",
     "banners": [
       {
         "name": "Fate/stay night Heaven's Feel Premiere Commemoration Summoning Campaign",
@@ -1968,6 +2043,7 @@
   {
     "name": "Shimosa Chapter Release",
     "region": "JP",
+    "image_file": "Shimosa banner.png",
     "banners": [
       {
         "name": "Shimosa Chapter Release Summoning Campaign",
@@ -2001,6 +2077,7 @@
   {
     "name": "Halloween 2017 Event",
     "region": "JP",
+    "image_file": "Halloween2017TrueBanner.png",
     "banners": [
       {
         "name": "Halloween 2017 Event Summoning Campaign",
@@ -2022,6 +2099,7 @@
   {
     "name": "Interlude Campaign 3",
     "region": "JP",
+    "image_file": "InterludeCampaign3.png",
     "banners": [
       {
         "name": "Interlude Campaign 3 Summoning Campaign",
@@ -2042,6 +2120,7 @@
   {
     "name": "Fate/Apocrypha Anime Broadcast Commemoration Campaign",
     "region": "JP",
+    "image_file": "Fate Apo.png",
     "banners": [
       {
         "name": "Fate/Apocrypha Anime Broadcast Commemoration Summoning Campaign",
@@ -2064,6 +2143,7 @@
   {
     "name": "Christmas 2016 Event Re-run",
     "region": "JP",
+    "image_file": "Christmas2016rerun.png",
     "banners": [
       {
         "name": "Christmas 2016 Event Re-run Summoning Campaign",
@@ -2085,6 +2165,7 @@
   {
     "name": "11M Downloads Campaign",
     "region": "JP",
+    "image_file": "11M_DL.png",
     "banners": [
       {
         "name": "11M Downloads Summoning Campaign",
@@ -2103,6 +2184,7 @@
   {
     "name": "Salem Chapter Release",
     "region": "JP",
+    "image_file": "Salem_banner.png",
     "banners": [
       {
         "name": "Salem Chapter Release Summoning Campaign",
@@ -2131,6 +2213,7 @@
   {
     "name": "Christmas 2017",
     "region": "JP",
+    "image_file": "Xmas2017jp banner.png",
     "banners": [
       {
         "name": "Christmas 2017 Summoning Campaign",
@@ -2151,6 +2234,7 @@
   {
     "name": "New Year Campaign 2018",
     "region": "JP",
+    "image_file": "2018_new_year.png",
     "banners": [
       {
         "name": "New Year Campaign 2018 Summoning Campaign",
@@ -2173,6 +2257,7 @@
   {
     "name": "Da Vinci and The 7 Counterfeit Heroic Spirits Rerun Lite Ver",
     "region": "JP",
+    "image_file": "Davinci_rerun_Banner.png",
     "banners": [
       {
         "name": "Da Vinci and The 7 Counterfeit Heroic Spirits Rerun Lite Ver Summoning Campaign",
@@ -2197,6 +2282,7 @@
   {
     "name": "Setsubun 2018",
     "region": "JP",
+    "image_file": "Setsubun2018_banner2.png",
     "banners": [
       {
         "name": "Setsubun 2018 Summoning Campaign",
@@ -2217,6 +2303,7 @@
   {
     "name": "Fate/EXTRA Last Encore Anime Broadcast Commemoration Campaign",
     "region": "JP",
+    "image_file": "Last Encore Release Banner.png",
     "banners": [
       {
         "name": "Fate/EXTRA Last Encore Anime Broadcast Commemoration Summoning Campaign",
@@ -2238,6 +2325,7 @@
   {
     "name": "Valentine 2018",
     "region": "JP",
+    "image_file": "Valentine2018 banner.png",
     "banners": [
       {
         "name": "Valentine 2018 Summoning Campaign",
@@ -2279,6 +2367,7 @@
   {
     "name": "Kara no Kyoukai Collaboration Event Re-run",
     "region": "JP",
+    "image_file": "KnKRevival Banner.png",
     "banners": [
       {
         "name": "Kara no Kyoukai Collaboration Event Re-run Summoning Campaign",
@@ -2301,6 +2390,7 @@
   {
     "name": "FGO Winter Festival 2017-2018",
     "region": "JP",
+    "image_file": "Fgofes2017-2018 banner.png",
     "banners": [
       {
         "name": "FGO Winter Festival 2017-2018 Summoning Campaign",
@@ -2320,6 +2410,7 @@
   {
     "name": "FGO THE STAGE Blu-ray&DVD Release Commemoration Campaign",
     "region": "JP",
+    "image_file": "FGOTHESTAGEBD.png",
     "banners": [
       {
         "name": "FGO THE STAGE Blu-ray&DVD Release Commemoration Summoning Campaign",
@@ -2341,6 +2432,7 @@
   {
     "name": "12M Downloads Campaign",
     "region": "JP",
+    "image_file": "12M banner.png",
     "banners": [
       {
         "name": "12M Downloads Summoning Campaign",
@@ -2360,6 +2452,7 @@
   {
     "name": "Chaldea Boys Collection 2018",
     "region": "JP",
+    "image_file": "Chaldea Boys Collection 2018 Banner.png",
     "banners": [
       {
         "name": "Chaldea Boys Collection 2018 Summoning Campaign",
@@ -2384,6 +2477,7 @@
   {
     "name": "Saber Wars Event Re-run",
     "region": "JP",
+    "image_file": "Saberwars ReRun.png",
     "banners": [
       {
         "name": "Saber Wars Event Re-run Summoning Campaign",
@@ -2403,6 +2497,7 @@
   {
     "name": "Class-Based Summoning Campaign (April 2018)",
     "region": "JP",
+    "image_file": "Class based gacha campaign april 2018.png",
     "banners": [
       {
         "name": "Class-Based Summoning Campaign (April 2018)",
@@ -2528,6 +2623,7 @@
   {
     "name": "Anastasia Chapter Release",
     "region": "JP",
+    "image_file": "Lostbelt1 banner.png",
     "banners": [
       {
         "name": "Anastasia Chapter Release Summoning Campaign",
@@ -2557,6 +2653,7 @@
   {
     "name": "Journey to The West Re-Run Lite Ver",
     "region": "JP",
+    "image_file": "Journey_to_The_West_ReRun.png",
     "banners": [
       {
         "name": "Journey to The West Re-Run Lite Ver Summoning Campaign",
@@ -2581,6 +2678,7 @@
   {
     "name": "Apocrypha/Inheritance of Glory",
     "region": "JP",
+    "image_file": "Inheritancebanner.png",
     "banners": [
       {
         "name": "Fate/Apocrypha \u00d7 FGO Special Summoning Campaign (Black Faction)",
@@ -2627,6 +2725,7 @@
   {
     "name": "Murder at the KOGETSUKAN",
     "region": "JP",
+    "image_file": "Top_banner-1-.png",
     "banners": [
       {
         "name": "Murder at the KOGETSUKAN Summoning Campaign",
@@ -2652,6 +2751,7 @@
   {
     "name": "GUDAGUDA Meiji Ishin Re-run",
     "region": "JP",
+    "image_file": "Gudaguda_meiji_rerun_banner.png",
     "banners": [
       {
         "name": "GUDAGUDA Meiji Ishin Re-run Summoning Campaign",
@@ -2674,6 +2774,7 @@
   {
     "name": "Okita S\u014dji Summoning Campaign",
     "region": "JP",
+    "image_file": "Okita Souji Summoning Campaign.png",
     "banners": [
       {
         "name": "Okita S\u014dji Summoning Campaign",
@@ -2690,6 +2791,7 @@
   {
     "name": "13M Downloads Campaign",
     "region": "JP",
+    "image_file": "13M_banner.png",
     "banners": [
       {
         "name": "13M Downloads Summoning Campaign",
@@ -2709,6 +2811,7 @@
   {
     "name": "Fate/EXTELLA LINK Release Commemoration Campaign",
     "region": "JP",
+    "image_file": "Fate extalla link banner.png",
     "banners": [
       {
         "name": "Fate/EXTELLA LINK Release Commemoration Summoning Campaign",
@@ -2744,6 +2847,7 @@
   {
     "name": "GUDAGUDA Teito Seihai Kitan",
     "region": "JP",
+    "image_file": "GUDAGUDA_Teito.png",
     "banners": [
       {
         "name": "GUDAGUDA Teito Seihai Kitan Summoning Campaign",
@@ -2765,6 +2869,7 @@
   {
     "name": "Dead Heat Summer Race! Re-run",
     "region": "JP",
+    "image_file": "DeadHeatRerun1.png",
     "banners": [
       {
         "name": "Dead Heat Summer Race! Re-run Summoning Campaign 1",
@@ -2808,6 +2913,7 @@
   {
     "name": "G\u00f6tterd\u00e4mmerung Chapter Release",
     "region": "JP",
+    "image_file": "Gotterdamerung banner.png",
     "banners": [
       {
         "name": "G\u00f6tterd\u00e4mmerung Lostbelt Pre-Release Summoning Campaign",
@@ -2836,6 +2942,7 @@
   {
     "name": "Fate/Grand Order Fes. 2018 \uff5e3rd Anniversary\uff5e",
     "region": "JP",
+    "image_file": "3rdAnnivBanner.png",
     "banners": [
       {
         "name": "Fate/Grand Order Fes. 2018 \uff5e3rd Anniversary\uff5e Singularity-Based Summoning Campaign",
@@ -2910,6 +3017,7 @@
   {
     "name": "Servant Summer Festival! 2018",
     "region": "JP",
+    "image_file": "2018SummerBanner.png",
     "banners": [
       {
         "name": "Servant Summer Festival! 2018 Summoning Campaign 1",
@@ -2952,6 +3060,7 @@
   {
     "name": "Fate/Grand Order Memories Release Commemoration Campaign",
     "region": "JP",
+    "image_file": "Fate_Grand_Order_Memories.png",
     "banners": [
       {
         "name": "Fate/Grand Order Memories Release Commemoration Summoning Campaign",
@@ -2968,6 +3077,7 @@
   {
     "name": "14M Downloads Campaign",
     "region": "JP",
+    "image_file": "14M_Banner.png",
     "banners": [
       {
         "name": "14M Downloads Summoning Campaign",
@@ -2986,6 +3096,7 @@
   {
     "name": "Fate/Accel Zero Order -LAP 2-",
     "region": "JP",
+    "image_file": "FateZeroCollab -Lap 2- Banner.png",
     "banners": [
       {
         "name": "Fate/Accel Zero Order -LAP 2- Summoning Campaign",
@@ -3010,6 +3121,7 @@
   {
     "name": "KYOMAF2018 Exhibit Commemoration Summoning Campaign",
     "region": "JP",
+    "image_file": "KYOMAF2018_summon.png",
     "banners": [
       {
         "name": "KYOMAF2018 Exhibit Commemoration Summoning Campaign",
@@ -3029,6 +3141,7 @@
   {
     "name": "Battle in New York 2018",
     "region": "JP",
+    "image_file": "Binny BannerV2.png",
     "banners": [
       {
         "name": "Battle in New York 2018 Summoning Campaign",
@@ -3047,6 +3160,7 @@
   {
     "name": "Halloween 2017 Event Re-Run",
     "region": "JP",
+    "image_file": "Halloween_2017_Rerun.png",
     "banners": [
       {
         "name": "Halloween 2017 Event Re-Run Summoning Campaign",
@@ -3068,6 +3182,7 @@
   {
     "name": "Interlude Campaign 7",
     "region": "JP",
+    "image_file": "Interlude_Campaign_7.png",
     "banners": [
       {
         "name": "Interlude Campaign 7 Summoning Campaign",
@@ -3087,6 +3202,7 @@
   {
     "name": "Halloween 2018",
     "region": "JP",
+    "image_file": "ONILAND true Banner.png",
     "banners": [
       {
         "name": "Halloween 2018 Summoning Campaign",
@@ -3105,6 +3221,7 @@
   {
     "name": "15M Downloads Campaign",
     "region": "JP",
+    "image_file": "15M DL.png",
     "banners": [
       {
         "name": "15M Downloads Summoning Campaign",
@@ -3124,6 +3241,7 @@
   {
     "name": "Christmas 2017 Event Re-Run",
     "region": "JP",
+    "image_file": "Xmas2017_Rerun_Banner.png",
     "banners": [
       {
         "name": "Christmas 2017 Event Re-Run Summoning Campaign",
@@ -3146,6 +3264,7 @@
   {
     "name": "S I N Chapter Release",
     "region": "JP",
+    "image_file": "Arc2_SIN.png",
     "banners": [
       {
         "name": "S I N Chapter Release Summoning Campaign",
@@ -3177,6 +3296,7 @@
   {
     "name": "Christmas 2018",
     "region": "JP",
+    "image_file": "Xmas2018 True Banner.png",
     "banners": [
       {
         "name": "Christmas 2018 Summoning Campaign",
@@ -3196,6 +3316,7 @@
   {
     "name": "WinFes 2018/19 Commemoration Campaign: Miyagi",
     "region": "JP",
+    "image_file": "Travelling Circus Miyagi Banner.png",
     "banners": [
       {
         "name": "WinFes 2018/19 Commemoration Summoning Campaign",
@@ -3215,6 +3336,7 @@
   {
     "name": "New Year Campaign 2019",
     "region": "JP",
+    "image_file": "2019 new year.png",
     "banners": [
       {
         "name": "New Year Campaign 2019 Summoning Campaign",
@@ -3237,6 +3359,7 @@
   {
     "name": "New Year Event 2019",
     "region": "JP",
+    "image_file": "NY2019 banner.png",
     "banners": [
       {
         "name": "New Year Event 2019 Summoning Campaign 1",
@@ -3269,6 +3392,7 @@
   {
     "name": "FGO THE STAGE Babylonia Performance Commemoration Campaign",
     "region": "JP",
+    "image_file": "FGO the Stage babylonia banner.png",
     "banners": [
       {
         "name": "FGO THE STAGE Babylonia Performance Commemoration Summoning Campaign",
@@ -3286,6 +3410,7 @@
   {
     "name": "Fate/stay night Heaven's Feel II Premiere Commemoration Campaign",
     "region": "JP",
+    "image_file": "FSN HF LB.png",
     "banners": [
       {
         "name": "Fate/stay night Heaven's Feel II Premiere Commemoration Summoning Campaign",
@@ -3305,6 +3430,7 @@
   {
     "name": "WinFes 2018/19 Commemoration Campaign: Osaka",
     "region": "JP",
+    "image_file": "WinFes2019 Osaka.png",
     "banners": [
       {
         "name": "WinFes 2018/19 Commemoration Summoning Campaign 2",
@@ -3322,6 +3448,7 @@
   {
     "name": "Prisma Causeway -Re-install-",
     "region": "JP",
+    "image_file": "Reinstall true banner.png",
     "banners": [
       {
         "name": "Prisma Causeway -Re-install- Summoning Campaign",
@@ -3343,6 +3470,7 @@
   {
     "name": "Valentine 2019",
     "region": "JP",
+    "image_file": "Valentine 2019.png",
     "banners": [
       {
         "name": "Valentine 2019 Summoning Campaign",
@@ -3390,6 +3518,7 @@
   {
     "name": "SE.RA.PH -Second Ballet-",
     "region": "JP",
+    "image_file": "SERAPH-SecondBallet- ExtendedBanner.png",
     "banners": [
       {
         "name": "SE.RA.PH -Second Ballet- Summoning Campaign",
@@ -3422,6 +3551,7 @@
   {
     "name": "The Antiquated Spider Nostalgically Spins Its Thread",
     "region": "JP",
+    "image_file": "Antiquatedspider.png",
     "banners": [
       {
         "name": "Chaldea Boys Collection 2019 Summoning Campaign",
@@ -3453,6 +3583,7 @@
   {
     "name": "Tokugawa Kaiten Meiky\u016b - \u014coku",
     "region": "JP",
+    "image_file": "TokugawaKaitenMeikyuuTrue.png",
     "banners": [
       {
         "name": "Tokugawa Kaiten Meiky\u016b - \u014coku Summoning Campaign 1",
@@ -3482,6 +3613,7 @@
   {
     "name": "16M Downloads Campaign",
     "region": "JP",
+    "image_file": "16M DL banner.png",
     "banners": [
       {
         "name": "16M Downloads Summoning Campaign",
@@ -3498,6 +3630,7 @@
   {
     "name": "GUDAGUDA Teito Seihai Kitan Re-run",
     "region": "JP",
+    "image_file": "GUDAGUDA Teito Rerun.png",
     "banners": [
       {
         "name": "GUDAGUDA Teito Seihai Kitan Re-run Summoning Campaign",
@@ -3520,6 +3653,7 @@
   {
     "name": "Lady Reines Case Files",
     "region": "JP",
+    "image_file": "Lady Reines Case Files.png",
     "banners": [
       {
         "name": "Lord El-Melloi II Case Files Collaboration Pre-campaign Summoning Campaign",
@@ -3550,6 +3684,7 @@
   {
     "name": "Class-Based Summoning Campaign (May 2019)",
     "region": "JP",
+    "image_file": "Class based gacha campaign may 2019.png",
     "banners": [
       {
         "name": "Class-Based Summoning Campaign (May 2019)",
@@ -3692,6 +3827,7 @@
   {
     "name": "A Study in the Dubious Meiho-sou",
     "region": "JP",
+    "image_file": "Meiho-sou banner.png",
     "banners": [
       {
         "name": "A Study in the Dubious Meiho-sou Summoning Campaign",
@@ -3710,6 +3846,7 @@
   {
     "name": "Learn with Manga! F/GO Vol 2 Release Commemoration Campaign",
     "region": "JP",
+    "image_file": "LearnWithMangaFGOVol2 Banner.png",
     "banners": [
       {
         "name": "Learn with Manga! F/GO Vol 2 Release Commemoration Summoning Campaign",
@@ -3730,6 +3867,7 @@
   {
     "name": "Interlude Campaign 9",
     "region": "JP",
+    "image_file": "Interlude Campaign 9.png",
     "banners": [
       {
         "name": "Interlude Campaign 9 Summoning Campaign",
@@ -3749,6 +3887,7 @@
   {
     "name": "Yuga Kshetra Chapter Release",
     "region": "JP",
+    "image_file": "LB4ReleaseBannerTrue.png",
     "banners": [
       {
         "name": "Yuga Kshetra Pre-Release Summoning Campaign",
@@ -3791,6 +3930,7 @@
   {
     "name": "17M Downloads Campaign",
     "region": "JP",
+    "image_file": "17M DL banner.png",
     "banners": [
       {
         "name": "17M Downloads Summoning Campaign",
@@ -3810,6 +3950,7 @@
   {
     "name": "GUDAGUDA Final Honn\u014dji 2019",
     "region": "JP",
+    "image_file": "Gudaguda honnoji 2019 banner.png",
     "banners": [
       {
         "name": "GUDAGUDA Final Honn\u014dji 2019 Summoning Campaign",
@@ -3828,6 +3969,7 @@
   {
     "name": "Servant Summer Festival! 2018 Rerun",
     "region": "JP",
+    "image_file": "Summer2018rerun banner.png",
     "banners": [
       {
         "name": "Servant Summer Festival! 2018 Rerun Summoning Campaign 1",
@@ -3870,6 +4012,7 @@
   {
     "name": "Fate/Grand Order Fes. 2019 \uff5e4th Anniversary\uff5e",
     "region": "JP",
+    "image_file": "4thAnniversaryUpdated.png",
     "banners": [
       {
         "name": "Fate/Grand Order Fes. 2019 \uff5e4th Anniversary\uff5e Summoning Campaign",
@@ -3914,6 +4057,7 @@
   {
     "name": "Las Vegas Official Bout",
     "region": "JP",
+    "image_file": "Summer 2019 Banner.png",
     "banners": [
       {
         "name": "Las Vegas Official Bout Summoning Campaign 1",
@@ -3956,6 +4100,7 @@
   {
     "name": "Interlude Campaign 10",
     "region": "JP",
+    "image_file": "Interlude Campaign 10.png",
     "banners": [
       {
         "name": "Interlude Campaign 10 Summoning Campaign",
@@ -3974,6 +4119,7 @@
   {
     "name": "Class-Based Summoning Campaign (September 2019)",
     "region": "JP",
+    "image_file": "Class Based Rate Up 2019.png",
     "banners": [
       {
         "name": "Class-Based Summoning Campaign (September 2019)",
@@ -4122,6 +4268,7 @@
   {
     "name": "Battle in New York 2019",
     "region": "JP",
+    "image_file": "BinNY2019 Banner.png",
     "banners": [
       {
         "name": "Battle in New York 2019 Summoning Campaign",
@@ -4140,6 +4287,7 @@
   {
     "name": "KYOMAF2019 Exhibit Commemoration Summoning Campaign",
     "region": "JP",
+    "image_file": "KYOMAF2019 summon.png",
     "banners": [
       {
         "name": "KYOMAF2019 Exhibit Commemoration Summoning Campaign",
@@ -4158,6 +4306,7 @@
   {
     "name": "Absolute Demonic Battlefront Babylonia Release Campaign Part I",
     "region": "JP",
+    "image_file": "Babylonia Anime Banner.png",
     "banners": [
       {
         "name": "F/GO - Absolute Demonic Battlefront : Babylonia- Broadcast Summoning Campaign",
@@ -4178,6 +4327,7 @@
   {
     "name": "Halloween 2018 Rerun",
     "region": "JP",
+    "image_file": "ONILAND Rerun Banner.png",
     "banners": [
       {
         "name": "Halloween 2018 Rerun Summoning Campaign",
@@ -4197,6 +4347,7 @@
   {
     "name": "Saber Wars II",
     "region": "JP",
+    "image_file": "Saber Wars 2 Banner.png",
     "banners": [
       {
         "name": "Saber Wars II Pre-Release Summoning Campaign",
@@ -4235,6 +4386,7 @@
   {
     "name": "18M Downloads Campaign",
     "region": "JP",
+    "image_file": "18M DL banner.png",
     "banners": [
       {
         "name": "18M Downloads Summoning Campaign",
@@ -4251,6 +4403,7 @@
   {
     "name": "Fate/Prototype: Fragments of Blue and Silver Drama CD Conclusion Commemoration Campaign",
     "region": "JP",
+    "image_file": "FProto Fragments of Blue and Silver Drama CD Conclusion Commemoration Campaign.png",
     "banners": [
       {
         "name": "Fate/Prototype: Fragments of Sky Silver Drama CD Conclusion Commemoration Summoning Campaign",
@@ -4271,6 +4424,7 @@
   {
     "name": "Christmas 2019",
     "region": "JP",
+    "image_file": "Xmas 2019 banner.png",
     "banners": [
       {
         "name": "Christmas 2019 Summoning Campaign",
@@ -4293,6 +4447,7 @@
   {
     "name": "Interlude Campaign 11",
     "region": "JP",
+    "image_file": "Interlude11.png",
     "banners": [
       {
         "name": "Interlude Campaign 11 Summoning Campaign",
@@ -4312,6 +4467,7 @@
   {
     "name": "Atlantis Chapter Release",
     "region": "JP",
+    "image_file": "Atlantis banner.png",
     "banners": [
       {
         "name": "Atlantis Chapter Release Summoning Campaign",
@@ -4343,6 +4499,7 @@
   {
     "name": "New Year Campaign 2020",
     "region": "JP",
+    "image_file": "Happy New Year 2020.png",
     "banners": [
       {
         "name": "New Year 2020 Summoning Campaign",
@@ -4365,6 +4522,7 @@
   {
     "name": "New Year Event 2019 Re-Run",
     "region": "JP",
+    "image_file": "Enma-tei rerun.png",
     "banners": [
       {
         "name": "New Year Event 2019 Re-Run Summoning Campaign 1",
@@ -4395,6 +4553,7 @@
   {
     "name": "Amazoness.com ~CEO Crisis 2020~",
     "region": "JP",
+    "image_file": "AmazonessDotCom Banner.png",
     "banners": [
       {
         "name": "Amazoness.com ~CEO Crisis 2020~ Summoning Campaign",
@@ -4413,6 +4572,7 @@
   {
     "name": "FGO Epic of Remnant Episode I Comic Release Campaign",
     "region": "JP",
+    "image_file": "Shinjuku comicalize banner.png",
     "banners": [
       {
         "name": "FGO Epic of Remnant Episode I Comic Release Summoning Campaign",
@@ -4432,6 +4592,7 @@
   {
     "name": "Interlude Campaign 12",
     "region": "JP",
+    "image_file": "Interlude12.png",
     "banners": [
       {
         "name": "Interlude Campaign 12 Summoning Campaign",
@@ -4450,6 +4611,7 @@
   {
     "name": "Valentine 2020",
     "region": "JP",
+    "image_file": "Valentine2020 Banner.png",
     "banners": [
       {
         "name": "Valentine 2020 Summoning Campaign",
@@ -4488,6 +4650,7 @@
   {
     "name": "19M Downloads Campaign",
     "region": "JP",
+    "image_file": "19M DL banner.png",
     "banners": [
       {
         "name": "19M Downloads Summoning Campaign",
@@ -4505,6 +4668,7 @@
   {
     "name": "Aeaean Spring Breeze",
     "region": "JP",
+    "image_file": "AeaeaBreeze Banner.png",
     "banners": [
       {
         "name": "Chaldea Boys Collection 2020 Summoning Campaign",
@@ -4545,6 +4709,7 @@
   {
     "name": "Absolute Demonic Battlefront Babylonia Release Campaign Part IV",
     "region": "JP",
+    "image_file": "FGO EP7 Campaign IV.png",
     "banners": [
       {
         "name": "Absolute Demonic Battlefront Babylonia Release Campaign IV Summoning Campaign",
@@ -4566,6 +4731,7 @@
   {
     "name": "Apocrypha/Inheritance of Glory Re-Run",
     "region": "JP",
+    "image_file": "Apocrypha Event -Triumphal- Rerun.png",
     "banners": [
       {
         "name": "Fate/Apocrypha \u00d7 FGO Special Event Summoning Campaign Re-Run",
@@ -4595,6 +4761,7 @@
   {
     "name": "Olympus Chapter Release",
     "region": "JP",
+    "image_file": "OlympusTrueBanner.png",
     "banners": [
       {
         "name": "Olympus Chapter Release Summoning Campaign",
@@ -4622,6 +4789,7 @@
   {
     "name": "20M Downloads Campaign",
     "region": "JP",
+    "image_file": "20M DL Banner.png",
     "banners": [
       {
         "name": "20M DL Summoning Campaign",
@@ -4645,6 +4813,7 @@
   {
     "name": "GUDAGUDA Final Honn\u014dji 2019 Re-Run",
     "region": "JP",
+    "image_file": "GudagudaHonnoji2019 Rerun banner.png",
     "banners": [
       {
         "name": "GUDAGUDA Final Honn\u014dji 2019 Re-Run Summoning Campaign",
@@ -4665,6 +4834,7 @@
   {
     "name": "Fate/Requiem Board Game Apocalypse",
     "region": "JP",
+    "image_file": "Fate requiem collab banner true.png",
     "banners": [
       {
         "name": "Fate/Requiem Collaboration Pre-Release Summoning Campaign",
@@ -4695,6 +4865,7 @@
   {
     "name": "Las Vegas Official Bout Rerun",
     "region": "JP",
+    "image_file": "Summer2019 rerun.png",
     "banners": [
       {
         "name": "Las Vegas Official Bout Rerun Summoning Campaign 1",
@@ -4737,6 +4908,7 @@
   {
     "name": "Interlude Campaign 13",
     "region": "JP",
+    "image_file": "Interlude13.png",
     "banners": [
       {
         "name": "Interlude Campaign 13 Summoning Campaign",
@@ -4756,6 +4928,7 @@
   {
     "name": "Swimsuit + AoE NP Only Summoning Campaign",
     "region": "JP",
+    "image_file": "Swimsuit AoE NP PU.png",
     "banners": [
       {
         "name": "Swimsuit + AoE NP Only Summoning Campaign",
@@ -4829,6 +5002,7 @@
   {
     "name": "SE.RA.PH Main Interlude Release Campaign",
     "region": "JP",
+    "image_file": "SERAPHMainInterludeCampaign.png",
     "banners": [
       {
         "name": "SE.RA.PH Main Interlude Release Summoning Campaign",
@@ -4848,6 +5022,7 @@
   {
     "name": "Tokugawa Kaiten Meiky\u016b - \u014coku Rerun",
     "region": "JP",
+    "image_file": "TokugawaKaitenMeikyuuReRun.png",
     "banners": [
       {
         "name": "Tokugawa Kaiten Meiky\u016b - \u014coku Rerun Summoning Campaign",
@@ -4866,6 +5041,7 @@
   {
     "name": "Fate/Grand Order \uff5e5th Anniversary\uff5e",
     "region": "JP",
+    "image_file": "5th anniv banner.png",
     "banners": [
       {
         "name": "Fate/Grand Order \uff5e5th Anniversary\uff5e Summoning Campaign",
@@ -4883,6 +5059,7 @@
   {
     "name": "Servant Summer Camp 2020",
     "region": "JP",
+    "image_file": "Summer2020Banner.png",
     "banners": [
       {
         "name": "Servant Summer Camp 2020 Summoning Campaign 1",
@@ -4925,6 +5102,7 @@
   {
     "name": "21M Downloads Campaign",
     "region": "JP",
+    "image_file": "21M DL Campaign.png",
     "banners": [
       {
         "name": "21M Downloads Summoning Campaign",
@@ -4946,6 +5124,7 @@
   {
     "name": "Interlude Campaign 14",
     "region": "JP",
+    "image_file": "Interlude14.png",
     "banners": [
       {
         "name": "Interlude Campaign 14 Summoning Campaign",
@@ -4965,6 +5144,7 @@
   {
     "name": "Dance Tournament in the Land of Shadows",
     "region": "JP",
+    "image_file": "Dance Tournament in the Land of Shadows.png",
     "banners": [
       {
         "name": "Dance Tournament in the Land of Shadows Summoning Campaign",
@@ -4984,6 +5164,7 @@
   {
     "name": "GUDAGUDA Summoning Campaign",
     "region": "JP",
+    "image_file": "GUDAGUDASummonBanner.png",
     "banners": [
       {
         "name": "GUDAGUDA Summoning Campaign",
@@ -5002,6 +5183,7 @@
   {
     "name": "GUDAGUDA Yamatai-koku 2020",
     "region": "JP",
+    "image_file": "GUDAGUDA Yamataikoku 2020.png",
     "banners": [
       {
         "name": "GUDAGUDA Yamatai-koku 2020 Summoning Campaign",
@@ -5029,6 +5211,7 @@
   {
     "name": "Christmas 2019 Re-Run",
     "region": "JP",
+    "image_file": "Xmas2019 rerun.png",
     "banners": [
       {
         "name": "Christmas 2019 Re-Run Summoning Campaign",
@@ -5052,6 +5235,7 @@
   {
     "name": "Imaginary Scramble",
     "region": "JP",
+    "image_file": "VoidSpaceNavalBattle-ImaginaryScramble Banner.png",
     "banners": [
       {
         "name": "Imaginary Scramble Pre-Release Summoning Campaign",
@@ -5082,6 +5266,7 @@
   {
     "name": "22M Downloads Campaign",
     "region": "JP",
+    "image_file": "22M DL Campaign.png",
     "banners": [
       {
         "name": "22M Downloads Summoning Campaign",
@@ -5098,6 +5283,7 @@
   {
     "name": "Heian-ky\u014d Chapter Release",
     "region": "JP",
+    "image_file": "Heiankyo LB.png",
     "banners": [
       {
         "name": "Realm of Hell Mandala - Heian-ky\u014d Pre-Release Summoning Campaign",
@@ -5141,6 +5327,7 @@
   {
     "name": "Christmas 2020",
     "region": "JP",
+    "image_file": "Christmas 2020 Banner.png",
     "banners": [
       {
         "name": "Christmas 2020 Summoning Campaign 1",
@@ -5171,6 +5358,7 @@
   {
     "name": "New Year Campaign 2021",
     "region": "JP",
+    "image_file": "New Year 2021.png",
     "banners": [
       {
         "name": "New Year 2021 Summoning Campaign",
@@ -5193,6 +5381,7 @@
   {
     "name": "Saber Wars II Rerun",
     "region": "JP",
+    "image_file": "SW2 Rerun.png",
     "banners": [
       {
         "name": "Saber Wars II Rerun Summoning Campaign 1",
@@ -5221,6 +5410,7 @@
   {
     "name": "Little Big Tengu",
     "region": "JP",
+    "image_file": "Little Big Tengu.png",
     "banners": [
       {
         "name": "Little Big Tengu Summoning Campaign",
@@ -5240,6 +5430,7 @@
   {
     "name": "Holy Grail Front ~Et tu, Brute?~",
     "region": "JP",
+    "image_file": "HolyGrailFrontCaesarEvent.png",
     "banners": [
       {
         "name": "Holy Grail Front ~Et tu, Brute?~ Summoning Campaign",
@@ -5262,6 +5453,7 @@
   {
     "name": "Valentine 2021",
     "region": "JP",
+    "image_file": "Valentine2021 Banner.png",
     "banners": [
       {
         "name": "Valentine 2021 Summoning Campaign",
@@ -5310,6 +5502,7 @@
   {
     "name": "23M Downloads Campaign",
     "region": "JP",
+    "image_file": "23M DL Banner.png",
     "banners": [
       {
         "name": "23M Downloads Summoning Campaign",
@@ -5326,6 +5519,7 @@
   {
     "name": "Slapstick Museum",
     "region": "JP",
+    "image_file": "Slapstick Museum True.png",
     "banners": [
       {
         "name": "Chaldea Boys Collection 2021 Summoning Campaign 1 & 2",
@@ -5371,6 +5565,7 @@
   {
     "name": "Akihabara Explosion",
     "region": "JP",
+    "image_file": "AkihabaraExplosionBanner.png",
     "banners": [
       {
         "name": "Class-Based Summoning Campaign (March 2021)",
@@ -5539,6 +5734,7 @@
   {
     "name": "Spring in Full Bloom Summoning Campaign",
     "region": "JP",
+    "image_file": "SpringinFullBloomSummoningCampaign.png",
     "banners": [
       {
         "name": "Spring in Full Bloom Summoning Campaign",
@@ -5558,6 +5754,7 @@
   {
     "name": "Servant Strengthening Quests Part XIII",
     "region": "JP",
+    "image_file": "StrengtheningQuests13Banner.png",
     "banners": [
       {
         "name": "Servant Strengthening Quests Part XIII Summoning Campaign",
@@ -5579,6 +5776,7 @@
   {
     "name": "FGO x Waltz in the Moonlight Lostroom Collaboration Pre-Release Campaign",
     "region": "JP",
+    "image_file": "FGOxWaltzinMoonlightLostroomCollaborationPreReleaseCampaign.png",
     "banners": [
       {
         "name": "FGO x Waltz in the Moonlight Lostroom Collaboration Pre-Release Summoning Campaign",
@@ -5598,6 +5796,7 @@
   {
     "name": "Grail Live",
     "region": "JP",
+    "image_file": "Grail Live Banner.png",
     "banners": [
       {
         "name": "Grail Live Summoning Campaign 1",
@@ -5631,6 +5830,7 @@
   {
     "name": "Fate/Grand Order -Camelot- The Movie Pre-Release Campaign",
     "region": "JP",
+    "image_file": "CamelotMoviePreReleaseCampaign.png",
     "banners": [
       {
         "name": "Fate/Grand Order -Camelot- The Movie Pre-Release Summoning Campaign",
@@ -5650,6 +5850,7 @@
   {
     "name": "Holy Grail Front ~My Super Camelot 2021~",
     "region": "JP",
+    "image_file": "HolyGrailFrontCamelotBanner.png",
     "banners": [
       {
         "name": "Holy Grail Front ~My Super Camelot 2021~ Summoning Campaign",
@@ -5670,6 +5871,7 @@
   {
     "name": "Servant Summer Camp 2020 Rerun",
     "region": "JP",
+    "image_file": "Summer2020RerunBanner.png",
     "banners": [
       {
         "name": "Servant Summer Camp 2020 Rerun Summoning Campaign 1",
@@ -5713,6 +5915,7 @@
   {
     "name": "Avalon le Fae Chapter Release",
     "region": "JP",
+    "image_file": "AvalonLostbeltBanner.png",
     "banners": [
       {
         "name": "Avalon le Fae Lostbelt Pre-Release Summoning Campaign",
@@ -5752,6 +5955,7 @@
   {
     "name": "Interlude Campaign 16",
     "region": "JP",
+    "image_file": "Interlude16Banner.png",
     "banners": [
       {
         "name": "Interlude Campaign 16 Summoning Campaign",
@@ -5771,6 +5975,7 @@
   {
     "name": "Grand Nero Fest 2021",
     "region": "JP",
+    "image_file": "Nerofes2021.png",
     "banners": [
       {
         "name": "Grand Nero Fest 2021 Summoning Campaign",
@@ -5792,6 +5997,7 @@
   {
     "name": "Avalon le Fae Chapter Release Part 2",
     "region": "JP",
+    "image_file": "AvalonLostbeltBanner2.png",
     "banners": [
       {
         "name": "Avalon le Fae Chapter Release Part 2 Summoning Campaign",
@@ -5809,6 +6015,7 @@
   {
     "name": "Fate/Grand Order \uff5e6th Anniversary\uff5e",
     "region": "JP",
+    "image_file": "6thAnniBanner.png",
     "banners": [
       {
         "name": "Fate/Grand Order \uff5e6th Anniversary\uff5e Commemorative Summoning Campaign",
@@ -5857,6 +6064,7 @@
   {
     "name": "Avalon le Fae Conclusion Campaign",
     "region": "JP",
+    "image_file": "LB6CompletionCampaign.png",
     "banners": [
       {
         "name": "Avalon le Fae Conclusion Summoning Campaign 1",
@@ -5889,6 +6097,7 @@
   {
     "name": "Prisma Illya Licht Movie Release Campaign",
     "region": "JP",
+    "image_file": "KaleidLichtBanner.png",
     "banners": [
       {
         "name": "Prisma Illya Licht Movie Release Summoning Campaign",
@@ -5907,6 +6116,7 @@
   {
     "name": "Chaldea Summer Adventure",
     "region": "JP",
+    "image_file": "Summer2021Banner.png",
     "banners": [
       {
         "name": "Chaldea Summer Adventure Pre-Release Summoning Campaign",
@@ -5972,6 +6182,7 @@
   {
     "name": "Interlude Campaign 17",
     "region": "JP",
+    "image_file": "Interlude17Banner.png",
     "banners": [
       {
         "name": "Interlude Campaign 17 Summoning Campaign",
@@ -5989,6 +6200,7 @@
   {
     "name": "MELTY BLOOD: TYPE LUMINA Saber's Game Entry Commemorative Campaign",
     "region": "JP",
+    "image_file": "MBSaberBanner.png",
     "banners": [
       {
         "name": "MELTY BLOOD: TYPE LUMINA Saber's Game Entry Commemorative Summoning Campaign",
@@ -6005,6 +6217,7 @@
   {
     "name": "Halloween Trilogy",
     "region": "JP",
+    "image_file": "HalloweenTrilogyBanner.png",
     "banners": [
       {
         "name": "Halloween Trilogy Summoning Campaign",
@@ -6035,6 +6248,7 @@
   {
     "name": "Fate/Grand Carnival 2nd Season Blu-ray&DVD Release Commemoration Campaign",
     "region": "JP",
+    "image_file": "FGC2ndBanner.png",
     "banners": [
       {
         "name": "Fate/Grand Carnival 2nd Season Blu-ray&DVD Release Commemoration Summoning Campaign",
@@ -6051,6 +6265,7 @@
   {
     "name": "Halloween 2021 Event",
     "region": "JP",
+    "image_file": "Halloween Rising Banner.png",
     "banners": [
       {
         "name": "Halloween 2021 Event Summoning Campaign 1",
@@ -6080,6 +6295,7 @@
   {
     "name": "Fate/Apocrypha Blu-ray Disc Box&OST Release Commemorative Campaign",
     "region": "JP",
+    "image_file": "ApocryphaReleaseBanner.png",
     "banners": [
       {
         "name": "Fate/Apocrypha Blu-ray Disc Box&OST Release Commemorative Summoning Campaign",
@@ -6109,6 +6325,7 @@
   {
     "name": "GUDAGUDA Yamatai-koku 2020 Rerun",
     "region": "JP",
+    "image_file": "Gudaguda2020RerunBanner.png",
     "banners": [
       {
         "name": "GUDAGUDA Yamatai-koku 2020 Rerun Summoning Campaign",
@@ -6138,6 +6355,7 @@
   {
     "name": "24M Downloads Campaign",
     "region": "JP",
+    "image_file": "24MDLBanner.png",
     "banners": [
       {
         "name": "24M Downloads Summoning Campaign",
@@ -6156,6 +6374,7 @@
   {
     "name": "GUDAGUDA Close Call 2021",
     "region": "JP",
+    "image_file": "Gudaguda2021Banner.png",
     "banners": [
       {
         "name": "GUDAGUDA Close Call 2021 Summoning Campaign 1",
@@ -6189,6 +6408,7 @@
   {
     "name": "Interlude Campaign 18",
     "region": "JP",
+    "image_file": "Interlude18Banner.png",
     "banners": [
       {
         "name": "Interlude Campaign 18 Summoning Campaign",
@@ -6206,6 +6426,7 @@
   {
     "name": "Christmas 2021",
     "region": "JP",
+    "image_file": "Christmas2021Banner.png",
     "banners": [
       {
         "name": "Christmas 2021 Summoning Campaign",
@@ -6225,6 +6446,7 @@
   {
     "name": "Main Quest Clear Aid Campaign Part 4",
     "region": "JP",
+    "image_file": "MQClear4Banner.png",
     "banners": [
       {
         "name": "Avalon le Fae Clear Aid Summoning Campaign",
@@ -6243,6 +6465,7 @@
   {
     "name": "Tunguska Sanctuary",
     "region": "JP",
+    "image_file": "TunguskaSanctuaryBanner.png",
     "banners": [
       {
         "name": "Tunguska Sanctuary Summoning Campaign",
@@ -6260,6 +6483,7 @@
   {
     "name": "New Year Campaign 2022",
     "region": "JP",
+    "image_file": "NewYear2022Banner.png",
     "banners": [
       {
         "name": "New Year 2022 Summoning Campaign",
@@ -6282,6 +6506,7 @@
   {
     "name": "Koyanskaya of Light Summoning Campaign",
     "region": "JP",
+    "image_file": "KoyanskayaofLightSummon.png",
     "banners": [
       {
         "name": "Koyanskaya of Light Summoning Campaign",
@@ -6298,6 +6523,7 @@
   {
     "name": "Lady Reines Case Files Rerun",
     "region": "JP",
+    "image_file": "LadyReinesRerunBanner.png",
     "banners": [
       {
         "name": "Lady Reines Case Files Rerun Summoning Campaign 1",
@@ -6326,6 +6552,7 @@
   {
     "name": "Arc 1 Improvements Part III",
     "region": "JP",
+    "image_file": "1st_improve_banner_3.png",
     "banners": [
       {
         "name": "Prison Tower Free Access Commemorative Summoning Campaign",
@@ -6343,6 +6570,7 @@
   {
     "name": "Arjuna & Karna Summoning Campaign",
     "region": "JP",
+    "image_file": "ArjunaKarnaSummon.png",
     "banners": [
       {
         "name": "Arjuna & Karna Summoning Campaign",
@@ -6360,6 +6588,7 @@
   {
     "name": "Arc 1 Improvements Part IV",
     "region": "JP",
+    "image_file": "1st_improve_banner_4.png",
     "banners": [
       {
         "name": "Merry Christmas from the Underworld Free Access Commemorative Summoning Campaign",
@@ -6377,6 +6606,7 @@
   {
     "name": "Valentine 2022",
     "region": "JP",
+    "image_file": "Valentine2022Banner.png",
     "banners": [
       {
         "name": "Valentine 2022 Pre-Release Summoning Campaign",
@@ -6440,6 +6670,7 @@
   {
     "name": "SE.RA.PH Free Access Commemorative Summoning Campaign",
     "region": "JP",
+    "image_file": "SERAPHFreeAccessSummon.png",
     "banners": [
       {
         "name": "SE.RA.PH Free Access Commemorative Summoning Campaign",
@@ -6459,6 +6690,7 @@
   {
     "name": "15 Bespectacled Intellectuals",
     "region": "JP",
+    "image_file": "WhiteDay2022Banner.png",
     "banners": [
       {
         "name": "Chaldea Boys Collection 2022 / White Day 2022 Summoning Campaign",
@@ -6504,6 +6736,7 @@
   {
     "name": "Road to 7: Lostbelt No.1 Campaign",
     "region": "JP",
+    "image_file": "Roadto7CP1Banner.png",
     "banners": [
       {
         "name": "Road to 7: Lostbelt No.1 Summoning Campaign",
@@ -6524,6 +6757,7 @@
   {
     "name": "Battle in New York 2022",
     "region": "JP",
+    "image_file": "BINY2022Banner.png",
     "banners": [
       {
         "name": "Battle in New York 2022 Summoning Campaign",
@@ -6554,6 +6788,7 @@
   {
     "name": "Road to 7: Lostbelt No.2 Campaign",
     "region": "JP",
+    "image_file": "Roadto7CP2Banner.png",
     "banners": [
       {
         "name": "Road to 7: Lostbelt No.2 Summoning Campaign",
@@ -6575,6 +6810,7 @@
   {
     "name": "Sea Monster Crisis",
     "region": "JP",
+    "image_file": "SeaMonsterCrisisBanner.png",
     "banners": [
       {
         "name": "Sea Monster Crisis Summoning Campaign",
@@ -6603,6 +6839,7 @@
   {
     "name": "FGO x Learn with Manga! Collaboration",
     "region": "JP",
+    "image_file": "MangaCollabBanner.png",
     "banners": [
       {
         "name": "FGO x Learn with Manga! Collaboration Pre-Release Summoning Campaign",
@@ -6647,6 +6884,7 @@
   {
     "name": "25M Downloads Campaign",
     "region": "JP",
+    "image_file": "25MDLBanner.png",
     "banners": [
       {
         "name": "25M Downloads Summoning Campaign 1",
@@ -6681,6 +6919,7 @@
   {
     "name": "Traum Chapter Release",
     "region": "JP",
+    "image_file": "LB6.5Banner.png",
     "banners": [
       {
         "name": "Traum Pre-Release Campaign Part 1 Summoning Campaign",
@@ -6743,6 +6982,7 @@
   {
     "name": "Holy Grail Front ~Moonsault Operation~",
     "region": "JP",
+    "image_file": "HolyGrailFrontMoonsaultBanner.png",
     "banners": [
       {
         "name": "Holy Grail Front ~Moonsault Operation~ Summoning Campaign 1",
@@ -6769,6 +7009,7 @@
   {
     "name": "Road to 7: Lostbelt No.3 Campaign",
     "region": "JP",
+    "image_file": "Roadto7CP3Banner.png",
     "banners": [
       {
         "name": "Road to 7: Lostbelt No.3 Summoning Campaign",
@@ -6792,6 +7033,7 @@
   {
     "name": "Nanmei Yumihari Hakkenden",
     "region": "JP",
+    "image_file": "HakkendenBanner.png",
     "banners": [
       {
         "name": "Nanmei Yumihari Hakkenden Summoning Campaign 1",
@@ -6834,6 +7076,7 @@
   {
     "name": "Main Interlude: \u014coku Release Campaign",
     "region": "JP",
+    "image_file": "MainInterludeOoku.png",
     "banners": [
       {
         "name": "Main Interlude: \u014coku Release Summoning Campaign",
@@ -6853,6 +7096,7 @@
   {
     "name": "Fate/Grand Order \uff5e7th Anniversary\uff5e",
     "region": "JP",
+    "image_file": "7thAnniBanner.png",
     "banners": [
       {
         "name": "Fate/Grand Order \uff5e7th Anniversary\uff5e Countdown Summoning Campaign",
@@ -6913,6 +7157,7 @@
   {
     "name": "Arctic Summer World",
     "region": "JP",
+    "image_file": "Summer2022Banner.png",
     "banners": [
       {
         "name": "Arctic Summer World Summoning Campaign 1",
@@ -6979,6 +7224,7 @@
   {
     "name": "26M Downloads Campaign",
     "region": "JP",
+    "image_file": "26MDLBanner.png",
     "banners": [
       {
         "name": "26M Downloads Summoning Campaign 1",
@@ -7011,6 +7257,7 @@
   {
     "name": "Road to 7: Lostbelt No.4 Campaign",
     "region": "JP",
+    "image_file": "Roadto7CP4Banner.png",
     "banners": [
       {
         "name": "Road to 7: Lostbelt No.4 Summoning Campaign",
@@ -7035,6 +7282,7 @@
   {
     "name": "GUDAGUDA Shin Yamatai-koku 2022",
     "region": "JP",
+    "image_file": "Gudaguda2022Banner.png",
     "banners": [
       {
         "name": "GUDAGUDA Shin Yamatai-koku 2022 Summoning Campaign",
@@ -7073,6 +7321,7 @@
   {
     "name": "Road to 7: Lostbelt No.5 -Atlantis- Campaign",
     "region": "JP",
+    "image_file": "Roadto7CP5.1Banner.png",
     "banners": [
       {
         "name": "Road to 7: Lostbelt No.5 -Atlantis- Summoning Campaign",
@@ -7096,6 +7345,7 @@
   {
     "name": "Road to 7: Lostbelt No.5 -Olympus- Campaign",
     "region": "JP",
+    "image_file": "Roadto7CP5.2Banner.png",
     "banners": [
       {
         "name": "Road to 7: Lostbelt No.5 -Olympus- Summoning Campaign",
@@ -7115,6 +7365,7 @@
   {
     "name": "Halloween 2022 Event",
     "region": "JP",
+    "image_file": "Halloween2022Banner.png",
     "banners": [
       {
         "name": "Halloween 2022 Event Summoning Campaign 1",
@@ -7149,6 +7400,7 @@
   {
     "name": "Main Interlude: Imaginary Scramble Release Campaign",
     "region": "JP",
+    "image_file": "ImaginaryScrambleMIBanner.png",
     "banners": [
       {
         "name": "Main Interlude: Imaginary Scramble Release Summoning Campaign",
@@ -7168,6 +7420,7 @@
   {
     "name": "Singularity Repair Support Campaign",
     "region": "JP",
+    "image_file": "SingularityCPBanner.png",
     "banners": [
       {
         "name": "Singularity Repair Support Summoning Campaign 1",
@@ -7305,6 +7558,7 @@
   {
     "name": "Chaldea Faerie Knight Cup",
     "region": "JP",
+    "image_file": "Faerieknightcup_full.png",
     "banners": [
       {
         "name": "Chaldea Faerie Knight Cup Pre-Release Summoning Campaign",
@@ -7360,6 +7614,7 @@
   {
     "name": "Lostbelt 7 Pre-Release Support Campaign Part 1",
     "region": "JP",
+    "image_file": "Prelb7support1.png",
     "banners": [
       {
         "name": "Lostbelt 7 Pre-Release Support Campaign Part 1 Summoning Campaign",
@@ -7377,6 +7632,7 @@
   {
     "name": "Road to 7: Lostbelt No.6 Campaign",
     "region": "JP",
+    "image_file": "Rt7 LB6 Banner.png",
     "banners": [
       {
         "name": "Road to 7: Lostbelt No.6 Summoning Campaign",
@@ -7398,6 +7654,7 @@
   {
     "name": "Christmas 2020 Re-run",
     "region": "JP",
+    "image_file": "xmas2020rerun.png",
     "banners": [
       {
         "name": "Christmas 2020 Re-run Summoning Campaign",
@@ -7419,6 +7676,7 @@
   {
     "name": "MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dant\u00e8s Game Entry Commemorative Campaign",
     "region": "JP",
+    "image_file": "meltybloodcp3.png",
     "banners": [
       {
         "name": "MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dant\u00e8s Game Entry Commemorative Summoning Campaign",
@@ -7436,6 +7694,7 @@
   {
     "name": "Fate/EXTRA Last Encore BD Standard Edition & OST Release Campaign",
     "region": "JP",
+    "image_file": "lastencorebdnostcp.png",
     "banners": [
       {
         "name": "Fate/EXTRA Last Encore BD Standard Edition & OST Release Summoning Campaign",
@@ -7453,6 +7712,7 @@
   {
     "name": "Lostbelt 7 Pre-Release Support Campaign Part 4",
     "region": "JP",
+    "image_file": "lb7precampaign4.png",
     "banners": [
       {
         "name": "Lostbelt 7 Pre-Release Support Campaign Part 4 Summoning Campaign",
@@ -7469,6 +7729,7 @@
   {
     "name": "FGO Winter Party 2022-2023 Campaign: Hokkaido",
     "region": "JP",
+    "image_file": "winterparty2022-23hokkaido.png",
     "banners": [
       {
         "name": "FGO Winter Party 2022-2023 Campaign: Hokkaido Summoning Campaign",
@@ -7486,6 +7747,7 @@
   {
     "name": "New Year Campaign 2023",
     "region": "JP",
+    "image_file": "newyear2023.png",
     "banners": [
       {
         "name": "New Year 2023 Summoning Campaign",
@@ -7516,6 +7778,7 @@
   {
     "name": "Nahui Mictlan Chapter Release Part 2",
     "region": "JP",
+    "image_file": "LB7Part2ReleaseTrue.png",
     "banners": [
       {
         "name": "Nahui Mictlan Lostbelt Part II Pre-Release Summoning Campaign 1",
@@ -7565,6 +7828,7 @@
   {
     "name": "27M Downloads Campaign",
     "region": "JP",
+    "image_file": "27M DL Campaign.png",
     "banners": [
       {
         "name": "27M DL Summoning Campaign",
@@ -7581,6 +7845,7 @@
   {
     "name": "Valentine 2023",
     "region": "JP",
+    "image_file": "valentine2023true.png",
     "banners": [
       {
         "name": "Valentine 2023 Summoning Campaign",
@@ -7637,6 +7902,7 @@
   {
     "name": "White Day Memorial Summoning Campaign",
     "region": "JP",
+    "image_file": "White Day Memorial.png",
     "banners": [
       {
         "name": "White Day Memorial Summoning Campaign",
@@ -7659,6 +7925,7 @@
   {
     "name": "Tales of Chaldean Heavy Industries",
     "region": "JP",
+    "image_file": "Cbc2023eventbanner02.png",
     "banners": [
       {
         "name": "Chaldea Boys Collection 2023 Summoning Campaign 1",
@@ -7713,6 +7980,7 @@
   {
     "name": "Spring New Master Aid Campaign 2023",
     "region": "JP",
+    "image_file": "new master spring cp2.png",
     "banners": [
       {
         "name": "Spring New Master 2023 Summoning Campaign",
@@ -7734,6 +8002,7 @@
   {
     "name": "Evocation Festival Part 1",
     "region": "JP",
+    "image_file": "feasts cp1.png",
     "banners": [
       {
         "name": "Evocation Festival Part 1 Summoning Campaign 1",
@@ -7770,6 +8039,7 @@
   {
     "name": "Lilim Harlot",
     "region": "JP",
+    "image_file": "lilim harlot.png",
     "banners": [
       {
         "name": "FGO x FGO Arcade Collaboration Pre-Release Summoning Campaign",
@@ -7835,6 +8105,7 @@
   {
     "name": "Evocation Festival Part 2",
     "region": "JP",
+    "image_file": "feasts cp2.png",
     "banners": [
       {
         "name": "Evocation Festival Part 2 Summoning Campaign",
@@ -7856,6 +8127,7 @@
   {
     "name": "Fuun Karakuri Illya's Castle",
     "region": "JP",
+    "image_file": "illya castle.png",
     "banners": [
       {
         "name": "Fuun Karakuri Illya's Castle Summoning Campaign 1",
@@ -7898,6 +8170,7 @@
   {
     "name": "Nero Fest & Battle in NY 2022 Summoning Campaign",
     "region": "JP",
+    "image_file": "NeroFestBattleinNYSummoningCampaign.png",
     "banners": [
       {
         "name": "Nero Fest & Battle in NY 2022 Summoning Campaign",
@@ -7917,6 +8190,7 @@
   {
     "name": "Ordeal Call Release Campaign",
     "region": "JP",
+    "image_file": "ordealcallreleasebanner.png",
     "banners": [
       {
         "name": "Ordeal Call Pre-Release Summoning Campaign",
@@ -7938,6 +8212,7 @@
   {
     "name": "Paper Moon Chapter Release",
     "region": "JP",
+    "image_file": "PaperMoonBanner.png",
     "banners": [
       {
         "name": "Sovereign's Memoir I Pre-Release Summoning Campaign",
@@ -7991,6 +8266,7 @@
   {
     "name": "28M Downloads Campaign",
     "region": "JP",
+    "image_file": "2800man sreum.png",
     "banners": [
       {
         "name": "28M Downloads Summoning Campaign 1",
@@ -8030,6 +8306,7 @@
   {
     "name": "Strange Fake -Whispers of Dawn- Broadcast Commemoration Campaign",
     "region": "JP",
+    "image_file": "F s f cp.png",
     "banners": [
       {
         "name": "Strange Fake -Whispers of Dawn- Broadcast Commemoration Summoning Campaign",
@@ -8047,6 +8324,7 @@
   {
     "name": "Evocation Festival Part 3",
     "region": "JP",
+    "image_file": "feasts cp3.png",
     "banners": [
       {
         "name": "Evocation Festival Part 3 Summoning Campaign",
@@ -8068,6 +8346,7 @@
   {
     "name": "Mystic Eyes Symphony",
     "region": "JP",
+    "image_file": "Mystic eyes.png",
     "banners": [
       {
         "name": "Mystic Eyes Symphony Summoning Campaign 1",
@@ -8124,6 +8403,7 @@
   {
     "name": "Fate/Grand Order \uff5e8th Anniversary\uff5e",
     "region": "JP",
+    "image_file": "8th anniversary amend.png",
     "banners": [
       {
         "name": "FGO 8th Anniversary Pre-Release Summoning Campaign",
@@ -8174,6 +8454,7 @@
   {
     "name": "Servant Summer Festival! 2023",
     "region": "JP",
+    "image_file": "ServaFes2023 actualbanner.png",
     "banners": [
       {
         "name": "Servant Summer Festival! 2023 Summoning Campaign 1",
@@ -8242,6 +8523,7 @@
   {
     "name": "Hunting Quests Part XIII",
     "region": "JP",
+    "image_file": "huntingquest13.png",
     "banners": [
       {
         "name": "Hunting Quests Part XIII Summoning Campaign",
@@ -8269,6 +8551,7 @@
   {
     "name": "Ordeal Call Campaign Part 2",
     "region": "JP",
+    "image_file": "ordeal call cp2.png",
     "banners": [
       {
         "name": "Ordeal Call Campaign Part 2 Summoning Campaign",
@@ -8287,6 +8570,7 @@
   {
     "name": "Evocation Festival Part 4",
     "region": "JP",
+    "image_file": "Feasts cp4.png",
     "banners": [
       {
         "name": "Evocation Festival Part 4 Summoning Campaign",
@@ -8308,6 +8592,7 @@
   {
     "name": "KYOMAF2023 Exhibit Commemoration Campaign",
     "region": "JP",
+    "image_file": "kyoumafu2023 cp.png",
     "banners": [
       {
         "name": "KYOMAF2023 Exhibit Commemoration Summoning Campaign",
@@ -8326,6 +8611,7 @@
   {
     "name": "Wandjina World Tour",
     "region": "JP",
+    "image_file": "Worldtour full cshoh.png",
     "banners": [
       {
         "name": "Wandjina World Tour Summoning Campaign 1",
@@ -8357,6 +8643,7 @@
   {
     "name": "Fate/Samurai Remnant Release Campaign",
     "region": "JP",
+    "image_file": "FSRReleaseCampaign.png",
     "banners": [
       {
         "name": "Fate/Samurai Remnant Release Commemoration Summoning Campaign",
@@ -8377,6 +8664,7 @@
   {
     "name": "Ordeal Call Campaign Part 3",
     "region": "JP",
+    "image_file": "Ordeal call cp3.png",
     "banners": [
       {
         "name": "Ordeal Call Campaign Part 3 Summoning Campaign",
@@ -8397,6 +8685,7 @@
   {
     "name": "Evocation Festival Part 5",
     "region": "JP",
+    "image_file": "EvocationFest5Banner.png",
     "banners": [
       {
         "name": "Evocation Festival Part 5 Summoning Campaign",
@@ -8418,6 +8707,7 @@
   {
     "name": "3,000 Days Anniversary",
     "region": "JP",
+    "image_file": "3000days.png",
     "banners": [
       {
         "name": "3,000 Days Anniversary Summoning Campaign",
@@ -8435,6 +8725,7 @@
   {
     "name": "Grail Front ~White Castle by Day, Black Castle by Night~",
     "region": "JP",
+    "image_file": "Holy grail front4.png",
     "banners": [
       {
         "name": "Grail Front ~White Castle by Day, Black Castle by Night~ Summoning Campaign 1",
@@ -8478,6 +8769,7 @@
   {
     "name": "Ordeal Call Campaign Part 4",
     "region": "JP",
+    "image_file": "Ordeal call cp4.png",
     "banners": [
       {
         "name": "Ordeal Call Campaign Part 4 Summoning Campaign",
@@ -8498,6 +8790,7 @@
   {
     "name": "29M Downloads Campaign",
     "region": "JP",
+    "image_file": "2900man.png",
     "banners": [
       {
         "name": "29M Downloads Summoning Campaign",
@@ -8515,6 +8808,7 @@
   {
     "name": "Evocation Festival Part 6",
     "region": "JP",
+    "image_file": "EvocationFest6Banner.png",
     "banners": [
       {
         "name": "Evocation Festival Part 6 Summoning Campaign",
@@ -8536,6 +8830,7 @@
   {
     "name": "GUDAGUDA Super Goryokaku",
     "region": "JP",
+    "image_file": "Super goryoukaku.png",
     "banners": [
       {
         "name": "GUDAGUDA Super Goryokaku Summoning Campaign 1",
@@ -8602,6 +8897,7 @@
   {
     "name": "Christmas 2023",
     "region": "JP",
+    "image_file": "Christmas2023.png",
     "banners": [
       {
         "name": "Christmas 2023 Summoning Campaign 1",
