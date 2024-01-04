@@ -109,7 +109,7 @@ def parse_servants():
 def write_to_json():
     print('Writing servant data to JSON...')
     # Save to JSON file
-    with open(os.path.join(os.path.dirname(__file__), 'servant_data.json'), 'w') as f:
+    with open(os.path.join(os.path.dirname(__file__), 'servant_details.json'), 'w') as f:
         json_obj = jsons.dump(SERVANT_LIST)
         # Convert unicode \uXXXX to actual characters
         f.write(json_filter(json.dumps(json_obj, indent=2)).encode().decode('unicode-escape'))
