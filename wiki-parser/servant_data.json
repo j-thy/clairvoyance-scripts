@@ -1,5 +1,5 @@
-{
-  "1": {
+[
+  {
     "aliases": "Mash Kyrielight, Mashu Kirielite, Mash, [Fairy Knight Galahad]",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -14,7 +14,7 @@
     "traits": "Costume-Owning, Demi-Servant, Hominidae Servant, Humanoid, Living Human, Riding, Round Table Knight, Servant, Weak to Enuma Elish",
     "voice_actor": "Takahashi Rie"
   },
-  "2": {
+  {
     "aliases": "King of Knights of the Holy Sword, King of Knights, Altria Pendragon, King Arthur, Blue Saber",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -29,7 +29,7 @@
     "traits": "Arthur, Artoria Face, Costume-Owning, Dragon, Hominidae Servant, Humanoid, King, Riding, Round Table Knight, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kawasumi Ayako"
   },
-  "3": {
+  {
     "aliases": "Saber Alter, Dark-Tainted Tyrant, Artoria Alter, Black Saber, Salter",
     "alignment": "Lawful・Evil",
     "attribute": "Man",
@@ -44,7 +44,7 @@
     "traits": "Arthur, Artoria Face, Costume-Owning, Dragon, King, Hominidae Servant, Humanoid, Round Table Knight, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kawasumi Ayako"
   },
-  "4": {
+  {
     "aliases": "Saber Lily, Artoria Lily",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -59,7 +59,7 @@
     "traits": "Arthur, Artoria Face, Dragon, Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kawasumi Ayako"
   },
-  "5": {
+  {
     "aliases": "Emperor of Roses, Red Saber, Nero Claudius Caesar Augustus Germanicus",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
@@ -74,7 +74,7 @@
     "traits": "Artoria Face, Costume-Owning, Hominidae Servant, Humanoid, King, Riding, Roman, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Tange Sakura"
   },
-  "6": {
+  {
     "aliases": "Sigurd, Tenacious Dragon Slayer, Saber of Black, Dragon-Blooded Knight",
     "alignment": "Chaotic・Good",
     "attribute": "Earth",
@@ -89,7 +89,7 @@
     "traits": "Loved One, Costume-Owning, Dragon, Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Suwabe Jun'ichi"
   },
-  "7": {
+  {
     "aliases": "Julius Caesar, Red Saber (Self-Proclaimed)",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
@@ -104,7 +104,7 @@
     "traits": "Loved One, Divinity, Hominidae Servant, Humanoid, King, Riding, Roman, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Okiayu Ryōtarō"
   },
-  "8": {
+  {
     "aliases": "Great King of Destruction, Attila the Hun, Destroyer of Civilization, Etzel, King of Combat",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
@@ -119,7 +119,7 @@
     "traits": "Costume-Owning, Divinity, Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Noto Mamiko"
   },
-  "9": {
+  {
     "aliases": "",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -134,7 +134,7 @@
     "traits": "Loved One, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Tsuruoka Satoshi"
   },
-  "10": {
+  {
     "aliases": "Knight of the White Lily, Maid Knight, Charles-Geneviève-Louis-Auguste-André-Timothée d'Éon de Beaumont",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
@@ -149,7 +149,7 @@
     "traits": "Feminine Looking, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Saitō Chiwa"
   },
-  "11": {
+  {
     "aliases": "Wrought Iron Hero, Emiya Shirou, Nameless/No Name (無銘), Red Archer(赤のアーチャー), Red Bowman, Faker (フェイカー), Hero of Justice (正義の味方),",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
@@ -164,7 +164,7 @@
     "traits": "Loved One, Costume-Owning, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Suwabe Jun'ichi"
   },
-  "12": {
+  {
     "aliases": "King of Heroes, A U O",
     "alignment": "Chaotic・Good",
     "attribute": "Sky",
@@ -179,7 +179,7 @@
     "traits": "Divinity, Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Seki Tomokazu"
   },
-  "13": {
+  {
     "aliases": "Hunter of the Woods, Green Archer",
     "alignment": "Neutral・Good",
     "attribute": "Man",
@@ -194,7 +194,7 @@
     "traits": "Loved One, Costume-Owning, Fairy Tale Servant, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Toriumi Kōsuke"
   },
-  "14": {
+  {
     "aliases": "Hunter of Chastity, Archer of Red, Atalante",
     "alignment": "Neutral・Evil",
     "attribute": "Earth",
@@ -209,7 +209,7 @@
     "traits": "Animal Characteristics Servant, Argo-Related, Moon, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Hayami Saori"
   },
-  "15": {
+  {
     "aliases": "The Far-Flier",
     "alignment": "Chaotic・Good",
     "attribute": "Sky",
@@ -224,7 +224,7 @@
     "traits": "Non-Hominidae Servant, Costume-Owning, Divinity, Divine Spirit, Goddess Servant, Humanoid, Immune to Pigify, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Asakawa Yū"
   },
-  "16": {
+  {
     "aliases": "Arash Kamangir, Āraš-e Kamāngīr",
     "alignment": "Chaotic・Balanced",
     "attribute": "Earth",
@@ -239,7 +239,7 @@
     "traits": "Loved One, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Tsuruoka Satoshi"
   },
-  "17": {
+  {
     "aliases": "Child of Light, Beast of Culann, Sétanta, Hound of Ulster, Coo Hullan, Child of the Sun, Rogue Lancer",
     "alignment": "Lawful・Balanced",
     "attribute": "Sky",
@@ -254,7 +254,7 @@
     "traits": "Loved One, Divinity, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Canna Nobutoshi"
   },
-  "18": {
+  {
     "aliases": "Elisabeth Báthory, Elizabeth Bathory, Blood Countess, Countess Dracula, Eli-Chan",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
@@ -269,7 +269,7 @@
     "traits": "Dragon, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Ōkubo Rumi"
   },
-  "19": {
+  {
     "aliases": "Hitachibou Kaison, Musashibou Benkei",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
@@ -284,7 +284,7 @@
     "traits": "Loved One, Fairy Tale Servant, Genji, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Stout Defender, Weak to Enuma Elish",
     "voice_actor": "Inada Tetsu"
   },
-  "20": {
+  {
     "aliases": "Proto Lancer, Cu Chulainn (Prototype), Sétanta, Hound of Ulster, Coo Hullan (Prototype), Child of the Sun, Child of Light",
     "alignment": "Lawful・Balanced",
     "attribute": "Sky",
@@ -299,7 +299,7 @@
     "traits": "Divinity, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Nakai Kazuya"
   },
-  "21": {
+  {
     "aliases": "",
     "alignment": "Lawful・Balanced",
     "attribute": "Man",
@@ -314,7 +314,7 @@
     "traits": "Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Stout Defender, Weak to Enuma Elish",
     "voice_actor": "Miki Shin'ichirō"
   },
-  "22": {
+  {
     "aliases": "The Divine Ancestor, King of Nation Building, Roma",
     "alignment": "Chaotic・Balanced",
     "attribute": "Star",
@@ -329,7 +329,7 @@
     "traits": "Enuma Elish Nullification, Hominidae Servant, Humanoid, Immune to Pigify, King, Roman, Servant, Seven Knights Servant",
     "voice_actor": "Okiayu Ryōtarō"
   },
-  "23": {
+  {
     "aliases": "Female Monster of Gorgon",
     "alignment": "Chaotic・Good",
     "attribute": "Earth",
@@ -344,7 +344,7 @@
     "traits": "Non-Hominidae Servant, Costume-Owning, Divinity, Divine Spirit, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Asakawa Yū"
   },
-  "24": {
+  {
     "aliases": "Saint George",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -359,7 +359,7 @@
     "traits": "Loved One, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Saizen Tadahisa"
   },
-  "25": {
+  {
     "aliases": "Blackbeard",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
@@ -374,7 +374,7 @@
     "traits": "Costume-Owning, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Saizen Tadahisa"
   },
-  "26": {
+  {
     "aliases": "Queen of Victory",
     "alignment": "Neutral・Good",
     "attribute": "Man",
@@ -389,7 +389,7 @@
     "traits": "Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Saitō Chiwa"
   },
-  "27": {
+  {
     "aliases": "Minamoto no Yoshitsune",
     "alignment": "Chaotic・Balanced",
     "attribute": "Man",
@@ -404,7 +404,7 @@
     "traits": "Loved One, Costume-Owning, Fairy Tale Servant, Genji, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Hayami Saori"
   },
-  "28": {
+  {
     "aliases": "Young Iskandar",
     "alignment": "Neutral・Good",
     "attribute": "Man",
@@ -419,7 +419,7 @@
     "traits": "Child Servant, Divinity, Greek Mythology Male, Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Sakamoto Maaya"
   },
-  "29": {
+  {
     "aliases": "",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -434,7 +434,7 @@
     "traits": "Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Taneda Risa"
   },
-  "30": {
+  {
     "aliases": "Saint Martha, Dragon Rider",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -449,7 +449,7 @@
     "traits": "Divinity, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Hayami Saori"
   },
-  "31": {
+  {
     "aliases": "Witch of Betrayal",
     "alignment": "Neutral・Evil",
     "attribute": "Earth",
@@ -464,7 +464,7 @@
     "traits": "Argo-Related, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Tanaka Atsuko"
   },
-  "32": {
+  {
     "aliases": "Holy Monster, Bluebeard, Demon Marshal",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
@@ -479,7 +479,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Tsuruoka Satoshi"
   },
-  "33": {
+  {
     "aliases": "",
     "alignment": "Lawful・Balanced",
     "attribute": "Man",
@@ -494,7 +494,7 @@
     "traits": "Child Servant, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Koyasu Takehito, Tanaka Rie"
   },
-  "34": {
+  {
     "aliases": "The Greatest Writer, Caster of Red",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
@@ -509,7 +509,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Inada Tetsu"
   },
-  "35": {
+  {
     "aliases": "",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -524,7 +524,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Koyasu Takehito"
   },
-  "36": {
+  {
     "aliases": "Gottlieb",
     "alignment": "Neutral・Good",
     "attribute": "Star",
@@ -539,7 +539,7 @@
     "traits": "Enuma Elish Nullification, Loved One, Hominidae Servant, Humanoid, Servant, Seven Knights Servant",
     "voice_actor": "Seki Tomokazu"
   },
-  "37": {
+  {
     "aliases": "Waver Velvet,\"El-Melloi II\", Great Big Ben London☆Star, Shokatsu Kōmei, Kongming",
     "alignment": "Neutral・Good",
     "attribute": "Man",
@@ -554,7 +554,7 @@
     "traits": "Loved One, Hominidae Servant, Humanoid, Living Human, Pseudo-Servant, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Namikawa Daisuke"
   },
-  "38": {
+  {
     "aliases": "Child of Light, [Grímr the Sage], [Odin's Proxy]",
     "alignment": "Lawful・Balanced",
     "attribute": "Sky",
@@ -569,7 +569,7 @@
     "traits": "Loved One, Divinity, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Canna Nobutoshi"
   },
-  "39": {
+  {
     "aliases": "Nameless Master, Nameless Samurai, Tsuda, Sasaki Kojirou, REGEND, Sasaki Ganryu",
     "alignment": "Neutral・Evil",
     "attribute": "Man",
@@ -584,7 +584,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Miki Shin'ichirō"
   },
-  "40": {
+  {
     "aliases": "Assassin of The White Skull, True Assassin, Hanam, Cursed Arm Hassan",
     "alignment": "Lawful・Evil",
     "attribute": "Man",
@@ -599,7 +599,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Inada Tetsu"
   },
-  "41": {
+  {
     "aliases": "",
     "alignment": "Chaotic・Good",
     "attribute": "Sky",
@@ -614,7 +614,7 @@
     "traits": "Non-Hominidae Servant, Divinity, Divine Spirit, Goddess Servant, Humanoid, Immune to Pigify, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Asakawa Yū"
   },
-  "42": {
+  {
     "aliases": "Keika",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
@@ -629,7 +629,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Tanaka Atsuko"
   },
-  "43": {
+  {
     "aliases": "",
     "alignment": "Lawful・Evil",
     "attribute": "Man",
@@ -644,7 +644,7 @@
     "traits": "Costume-Owning, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Miyano Mamoru"
   },
-  "44": {
+  {
     "aliases": "Erik, Berserker of Shinjuku, Angel of Music",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -659,7 +659,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Okiayu Ryōtarō"
   },
-  "45": {
+  {
     "aliases": "Margaretha Geertruida Zelle, The Girl Who Has Sunny Eyes",
     "alignment": "Chaotic・Balanced",
     "attribute": "Man",
@@ -674,7 +674,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Taneda Risa"
   },
-  "46": {
+  {
     "aliases": "Elizabeth Báthory",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -689,7 +689,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Tanaka Atsuko"
   },
-  "47": {
+  {
     "aliases": "The Immortal Great Hero, Hércules",
     "alignment": "Chaotic・Insane",
     "attribute": "Sky",
@@ -704,7 +704,7 @@
     "traits": "Argo-Related, Divinity, Greek Mythology Male, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Saizen Tadahisa"
   },
-  "48": {
+  {
     "aliases": "Knight of the Lake, Black Knight, Mad Dog",
     "alignment": "Lawful・Insane",
     "attribute": "Earth",
@@ -719,7 +719,7 @@
     "traits": "Hominidae Servant, Humanoid, Round Table Knight, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Okiayu Ryōtarō"
   },
-  "49": {
+  {
     "aliases": "General of Repetition, Lü Bu Fengxian, Ryo Fu",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
@@ -734,7 +734,7 @@
     "traits": "Hominidae Servant, Humanoid, Mechanical, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Yasui Kunihiko"
   },
-  "50": {
+  {
     "aliases": "Gladiator of Thrace, Berserker of Red",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
@@ -749,7 +749,7 @@
     "traits": "Hominidae Servant, Humanoid, Roman, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Tsuruoka Satoshi"
   },
-  "51": {
+  {
     "aliases": "Kintarō, Kaidōmaru, Shimenosuke, Golden",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -764,7 +764,7 @@
     "traits": "Loved One, Costume-Owning, Divinity, Fairy Tale Servant, Genji, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Yusa Kōji"
   },
-  "52": {
+  {
     "aliases": "Lord Impaler, Lancer of Black, Vlad Ţepeş, Count Dracula",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -779,7 +779,7 @@
     "traits": "Loved One, Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Stout Defender, Weak to Enuma Elish",
     "voice_actor": "Okiayu Ryōtarō"
   },
-  "53": {
+  {
     "aliases": "Minotaur",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -794,7 +794,7 @@
     "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Child Servant, Demonic Beast Servant, Giant, Greek Mythology Male, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Toriumi Kōsuke"
   },
-  "54": {
+  {
     "aliases": "Emperor of Death",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
@@ -809,7 +809,7 @@
     "traits": "Hominidae Servant, Humanoid, King, Roman, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Tsuruoka Satoshi"
   },
-  "55": {
+  {
     "aliases": "",
     "alignment": "Lawful・Balanced",
     "attribute": "Man",
@@ -824,7 +824,7 @@
     "traits": "Giant, Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Yasui Kunihiko"
   },
-  "56": {
+  {
     "aliases": "",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -839,7 +839,7 @@
     "traits": "Child Servant, Dragon, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Taneda Risa"
   },
-  "57": {
+  {
     "aliases": "Bloodaxe King, Eric Haraldsson",
     "alignment": "Chaotic・Balanced",
     "attribute": "Man",
@@ -854,7 +854,7 @@
     "traits": "Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Yasui Kunihiko"
   },
-  "58": {
+  {
     "aliases": "",
     "alignment": "Chaotic・Good",
     "attribute": "Earth",
@@ -869,7 +869,7 @@
     "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Costume-Owning, Demonic Beast Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish, Wild Beast",
     "voice_actor": "Saitō Chiwa"
   },
-  "59": {
+  {
     "aliases": "Holy Maiden of Salvation, Joan of Arc, Juana de Arco, La Pucelle d'Orléans, The Maiden of Orleans, St. Joan, Joanna d'arc",
     "alignment": "Lawful・Good",
     "attribute": "Star",
@@ -884,7 +884,7 @@
     "traits": "Artoria Face, Costume-Owning, Hominidae Servant, Humanoid, Servant, Weak to Enuma Elish",
     "voice_actor": "Sakamoto Maaya"
   },
-  "60": {
+  {
     "aliases": "Artemis",
     "alignment": "Chaotic・Balanced",
     "attribute": "Sky",
@@ -899,7 +899,7 @@
     "traits": "Levitating Servant, Greek Mythology Male, Hominidae Servant, Humanoid, Immune to Pigify, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Canna Nobutoshi, Sawashiro Miyuki"
   },
-  "61": {
+  {
     "aliases": "Hallo-Eli, Elisabeth Báthory (Halloween)",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
@@ -914,7 +914,7 @@
     "traits": "Dragon, Levitating Servant, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Ōkubo Rumi"
   },
-  "62": {
+  {
     "aliases": "Fox Priestess of Peerless Beauty, Cas-ko, Mizukume",
     "alignment": "Neutral・Evil",
     "attribute": "Sky",
@@ -929,7 +929,7 @@
     "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Demonic Beast Servant, Divinity, Divine Spirit, Goddess Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Saitō Chiwa"
   },
-  "63": {
+  {
     "aliases": "",
     "alignment": "Lawful・Balanced",
     "attribute": "Sky",
@@ -944,7 +944,7 @@
     "traits": "Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Nakamura Yūichi"
   },
-  "64": {
+  {
     "aliases": "Hektor, Hector of the Gleaming Helmet",
     "alignment": "Lawful・Balanced",
     "attribute": "Man",
@@ -959,7 +959,7 @@
     "traits": "Greek Mythology Male, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Yasui Kunihiko"
   },
-  "65": {
+  {
     "aliases": "Voyager of the Storm, El Draque, King of Storms, King of Ghosts",
     "alignment": "Chaotic・Evil",
     "attribute": "Star",
@@ -974,7 +974,7 @@
     "traits": "Enuma Elish Nullification, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant",
     "voice_actor": "Takano Urara"
   },
-  "66": {
+  {
     "aliases": "",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
@@ -989,7 +989,7 @@
     "traits": "Group Servant, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Nonaka Ai, Kawasumi Ayako"
   },
-  "67": {
+  {
     "aliases": "",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -1004,7 +1004,7 @@
     "traits": "Argo-Related, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Nonaka Ai"
   },
-  "68": {
+  {
     "aliases": "Okita Souji, Sakura Saber",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
@@ -1019,7 +1019,7 @@
     "traits": "Artoria Face, Costume-Owning, Hominidae Servant, Humanoid, Riding, Servant, Shinsengumi Servant, Weak to Enuma Elish",
     "voice_actor": "Yūki Aoi"
   },
-  "69": {
+  {
     "aliases": "Demon King of the Sixth Heaven, Demon Archer, Big Fool of Owari, Nobu",
     "alignment": "Lawful・Balanced",
     "attribute": "Man",
@@ -1034,7 +1034,7 @@
     "traits": "Hominidae Servant, Humanoid, King, Nobunaga, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kugimiya Rie"
   },
-  "70": {
+  {
     "aliases": "Queen of the Land of Shadows, Witch of Dún Scáith, Lord of Spirits, Shishō",
     "alignment": "Neutral・Good",
     "attribute": "Star",
@@ -1049,7 +1049,7 @@
     "traits": "Costume-Owning, Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Noto Mamiko"
   },
-  "71": {
+  {
     "aliases": "Beautiful Young Warrior, Diarmuid O'Dyna, Diarmuid of the Love Spot",
     "alignment": "Lawful・Balanced",
     "attribute": "Earth",
@@ -1064,7 +1064,7 @@
     "traits": "Loved One, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Midorikawa Hikaru"
   },
-  "72": {
+  {
     "aliases": "",
     "alignment": "Lawful・Balanced",
     "attribute": "Earth",
@@ -1079,7 +1079,7 @@
     "traits": "Loved One, Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kuroda Takaya"
   },
-  "73": {
+  {
     "aliases": "",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -1094,7 +1094,7 @@
     "traits": "Arthur, Artoria Face, Dragon, Hominidae Servant, Humanoid, King, Riding, Round Table Knight, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kawasumi Ayako"
   },
-  "74": {
+  {
     "aliases": "Alice",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
@@ -1109,7 +1109,7 @@
     "traits": "Non-Hominidae Servant, Fairy Tale Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Nonaka Ai"
   },
-  "75": {
+  {
     "aliases": "Innocent Murderer, 切り裂きジャック, Assassin of Black, Legendary Serial Killer",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -1124,7 +1124,7 @@
     "traits": "Child Servant, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Tange Sakura"
   },
-  "76": {
+  {
     "aliases": "Knight of Treachery, Saber of Red, The Knight of Londinium, Mordred the Silent, Mo-san (モーさん)",
     "alignment": "Chaotic・Balanced",
     "attribute": "Earth",
@@ -1139,7 +1139,7 @@
     "traits": "Artoria Face, Costume-Owning, Dragon, Hominidae Servant, Humanoid, Riding, Round Table Knight, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Sawashiro Miyuki"
   },
-  "77": {
+  {
     "aliases": "Dr. Raiden, The Modern Prometheus, Godlike Genius",
     "alignment": "Chaotic・Good",
     "attribute": "Star",
@@ -1154,7 +1154,7 @@
     "traits": "Enuma Elish Nullification, Loved One, Hominidae Servant, Humanoid, Servant, Seven Knights Servant",
     "voice_actor": "Inada Tetsu"
   },
-  "78": {
+  {
     "aliases": "Artoria Lancer, King of Storms",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
@@ -1169,7 +1169,7 @@
     "traits": "Arthur, Artoria Face, Dragon, King, Hominidae Servant, Humanoid, Riding, Round Table Knight, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kawasumi Ayako"
   },
-  "79": {
+  {
     "aliases": "",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
@@ -1184,7 +1184,7 @@
     "traits": "Loved One, Costume-Owning, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Miki Shin'ichirō"
   },
-  "80": {
+  {
     "aliases": "Dream of Steam, King of Steam, Father of the Computer",
     "alignment": "Chaotic・Balanced",
     "attribute": "Man",
@@ -1199,7 +1199,7 @@
     "traits": "Hominidae Servant, Humanoid, Immune to Pigify, Mechanical, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Inada Tetsu"
   },
-  "81": {
+  {
     "aliases": "Double Entities, Dr. Jekyll and Mr. Hyde, Edward Hyde",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -1214,7 +1214,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Miyano Mamoru"
   },
-  "82": {
+  {
     "aliases": "Innocent Bride, Berserker of Black, Fran, Frankenstein's Monster",
     "alignment": "Chaotic・Balanced",
     "attribute": "Earth",
@@ -1229,7 +1229,7 @@
     "traits": "Hominidae Servant, Humanoid, Mechanical, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Nonaka Ai"
   },
-  "83": {
+  {
     "aliases": "Grand Caster, King of Magic, [Solomon-Goetia], [The Four Devoting Pillars]",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
@@ -1244,7 +1244,7 @@
     "traits": "Non-Hominidae Servant, Humanoid, King, Servant, Weak to Enuma Elish",
     "voice_actor": "Sugita Tomokazu"
   },
-  "84": {
+  {
     "aliases": "The Endowed Hero, Silent Sniper, Rogue Archer, The Man of Rectitude",
     "alignment": "Lawful・Balanced",
     "attribute": "Sky",
@@ -1259,7 +1259,7 @@
     "traits": "Costume-Owning, Divinity, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Shimazaki Nobunaga"
   },
-  "85": {
+  {
     "aliases": "Hero of Charity, Lancer of Red, Son of the Sun God, Launcher, Karno, Hero of Benefaction",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
@@ -1274,7 +1274,7 @@
     "traits": "Loved One, Costume-Owning, Divinity, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Yusa Kōji"
   },
-  "86": {
+  {
     "aliases": "MHX, A-X, Mysterious Racer X (Summer Event)",
     "alignment": "Chaotic・Good",
     "attribute": "Star",
@@ -1289,7 +1289,7 @@
     "traits": "Enuma Elish Nullification, Arthur, Artoria Face, Costume-Owning, Dragon, Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant",
     "voice_actor": "Kawasumi Ayako"
   },
-  "87": {
+  {
     "aliases": "Finn MacCool, Finn MacCoul",
     "alignment": "Neutral・Balanced",
     "attribute": "Sky",
@@ -1304,7 +1304,7 @@
     "traits": "Divinity, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Miki Shin'ichirō"
   },
-  "88": {
+  {
     "aliases": "Brynhild (Brünnhilde), Sigrdrífa, Brunilda",
     "alignment": "Neutral・Good",
     "attribute": "Sky",
@@ -1319,7 +1319,7 @@
     "traits": "Non-Hominidae Servant, Divinity, Divine Spirit, Levitating Servant, Humanoid, Riding, Servant, Seven Knights Servant, Valkyrie (Trait), Weak to Enuma Elish",
     "voice_actor": "Noto Mamiko"
   },
-  "89": {
+  {
     "aliases": "King of Savagery",
     "alignment": "Chaotic・Good",
     "attribute": "Earth",
@@ -1334,7 +1334,7 @@
     "traits": "Loved One, Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Nakai Kazuya"
   },
-  "90": {
+  {
     "aliases": "Saber Bride",
     "alignment": "Chaotic・Bride",
     "attribute": "Man",
@@ -1349,7 +1349,7 @@
     "traits": "Artoria Face, Hominidae Servant, Humanoid, King, Riding, Roman, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Tange Sakura"
   },
-  "91": {
+  {
     "aliases": "「Ryōgi Shiki」, Void Shiki, Saber Shiki",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
@@ -1364,7 +1364,7 @@
     "traits": "Enuma Elish Nullification, Costume-Owning, Hominidae Servant, Humanoid, Immune to Pigify, Servant, Seven Knights Servant",
     "voice_actor": "Sakamoto Maaya"
   },
-  "92": {
+  {
     "aliases": "Ryougi Shiki",
     "alignment": "Chaotic ・ Good",
     "attribute": "Man",
@@ -1379,7 +1379,7 @@
     "traits": "Enuma Elish Nullification, Hominidae Servant, Humanoid, Living Human, Servant",
     "voice_actor": "Sakamoto Maaya"
   },
-  "93": {
+  {
     "aliases": "The One who Sought for an Endless Dream, Amakusa Shirou,, Amakusa Shirō Tokisada, Shirō Kotomine",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -1394,7 +1394,7 @@
     "traits": "Costume-Owning, Hominidae Servant, Humanoid, Servant, Weak to Enuma Elish",
     "voice_actor": "Uchiyama Kōki"
   },
-  "94": {
+  {
     "aliases": "Knight of Evaporated Sanity Rider of Black, Sailor Paladin",
     "alignment": "Chaotic・Good",
     "attribute": "Earth",
@@ -1409,7 +1409,7 @@
     "traits": "Costume-Owning, Feminine Looking, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Ōkubo Rumi"
   },
-  "95": {
+  {
     "aliases": "Ko-Gil, Young Gil, Child Gil, Gil-kun, Gilgamesh (Child)",
     "alignment": "Chaotic・Good",
     "attribute": "Sky",
@@ -1424,7 +1424,7 @@
     "traits": "Child Servant, Divinity, Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Endō Aya"
   },
-  "96": {
+  {
     "aliases": "The Count of Monte Cristo, The King of the Cavern",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
@@ -1439,7 +1439,7 @@
     "traits": "Costume-Owning, Hominidae Servant, Humanoid, Servant, Weak to Enuma Elish",
     "voice_actor": "Shimazaki Nobunaga"
   },
-  "97": {
+  {
     "aliases": "Angel of Crimea, Florence Nightingale, Mercédès, The White Cloth of Steel, The Lady with the Lamp",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -1454,7 +1454,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Sawashiro Miyuki"
   },
-  "98": {
+  {
     "aliases": "Cú Alter, Mad King Cú Chulainn",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -1469,7 +1469,7 @@
     "traits": "Costume-Owning, Loved One, Divinity, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Canna Nobutoshi"
   },
-  "99": {
+  {
     "aliases": "Queen of Connacht, Queen Maeve, Eternal Lady",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -1484,7 +1484,7 @@
     "traits": "Costume-Owning, Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Sakura Ayane"
   },
-  "100": {
+  {
     "aliases": "Elena Blavatsky, Madame Blavatsky, Еле́на Петро́вна Блава́тская, Yelena Petrovna Blavatskaya",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
@@ -1499,7 +1499,7 @@
     "traits": "Costume-Owning, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kanemoto Hisako"
   },
-  "101": {
+  {
     "aliases": "",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
@@ -1514,7 +1514,7 @@
     "traits": "Loved One, Divinity, Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Sawashiro Miyuki"
   },
-  "102": {
+  {
     "aliases": "No Second Strike, Legendary Spearman, God Spear Li (神槍李)",
     "alignment": "Neutral・Evil",
     "attribute": "Man",
@@ -1529,7 +1529,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Yasui Kunihiko"
   },
-  "103": {
+  {
     "aliases": "The Wizard of Menlo Park, Thomas Alva Edison, King of Inventors, Presi-king",
     "alignment": "Lawful・Balanced",
     "attribute": "Man",
@@ -1544,7 +1544,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Terashima Takuma"
   },
-  "104": {
+  {
     "aliases": "Goyaałé, Jeronimo",
     "alignment": "Neutral・Good",
     "attribute": "Man",
@@ -1559,7 +1559,7 @@
     "traits": "Loved One, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Egawa Hisao"
   },
-  "105": {
+  {
     "aliases": "Juvenile Rascal King",
     "alignment": "Chaotic・Balanced",
     "attribute": "Man",
@@ -1574,7 +1574,7 @@
     "traits": "Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Takano Urara"
   },
-  "106": {
+  {
     "aliases": "Dragon Witch, Jalter, Witch of Vengeance, 邪ンヌ",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
@@ -1589,7 +1589,7 @@
     "traits": "Artoria Face, Costume-Owning, Hominidae Servant, Humanoid, Servant, Weak to Enuma Elish",
     "voice_actor": "Sakamoto Maaya"
   },
-  "107": {
+  {
     "aliases": "Avenger, All the World's Evil, King of Daemons, Aŋra Mainiiu",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
@@ -1604,7 +1604,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Weak to Enuma Elish",
     "voice_actor": "Terashima Takuma"
   },
-  "108": {
+  {
     "aliases": "The King of Conquerors of the Distant Lands, Alexander the Great, King of Conquerors",
     "alignment": "Neutral・Good",
     "attribute": "Man",
@@ -1619,7 +1619,7 @@
     "traits": "Loved One, Divinity, Greek Mythology Male, Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Ōtsuka Akio"
   },
-  "109": {
+  {
     "aliases": "Emiya Kiritsugu, Magus Killer",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
@@ -1634,7 +1634,7 @@
     "traits": "Loved One, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Koyama Rikiya, Ōhara Sayaka"
   },
-  "110": {
+  {
     "aliases": "Leader of Hashasheen, Asa-ko, Hundred-Faced Hassan, Hassan of the Hundred Personas",
     "alignment": "Lawful・Evil",
     "attribute": "Man",
@@ -1649,7 +1649,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Abe Akina"
   },
-  "111": {
+  {
     "aliases": "Irisviel von Einzbern, Iri, White Holy Grail, Irisviel (Holy Grail)",
     "alignment": "Chaotic・Good",
     "attribute": "Sky",
@@ -1664,7 +1664,7 @@
     "traits": "Divinity, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Ōhara Sayaka"
   },
-  "112": {
+  {
     "aliases": "Shuten-Douji, Ibuki Dōji, [Saṃghāta Hell Berserker]",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -1679,7 +1679,7 @@
     "traits": "Non-Hominidae Servant, Costume-Owning, Demonic, Divinity, Dragon, Humanoid, Oni, Servant, Seven Knights Servant, Shuten Dōji (Trait), Weak to Enuma Elish",
     "voice_actor": "Yūki Aoi"
   },
-  "113": {
+  {
     "aliases": "The Bonze of Tang Dynasty, Genjō Sanzō",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -1694,7 +1694,7 @@
     "traits": "Divinity, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Komatsu Mikako"
   },
-  "114": {
+  {
     "aliases": "Minamoto no Yorimitsu, Ushi Gozen, [Kālasūtra Hell Rider]",
     "alignment": "Chaotic・Good",
     "attribute": "Sky",
@@ -1709,7 +1709,7 @@
     "traits": "Divinity, Genji, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Tomatsu Haruka"
   },
-  "115": {
+  {
     "aliases": "Kintarō",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -1724,7 +1724,7 @@
     "traits": "Loved One, Divinity, Fairy Tale Servant, Genji, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Yusa Kōji"
   },
-  "116": {
+  {
     "aliases": "Ibaraki-Douji, Banana Oni",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -1739,7 +1739,7 @@
     "traits": "Non-Hominidae Servant, Child Servant, Demonic, Humanoid, Oni, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Tōyama Nao"
   },
-  "117": {
+  {
     "aliases": "Fuuma Kotarou, Fuuma \"Evil-Wind\" Kotarou",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
@@ -1754,7 +1754,7 @@
     "traits": "Costume-Owning, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Hanae Natsuki"
   },
-  "118": {
+  {
     "aliases": "King of Gods, Ramesses II, King of Kings, Meryamen, Sun King, God-king",
     "alignment": "Chaotic・Balanced",
     "attribute": "Sky",
@@ -1769,7 +1769,7 @@
     "traits": "Loved One, Divinity, Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Koyasu Takehito"
   },
-  "119": {
+  {
     "aliases": "Lion King, King Arthur, King of Knights, Goddess of Rhongomyniad",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
@@ -1784,7 +1784,7 @@
     "traits": "Arthur, Artoria Face, Dragon, King, Hominidae Servant, Humanoid, Riding, Round Table Knight, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kawasumi Ayako"
   },
-  "120": {
+  {
     "aliases": "Avatar of the Sky, Nitocret, Neithikerty",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -1799,7 +1799,7 @@
     "traits": "Costume-Owning, Divinity, Divine Spirit, Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Tanaka Minami"
   },
-  "121": {
+  {
     "aliases": "Sir Lancelot du Lac, Lord of Joyous Gard, Knight of the Lake",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -1814,7 +1814,7 @@
     "traits": "Costume-Owning, Loved One, Hominidae Servant, Humanoid, Riding, Round Table Knight, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Okiayu Ryōtarō"
   },
-  "122": {
+  {
     "aliases": "Drustanus, Trystan, Tristram, Trischin, Child of Sadness, Tristão",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -1829,7 +1829,7 @@
     "traits": "Costume-Owning, Hominidae Servant, Humanoid, Round Table Knight, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Uchiyama Kōki"
   },
-  "123": {
+  {
     "aliases": "Holy Sword of the Sun, Knight of the Sun, White Knight of the Round Table",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -1844,7 +1844,7 @@
     "traits": "Loved One, Costume-Owning, Hominidae Servant, Humanoid, Riding, Round Table Knight, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Mizushima Takahiro"
   },
-  "124": {
+  {
     "aliases": "Mary",
     "alignment": "Lawful・Evil",
     "attribute": "Man",
@@ -1859,7 +1859,7 @@
     "traits": "Costume-Owning, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Senbongi Sayaka"
   },
-  "125": {
+  {
     "aliases": "Fujiwara no Hidesato, Tawara no Touta",
     "alignment": "Neutral・Good",
     "attribute": "Man",
@@ -1874,7 +1874,7 @@
     "traits": "Loved One, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Suzumura Ken'ichi"
   },
-  "126": {
+  {
     "aliases": "The Silver Arm, Lucius, The Shining Airgetlám, Wandering Knight (放浪の騎士, Hōrō no kishi)",
     "alignment": "Lawful・Good",
     "attribute": "Star",
@@ -1889,7 +1889,7 @@
     "traits": "Loved One, Costume-Owning, Hominidae Servant, Humanoid, Riding, Round Table Knight, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Miyano Mamoru"
   },
-  "127": {
+  {
     "aliases": "Universal Genius, Da Vinci-chan, Shopkeeper",
     "alignment": "Chaotic・Good",
     "attribute": "Star",
@@ -1904,7 +1904,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Sakamoto Maaya"
   },
-  "128": {
+  {
     "aliases": "Summer Tamamo-chan, Tamamo Shark",
     "alignment": "Neutral・Summer",
     "attribute": "Sky",
@@ -1919,7 +1919,7 @@
     "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Demonic Beast Servant, Divinity, Divine Spirit, Goddess Servant, Humanoid, Riding, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Saitō Chiwa"
   },
-  "129": {
+  {
     "aliases": "Archuria, Squirtoria",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -1934,7 +1934,7 @@
     "traits": "Arthur, Artoria Face, Dragon, Hominidae Servant, Humanoid, King, Round Table Knight, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Kawasumi Ayako"
   },
-  "130": {
+  {
     "aliases": "",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -1949,7 +1949,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Taneda Risa"
   },
-  "131": {
+  {
     "aliases": "",
     "alignment": "Chaotic・Balanced",
     "attribute": "Man",
@@ -1964,7 +1964,7 @@
     "traits": "Group Servant, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Nonaka Ai, Kawasumi Ayako"
   },
-  "132": {
+  {
     "aliases": "Miss Surfer Mor, Miss Su-Mor",
     "alignment": "Chaotic・Good",
     "attribute": "Earth",
@@ -1979,7 +1979,7 @@
     "traits": "Artoria Face, Dragon, Hominidae Servant, Humanoid, Round Table Knight, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Sawashiro Miyuki"
   },
-  "133": {
+  {
     "aliases": "",
     "alignment": "Neutral・Good",
     "attribute": "Star",
@@ -1994,7 +1994,7 @@
     "traits": "Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Noto Mamiko"
   },
-  "134": {
+  {
     "aliases": "",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -2009,7 +2009,7 @@
     "traits": "Child Servant, Dragon, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Taneda Risa"
   },
-  "135": {
+  {
     "aliases": "Saint Martha (Ruler)",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -2024,7 +2024,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Hayami Saori"
   },
-  "136": {
+  {
     "aliases": "Illya",
     "alignment": "Neutral・Good",
     "attribute": "Man",
@@ -2039,7 +2039,7 @@
     "traits": "Child Servant, Costume-Owning, Hominidae Servant, Humanoid, Illya, Living Human, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kadowaki Mai, Takano Naoko"
   },
-  "137": {
+  {
     "aliases": "Kuro",
     "alignment": "Chaotic・Good",
     "attribute": "Sky",
@@ -2054,7 +2054,7 @@
     "traits": "Child Servant, Hominidae Servant, Humanoid, Living Human, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Saitō Chiwa"
   },
-  "138": {
+  {
     "aliases": "Brave-Eliza, Elizabeth Bathory (Brave)",
     "alignment": "Chaotic・Good",
     "attribute": "Earth",
@@ -2069,7 +2069,7 @@
     "traits": "Dragon, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Ōkubo Rumi"
   },
-  "139": {
+  {
     "aliases": "The Last Pharaoh",
     "alignment": "Lawful・Balanced",
     "attribute": "Man",
@@ -2084,7 +2084,7 @@
     "traits": "Divinity, Levitating Servant, Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kugimiya Rie"
   },
-  "140": {
+  {
     "aliases": "Vlad the Impaler, Vlad Ţepeş, Count Dracula",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -2099,7 +2099,7 @@
     "traits": "Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Stout Defender, Weak to Enuma Elish",
     "voice_actor": "Egawa Hisao"
   },
-  "141": {
+  {
     "aliases": "Joan of Arc",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
@@ -2114,7 +2114,7 @@
     "traits": "Artoria Face, Child Servant, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Sakamoto Maaya"
   },
-  "142": {
+  {
     "aliases": "Goddess of Venus, Inanna, Mistress of Heaven, Tohsaka Rin",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
@@ -2129,7 +2129,7 @@
     "traits": "Divinity, Levitating Servant, Hominidae Servant, Humanoid, Immune to Pigify, Living Human, Pseudo-Servant, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Ueda Kana"
   },
-  "143": {
+  {
     "aliases": "Chains of Heaven, Kingu",
     "alignment": "Neutral・Balanced",
     "attribute": "Sky",
@@ -2144,7 +2144,7 @@
     "traits": "Non-Hominidae Servant, Costume-Owning, Feminine Looking, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kobayashi Yū"
   },
-  "144": {
+  {
     "aliases": "Feathered Serpent, Winged Serpent, Great Firebird of the Sun, Wind of Mesoamerica, Coatl",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
@@ -2159,7 +2159,7 @@
     "traits": "Divinity, Divine Spirit, Hominidae Servant, Humanoid, Immune to Pigify, King, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Endō Aya"
   },
-  "145": {
+  {
     "aliases": "Sovereign of Magic Wands, Sage King",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -2174,7 +2174,7 @@
     "traits": "Loved One, Costume-Owning, Divinity, Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Seki Tomokazu"
   },
-  "146": {
+  {
     "aliases": "Medousiana, Medusa Lily, Anna, Ana",
     "alignment": "Neutral・Good",
     "attribute": "Earth",
@@ -2189,7 +2189,7 @@
     "traits": "Non-Hominidae Servant, Child Servant, Divinity, Divine Spirit, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Asakawa Yū"
   },
-  "147": {
+  {
     "aliases": "Medusa",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -2204,7 +2204,7 @@
     "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Demonic Beast Servant, Divine Spirit, Humanoid, Servant, Weak to Enuma Elish",
     "voice_actor": "Asakawa Yū"
   },
-  "148": {
+  {
     "aliases": "Jaguar Warrior (NA), Fujimura Taiga",
     "alignment": "Chaotic・Balanced",
     "attribute": "Earth",
@@ -2219,7 +2219,7 @@
     "traits": "Animal Characteristics Servant, Divinity, Hominidae Servant, Humanoid, Living Human, Pseudo-Servant, Servant, Seven Knights Servant, Weak to Enuma Elish, Wild Beast",
     "voice_actor": "Itō Miki"
   },
-  "149": {
+  {
     "aliases": "Beast II, Goddess of Beginning, Nammu, Mother of Genesis",
     "alignment": "Chaotic・Evil",
     "attribute": "Beast",
@@ -2234,7 +2234,7 @@
     "traits": "Divinity, Divine Spirit",
     "voice_actor": "Yūki Aoi"
   },
-  "150": {
+  {
     "aliases": "Magus of Flowers",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -2249,7 +2249,7 @@
     "traits": "Costume-Owning, Hominidae Servant, Humanoid, Round Table Knight, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Sakurai Takahiro, Kawasumi Ayako"
   },
-  "151": {
+  {
     "aliases": "King of Demon Gods Goetia, King of Men Goetia, Beast I",
     "alignment": "Chaotic・Evil",
     "attribute": "Beast",
@@ -2264,7 +2264,7 @@
     "traits": "Enuma Elish Nullification, King",
     "voice_actor": "Sugita Tomokazu"
   },
-  "152": {
+  {
     "aliases": "True Solomon, King of Magic, [Romani Archaman]",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -2279,7 +2279,7 @@
     "traits": "Non-Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Suzumura Ken'ichi"
   },
-  "153": {
+  {
     "aliases": "Flower of Tengen, Shinmen Musashi no Kami Fujiwara no Harunobu, Bennosuke (弁之助), Niten Dōraku (二天道楽), Shinmen Takezō, [DATA LOST]",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
@@ -2294,7 +2294,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Sakura Ayane"
   },
-  "154": {
+  {
     "aliases": "King Hassan, First Hassan, Hassan-i Sabbah, Grand Assassin",
     "alignment": "Lawful・Evil",
     "attribute": "Man",
@@ -2309,7 +2309,7 @@
     "traits": "Loved One, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Nakata Jōji"
   },
-  "155": {
+  {
     "aliases": "MHX Alter, MHXA, Ecchan",
     "alignment": "Neutral・Evil",
     "attribute": "Star",
@@ -2324,7 +2324,7 @@
     "traits": "Enuma Elish Nullification, Arthur, Artoria Face, Dragon, Hominidae Servant, Humanoid, King, Round Table Knight, Servant, Seven Knights Servant",
     "voice_actor": "Kawasumi Ayako"
   },
-  "156": {
+  {
     "aliases": "Archer of Shinjuku, Professor Moriarty, The Napoléon of Crime, Sherlock Holmes Rival",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
@@ -2339,7 +2339,7 @@
     "traits": "Costume-Owning, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Hashi Takaya"
   },
-  "157": {
+  {
     "aliases": "Emiya Shirou, Detroit Emiya, Demiya, Edgemiya, Edgy Emiya",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
@@ -2354,7 +2354,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Suwabe Jun'ichi"
   },
-  "158": {
+  {
     "aliases": "Avenger of Shinjuku, Rider of Shinjuku, King of Currumpaw (Wolf), Hesse, headless knight",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -2369,7 +2369,7 @@
     "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Demonic Beast Servant, Fairy Tale Servant, Humanoid, Servant, Weak to Enuma Elish, Wild Beast",
     "voice_actor": "Takeuchi Ryōta"
   },
-  "159": {
+  {
     "aliases": "Assassin of Shinjuku, Langzi (Wanderer / Prodigal), Ensei, Shinshin-san, Doppelgänger",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
@@ -2384,7 +2384,7 @@
     "traits": "Loved One, Costume-Owning, Hominidae Servant, Humanoid, Mount Liang, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Okamoto Nobuhiko"
   },
-  "160": {
+  {
     "aliases": "Knight of Sky Silver, Proto Saber, Red Dragon, King of Knights, King Arthur, Artorius",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -2399,7 +2399,7 @@
     "traits": "Arthur, Loved One, Costume-Owning, Dragon, Hominidae Servant, Humanoid, King, Riding, Round Table Knight, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Sakurai Takahiro"
   },
-  "161": {
+  {
     "aliases": "Hijikata Toshizou, Demon of the Battlefield; Berserker of Bakumatsu Period; Vice Captain of Shinsengumi",
     "alignment": "Lawful・Evil",
     "attribute": "Man",
@@ -2414,7 +2414,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Shinsengumi Servant, Weak to Enuma Elish",
     "voice_actor": "Hoshino Takanori"
   },
-  "162": {
+  {
     "aliases": "Yodo-dono",
     "alignment": "Chaotic・Balanced",
     "attribute": "Man",
@@ -2429,7 +2429,7 @@
     "traits": "Child Servant, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Asumi Kana"
   },
-  "163": {
+  {
     "aliases": "Meltlilith, Alter Ego S, Artemis, Lotan, Sarasvati",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -2444,7 +2444,7 @@
     "traits": "Non-Hominidae Servant, Divinity, Goddess Servant, Humanoid, Immune to Pigify, Mechanical, Riding, Servant, Weak to Enuma Elish",
     "voice_actor": "Hayami Saori"
   },
-  "164": {
+  {
     "aliases": "Alter Ego M, Parvati, Brynhildr, Durga",
     "alignment": "Lawful・Balanced",
     "attribute": "Earth",
@@ -2459,7 +2459,7 @@
     "traits": "Non-Hominidae Servant, Divinity, Goddess Servant, Humanoid, Immune to Pigify, Mechanical, Servant, Weak to Enuma Elish",
     "voice_actor": "Ogura Yui"
   },
-  "165": {
+  {
     "aliases": "Tate Eboshi, JK Saber",
     "alignment": "Neutral・Evil",
     "attribute": "Sky",
@@ -2474,7 +2474,7 @@
     "traits": "Non-Hominidae Servant, Divinity, Divine Spirit, Humanoid, Oni, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Tōyama Nao"
   },
-  "166": {
+  {
     "aliases": "Mysterious Black Magus",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
@@ -2489,7 +2489,7 @@
     "traits": "Goddess Servant, Hominidae Servant, Humanoid, Immune to Pigify, Mechanical, Servant, Weak to Enuma Elish",
     "voice_actor": "Shitaya Noriko"
   },
-  "167": {
+  {
     "aliases": "Sessyoin Kiara, Sesshouin Kiara, Demonic Bodhisattva, Last Prophet, Beast III/R",
     "alignment": "Chaotic・Evil",
     "attribute": "Beast",
@@ -2504,7 +2504,7 @@
     "traits": "Goddess Servant, Hominidae Servant, Humanoid, Servant, Weak to Enuma Elish",
     "voice_actor": "Tanaka Rie"
   },
-  "168": {
+  {
     "aliases": "Heaven's Hole, Sesshōin Kiara, Demonic Bodhisattva, Pleasure Deva, Rapture",
     "alignment": "Chaotic・Evil",
     "attribute": "Beast",
@@ -2519,7 +2519,7 @@
     "traits": "Enuma Elish Nullification, Humanoid",
     "voice_actor": "Tanaka Rie"
   },
-  "169": {
+  {
     "aliases": "Caster of Nightless City, Shahrazad (Persian)",
     "alignment": "Lawful・Balanced",
     "attribute": "Man",
@@ -2534,7 +2534,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Inoue Kikuko"
   },
-  "170": {
+  {
     "aliases": "Assassin of Nightless City, Fūyā-chan, Nite Brite, Bu Sokuten",
     "alignment": "Lawful・Evil",
     "attribute": "Man",
@@ -2549,7 +2549,7 @@
     "traits": "Child Servant, Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Izawa Shiori"
   },
-  "171": {
+  {
     "aliases": "Berserker of El Dorado, Amazones CEO",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -2564,7 +2564,7 @@
     "traits": "Costume-Owning, Divinity, Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Shimamura Yū"
   },
-  "172": {
+  {
     "aliases": "Rider of Resistance, Cristoforo Colombo, Cristóbal Colón, Cristóvão Colombo",
     "alignment": "Neutral・Evil",
     "attribute": "Man",
@@ -2579,7 +2579,7 @@
     "traits": "Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Ōtsuka Hōchū"
   },
-  "173": {
+  {
     "aliases": "The One who Illuminates the Truth, Holmes, Felp",
     "alignment": "Neutral・Good",
     "attribute": "Star",
@@ -2594,7 +2594,7 @@
     "traits": "Enuma Elish Nullification, Hominidae Servant, Humanoid, Servant",
     "voice_actor": "Mizushima Takahiro"
   },
-  "174": {
+  {
     "aliases": "Berserker of Learning with Manga",
     "alignment": "Neutral・Balanced",
     "attribute": "Earth",
@@ -2609,7 +2609,7 @@
     "traits": "Child Servant, Costume-Owning, Fairy Tale Servant, Giant, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Omigawa Chiaki"
   },
-  "175": {
+  {
     "aliases": "",
     "alignment": "Chaotic・Summer",
     "attribute": "Man",
@@ -2624,7 +2624,7 @@
     "traits": "Artoria Face, Hominidae Servant, Humanoid, King, Riding, Roman, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Tange Sakura"
   },
-  "176": {
+  {
     "aliases": "",
     "alignment": "Neutral・Summer",
     "attribute": "Earth",
@@ -2639,7 +2639,7 @@
     "traits": "Hominidae Servant, Humanoid, Mechanical, Riding, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Nonaka Ai"
   },
-  "177": {
+  {
     "aliases": "Medjed",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
@@ -2654,7 +2654,7 @@
     "traits": "Divinity, Divine Spirit, Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Tanaka Minami"
   },
-  "178": {
+  {
     "aliases": "",
     "alignment": "Chaotic・Summer",
     "attribute": "Man",
@@ -2669,7 +2669,7 @@
     "traits": "Hominidae Servant, Humanoid, King, Nobunaga, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Kugimiya Rie"
   },
-  "179": {
+  {
     "aliases": "Maid Alter, Demonic Chief Maid, King of Maids",
     "alignment": "Lawful・Evil",
     "attribute": "Man",
@@ -2684,7 +2684,7 @@
     "traits": "Arthur, Artoria Face, Dragon, Hominidae Servant, Humanoid, King, Riding, Round Table Knight, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Kawasumi Ayako"
   },
-  "180": {
+  {
     "aliases": "Elena Blavatsky",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
@@ -2699,7 +2699,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Kanemoto Hisako"
   },
-  "181": {
+  {
     "aliases": "Minamoto no Yorimitsu, Minamoto no Raikou",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
@@ -2714,7 +2714,7 @@
     "traits": "Divinity, Genji, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Tomatsu Haruka"
   },
-  "182": {
+  {
     "aliases": "Inanna, Mistress of Heaven, Tohsaka Rin",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
@@ -2729,7 +2729,7 @@
     "traits": "Divinity, Levitating Servant, Hominidae Servant, Humanoid, Immune to Pigify, Living Human, Pseudo-Servant, Riding, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Ueda Kana"
   },
-  "183": {
+  {
     "aliases": "Par, Pārvatī, Matou Sakura, Goddess Uma, Loka Mata",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
@@ -2744,7 +2744,7 @@
     "traits": "Costume-Owning, Divinity, Female, Hominidae Servant, Humanoid, Immune to Pigify, Living Human, Pseudo-Servant, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Shitaya Noriko"
   },
-  "184": {
+  {
     "aliases": "Archer Inferno",
     "alignment": "Neutral・Balanced",
     "attribute": "Earth",
@@ -2759,7 +2759,7 @@
     "traits": "Demonic, Genji, Hominidae Servant, Humanoid, Oni, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kanemoto Hisako"
   },
-  "185": {
+  {
     "aliases": "Assassin Paraíso",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -2774,7 +2774,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Sakura Ayane"
   },
-  "186": {
+  {
     "aliases": "Houzouin Inshun, [Lancer Purgatorio]",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
@@ -2789,7 +2789,7 @@
     "traits": "Loved One, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Namikawa Daisuke"
   },
-  "187": {
+  {
     "aliases": "Yagyuu Munenori, Ryūtan",
     "alignment": "Lawful・Balanced",
     "attribute": "Man",
@@ -2804,7 +2804,7 @@
     "traits": "Loved One, Genji, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Yamaji Kazuhiro"
   },
-  "188": {
+  {
     "aliases": "Katou Danzou, Katou \"Black Kite\" Danzo, Flying Katou (飛び加藤, Tobi Kato), Kite Katou",
     "alignment": "Neutral・Balanced",
     "attribute": "Earth",
@@ -2819,7 +2819,7 @@
     "traits": "Female, Hominidae Servant, Humanoid, Mechanical, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Akesaka Satomi"
   },
-  "189": {
+  {
     "aliases": "Okki",
     "alignment": "Chaotic・Balanced",
     "attribute": "Earth",
@@ -2834,7 +2834,7 @@
     "traits": "Divinity, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Fukuen Misato"
   },
-  "190": {
+  {
     "aliases": "Magus Aegis Elizabeth Channel",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -2849,7 +2849,7 @@
     "traits": "Non-Hominidae Servant, Humanoid, Immune to Pigify, Mechanical, Servant, Threat to Humanity, Weak to Enuma Elish",
     "voice_actor": "Ōkubo Rumi"
   },
-  "191": {
+  {
     "aliases": "Magus Aegis Elizabeth Channel II, MK.II",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -2864,7 +2864,7 @@
     "traits": "Non-Hominidae Servant, Humanoid, Immune to Pigify, Mechanical, Servant, Threat to Humanity, Weak to Enuma Elish",
     "voice_actor": "Ōkubo Rumi"
   },
-  "192": {
+  {
     "aliases": "Caster of Okeanos, Falcon Witch",
     "alignment": "Chaotic・Balanced",
     "attribute": "Sky",
@@ -2879,7 +2879,7 @@
     "traits": "Argo-Related, Levitating Servant, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Akaneya Himika"
   },
-  "193": {
+  {
     "aliases": "Nata, Nataku",
     "alignment": "Neutral・Good",
     "attribute": "Sky",
@@ -2894,7 +2894,7 @@
     "traits": "Non-Hominidae Servant, Levitating Servant, Servant, Seven Knights Servant, Humanoid, Mechanical, Weak to Enuma Elish",
     "voice_actor": "Ogura Yui"
   },
-  "194": {
+  {
     "aliases": "Caster of Midrash, Bilqis, Makeda, Tituba",
     "alignment": "Neutral・Good",
     "attribute": "Man",
@@ -2909,7 +2909,7 @@
     "traits": "Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Satō Satomi"
   },
-  "195": {
+  {
     "aliases": "The Key to the Gate, Sut-Typhon, Yog-Sothoth, All-in-One, One-in-All, Abby",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -2924,7 +2924,7 @@
     "traits": "Enuma Elish Nullification, Child Servant, Divinity, Existence Outside the Domain, Hominidae Servant, Humanoid, Servant, Threat to Humanity",
     "voice_actor": "Ōwada Hitomi"
   },
-  "196": {
+  {
     "aliases": "The Goddess of the Netherworld, Tohsaka Rin",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -2939,7 +2939,7 @@
     "traits": "Costume-Owning, Divinity, Female, Hominidae Servant, Humanoid, Immune to Pigify, King, Pseudo-Servant, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Ueda Kana"
   },
-  "197": {
+  {
     "aliases": "Attila Santa, Etzel, Santera",
     "alignment": "Chaotic・Good",
     "attribute": "Star",
@@ -2954,7 +2954,7 @@
     "traits": "Enuma Elish Nullification, Divinity, Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant",
     "voice_actor": "Noto Mamiko"
   },
-  "198": {
+  {
     "aliases": "Katsushika Oui; Tokitarō, Toto-sama, Extraterrestrial Octopus, Darusen, The Old Man Mad About Art Manji, Cthulhu",
     "alignment": "Chaotic・Balanced",
     "attribute": "Man",
@@ -2969,7 +2969,7 @@
     "traits": "Divinity, Existence Outside the Domain, Hominidae Servant, Humanoid, Servant, Threat to Humanity, Weak to Enuma Elish",
     "voice_actor": "Yukana"
   },
-  "199": {
+  {
     "aliases": "Empress of Assyria, Assassin of Red",
     "alignment": "Lawful・Evil",
     "attribute": "Earth",
@@ -2984,7 +2984,7 @@
     "traits": "Divinity, Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Shindō Kei"
   },
-  "200": {
+  {
     "aliases": "Fujinon",
     "alignment": "Lawful・Evil",
     "attribute": "Man",
@@ -2999,7 +2999,7 @@
     "traits": "Enuma Elish Nullification, Hominidae Servant, Humanoid, Living Human, Servant, Seven Knights Servant",
     "voice_actor": "Noto Mamiko"
   },
-  "201": {
+  {
     "aliases": "Anastasia Nikolaevna Romanova, Grand Duchess of Russia, Grand Duchess of the Beast Nation",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
@@ -3014,7 +3014,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Hara Yumi"
   },
-  "202": {
+  {
     "aliases": "Nyalter",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -3029,7 +3029,7 @@
     "traits": "Animal Characteristics Servant, Argo-Related, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish, Wild Beast",
     "voice_actor": "Hayami Saori"
   },
-  "203": {
+  {
     "aliases": "Golem Master, Solomon ibn Gabirol, Caster of Black",
     "alignment": "Lawful・Balanced",
     "attribute": "Man",
@@ -3044,7 +3044,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Miyamoto Mitsuru"
   },
-  "204": {
+  {
     "aliases": "Man in Grey",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -3059,7 +3059,7 @@
     "traits": "Loved One, Hominidae Servant, Humanoid, Servant, Weak to Enuma Elish",
     "voice_actor": "Seki Toshihiko"
   },
-  "205": {
+  {
     "aliases": "Ivan Vasilyevich; Ivan Grozny; Thunderous Emperor; Ivan IV; Ivan the Formidable; Ivan the Fearsome; Grand Prince of Moscow",
     "alignment": "Lawful・Evil",
     "attribute": "Man",
@@ -3074,7 +3074,7 @@
     "traits": "Animal Characteristics Servant, Giant, Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish, Wild Beast",
     "voice_actor": "Kuroda Takaya"
   },
-  "206": {
+  {
     "aliases": "The Swift Hero, Rider of Red, Achilleus, Akhilles",
     "alignment": "Lawful・Balanced",
     "attribute": "Earth",
@@ -3089,7 +3089,7 @@
     "traits": "Loved One, Costume-Owning, Divinity, Greek Mythology Male, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Furukawa Makoto"
   },
-  "207": {
+  {
     "aliases": "Great Sage of Centaurs, Archer of Black, Kheiron",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
@@ -3104,7 +3104,7 @@
     "traits": "Non-Hominidae Servant, Argo-Related, Divinity, Divine Spirit, Greek Mythology Male, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Takeuchi Shunsuke"
   },
-  "208": {
+  {
     "aliases": "Homunculus, Detached and Kind Dragon, Evil Dragon Fafnir",
     "alignment": "Neutral・Good",
     "attribute": "Man",
@@ -3119,7 +3119,7 @@
     "traits": "Dragon, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Hanae Natsuki"
   },
-  "209": {
+  {
     "aliases": "Majin Saber, Okita Souji (Alter), Majin - Okita Sōji, Devil Okita Sōji Alternative (魔神・沖田総司オルタナティブ), 煉獄オルタ",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
@@ -3134,7 +3134,7 @@
     "traits": "Artoria Face, Loved One, Costume-Owning, Hominidae Servant, Humanoid, Servant, Shinsengumi Servant, Weak to Enuma Elish",
     "voice_actor": "Yūki Aoi, Nakamura Yūichi"
   },
-  "210": {
+  {
     "aliases": "Manslayer Izō, Okada Izou, Ghost of Tosa, Dā Oka",
     "alignment": "Neutral・Evil",
     "attribute": "Man",
@@ -3149,7 +3149,7 @@
     "traits": "Costume-Owning, Hominidae Servant, Humanoid, Male, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Yoshino Hiroyuki"
   },
-  "211": {
+  {
     "aliases": "Oryō, Hero of Reformation, Sakamoto Ryouma",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
@@ -3164,7 +3164,7 @@
     "traits": "Divinity, Group Servant, Hominidae Servant, Humanoid, Loved One, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kase Yasuyuki, Horie Yui"
   },
-  "212": {
+  {
     "aliases": "Man of Possibilities, Napoléon Bonaparte (ナポレオン・ボナパルト), Napoléon I, Emperor of the French, King of Italy, Good Fellow of Everlasting Flame",
     "alignment": "Neutral・Good",
     "attribute": "Star",
@@ -3179,7 +3179,7 @@
     "traits": "Enuma Elish Nullification, Loved One, Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant",
     "voice_actor": "Hino Satoshi"
   },
-  "213": {
+  {
     "aliases": "Siegfried, King of Warriors",
     "alignment": "Neutral・Good",
     "attribute": "Earth",
@@ -3194,7 +3194,7 @@
     "traits": "Loved One, Costume-Owning, Divinity, Dragon, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Tsuda Kenjirō"
   },
-  "214": {
+  {
     "aliases": "Daughters of the Great God, ヴァルキリー, Walküre, Ortlinde, Hildr, Thrúd (Þrúðr)",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
@@ -3209,7 +3209,7 @@
     "traits": "Non-Hominidae Servant, Divinity, Divine Spirit, Levitating Servant, Humanoid, Servant, Seven Knights Servant, Valkyrie (Trait), Weak to Enuma Elish",
     "voice_actor": "Tanaka Minami, Komatsu Mikako, Amamiya Sora"
   },
-  "215": {
+  {
     "aliases": "スカサハ＝スカジ, Scathach=Skadi, Scáthach (Caster), Skadi, Queen of Ice and Snow",
     "alignment": "Chaotic・Good",
     "attribute": "Sky",
@@ -3224,7 +3224,7 @@
     "traits": "Non-Hominidae Servant, Divinity, Divine Spirit, Humanoid, Immune to Pigify, King, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Noto Mamiko"
   },
-  "216": {
+  {
     "aliases": "",
     "alignment": "Lawful・Summer",
     "attribute": "Man",
@@ -3239,7 +3239,7 @@
     "traits": "Artoria Face, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Sakamoto Maaya"
   },
-  "217": {
+  {
     "aliases": "Ibaraki-Douji (Lancer), Banana Oni",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -3254,7 +3254,7 @@
     "traits": "Non-Hominidae Servant, Child Servant, Demonic, Humanoid, Oni, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Tōyama Nao"
   },
-  "218": {
+  {
     "aliases": "Minamoto no Yoshitsune",
     "alignment": "Neutral・Summer",
     "attribute": "Man",
@@ -3269,7 +3269,7 @@
     "traits": "Loved One, Fairy Tale Servant, Genji, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Hayami Saori"
   },
-  "219": {
+  {
     "aliases": "Summer Jalter",
     "alignment": "Chaotic・Summer",
     "attribute": "Man",
@@ -3284,7 +3284,7 @@
     "traits": "Artoria Face, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Sakamoto Maaya"
   },
-  "220": {
+  {
     "aliases": "BB (SSR), BB (Pele), BB-thotep, Nyarlathotep",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -3299,7 +3299,7 @@
     "traits": "Non-Hominidae Servant, Costume-Owning, Divinity, Divine Spirit, Existence Outside the Domain, Giant, Goddess Servant, Immune to Pigify, Mechanical, Servant, Summer Mode Servant, Super Large, Weak to Enuma Elish",
     "voice_actor": "Shitaya Noriko"
   },
-  "221": {
+  {
     "aliases": "Medb (Saber)",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -3314,7 +3314,7 @@
     "traits": "Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Sakura Ayane"
   },
-  "222": {
+  {
     "aliases": "MHXX, Mysterious Heroine X (Foreigner)",
     "alignment": "Lawful・Good",
     "attribute": "Star",
@@ -3329,7 +3329,7 @@
     "traits": "Enuma Elish Nullification, Arthur, Artoria Face, Loved One, Dragon, Existence Outside the Domain, Hominidae Servant, Humanoid, King, Riding, Servant, Summer Mode Servant",
     "voice_actor": "Kawasumi Ayako"
   },
-  "223": {
+  {
     "aliases": "",
     "alignment": "Lawful・Balanced",
     "attribute": "Earth",
@@ -3344,7 +3344,7 @@
     "traits": "Loved One, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Midorikawa Hikaru"
   },
-  "224": {
+  {
     "aliases": "Illyasviel von Einzbern, Freyja, Louhi",
     "alignment": "Chaotic・Good",
     "attribute": "Sky",
@@ -3359,7 +3359,7 @@
     "traits": "Child Servant, Divinity, Fairy Tale Servant, Hominidae Servant, Humanoid, Illya, Immune to Pigify, Pseudo-Servant, Servant, Weak to Enuma Elish",
     "voice_actor": "Kadowaki Mai"
   },
-  "225": {
+  {
     "aliases": "Magifender Girl Oni Cure, Dharmapala Girl Oni Cure",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -3374,7 +3374,7 @@
     "traits": "Non-Hominidae Servant, Demonic, Divinity, Dragon, Humanoid, Oni, Servant, Seven Knights Servant, Shuten Dōji (Trait), Weak to Enuma Elish",
     "voice_actor": "Yūki Aoi,Tōyama Nao"
   },
-  "226": {
+  {
     "aliases": "Kuaiji Zero, 西楚霸王, Xī Chǔ Bà Wáng, Kō U",
     "alignment": "Lawful・Balanced",
     "attribute": "Man",
@@ -3389,7 +3389,7 @@
     "traits": "Giant, Hominidae Servant, Humanoid, Mechanical, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Yamadera Kōichi"
   },
-  "227": {
+  {
     "aliases": "Prince of Lan Ling, Lan Ling Wang, Ran-ryō Ō, Gao Changgong",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -3404,7 +3404,7 @@
     "traits": "Loved One, Costume-Owning, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Mori Nanako"
   },
-  "228": {
+  {
     "aliases": "Shin Ryō-Gyoku",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -3419,7 +3419,7 @@
     "traits": "Loved One, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Shitaya Noriko"
   },
-  "229": {
+  {
     "aliases": "First Emperor, Qin Shi Huang, Ying Zheng, Zheng, the King of Qin , the Son of Heaven, Shikōtei",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -3434,7 +3434,7 @@
     "traits": "Hominidae Servant, Humanoid, Immune to Pigify, King, Servant, Weak to Enuma Elish",
     "voice_actor": "Fukuyama Jun"
   },
-  "230": {
+  {
     "aliases": "Yu Mei-ren, Yu the Beauty, [Akuta Hinako], Crimson Beauty Under the Moon, Gubijin, Gucchan, Gussama",
     "alignment": "Lawful・Evil",
     "attribute": "Earth",
@@ -3449,7 +3449,7 @@
     "traits": "Non-Hominidae Servant, Consort Yu (Trait), Demonic, Humanoid, Immune to Pigify, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Ise Mariya"
   },
-  "231": {
+  {
     "aliases": "Sekitoba",
     "alignment": "Neutral・Balanced",
     "attribute": "Earth",
@@ -3464,7 +3464,7 @@
     "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Loved One, Demonic Beast Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish, Wild Beast",
     "voice_actor": "Midorikawa Hikaru"
   },
-  "232": {
+  {
     "aliases": "Bradamant, Paladin of the White Feather",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -3479,7 +3479,7 @@
     "traits": "Loved One, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Morinaga Chitose"
   },
-  "233": {
+  {
     "aliases": "",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
@@ -3494,7 +3494,7 @@
     "traits": "Costume-Owning, Divinity, Divine Spirit, Hominidae Servant, Humanoid, Immune to Pigify, King, Servant, Weak to Enuma Elish",
     "voice_actor": "Endō Aya,Itō Miki"
   },
-  "234": {
+  {
     "aliases": "Tongue-Cut Sparrow Benienma, [Crimson Vermillion Beni-Enma]",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -3509,7 +3509,7 @@
     "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Child Servant, Fairy Tale Servant, Levitating Servant, Humanoid, Oni, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kuno Misaki"
   },
-  "235": {
+  {
     "aliases": "Royal Guard Chief; Massage Expert, Old Li, Security Guard, Captain of the Guard (NA), Li Shuwen of No Second Strike",
     "alignment": "Neutral・Evil",
     "attribute": "Man",
@@ -3524,7 +3524,7 @@
     "traits": "Costume-Owning, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Yasui Kunihiko"
   },
-  "236": {
+  {
     "aliases": "Sakatsuki Miyu, Emiya Miyu, Child of God",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -3539,7 +3539,7 @@
     "traits": "Child Servant, Hominidae Servant, Humanoid, Living Human, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Nazuka Kaori, Kakazu Yumi"
   },
-  "237": {
+  {
     "aliases": "Fujiwara no Kaoruko, Lady Murasaki",
     "alignment": "Neutral・Good",
     "attribute": "Man",
@@ -3554,7 +3554,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kayano Ai"
   },
-  "238": {
+  {
     "aliases": "Alter Ego G, Tiamat",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -3569,7 +3569,7 @@
     "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Costume-Owning, Divinity, Giant, Humanoid, Immune to Pigify, Mechanical, Servant, Super Large, Weak to Enuma Elish",
     "voice_actor": "Han Megumi"
   },
-  "239": {
+  {
     "aliases": "Kamadeva, Matou Sakura, Beast III/L",
     "alignment": "Chaotic・Evil",
     "attribute": "Sky",
@@ -3584,7 +3584,7 @@
     "traits": "Divinity, Hominidae Servant, Humanoid, Immune to Pigify, Pseudo-Servant, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Shitaya Noriko"
   },
-  "240": {
+  {
     "aliases": "Kama/Mara, Kama, Demon Lord of Lust, Lapse",
     "alignment": "Chaotic・Evil",
     "attribute": "Beast",
@@ -3599,7 +3599,7 @@
     "traits": "Enuma Elish Nullification, Demonic, Divinity, Humanoid, Immune to Pigify, King, Pseudo-Servant",
     "voice_actor": "Shitaya Noriko"
   },
-  "241": {
+  {
     "aliases": "Reines El-Melloi Archisorte, Sima Zhongda",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
@@ -3614,7 +3614,7 @@
     "traits": "Hominidae Servant, Humanoid, Living Human, Pseudo-Servant, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Minase Inori"
   },
-  "242": {
+  {
     "aliases": "Luviagelita Edelfelt, Lady Justice",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
@@ -3629,7 +3629,7 @@
     "traits": "Divinity, Hominidae Servant, Humanoid, Immune to Pigify, Living Human, Pseudo-Servant, Roman, Servant, Weak to Enuma Elish",
     "voice_actor": "Itō Shizuka"
   },
-  "243": {
+  {
     "aliases": "",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -3644,7 +3644,7 @@
     "traits": "Artoria Face, Hominidae Servant, Humanoid, Living Human, Round Table Knight, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Ueda Reina, Ono Daisuke"
   },
-  "244": {
+  {
     "aliases": "Ganesha, Great Statue God",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
@@ -3659,7 +3659,7 @@
     "traits": "Divinity, Hominidae Servant, Humanoid, Immune to Pigify, Living Human, Obstacle Maker, Pseudo-Servant, Riding, Servant, Weak to Enuma Elish",
     "voice_actor": "Yūki Aoi"
   },
-  "245": {
+  {
     "aliases": "Lakshmi Bai, Rani of Jhansi, Jeanne d'Arc of India",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -3674,7 +3674,7 @@
     "traits": "Artoria Face, Divinity, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Stout Defender, Weak to Enuma Elish",
     "voice_actor": "Satō Rina"
   },
-  "246": {
+  {
     "aliases": "Wilhelm Tell, Guillermo Tell, Guillaume Tell",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -3689,7 +3689,7 @@
     "traits": "Loved One, Fairy Tale Servant, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Fujii Hayato"
   },
-  "247": {
+  {
     "aliases": "Deified Arjuna, The Final Dark God",
     "alignment": "Lawful・Good & Evil",
     "attribute": "Sky",
@@ -3704,7 +3704,7 @@
     "traits": "Costume-Owning, Divinity, Divine Spirit, Levitating Servant, Hominidae Servant, Humanoid, Immune to Pigify, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Shimazaki Nobunaga"
   },
-  "248": {
+  {
     "aliases": "Aśvatthāmā, Ashwatthama, Drauni",
     "alignment": "Chaotic・Balanced",
     "attribute": "Sky",
@@ -3719,7 +3719,7 @@
     "traits": "Loved One, Divinity, Hominidae Servant, Humanoid, Immune to Pigify, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Suzuki Tatsuhisa"
   },
-  "249": {
+  {
     "aliases": "God of Medicine, Hepius, Esculápio",
     "alignment": "Neutral・Balanced",
     "attribute": "Earth",
@@ -3734,7 +3734,7 @@
     "traits": "Argo-Related, Costume-Owning, Divinity, Greek Mythology Male, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Suzuki Ryōta"
   },
-  "250": {
+  {
     "aliases": "Oda Nobunaga (Avenger); Oda Kippōshi; Maō Nobunaga",
     "alignment": "Chaotic・Balanced",
     "attribute": "Earth",
@@ -3749,7 +3749,7 @@
     "traits": "Feminine Looking, Hominidae Servant, Humanoid, King, Nobunaga, Servant, Weak to Enuma Elish",
     "voice_actor": "Kugimiya Rie"
   },
-  "251": {
+  {
     "aliases": "Demon Musashi, Mori-kun",
     "alignment": "Chaotic・Insane",
     "attribute": "Man",
@@ -3764,7 +3764,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Taniyama Kishō"
   },
-  "252": {
+  {
     "aliases": "Uesugi Kenshin, Dragon of Echigo, Lancer of Eight Flowers",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -3779,7 +3779,7 @@
     "traits": "Costume-Owning, Divinity, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Mizuki Nana"
   },
-  "253": {
+  {
     "aliases": "Da Vinci Lily, Loli Vinci, Gran Cavallo",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -3794,7 +3794,7 @@
     "traits": "Enuma Elish Nullification, Child Servant, Costume-Owning, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant",
     "voice_actor": "Sakamoto Maaya"
   },
-  "254": {
+  {
     "aliases": "Leader of the Argonauts, Hero Scout, Aeson, Jasão",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -3809,7 +3809,7 @@
     "traits": "Argo-Related, Loved One, Greek Mythology Male, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Hoshi Sōichirō"
   },
-  "255": {
+  {
     "aliases": "",
     "alignment": "Neutral・Balanced",
     "attribute": "Earth",
@@ -3824,7 +3824,7 @@
     "traits": "Argo-Related, Loved One, Child Servant, Greek Mythology Male, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Terasaki Yuka"
   },
-  "256": {
+  {
     "aliases": "Guerrehet, Beaumains (Beautiful Hands), Gareth the Gentle",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -3839,7 +3839,7 @@
     "traits": "Loved One, Hominidae Servant, Humanoid, Riding, Round Table Knight, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kuwahara Yūki"
   },
-  "257": {
+  {
     "aliases": "Black Bart, Salazar",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
@@ -3854,7 +3854,7 @@
     "traits": "Loved One, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kobayashi Chiaki"
   },
-  "258": {
+  {
     "aliases": "Chén gōng, 公臺, Gongtai, Chinkyū",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
@@ -3869,7 +3869,7 @@
     "traits": "Hominidae Servant, Humanoid, Male, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Madono Mitsuaki"
   },
-  "259": {
+  {
     "aliases": "Angel of Assassination, Marie-Anne Charlotte Corday d'Armont",
     "alignment": "Neutral・Good",
     "attribute": "Man",
@@ -3884,7 +3884,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Horie Yui"
   },
-  "260": {
+  {
     "aliases": "Salomé",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -3899,7 +3899,7 @@
     "traits": "Levitating Servant, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Bridcutt Sarah Emi"
   },
-  "261": {
+  {
     "aliases": "Shinmen Musashi no Kami Fujiwara no Harunobu, Miyamoto Iori (宮本伊織)",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
@@ -3914,7 +3914,7 @@
     "traits": "Costume-Owning, Divinity, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Sakura Ayane"
   },
-  "262": {
+  {
     "aliases": "Okki",
     "alignment": "Neutral・Summer",
     "attribute": "Earth",
@@ -3929,7 +3929,7 @@
     "traits": "Divinity, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Fukuen Misato"
   },
-  "263": {
+  {
     "aliases": "Mistress C",
     "alignment": "Neutral・Evil",
     "attribute": "Earth",
@@ -3944,7 +3944,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Tanaka Atsuko"
   },
-  "264": {
+  {
     "aliases": "Katsushika Oui; Tokitarō, Dragon-Crested Octopus, Darusen, The Old Man Mad About Art Manji",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
@@ -3959,7 +3959,7 @@
     "traits": "Divinity, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Summer Mode Servant, Threat to Humanity, Weak to Enuma Elish",
     "voice_actor": "Yukana"
   },
-  "265": {
+  {
     "aliases": "Artoria Ruler, Bunny King, Summer Lion King",
     "alignment": "Lawful・Summer",
     "attribute": "Sky",
@@ -3974,7 +3974,7 @@
     "traits": "Animal Characteristics Servant, Arthur, Artoria Face, Dragon, King, Hominidae Servant, Humanoid, Round Table Knight, Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Kawasumi Ayako"
   },
-  "266": {
+  {
     "aliases": "Mysterious Alter Ego Lambda, Lambdaryllis, Meltryllis (Lancer), Leviathan, Cruel Swim Tutu",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -3989,7 +3989,7 @@
     "traits": "Non-Hominidae Servant, Costume-Owning, Demonic, Divinity, Dragon, Goddess Servant, Humanoid, Immune to Pigify, Mechanical, Riding, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Hayami Saori"
   },
-  "267": {
+  {
     "aliases": "Okita Jet Sōji, Okita Sōji (Assassin)",
     "alignment": "Neutral・Summer",
     "attribute": "Man",
@@ -4004,7 +4004,7 @@
     "traits": "Artoria Face, Existence Outside the Domain, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Summer Mode Servant, Shinsengumi Servant, Weak to Enuma Elish",
     "voice_actor": "Yūki Aoi"
   },
-  "268": {
+  {
     "aliases": "Ashtart, Ishtar, Ishtar-Ashtart, Ashtoreth, Ishtarin",
     "alignment": "Lawful・Evil",
     "attribute": "Star",
@@ -4019,7 +4019,7 @@
     "traits": "Non-Hominidae Servant, Enuma Elish Nullification, Costume-Owning, Divinity, Divine Spirit, Humanoid, Immune to Pigify, Servant",
     "voice_actor": "Ueda Kana"
   },
-  "269": {
+  {
     "aliases": "Martha Jane Canary, Martha Jane Cannary",
     "alignment": "Chaotic・Balanced",
     "attribute": "Man",
@@ -4034,7 +4034,7 @@
     "traits": "Loved One, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Tōyama Nao"
   },
-  "270": {
+  {
     "aliases": "Knight of Evaporated Sanity, Sailor Paladin",
     "alignment": "Chaotic・Good",
     "attribute": "Earth",
@@ -4049,7 +4049,7 @@
     "traits": "Animal Characteristics Servant, Feminine Looking, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Ōkubo Rumi"
   },
-  "271": {
+  {
     "aliases": "Angel of Crimea, Florence Nightingale (フローレンス・ナイチンゲール), Mercédès, The White Cloth of Steel, The Lady with the Lamp.",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -4064,7 +4064,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Sawashiro Miyuki"
   },
-  "272": {
+  {
     "aliases": "Orion, Superhuman Orion, Grand Archer",
     "alignment": "Chaotic・Balanced",
     "attribute": "Earth",
@@ -4079,7 +4079,7 @@
     "traits": "Loved One, Divinity, Greek Mythology Male, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Canna Nobutoshi"
   },
-  "273": {
+  {
     "aliases": "Rodomonte, My Friend",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
@@ -4094,7 +4094,7 @@
     "traits": "Loved One, Costume-Owning, Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Masuda Toshiki"
   },
-  "274": {
+  {
     "aliases": "Europe",
     "alignment": "Neutral・Good",
     "attribute": "Sky",
@@ -4109,7 +4109,7 @@
     "traits": "Divinity, Divine Spirit, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "M・A・O"
   },
-  "275": {
+  {
     "aliases": "Yang Yuhuan, Cthugha, Yōkihi, Yuyu, Taizhen",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
@@ -4124,7 +4124,7 @@
     "traits": "Divinity, Existence Outside the Domain, Hominidae Servant, Humanoid, Servant, Threat to Humanity, Weak to Enuma Elish",
     "voice_actor": "Yoshimura Haruka"
   },
-  "276": {
+  {
     "aliases": "Sparkling Archer, Nagiko-san",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
@@ -4139,7 +4139,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Fairouz Ai"
   },
-  "277": {
+  {
     "aliases": "Ulysses, Vlixes",
     "alignment": "Neutral・Good",
     "attribute": "Earth",
@@ -4154,7 +4154,7 @@
     "traits": "Loved One, Greek Mythology Male, Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kirimoto Takuya"
   },
-  "278": {
+  {
     "aliases": "Dioskouroi, the Gemini Twins, Castor & Pollux",
     "alignment": "Chaotic・Balanced",
     "attribute": "Sky",
@@ -4169,7 +4169,7 @@
     "traits": "Argo-Related, Loved One, Divinity, Divine Spirit, Feminine Looking, Group Servant, Hominidae Servant, Humanoid, Immune to Pigify, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Uchida Yūma, Uchida Maaya"
   },
-  "279": {
+  {
     "aliases": "Caeneus, Poseidon's Proxy, Golden Caenis(黄金のカイニス)",
     "alignment": "Neutral・Evil",
     "attribute": "Earth",
@@ -4184,7 +4184,7 @@
     "traits": "Non-Hominidae Servant, Argo-Related, Loved One, Caenis (Trait), Divinity, Divine Spirit, Feminine Looking, Humanoid, Immune to Pigify, King, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Komatsu Mikako"
   },
-  "280": {
+  {
     "aliases": "Romulus, Quirinus, Romulus=Quirinus, The Divine Ancestor, King of Nation Building, Roma, Grand Lancer",
     "alignment": "Chaotic・Balanced",
     "attribute": "Sky",
@@ -4199,7 +4199,7 @@
     "traits": "Non-Hominidae Servant, Divinity, Divine Spirit, Humanoid, Immune to Pigify, Roman, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Okiayu Ryōtarō"
   },
-  "281": {
+  {
     "aliases": "Voyager 1, Little Prince, Pran",
     "alignment": "Neutral・Good",
     "attribute": "Star",
@@ -4214,7 +4214,7 @@
     "traits": "Non-Hominidae Servant, Enuma Elish Nullification, Child Servant, Existence Outside the Domain, Fairy Tale Servant, Levitating Servant, Humanoid, Servant",
     "voice_actor": "Iguchi Yuka"
   },
-  "282": {
+  {
     "aliases": "Momiji",
     "alignment": "Neutral・Evil",
     "attribute": "Earth",
@@ -4229,7 +4229,7 @@
     "traits": "Non-Hominidae Servant, Demonic, Dragon, Humanoid, Oni, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Hikasa Yōko"
   },
-  "283": {
+  {
     "aliases": "Erichi, Grim Reaper",
     "alignment": "Lawful・Balanced",
     "attribute": "Man",
@@ -4244,7 +4244,7 @@
     "traits": "Child Servant, Divinity, Hominidae Servant, Humanoid, Living Human, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kitō Akari"
   },
-  "284": {
+  {
     "aliases": "Altria Caster; Castoria; [Artoria Avalon]",
     "alignment": "Neutral・Good",
     "attribute": "Star",
@@ -4259,7 +4259,7 @@
     "traits": "Non-Hominidae Servant, Enuma Elish Nullification, Arthur, Artoria Caster (Trait), Artoria Face, Humanoid, Round Table Knight, Servant, Seven Knights Servant",
     "voice_actor": "Kawasumi Ayako"
   },
-  "285": {
+  {
     "aliases": "Yaobikuni, Sessyoin Kiara, Sesshouin Kiara, [Shen Kiara]",
     "alignment": "Lawful・Evil",
     "attribute": "Earth",
@@ -4274,7 +4274,7 @@
     "traits": "Non-Hominidae Servant, Goddess Servant, Humanoid, Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Tanaka Rie"
   },
-  "286": {
+  {
     "aliases": "Illya",
     "alignment": "Neutral・Summer",
     "attribute": "Man",
@@ -4289,7 +4289,7 @@
     "traits": "Child Servant, Hominidae Servant, Humanoid, Illya, Living Human, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Kadowaki Mai, Takano Naoko"
   },
-  "287": {
+  {
     "aliases": "Brynhild (Brünnhilde), Sigrdrífa, Brunilda",
     "alignment": "Neutral・Good",
     "attribute": "Sky",
@@ -4304,7 +4304,7 @@
     "traits": "Divinity, Divine Spirit, Group Servant, Humanoid, Non-Hominidae Servant, Servant, Seven Knights Servant, Valkyrie (Trait), Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Noto Mamiko"
   },
-  "288": {
+  {
     "aliases": "Yu Mei-ren, Yu the Beauty, [Akuta Hinako], Crimson Beauty Under the Moon, Gubijin, Gucchan",
     "alignment": "Lawful・Evil",
     "attribute": "Earth",
@@ -4319,7 +4319,7 @@
     "traits": "Non-Hominidae Servant, Consort Yu (Trait), Demonic, Humanoid, Immune to Pigify, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Ise Mariya"
   },
-  "289": {
+  {
     "aliases": "The Key to the Gate, Sut-Typhon, Yog-Sothoth, All-in-One, One-in-All, Abby",
     "alignment": "Lawful・Evil",
     "attribute": "Earth",
@@ -4334,7 +4334,7 @@
     "traits": "Enuma Elish Nullification, Child Servant, Divinity, Existence Outside the Domain, Hominidae Servant, Humanoid, Servant, Summer Mode Servant, Threat to Humanity",
     "voice_actor": "Ōwada Hitomi"
   },
-  "290": {
+  {
     "aliases": "",
     "alignment": "Neutral ・ Good",
     "attribute": "Earth",
@@ -4349,7 +4349,7 @@
     "traits": "Demonic, Genji, Hominidae Servant, Humanoid, Oni, Riding, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Kanemoto Hisako"
   },
-  "291": {
+  {
     "aliases": "Fujiwara no Kaoruko, Lady Murasaki",
     "alignment": "Neutral・Good",
     "attribute": "Man",
@@ -4364,7 +4364,7 @@
     "traits": "Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Kayano Ai"
   },
-  "292": {
+  {
     "aliases": "Shingi Waō",
     "alignment": "Chaotic・Good",
     "attribute": "Earth",
@@ -4379,7 +4379,7 @@
     "traits": "Hominidae Servant, Humanoid, King, Servant, Weak to Enuma Elish",
     "voice_actor": "Tamura Yukari"
   },
-  "293": {
+  {
     "aliases": "Hajime-chan",
     "alignment": "Lawful ・ Balanced",
     "attribute": "Man",
@@ -4394,7 +4394,7 @@
     "traits": "Costume-Owning, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Shinsengumi Servant, Weak to Enuma Elish",
     "voice_actor": "Ishikawa Kaito"
   },
-  "294": {
+  {
     "aliases": "Oda Nobuyuki, Kattsu",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
@@ -4409,7 +4409,7 @@
     "traits": "Costume-Owning, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Yamashita Daiki, Kugimiya Rie"
   },
-  "295": {
+  {
     "aliases": "Vincent Van Gogh, [Clytie], [Clytie-Van Gogh], Vulthoom, Gsarthotegga",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -4424,7 +4424,7 @@
     "traits": "Child Servant, Divinity, Existence Outside the Domain, Hominidae Servant, Humanoid, Servant, Threat to Humanity, Weak to Enuma Elish",
     "voice_actor": "Takahashi Karin"
   },
-  "296": {
+  {
     "aliases": "Captain Nemo, Captain, Prince, Nameless, Prince Dakkar, Triton",
     "alignment": "Chaotic・Balanced",
     "attribute": "Sky",
@@ -4439,7 +4439,7 @@
     "traits": "Argo-Related, Loved One, Costume-Owning, Divinity, Divine Spirit, Greek Mythology Male, Riding, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Hanamori Yumiri"
   },
-  "297": {
+  {
     "aliases": "Dōma Hōshi, Beautiful Carnivore, DOMAN, Manbo-chan, Limbo, Rakshasa King - Skull Eboshi Ashiya Dōman",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -4454,7 +4454,7 @@
     "traits": "Non-Hominidae Servant, Costume-Owning, Demonic, Divinity, Humanoid, Immune to Pigify, Servant, Weak to Enuma Elish",
     "voice_actor": "Morikawa Toshiyuki"
   },
-  "298": {
+  {
     "aliases": "",
     "alignment": "Neutral・Good",
     "attribute": "Man",
@@ -4469,7 +4469,7 @@
     "traits": "Loved One, Genji, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Akabane Kenji"
   },
-  "299": {
+  {
     "aliases": "Shuten Dōji, Ibuki Douji",
     "alignment": "Chaotic・Good",
     "attribute": "Sky",
@@ -4484,7 +4484,7 @@
     "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Costume-Owning, Demonic, Demonic Beast Servant, Divinity, Divine Spirit, Dragon, Levitating Servant, Giant, Goddess Servant, Immune to Pigify, Oni, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Yūki Aoi"
   },
-  "300": {
+  {
     "aliases": "",
     "alignment": "Neutral・Evil",
     "attribute": "Sky",
@@ -4499,7 +4499,7 @@
     "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Demonic, Demonic Beast Servant, Divine Spirit, Dragon, Humanoid, Immune to Pigify, Levitating Servant, Obstacle Maker, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Asahina Madoka"
   },
-  "301": {
+  {
     "aliases": "",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
@@ -4514,7 +4514,7 @@
     "traits": "Divinity, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Yusa Kōji"
   },
-  "302": {
+  {
     "aliases": "Sengo Muramasa, Emiya Shirou",
     "alignment": "Chaotic・Balanced",
     "attribute": "Man",
@@ -4529,7 +4529,7 @@
     "traits": "Hominidae Servant, Humanoid, Living Human, Pseudo-Servant, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Sugiyama Noriaki"
   },
-  "303": {
+  {
     "aliases": "Kurō Hōgan Yoshitsune, Minamoto no Yoshitsune",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -4544,7 +4544,7 @@
     "traits": "Loved One, Feminine Looking, Genji, Hominidae Servant, Humanoid, Servant, Weak to Enuma Elish",
     "voice_actor": "Hayami Saori"
   },
-  "304": {
+  {
     "aliases": "Kiichi Hougen, Oniichi Hōgen, Sōjōbō, Soujoubou",
     "alignment": "Chaotic・Balanced",
     "attribute": "Earth",
@@ -4559,7 +4559,7 @@
     "traits": "Non-Hominidae Servant, Demonic, Feminine Looking, Humanoid, Immune to Pigify, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kakuma Ai"
   },
-  "305": {
+  {
     "aliases": "Caren C. Hortensia, Amor, God Caren, Devil Caren",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
@@ -4574,7 +4574,7 @@
     "traits": "Costume-Owning, Divinity, Hominidae Servant, Humanoid, Immune to Pigify, Living Human, Pseudo-Servant, Roman, Servant, Weak to Enuma Elish",
     "voice_actor": "Koshimizu Ami"
   },
-  "306": {
+  {
     "aliases": "",
     "alignment": "Chaotic・Balanced",
     "attribute": "Earth",
@@ -4589,7 +4589,7 @@
     "traits": "Non-Hominidae Servant, Humanoid, Mechanical, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Suegara Rie"
   },
-  "307": {
+  {
     "aliases": "Tsurume-no-Kimi",
     "alignment": "Neutral・Good",
     "attribute": "Earth",
@@ -4604,7 +4604,7 @@
     "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Fairy Tale Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Mizuhashi Kaori"
   },
-  "308": {
+  {
     "aliases": "MIXA, Ex",
     "alignment": "Neutral・Good",
     "attribute": "Star",
@@ -4619,7 +4619,7 @@
     "traits": "Enuma Elish Nullification, Arthur, Artoria Face, Dragon, Existence Outside the Domain, Hominidae Servant, Humanoid, King, Round Table Knight, Servant",
     "voice_actor": "Kawasumi Ayako"
   },
-  "309": {
+  {
     "aliases": "Morgana le Fae, Morgan le Fay, [Vivian]",
     "alignment": "Lawful・Evil",
     "attribute": "Earth",
@@ -4634,7 +4634,7 @@
     "traits": "Non-Hominidae Servant, Artoria Face, Costume-Owning, Fae, Humanoid, King, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Ishikawa Yui"
   },
-  "310": {
+  {
     "aliases": "Tam Lin Gawain (NA), Faerie Knight Gawain, Bage-ko, Demon Hound Barghest",
     "alignment": "Chaotic・Good",
     "attribute": "Earth",
@@ -4649,7 +4649,7 @@
     "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Loved One, Demonic Beast Servant, Fae, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Inoue Marina"
   },
-  "311": {
+  {
     "aliases": "Tam Lin Tristan (NA), Faerie Knight Tristan, Lady Spinel, Baa'van see, Tori-ko (トリ子）",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -4664,7 +4664,7 @@
     "traits": "Non-Hominidae Servant, Demonic, Fae, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Waki Azumi"
   },
-  "312": {
+  {
     "aliases": "Tam Lin Lancelot (NA), Faerie Knight Lancelot, [Albion], [Albion's Remnant], Melu-ko",
     "alignment": "Neutral・Evil",
     "attribute": "Earth",
@@ -4679,7 +4679,7 @@
     "traits": "Non-Hominidae Servant, Enuma Elish Nullification, Animal Characteristics Servant, Loved One, Costume-Owning, Demonic Beast Servant, Dragon, Fae, Fairy Tale Servant, Humanoid, Immune to Pigify, Servant, Seven Knights Servant",
     "voice_actor": "Kōno Marika"
   },
-  "313": {
+  {
     "aliases": "Holy Knight of the Dove, Percival of the White Light, Percival the Mighty",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -4694,7 +4694,7 @@
     "traits": "Loved One, Hominidae Servant, Humanoid, Riding, Round Table Knight, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Matsukaze Masaya"
   },
-  "314": {
+  {
     "aliases": "Tamamo Vitch Koyanskaya, [Beast of Cherishment], [Beast IV: L], Yaskaya",
     "alignment": "Lawful・Evil",
     "attribute": "Beast",
@@ -4709,7 +4709,7 @@
     "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Costume-Owning, Demonic, Demonic Beast Servant, Divinity, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Saitō Chiwa"
   },
-  "315": {
+  {
     "aliases": "Habenyan, Habbycat, Habemeow, [Totorot]; [The First Tam Lin]",
     "alignment": "Neutral・Good",
     "attribute": "Earth",
@@ -4724,7 +4724,7 @@
     "traits": "Non-Hominidae Servant, Loved One, Fae, Fairy Tale Servant, Levitating Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Itō Ayasa"
   },
-  "316": {
+  {
     "aliases": "Faerie King;[Oberon Vortigern];[Insect of the Abyss]; [Abyssal Worm]",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -4739,7 +4739,7 @@
     "traits": "Non-Hominidae Servant, Enuma Elish Nullification, Costume-Owning, Dragon, Fae, Humanoid, King, Riding, Servant, Threat to Humanity",
     "voice_actor": "Toyonaga Toshiyuki"
   },
-  "317": {
+  {
     "aliases": "Rengoku, Majin - Okita Sōji, Okita Souji Alter (Saber), Majin Saber",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
@@ -4754,7 +4754,7 @@
     "traits": "Artoria Face, Feminine Looking, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Summer Mode Servant, Shinsengumi Servant, Weak to Enuma Elish",
     "voice_actor": "Yūki Aoi, Nakamura Yūichi"
   },
-  "318": {
+  {
     "aliases": "Anastasia (Archer)",
     "alignment": "Chaotic・Summer",
     "attribute": "Man",
@@ -4769,7 +4769,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Hara Yumi"
   },
-  "319": {
+  {
     "aliases": "",
     "alignment": "Chaotic・Summer",
     "attribute": "Man",
@@ -4784,7 +4784,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Horie Yui"
   },
-  "320": {
+  {
     "aliases": "",
     "alignment": "Lawful・Summer",
     "attribute": "Man",
@@ -4799,7 +4799,7 @@
     "traits": "Enuma Elish Nullification, Child Servant, Hominidae Servant, Humanoid, Riding, Servant, Summer Mode Servant",
     "voice_actor": "Sakamoto Maaya"
   },
-  "321": {
+  {
     "aliases": "Mara",
     "alignment": "Neutral・Evil",
     "attribute": "Sky",
@@ -4814,7 +4814,7 @@
     "traits": "Demonic, Divinity, Hominidae Servant, Humanoid, Immune to Pigify, Pseudo-Servant, Riding, Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Shitaya Noriko"
   },
-  "322": {
+  {
     "aliases": "",
     "alignment": "Neutral・Summer",
     "attribute": "Earth",
@@ -4829,7 +4829,7 @@
     "traits": "Non-Hominidae Servant, Argo-Related, Loved One, Caenis (Trait), Divinity, Divine Spirit, Feminine Looking, Humanoid, Immune to Pigify, King, Riding, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Komatsu Mikako"
   },
-  "323": {
+  {
     "aliases": "Nagiko-san",
     "alignment": "Chaotic・Summer",
     "attribute": "Man",
@@ -4844,7 +4844,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Fairouz Ai"
   },
-  "324": {
+  {
     "aliases": "Shub-Niggurath",
     "alignment": "Neutral・Evil",
     "attribute": "Earth",
@@ -4859,7 +4859,7 @@
     "traits": "Existence Outside the Domain, Divinity, Hominidae Servant, Humanoid, Servant, Threat to Humanity, Weak to Enuma Elish",
     "voice_actor": "Aoki Shiki"
   },
-  "325": {
+  {
     "aliases": "",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -4874,7 +4874,7 @@
     "traits": "Loved One, Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Shōji Umeka"
   },
-  "326": {
+  {
     "aliases": "",
     "alignment": "Chaotic・Balanced",
     "attribute": "Man",
@@ -4889,7 +4889,7 @@
     "traits": "Dragon, Fairy Tale Servant, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Ōkubo Rumi"
   },
-  "327": {
+  {
     "aliases": "Zan Zaburō, Izumo-no-Okuni",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
@@ -4904,7 +4904,7 @@
     "traits": "Group Servant, Humanoid, Servant, Hominidae Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Uesaka Sumire, MAFIA Kajita"
   },
-  "328": {
+  {
     "aliases": "Mori Ranmaru, Mori Naritoshi",
     "alignment": "Lawful・Good",
     "attribute": "Star",
@@ -4919,7 +4919,7 @@
     "traits": "Enuma Elish Nullification, Existence Outside the Domain, Feminine Looking, Hominidae Servant, Levitating Servant, Humanoid, Servant",
     "voice_actor": "Machico"
   },
-  "329": {
+  {
     "aliases": "Oryō, Sakamoto Ryouma",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
@@ -4934,7 +4934,7 @@
     "traits": "Group Servant, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kase Yasuyuki, Horie Yui"
   },
-  "330": {
+  {
     "aliases": "",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -4949,7 +4949,7 @@
     "traits": "Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Hayami Saori"
   },
-  "331": {
+  {
     "aliases": "Grand Duke Wang, Taikōbō, Jiang Ziya, Tai Gong Wang",
     "alignment": "Neutral・Good",
     "attribute": "Earth",
@@ -4964,7 +4964,7 @@
     "traits": "Loved One, Hominidae Servant, Humanoid, Immune to Pigify, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Maeno Tomoaki"
   },
-  "332": {
+  {
     "aliases": "Добрыня Никитич",
     "alignment": "Neutral・Good",
     "attribute": "Earth",
@@ -4979,7 +4979,7 @@
     "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Loved One, Demonic Beast Servant, Dragon, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish, Wild Beast",
     "voice_actor": "Mineda Mayu"
   },
-  "334": {
+  {
     "aliases": "Tamamo Vitch Koyanskaya, [Beast of Cherishment], [Beast IV: L], Yaskaya, Koyanskaya of Dark",
     "alignment": "Chaotic・Evil",
     "attribute": "Beast",
@@ -4994,7 +4994,7 @@
     "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Demonic, Demonic Beast Servant, Divinity, Existence Outside the Domain, Humanoid, Servant, Weak to Enuma Elish, Wild Beast",
     "voice_actor": "Saitō Chiwa"
   },
-  "335": {
+  {
     "aliases": "Iskandar's Shadow, Faker, [Hephaestion's sister], [Hephaestion Mnēmosynē]",
     "alignment": "Neutral・Balanced",
     "attribute": "Earth",
@@ -5009,7 +5009,7 @@
     "traits": "Loved One, Hominidae Servant, Humanoid, Servant, Weak to Enuma Elish",
     "voice_actor": "Taichi Yō"
   },
-  "336": {
+  {
     "aliases": "Bazett Fraga McRemitz, Bazenan",
     "alignment": "Neutral・Good",
     "attribute": "Sky",
@@ -5024,7 +5024,7 @@
     "traits": "Divinity, Hominidae Servant, Humanoid, Immune to Pigify, King, Living Human, Pseudo-Servant, Riding, Servant, Weak to Enuma Elish",
     "voice_actor": "Nabatame Hitomi"
   },
-  "337": {
+  {
     "aliases": "Hai Ba Trung, Hai Bà Trưng, Trưng Trắc, Trưng Nhị",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -5039,7 +5039,7 @@
     "traits": "Divinity, Group Servant, Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant, Stout Defender, Weak to Enuma Elish",
     "voice_actor": "Kondō Reina, Itō Kanae"
   },
-  "338": {
+  {
     "aliases": "Taisai Seikun",
     "alignment": "Neutral・Balanced",
     "attribute": "Earth",
@@ -5054,7 +5054,7 @@
     "traits": "Non-Hominidae Servant, Child Servant, Demonic, Divinity, Humanoid, Immune to Pigify, Servant, Weak to Enuma Elish",
     "voice_actor": "Minami Omi, Kawanishi Kengo"
   },
-  "339": {
+  {
     "aliases": "",
     "alignment": "Neutral・Balanced",
     "attribute": "Earth",
@@ -5069,7 +5069,7 @@
     "traits": "Fairy Tale Servant, Giant, Group Servant, Hominidae Servant, Humanoid, Servant, Weak to Enuma Elish",
     "voice_actor": "Omigawa Chiaki, Takahashi Rie, Yonezawa Madoka"
   },
-  "340": {
+  {
     "aliases": "Caster of Learning with Manga",
     "alignment": "Neutral・Good",
     "attribute": "Sky",
@@ -5084,7 +5084,7 @@
     "traits": "Animal Characteristics Servant, Demonic Beast Servant, Divinity, Fairy Tale Servant, Group Servant, Humanoid, Non-Hominidae Servant, Servant, Seven Knights Servant, Weak to Enuma Elish, Wild Beast",
     "voice_actor": "Takeda Hana"
   },
-  "341": {
+  {
     "aliases": "Lancer of Learning with Manga",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
@@ -5099,7 +5099,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Naganawa Maria"
   },
-  "342": {
+  {
     "aliases": "Constantine XI Dragases Palaiologos, Michael",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -5114,7 +5114,7 @@
     "traits": "Hominidae Servant, Humanoid, King, Loved One, Riding, Roman, Servant, Seven Knights Servant, Stout Defender, Weak to Enuma Elish",
     "voice_actor": "Kamio Shin'ichirō"
   },
-  "343": {
+  {
     "aliases": "Charles the Great",
     "alignment": "Lawful・Good",
     "attribute": "Star",
@@ -5129,7 +5129,7 @@
     "traits": "Enuma Elish Nullification, Loved One, Hominidae Servant, Humanoid, King, Riding, Roman, Servant, Seven Knights Servant",
     "voice_actor": "Kimura Ryōhei"
   },
-  "344": {
+  {
     "aliases": "Orlando",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -5144,7 +5144,7 @@
     "traits": "Loved One, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Terashima Takuma"
   },
-  "345": {
+  {
     "aliases": "Guðrún",
     "alignment": "Chaotic・Balanced",
     "attribute": "Earth",
@@ -5159,7 +5159,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Koga Aoi"
   },
-  "346": {
+  {
     "aliases": "Young Moriarty",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
@@ -5174,7 +5174,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Weak to Enuma Elish",
     "voice_actor": "Itō Kento"
   },
-  "347": {
+  {
     "aliases": "Sancho Panza",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -5189,7 +5189,7 @@
     "traits": "Animal Characteristics Servant, Group Servant, Hominidae Servant, Humanoid, Loved One, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Tobita Nobuo, Arai Satomi"
   },
-  "348": {
+  {
     "aliases": "Zhang Jiao",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
@@ -5204,7 +5204,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Chiba Shigeru"
   },
-  "349": {
+  {
     "aliases": "Takizawa Bakin, Tokimura Michi, Fusehime, Yatsufusa",
     "alignment": "Lawful・Balanced",
     "attribute": "Man",
@@ -5219,7 +5219,7 @@
     "traits": "Divinity, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Serizawa Yū, Kawano Taketoshi"
   },
-  "350": {
+  {
     "aliases": "Chinzei Hachirō",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
@@ -5234,7 +5234,7 @@
     "traits": "Non-Hominidae Servant, Loved One, Genji, Humanoid, Immune to Pigify, Mechanical, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Nomura Kenji"
   },
-  "351": {
+  {
     "aliases": "Arcueid Brunestud",
     "alignment": "Chaotic・Good",
     "attribute": "Star",
@@ -5249,7 +5249,7 @@
     "traits": "Non-Hominidae Servant, Enuma Elish Nullification, Humanoid, Immune to Pigify, Servant",
     "voice_actor": "Hasegawa Ikumi"
   },
-  "352": {
+  {
     "aliases": "Jofuku",
     "alignment": "Chaotic・Balanced",
     "attribute": "Man",
@@ -5264,7 +5264,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Weak to Enuma Elish",
     "voice_actor": "Watada Misaki"
   },
-  "353": {
+  {
     "aliases": "LA, Merlin (Prototype)",
     "alignment": "Chaotic・Good",
     "attribute": "Earth",
@@ -5279,7 +5279,7 @@
     "traits": "Hominidae Servant, Humanoid, Round Table Knight, Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Kawasumi Ayako"
   },
-  "354": {
+  {
     "aliases": "",
     "alignment": "Lawful・Summer",
     "attribute": "Earth",
@@ -5294,7 +5294,7 @@
     "traits": "Loved One, Hominidae Servant, Humanoid, Riding, Round Table Knight, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Kuwahara Yūki"
   },
-  "355": {
+  {
     "aliases": "",
     "alignment": "Chaotic・Summer",
     "attribute": "Sky",
@@ -5309,7 +5309,7 @@
     "traits": "Costume-Owning, Non-Hominidae Servant, Animal Characteristics Servant, Demonic, Demonic Beast Servant, Divinity, Divine Spirit, Dragon, Levitating Servant, Giant, Goddess Servant, Immune to Pigify, Oni, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Yūki Aoi"
   },
-  "356": {
+  {
     "aliases": "",
     "alignment": "Lawful・Balanced",
     "attribute": "Man",
@@ -5324,7 +5324,7 @@
     "traits": "Child Servant, Divinity, Hominidae Servant, Humanoid, Living Human, Riding, Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Kitō Akari"
   },
-  "357": {
+  {
     "aliases": "Skaði (Summer)",
     "alignment": "Chaotic・Summer",
     "attribute": "Sky",
@@ -5339,7 +5339,7 @@
     "traits": "Non-Hominidae Servant, Costume-Owning, Divinity, Divine Spirit, Humanoid, Immune to Pigify, King, Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Noto Mamiko"
   },
-  "358": {
+  {
     "aliases": "",
     "alignment": "Lawful・Evil",
     "attribute": "Man",
@@ -5354,7 +5354,7 @@
     "traits": "Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Izawa Shiori"
   },
-  "359": {
+  {
     "aliases": "Rindr",
     "alignment": "Lawful・Summer",
     "attribute": "Sky",
@@ -5369,7 +5369,7 @@
     "traits": "Non-Hominidae Servant, Costume-Owning, Divinity, Divine Spirit, Levitating Servant, Humanoid, Servant, Seven Knights Servant, Summer Mode Servant, Valkyrie (Trait), Weak to Enuma Elish",
     "voice_actor": "Amamiya Sora"
   },
-  "360": {
+  {
     "aliases": "Ölrún",
     "alignment": "Lawful・Summer",
     "attribute": "Sky",
@@ -5384,7 +5384,7 @@
     "traits": "Non-Hominidae Servant, Costume-Owning, Divinity, Divine Spirit, Levitating Servant, Humanoid, Servant, Seven Knights Servant, Summer Mode Servant, Valkyrie (Trait), Weak to Enuma Elish",
     "voice_actor": "Komatsu Mikako"
   },
-  "361": {
+  {
     "aliases": "Geirskögul",
     "alignment": "Lawful・Summer",
     "attribute": "Sky",
@@ -5399,7 +5399,7 @@
     "traits": "Non-Hominidae Servant, Costume-Owning, Divinity, Divine Spirit, Levitating Servant, Humanoid, Servant, Seven Knights Servant, Summer Mode Servant, Valkyrie (Trait), Weak to Enuma Elish",
     "voice_actor": "Tanaka Minami"
   },
-  "362": {
+  {
     "aliases": "Rikyū-san; [Komahime]",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
@@ -5414,7 +5414,7 @@
     "traits": "Levitating Servant, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Sonozaki Mie"
   },
-  "363": {
+  {
     "aliases": "Sannan",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -5429,7 +5429,7 @@
     "traits": "Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Shinsengumi Servant, Weak to Enuma Elish",
     "voice_actor": "Hirakawa Daisuke"
   },
-  "364": {
+  {
     "aliases": "",
     "alignment": "Lawful・Evil",
     "attribute": "Earth",
@@ -5444,7 +5444,7 @@
     "traits": "Costume-Owning, Hominidae Servant, Humanoid, King, Servant, Weak to Enuma Elish",
     "voice_actor": "Ozawa Ari"
   },
-  "365": {
+  {
     "aliases": "Assassin of Mt. Liang, Koen Shaku, Double-Clubs, Heavenly Force Star",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
@@ -5459,7 +5459,7 @@
     "traits": "Animal Characteristics Servant, Loved One, Demonic, Hominidae Servant, Humanoid, Mount Liang, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish, Wild Beast",
     "voice_actor": "Iwami Manaka"
   },
-  "366": {
+  {
     "aliases": "Kō Hiko",
     "alignment": "Chaotic・Good",
     "attribute": "Earth",
@@ -5474,7 +5474,7 @@
     "traits": "Divinity, Group Servant, Hominidae Servant, Humanoid, Loved One, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kasama Jun, Saiga Mitsuki"
   },
-  "367": {
+  {
     "aliases": "Nine-Tattoo Dragon Shi Jin",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
@@ -5489,7 +5489,7 @@
     "traits": "Loved One, Child Servant, Dragon, Hominidae Servant, Humanoid, Mount Liang, Servant, Weak to Enuma Elish",
     "voice_actor": "Ōkubo Rumi"
   },
-  "368": {
+  {
     "aliases": "",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -5504,7 +5504,7 @@
     "traits": "Non-Hominidae Servant, Loved One, Fae, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Wakabayashi Naomi"
   },
-  "369": {
+  {
     "aliases": "Father Kotomine, Kotomine Kirei",
     "alignment": "Lawful・Evil",
     "attribute": "Earth",
@@ -5519,7 +5519,7 @@
     "traits": "Dragon, Hominidae Servant, Humanoid, Moon, Servant, Weak to Enuma Elish,Pseudo-Servant",
     "voice_actor": "Nakata Jōji"
   },
-  "370": {
+  {
     "aliases": "Nitocris—Anubis",
     "alignment": "Chaotic・Evil",
     "attribute": "Sky",
@@ -5534,7 +5534,7 @@
     "traits": "Divinity, Divine Spirit, Hominidae Servant, Humanoid, King, Levitating Servant, Servant, Weak to Enuma Elish",
     "voice_actor": "Tanaka Minami"
   },
-  "371": {
+  {
     "aliases": "Smoking Mirror, Black Tezcatlipoca, Red Tezcatlipoca, Grand Assassin",
     "alignment": "Chaotic・Good",
     "attribute": "Sky",
@@ -5549,7 +5549,7 @@
     "traits": "Non-Hominidae Servant, Divinity, Divine Spirit, Humanoid, Immune to Pigify, Living Human, Pseudo-Servant, Servant, Seven Knights Servant, Weak to Enuma Elish, Costume-Owning",
     "voice_actor": "Mikami Satoshi"
   },
-  "372": {
+  {
     "aliases": "Tlaloc, Huitzilopochtli, Hummingbird",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -5564,7 +5564,7 @@
     "traits": "Non-Hominidae Servant, Divinity, Humanoid, Immune to Pigify, Servant, Weak to Enuma Elish",
     "voice_actor": "Honda Mariko"
   },
-  "373": {
+  {
     "aliases": "Sun of Nahui Mictlan,Teaching of the Sun(太陽の教え), [ORT—Kukulkan], [Archetype: ORT]",
     "alignment": "Lawful・Good",
     "attribute": "Star",
@@ -5579,7 +5579,7 @@
     "traits": "Non-Hominidae Servant, Enuma Elish Nullification, Humanoid, Immune to Pigify, Servant",
     "voice_actor": "Suwa Ayaka"
   },
-  "374": {
+  {
     "aliases": "Pope Joan, Ioanna Papissa, Ioannes Anglicus",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -5594,7 +5594,7 @@
     "traits": "Hominidae Servant, Humanoid, Roman, Servant, Weak to Enuma Elish",
     "voice_actor": "Hioka Natsumi"
   },
-  "375": {
+  {
     "aliases": "",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
@@ -5609,7 +5609,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kakihara Tetsuya"
   },
-  "376": {
+  {
     "aliases": "Tiamat ''(during battle)''",
     "alignment": "Chaotic・Evil",
     "attribute": "Star",
@@ -5624,7 +5624,7 @@
     "traits": "Non-Hominidae Servant, Enuma Elish Nullification, Animal Characteristics Servant, Demonic Beast Servant, Divinity, Divine Spirit, Dragon, Goddess Servant, Immune to Pigify, Obstacle Maker, Servant, Super Large",
     "voice_actor": "Yūki Aoi"
   },
-  "377": {
+  {
     "aliases": "Beast VI/S, Draco, Nero Draco, Beast of 666",
     "alignment": "Chaotic・Evil",
     "attribute": "Beast",
@@ -5639,7 +5639,7 @@
     "traits": "Enuma Elish Nullification, Animal Characteristics Servant, Artoria Face, Dragon, Humanoid, Immune to Pigify, King, Non-Hominidae Servant, Roman, Servant",
     "voice_actor": "Tange Sakura"
   },
-  "378": {
+  {
     "aliases": "",
     "alignment": "Chaotic・Balanced",
     "attribute": "Man",
@@ -5654,7 +5654,7 @@
     "traits": "Hominidae Servant, Humanoid, Roman, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Tsumugi Risa"
   },
-  "379": {
+  {
     "aliases": "",
     "alignment": "Lawful・Balanced",
     "attribute": "Earth",
@@ -5669,7 +5669,7 @@
     "traits": "Loved One, Child Servant, Divinity, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Murase Ayumu"
   },
-  "380": {
+  {
     "aliases": "",
     "alignment": "Neutral・Evil",
     "attribute": "Earth",
@@ -5684,7 +5684,7 @@
     "traits": "Non-Hominidae Servant, Demonic, Feminine Looking, Immune to Pigify, Mechanical, Oni, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Seto Asami"
   },
-  "381": {
+  {
     "aliases": "Bhimasena",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
@@ -5699,7 +5699,7 @@
     "traits": "Loved One, Divinity, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Eguchi Takuya"
   },
-  "382": {
+  {
     "aliases": "Suyodhana",
     "alignment": "Lawful・Evil",
     "attribute": "Earth",
@@ -5714,7 +5714,7 @@
     "traits": "Demonic, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Fujinuma Kento"
   },
-  "383": {
+  {
     "aliases": "Kali",
     "alignment": "Lawful・Balanced",
     "attribute": "Sky",
@@ -5729,7 +5729,7 @@
     "traits": "Divinity, Divine Spirit, Goddess Servant, Hominidae Servant, Humanoid, Immune to Pigify, Living Human, Pseudo-Servant, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Shitaya Noriko"
   },
-  "384": {
+  {
     "aliases": "",
     "alignment": "Chaotic・Neutral",
     "attribute": "Earth",
@@ -5744,7 +5744,7 @@
     "traits": "Non-Hominidae Servant, Divinity, Divine Spirit, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Asakawa Yū"
   },
-  "385": {
+  {
     "aliases": "Aesc the Rain Witch, Beach Queen Morgan, Tonelico the Savior",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -5759,7 +5759,7 @@
     "traits": "Non-Hominidae Servant, Artoria Face, Fae, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Ishikawa Yui"
   },
-  "386": {
+  {
     "aliases": "",
     "alignment": "Neutral・Good",
     "attribute": "Star",
@@ -5774,7 +5774,7 @@
     "traits": "Non-Hominidae Servant, Enuma Elish Nullification, Artoria Caster (Trait), Artoria Face, Arthur, Fae, Humanoid, Round Table Knight, Servant, Seven Knights Servant, Summer Mode Servant",
     "voice_actor": "Kawasumi Ayako"
   },
-  "387": {
+  {
     "aliases": "Suzuka Gozen (Rider)",
     "alignment": "Neutral・Summer",
     "attribute": "Sky",
@@ -5789,7 +5789,7 @@
     "traits": "Non-Hominidae Servant, Divinity, Divine Spirit, Humanoid, Oni, Riding, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Tōyama Nao"
   },
-  "388": {
+  {
     "aliases": "",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
@@ -5804,7 +5804,7 @@
     "traits": "Child Servant, Costume-Owning, Hominidae Servant, Humanoid, Living Human, Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Saitō Chiwa"
   },
-  "389": {
+  {
     "aliases": "Knocknarea",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -5819,7 +5819,7 @@
     "traits": "Fae, Humanoid, King, Non-Hominidae Servant, Obstacle Maker, Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Sakura Ayane"
   },
-  "390": {
+  {
     "aliases": "Mélusine Undine, Meluko",
     "alignment": "Neutral・Evil",
     "attribute": "Earth",
@@ -5834,7 +5834,7 @@
     "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Demonic Beast Servant, Dragon, Enuma Elish Nullification, Fae, Fairy Tale Servant, Humanoid, Immune to Pigify, Loved One, Riding, Servant, Summer Mode Servant",
     "voice_actor": "Kōno Marika"
   },
-  "391": {
+  {
     "aliases": "Barghest, Faerie Knight Barghest, Union Defence Knights Barghest",
     "alignment": "Chaotic・Good",
     "attribute": "Earth",
@@ -5849,7 +5849,7 @@
     "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Demonic Beast Servant, Fae, Humanoid, Loved One, Servant, Seven Knights Servant, Stout Defender, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Inoue Marina"
   },
-  "392": {
+  {
     "aliases": "Baobhan Sith, Faerie Knight Tristan",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
@@ -5864,7 +5864,7 @@
     "traits": "Non-Hominidae Servant, Demonic, Fae, Humanoid, Riding, Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Waki Azumi"
   },
-  "393": {
+  {
     "aliases": "Wanjina, Wondjina",
     "alignment": "Chaotic・Good",
     "attribute": "Sky",
@@ -5879,7 +5879,7 @@
     "traits": "Costume-Owning, Existence Outside the Domain, Feminine Looking, Immune to Pigify, Non-Hominidae Servant, Servant, Weak to Enuma Elish",
     "voice_actor": "Haruno Anzu"
   },
-  "394": {
+  {
     "aliases": "Ptolemy, Ptolemaeus, Ptolemy I Soter, Ptolemeu, Ptolemaîos",
     "alignment": "Lawful・Balanced",
     "attribute": "Man",
@@ -5894,7 +5894,7 @@
     "traits": "Hominidae Servant, Humanoid, King, Loved One, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Ono Kenshō, Horiuchi Ken'yū"
   },
-  "395": {
+  {
     "aliases": "",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
@@ -5909,7 +5909,7 @@
     "traits": "Feminine Looking, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Gotō Yūko"
   },
-  "396": {
+  {
     "aliases": "",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
@@ -5924,7 +5924,7 @@
     "traits": "Argo-Related, Greek Mythology Male, Hominidae Servant, Humanoid, King, Loved One, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Egoshi Akinori"
   },
-  "397": {
+  {
     "aliases": "Takeda Harunobu",
     "alignment": "Lawful・Evil",
     "attribute": "Man",
@@ -5939,7 +5939,7 @@
     "traits": "Genji, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Umehara Yūichirō"
   },
-  "398": {
+  {
     "aliases": "Sugimura Yoshie",
     "alignment": "Neutral・Good",
     "attribute": "Man",
@@ -5954,7 +5954,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Shinsengumi Servant, Weak to Enuma Elish",
     "voice_actor": "Fukunishi Masaya"
   },
-  "399": {
+  {
     "aliases": "Firefly",
     "alignment": "Lawful・Good",
     "attribute": "Man",
@@ -5969,7 +5969,7 @@
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Ōzora Naomi"
   },
-  "400": {
+  {
     "aliases": "Nagao Kagetora (Ruler), Northern God of War",
     "alignment": "Chaotic・Balanced",
     "attribute": "Earth",
@@ -5984,7 +5984,7 @@
     "traits": "Divinity, Hominidae Servant, Humanoid, Servant, Riding, Weak to Enuma Elish",
     "voice_actor": "Mizuki Nana"
   },
-  "401": {
+  {
     "aliases": "",
     "alignment": "Chaotic・Balanced",
     "attribute": "Sky",
@@ -5999,7 +5999,7 @@
     "traits": "Argo-Related, Divine Spirit, Divinity, Greek Mythology Male, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Hanamori Yumiri"
   },
-  "402": {
+  {
     "aliases": "Yamato Takeru no Mikoto, Hero of the Boundless Azure, The Righteous Prince",
     "alignment": "Neutral・Good",
     "attribute": "Sky",
@@ -6014,4 +6014,4 @@
     "traits": "Divinity, Feminine Looking, Hominidae Servant, Humanoid, Loved One, Servant, Riding, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Yamamura Hibiku"
   }
-}
+]

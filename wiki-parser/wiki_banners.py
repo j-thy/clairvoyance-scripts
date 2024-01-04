@@ -10,6 +10,7 @@ from tqdm import tqdm
 from datetime import date
 from iteration_utilities import unique_everseen
 from wiki_banner_fixes import BANNER_NAME_CHANGE, CORRECT_DATES_JP, CORRECT_DATES_NA
+from django.utils.text import slugify
 
 # Define format of progress bar.
 BAR_FORMAT_BANNERS = "{l_bar}{bar:50}{r_bar}{bar:-50b}"
@@ -421,6 +422,7 @@ SITE = None # Wiki site
 EVENT_SET_JP = {} # Dictionary of banners for JP
 EVENT_SET_NA = {} # Dictionary of banners for NA
 PAGES_VISITED = set() # Set of pages visited
+USED_SLUGS = set() # Set of slugs used
 CURRENT_YEAR = 0 # Current year
 CURRENT_REGION = "" # Current region
 PRESENT_YEAR = 2024
@@ -439,7 +441,7 @@ def initialize():
         SERVANT_DATA = jsons.loads(f.read())
 
     # Get the names and IDs of all the servants.
-    SERVANT_NAMES = {SERVANT_DATA[servant]['name'] : int(SERVANT_DATA[servant]['id']) for servant in SERVANT_DATA}
+    SERVANT_NAMES = {servant['name'] : int(servant['id']) for servant in SERVANT_DATA}
 
 # Parse the raw date range strings into date objects
 def date_parser(start_date, end_date, year):
@@ -1033,8 +1035,6 @@ def parse_event_lists(event_lists, region):
         if CURRENT_YEAR == PRESENT_YEAR:
             current_event_category = pywikibot.Category(SITE, "Current Event" if CURRENT_REGION == "JP" else "Current Event (US)")
             current_events = []
-            current_date_list = []
-            current_images = []
             for page in current_event_category.articles():
                 title = page.title()
                 # If title in PAGES_VISITED, skip it
@@ -1199,6 +1199,59 @@ def remove_us_suffix(event_set):
 
     return temp_dict
 
+def write_json(data_list, file_name):
+    # Create the new version of the JSON file from the banner list.
+    json_obj = jsons.dump(data_list)
+    with open(os.path.join(DIR_PATH, file_name), 'w') as f:
+        f.write(json.dumps(json_obj, indent=2, sort_keys=False).replace(r'\"', r'\\"').encode().decode('unicode-escape'))
+
+def create_debug_json(event_set, region):
+    debug_list = []
+    for event in event_set:
+        banners = []
+        for banner in event.banners:
+            banners.append({
+                'name': banner.name,
+                'start_date': banner.start_date.strftime("%-m/%-d/%Y"),
+                'end_date': banner.end_date.strftime("%-m/%-d/%Y"),
+                'date_origin': banner.date_origin,
+                'rateups': banner.rateups,
+                'num_rateups': len(banner.rateups),
+            })
+        debug_list.append({
+            'name': event.name,
+            'region': event.region,
+            'image_file' : event.image_file,
+            'banners': banners,
+        })
+
+    # Save the banner list to a JSON file.
+    print("Saving to JSON file...")
+    write_json(debug_list, "summon_data.json" if region == "JP" else "summon_data_na.json")
+
+def create_event_json(event_set, region):
+    event_list = []
+    for event in event_set:
+        # Create an ID for the event.
+        slug = slugify(f'{event.name}-{event.region}')
+        i = 1
+        while slug in USED_SLUGS:
+            slug = slugify(f'{event.name}-{event.region}-{i}')
+            i += 1
+        USED_SLUGS.add(slug)
+
+        # Create a list to export to JSON
+        event_list.append({
+            'slug' : slug,
+            'name': event.name,
+            'region': event.region,
+            'image_file' : event.image_file,
+        })
+
+    # Save the banner list to a JSON file.
+    print("Saving to JSON file...")
+    write_json(event_list, "event_data.json" if region == "JP" else "event_data_na.json")
+
 def parse_and_create(event_list, event_set, region):
     print("Parsing all events...")
     parse_event_lists(event_list, region)
@@ -1228,33 +1281,10 @@ def parse_and_create(event_list, event_set, region):
     print("Fixing dates...")
     fix_dates(event_set, CORRECT_DATES_JP if region == "JP" else CORRECT_DATES_NA)
 
-    # Create the JSON representation
-    print("Creating JSON data...")
-    event_list = []
-    for event in event_set:
-        banners = []
-        for banner in event.banners:
-            banners.append({
-                'name': banner.name,
-                'start_date': banner.start_date.strftime("%-m/%-d/%Y"),
-                'end_date': banner.end_date.strftime("%-m/%-d/%Y"),
-                'date_origin': banner.date_origin,
-                'rateups': banner.rateups,
-                'num_rateups': len(banner.rateups),
-            })
-        event_list.append({
-            'name': event.name,
-            'region': event.region,
-            'image_file' : event.image_file,
-            'banners': banners,
-        })
+    # Create the JSON representation for debug data
+    print("Creating debug JSON data...")
+    create_debug_json(event_set, region)
 
-    # Save the banner list to a JSON file.
-    print("Saving to JSON file...")
-    # Filenames for the JSON files.
-    FILE_NEW = "summon_data.json" if region == "JP" else "summon_data_na.json"
-
-    # Create the new version of the JSON file from the banner list.
-    json_obj = jsons.dump(event_list)
-    with open(os.path.join(DIR_PATH, FILE_NEW), 'w') as f:
-        f.write(json.dumps(json_obj, indent=2, sort_keys=False).replace(r'\"', r'\\"').encode().decode('unicode-escape'))
+    # Create the JSON representation for event data
+    print("Creating event JSON data...")
+    create_event_json(event_set, region)

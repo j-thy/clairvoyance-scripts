@@ -69,7 +69,7 @@ class Servant:
         self.alignment = template.get("alignment").value.strip()
         self.traits = template.get("traits").value.strip()
 
-SERVANT_DICT = {}
+SERVANT_LIST = []
 
 def parse_servants():
     print('Parsing servants...')
@@ -101,7 +101,7 @@ def parse_servants():
                     break
                 # If the ID is valid, export the servant's data
                 if id_val.isdigit():
-                    SERVANT_DICT[int(id_val)] = Servant(title, template)
+                    SERVANT_LIST.append(Servant(title, template))
                 else:
                     pbar.clear()
                     print(f'No ID found for {title}')
@@ -111,6 +111,6 @@ def write_to_json():
     print('Writing servant data to JSON...')
     # Save to JSON file
     with open(os.path.join(os.path.dirname(__file__), 'servant_data.json'), 'w') as f:
-        json_obj = jsons.dump(SERVANT_DICT)
+        json_obj = jsons.dump(SERVANT_LIST)
         # Convert unicode \uXXXX to actual characters
         f.write(json_filter(json.dumps(json_obj, indent=2)).encode().decode('unicode-escape'))
