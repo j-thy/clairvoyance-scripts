@@ -61,7 +61,6 @@ class Servant:
             self.aliases = ""
         self.voice_actor = template.get("voicea").value.strip()
         self.illustrator = template.get("illus").value.strip()
-        self.release = template.get("release").value.strip()
         self.class_type = template.get("class").value.strip()
         self.rarity = int(template.get("stars").value.strip())
         self.attribute = template.get("attribute").value.strip()
