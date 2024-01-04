@@ -12,7 +12,7 @@ from iteration_utilities import unique_everseen
 from wiki_banner_fixes import BANNER_NAME_CHANGE, CORRECT_DATES_JP, CORRECT_DATES_NA
 
 # Define format of progress bar.
-BAR_FORMAT = "{l_bar}{bar:50}{r_bar}{bar:-50b}"
+BAR_FORMAT_BANNERS = "{l_bar}{bar:50}{r_bar}{bar:-50b}"
 
 # NOTE: Halloween Trilogy missing Kiyohime in first table
 # NOTE: FGO 2nd Anni JP missing lots of servants
@@ -1060,7 +1060,7 @@ def parse_event_lists(event_lists, region):
         event_images = dict(zip(events, images))
 
         # Parse each event
-        for event in (pbar := tqdm(events, bar_format=BAR_FORMAT)):
+        for event in (pbar := tqdm(events, bar_format=BAR_FORMAT_BANNERS)):
             pbar.set_postfix_str(event)
 
             # Open the event page

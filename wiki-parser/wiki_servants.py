@@ -6,9 +6,9 @@ import os
 import re
 from tqdm import tqdm
 
-BAR_FORMAT = "{l_bar}{bar:50}{r_bar}{bar:-50b}"
+BAR_FORMAT_SERVANTS = "{l_bar}{bar:50}{r_bar}{bar:-50b}"
 
-CATEGORY = 'Servant_ID_Order'
+CATEGORY = 'Servant ID Order'
 
 FILTERS = {
     # \n -> ', '
@@ -69,16 +69,16 @@ class Servant:
         self.alignment = template.get("alignment").value.strip()
         self.traits = template.get("traits").value.strip()
 
-servant_dict = {}
+SERVANT_DICT = {}
 
-def parse(category_name):
+def parse_servants():
     # Load the servants page
     site = pywikibot.Site()
-    category = pywikibot.Category(site, category_name)
+    category = pywikibot.Category(site, CATEGORY)
     category_length = len(list(category.articles()))
 
     # Iterate through each servant's page.
-    for page in (pbar := tqdm(category.articles(), total=category_length, bar_format=BAR_FORMAT)):
+    for page in (pbar := tqdm(category.articles(), total=category_length, bar_format=BAR_FORMAT_SERVANTS)):
         # Get name of servant
         title = page.title()
         pbar.set_postfix_str(title)
@@ -100,16 +100,18 @@ def parse(category_name):
                     break
                 # If the ID is valid, export the servant's data
                 if id_val.isdigit():
-                    servant_dict[int(id_val)] = Servant(title, template)
+                    SERVANT_DICT[int(id_val)] = Servant(title, template)
                 else:
                     pbar.clear()
                     print(f'No ID found for {title}')
                 break
 
-parse(CATEGORY)
+def write_to_json():
+    # Save to JSON file
+    with open(os.path.join(os.path.dirname(__file__), 'servant_data.json'), 'w') as f:
+        json_obj = jsons.dump(SERVANT_DICT)
+        # Convert unicode \uXXXX to actual characters
+        f.write(json_filter(json.dumps(json_obj, indent=2)).encode().decode('unicode-escape'))
 
-# Save to JSON file
-with open(os.path.join(os.path.dirname(__file__), 'servant_data.json'), 'w') as f:
-    json_obj = jsons.dump(servant_dict)
-    # Convert unicode \uXXXX to actual characters
-    f.write(json_filter(json.dumps(json_obj, indent=2)).encode().decode('unicode-escape'))
+parse_servants()
+write_to_json()
