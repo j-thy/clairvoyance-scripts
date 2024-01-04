@@ -1227,30 +1227,32 @@ def create_debug_json(event_set, region):
 
     # Save the banner list to a JSON file.
     print("Saving to JSON file...")
-    write_json(debug_list, "summon_data.json" if region == "JP" else "summon_data_na.json")
+    write_json(debug_list, "summon_data_jp.json" if region == "JP" else "summon_data_na.json")
 
-def create_event_json(event_set, region):
+def create_event_json(event_set_jp, event_set_na):
     event_list = []
-    for event in event_set:
-        # Create an ID for the event.
-        slug = slugify(f'{event.name}-{event.region}')
-        i = 1
-        while slug in USED_SLUGS:
-            slug = slugify(f'{event.name}-{event.region}-{i}')
-            i += 1
-        USED_SLUGS.add(slug)
+    event_sets = [event_set_jp, event_set_na]
+    for event_set in event_sets:
+        for event in event_set:
+            # Create an ID for the event.
+            slug = slugify(f'{event.name}-{event.region}')
+            i = 1
+            while slug in USED_SLUGS:
+                slug = slugify(f'{event.name}-{event.region}-{i}')
+                i += 1
+            USED_SLUGS.add(slug)
 
-        # Create a list to export to JSON
-        event_list.append({
-            'slug' : slug,
-            'name': event.name,
-            'region': event.region,
-            'image_file' : event.image_file,
-        })
+            # Create a list to export to JSON
+            event_list.append({
+                'slug' : slug,
+                'name': event.name,
+                'region': event.region,
+                'image_file' : event.image_file,
+            })
 
     # Save the banner list to a JSON file.
     print("Saving to JSON file...")
-    write_json(event_list, "event_data.json" if region == "JP" else "event_data_na.json")
+    write_json(event_list, "event_data.json")
 
 def parse_and_create(event_list, event_set, region):
     print("Parsing all events...")
@@ -1284,7 +1286,3 @@ def parse_and_create(event_list, event_set, region):
     # Create the JSON representation for debug data
     print("Creating debug JSON data...")
     create_debug_json(event_set, region)
-
-    # Create the JSON representation for event data
-    print("Creating event JSON data...")
-    create_event_json(event_set, region)

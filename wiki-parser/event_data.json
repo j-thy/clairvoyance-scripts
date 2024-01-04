@@ -1,0 +1,4232 @@
+[
+  {
+    "slug": "3m-downloads-campaign-jp",
+    "name": "3M Downloads Campaign",
+    "region": "JP",
+    "image_file": "3mdownloads.png"
+  },
+  {
+    "slug": "fatestay-night-campaign-jp",
+    "name": "Fate/Stay Night Campaign",
+    "region": "JP",
+    "image_file": "fsnevent.png"
+  },
+  {
+    "slug": "nero-festival-jp",
+    "name": "Nero Festival",
+    "region": "JP",
+    "image_file": "nerofestival.png"
+  },
+  {
+    "slug": "moon-goddess-event-jp",
+    "name": "Moon Goddess Event",
+    "region": "JP",
+    "image_file": "artemisevent.png"
+  },
+  {
+    "slug": "4m-downloads-campaign-jp",
+    "name": "4M Downloads Campaign",
+    "region": "JP",
+    "image_file": "4mdownloads.png"
+  },
+  {
+    "slug": "orleans-campaign-jp",
+    "name": "Orleans Campaign",
+    "region": "JP",
+    "image_file": "orleansevent.png"
+  },
+  {
+    "slug": "halloween-2015-event-jp",
+    "name": "Halloween 2015 Event",
+    "region": "JP",
+    "image_file": "hallowelizevent.png"
+  },
+  {
+    "slug": "okeanos-chapter-release-jp",
+    "name": "Okeanos Chapter Release",
+    "region": "JP",
+    "image_file": "Okeanos release banner.png"
+  },
+  {
+    "slug": "da-vinci-chans-choice-2015-jp",
+    "name": "Da Vinci-chan's Choice 2015",
+    "region": "JP",
+    "image_file": "Summon 20151118.png"
+  },
+  {
+    "slug": "gudaguda-honnouji-event-jp",
+    "name": "GUDAGUDA Honnouji Event",
+    "region": "JP",
+    "image_file": "honnojievent.png"
+  },
+  {
+    "slug": "scathach-campaign-jp",
+    "name": "Scáthach Campaign",
+    "region": "JP",
+    "image_file": "Scathachevent.jpg"
+  },
+  {
+    "slug": "christmas-2015-jp",
+    "name": "Christmas 2015",
+    "region": "JP",
+    "image_file": "Altersantaevent.png"
+  },
+  {
+    "slug": "london-chapter-release-jp",
+    "name": "London Chapter Release",
+    "region": "JP",
+    "image_file": "Londonrelease.png"
+  },
+  {
+    "slug": "new-year-campaign-2016-jp",
+    "name": "New Year Campaign 2016",
+    "region": "JP",
+    "image_file": "Newyear2016.png"
+  },
+  {
+    "slug": "saber-wars-event-jp",
+    "name": "Saber Wars Event",
+    "region": "JP",
+    "image_file": "saberwars.png"
+  },
+  {
+    "slug": "5m-downloads-campaign-jp",
+    "name": "5M Downloads Campaign",
+    "region": "JP",
+    "image_file": "5MilDL_Event_Banner.png"
+  },
+  {
+    "slug": "valentine-2016-event-jp",
+    "name": "Valentine 2016 Event",
+    "region": "JP",
+    "image_file": "Valentine_2016_Banner.png"
+  },
+  {
+    "slug": "kara-no-kyoukai-collaboration-event-jp",
+    "name": "Kara no Kyoukai Collaboration Event",
+    "region": "JP",
+    "image_file": "Kara_no_kyoukai_event.png"
+  },
+  {
+    "slug": "chaldea-boys-collection-2016-jp",
+    "name": "Chaldea Boys Collection 2016",
+    "region": "JP",
+    "image_file": "Chaldea Boys Collection.png"
+  },
+  {
+    "slug": "cries-of-the-vengeful-demon-in-the-prison-tower-jp",
+    "name": "Cries of The Vengeful Demon in the Prison Tower",
+    "region": "JP",
+    "image_file": "Avenger_Event.png"
+  },
+  {
+    "slug": "animejapan-2016-exhibition-commemoration-campaign-jp",
+    "name": "AnimeJapan 2016 Exhibition Commemoration Campaign",
+    "region": "JP",
+    "image_file": "AnimeJapan 2016 Exhibiion Campaign.png"
+  },
+  {
+    "slug": "e-pluribus-unum-chapter-release-jp",
+    "name": "E Pluribus Unum Chapter Release",
+    "region": "JP",
+    "image_file": "Americabanner.png"
+  },
+  {
+    "slug": "da-vinci-and-the-7-counterfeit-heroic-spirits-jp",
+    "name": "Da Vinci and The 7 Counterfeit Heroic Spirits",
+    "region": "JP",
+    "image_file": "Da Vinci and 7 Fakers.png"
+  },
+  {
+    "slug": "fateaccel-zero-order-event-jp",
+    "name": "Fate/Accel Zero Order Event",
+    "region": "JP",
+    "image_file": "Fzeventreal2.png"
+  },
+  {
+    "slug": "kintoki-summoning-campaign-jp",
+    "name": "Kintoki Summoning Campaign",
+    "region": "JP",
+    "image_file": "Kintoki Gacha.png"
+  },
+  {
+    "slug": "rashomon-event-jp",
+    "name": "Rashomon Event",
+    "region": "JP",
+    "image_file": "Banner Ibaraki Douji Event.png"
+  },
+  {
+    "slug": "journey-to-the-west-jp",
+    "name": "Journey to The West",
+    "region": "JP",
+    "image_file": "Journey to the west cover.png"
+  },
+  {
+    "slug": "6m-downloads-campaign-jp",
+    "name": "6M Downloads Campaign",
+    "region": "JP",
+    "image_file": "6M_Downloads_Banner.png"
+  },
+  {
+    "slug": "onigashima-event-jp",
+    "name": "Onigashima Event",
+    "region": "JP",
+    "image_file": "Onigashima Event.png"
+  },
+  {
+    "slug": "camelot-chapter-release-jp",
+    "name": "Camelot Chapter Release",
+    "region": "JP",
+    "image_file": "Camelot Banner.png"
+  },
+  {
+    "slug": "fgo-summer-festival-2016-1st-anniversary-jp",
+    "name": "FGO Summer Festival 2016 ~1st Anniversary~",
+    "region": "JP",
+    "image_file": "Summerbanner.png"
+  },
+  {
+    "slug": "fgo-2016-summer-event-jp",
+    "name": "FGO 2016 Summer Event",
+    "region": "JP",
+    "image_file": "FGO 2016 Summer.png"
+  },
+  {
+    "slug": "prisma-causeway-event-jp",
+    "name": "Prisma Causeway Event",
+    "region": "JP",
+    "image_file": "Banner 100797458.png"
+  },
+  {
+    "slug": "class-specified-summoning-campaign-jp",
+    "name": "Class-Specified Summoning Campaign",
+    "region": "JP",
+    "image_file": "ClassSpecifiedRateUp.png"
+  },
+  {
+    "slug": "nero-festival-redux-2016-autumn-jp",
+    "name": "Nero Festival Redux ~2016 Autumn~",
+    "region": "JP",
+    "image_file": "Banner 100832456.png"
+  },
+  {
+    "slug": "7m-downloads-campaign-jp",
+    "name": "7M Downloads Campaign",
+    "region": "JP",
+    "image_file": "7MDLBanner.png"
+  },
+  {
+    "slug": "halloween-2015-event-re-run-lite-ver-jp",
+    "name": "Halloween 2015 Event Re-Run Lite Ver",
+    "region": "JP",
+    "image_file": "Halloween Re-Run Lite Ver..png"
+  },
+  {
+    "slug": "halloween-2016-event-jp",
+    "name": "Halloween 2016 Event",
+    "region": "JP",
+    "image_file": "Halloween2016ActualBanner.png"
+  },
+  {
+    "slug": "fateextella-release-commemoration-campaign-jp",
+    "name": "Fate/EXTELLA Release Commemoration Campaign",
+    "region": "JP",
+    "image_file": "Fate Extella Campaign.png"
+  },
+  {
+    "slug": "round-table-knights-summoning-campaign-jp",
+    "name": "Round Table Knights Summoning Campaign",
+    "region": "JP",
+    "image_file": "Round Table Bait.png"
+  },
+  {
+    "slug": "christmas-2015-re-run-jp",
+    "name": "Christmas 2015 Re-Run",
+    "region": "JP",
+    "image_file": "ReRunChristmas2015Banner.png"
+  },
+  {
+    "slug": "amakusa-shiro-summoning-campaign-jp",
+    "name": "Amakusa Shirō Summoning Campaign",
+    "region": "JP",
+    "image_file": "amakusagacha.jpg"
+  },
+  {
+    "slug": "christmas-2016-jp",
+    "name": "Christmas 2016",
+    "region": "JP",
+    "image_file": "Xmas2016bannerreal.png"
+  },
+  {
+    "slug": "altera-summoning-campaign-jp",
+    "name": "Altera Summoning Campaign",
+    "region": "JP",
+    "image_file": "AttilaGacha.jpg"
+  },
+  {
+    "slug": "babylonia-chapter-release-jp",
+    "name": "Babylonia Chapter Release",
+    "region": "JP",
+    "image_file": "Banner 101030245.png"
+  },
+  {
+    "slug": "solomon-chapter-release-jp",
+    "name": "Solomon Chapter Release",
+    "region": "JP",
+    "image_file": "SalomonBanner.png"
+  },
+  {
+    "slug": "new-year-campaign-2017-jp",
+    "name": "New Year Campaign 2017",
+    "region": "JP",
+    "image_file": "Happy New Year 2017 Banner.png"
+  },
+  {
+    "slug": "the-old-man-of-the-mountain-summoning-campaign-jp",
+    "name": "\"The Old Man of the Mountain\" Summoning Campaign",
+    "region": "JP",
+    "image_file": "DW SON OF.jpg"
+  },
+  {
+    "slug": "moon-goddess-event-re-run-jp",
+    "name": "Moon Goddess Event Re-Run",
+    "region": "JP",
+    "image_file": "Moon Goddess Event Rerun Banner.png"
+  },
+  {
+    "slug": "cries-of-the-vengeful-demon-in-the-prison-tower-event-re-run-jp",
+    "name": "Cries of The Vengeful Demon in the Prison Tower Event Re-Run",
+    "region": "JP",
+    "image_file": "banner_1011705381.png"
+  },
+  {
+    "slug": "8m-downloads-campaign-jp",
+    "name": "8M Downloads Campaign",
+    "region": "JP",
+    "image_file": "banner_101183705.png"
+  },
+  {
+    "slug": "valentine-2016-event-re-run-jp",
+    "name": "Valentine 2016 Event Re-Run",
+    "region": "JP",
+    "image_file": "Banner 101206832.png"
+  },
+  {
+    "slug": "shinjuku-chapter-release-jp",
+    "name": "Shinjuku Chapter Release",
+    "region": "JP",
+    "image_file": "Banner Illusionist.png"
+  },
+  {
+    "slug": "chaldea-boys-collection-2017-jp",
+    "name": "Chaldea Boys Collection 2017",
+    "region": "JP",
+    "image_file": "CBC2017 Banner.png"
+  },
+  {
+    "slug": "gudaguda-honnouji-event-re-run-jp",
+    "name": "GUDAGUDA Honnouji Event Re-Run",
+    "region": "JP",
+    "image_file": "Banner 101286942.png"
+  },
+  {
+    "slug": "class-based-summoning-campaign-jp",
+    "name": "Class Based Summoning Campaign",
+    "region": "JP",
+    "image_file": "Summon 20170405 c5axg.jpg"
+  },
+  {
+    "slug": "gudaguda-meiji-ishin-jp",
+    "name": "GUDAGUDA Meiji Ishin",
+    "region": "JP",
+    "image_file": "Banner 101339862.png"
+  },
+  {
+    "slug": "seraph-jp",
+    "name": "SE.RA.PH",
+    "region": "JP",
+    "image_file": "SERAPH_banner.png"
+  },
+  {
+    "slug": "9m-downloads-campaign-jp",
+    "name": "9M Downloads Campaign",
+    "region": "JP",
+    "image_file": "Top banner.png"
+  },
+  {
+    "slug": "rashomon-event-rerun-jp",
+    "name": "Rashomon Event Rerun",
+    "region": "JP",
+    "image_file": "RashoumonEventRerun.png"
+  },
+  {
+    "slug": "main-quest-12-ap-shinjuku-summoning-campaign-jp",
+    "name": "Main Quest 1/2 AP + Shinjuku Summoning Campaign",
+    "region": "JP",
+    "image_file": "Shinjukuhalfap.png"
+  },
+  {
+    "slug": "onigashima-event-re-run-jp",
+    "name": "Onigashima Event Re-Run",
+    "region": "JP",
+    "image_file": "OnigashimaLiteBanner.PNG"
+  },
+  {
+    "slug": "agartha-chapter-release-jp",
+    "name": "Agartha Chapter Release",
+    "region": "JP",
+    "image_file": "Agartha banner.png"
+  },
+  {
+    "slug": "fgo-2016-summer-event-re-run-jp",
+    "name": "FGO 2016 Summer Event Re-Run",
+    "region": "JP",
+    "image_file": "Summer2016 rerun.png"
+  },
+  {
+    "slug": "fgo-the-stage-performance-commemoration-campaign-jp",
+    "name": "FGO THE STAGE Performance Commemoration Campaign",
+    "region": "JP",
+    "image_file": "FGO the stage commeration.png"
+  },
+  {
+    "slug": "fategrand-order-fes-2017-2nd-anniversary-jp",
+    "name": "Fate/Grand Order Fes. 2017 ～2nd Anniversary～",
+    "region": "JP",
+    "image_file": "2nd anniversary banner extended.png"
+  },
+  {
+    "slug": "dead-heat-summer-race-jp",
+    "name": "Dead Heat Summer Race!",
+    "region": "JP",
+    "image_file": "DeadHeatDateUpdate.png"
+  },
+  {
+    "slug": "fatekaleid-liner-prismaillya-movie-premiere-commemoration-campaign-jp",
+    "name": "Fate/kaleid liner Prisma☆Illya Movie Premiere Commemoration Campaign",
+    "region": "JP",
+    "image_file": "Prisma ilya movie.png"
+  },
+  {
+    "slug": "class-based-summoning-campaign-jp-1",
+    "name": "Class-Based Summoning Campaign",
+    "region": "JP",
+    "image_file": "Classbasedscseptember.png"
+  },
+  {
+    "slug": "nero-festival-redux-2017-autumn-jp",
+    "name": "Nero Festival Redux ~2017 Autumn~",
+    "region": "JP",
+    "image_file": "NeroFes2017banner.png"
+  },
+  {
+    "slug": "kyomaf2017-exhibit-commemoration-summoning-campaign-jp",
+    "name": "KYOMAF2017 Exhibit Commemoration Summoning Campaign",
+    "region": "JP",
+    "image_file": "KYOMAF 2017 banner.png"
+  },
+  {
+    "slug": "10m-downloads-campaign-jp",
+    "name": "10M Downloads Campaign",
+    "region": "JP",
+    "image_file": "10M DL2.png"
+  },
+  {
+    "slug": "halloween-2016-event-rerun-jp",
+    "name": "Halloween 2016 Event Rerun",
+    "region": "JP",
+    "image_file": "Halloween2016Rerun.png"
+  },
+  {
+    "slug": "fgo-the-stage-autumn-performance-commemoration-campaign-jp",
+    "name": "FGO THE STAGE Autumn Performance Commemoration Campaign",
+    "region": "JP",
+    "image_file": "Musicalcampaignbanner.png"
+  },
+  {
+    "slug": "fatestay-night-heavens-feel-premiere-commemoration-campaign-jp",
+    "name": "Fate/stay night Heaven's Feel Premiere Commemoration Campaign",
+    "region": "JP",
+    "image_file": "HeavensFeel_banner.png"
+  },
+  {
+    "slug": "shimosa-chapter-release-jp",
+    "name": "Shimosa Chapter Release",
+    "region": "JP",
+    "image_file": "Shimosa banner.png"
+  },
+  {
+    "slug": "halloween-2017-event-jp",
+    "name": "Halloween 2017 Event",
+    "region": "JP",
+    "image_file": "Halloween2017TrueBanner.png"
+  },
+  {
+    "slug": "interlude-campaign-3-jp",
+    "name": "Interlude Campaign 3",
+    "region": "JP",
+    "image_file": "InterludeCampaign3.png"
+  },
+  {
+    "slug": "fateapocrypha-anime-broadcast-commemoration-campaign-jp",
+    "name": "Fate/Apocrypha Anime Broadcast Commemoration Campaign",
+    "region": "JP",
+    "image_file": "Fate Apo.png"
+  },
+  {
+    "slug": "christmas-2016-event-re-run-jp",
+    "name": "Christmas 2016 Event Re-run",
+    "region": "JP",
+    "image_file": "Christmas2016rerun.png"
+  },
+  {
+    "slug": "11m-downloads-campaign-jp",
+    "name": "11M Downloads Campaign",
+    "region": "JP",
+    "image_file": "11M_DL.png"
+  },
+  {
+    "slug": "salem-chapter-release-jp",
+    "name": "Salem Chapter Release",
+    "region": "JP",
+    "image_file": "Salem_banner.png"
+  },
+  {
+    "slug": "christmas-2017-jp",
+    "name": "Christmas 2017",
+    "region": "JP",
+    "image_file": "Xmas2017jp banner.png"
+  },
+  {
+    "slug": "new-year-campaign-2018-jp",
+    "name": "New Year Campaign 2018",
+    "region": "JP",
+    "image_file": "2018_new_year.png"
+  },
+  {
+    "slug": "da-vinci-and-the-7-counterfeit-heroic-spirits-rerun-lite-ver-jp",
+    "name": "Da Vinci and The 7 Counterfeit Heroic Spirits Rerun Lite Ver",
+    "region": "JP",
+    "image_file": "Davinci_rerun_Banner.png"
+  },
+  {
+    "slug": "setsubun-2018-jp",
+    "name": "Setsubun 2018",
+    "region": "JP",
+    "image_file": "Setsubun2018_banner2.png"
+  },
+  {
+    "slug": "fateextra-last-encore-anime-broadcast-commemoration-campaign-jp",
+    "name": "Fate/EXTRA Last Encore Anime Broadcast Commemoration Campaign",
+    "region": "JP",
+    "image_file": "Last Encore Release Banner.png"
+  },
+  {
+    "slug": "valentine-2018-jp",
+    "name": "Valentine 2018",
+    "region": "JP",
+    "image_file": "Valentine2018 banner.png"
+  },
+  {
+    "slug": "kara-no-kyoukai-collaboration-event-re-run-jp",
+    "name": "Kara no Kyoukai Collaboration Event Re-run",
+    "region": "JP",
+    "image_file": "KnKRevival Banner.png"
+  },
+  {
+    "slug": "fgo-winter-festival-2017-2018-jp",
+    "name": "FGO Winter Festival 2017-2018",
+    "region": "JP",
+    "image_file": "Fgofes2017-2018 banner.png"
+  },
+  {
+    "slug": "fgo-the-stage-blu-raydvd-release-commemoration-campaign-jp",
+    "name": "FGO THE STAGE Blu-ray&DVD Release Commemoration Campaign",
+    "region": "JP",
+    "image_file": "FGOTHESTAGEBD.png"
+  },
+  {
+    "slug": "12m-downloads-campaign-jp",
+    "name": "12M Downloads Campaign",
+    "region": "JP",
+    "image_file": "12M banner.png"
+  },
+  {
+    "slug": "chaldea-boys-collection-2018-jp",
+    "name": "Chaldea Boys Collection 2018",
+    "region": "JP",
+    "image_file": "Chaldea Boys Collection 2018 Banner.png"
+  },
+  {
+    "slug": "saber-wars-event-re-run-jp",
+    "name": "Saber Wars Event Re-run",
+    "region": "JP",
+    "image_file": "Saberwars ReRun.png"
+  },
+  {
+    "slug": "class-based-summoning-campaign-april-2018-jp",
+    "name": "Class-Based Summoning Campaign (April 2018)",
+    "region": "JP",
+    "image_file": "Class based gacha campaign april 2018.png"
+  },
+  {
+    "slug": "anastasia-chapter-release-jp",
+    "name": "Anastasia Chapter Release",
+    "region": "JP",
+    "image_file": "Lostbelt1 banner.png"
+  },
+  {
+    "slug": "journey-to-the-west-re-run-lite-ver-jp",
+    "name": "Journey to The West Re-Run Lite Ver",
+    "region": "JP",
+    "image_file": "Journey_to_The_West_ReRun.png"
+  },
+  {
+    "slug": "apocryphainheritance-of-glory-jp",
+    "name": "Apocrypha/Inheritance of Glory",
+    "region": "JP",
+    "image_file": "Inheritancebanner.png"
+  },
+  {
+    "slug": "murder-at-the-kogetsukan-jp",
+    "name": "Murder at the KOGETSUKAN",
+    "region": "JP",
+    "image_file": "Top_banner-1-.png"
+  },
+  {
+    "slug": "gudaguda-meiji-ishin-re-run-jp",
+    "name": "GUDAGUDA Meiji Ishin Re-run",
+    "region": "JP",
+    "image_file": "Gudaguda_meiji_rerun_banner.png"
+  },
+  {
+    "slug": "okita-soji-summoning-campaign-jp",
+    "name": "Okita Sōji Summoning Campaign",
+    "region": "JP",
+    "image_file": "Okita Souji Summoning Campaign.png"
+  },
+  {
+    "slug": "13m-downloads-campaign-jp",
+    "name": "13M Downloads Campaign",
+    "region": "JP",
+    "image_file": "13M_banner.png"
+  },
+  {
+    "slug": "fateextella-link-release-commemoration-campaign-jp",
+    "name": "Fate/EXTELLA LINK Release Commemoration Campaign",
+    "region": "JP",
+    "image_file": "Fate extalla link banner.png"
+  },
+  {
+    "slug": "gudaguda-teito-seihai-kitan-jp",
+    "name": "GUDAGUDA Teito Seihai Kitan",
+    "region": "JP",
+    "image_file": "GUDAGUDA_Teito.png"
+  },
+  {
+    "slug": "dead-heat-summer-race-re-run-jp",
+    "name": "Dead Heat Summer Race! Re-run",
+    "region": "JP",
+    "image_file": "DeadHeatRerun1.png"
+  },
+  {
+    "slug": "gotterdammerung-chapter-release-jp",
+    "name": "Götterdämmerung Chapter Release",
+    "region": "JP",
+    "image_file": "Gotterdamerung banner.png"
+  },
+  {
+    "slug": "fategrand-order-fes-2018-3rd-anniversary-jp",
+    "name": "Fate/Grand Order Fes. 2018 ～3rd Anniversary～",
+    "region": "JP",
+    "image_file": "3rdAnnivBanner.png"
+  },
+  {
+    "slug": "servant-summer-festival-2018-jp",
+    "name": "Servant Summer Festival! 2018",
+    "region": "JP",
+    "image_file": "2018SummerBanner.png"
+  },
+  {
+    "slug": "fategrand-order-memories-release-commemoration-campaign-jp",
+    "name": "Fate/Grand Order Memories Release Commemoration Campaign",
+    "region": "JP",
+    "image_file": "Fate_Grand_Order_Memories.png"
+  },
+  {
+    "slug": "14m-downloads-campaign-jp",
+    "name": "14M Downloads Campaign",
+    "region": "JP",
+    "image_file": "14M_Banner.png"
+  },
+  {
+    "slug": "fateaccel-zero-order-lap-2-jp",
+    "name": "Fate/Accel Zero Order -LAP 2-",
+    "region": "JP",
+    "image_file": "FateZeroCollab -Lap 2- Banner.png"
+  },
+  {
+    "slug": "kyomaf2018-exhibit-commemoration-summoning-campaign-jp",
+    "name": "KYOMAF2018 Exhibit Commemoration Summoning Campaign",
+    "region": "JP",
+    "image_file": "KYOMAF2018_summon.png"
+  },
+  {
+    "slug": "battle-in-new-york-2018-jp",
+    "name": "Battle in New York 2018",
+    "region": "JP",
+    "image_file": "Binny BannerV2.png"
+  },
+  {
+    "slug": "halloween-2017-event-re-run-jp",
+    "name": "Halloween 2017 Event Re-Run",
+    "region": "JP",
+    "image_file": "Halloween_2017_Rerun.png"
+  },
+  {
+    "slug": "interlude-campaign-7-jp",
+    "name": "Interlude Campaign 7",
+    "region": "JP",
+    "image_file": "Interlude_Campaign_7.png"
+  },
+  {
+    "slug": "halloween-2018-jp",
+    "name": "Halloween 2018",
+    "region": "JP",
+    "image_file": "ONILAND true Banner.png"
+  },
+  {
+    "slug": "15m-downloads-campaign-jp",
+    "name": "15M Downloads Campaign",
+    "region": "JP",
+    "image_file": "15M DL.png"
+  },
+  {
+    "slug": "christmas-2017-event-re-run-jp",
+    "name": "Christmas 2017 Event Re-Run",
+    "region": "JP",
+    "image_file": "Xmas2017_Rerun_Banner.png"
+  },
+  {
+    "slug": "s-i-n-chapter-release-jp",
+    "name": "S I N Chapter Release",
+    "region": "JP",
+    "image_file": "Arc2_SIN.png"
+  },
+  {
+    "slug": "christmas-2018-jp",
+    "name": "Christmas 2018",
+    "region": "JP",
+    "image_file": "Xmas2018 True Banner.png"
+  },
+  {
+    "slug": "winfes-201819-commemoration-campaign-miyagi-jp",
+    "name": "WinFes 2018/19 Commemoration Campaign: Miyagi",
+    "region": "JP",
+    "image_file": "Travelling Circus Miyagi Banner.png"
+  },
+  {
+    "slug": "new-year-campaign-2019-jp",
+    "name": "New Year Campaign 2019",
+    "region": "JP",
+    "image_file": "2019 new year.png"
+  },
+  {
+    "slug": "new-year-event-2019-jp",
+    "name": "New Year Event 2019",
+    "region": "JP",
+    "image_file": "NY2019 banner.png"
+  },
+  {
+    "slug": "fgo-the-stage-babylonia-performance-commemoration-campaign-jp",
+    "name": "FGO THE STAGE Babylonia Performance Commemoration Campaign",
+    "region": "JP",
+    "image_file": "FGO the Stage babylonia banner.png"
+  },
+  {
+    "slug": "fatestay-night-heavens-feel-ii-premiere-commemoration-campaign-jp",
+    "name": "Fate/stay night Heaven's Feel II Premiere Commemoration Campaign",
+    "region": "JP",
+    "image_file": "FSN HF LB.png"
+  },
+  {
+    "slug": "winfes-201819-commemoration-campaign-osaka-jp",
+    "name": "WinFes 2018/19 Commemoration Campaign: Osaka",
+    "region": "JP",
+    "image_file": "WinFes2019 Osaka.png"
+  },
+  {
+    "slug": "prisma-causeway-re-install-jp",
+    "name": "Prisma Causeway -Re-install-",
+    "region": "JP",
+    "image_file": "Reinstall true banner.png"
+  },
+  {
+    "slug": "valentine-2019-jp",
+    "name": "Valentine 2019",
+    "region": "JP",
+    "image_file": "Valentine 2019.png"
+  },
+  {
+    "slug": "seraph-second-ballet-jp",
+    "name": "SE.RA.PH -Second Ballet-",
+    "region": "JP",
+    "image_file": "SERAPH-SecondBallet- ExtendedBanner.png"
+  },
+  {
+    "slug": "the-antiquated-spider-nostalgically-spins-its-thread-jp",
+    "name": "The Antiquated Spider Nostalgically Spins Its Thread",
+    "region": "JP",
+    "image_file": "Antiquatedspider.png"
+  },
+  {
+    "slug": "tokugawa-kaiten-meikyu-ooku-jp",
+    "name": "Tokugawa Kaiten Meikyū - Ōoku",
+    "region": "JP",
+    "image_file": "TokugawaKaitenMeikyuuTrue.png"
+  },
+  {
+    "slug": "16m-downloads-campaign-jp",
+    "name": "16M Downloads Campaign",
+    "region": "JP",
+    "image_file": "16M DL banner.png"
+  },
+  {
+    "slug": "gudaguda-teito-seihai-kitan-re-run-jp",
+    "name": "GUDAGUDA Teito Seihai Kitan Re-run",
+    "region": "JP",
+    "image_file": "GUDAGUDA Teito Rerun.png"
+  },
+  {
+    "slug": "lady-reines-case-files-jp",
+    "name": "Lady Reines Case Files",
+    "region": "JP",
+    "image_file": "Lady Reines Case Files.png"
+  },
+  {
+    "slug": "class-based-summoning-campaign-may-2019-jp",
+    "name": "Class-Based Summoning Campaign (May 2019)",
+    "region": "JP",
+    "image_file": "Class based gacha campaign may 2019.png"
+  },
+  {
+    "slug": "a-study-in-the-dubious-meiho-sou-jp",
+    "name": "A Study in the Dubious Meiho-sou",
+    "region": "JP",
+    "image_file": "Meiho-sou banner.png"
+  },
+  {
+    "slug": "learn-with-manga-fgo-vol-2-release-commemoration-campaign-jp",
+    "name": "Learn with Manga! F/GO Vol 2 Release Commemoration Campaign",
+    "region": "JP",
+    "image_file": "LearnWithMangaFGOVol2 Banner.png"
+  },
+  {
+    "slug": "interlude-campaign-9-jp",
+    "name": "Interlude Campaign 9",
+    "region": "JP",
+    "image_file": "Interlude Campaign 9.png"
+  },
+  {
+    "slug": "yuga-kshetra-chapter-release-jp",
+    "name": "Yuga Kshetra Chapter Release",
+    "region": "JP",
+    "image_file": "LB4ReleaseBannerTrue.png"
+  },
+  {
+    "slug": "17m-downloads-campaign-jp",
+    "name": "17M Downloads Campaign",
+    "region": "JP",
+    "image_file": "17M DL banner.png"
+  },
+  {
+    "slug": "gudaguda-final-honnoji-2019-jp",
+    "name": "GUDAGUDA Final Honnōji 2019",
+    "region": "JP",
+    "image_file": "Gudaguda honnoji 2019 banner.png"
+  },
+  {
+    "slug": "servant-summer-festival-2018-rerun-jp",
+    "name": "Servant Summer Festival! 2018 Rerun",
+    "region": "JP",
+    "image_file": "Summer2018rerun banner.png"
+  },
+  {
+    "slug": "fategrand-order-fes-2019-4th-anniversary-jp",
+    "name": "Fate/Grand Order Fes. 2019 ～4th Anniversary～",
+    "region": "JP",
+    "image_file": "4thAnniversaryUpdated.png"
+  },
+  {
+    "slug": "las-vegas-official-bout-jp",
+    "name": "Las Vegas Official Bout",
+    "region": "JP",
+    "image_file": "Summer 2019 Banner.png"
+  },
+  {
+    "slug": "interlude-campaign-10-jp",
+    "name": "Interlude Campaign 10",
+    "region": "JP",
+    "image_file": "Interlude Campaign 10.png"
+  },
+  {
+    "slug": "class-based-summoning-campaign-september-2019-jp",
+    "name": "Class-Based Summoning Campaign (September 2019)",
+    "region": "JP",
+    "image_file": "Class Based Rate Up 2019.png"
+  },
+  {
+    "slug": "battle-in-new-york-2019-jp",
+    "name": "Battle in New York 2019",
+    "region": "JP",
+    "image_file": "BinNY2019 Banner.png"
+  },
+  {
+    "slug": "kyomaf2019-exhibit-commemoration-summoning-campaign-jp",
+    "name": "KYOMAF2019 Exhibit Commemoration Summoning Campaign",
+    "region": "JP",
+    "image_file": "KYOMAF2019 summon.png"
+  },
+  {
+    "slug": "absolute-demonic-battlefront-babylonia-release-campaign-part-i-jp",
+    "name": "Absolute Demonic Battlefront Babylonia Release Campaign Part I",
+    "region": "JP",
+    "image_file": "Babylonia Anime Banner.png"
+  },
+  {
+    "slug": "halloween-2018-rerun-jp",
+    "name": "Halloween 2018 Rerun",
+    "region": "JP",
+    "image_file": "ONILAND Rerun Banner.png"
+  },
+  {
+    "slug": "saber-wars-ii-jp",
+    "name": "Saber Wars II",
+    "region": "JP",
+    "image_file": "Saber Wars 2 Banner.png"
+  },
+  {
+    "slug": "18m-downloads-campaign-jp",
+    "name": "18M Downloads Campaign",
+    "region": "JP",
+    "image_file": "18M DL banner.png"
+  },
+  {
+    "slug": "fateprototype-fragments-of-blue-and-silver-drama-cd-conclusion-commemoration-campaign-jp",
+    "name": "Fate/Prototype: Fragments of Blue and Silver Drama CD Conclusion Commemoration Campaign",
+    "region": "JP",
+    "image_file": "FProto Fragments of Blue and Silver Drama CD Conclusion Commemoration Campaign.png"
+  },
+  {
+    "slug": "christmas-2019-jp",
+    "name": "Christmas 2019",
+    "region": "JP",
+    "image_file": "Xmas 2019 banner.png"
+  },
+  {
+    "slug": "interlude-campaign-11-jp",
+    "name": "Interlude Campaign 11",
+    "region": "JP",
+    "image_file": "Interlude11.png"
+  },
+  {
+    "slug": "atlantis-chapter-release-jp",
+    "name": "Atlantis Chapter Release",
+    "region": "JP",
+    "image_file": "Atlantis banner.png"
+  },
+  {
+    "slug": "new-year-campaign-2020-jp",
+    "name": "New Year Campaign 2020",
+    "region": "JP",
+    "image_file": "Happy New Year 2020.png"
+  },
+  {
+    "slug": "new-year-event-2019-re-run-jp",
+    "name": "New Year Event 2019 Re-Run",
+    "region": "JP",
+    "image_file": "Enma-tei rerun.png"
+  },
+  {
+    "slug": "amazonesscom-ceo-crisis-2020-jp",
+    "name": "Amazoness.com ~CEO Crisis 2020~",
+    "region": "JP",
+    "image_file": "AmazonessDotCom Banner.png"
+  },
+  {
+    "slug": "fgo-epic-of-remnant-episode-i-comic-release-campaign-jp",
+    "name": "FGO Epic of Remnant Episode I Comic Release Campaign",
+    "region": "JP",
+    "image_file": "Shinjuku comicalize banner.png"
+  },
+  {
+    "slug": "interlude-campaign-12-jp",
+    "name": "Interlude Campaign 12",
+    "region": "JP",
+    "image_file": "Interlude12.png"
+  },
+  {
+    "slug": "valentine-2020-jp",
+    "name": "Valentine 2020",
+    "region": "JP",
+    "image_file": "Valentine2020 Banner.png"
+  },
+  {
+    "slug": "19m-downloads-campaign-jp",
+    "name": "19M Downloads Campaign",
+    "region": "JP",
+    "image_file": "19M DL banner.png"
+  },
+  {
+    "slug": "aeaean-spring-breeze-jp",
+    "name": "Aeaean Spring Breeze",
+    "region": "JP",
+    "image_file": "AeaeaBreeze Banner.png"
+  },
+  {
+    "slug": "absolute-demonic-battlefront-babylonia-release-campaign-part-iv-jp",
+    "name": "Absolute Demonic Battlefront Babylonia Release Campaign Part IV",
+    "region": "JP",
+    "image_file": "FGO EP7 Campaign IV.png"
+  },
+  {
+    "slug": "apocryphainheritance-of-glory-re-run-jp",
+    "name": "Apocrypha/Inheritance of Glory Re-Run",
+    "region": "JP",
+    "image_file": "Apocrypha Event -Triumphal- Rerun.png"
+  },
+  {
+    "slug": "olympus-chapter-release-jp",
+    "name": "Olympus Chapter Release",
+    "region": "JP",
+    "image_file": "OlympusTrueBanner.png"
+  },
+  {
+    "slug": "20m-downloads-campaign-jp",
+    "name": "20M Downloads Campaign",
+    "region": "JP",
+    "image_file": "20M DL Banner.png"
+  },
+  {
+    "slug": "gudaguda-final-honnoji-2019-re-run-jp",
+    "name": "GUDAGUDA Final Honnōji 2019 Re-Run",
+    "region": "JP",
+    "image_file": "GudagudaHonnoji2019 Rerun banner.png"
+  },
+  {
+    "slug": "faterequiem-board-game-apocalypse-jp",
+    "name": "Fate/Requiem Board Game Apocalypse",
+    "region": "JP",
+    "image_file": "Fate requiem collab banner true.png"
+  },
+  {
+    "slug": "las-vegas-official-bout-rerun-jp",
+    "name": "Las Vegas Official Bout Rerun",
+    "region": "JP",
+    "image_file": "Summer2019 rerun.png"
+  },
+  {
+    "slug": "interlude-campaign-13-jp",
+    "name": "Interlude Campaign 13",
+    "region": "JP",
+    "image_file": "Interlude13.png"
+  },
+  {
+    "slug": "swimsuit-aoe-np-only-summoning-campaign-jp",
+    "name": "Swimsuit + AoE NP Only Summoning Campaign",
+    "region": "JP",
+    "image_file": "Swimsuit AoE NP PU.png"
+  },
+  {
+    "slug": "seraph-main-interlude-release-campaign-jp",
+    "name": "SE.RA.PH Main Interlude Release Campaign",
+    "region": "JP",
+    "image_file": "SERAPHMainInterludeCampaign.png"
+  },
+  {
+    "slug": "tokugawa-kaiten-meikyu-ooku-rerun-jp",
+    "name": "Tokugawa Kaiten Meikyū - Ōoku Rerun",
+    "region": "JP",
+    "image_file": "TokugawaKaitenMeikyuuReRun.png"
+  },
+  {
+    "slug": "fategrand-order-5th-anniversary-jp",
+    "name": "Fate/Grand Order ～5th Anniversary～",
+    "region": "JP",
+    "image_file": "5th anniv banner.png"
+  },
+  {
+    "slug": "servant-summer-camp-2020-jp",
+    "name": "Servant Summer Camp 2020",
+    "region": "JP",
+    "image_file": "Summer2020Banner.png"
+  },
+  {
+    "slug": "21m-downloads-campaign-jp",
+    "name": "21M Downloads Campaign",
+    "region": "JP",
+    "image_file": "21M DL Campaign.png"
+  },
+  {
+    "slug": "interlude-campaign-14-jp",
+    "name": "Interlude Campaign 14",
+    "region": "JP",
+    "image_file": "Interlude14.png"
+  },
+  {
+    "slug": "dance-tournament-in-the-land-of-shadows-jp",
+    "name": "Dance Tournament in the Land of Shadows",
+    "region": "JP",
+    "image_file": "Dance Tournament in the Land of Shadows.png"
+  },
+  {
+    "slug": "gudaguda-summoning-campaign-jp",
+    "name": "GUDAGUDA Summoning Campaign",
+    "region": "JP",
+    "image_file": "GUDAGUDASummonBanner.png"
+  },
+  {
+    "slug": "gudaguda-yamatai-koku-2020-jp",
+    "name": "GUDAGUDA Yamatai-koku 2020",
+    "region": "JP",
+    "image_file": "GUDAGUDA Yamataikoku 2020.png"
+  },
+  {
+    "slug": "christmas-2019-re-run-jp",
+    "name": "Christmas 2019 Re-Run",
+    "region": "JP",
+    "image_file": "Xmas2019 rerun.png"
+  },
+  {
+    "slug": "imaginary-scramble-jp",
+    "name": "Imaginary Scramble",
+    "region": "JP",
+    "image_file": "VoidSpaceNavalBattle-ImaginaryScramble Banner.png"
+  },
+  {
+    "slug": "22m-downloads-campaign-jp",
+    "name": "22M Downloads Campaign",
+    "region": "JP",
+    "image_file": "22M DL Campaign.png"
+  },
+  {
+    "slug": "heian-kyo-chapter-release-jp",
+    "name": "Heian-kyō Chapter Release",
+    "region": "JP",
+    "image_file": "Heiankyo LB.png"
+  },
+  {
+    "slug": "christmas-2020-jp",
+    "name": "Christmas 2020",
+    "region": "JP",
+    "image_file": "Christmas 2020 Banner.png"
+  },
+  {
+    "slug": "new-year-campaign-2021-jp",
+    "name": "New Year Campaign 2021",
+    "region": "JP",
+    "image_file": "New Year 2021.png"
+  },
+  {
+    "slug": "saber-wars-ii-rerun-jp",
+    "name": "Saber Wars II Rerun",
+    "region": "JP",
+    "image_file": "SW2 Rerun.png"
+  },
+  {
+    "slug": "little-big-tengu-jp",
+    "name": "Little Big Tengu",
+    "region": "JP",
+    "image_file": "Little Big Tengu.png"
+  },
+  {
+    "slug": "holy-grail-front-et-tu-brute-jp",
+    "name": "Holy Grail Front ~Et tu, Brute?~",
+    "region": "JP",
+    "image_file": "HolyGrailFrontCaesarEvent.png"
+  },
+  {
+    "slug": "valentine-2021-jp",
+    "name": "Valentine 2021",
+    "region": "JP",
+    "image_file": "Valentine2021 Banner.png"
+  },
+  {
+    "slug": "23m-downloads-campaign-jp",
+    "name": "23M Downloads Campaign",
+    "region": "JP",
+    "image_file": "23M DL Banner.png"
+  },
+  {
+    "slug": "slapstick-museum-jp",
+    "name": "Slapstick Museum",
+    "region": "JP",
+    "image_file": "Slapstick Museum True.png"
+  },
+  {
+    "slug": "akihabara-explosion-jp",
+    "name": "Akihabara Explosion",
+    "region": "JP",
+    "image_file": "AkihabaraExplosionBanner.png"
+  },
+  {
+    "slug": "spring-in-full-bloom-summoning-campaign-jp",
+    "name": "Spring in Full Bloom Summoning Campaign",
+    "region": "JP",
+    "image_file": "SpringinFullBloomSummoningCampaign.png"
+  },
+  {
+    "slug": "servant-strengthening-quests-part-xiii-jp",
+    "name": "Servant Strengthening Quests Part XIII",
+    "region": "JP",
+    "image_file": "StrengtheningQuests13Banner.png"
+  },
+  {
+    "slug": "fgo-x-waltz-in-the-moonlight-lostroom-collaboration-pre-release-campaign-jp",
+    "name": "FGO x Waltz in the Moonlight Lostroom Collaboration Pre-Release Campaign",
+    "region": "JP",
+    "image_file": "FGOxWaltzinMoonlightLostroomCollaborationPreReleaseCampaign.png"
+  },
+  {
+    "slug": "grail-live-jp",
+    "name": "Grail Live",
+    "region": "JP",
+    "image_file": "Grail Live Banner.png"
+  },
+  {
+    "slug": "fategrand-order-camelot-the-movie-pre-release-campaign-jp",
+    "name": "Fate/Grand Order -Camelot- The Movie Pre-Release Campaign",
+    "region": "JP",
+    "image_file": "CamelotMoviePreReleaseCampaign.png"
+  },
+  {
+    "slug": "holy-grail-front-my-super-camelot-2021-jp",
+    "name": "Holy Grail Front ~My Super Camelot 2021~",
+    "region": "JP",
+    "image_file": "HolyGrailFrontCamelotBanner.png"
+  },
+  {
+    "slug": "servant-summer-camp-2020-rerun-jp",
+    "name": "Servant Summer Camp 2020 Rerun",
+    "region": "JP",
+    "image_file": "Summer2020RerunBanner.png"
+  },
+  {
+    "slug": "avalon-le-fae-chapter-release-jp",
+    "name": "Avalon le Fae Chapter Release",
+    "region": "JP",
+    "image_file": "AvalonLostbeltBanner.png"
+  },
+  {
+    "slug": "interlude-campaign-16-jp",
+    "name": "Interlude Campaign 16",
+    "region": "JP",
+    "image_file": "Interlude16Banner.png"
+  },
+  {
+    "slug": "grand-nero-fest-2021-jp",
+    "name": "Grand Nero Fest 2021",
+    "region": "JP",
+    "image_file": "Nerofes2021.png"
+  },
+  {
+    "slug": "avalon-le-fae-chapter-release-part-2-jp",
+    "name": "Avalon le Fae Chapter Release Part 2",
+    "region": "JP",
+    "image_file": "AvalonLostbeltBanner2.png"
+  },
+  {
+    "slug": "fategrand-order-6th-anniversary-jp",
+    "name": "Fate/Grand Order ～6th Anniversary～",
+    "region": "JP",
+    "image_file": "6thAnniBanner.png"
+  },
+  {
+    "slug": "avalon-le-fae-conclusion-campaign-jp",
+    "name": "Avalon le Fae Conclusion Campaign",
+    "region": "JP",
+    "image_file": "LB6CompletionCampaign.png"
+  },
+  {
+    "slug": "prisma-illya-licht-movie-release-campaign-jp",
+    "name": "Prisma Illya Licht Movie Release Campaign",
+    "region": "JP",
+    "image_file": "KaleidLichtBanner.png"
+  },
+  {
+    "slug": "chaldea-summer-adventure-jp",
+    "name": "Chaldea Summer Adventure",
+    "region": "JP",
+    "image_file": "Summer2021Banner.png"
+  },
+  {
+    "slug": "interlude-campaign-17-jp",
+    "name": "Interlude Campaign 17",
+    "region": "JP",
+    "image_file": "Interlude17Banner.png"
+  },
+  {
+    "slug": "melty-blood-type-lumina-sabers-game-entry-commemorative-campaign-jp",
+    "name": "MELTY BLOOD: TYPE LUMINA Saber's Game Entry Commemorative Campaign",
+    "region": "JP",
+    "image_file": "MBSaberBanner.png"
+  },
+  {
+    "slug": "halloween-trilogy-jp",
+    "name": "Halloween Trilogy",
+    "region": "JP",
+    "image_file": "HalloweenTrilogyBanner.png"
+  },
+  {
+    "slug": "fategrand-carnival-2nd-season-blu-raydvd-release-commemoration-campaign-jp",
+    "name": "Fate/Grand Carnival 2nd Season Blu-ray&DVD Release Commemoration Campaign",
+    "region": "JP",
+    "image_file": "FGC2ndBanner.png"
+  },
+  {
+    "slug": "halloween-2021-event-jp",
+    "name": "Halloween 2021 Event",
+    "region": "JP",
+    "image_file": "Halloween Rising Banner.png"
+  },
+  {
+    "slug": "fateapocrypha-blu-ray-disc-boxost-release-commemorative-campaign-jp",
+    "name": "Fate/Apocrypha Blu-ray Disc Box&OST Release Commemorative Campaign",
+    "region": "JP",
+    "image_file": "ApocryphaReleaseBanner.png"
+  },
+  {
+    "slug": "gudaguda-yamatai-koku-2020-rerun-jp",
+    "name": "GUDAGUDA Yamatai-koku 2020 Rerun",
+    "region": "JP",
+    "image_file": "Gudaguda2020RerunBanner.png"
+  },
+  {
+    "slug": "24m-downloads-campaign-jp",
+    "name": "24M Downloads Campaign",
+    "region": "JP",
+    "image_file": "24MDLBanner.png"
+  },
+  {
+    "slug": "gudaguda-close-call-2021-jp",
+    "name": "GUDAGUDA Close Call 2021",
+    "region": "JP",
+    "image_file": "Gudaguda2021Banner.png"
+  },
+  {
+    "slug": "interlude-campaign-18-jp",
+    "name": "Interlude Campaign 18",
+    "region": "JP",
+    "image_file": "Interlude18Banner.png"
+  },
+  {
+    "slug": "christmas-2021-jp",
+    "name": "Christmas 2021",
+    "region": "JP",
+    "image_file": "Christmas2021Banner.png"
+  },
+  {
+    "slug": "main-quest-clear-aid-campaign-part-4-jp",
+    "name": "Main Quest Clear Aid Campaign Part 4",
+    "region": "JP",
+    "image_file": "MQClear4Banner.png"
+  },
+  {
+    "slug": "tunguska-sanctuary-jp",
+    "name": "Tunguska Sanctuary",
+    "region": "JP",
+    "image_file": "TunguskaSanctuaryBanner.png"
+  },
+  {
+    "slug": "new-year-campaign-2022-jp",
+    "name": "New Year Campaign 2022",
+    "region": "JP",
+    "image_file": "NewYear2022Banner.png"
+  },
+  {
+    "slug": "koyanskaya-of-light-summoning-campaign-jp",
+    "name": "Koyanskaya of Light Summoning Campaign",
+    "region": "JP",
+    "image_file": "KoyanskayaofLightSummon.png"
+  },
+  {
+    "slug": "lady-reines-case-files-rerun-jp",
+    "name": "Lady Reines Case Files Rerun",
+    "region": "JP",
+    "image_file": "LadyReinesRerunBanner.png"
+  },
+  {
+    "slug": "arc-1-improvements-part-iii-jp",
+    "name": "Arc 1 Improvements Part III",
+    "region": "JP",
+    "image_file": "1st_improve_banner_3.png"
+  },
+  {
+    "slug": "arjuna-karna-summoning-campaign-jp",
+    "name": "Arjuna & Karna Summoning Campaign",
+    "region": "JP",
+    "image_file": "ArjunaKarnaSummon.png"
+  },
+  {
+    "slug": "arc-1-improvements-part-iv-jp",
+    "name": "Arc 1 Improvements Part IV",
+    "region": "JP",
+    "image_file": "1st_improve_banner_4.png"
+  },
+  {
+    "slug": "valentine-2022-jp",
+    "name": "Valentine 2022",
+    "region": "JP",
+    "image_file": "Valentine2022Banner.png"
+  },
+  {
+    "slug": "seraph-free-access-commemorative-summoning-campaign-jp",
+    "name": "SE.RA.PH Free Access Commemorative Summoning Campaign",
+    "region": "JP",
+    "image_file": "SERAPHFreeAccessSummon.png"
+  },
+  {
+    "slug": "15-bespectacled-intellectuals-jp",
+    "name": "15 Bespectacled Intellectuals",
+    "region": "JP",
+    "image_file": "WhiteDay2022Banner.png"
+  },
+  {
+    "slug": "road-to-7-lostbelt-no1-campaign-jp",
+    "name": "Road to 7: Lostbelt No.1 Campaign",
+    "region": "JP",
+    "image_file": "Roadto7CP1Banner.png"
+  },
+  {
+    "slug": "battle-in-new-york-2022-jp",
+    "name": "Battle in New York 2022",
+    "region": "JP",
+    "image_file": "BINY2022Banner.png"
+  },
+  {
+    "slug": "road-to-7-lostbelt-no2-campaign-jp",
+    "name": "Road to 7: Lostbelt No.2 Campaign",
+    "region": "JP",
+    "image_file": "Roadto7CP2Banner.png"
+  },
+  {
+    "slug": "sea-monster-crisis-jp",
+    "name": "Sea Monster Crisis",
+    "region": "JP",
+    "image_file": "SeaMonsterCrisisBanner.png"
+  },
+  {
+    "slug": "fgo-x-learn-with-manga-collaboration-jp",
+    "name": "FGO x Learn with Manga! Collaboration",
+    "region": "JP",
+    "image_file": "MangaCollabBanner.png"
+  },
+  {
+    "slug": "25m-downloads-campaign-jp",
+    "name": "25M Downloads Campaign",
+    "region": "JP",
+    "image_file": "25MDLBanner.png"
+  },
+  {
+    "slug": "traum-chapter-release-jp",
+    "name": "Traum Chapter Release",
+    "region": "JP",
+    "image_file": "LB6.5Banner.png"
+  },
+  {
+    "slug": "holy-grail-front-moonsault-operation-jp",
+    "name": "Holy Grail Front ~Moonsault Operation~",
+    "region": "JP",
+    "image_file": "HolyGrailFrontMoonsaultBanner.png"
+  },
+  {
+    "slug": "road-to-7-lostbelt-no3-campaign-jp",
+    "name": "Road to 7: Lostbelt No.3 Campaign",
+    "region": "JP",
+    "image_file": "Roadto7CP3Banner.png"
+  },
+  {
+    "slug": "nanmei-yumihari-hakkenden-jp",
+    "name": "Nanmei Yumihari Hakkenden",
+    "region": "JP",
+    "image_file": "HakkendenBanner.png"
+  },
+  {
+    "slug": "main-interlude-ooku-release-campaign-jp",
+    "name": "Main Interlude: Ōoku Release Campaign",
+    "region": "JP",
+    "image_file": "MainInterludeOoku.png"
+  },
+  {
+    "slug": "fategrand-order-7th-anniversary-jp",
+    "name": "Fate/Grand Order ～7th Anniversary～",
+    "region": "JP",
+    "image_file": "7thAnniBanner.png"
+  },
+  {
+    "slug": "arctic-summer-world-jp",
+    "name": "Arctic Summer World",
+    "region": "JP",
+    "image_file": "Summer2022Banner.png"
+  },
+  {
+    "slug": "26m-downloads-campaign-jp",
+    "name": "26M Downloads Campaign",
+    "region": "JP",
+    "image_file": "26MDLBanner.png"
+  },
+  {
+    "slug": "road-to-7-lostbelt-no4-campaign-jp",
+    "name": "Road to 7: Lostbelt No.4 Campaign",
+    "region": "JP",
+    "image_file": "Roadto7CP4Banner.png"
+  },
+  {
+    "slug": "gudaguda-shin-yamatai-koku-2022-jp",
+    "name": "GUDAGUDA Shin Yamatai-koku 2022",
+    "region": "JP",
+    "image_file": "Gudaguda2022Banner.png"
+  },
+  {
+    "slug": "road-to-7-lostbelt-no5-atlantis-campaign-jp",
+    "name": "Road to 7: Lostbelt No.5 -Atlantis- Campaign",
+    "region": "JP",
+    "image_file": "Roadto7CP5.1Banner.png"
+  },
+  {
+    "slug": "road-to-7-lostbelt-no5-olympus-campaign-jp",
+    "name": "Road to 7: Lostbelt No.5 -Olympus- Campaign",
+    "region": "JP",
+    "image_file": "Roadto7CP5.2Banner.png"
+  },
+  {
+    "slug": "halloween-2022-event-jp",
+    "name": "Halloween 2022 Event",
+    "region": "JP",
+    "image_file": "Halloween2022Banner.png"
+  },
+  {
+    "slug": "main-interlude-imaginary-scramble-release-campaign-jp",
+    "name": "Main Interlude: Imaginary Scramble Release Campaign",
+    "region": "JP",
+    "image_file": "ImaginaryScrambleMIBanner.png"
+  },
+  {
+    "slug": "singularity-repair-support-campaign-jp",
+    "name": "Singularity Repair Support Campaign",
+    "region": "JP",
+    "image_file": "SingularityCPBanner.png"
+  },
+  {
+    "slug": "chaldea-faerie-knight-cup-jp",
+    "name": "Chaldea Faerie Knight Cup",
+    "region": "JP",
+    "image_file": "Faerieknightcup_full.png"
+  },
+  {
+    "slug": "lostbelt-7-pre-release-support-campaign-part-1-jp",
+    "name": "Lostbelt 7 Pre-Release Support Campaign Part 1",
+    "region": "JP",
+    "image_file": "Prelb7support1.png"
+  },
+  {
+    "slug": "road-to-7-lostbelt-no6-campaign-jp",
+    "name": "Road to 7: Lostbelt No.6 Campaign",
+    "region": "JP",
+    "image_file": "Rt7 LB6 Banner.png"
+  },
+  {
+    "slug": "christmas-2020-re-run-jp",
+    "name": "Christmas 2020 Re-run",
+    "region": "JP",
+    "image_file": "xmas2020rerun.png"
+  },
+  {
+    "slug": "melty-blood-type-lumina-ushiwakamaru-edmond-dantes-game-entry-commemorative-campaign-jp",
+    "name": "MELTY BLOOD: TYPE LUMINA Ushiwakamaru & Edmond Dantès Game Entry Commemorative Campaign",
+    "region": "JP",
+    "image_file": "meltybloodcp3.png"
+  },
+  {
+    "slug": "fateextra-last-encore-bd-standard-edition-ost-release-campaign-jp",
+    "name": "Fate/EXTRA Last Encore BD Standard Edition & OST Release Campaign",
+    "region": "JP",
+    "image_file": "lastencorebdnostcp.png"
+  },
+  {
+    "slug": "lostbelt-7-pre-release-support-campaign-part-4-jp",
+    "name": "Lostbelt 7 Pre-Release Support Campaign Part 4",
+    "region": "JP",
+    "image_file": "lb7precampaign4.png"
+  },
+  {
+    "slug": "fgo-winter-party-2022-2023-campaign-hokkaido-jp",
+    "name": "FGO Winter Party 2022-2023 Campaign: Hokkaido",
+    "region": "JP",
+    "image_file": "winterparty2022-23hokkaido.png"
+  },
+  {
+    "slug": "new-year-campaign-2023-jp",
+    "name": "New Year Campaign 2023",
+    "region": "JP",
+    "image_file": "newyear2023.png"
+  },
+  {
+    "slug": "nahui-mictlan-chapter-release-part-2-jp",
+    "name": "Nahui Mictlan Chapter Release Part 2",
+    "region": "JP",
+    "image_file": "LB7Part2ReleaseTrue.png"
+  },
+  {
+    "slug": "27m-downloads-campaign-jp",
+    "name": "27M Downloads Campaign",
+    "region": "JP",
+    "image_file": "27M DL Campaign.png"
+  },
+  {
+    "slug": "valentine-2023-jp",
+    "name": "Valentine 2023",
+    "region": "JP",
+    "image_file": "valentine2023true.png"
+  },
+  {
+    "slug": "white-day-memorial-summoning-campaign-jp",
+    "name": "White Day Memorial Summoning Campaign",
+    "region": "JP",
+    "image_file": "White Day Memorial.png"
+  },
+  {
+    "slug": "tales-of-chaldean-heavy-industries-jp",
+    "name": "Tales of Chaldean Heavy Industries",
+    "region": "JP",
+    "image_file": "Cbc2023eventbanner02.png"
+  },
+  {
+    "slug": "spring-new-master-aid-campaign-2023-jp",
+    "name": "Spring New Master Aid Campaign 2023",
+    "region": "JP",
+    "image_file": "new master spring cp2.png"
+  },
+  {
+    "slug": "evocation-festival-part-1-jp",
+    "name": "Evocation Festival Part 1",
+    "region": "JP",
+    "image_file": "feasts cp1.png"
+  },
+  {
+    "slug": "lilim-harlot-jp",
+    "name": "Lilim Harlot",
+    "region": "JP",
+    "image_file": "lilim harlot.png"
+  },
+  {
+    "slug": "evocation-festival-part-2-jp",
+    "name": "Evocation Festival Part 2",
+    "region": "JP",
+    "image_file": "feasts cp2.png"
+  },
+  {
+    "slug": "fuun-karakuri-illyas-castle-jp",
+    "name": "Fuun Karakuri Illya's Castle",
+    "region": "JP",
+    "image_file": "illya castle.png"
+  },
+  {
+    "slug": "nero-fest-battle-in-ny-2022-summoning-campaign-jp",
+    "name": "Nero Fest & Battle in NY 2022 Summoning Campaign",
+    "region": "JP",
+    "image_file": "NeroFestBattleinNYSummoningCampaign.png"
+  },
+  {
+    "slug": "ordeal-call-release-campaign-jp",
+    "name": "Ordeal Call Release Campaign",
+    "region": "JP",
+    "image_file": "ordealcallreleasebanner.png"
+  },
+  {
+    "slug": "paper-moon-chapter-release-jp",
+    "name": "Paper Moon Chapter Release",
+    "region": "JP",
+    "image_file": "PaperMoonBanner.png"
+  },
+  {
+    "slug": "28m-downloads-campaign-jp",
+    "name": "28M Downloads Campaign",
+    "region": "JP",
+    "image_file": "2800man sreum.png"
+  },
+  {
+    "slug": "strange-fake-whispers-of-dawn-broadcast-commemoration-campaign-jp",
+    "name": "Strange Fake -Whispers of Dawn- Broadcast Commemoration Campaign",
+    "region": "JP",
+    "image_file": "F s f cp.png"
+  },
+  {
+    "slug": "evocation-festival-part-3-jp",
+    "name": "Evocation Festival Part 3",
+    "region": "JP",
+    "image_file": "feasts cp3.png"
+  },
+  {
+    "slug": "mystic-eyes-symphony-jp",
+    "name": "Mystic Eyes Symphony",
+    "region": "JP",
+    "image_file": "Mystic eyes.png"
+  },
+  {
+    "slug": "fategrand-order-8th-anniversary-jp",
+    "name": "Fate/Grand Order ～8th Anniversary～",
+    "region": "JP",
+    "image_file": "8th anniversary amend.png"
+  },
+  {
+    "slug": "servant-summer-festival-2023-jp",
+    "name": "Servant Summer Festival! 2023",
+    "region": "JP",
+    "image_file": "ServaFes2023 actualbanner.png"
+  },
+  {
+    "slug": "hunting-quests-part-xiii-jp",
+    "name": "Hunting Quests Part XIII",
+    "region": "JP",
+    "image_file": "huntingquest13.png"
+  },
+  {
+    "slug": "ordeal-call-campaign-part-2-jp",
+    "name": "Ordeal Call Campaign Part 2",
+    "region": "JP",
+    "image_file": "ordeal call cp2.png"
+  },
+  {
+    "slug": "evocation-festival-part-4-jp",
+    "name": "Evocation Festival Part 4",
+    "region": "JP",
+    "image_file": "Feasts cp4.png"
+  },
+  {
+    "slug": "kyomaf2023-exhibit-commemoration-campaign-jp",
+    "name": "KYOMAF2023 Exhibit Commemoration Campaign",
+    "region": "JP",
+    "image_file": "kyoumafu2023 cp.png"
+  },
+  {
+    "slug": "wandjina-world-tour-jp",
+    "name": "Wandjina World Tour",
+    "region": "JP",
+    "image_file": "Worldtour full cshoh.png"
+  },
+  {
+    "slug": "fatesamurai-remnant-release-campaign-jp",
+    "name": "Fate/Samurai Remnant Release Campaign",
+    "region": "JP",
+    "image_file": "FSRReleaseCampaign.png"
+  },
+  {
+    "slug": "ordeal-call-campaign-part-3-jp",
+    "name": "Ordeal Call Campaign Part 3",
+    "region": "JP",
+    "image_file": "Ordeal call cp3.png"
+  },
+  {
+    "slug": "evocation-festival-part-5-jp",
+    "name": "Evocation Festival Part 5",
+    "region": "JP",
+    "image_file": "EvocationFest5Banner.png"
+  },
+  {
+    "slug": "3000-days-anniversary-jp",
+    "name": "3,000 Days Anniversary",
+    "region": "JP",
+    "image_file": "3000days.png"
+  },
+  {
+    "slug": "grail-front-white-castle-by-day-black-castle-by-night-jp",
+    "name": "Grail Front ~White Castle by Day, Black Castle by Night~",
+    "region": "JP",
+    "image_file": "Holy grail front4.png"
+  },
+  {
+    "slug": "ordeal-call-campaign-part-4-jp",
+    "name": "Ordeal Call Campaign Part 4",
+    "region": "JP",
+    "image_file": "Ordeal call cp4.png"
+  },
+  {
+    "slug": "29m-downloads-campaign-jp",
+    "name": "29M Downloads Campaign",
+    "region": "JP",
+    "image_file": "2900man.png"
+  },
+  {
+    "slug": "evocation-festival-part-6-jp",
+    "name": "Evocation Festival Part 6",
+    "region": "JP",
+    "image_file": "EvocationFest6Banner.png"
+  },
+  {
+    "slug": "gudaguda-super-goryokaku-jp",
+    "name": "GUDAGUDA Super Goryokaku",
+    "region": "JP",
+    "image_file": "Super goryoukaku.png"
+  },
+  {
+    "slug": "christmas-2023-jp",
+    "name": "Christmas 2023",
+    "region": "JP",
+    "image_file": "Christmas2023.png"
+  },
+  {
+    "slug": "new-year-campaign-2024-jp",
+    "name": "New Year Campaign 2024",
+    "region": "JP",
+    "image_file": "newyear2024_cp.png"
+  },
+  {
+    "slug": "start-dash-campaign-us-na",
+    "name": "Start Dash Campaign (US)",
+    "region": "NA",
+    "image_file": "StartDashUS.png"
+  },
+  {
+    "slug": "fategrand-order-launch-celebration-campaign-us-na",
+    "name": "Fate/Grand Order Launch Celebration Campaign (US)",
+    "region": "NA",
+    "image_file": "LaunchCampaignUS.png"
+  },
+  {
+    "slug": "master-recruitment-campaign-us-na",
+    "name": "Master Recruitment Campaign (US)",
+    "region": "NA",
+    "image_file": "FGOENPreReleaseBanner.png"
+  },
+  {
+    "slug": "66666-facebook-likes-campaign-us-na",
+    "name": "66,666 Facebook Likes Campaign (US)",
+    "region": "NA",
+    "image_file": "66666LikesCampaign.png"
+  },
+  {
+    "slug": "12-ap-campaign-us-na",
+    "name": "1/2 AP Campaign (US)",
+    "region": "NA",
+    "image_file": "ApHalfCost.png"
+  },
+  {
+    "slug": "fategrand-order-first-order-release-celebration-quest-us-na",
+    "name": "Fate/Grand Order First Order Release Celebration Quest (US)",
+    "region": "NA",
+    "image_file": "2CostEvent.png"
+  },
+  {
+    "slug": "fateextella-nintendo-switch-ver-release-campaign-us-na",
+    "name": "Fate/Extella Nintendo Switch ver. Release Campaign (US)",
+    "region": "NA",
+    "image_file": "ExtellaCampaignUS.png"
+  },
+  {
+    "slug": "nero-festival-us-na",
+    "name": "Nero Festival (US)",
+    "region": "NA",
+    "image_file": "NeroFestColosseumEvent.png"
+  },
+  {
+    "slug": "otakon-2017-campaign-us-na",
+    "name": "Otakon 2017 Campaign (US)",
+    "region": "NA",
+    "image_file": "Otakon2017CampaignUS.png"
+  },
+  {
+    "slug": "moon-goddess-event-us-na",
+    "name": "Moon Goddess Event (US)",
+    "region": "NA",
+    "image_file": "EventEN-MoonGoddess.png"
+  },
+  {
+    "slug": "enter-the-treasure-vault-12-ap-campaign-us-na",
+    "name": "Enter the Treasure Vault 1/2 AP Campaign (US)",
+    "region": "NA",
+    "image_file": "Treasure vault ap.png"
+  },
+  {
+    "slug": "1m-download-campaign-us-na",
+    "name": "1M Download Campaign (US)",
+    "region": "NA",
+    "image_file": "1MillionDownloadCampaignUS.png"
+  },
+  {
+    "slug": "monster-hunting-12-ap-campaign-us-na",
+    "name": "Monster Hunting 1/2 AP Campaign (US)",
+    "region": "NA",
+    "image_file": "Monster hunting ap.png"
+  },
+  {
+    "slug": "fuyuki-pickup-summon-us-na",
+    "name": "Fuyuki Pickup Summon (US)",
+    "region": "NA",
+    "image_file": "Fuyuki Pickup Summon.jpg"
+  },
+  {
+    "slug": "free-quests-12-ap-campaign-us-na",
+    "name": "Free Quests 1/2 AP Campaign (US)",
+    "region": "NA",
+    "image_file": "FreeQuestSeptemAP.png"
+  },
+  {
+    "slug": "main-quests-12-ap-campaign-us-na",
+    "name": "Main Quests 1/2 AP Campaign (US)",
+    "region": "NA",
+    "image_file": "Main Quest AP Campaign.png"
+  },
+  {
+    "slug": "septem-campaign-us-na",
+    "name": "Septem Campaign (US)",
+    "region": "NA",
+    "image_file": "SeptemSummonCampaignUS.png"
+  },
+  {
+    "slug": "100k-facebook-followers-campaign-us-na",
+    "name": "100K Facebook Followers Campaign (US)",
+    "region": "NA",
+    "image_file": "100kFacebookFollowersUS.png"
+  },
+  {
+    "slug": "okeanos-chapter-release-us-na",
+    "name": "Okeanos Chapter Release (US)",
+    "region": "NA",
+    "image_file": "OkeanosBannerUS.png"
+  },
+  {
+    "slug": "100th-day-anniversary-us-na",
+    "name": "100th Day Anniversary (US)",
+    "region": "NA",
+    "image_file": "100thDayAnniversaryUS.png"
+  },
+  {
+    "slug": "okeanos-campaign-2-us-na",
+    "name": "Okeanos Campaign 2 (US)",
+    "region": "NA",
+    "image_file": "OkeanosCampaign2.png"
+  },
+  {
+    "slug": "ember-gathering-quests-12-ap-campaign-us-na",
+    "name": "Ember Gathering Quests 1/2 AP Campaign (US)",
+    "region": "NA",
+    "image_file": "EmberGatheringAP.png"
+  },
+  {
+    "slug": "halloween-2017-event-us-na",
+    "name": "Halloween 2017 Event (US)",
+    "region": "NA",
+    "image_file": "Halloween2017 US.png"
+  },
+  {
+    "slug": "da-vincis-selection-campaign-us-na",
+    "name": "Da Vinci's Selection Campaign (US)",
+    "region": "NA",
+    "image_file": "DaVinciSelectionCampaign.png"
+  },
+  {
+    "slug": "interlude-12-ap-campaign-us-na",
+    "name": "Interlude 1/2 AP Campaign (US)",
+    "region": "NA",
+    "image_file": "InterludeCampaignUS.png"
+  },
+  {
+    "slug": "gudaguda-honnouji-event-us-na",
+    "name": "GUDAGUDA Honnouji Event (US)",
+    "region": "NA",
+    "image_file": "GUDAGUDA US.png"
+  },
+  {
+    "slug": "fgo-thanksgiving-special-2017-us-na",
+    "name": "FGO Thanksgiving Special 2017 (US)",
+    "region": "NA",
+    "image_file": "Thanksgiving2017.png"
+  },
+  {
+    "slug": "christmas-2017-event-us-na",
+    "name": "Christmas 2017 Event (US)",
+    "region": "NA",
+    "image_file": "Christmas2017 US.png"
+  },
+  {
+    "slug": "singularity-pickup-summon-us-na",
+    "name": "Singularity Pickup Summon (US)",
+    "region": "NA",
+    "image_file": "Singularity Pickup Summon (US).png"
+  },
+  {
+    "slug": "main-quest-12-ap-campaign-us-na",
+    "name": "Main Quest 1/2 AP Campaign (US)",
+    "region": "NA",
+    "image_file": "MainQuestHalfAP OkeanosUS.png"
+  },
+  {
+    "slug": "london-chapter-release-us-na",
+    "name": "London Chapter Release (US)",
+    "region": "NA",
+    "image_file": "LondonReleaseUS.png"
+  },
+  {
+    "slug": "london-campaign-2-us-na",
+    "name": "London Campaign 2 (US)",
+    "region": "NA",
+    "image_file": "LondonCampaign2US.png"
+  },
+  {
+    "slug": "training-field-12-ap-campaign-us-na",
+    "name": "Training Field 1/2 AP Campaign (US)",
+    "region": "NA",
+    "image_file": "TrainingGroundsAP US.png"
+  },
+  {
+    "slug": "happy-new-year-2018-us-na",
+    "name": "Happy New Year 2018 (US)",
+    "region": "NA",
+    "image_file": "HappyNewYear2018 US.png"
+  },
+  {
+    "slug": "saber-wars-event-us-na",
+    "name": "Saber Wars Event (US)",
+    "region": "NA",
+    "image_file": "SaberWarsUS.png"
+  },
+  {
+    "slug": "200th-day-anniversary-us-na",
+    "name": "200th Day Anniversary (US)",
+    "region": "NA",
+    "image_file": "200thDayAnniversaryUS.png"
+  },
+  {
+    "slug": "2m-downloads-campaign-us-na",
+    "name": "2M Downloads Campaign (US)",
+    "region": "NA",
+    "image_file": "2MillionDownloadCampaignUS.png"
+  },
+  {
+    "slug": "valentine-2018-event-us-na",
+    "name": "Valentine 2018 Event (US)",
+    "region": "NA",
+    "image_file": "Valentine2018_EventUS.png"
+  },
+  {
+    "slug": "servant-rank-up-quests-part-i-us-na",
+    "name": "Servant Rank Up Quests Part I (US)",
+    "region": "NA",
+    "image_file": "RankUpQuests1_US.png"
+  },
+  {
+    "slug": "three-knights-and-four-cavalries-summon-campaign-us-na",
+    "name": "Three Knights and Four Cavalries Summon Campaign (US)",
+    "region": "NA",
+    "image_file": "3Knights4CavalriesCampaignUS.png"
+  },
+  {
+    "slug": "the-garden-of-sinners-collaboration-event-us-na",
+    "name": "The Garden of Sinners Collaboration Event (US)",
+    "region": "NA",
+    "image_file": "GardenOfSinnersEventUS.png"
+  },
+  {
+    "slug": "chaldea-boys-collection-2018-us-na",
+    "name": "Chaldea Boys Collection 2018 (US)",
+    "region": "NA",
+    "image_file": "ChaldeaBoysCollectionUS_2018.png"
+  },
+  {
+    "slug": "london-12-ap-campaign-us-na",
+    "name": "London 1/2 AP Campaign (US)",
+    "region": "NA",
+    "image_file": "LondonChallengeQuestsTeaserUS.png"
+  },
+  {
+    "slug": "vengeful-demons-wail-at-the-prison-tower-us-na",
+    "name": "Vengeful Demon's Wail at the Prison Tower (US)",
+    "region": "NA",
+    "image_file": "DantesChallengeQuestsEventUS.png"
+  },
+  {
+    "slug": "training-grounds-12-ap-campaign-us-na",
+    "name": "Training Grounds 1/2 AP Campaign (US)",
+    "region": "NA",
+    "image_file": "TrainingGroundsHalfAP_US.png"
+  },
+  {
+    "slug": "singularity-summon-campaign-us-na",
+    "name": "Singularity Summon Campaign (US)",
+    "region": "NA",
+    "image_file": "SingularityCampaignUS.png"
+  },
+  {
+    "slug": "e-pluribus-unum-chapter-release-us-na",
+    "name": "E Pluribus Unum Chapter Release (US)",
+    "region": "NA",
+    "image_file": "AmericaBannerUS.png"
+  },
+  {
+    "slug": "treasure-vault-12-ap-campaign-us-na",
+    "name": "Treasure Vault 1/2 AP Campaign (US)",
+    "region": "NA",
+    "image_file": "TreasureVaultHalfAP_US.png"
+  },
+  {
+    "slug": "da-vinci-and-the-7-counterfeit-heroic-spirits-us-na",
+    "name": "Da Vinci and the 7 Counterfeit Heroic Spirits (US)",
+    "region": "NA",
+    "image_file": "DaVinciEventUS.png"
+  },
+  {
+    "slug": "hunting-quests-part-i-us-na",
+    "name": "Hunting Quests Part I (US)",
+    "region": "NA",
+    "image_file": "HuntingQuestsPart1US.png"
+  },
+  {
+    "slug": "fateaccel-zero-order-collaboration-event-us-na",
+    "name": "Fate/Accel Zero Order Collaboration Event (US)",
+    "region": "NA",
+    "image_file": "FateZeroEventUS.png"
+  },
+  {
+    "slug": "300th-day-anniversary-us-na",
+    "name": "300th Day Anniversary (US)",
+    "region": "NA",
+    "image_file": "300thDayAnniversaryUS.png"
+  },
+  {
+    "slug": "servant-rank-up-quests-part-ii-us-na",
+    "name": "Servant Rank Up Quests Part II (US)",
+    "region": "NA",
+    "image_file": "RankUpQuests2_US.png"
+  },
+  {
+    "slug": "sakata-kintoki-summoning-campaign-us-na",
+    "name": "Sakata Kintoki Summoning Campaign (US)",
+    "region": "NA",
+    "image_file": "KintokiBannerUS.png"
+  },
+  {
+    "slug": "e-pluribus-unum-12-ap-campaign-us-na",
+    "name": "E Pluribus Unum 1/2 AP Campaign (US)",
+    "region": "NA",
+    "image_file": "AmericaHalfAP_US.png"
+  },
+  {
+    "slug": "rashomon-event-us-na",
+    "name": "Rashomon Event (US)",
+    "region": "NA",
+    "image_file": "RashomonEventUS.png"
+  },
+  {
+    "slug": "sanzang-coming-to-the-west-us-na",
+    "name": "Sanzang Coming to the West (US)",
+    "region": "NA",
+    "image_file": "SanzangEventBannerUS.png"
+  },
+  {
+    "slug": "servant-rank-up-quests-part-iii-us-na",
+    "name": "Servant Rank Up Quests Part III (US)",
+    "region": "NA",
+    "image_file": "RankUpQuests3_US.png"
+  },
+  {
+    "slug": "3m-downloads-campaign-us-na",
+    "name": "3M Downloads Campaign (US)",
+    "region": "NA",
+    "image_file": "3MillionDownloadCampaignUS.png"
+  },
+  {
+    "slug": "onigashima-event-us-na",
+    "name": "Onigashima Event (US)",
+    "region": "NA",
+    "image_file": "OnigashimaBannerUS.png"
+  },
+  {
+    "slug": "e-pluribus-unum-12-ap-campaign-2-us-na",
+    "name": "E Pluribus Unum 1/2 AP Campaign 2 (US)",
+    "region": "NA",
+    "image_file": "AmericaHalfAP2_US.png"
+  },
+  {
+    "slug": "camelot-chapter-release-us-na",
+    "name": "Camelot Chapter Release (US)",
+    "region": "NA",
+    "image_file": "CamelotBannerUS.png"
+  },
+  {
+    "slug": "servant-rank-up-quests-part-iv-us-na",
+    "name": "Servant Rank Up Quests Part IV (US)",
+    "region": "NA",
+    "image_file": "RankUpQuests4v2_US.png"
+  },
+  {
+    "slug": "fategrand-order-user-survey-1-us-na",
+    "name": "Fate/Grand Order User Survey 1 (US)",
+    "region": "NA",
+    "image_file": "FGO_NA_Survey1.png"
+  },
+  {
+    "slug": "fgo-festival-2018-1st-anniversary-us-na",
+    "name": "FGO Festival 2018 ~1st Anniversary~ (US)",
+    "region": "NA",
+    "image_file": "FGO1YearAnniversaryEventUS.png"
+  },
+  {
+    "slug": "free-quest-12-ap-campaign-us-na",
+    "name": "Free Quest 1/2 AP Campaign (US)",
+    "region": "NA",
+    "image_file": "FreeQuestHalfAP_CamelotUS.png"
+  },
+  {
+    "slug": "fgo-summer-2018-event-us-na",
+    "name": "FGO Summer 2018 Event (US)",
+    "region": "NA",
+    "image_file": "FGO2018BannerPart1US.png"
+  },
+  {
+    "slug": "400th-day-anniversary-us-na",
+    "name": "400th Day Anniversary (US)",
+    "region": "NA",
+    "image_file": "400thDayAnniversaryUS.png"
+  },
+  {
+    "slug": "training-grounds-12-ap-campaign-august-2018-us-na",
+    "name": "Training Grounds 1/2 AP Campaign August 2018 (US)",
+    "region": "NA",
+    "image_file": "TrainingGroundsAugustHalfAP_US.png"
+  },
+  {
+    "slug": "prisma-codes-collaboration-event-us-na",
+    "name": "Prisma Codes Collaboration Event (US)",
+    "region": "NA",
+    "image_file": "PrismaCodesBannerUS.png"
+  },
+  {
+    "slug": "class-specified-summoning-campaign-us-na",
+    "name": "Class Specified Summoning Campaign (US)",
+    "region": "NA",
+    "image_file": "ClassSpecifiedBannerUS.png"
+  },
+  {
+    "slug": "interlude-12-ap-campaign-2-us-na",
+    "name": "Interlude 1/2 AP Campaign 2 (US)",
+    "region": "NA",
+    "image_file": "InterludeHalfAP_US.png"
+  },
+  {
+    "slug": "nero-festival-return-autumn-2018-us-na",
+    "name": "Nero Festival Return ~Autumn 2018~ (US)",
+    "region": "NA",
+    "image_file": "NeroFest2018BannerUS.png"
+  },
+  {
+    "slug": "singularity-summon-campaign-september-2018-us-na",
+    "name": "Singularity Summon Campaign September 2018 (US)",
+    "region": "NA",
+    "image_file": "SingularityBannerUS.png"
+  },
+  {
+    "slug": "ember-gathering-12-ap-campaign-us-na",
+    "name": "Ember Gathering 1/2 AP Campaign (US)",
+    "region": "NA",
+    "image_file": "EmberGatheringHalfAP_US.png"
+  },
+  {
+    "slug": "halloween-2017-event-revival-us-na",
+    "name": "Halloween 2017 Event Revival (US)",
+    "region": "NA",
+    "image_file": "Halloween2017RevivalUS.png"
+  },
+  {
+    "slug": "servant-rank-up-quests-part-v-us-na",
+    "name": "Servant Rank Up Quests Part V (US)",
+    "region": "NA",
+    "image_file": "RankUpQuests5_US.png"
+  },
+  {
+    "slug": "4m-downloads-campaign-us-na",
+    "name": "4M Downloads Campaign (US)",
+    "region": "NA",
+    "image_file": "4MillionDownloadsCampaignUS.png"
+  },
+  {
+    "slug": "halloween-2018-event-us-na",
+    "name": "Halloween 2018 Event (US)",
+    "region": "NA",
+    "image_file": "Halloween2018BannerUS.png"
+  },
+  {
+    "slug": "500th-day-anniversary-us-na",
+    "name": "500th Day Anniversary (US)",
+    "region": "NA",
+    "image_file": "500thDayAnniversaryUS.png"
+  },
+  {
+    "slug": "hunting-quests-part-ii-us-na",
+    "name": "Hunting Quests Part II (US)",
+    "region": "NA",
+    "image_file": "HuntingQuestsPart2US.png"
+  },
+  {
+    "slug": "new-interludes-and-knights-of-the-round-table-summon-campaign-us-na",
+    "name": "New Interludes and Knights of the Round Table Summon Campaign (US)",
+    "region": "NA",
+    "image_file": "KotRT_SummonCampaignUS.png"
+  },
+  {
+    "slug": "christmas-2017-event-revival-us-na",
+    "name": "Christmas 2017 Event Revival (US)",
+    "region": "NA",
+    "image_file": "Christmas2017RevivalUS.png"
+  },
+  {
+    "slug": "fgo-thanksgiving-special-2018-us-na",
+    "name": "FGO Thanksgiving Special 2018 (US)",
+    "region": "NA",
+    "image_file": "Thanksgiving2018.png"
+  },
+  {
+    "slug": "fatestay-night-heavens-feel-blu-ray-release-commemorative-campaign-us-na",
+    "name": "Fate/Stay Night Heaven's Feel Blu-ray Release Commemorative Campaign (US)",
+    "region": "NA",
+    "image_file": "HeavensFeelCampaignUS.png"
+  },
+  {
+    "slug": "christmas-2018-event-us-na",
+    "name": "Christmas 2018 Event (US)",
+    "region": "NA",
+    "image_file": "Christmas2018BannerUS.png"
+  },
+  {
+    "slug": "babylonia-chapter-release-us-na",
+    "name": "Babylonia Chapter Release (US)",
+    "region": "NA",
+    "image_file": "BabyloniaBannerUS.png"
+  },
+  {
+    "slug": "fatestay-night-heavens-feel-blu-ray-release-commemorative-campaign-part-2-us-na",
+    "name": "Fate/Stay Night Heaven's Feel Blu-ray Release Commemorative Campaign Part 2 (US)",
+    "region": "NA",
+    "image_file": "HeavensFeelCampaignPart2US.png"
+  },
+  {
+    "slug": "solomon-chapter-release-us-na",
+    "name": "Solomon Chapter Release (US)",
+    "region": "NA",
+    "image_file": "SalomonBannerUS.png"
+  },
+  {
+    "slug": "happy-new-year-2019-us-na",
+    "name": "Happy New Year 2019 (US)",
+    "region": "NA",
+    "image_file": "HappyNewYear2019US.png"
+  },
+  {
+    "slug": "training-grounds-12-ap-campaign-january-2019-us-na",
+    "name": "Training Grounds 1/2 AP Campaign January 2019 (US)",
+    "region": "NA",
+    "image_file": "TrainingGroundsCampaignUS.png"
+  },
+  {
+    "slug": "first-hassan-summoning-campaign-us-na",
+    "name": "\"First Hassan\" Summoning Campaign (US)",
+    "region": "NA",
+    "image_file": "GrampsBannerUS.png"
+  },
+  {
+    "slug": "moon-goddess-event-revival-us-na",
+    "name": "Moon Goddess Event Revival (US)",
+    "region": "NA",
+    "image_file": "MoonGoddessRevivalUS.png"
+  },
+  {
+    "slug": "fatestay-night-heavens-feel-blu-ray-release-commemorative-campaign-part-3-us-na",
+    "name": "Fate/Stay Night Heaven's Feel Blu-ray Release Commemorative Campaign Part 3 (US)",
+    "region": "NA",
+    "image_file": "HeavensFeelCampaignPart3US.png"
+  },
+  {
+    "slug": "solomon-12-ap-campaign-us-na",
+    "name": "Solomon 1/2 AP Campaign (US)",
+    "region": "NA",
+    "image_file": "SolomonMainQuestHalfAP_US.png"
+  },
+  {
+    "slug": "vengeful-demons-wail-at-the-prison-tower-revival-us-na",
+    "name": "Vengeful Demon's Wail at the Prison Tower Revival (US)",
+    "region": "NA",
+    "image_file": "DemonTowerRevivalUS.png"
+  },
+  {
+    "slug": "5m-downloads-campaign-us-na",
+    "name": "5M Downloads Campaign (US)",
+    "region": "NA",
+    "image_file": "5MillionDownloadsCampaignUS.png"
+  },
+  {
+    "slug": "valentine-2018-event-revival-us-na",
+    "name": "Valentine 2018 Event Revival (US)",
+    "region": "NA",
+    "image_file": "Valentine2018RevivalUS.png"
+  },
+  {
+    "slug": "fategrand-order-vr-feat-mash-kyrielight-release-campaign-us-na",
+    "name": "Fate/Grand Order VR feat. Mash Kyrielight Release Campaign (US)",
+    "region": "NA",
+    "image_file": "FGOVRCampaignUS.png"
+  },
+  {
+    "slug": "600th-day-anniversary-us-na",
+    "name": "600th Day Anniversary (US)",
+    "region": "NA",
+    "image_file": "600thDayAnniversaryUS.png"
+  },
+  {
+    "slug": "fgo-usa-tour-2019-kickoff-commemorative-campaign-us-na",
+    "name": "FGO USA Tour 2019 Kickoff Commemorative Campaign (US)",
+    "region": "NA",
+    "image_file": "FGOUSATCampaignUS.png"
+  },
+  {
+    "slug": "shinjuku-pre-release-campaign-us-na",
+    "name": "Shinjuku Pre-Release Campaign (US)",
+    "region": "NA",
+    "image_file": "ShinjukuPreCampaignUS.png"
+  },
+  {
+    "slug": "fatestay-night-heavens-feel-blu-ray-release-commemorative-campaign-part-4-us-na",
+    "name": "Fate/Stay Night Heaven's Feel Blu-ray Release Commemorative Campaign Part 4 (US)",
+    "region": "NA",
+    "image_file": "HeavensFeelCampaignPart4US.png"
+  },
+  {
+    "slug": "shinjuku-chapter-release-us-na",
+    "name": "Shinjuku Chapter Release (US)",
+    "region": "NA",
+    "image_file": "ShinjukuBannerUS.png"
+  },
+  {
+    "slug": "ember-gathering-12-ap-campaign-march-2019-us-na",
+    "name": "Ember Gathering 1/2 AP Campaign March 2019 (US)",
+    "region": "NA",
+    "image_file": "EmberGatheringHalfAPMarch2019US.png"
+  },
+  {
+    "slug": "chaldea-boys-collection-2018-revival-us-na",
+    "name": "Chaldea Boys Collection 2018 Revival (US)",
+    "region": "NA",
+    "image_file": "CBC2018RevivalUS.png"
+  },
+  {
+    "slug": "chaldea-boys-collection-2019-us-na",
+    "name": "Chaldea Boys Collection 2019 (US)",
+    "region": "NA",
+    "image_file": "CBC2019BannerUS.png"
+  },
+  {
+    "slug": "gudaguda-honnouji-event-revival-us-na",
+    "name": "GUDAGUDA Honnouji Event Revival (US)",
+    "region": "NA",
+    "image_file": "GUDAGUDARevivalUS.png"
+  },
+  {
+    "slug": "class-based-summoning-campaign-us-na",
+    "name": "Class Based Summoning Campaign (US)",
+    "region": "NA",
+    "image_file": "ClassBasedBannerUS.png"
+  },
+  {
+    "slug": "training-grounds-12-ap-campaign-march-2019-us-na",
+    "name": "Training Grounds 1/2 AP Campaign March 2019 (US)",
+    "region": "NA",
+    "image_file": "TrainingGroundsHalfAPCampaignUS.png"
+  },
+  {
+    "slug": "gudaguda-meiji-restoration-us-na",
+    "name": "GUDAGUDA Meiji Restoration (US)",
+    "region": "NA",
+    "image_file": "MeijiRestorationUS.png"
+  },
+  {
+    "slug": "fateextra-ccc-collaboration-event-us-na",
+    "name": "Fate/Extra CCC Collaboration Event (US)",
+    "region": "NA",
+    "image_file": "SERAPHBannerUS.png"
+  },
+  {
+    "slug": "hunting-quests-part-iii-us-na",
+    "name": "Hunting Quests Part III (US)",
+    "region": "NA",
+    "image_file": "HuntingQuestsPart3US.png"
+  },
+  {
+    "slug": "servant-rank-up-quests-part-vi-us-na",
+    "name": "Servant Rank Up Quests Part VI (US)",
+    "region": "NA",
+    "image_file": "RankUpQuests6_US.png"
+  },
+  {
+    "slug": "6m-downloads-campaign-us-na",
+    "name": "6M Downloads Campaign (US)",
+    "region": "NA",
+    "image_file": "6MillionDownlodsCampaignUS.png"
+  },
+  {
+    "slug": "rashomon-event-revival-us-na",
+    "name": "Rashomon Event Revival (US)",
+    "region": "NA",
+    "image_file": "RashomonRevivalUS.png"
+  },
+  {
+    "slug": "700th-day-anniversary-us-na",
+    "name": "700th Day Anniversary (US)",
+    "region": "NA",
+    "image_file": "700thDayAnniversaryUS.png"
+  },
+  {
+    "slug": "main-quest-12-ap-shinjuku-summoning-campaign-us-na",
+    "name": "Main Quest 1/2 AP + Shinjuku Summoning Campaign (US)",
+    "region": "NA",
+    "image_file": "ShinjukuHalfAPCampaignUS.png"
+  },
+  {
+    "slug": "onigashima-event-revival-us-na",
+    "name": "Onigashima Event Revival (US)",
+    "region": "NA",
+    "image_file": "OnigashimaRevivalUS.png"
+  },
+  {
+    "slug": "agartha-chapter-release-us-na",
+    "name": "Agartha Chapter Release (US)",
+    "region": "NA",
+    "image_file": "AgarthaBannerUS.png"
+  },
+  {
+    "slug": "all-the-statesmen-the-history-of-the-american-frontier-us-na",
+    "name": "All the Statesmen! ~The History of the American Frontier~ (US)",
+    "region": "NA",
+    "image_file": "BunyanEventBannerUS.png"
+  },
+  {
+    "slug": "fgo-festival-2019-2nd-anniversary-us-na",
+    "name": "FGO Festival 2019 ~2nd Anniversary~ (US)",
+    "region": "NA",
+    "image_file": "FGO2ndAnniversaryUS.png"
+  },
+  {
+    "slug": "servant-rank-up-quests-part-vii-us-na",
+    "name": "Servant Rank Up Quests Part VII (US)",
+    "region": "NA",
+    "image_file": "RankUpQuestsPart7US.png"
+  },
+  {
+    "slug": "fgo-summer-2018-event-revival-us-na",
+    "name": "FGO Summer 2018 Event Revival (US)",
+    "region": "NA",
+    "image_file": "FGOSummer2018RevivalUS.png"
+  },
+  {
+    "slug": "fgo-summer-2019-event-us-na",
+    "name": "FGO Summer 2019 Event (US)",
+    "region": "NA",
+    "image_file": "DeadHeatBannerUS.png"
+  },
+  {
+    "slug": "free-quests-12-ap-arc-15-12-ap-campaign-us-na",
+    "name": "Free Quests 1/2 AP & Arc 1.5 1/2 AP Campaign (US)",
+    "region": "NA",
+    "image_file": "FreeQuestsHalfAPUS.png"
+  },
+  {
+    "slug": "interlude-campaign-1-us-na",
+    "name": "Interlude Campaign 1 (US)",
+    "region": "NA",
+    "image_file": "InterludeCampaign1US.png"
+  },
+  {
+    "slug": "illyasviel-von-einzbern-summoning-campaign-us-na",
+    "name": "Illyasviel von Einzbern Summoning Campaign (US)",
+    "region": "NA",
+    "image_file": "IllyaSummonCampaignUS.png"
+  },
+  {
+    "slug": "class-specific-summoning-campaign-us-na",
+    "name": "Class Specific Summoning Campaign (US)",
+    "region": "NA",
+    "image_file": "ClassSummonCampaignUS.png"
+  },
+  {
+    "slug": "nero-festival-return-autumn-2019-us-na",
+    "name": "Nero Festival Return ~Autumn 2019~ (US)",
+    "region": "NA",
+    "image_file": "NeroFestival2019US.png"
+  },
+  {
+    "slug": "800th-day-anniversary-us-na",
+    "name": "800th Day Anniversary (US)",
+    "region": "NA",
+    "image_file": "800thDayAnniversaryUS.png"
+  },
+  {
+    "slug": "7m-downloads-campaign-us-na",
+    "name": "7M Downloads Campaign (US)",
+    "region": "NA",
+    "image_file": "7MDownloadsBannerUS.png"
+  },
+  {
+    "slug": "halloween-2018-event-revival-us-na",
+    "name": "Halloween 2018 Event Revival (US)",
+    "region": "NA",
+    "image_file": "Halloween2018RevivalUS.png"
+  },
+  {
+    "slug": "200k-facebook-followers-campaign-us-na",
+    "name": "200K Facebook Followers Campaign (US)",
+    "region": "NA",
+    "image_file": "200kFacebookFollowersUS.png"
+  },
+  {
+    "slug": "interlude-campaign-2-us-na",
+    "name": "Interlude Campaign 2 (US)",
+    "region": "NA",
+    "image_file": "InterludeCampaign2US.png"
+  },
+  {
+    "slug": "fatestay-night-heavens-feel-ii-blu-ray-release-commemorative-campaign-us-na",
+    "name": "Fate/Stay Night Heaven's Feel II Blu-ray Release Commemorative Campaign (US)",
+    "region": "NA",
+    "image_file": "FateStayNightHeavensFeel2BannerUS.png"
+  },
+  {
+    "slug": "shimousa-chapter-release-us-na",
+    "name": "Shimousa Chapter Release (US)",
+    "region": "NA",
+    "image_file": "ShimousaBannerUS.png"
+  },
+  {
+    "slug": "fateextra-last-encore-blu-ray-release-commemorative-campaign-us-na",
+    "name": "Fate/Extra Last Encore Blu-ray Release Commemorative Campaign (US)",
+    "region": "NA",
+    "image_file": "FateExtraLastEncoreBlurayCampaignUS.png"
+  },
+  {
+    "slug": "halloween-2019-event-us-na",
+    "name": "Halloween 2019 Event (US)",
+    "region": "NA",
+    "image_file": "Halloween2019BannerUS.png"
+  },
+  {
+    "slug": "interlude-campaign-3-us-na",
+    "name": "Interlude Campaign 3 (US)",
+    "region": "NA",
+    "image_file": "InterludeCampaign3US.png"
+  },
+  {
+    "slug": "fategrand-order-absolute-demonic-front-babylonia-anime-release-campaign-us-na",
+    "name": "Fate/Grand Order Absolute Demonic Front: Babylonia Anime Release Campaign (US)",
+    "region": "NA",
+    "image_file": "BabyloniaAnimeCampaignUS.png"
+  },
+  {
+    "slug": "8m-downloads-campaign-us-na",
+    "name": "8M Downloads Campaign (US)",
+    "region": "NA",
+    "image_file": "8MDownloadsCampaignUS.png"
+  },
+  {
+    "slug": "christmas-2018-event-revival-us-na",
+    "name": "Christmas 2018 Event Revival (US)",
+    "region": "NA",
+    "image_file": "Christmas2018RevivalUS.png"
+  },
+  {
+    "slug": "fgo-thanksgiving-special-2019-us-na",
+    "name": "FGO Thanksgiving Special 2019 (US)",
+    "region": "NA",
+    "image_file": "Thanksgiving2019US.png"
+  },
+  {
+    "slug": "fgo-advent-calendar-2019-us-na",
+    "name": "FGO Advent Calendar 2019 (US)",
+    "region": "NA",
+    "image_file": "FGOAdventCalendar2019.png"
+  },
+  {
+    "slug": "arc-1-main-quests-14-ap-campaign-us-na",
+    "name": "Arc 1 Main Quests 1/4 AP Campaign (US)",
+    "region": "NA",
+    "image_file": "Arc1QuarterAPCampaignUS.png"
+  },
+  {
+    "slug": "salem-chapter-release-us-na",
+    "name": "Salem Chapter Release (US)",
+    "region": "NA",
+    "image_file": "SalemBannerUS.png"
+  },
+  {
+    "slug": "interlude-campaign-4-us-na",
+    "name": "Interlude Campaign 4 (US)",
+    "region": "NA",
+    "image_file": "InterludeCampaign4US.png"
+  },
+  {
+    "slug": "900th-day-anniversary-us-na",
+    "name": "900th Day Anniversary (US)",
+    "region": "NA",
+    "image_file": "900thDayAnniversaryUS.png"
+  },
+  {
+    "slug": "christmas-2019-event-us-na",
+    "name": "Christmas 2019 Event (US)",
+    "region": "NA",
+    "image_file": "Christmas2019EventUS.png"
+  },
+  {
+    "slug": "part-2-prelude-release-campaign-us-na",
+    "name": "Part 2 Prelude Release Campaign (US)",
+    "region": "NA",
+    "image_file": "Part2PreludeReleaseCampaignUS.png"
+  },
+  {
+    "slug": "happy-new-year-2020-us-na",
+    "name": "Happy New Year 2020 (US)",
+    "region": "NA",
+    "image_file": "HappyNewYear2020US.png"
+  },
+  {
+    "slug": "100k-twitter-followers-campaign-us-na",
+    "name": "100K Twitter Followers Campaign (US)",
+    "region": "NA",
+    "image_file": "100kTwitterFollowersUS.png"
+  },
+  {
+    "slug": "da-vinci-and-the-7-counterfeit-heroic-spirits-revival-us-na",
+    "name": "Da Vinci and the 7 Counterfeit Heroic Spirits Revival (US)",
+    "region": "NA",
+    "image_file": "DaVinciEventRevivalUS.png"
+  },
+  {
+    "slug": "fategrand-order-absolute-demonic-front-babylonia-anime-release-campaign-part-ii-us-na",
+    "name": "Fate/Grand Order Absolute Demonic Front: Babylonia Anime Release Campaign Part II (US)",
+    "region": "NA",
+    "image_file": "BabyloniaAnimeCampaign2US.png"
+  },
+  {
+    "slug": "the-tale-of-setsubun-us-na",
+    "name": "The Tale of Setsubun (US)",
+    "region": "NA",
+    "image_file": "SetsubunEventUS.png"
+  },
+  {
+    "slug": "valentine-2020-event-us-na",
+    "name": "Valentine 2020 Event (US)",
+    "region": "NA",
+    "image_file": "Valentine2020EventUS.png"
+  },
+  {
+    "slug": "valentine-2019-summoning-campaign-revival-us-na",
+    "name": "Valentine 2019 Summoning Campaign Revival (US)",
+    "region": "NA",
+    "image_file": "Valentine2019BannerRevivalUS.png"
+  },
+  {
+    "slug": "presidents-day-celebration-campaign-2020-us-na",
+    "name": "Presidents Day Celebration Campaign 2020 (US)",
+    "region": "NA",
+    "image_file": "PresidentsDayCampaignUS.png"
+  },
+  {
+    "slug": "the-garden-of-sinners-collaboration-event-revival-us-na",
+    "name": "The Garden of Sinners Collaboration Event Revival (US)",
+    "region": "NA",
+    "image_file": "GardenOfSinnersRevivalUS.png"
+  },
+  {
+    "slug": "fategrand-order-user-survey-2-us-na",
+    "name": "Fate/Grand Order User Survey 2 (US)",
+    "region": "NA",
+    "image_file": "FGOSurvey2US.png"
+  },
+  {
+    "slug": "servant-rank-up-quests-part-viii-us-na",
+    "name": "Servant Rank Up Quests Part VIII (US)",
+    "region": "NA",
+    "image_file": "RankUpQuests8US.png"
+  },
+  {
+    "slug": "9m-downloads-campaign-us-na",
+    "name": "9M Downloads Campaign (US)",
+    "region": "NA",
+    "image_file": "9MDownloadsCampaignUS.png"
+  },
+  {
+    "slug": "fategrand-order-absolute-demonic-front-babylonia-anime-release-campaign-part-iii-us-na",
+    "name": "Fate/Grand Order Absolute Demonic Front: Babylonia Anime Release Campaign Part III (US)",
+    "region": "NA",
+    "image_file": "FGOBabyloniaCampaign3US.png"
+  },
+  {
+    "slug": "chaldea-boys-collection-2020-us-na",
+    "name": "Chaldea Boys Collection 2020 (US)",
+    "region": "NA",
+    "image_file": "CBC2020US.png"
+  },
+  {
+    "slug": "saber-wars-event-revival-us-na",
+    "name": "Saber Wars Event Revival (US)",
+    "region": "NA",
+    "image_file": "SaberWarsRevivalUS.png"
+  },
+  {
+    "slug": "arc-1-main-quests-14-ap-arc-15-free-quests-12-ap-campaign-us-na",
+    "name": "Arc 1 Main Quests 1/4 AP + Arc 1.5 Free Quests 1/2 AP Campaign (US)",
+    "region": "NA",
+    "image_file": "Arc1QuarterAPFreeQuestHalfAPUS.png"
+  },
+  {
+    "slug": "new-interludes-class-pickup-summoning-campaign-us-na",
+    "name": "New Interludes + Class Pickup Summoning Campaign (US)",
+    "region": "NA",
+    "image_file": "ClassPickupSummonUS.png"
+  },
+  {
+    "slug": "1000-days-anniversary-us-na",
+    "name": "1000 Days Anniversary (US)",
+    "region": "NA",
+    "image_file": "1000DaysAnniversaryUS.png"
+  },
+  {
+    "slug": "anastasia-chapter-release-us-na",
+    "name": "Anastasia Chapter Release (US)",
+    "region": "NA",
+    "image_file": "AnastasiaBannerUS.png"
+  },
+  {
+    "slug": "fgo-pinball-release-celebration-campaign-us-na",
+    "name": "FGO Pinball Release Celebration Campaign (US)",
+    "region": "NA",
+    "image_file": "FGOPinballCampaignUS.png"
+  },
+  {
+    "slug": "sanzang-coming-to-the-west-revival-us-na",
+    "name": "Sanzang Coming to the West Revival (US)",
+    "region": "NA",
+    "image_file": "JourneyRevivalUS.png"
+  },
+  {
+    "slug": "fategrand-order-absolute-demonic-front-babylonia-anime-release-campaign-part-iv-us-na",
+    "name": "Fate/Grand Order Absolute Demonic Front: Babylonia Anime Release Campaign Part IV (US)",
+    "region": "NA",
+    "image_file": "FGOBabyloniaCampaign4US.png"
+  },
+  {
+    "slug": "fateapocrypha-collaboration-event-us-na",
+    "name": "Fate/Apocrypha Collaboration Event (US)",
+    "region": "NA",
+    "image_file": "ApocryphaEventUS.png"
+  },
+  {
+    "slug": "interlude-campaign-5-us-na",
+    "name": "Interlude Campaign 5 (US)",
+    "region": "NA",
+    "image_file": "InterludeCampaign5US.png"
+  },
+  {
+    "slug": "gudaguda-meiji-restoration-revival-us-na",
+    "name": "GUDAGUDA Meiji Restoration Revival (US)",
+    "region": "NA",
+    "image_file": "MeijiRestorationRevivalUS.png"
+  },
+  {
+    "slug": "okita-souji-summoning-campaign-us-na",
+    "name": "Okita Souji Summoning Campaign (US)",
+    "region": "NA",
+    "image_file": "OkitaBannerUS.png"
+  },
+  {
+    "slug": "murder-at-the-kogetsukan-us-na",
+    "name": "Murder at the Kogetsukan (US)",
+    "region": "NA",
+    "image_file": "KogetsukanBannerUS.png"
+  },
+  {
+    "slug": "hunting-quests-part-iv-us-na",
+    "name": "Hunting Quests Part IV (US)",
+    "region": "NA",
+    "image_file": "HuntingQuestsPart4US.png"
+  },
+  {
+    "slug": "10m-downloads-campaign-us-na",
+    "name": "10M Downloads Campaign (US)",
+    "region": "NA",
+    "image_file": "10MDownloadsCampaignUS.png"
+  },
+  {
+    "slug": "gudaguda-legend-of-the-imperial-capital-grail-us-na",
+    "name": "GUDAGUDA Legend of the Imperial Capital Grail (US)",
+    "region": "NA",
+    "image_file": "GUDAGUDAImperialCapitalBannerUS.png"
+  },
+  {
+    "slug": "interlude-campaign-6-us-na",
+    "name": "Interlude Campaign 6 (US)",
+    "region": "NA",
+    "image_file": "InterludeCampaign6US.png"
+  },
+  {
+    "slug": "gotterdammerung-chapter-release-us-na",
+    "name": "Götterdämmerung Chapter Release (US)",
+    "region": "NA",
+    "image_file": "LB2ChapterReleaseUS.png"
+  },
+  {
+    "slug": "happy-3rd-anniversary-us-na",
+    "name": "Happy 3rd Anniversary! (US)",
+    "region": "NA",
+    "image_file": "HappyThirdAnniversaryUS.png"
+  },
+  {
+    "slug": "1100-days-anniversary-us-na",
+    "name": "1100 Days Anniversary (US)",
+    "region": "NA",
+    "image_file": "1100DaysAnniversaryUS.png"
+  },
+  {
+    "slug": "all-the-statesmen-the-history-of-the-american-frontier-revival-us-na",
+    "name": "All the Statesmen! ~The History of the American Frontier~ Revival (US)",
+    "region": "NA",
+    "image_file": "BunyanEventRevivalUS.png"
+  },
+  {
+    "slug": "servant-rank-up-quests-part-ix-us-na",
+    "name": "Servant Rank Up Quests Part IX (US)",
+    "region": "NA",
+    "image_file": "RankUpQuests9v2US.png"
+  },
+  {
+    "slug": "fgo-festival-2020-3rd-anniversary-us-na",
+    "name": "FGO Festival 2020 ~3rd Anniversary~ (US)",
+    "region": "NA",
+    "image_file": "ThirdAnniversaryBannerUS.png"
+  },
+  {
+    "slug": "fgo-summer-2019-event-revival-us-na",
+    "name": "FGO Summer 2019 Event Revival (US)",
+    "region": "NA",
+    "image_file": "DeadHeatRevivalUS.png"
+  },
+  {
+    "slug": "fgo-summer-2020-event-us-na",
+    "name": "FGO Summer 2020 Event (US)",
+    "region": "NA",
+    "image_file": "SummerFestivalBannerUS.png"
+  },
+  {
+    "slug": "11m-downloads-campaign-us-na",
+    "name": "11M Downloads Campaign (US)",
+    "region": "NA",
+    "image_file": "11MDownloadsCampaignUS.png"
+  },
+  {
+    "slug": "fateaccel-zero-order-collaboration-event-revival-us-na",
+    "name": "Fate/Accel Zero Order Collaboration Event Revival (US)",
+    "region": "NA",
+    "image_file": "FateZeroRevivalUS.png"
+  },
+  {
+    "slug": "shuten-douji-rank-up-quest-commemorative-summoning-campaign-us-na",
+    "name": "Shuten Douji Rank Up Quest Commemorative Summoning Campaign (US)",
+    "region": "NA",
+    "image_file": "ShutenDoujiBannerUS.png"
+  },
+  {
+    "slug": "battle-in-new-york-2020-us-na",
+    "name": "Battle in New York 2020 (US)",
+    "region": "NA",
+    "image_file": "BINY2020BannerUS.png"
+  },
+  {
+    "slug": "halloween-2019-event-revival-us-na",
+    "name": "Halloween 2019 Event Revival (US)",
+    "region": "NA",
+    "image_file": "Halloween2019RevivalUS.png"
+  },
+  {
+    "slug": "1200-days-anniversary-us-na",
+    "name": "1200 Days Anniversary (US)",
+    "region": "NA",
+    "image_file": "1200DaysAnniversaryUS.png"
+  },
+  {
+    "slug": "arc-1-main-quests-14-ap-arc-2-main-quests-12-ap-campaign-us-na",
+    "name": "Arc 1 Main Quests 1/4 AP + Arc 2 Main Quests 1/2 AP Campaign (US)",
+    "region": "NA",
+    "image_file": "Arc2MainQuestsHalfAPUS.png"
+  },
+  {
+    "slug": "ember-gathering-12-ap-campaign-october-2020-us-na",
+    "name": "Ember Gathering 1/2 AP Campaign October 2020 (US)",
+    "region": "NA",
+    "image_file": "EmberGatheringHalfAPOctober2020US.png"
+  },
+  {
+    "slug": "halloween-2020-event-us-na",
+    "name": "Halloween 2020 Event (US)",
+    "region": "NA",
+    "image_file": "OnilandBannerUS.png"
+  },
+  {
+    "slug": "interlude-campaign-7-us-na",
+    "name": "Interlude Campaign 7 (US)",
+    "region": "NA",
+    "image_file": "InterludeCampaign7US.png"
+  },
+  {
+    "slug": "12m-downloads-campaign-us-na",
+    "name": "12M Downloads Campaign (US)",
+    "region": "NA",
+    "image_file": "12MDownloadsUS.png"
+  },
+  {
+    "slug": "christmas-2019-event-revival-us-na",
+    "name": "Christmas 2019 Event Revival (US)",
+    "region": "NA",
+    "image_file": "Christmas2019RevivalUS.png"
+  },
+  {
+    "slug": "fatestay-night-heavens-feel-iii-theatrical-release-commemorative-campaign-us-na",
+    "name": "Fate/Stay Night Heaven's Feel III Theatrical Release Commemorative Campaign (US)",
+    "region": "NA",
+    "image_file": "HeavensFeel3CampaignUS.png"
+  },
+  {
+    "slug": "sin-pre-release-campaign-us-na",
+    "name": "SIN Pre-Release Campaign (US)",
+    "region": "NA",
+    "image_file": "Lostbelt3PreReleaseCampaignUS.png"
+  },
+  {
+    "slug": "fgo-thanksgiving-special-2020-us-na",
+    "name": "FGO Thanksgiving Special 2020 (US)",
+    "region": "NA",
+    "image_file": "Thanksgiving2020US.png"
+  },
+  {
+    "slug": "sin-chapter-release-us-na",
+    "name": "SIN Chapter Release (US)",
+    "region": "NA",
+    "image_file": "LB3ChapterReleaseUS.png"
+  },
+  {
+    "slug": "fgo-advent-calendar-2020-us-na",
+    "name": "FGO Advent Calendar 2020 (US)",
+    "region": "NA",
+    "image_file": "FGOAdventCalendar2020.png"
+  },
+  {
+    "slug": "christmas-2020-event-us-na",
+    "name": "Christmas 2020 Event (US)",
+    "region": "NA",
+    "image_file": "Christmas2020BannerUS.png"
+  },
+  {
+    "slug": "lord-el-melloi-ii-case-files-blu-ray-release-commemorative-campaign-us-na",
+    "name": "Lord El-Melloi II Case Files Blu-ray Release Commemorative Campaign (US)",
+    "region": "NA",
+    "image_file": "CaseFilesAnimeCampaignUS.png"
+  },
+  {
+    "slug": "new-year-2021-countdown-campaign-us-na",
+    "name": "New Year 2021 Countdown Campaign (US)",
+    "region": "NA",
+    "image_file": "NewYearCountdownUS.png"
+  },
+  {
+    "slug": "happy-new-year-2021-us-na",
+    "name": "Happy New Year 2021 (US)",
+    "region": "NA",
+    "image_file": "HappyNewYear2021US.png"
+  },
+  {
+    "slug": "new-year-2021-event-us-na",
+    "name": "New Year 2021 Event (US)",
+    "region": "NA",
+    "image_file": "NYEvent2021BannerUS.png"
+  },
+  {
+    "slug": "even-more-learning-with-manga-release-celebration-campaign-us-na",
+    "name": "Even More Learning With Manga Release Celebration Campaign (US)",
+    "region": "NA",
+    "image_file": "EvenMoreLearnMangaCampaignUS.png"
+  },
+  {
+    "slug": "1300-days-anniversary-us-na",
+    "name": "1300 Days Anniversary (US)",
+    "region": "NA",
+    "image_file": "1300DaysAnniversaryUS.png"
+  },
+  {
+    "slug": "prisma-codes-collaboration-event-revival-us-na",
+    "name": "Prisma Codes Collaboration Event Revival (US)",
+    "region": "NA",
+    "image_file": "PrismaRevivalBannerUS.png"
+  },
+  {
+    "slug": "fategrand-order-user-survey-3-us-na",
+    "name": "Fate/Grand Order User Survey 3 (US)",
+    "region": "NA",
+    "image_file": "FGOSurvey3US.png"
+  },
+  {
+    "slug": "valentine-2021-event-us-na",
+    "name": "Valentine 2021 Event (US)",
+    "region": "NA",
+    "image_file": "Valentine2021BannerUS.png"
+  },
+  {
+    "slug": "servant-rank-up-quests-part-x-us-na",
+    "name": "Servant Rank Up Quests Part X (US)",
+    "region": "NA",
+    "image_file": "RankUpQuests10US.png"
+  },
+  {
+    "slug": "valentine-2020-summoning-campaign-revival-us-na",
+    "name": "Valentine 2020 Summoning Campaign Revival (US)",
+    "region": "NA",
+    "image_file": "Valentine2020BannerRevivalUS.png"
+  },
+  {
+    "slug": "chinese-new-year-campaign-2021-us-na",
+    "name": "Chinese New Year Campaign 2021 (US)",
+    "region": "NA",
+    "image_file": "ChineseNewYearCampaignUS.png"
+  },
+  {
+    "slug": "presidents-day-celebration-campaign-2021-us-na",
+    "name": "Presidents Day Celebration Campaign 2021 (US)",
+    "region": "NA",
+    "image_file": "PresidentsDayCampaign2021US.png"
+  },
+  {
+    "slug": "ryougi-shiki-rank-up-quests-us-na",
+    "name": "Ryougi Shiki Rank Up Quests (US)",
+    "region": "NA",
+    "image_file": "RyougiShikiRankUpQuestsUS.png"
+  },
+  {
+    "slug": "fateextra-ccc-collaboration-event-revival-us-na",
+    "name": "Fate/Extra CCC Collaboration Event Revival (US)",
+    "region": "NA",
+    "image_file": "CCCRerunBannerUS.png"
+  },
+  {
+    "slug": "white-day-2021-event-us-na",
+    "name": "White Day 2021 Event (US)",
+    "region": "NA",
+    "image_file": "CBC2021EventUS.png"
+  },
+  {
+    "slug": "chaldea-boys-collection-2021-us-na",
+    "name": "Chaldea Boys Collection 2021 (US)",
+    "region": "NA",
+    "image_file": "CBC2021BannerUS.png"
+  },
+  {
+    "slug": "main-quest-story-completion-campaign-us-na",
+    "name": "Main Quest Story Completion Campaign (US)",
+    "region": "NA",
+    "image_file": "MainStoryClearCampaignUS.png"
+  },
+  {
+    "slug": "interlude-campaign-8-us-na",
+    "name": "Interlude Campaign 8 (US)",
+    "region": "NA",
+    "image_file": "InterludeCampaign8US.png"
+  },
+  {
+    "slug": "tokugawa-restoration-labyrinth-us-na",
+    "name": "Tokugawa Restoration Labyrinth (US)",
+    "region": "NA",
+    "image_file": "TokugawaEventBannerUS.png"
+  },
+  {
+    "slug": "fategrand-order-absolute-demonic-front-babylonia-blu-ray-release-campaign-us-na",
+    "name": "Fate/Grand Order Absolute Demonic Front: Babylonia Blu-ray Release Campaign (US)",
+    "region": "NA",
+    "image_file": "BabyloniaBlurayCampaignUS.png"
+  },
+  {
+    "slug": "fgo-shooter-2021-release-campaign-us-na",
+    "name": "FGO Shooter 2021 Release Campaign (US)",
+    "region": "NA",
+    "image_file": "FGOShooterCampaignUS.png"
+  },
+  {
+    "slug": "easter-campaign-2021-us-na",
+    "name": "Easter Campaign 2021 (US)",
+    "region": "NA",
+    "image_file": "EasterCampaign2021US.png"
+  },
+  {
+    "slug": "13m-downloads-campaign-us-na",
+    "name": "13M Downloads Campaign (US)",
+    "region": "NA",
+    "image_file": "13MDownloadsCampaignUS.png"
+  },
+  {
+    "slug": "gudaguda-legend-of-the-imperial-capital-grail-revival-us-na",
+    "name": "GUDAGUDA Legend of the Imperial Capital Grail Revival (US)",
+    "region": "NA",
+    "image_file": "GUDAGUDAImperialCapitalRevivalUS.png"
+  },
+  {
+    "slug": "australia-and-southeast-asia-release-anniversary-celebration-campaign-us-na",
+    "name": "Australia and Southeast Asia Release Anniversary Celebration Campaign (US)",
+    "region": "NA",
+    "image_file": "AustraliaSEAsiaReleaseCampaignUS.png"
+  },
+  {
+    "slug": "1400-days-anniversary-us-na",
+    "name": "1400 Days Anniversary (US)",
+    "region": "NA",
+    "image_file": "1400DaysAnniversaryUS.png"
+  },
+  {
+    "slug": "lord-el-melloi-ii-case-files-collaboration-event-us-na",
+    "name": "Lord El-Melloi II Case Files Collaboration Event (US)",
+    "region": "NA",
+    "image_file": "CaseFilesCollabBannerUS.png"
+  },
+  {
+    "slug": "fgo-original-soundtrack-iii-release-campaign-us-na",
+    "name": "FGO Original Soundtrack III Release Campaign (US)",
+    "region": "NA",
+    "image_file": "FGOSoundtrackReleaseCampaignUS.png"
+  },
+  {
+    "slug": "arc-15-main-quests-14-ap-free-quests-12-ap-campaign-us-na",
+    "name": "Arc 1.5 Main Quests 1/4 AP + Free Quests 1/2 AP Campaign (US)",
+    "region": "NA",
+    "image_file": "EoRHalfAPCampaignUS.png"
+  },
+  {
+    "slug": "class-based-summoning-campaign-may-2021-us-na",
+    "name": "Class Based Summoning Campaign May 2021 (US)",
+    "region": "NA",
+    "image_file": "ClassPickupBannerUS.png"
+  },
+  {
+    "slug": "a-meihousou-most-foul-us-na",
+    "name": "A Meihousou Most Foul (US)",
+    "region": "NA",
+    "image_file": "MeihosouBannerUS.png"
+  },
+  {
+    "slug": "hunting-quests-part-v-us-na",
+    "name": "Hunting Quests Part V (US)",
+    "region": "NA",
+    "image_file": "HuntingQuestsPart5US.png"
+  },
+  {
+    "slug": "interlude-campaign-9-us-na",
+    "name": "Interlude Campaign 9 (US)",
+    "region": "NA",
+    "image_file": "InterludeCampaign9US.png"
+  },
+  {
+    "slug": "yugakshetra-chapter-release-us-na",
+    "name": "Yugakshetra Chapter Release (US)",
+    "region": "NA",
+    "image_file": "LB4ChapterReleaseUS.png"
+  },
+  {
+    "slug": "14m-downloads-campaign-us-na",
+    "name": "14M Downloads Campaign (US)",
+    "region": "NA",
+    "image_file": "14MDownloadsCampaignUS.png"
+  },
+  {
+    "slug": "gudaguda-final-honnoji-2021-us-na",
+    "name": "GUDAGUDA Final Honnoji 2021 (US)",
+    "region": "NA",
+    "image_file": "FinalHonnojiBannerUS.png"
+  },
+  {
+    "slug": "fgo-4th-anniversary-pre-anniversary-campaign-us-na",
+    "name": "FGO 4th Anniversary Pre-Anniversary Campaign (US)",
+    "region": "NA",
+    "image_file": "4thAnniversaryPreCampaignUS.png"
+  },
+  {
+    "slug": "fategrand-order-absolute-demonic-front-babylonia-blu-ray-release-campaign-part-ii-us-na",
+    "name": "Fate/Grand Order Absolute Demonic Front: Babylonia Blu-ray Release Campaign Part II (US)",
+    "region": "NA",
+    "image_file": "BabyloniaBlurayCampaign2US.png"
+  },
+  {
+    "slug": "servant-rank-up-quests-part-xi-us-na",
+    "name": "Servant Rank Up Quests Part XI (US)",
+    "region": "NA",
+    "image_file": "RankUpQuests11v2US.png"
+  },
+  {
+    "slug": "fgo-festival-2021-4th-anniversary-us-na",
+    "name": "FGO Festival 2021 ~4th Anniversary~ (US)",
+    "region": "NA",
+    "image_file": "FourthAnniversaryBannerUS.png"
+  },
+  {
+    "slug": "fgo-summer-2020-event-revival-us-na",
+    "name": "FGO Summer 2020 Event Revival (US)",
+    "region": "NA",
+    "image_file": "Summer2020RevivalBannerUS.png"
+  },
+  {
+    "slug": "fgo-summer-2021-event-us-na",
+    "name": "FGO Summer 2021 Event (US)",
+    "region": "NA",
+    "image_file": "FGOSummer2021EventUS.png"
+  },
+  {
+    "slug": "1500-days-anniversary-us-na",
+    "name": "1500 Days Anniversary (US)",
+    "region": "NA",
+    "image_file": "1500DaysAnniversaryUS.png"
+  },
+  {
+    "slug": "fategrand-carnival-1st-season-release-celebration-campaign-us-na",
+    "name": "Fate/Grand Carnival 1st Season Release Celebration Campaign (US)",
+    "region": "NA",
+    "image_file": "FGCSeason1CampaignUS.png"
+  },
+  {
+    "slug": "fatestay-night-heavens-feel-iii-blu-ray-release-commemorative-campaign-us-na",
+    "name": "Fate/Stay Night Heaven's Feel III Blu-ray Release Commemorative Campaign (US)",
+    "region": "NA",
+    "image_file": "HeavensFeel3BlurayCampaignUS.png"
+  },
+  {
+    "slug": "interlude-campaign-10-us-na",
+    "name": "Interlude Campaign 10 (US)",
+    "region": "NA",
+    "image_file": "InterludeCampaign10US.png"
+  },
+  {
+    "slug": "class-based-summoning-campaign-august-2021-us-na",
+    "name": "Class Based Summoning Campaign August 2021 (US)",
+    "region": "NA",
+    "image_file": "ClassBannerCampaignUS.png"
+  },
+  {
+    "slug": "back-to-school-campaign-2021-us-na",
+    "name": "Back to School Campaign 2021 (US)",
+    "region": "NA",
+    "image_file": "Back2School2021US.png"
+  },
+  {
+    "slug": "battle-in-new-york-2021-us-na",
+    "name": "Battle in New York 2021 (US)",
+    "region": "NA",
+    "image_file": "BINY2021BannerUS.png"
+  },
+  {
+    "slug": "back-to-school-campaign-2021-part-2-us-na",
+    "name": "Back to School Campaign 2021 Part 2 (US)",
+    "region": "NA",
+    "image_file": "Back2School2021Part2US.png"
+  },
+  {
+    "slug": "fgo-the-stage-camelot-release-campaign-us-na",
+    "name": "FGO THE STAGE Camelot Release Campaign (US)",
+    "region": "NA",
+    "image_file": "FGOTHESTAGECamelotCampaignUS.png"
+  },
+  {
+    "slug": "halloween-2020-event-revival-us-na",
+    "name": "Halloween 2020 Event Revival (US)",
+    "region": "NA",
+    "image_file": "OnilandRevivalUS.png"
+  },
+  {
+    "slug": "fgo-the-stage-babylonia-release-campaign-us-na",
+    "name": "FGO THE STAGE Babylonia Release Campaign (US)",
+    "region": "NA",
+    "image_file": "FGOTHESTAGEBabyloniaCampaignUS.png"
+  },
+  {
+    "slug": "fgo-craft-essence-recollection-campaign-us-na",
+    "name": "FGO Craft Essence Recollection Campaign (US)",
+    "region": "NA",
+    "image_file": "FGOCERecollectionUS.png"
+  },
+  {
+    "slug": "saber-wars-ii-us-na",
+    "name": "Saber Wars II (US)",
+    "region": "NA",
+    "image_file": "SaberWars2BannerUS.png"
+  },
+  {
+    "slug": "15m-downloads-campaign-us-na",
+    "name": "15M Downloads Campaign (US)",
+    "region": "NA",
+    "image_file": "15MDownloadsCampaignUS.png"
+  },
+  {
+    "slug": "hunting-quests-part-vi-us-na",
+    "name": "Hunting Quests Part VI (US)",
+    "region": "NA",
+    "image_file": "HuntingQuestsPart6US.png"
+  },
+  {
+    "slug": "early-winter-campaign-2021-us-na",
+    "name": "Early Winter Campaign 2021 (US)",
+    "region": "NA",
+    "image_file": "EarlyWinter2021CampaignUS.png"
+  },
+  {
+    "slug": "1600-days-anniversary-us-na",
+    "name": "1600 Days Anniversary (US)",
+    "region": "NA",
+    "image_file": "1600DaysAnniversaryUS.png"
+  },
+  {
+    "slug": "interlude-campaign-11-us-na",
+    "name": "Interlude Campaign 11 (US)",
+    "region": "NA",
+    "image_file": "InterludeCampaign11US.png"
+  },
+  {
+    "slug": "fategrand-order-camelot-wandering-agateram-blu-ray-release-campaign-us-na",
+    "name": "Fate/Grand Order Camelot Wandering Agateram Blu-ray Release Campaign (US)",
+    "region": "NA",
+    "image_file": "CamelotMovieCampaignUS.png"
+  },
+  {
+    "slug": "fgo-thanksgiving-special-2021-us-na",
+    "name": "FGO Thanksgiving Special 2021 (US)",
+    "region": "NA",
+    "image_file": "Thanksgiving2021US.png"
+  },
+  {
+    "slug": "atlantis-pre-release-campaign-us-na",
+    "name": "Atlantis Pre-Release Campaign (US)",
+    "region": "NA",
+    "image_file": "AtlantisPreReleaseCampaignUS.png"
+  },
+  {
+    "slug": "atlantis-chapter-release-us-na",
+    "name": "Atlantis Chapter Release (US)",
+    "region": "NA",
+    "image_file": "LB5.1ChapterReleaseUS.png"
+  },
+  {
+    "slug": "fgo-advent-calendar-2021-us-na",
+    "name": "FGO Advent Calendar 2021 (US)",
+    "region": "NA",
+    "image_file": "FGOAdventCalendar2021.png"
+  },
+  {
+    "slug": "christmas-2021-event-us-na",
+    "name": "Christmas 2021 Event (US)",
+    "region": "NA",
+    "image_file": "Christmas2021BannerUS.png"
+  },
+  {
+    "slug": "hunting-quests-revival-us-na",
+    "name": "Hunting Quests Revival (US)",
+    "region": "NA",
+    "image_file": "HuntingQuestsRevivalUS.png"
+  },
+  {
+    "slug": "new-year-2022-countdown-campaign-us-na",
+    "name": "New Year 2022 Countdown Campaign (US)",
+    "region": "NA",
+    "image_file": "NewYearCountdown2022US.png"
+  },
+  {
+    "slug": "happy-new-year-2022-us-na",
+    "name": "Happy New Year 2022 (US)",
+    "region": "NA",
+    "image_file": "HappyNewYear2022US.png"
+  },
+  {
+    "slug": "new-year-2021-event-revival-us-na",
+    "name": "New Year 2021 Event Revival (US)",
+    "region": "NA",
+    "image_file": "NYEvent2021RevivalUS.png"
+  },
+  {
+    "slug": "amazonescom-ceo-crisis-2022-us-na",
+    "name": "Amazones.com ~CEO Crisis 2022~ (US)",
+    "region": "NA",
+    "image_file": "AmazonesEventBannerUS.png"
+  },
+  {
+    "slug": "fategrand-order-solomon-movie-release-campaign-us-na",
+    "name": "Fate/Grand Order Solomon Movie Release Campaign (US)",
+    "region": "NA",
+    "image_file": "SolomonMovieCampaignUS.png"
+  },
+  {
+    "slug": "interlude-campaign-12-us-na",
+    "name": "Interlude Campaign 12 (US)",
+    "region": "NA",
+    "image_file": "InterludeCampaign12US.png"
+  },
+  {
+    "slug": "chinese-new-year-campaign-2022-us-na",
+    "name": "Chinese New Year Campaign 2022 (US)",
+    "region": "NA",
+    "image_file": "ChineseNewYear2022US.png"
+  },
+  {
+    "slug": "valentine-2022-event-us-na",
+    "name": "Valentine 2022 Event (US)",
+    "region": "NA",
+    "image_file": "Valentine2022BannerUS.png"
+  },
+  {
+    "slug": "16m-downloads-campaign-us-na",
+    "name": "16M Downloads Campaign (US)",
+    "region": "NA",
+    "image_file": "16MDownloadsBannerUS.png"
+  },
+  {
+    "slug": "1700-days-anniversary-us-na",
+    "name": "1700 Days Anniversary (US)",
+    "region": "NA",
+    "image_file": "1700DaysAnniversaryUS.png"
+  },
+  {
+    "slug": "presidents-day-celebration-campaign-2022-us-na",
+    "name": "Presidents Day Celebration Campaign 2022 (US)",
+    "region": "NA",
+    "image_file": "PresidentsDayCampaign2022US.png"
+  },
+  {
+    "slug": "hunting-quests-part-vii-us-na",
+    "name": "Hunting Quests Part VII (US)",
+    "region": "NA",
+    "image_file": "HuntingQuestsPart7US.png"
+  },
+  {
+    "slug": "white-day-2022-event-us-na",
+    "name": "White Day 2022 Event (US)",
+    "region": "NA",
+    "image_file": "CBC2022EventUS.png"
+  },
+  {
+    "slug": "chaldea-boys-collection-2022-us-na",
+    "name": "Chaldea Boys Collection 2022 (US)",
+    "region": "NA",
+    "image_file": "CBC2022BannerUS.png"
+  },
+  {
+    "slug": "fategrand-order-user-survey-4-us-na",
+    "name": "Fate/Grand Order User Survey 4 (US)",
+    "region": "NA",
+    "image_file": "FGOSurvey4US.png"
+  },
+  {
+    "slug": "chaldea-boys-collection-2018-2021-ce-summoning-campaign-us-na",
+    "name": "Chaldea Boys Collection 2018 - 2021 CE Summoning Campaign (US)",
+    "region": "NA",
+    "image_file": "CBCCEBannerUS.png"
+  },
+  {
+    "slug": "atlantis-story-clear-support-campaign-us-na",
+    "name": "Atlantis Story Clear Support Campaign (US)",
+    "region": "NA",
+    "image_file": "AtlantisSupportCampaignUS.png"
+  },
+  {
+    "slug": "fateapocrypha-collaboration-event-revival-us-na",
+    "name": "Fate/Apocrypha Collaboration Event Revival (US)",
+    "region": "NA",
+    "image_file": "ApocryphaRevivalBannerUS.png"
+  },
+  {
+    "slug": "olympus-pre-release-campaign-us-na",
+    "name": "Olympus Pre-Release Campaign (US)",
+    "region": "NA",
+    "image_file": "OlympusPreReleaseCampaignUS.png"
+  },
+  {
+    "slug": "olympus-chapter-release-us-na",
+    "name": "Olympus Chapter Release (US)",
+    "region": "NA",
+    "image_file": "LB5.2ChapterReleaseUS.png"
+  },
+  {
+    "slug": "the-heap-of-servants-release-campaign-us-na",
+    "name": "The Heap of Servants Release Campaign (US)",
+    "region": "NA",
+    "image_file": "FGOHeapServantsUS.png"
+  },
+  {
+    "slug": "interlude-rank-up-quest-12-ap-campaign-us-na",
+    "name": "Interlude & Rank Up Quest 1/2 AP Campaign (US)",
+    "region": "NA",
+    "image_file": "InterludeRUQHalfAPUS.png"
+  },
+  {
+    "slug": "lostbelt-5-conclusion-summoning-campaign-us-na",
+    "name": "Lostbelt 5 Conclusion Summoning Campaign (US)",
+    "region": "NA",
+    "image_file": "OlympusCampaign3US.png"
+  },
+  {
+    "slug": "easter-campaign-2022-us-na",
+    "name": "Easter Campaign 2022 (US)",
+    "region": "NA",
+    "image_file": "EasterCampaign2022US.png"
+  },
+  {
+    "slug": "17m-downloads-campaign-us-na",
+    "name": "17M Downloads Campaign (US)",
+    "region": "NA",
+    "image_file": "17MDLCampaignUS.png"
+  },
+  {
+    "slug": "australia-and-southeast-asia-release-anniversary-campaign-2022-us-na",
+    "name": "Australia and Southeast Asia Release Anniversary Campaign 2022 (US)",
+    "region": "NA",
+    "image_file": "AustraliaSEAsiaRelease2022US.png"
+  },
+  {
+    "slug": "gudaguda-final-honnoji-2021-revival-us-na",
+    "name": "GUDAGUDA Final Honnoji 2021 Revival (US)",
+    "region": "NA",
+    "image_file": "FinalHonnojiRevivalBannerUS.png"
+  },
+  {
+    "slug": "faterequiem-collaboration-event-us-na",
+    "name": "Fate/Requiem Collaboration Event (US)",
+    "region": "NA",
+    "image_file": "RequiemCollabBannerUS.png"
+  },
+  {
+    "slug": "interlude-campaign-13-us-na",
+    "name": "Interlude Campaign 13 (US)",
+    "region": "NA",
+    "image_file": "InterludeCampaign13US.png"
+  },
+  {
+    "slug": "fgo-summer-2021-event-revival-us-na",
+    "name": "FGO Summer 2021 Event Revival (US)",
+    "region": "NA",
+    "image_file": "FGOSummer2021EventRevivalUS.png"
+  },
+  {
+    "slug": "1800-days-anniversary-us-na",
+    "name": "1800 Days Anniversary (US)",
+    "region": "NA",
+    "image_file": "1800DaysAnniversaryUS.png"
+  },
+  {
+    "slug": "swimsuit-aoe-np-only-summoning-campaign-us-na",
+    "name": "Swimsuit + AoE NP Only Summoning Campaign (US)",
+    "region": "NA",
+    "image_file": "SwimsuitAOEBannerUS.png"
+  },
+  {
+    "slug": "hunting-quests-part-viii-us-na",
+    "name": "Hunting Quests Part VIII (US)",
+    "region": "NA",
+    "image_file": "HuntingQuestsPart8US.png"
+  },
+  {
+    "slug": "seraph-main-interlude-release-campaign-us-na",
+    "name": "SE.RA.PH Main Interlude Release Campaign (US)",
+    "region": "NA",
+    "image_file": "SERAPHMainInterludeCampaignUS.png"
+  },
+  {
+    "slug": "servant-rank-up-quests-part-xii-us-na",
+    "name": "Servant Rank Up Quests Part XII (US)",
+    "region": "NA",
+    "image_file": "RankUpQuests12v2US.png"
+  },
+  {
+    "slug": "all-the-statesmen-the-history-of-the-american-frontier-revival-rerun-us-na",
+    "name": "All the Statesmen! ~The History of the American Frontier~ Revival Rerun (US)",
+    "region": "NA",
+    "image_file": "BunyanEventReRevivalUS.png"
+  },
+  {
+    "slug": "fgo-festival-2022-5th-anniversary-us-na",
+    "name": "FGO Festival 2022 ~5th Anniversary~ (US)",
+    "region": "NA",
+    "image_file": "5thAnnivUS.png"
+  },
+  {
+    "slug": "fgo-summer-2022-event-us-na",
+    "name": "FGO Summer 2022 Event (US)",
+    "region": "NA",
+    "image_file": "FGOSummer2022EventUS.png"
+  },
+  {
+    "slug": "main-quest-story-completion-campaign-2022-us-na",
+    "name": "Main Quest Story Completion Campaign 2022 (US)",
+    "region": "NA",
+    "image_file": "MainQuestClearCampaignUS.png"
+  },
+  {
+    "slug": "tokugawa-restoration-labyrinth-revival-us-na",
+    "name": "Tokugawa Restoration Labyrinth Revival (US)",
+    "region": "NA",
+    "image_file": "TokugawaRevivalBannerUS.png"
+  },
+  {
+    "slug": "melty-blood-type-lumina-evo-2022-celebration-campaign-us-na",
+    "name": "Melty Blood: Type Lumina Evo 2022 Celebration Campaign (US)",
+    "region": "NA",
+    "image_file": "MBTLEvo2022CampaignUS.png"
+  },
+  {
+    "slug": "200k-twitter-followers-campaign-us-na",
+    "name": "200K Twitter Followers Campaign (US)",
+    "region": "NA",
+    "image_file": "200kTwitterFollowersUS.png"
+  },
+  {
+    "slug": "18m-downloads-campaign-us-na",
+    "name": "18M Downloads Campaign (US)",
+    "region": "NA",
+    "image_file": "18MDLCampaignUS.png"
+  },
+  {
+    "slug": "interlude-campaign-14-us-na",
+    "name": "Interlude Campaign 14 (US)",
+    "region": "NA",
+    "image_file": "InterludeCampaign14US.png"
+  },
+  {
+    "slug": "land-of-shadows-battleground-blitz-us-na",
+    "name": "Land of Shadows Battleground Blitz (US)",
+    "region": "NA",
+    "image_file": "ScathFest2022BannerUS.png"
+  },
+  {
+    "slug": "back-to-school-campaign-2022-us-na",
+    "name": "Back to School Campaign 2022 (US)",
+    "region": "NA",
+    "image_file": "Back2School2022US.png"
+  },
+  {
+    "slug": "hunting-quests-part-ix-us-na",
+    "name": "Hunting Quests Part IX (US)",
+    "region": "NA",
+    "image_file": "HuntingQuestsPart9US.png"
+  },
+  {
+    "slug": "gudaguda-summoning-campaign-us-na",
+    "name": "GUDAGUDA Summoning Campaign (US)",
+    "region": "NA",
+    "image_file": "GUDAGUDASummonCampaignUS.png"
+  },
+  {
+    "slug": "1900-days-anniversary-us-na",
+    "name": "1900 Days Anniversary (US)",
+    "region": "NA",
+    "image_file": "1900DaysAnniversaryUS.png"
+  },
+  {
+    "slug": "gudaguda-yamataikoku-2022-us-na",
+    "name": "GUDAGUDA Yamataikoku 2022 (US)",
+    "region": "NA",
+    "image_file": "Yamataikoku2022BannerUS.png"
+  },
+  {
+    "slug": "fgo-the-stage-solomon-release-campaign-us-na",
+    "name": "FGO THE STAGE Solomon Release Campaign (US)",
+    "region": "NA",
+    "image_file": "FGOTHESTAGESolomonCampaignUS.png"
+  },
+  {
+    "slug": "christmas-2021-event-revival-us-na",
+    "name": "Christmas 2021 Event Revival (US)",
+    "region": "NA",
+    "image_file": "Christmas2021BannerRevivalUS.png"
+  },
+  {
+    "slug": "halloween-campaign-2022-us-na",
+    "name": "Halloween Campaign 2022 (US)",
+    "region": "NA",
+    "image_file": "HalloweenCampaign2022US.png"
+  },
+  {
+    "slug": "imaginary-scramble-us-na",
+    "name": "Imaginary Scramble (US)",
+    "region": "NA",
+    "image_file": "ImaginaryScrambleUS.png"
+  },
+  {
+    "slug": "heian-kyo-chapter-release-us-na",
+    "name": "Heian-kyo Chapter Release (US)",
+    "region": "NA",
+    "image_file": "HeianKyoChapterReleaseUS.png"
+  },
+  {
+    "slug": "fgo-thanksgiving-special-2022-us-na",
+    "name": "FGO Thanksgiving Special 2022 (US)",
+    "region": "NA",
+    "image_file": "Thanksgiving2022US.png"
+  },
+  {
+    "slug": "fgo-advent-calendar-2022-us-na",
+    "name": "FGO Advent Calendar 2022 (US)",
+    "region": "NA",
+    "image_file": "FGOAdventCalendar2022.png"
+  },
+  {
+    "slug": "interlude-campaign-15-us-na",
+    "name": "Interlude Campaign 15 (US)",
+    "region": "NA",
+    "image_file": "InterludeCampaign15US.png"
+  },
+  {
+    "slug": "19m-downloads-campaign-us-na",
+    "name": "19M Downloads Campaign (US)",
+    "region": "NA",
+    "image_file": "19MDLCampaignUS.png"
+  },
+  {
+    "slug": "christmas-2022-event-us-na",
+    "name": "Christmas 2022 Event (US)",
+    "region": "NA",
+    "image_file": "Christmas2022EventUS.png"
+  },
+  {
+    "slug": "2000-days-anniversary-us-na",
+    "name": "2000 Days Anniversary (US)",
+    "region": "NA",
+    "image_file": "2000DaysAnniversaryUS.png"
+  },
+  {
+    "slug": "new-year-2023-countdown-campaign-us-na",
+    "name": "New Year 2023 Countdown Campaign (US)",
+    "region": "NA",
+    "image_file": "NewYearCountdown2023US.png"
+  },
+  {
+    "slug": "happy-new-year-2023-us-na",
+    "name": "Happy New Year 2023 (US)",
+    "region": "NA",
+    "image_file": "HappyNewYear2023US.png"
+  },
+  {
+    "slug": "saber-wars-ii-revival-us-na",
+    "name": "Saber Wars II Revival (US)",
+    "region": "NA",
+    "image_file": "SaberWars2RevivalUS.png"
+  },
+  {
+    "slug": "social-media-reaction-relay-campaign-vol-1-us-na",
+    "name": "Social Media Reaction Relay Campaign Vol. 1 (US)",
+    "region": "NA",
+    "image_file": "SocialMediaVolume1US.png"
+  },
+  {
+    "slug": "little-big-tengu-us-na",
+    "name": "Little Big Tengu (US)",
+    "region": "NA",
+    "image_file": "LBTBannerUS.png"
+  },
+  {
+    "slug": "fgo-craft-essence-recollection-2023-campaign-us-na",
+    "name": "FGO Craft Essence Recollection 2023 Campaign (US)",
+    "region": "NA",
+    "image_file": "FGOCERecollection2023US.png"
+  },
+  {
+    "slug": "countdown-to-lostbelt-6-campaign-us-na",
+    "name": "Countdown to Lostbelt 6 Campaign (US)",
+    "region": "NA",
+    "image_file": "RoadtoLB6BannerUS.png"
+  },
+  {
+    "slug": "grail-front-event-et-tu-brute-us-na",
+    "name": "Grail Front Event ~Et Tu, Brute?~ (US)",
+    "region": "NA",
+    "image_file": "GrailFrontBrutusUS.png"
+  },
+  {
+    "slug": "social-media-reaction-relay-campaign-vol-2-us-na",
+    "name": "Social Media Reaction Relay Campaign Vol. 2 (US)",
+    "region": "NA",
+    "image_file": "SocialMediaVolume2US.png"
+  },
+  {
+    "slug": "valentine-2023-event-us-na",
+    "name": "Valentine 2023 Event (US)",
+    "region": "NA",
+    "image_file": "Valentine2023BannerUS.png"
+  },
+  {
+    "slug": "presidents-day-celebration-campaign-2023-us-na",
+    "name": "Presidents Day Celebration Campaign 2023 (US)",
+    "region": "NA",
+    "image_file": "PresidentsDayCampaign2023US.png"
+  },
+  {
+    "slug": "valentine-2022-summoning-campaign-revival-us-na",
+    "name": "Valentine 2022 Summoning Campaign Revival (US)",
+    "region": "NA",
+    "image_file": "Valentine2022SummonRevivalUS.png"
+  },
+  {
+    "slug": "spring-has-sprung-campaign-2023-us-na",
+    "name": "Spring has Sprung Campaign 2023 (US)",
+    "region": "NA",
+    "image_file": "Spring2023CampaignUS.png"
+  },
+  {
+    "slug": "social-media-reaction-relay-campaign-vol-3-us-na",
+    "name": "Social Media Reaction Relay Campaign Vol. 3 (US)",
+    "region": "NA",
+    "image_file": "SocialMediaVolume3US.png"
+  },
+  {
+    "slug": "chaldea-boys-collection-2023-us-na",
+    "name": "Chaldea Boys Collection 2023 (US)",
+    "region": "NA",
+    "image_file": "CBC2023BannerUS.png"
+  },
+  {
+    "slug": "white-day-2023-event-us-na",
+    "name": "White Day 2023 Event (US)",
+    "region": "NA",
+    "image_file": "WhiteDay2023BannerUS.png"
+  },
+  {
+    "slug": "fategrand-order-user-survey-5-us-na",
+    "name": "Fate/Grand Order User Survey 5 (US)",
+    "region": "NA",
+    "image_file": "FGOSurvey5US.png"
+  },
+  {
+    "slug": "chaldea-boys-collection-2023-summoning-campaign-2-us-na",
+    "name": "Chaldea Boys Collection 2023 Summoning Campaign 2 (US)",
+    "region": "NA",
+    "image_file": "CBC2023Summon2US.png"
+  },
+  {
+    "slug": "class-based-summoning-campaign-march-2023-us-na",
+    "name": "Class Based Summoning Campaign March 2023 (US)",
+    "region": "NA",
+    "image_file": "ClassBannerSummonCampaignUS.png"
+  },
+  {
+    "slug": "akihabara-explosion-us-na",
+    "name": "Akihabara Explosion (US)",
+    "region": "NA",
+    "image_file": "AkihabaraEventUS.png"
+  },
+  {
+    "slug": "arc-1-arc-15-memorial-summoning-campaign-us-na",
+    "name": "Arc 1 & Arc 1.5 Memorial Summoning Campaign (US)",
+    "region": "NA",
+    "image_file": "Arc1MemorialSummonUS.png"
+  },
+  {
+    "slug": "2100-days-anniversary-us-na",
+    "name": "2100 Days Anniversary (US)",
+    "region": "NA",
+    "image_file": "2100DaysAnniversaryUS.png"
+  },
+  {
+    "slug": "countdown-to-lostbelt-6-campaign-part-2-us-na",
+    "name": "Countdown to Lostbelt 6 Campaign Part 2 (US)",
+    "region": "NA",
+    "image_file": "Road2LB62US.png"
+  },
+  {
+    "slug": "hunting-quests-part-x-us-na",
+    "name": "Hunting Quests Part X (US)",
+    "region": "NA",
+    "image_file": "HuntingQuestsPart10US.png"
+  },
+  {
+    "slug": "spring-break-summoning-campaign-us-na",
+    "name": "Spring Break Summoning Campaign (US)",
+    "region": "NA",
+    "image_file": "SpringBreakCampaignUS.png"
+  },
+  {
+    "slug": "quiz-battle-master-release-campaign-us-na",
+    "name": "Quiz Battle Master Release Campaign (US)",
+    "region": "NA",
+    "image_file": "FGOQuizMasterUS.png"
+  },
+  {
+    "slug": "servant-rank-up-quests-part-xiii-us-na",
+    "name": "Servant Rank Up Quests Part XIII (US)",
+    "region": "NA",
+    "image_file": "RankUpQuests13BannerUS.png"
+  },
+  {
+    "slug": "fgo-waltz-in-the-moonlight-collaboration-event-us-na",
+    "name": "FGO Waltz in the Moonlight Collaboration Event (US)",
+    "region": "NA",
+    "image_file": "FGOWEventBannerUS.png"
+  },
+  {
+    "slug": "my-super-camelot-2023-pre-release-campaign-us-na",
+    "name": "My Super Camelot 2023 Pre-Release Campaign (US)",
+    "region": "NA",
+    "image_file": "MSC2023PreCampaignUS.png"
+  },
+  {
+    "slug": "grail-front-event-my-super-camelot-2023-us-na",
+    "name": "Grail Front Event ~My Super Camelot 2023~ (US)",
+    "region": "NA",
+    "image_file": "GFSuperCamelot2023US.png"
+  },
+  {
+    "slug": "countdown-to-lostbelt-6-campaign-part-3-us-na",
+    "name": "Countdown to Lostbelt 6 Campaign Part 3 (US)",
+    "region": "NA",
+    "image_file": "Road2LB63US.png"
+  },
+  {
+    "slug": "fgo-summer-2022-event-revival-us-na",
+    "name": "FGO Summer 2022 Event Revival (US)",
+    "region": "NA",
+    "image_file": "FGOSummer2022RevivalUS.png"
+  },
+  {
+    "slug": "arc-2-chapter-5-memorial-summoning-campaign-us-na",
+    "name": "Arc 2 Chapter 5 Memorial Summoning Campaign (US)",
+    "region": "NA",
+    "image_file": "Arc2Chapter5SummonBannerUS.png"
+  },
+  {
+    "slug": "main-story-clear-support-campaign-2023-us-na",
+    "name": "Main Story Clear Support Campaign 2023 (US)",
+    "region": "NA",
+    "image_file": "StoryClearCampaign2023US.png"
+  },
+  {
+    "slug": "avalon-le-fae-part-1-chapter-release-us-na",
+    "name": "Avalon le Fae Part 1 Chapter Release (US)",
+    "region": "NA",
+    "image_file": "LB6Part1BannerUS.png"
+  },
+  {
+    "slug": "interlude-campaign-16-us-na",
+    "name": "Interlude Campaign 16 (US)",
+    "region": "NA",
+    "image_file": "InterludeCampaign16US.png"
+  },
+  {
+    "slug": "avalon-le-fae-part-2-chapter-release-us-na",
+    "name": "Avalon le Fae Part 2 Chapter Release (US)",
+    "region": "NA",
+    "image_file": "LB6Part2BannerUS.png"
+  },
+  {
+    "slug": "fgo-6th-anniversary-release-campaign-us-na",
+    "name": "FGO 6th Anniversary Release Campaign (US)",
+    "region": "NA",
+    "image_file": "SixthAnniversaryLoginBonusUS.png"
+  },
+  {
+    "slug": "servant-rank-up-quests-part-xiv-us-na",
+    "name": "Servant Rank Up Quests Part XIV (US)",
+    "region": "NA",
+    "image_file": "RUQ14BannerUSv2.png"
+  },
+  {
+    "slug": "fgo-festival-2023-6th-anniversary-us-na",
+    "name": "FGO Festival 2023 ~6th Anniversary~ (US)",
+    "region": "NA",
+    "image_file": "FGO6thAnniversaryUS.png"
+  },
+  {
+    "slug": "2200-days-anniversary-us-na",
+    "name": "2200 Days Anniversary (US)",
+    "region": "NA",
+    "image_file": "2200DaysAnniversaryUS.png"
+  },
+  {
+    "slug": "fgo-6th-anniversary-daily-summoning-campaign-us-na",
+    "name": "FGO 6th Anniversary Daily Summoning Campaign (US)",
+    "region": "NA",
+    "image_file": "FGO6thAnniversarySummonCampaignUS.png"
+  },
+  {
+    "slug": "avalon-le-fae-conclusion-campaign-us-na",
+    "name": "Avalon le Fae Conclusion Campaign (US)",
+    "region": "NA",
+    "image_file": "LB6ConclusionCampaignUS.png"
+  },
+  {
+    "slug": "grand-nero-festival-2023-us-na",
+    "name": "Grand Nero Festival 2023 (US)",
+    "region": "NA",
+    "image_file": "GrandNeroFest2023US.png"
+  },
+  {
+    "slug": "melty-blood-type-lumina-evo-2023-celebration-campaign-us-na",
+    "name": "Melty Blood: Type Lumina Evo 2023 Celebration Campaign (US)",
+    "region": "NA",
+    "image_file": "MBTLEvo2023CampaignUS.png"
+  },
+  {
+    "slug": "hunting-quests-part-xi-us-na",
+    "name": "Hunting Quests Part XI (US)",
+    "region": "NA",
+    "image_file": "HuntingQuestsPart11US.png"
+  },
+  {
+    "slug": "back-to-school-campaign-2023-us-na",
+    "name": "Back to School Campaign 2023 (US)",
+    "region": "NA",
+    "image_file": "Back2School2023US.png"
+  },
+  {
+    "slug": "revival-summer-servants-summoning-campaign-us-na",
+    "name": "Revival Summer Servants Summoning Campaign (US)",
+    "region": "NA",
+    "image_file": "RevivalSummerServantBannerUS.png"
+  },
+  {
+    "slug": "fgo-summer-2023-event-us-na",
+    "name": "FGO Summer 2023 Event (US)",
+    "region": "NA",
+    "image_file": "FGOSummer2023BannerUS.png"
+  },
+  {
+    "slug": "story-clear-support-campaign-part-1-us-na",
+    "name": "Story Clear Support Campaign Part 1 (US)",
+    "region": "NA",
+    "image_file": "StoryClearCampaign1US.png"
+  },
+  {
+    "slug": "interlude-campaign-17-us-na",
+    "name": "Interlude Campaign 17 (US)",
+    "region": "NA",
+    "image_file": "InterludeCampaign17US.png"
+  },
+  {
+    "slug": "halloween-campaign-2023-us-na",
+    "name": "Halloween Campaign 2023 (US)",
+    "region": "NA",
+    "image_file": "HalloweenCampaign2023US.png"
+  },
+  {
+    "slug": "fatesamurai-remnant-release-campaign-us-na",
+    "name": "Fate/Samurai Remnant Release Campaign (US)",
+    "region": "NA",
+    "image_file": "SamuraiRemnantReleaseCampaignUS.png"
+  },
+  {
+    "slug": "halloween-trilogy-event-us-na",
+    "name": "Halloween Trilogy Event (US)",
+    "region": "NA",
+    "image_file": "HalloweenTrilogyBannerUS.png"
+  },
+  {
+    "slug": "fategrand-carnival-recollection-campaign-us-na",
+    "name": "Fate/Grand Carnival Recollection Campaign (US)",
+    "region": "NA",
+    "image_file": "FGCRecollectionCampaignUS.png"
+  },
+  {
+    "slug": "halloween-2023-event-us-na",
+    "name": "Halloween 2023 Event (US)",
+    "region": "NA",
+    "image_file": "Halloween2023BannerUS.png"
+  },
+  {
+    "slug": "2300-days-anniversary-us-na",
+    "name": "2300 Days Anniversary (US)",
+    "region": "NA",
+    "image_file": "2300DaysAnniversaryUS.png"
+  },
+  {
+    "slug": "story-clear-support-campaign-part-2-us-na",
+    "name": "Story Clear Support Campaign Part 2 (US)",
+    "region": "NA",
+    "image_file": "StoryClearCampaign2US.png"
+  },
+  {
+    "slug": "gudaguda-yamataikoku-2022-revival-us-na",
+    "name": "GUDAGUDA Yamataikoku 2022 Revival (US)",
+    "region": "NA",
+    "image_file": "YamataikokuRevivalBannerUS.png"
+  },
+  {
+    "slug": "cozy-up-for-winter-campaign-2023-us-na",
+    "name": "Cozy up for Winter Campaign 2023 (US)",
+    "region": "NA",
+    "image_file": "CozyWinterCampaign2023US.png"
+  },
+  {
+    "slug": "gudaguda-ryoumas-narrow-escape-2023-us-na",
+    "name": "GUDAGUDA Ryouma's Narrow Escape 2023 (US)",
+    "region": "NA",
+    "image_file": "GUDAGUDARyoumaEventBannerUS.png"
+  },
+  {
+    "slug": "anime-nyc-2023-campaign-us-na",
+    "name": "Anime NYC 2023 Campaign (US)",
+    "region": "NA",
+    "image_file": "AnimeNYC2023CampaignUS.png"
+  },
+  {
+    "slug": "fgo-thanksgiving-special-2023-us-na",
+    "name": "FGO Thanksgiving Special 2023 (US)",
+    "region": "NA",
+    "image_file": "Thanksgiving2023CampaignUS.png"
+  },
+  {
+    "slug": "story-clear-support-campaign-part-3-us-na",
+    "name": "Story Clear Support Campaign Part 3 (US)",
+    "region": "NA",
+    "image_file": "StoryClearCampaign3US.png"
+  },
+  {
+    "slug": "interlude-campaign-18-us-na",
+    "name": "Interlude Campaign 18 (US)",
+    "region": "NA",
+    "image_file": "InterludeCampaign18US.png"
+  },
+  {
+    "slug": "fgo-advent-calendar-2023-us-na",
+    "name": "FGO Advent Calendar 2023 (US)",
+    "region": "NA",
+    "image_file": "AdventCalendar2023US.png"
+  },
+  {
+    "slug": "christmas-2023-event-us-na",
+    "name": "Christmas 2023 Event (US)",
+    "region": "NA",
+    "image_file": "Christmas2023EventUS.png"
+  },
+  {
+    "slug": "story-clear-support-campaign-part-4-us-na",
+    "name": "Story Clear Support Campaign Part 4 (US)",
+    "region": "NA",
+    "image_file": "StoryClearCampaign4US.png"
+  },
+  {
+    "slug": "tunguska-sanctuary-us-na",
+    "name": "Tunguska Sanctuary (US)",
+    "region": "NA",
+    "image_file": "TunguskaEventBannerUS.png"
+  },
+  {
+    "slug": "new-year-2024-countdown-campaign-us-na",
+    "name": "New Year 2024 Countdown Campaign (US)",
+    "region": "NA",
+    "image_file": "NewYearCountdown2024US.png"
+  },
+  {
+    "slug": "happy-new-year-2024-us-na",
+    "name": "Happy New Year 2024 (US)",
+    "region": "NA",
+    "image_file": "HappyNewYear2024US.png"
+  }
+]

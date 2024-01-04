@@ -23,3 +23,7 @@ if args.banners:
     initialize()
     parse_and_create(EVENT_LIST_NA, EVENT_SET_NA, "NA")
     parse_and_create(EVENT_LIST_JP, EVENT_SET_JP, "JP")
+
+    # Create the JSON representation for event data
+    print("Creating event JSON data...")
+    create_event_json(EVENT_SET_JP, EVENT_SET_NA)
