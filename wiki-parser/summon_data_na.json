@@ -12,7 +12,7 @@
         "rateups": {
           "12": "Gilgamesh",
           "14": "Atalanta",
-          "20": "C\u00fa Chulainn (Prototype)",
+          "20": "Cú Chulainn (Prototype)",
           "31": "Medea",
           "48": "Lancelot"
         },
@@ -121,7 +121,7 @@
         "rateups": {
           "2": "Artoria Pendragon",
           "11": "EMIYA",
-          "17": "C\u00fa Chulainn",
+          "17": "Cú Chulainn",
           "23": "Medusa",
           "31": "Medea",
           "47": "Heracles"
@@ -143,7 +143,7 @@
         "rateups": {
           "5": "Nero Claudius",
           "8": "Altera",
-          "18": "Elizabeth B\u00e1thory",
+          "18": "Elizabeth Báthory",
           "37": "Zhuge Liang (Lord El-Melloi II)",
           "41": "Stheno",
           "58": "Tamamo Cat"
@@ -221,7 +221,7 @@
         "date_origin": "event header jp old",
         "rateups": {
           "6": "Siegfried",
-          "20": "C\u00fa Chulainn (Prototype)",
+          "20": "Cú Chulainn (Prototype)",
           "28": "Alexander",
           "37": "Zhuge Liang (Lord El-Melloi II)",
           "48": "Lancelot"
@@ -242,10 +242,10 @@
         "date_origin": "event list",
         "rateups": {
           "11": "EMIYA",
-          "17": "C\u00fa Chulainn",
+          "17": "Cú Chulainn",
           "23": "Medusa",
           "35": "Mephistopheles",
-          "68": "Okita S\u014dji"
+          "68": "Okita Sōji"
         },
         "num_rateups": 5
       }
@@ -265,9 +265,9 @@
           "12": "Gilgamesh",
           "51": "Sakata Kintoki",
           "67": "Medea (Lily)",
-          "70": "Sc\u00e1thach",
+          "70": "Scáthach",
           "71": "Diarmuid Ua Duibhne",
-          "72": "Fergus mac R\u00f3ich"
+          "72": "Fergus mac Róich"
         },
         "num_rateups": 6
       }
@@ -315,15 +315,15 @@
           "10": "Chevalier d'Eon",
           "11": "EMIYA",
           "15": "Euryale",
-          "17": "C\u00fa Chulainn",
-          "18": "Elizabeth B\u00e1thory",
+          "17": "Cú Chulainn",
+          "18": "Elizabeth Báthory",
           "22": "Romulus",
           "23": "Medusa",
           "26": "Boudica",
           "31": "Medea",
           "32": "Gilles de Rais",
           "37": "Zhuge Liang (Lord El-Melloi II)",
-          "38": "C\u00fa Chulainn (Caster)",
+          "38": "Cú Chulainn (Caster)",
           "47": "Heracles",
           "52": "Vlad III",
           "56": "Kiyohime",
@@ -383,7 +383,7 @@
         "date_origin": "event list",
         "rateups": {
           "3": "Artoria Pendragon (Alter)",
-          "17": "C\u00fa Chulainn",
+          "17": "Cú Chulainn",
           "23": "Medusa",
           "31": "Medea",
           "84": "Arjuna",
@@ -479,9 +479,9 @@
           "13": "Robin Hood",
           "14": "Atalanta",
           "15": "Euryale",
-          "17": "C\u00fa Chulainn",
-          "18": "Elizabeth B\u00e1thory",
-          "20": "C\u00fa Chulainn (Prototype)",
+          "17": "Cú Chulainn",
+          "18": "Elizabeth Báthory",
+          "20": "Cú Chulainn (Prototype)",
           "22": "Romulus",
           "23": "Medusa",
           "26": "Boudica",
@@ -493,7 +493,7 @@
           "32": "Gilles de Rais",
           "35": "Mephistopheles",
           "37": "Zhuge Liang (Lord El-Melloi II)",
-          "38": "C\u00fa Chulainn (Caster)",
+          "38": "Cú Chulainn (Caster)",
           "41": "Stheno",
           "42": "Jing Ke",
           "46": "Carmilla",
@@ -513,7 +513,7 @@
           "66": "Anne Bonny & Mary Read",
           "67": "Medea (Lily)",
           "71": "Diarmuid Ua Duibhne",
-          "72": "Fergus mac R\u00f3ich",
+          "72": "Fergus mac Róich",
           "74": "Nursery Rhyme",
           "75": "Jack the Ripper",
           "76": "Mordred",
@@ -543,7 +543,7 @@
         "end_date": "2/22/2018",
         "date_origin": "event list",
         "rateups": {
-          "91": "Ry\u014dgi Shiki (Saber)"
+          "91": "Ryōgi Shiki (Saber)"
         },
         "num_rateups": 1
       }
@@ -563,7 +563,7 @@
           "37": "Zhuge Liang (Lord El-Melloi II)",
           "52": "Vlad III",
           "77": "Nikola Tesla",
-          "93": "Amakusa Shir\u014d",
+          "93": "Amakusa Shirō",
           "94": "Astolfo",
           "95": "Kid Gil"
         },
@@ -582,7 +582,7 @@
         "end_date": "3/8/2018",
         "date_origin": "event list",
         "rateups": {
-          "96": "Edmond Dant\u00e8s"
+          "96": "Edmond Dantès"
         },
         "num_rateups": 1
       }
@@ -609,15 +609,15 @@
           "10": "Chevalier d'Eon",
           "11": "EMIYA",
           "15": "Euryale",
-          "17": "C\u00fa Chulainn",
-          "18": "Elizabeth B\u00e1thory",
+          "17": "Cú Chulainn",
+          "18": "Elizabeth Báthory",
           "22": "Romulus",
           "23": "Medusa",
           "26": "Boudica",
           "31": "Medea",
           "32": "Gilles de Rais",
           "37": "Zhuge Liang (Lord El-Melloi II)",
-          "38": "C\u00fa Chulainn (Caster)",
+          "38": "Cú Chulainn (Caster)",
           "46": "Carmilla",
           "47": "Heracles",
           "52": "Vlad III",
@@ -677,7 +677,7 @@
         "end_date": "4/12/2018",
         "date_origin": "event list",
         "rateups": {
-          "98": "C\u00fa Chulainn (Alter)",
+          "98": "Cú Chulainn (Alter)",
           "103": "Thomas Edison"
         },
         "num_rateups": 2
@@ -763,7 +763,7 @@
         "end_date": "5/30/2018",
         "date_origin": "event list",
         "rateups": {
-          "112": "Shuten D\u014dji"
+          "112": "Shuten Dōji"
         },
         "num_rateups": 1
       }
@@ -800,7 +800,7 @@
         "end_date": "6/13/2018",
         "date_origin": "event list",
         "rateups": {
-          "70": "Sc\u00e1thach"
+          "70": "Scáthach"
         },
         "num_rateups": 1
       }
@@ -819,9 +819,9 @@
         "rateups": {
           "27": "Ushiwakamaru",
           "56": "Kiyohime",
-          "114": "Minamoto no Raik\u014d",
-          "116": "Ibaraki D\u014dji",
-          "117": "F\u016bma Kotar\u014d"
+          "114": "Minamoto no Raikō",
+          "116": "Ibaraki Dōji",
+          "117": "Fūma Kotarō"
         },
         "num_rateups": 5
       }
@@ -842,7 +842,7 @@
           "120": "Nitocris",
           "121": "Lancelot (Saber)",
           "124": "Hassan of the Serenity",
-          "125": "Tawara T\u014dta"
+          "125": "Tawara Tōta"
         },
         "num_rateups": 5
       },
@@ -881,13 +881,13 @@
           "10": "Chevalier d'Eon",
           "11": "EMIYA",
           "15": "Euryale",
-          "17": "C\u00fa Chulainn",
+          "17": "Cú Chulainn",
           "22": "Romulus",
           "23": "Medusa",
           "26": "Boudica",
           "31": "Medea",
           "32": "Gilles de Rais",
-          "38": "C\u00fa Chulainn (Caster)",
+          "38": "Cú Chulainn (Caster)",
           "47": "Heracles",
           "56": "Kiyohime",
           "59": "Jeanne d'Arc",
@@ -905,7 +905,7 @@
           "81": "Henry Jekyll & Hyde",
           "82": "Frankenstein",
           "97": "Nightingale",
-          "98": "C\u00fa Chulainn (Alter)",
+          "98": "Cú Chulainn (Alter)",
           "99": "Queen Medb",
           "100": "Helena Blavatsky",
           "101": "Rama",
@@ -995,9 +995,9 @@
           "13": "Robin Hood",
           "14": "Atalanta",
           "15": "Euryale",
-          "17": "C\u00fa Chulainn",
-          "18": "Elizabeth B\u00e1thory",
-          "20": "C\u00fa Chulainn (Prototype)",
+          "17": "Cú Chulainn",
+          "18": "Elizabeth Báthory",
+          "20": "Cú Chulainn (Prototype)",
           "22": "Romulus",
           "23": "Medusa",
           "26": "Boudica",
@@ -1009,7 +1009,7 @@
           "32": "Gilles de Rais",
           "35": "Mephistopheles",
           "37": "Zhuge Liang (Lord El-Melloi II)",
-          "38": "C\u00fa Chulainn (Caster)",
+          "38": "Cú Chulainn (Caster)",
           "41": "Stheno",
           "42": "Jing Ke",
           "46": "Carmilla",
@@ -1029,7 +1029,7 @@
           "66": "Anne Bonny & Mary Read",
           "67": "Medea (Lily)",
           "71": "Diarmuid Ua Duibhne",
-          "72": "Fergus mac R\u00f3ich",
+          "72": "Fergus mac Róich",
           "74": "Nursery Rhyme",
           "75": "Jack the Ripper",
           "76": "Mordred",
@@ -1046,7 +1046,7 @@
           "94": "Astolfo",
           "95": "Kid Gil",
           "97": "Nightingale",
-          "98": "C\u00fa Chulainn (Alter)",
+          "98": "Cú Chulainn (Alter)",
           "99": "Queen Medb",
           "100": "Helena Blavatsky",
           "101": "Rama",
@@ -1057,8 +1057,8 @@
           "109": "EMIYA (Assassin)",
           "110": "Hassan of the Hundred Faces",
           "113": "Xuanzang Sanzang",
-          "116": "Ibaraki D\u014dji",
-          "117": "F\u016bma Kotar\u014d",
+          "116": "Ibaraki Dōji",
+          "117": "Fūma Kotarō",
           "118": "Ozymandias",
           "119": "Artoria Pendragon (Lancer)",
           "120": "Nitocris",
@@ -1066,7 +1066,7 @@
           "122": "Tristan",
           "123": "Gawain",
           "124": "Hassan of the Serenity",
-          "125": "Tawara T\u014dta"
+          "125": "Tawara Tōta"
         },
         "num_rateups": 84
       }
@@ -1114,13 +1114,13 @@
           "10": "Chevalier d'Eon",
           "11": "EMIYA",
           "15": "Euryale",
-          "17": "C\u00fa Chulainn",
+          "17": "Cú Chulainn",
           "22": "Romulus",
           "23": "Medusa",
           "26": "Boudica",
           "31": "Medea",
           "32": "Gilles de Rais",
-          "38": "C\u00fa Chulainn (Caster)",
+          "38": "Cú Chulainn (Caster)",
           "47": "Heracles",
           "56": "Kiyohime",
           "59": "Jeanne d'Arc",
@@ -1138,7 +1138,7 @@
           "81": "Henry Jekyll & Hyde",
           "82": "Frankenstein",
           "97": "Nightingale",
-          "98": "C\u00fa Chulainn (Alter)",
+          "98": "Cú Chulainn (Alter)",
           "99": "Queen Medb",
           "100": "Helena Blavatsky",
           "101": "Rama",
@@ -1153,7 +1153,7 @@
           "122": "Tristan",
           "123": "Gawain",
           "124": "Hassan of the Serenity",
-          "125": "Tawara T\u014dta",
+          "125": "Tawara Tōta",
           "126": "Bedivere"
         },
         "num_rateups": 51
@@ -1274,11 +1274,11 @@
         "date_origin": "event header jp old",
         "rateups": {
           "12": "Gilgamesh",
-          "70": "Sc\u00e1thach",
-          "91": "Ry\u014dgi Shiki (Saber)",
+          "70": "Scáthach",
+          "91": "Ryōgi Shiki (Saber)",
           "108": "Iskandar",
-          "112": "Shuten D\u014dji",
-          "114": "Minamoto no Raik\u014d",
+          "112": "Shuten Dōji",
+          "114": "Minamoto no Raikō",
           "136": "Illyasviel von Einzbern"
         },
         "num_rateups": 7
@@ -1306,7 +1306,7 @@
         "end_date": "12/12/2018",
         "date_origin": "event list",
         "rateups": {
-          "93": "Amakusa Shir\u014d"
+          "93": "Amakusa Shirō"
         },
         "num_rateups": 1
       }
@@ -1428,7 +1428,7 @@
         "end_date": "2/6/2019",
         "date_origin": "event list",
         "rateups": {
-          "96": "Edmond Dant\u00e8s"
+          "96": "Edmond Dantès"
         },
         "num_rateups": 1
       }
@@ -1490,7 +1490,7 @@
           "77": "Nikola Tesla",
           "84": "Arjuna",
           "85": "Karna",
-          "98": "C\u00fa Chulainn (Alter)",
+          "98": "Cú Chulainn (Alter)",
           "118": "Ozymandias",
           "143": "Enkidu"
         },
@@ -1519,13 +1519,13 @@
           "10": "Chevalier d'Eon",
           "11": "EMIYA",
           "15": "Euryale",
-          "17": "C\u00fa Chulainn",
+          "17": "Cú Chulainn",
           "22": "Romulus",
           "23": "Medusa",
           "26": "Boudica",
           "31": "Medea",
           "32": "Gilles de Rais",
-          "38": "C\u00fa Chulainn (Caster)",
+          "38": "Cú Chulainn (Caster)",
           "47": "Heracles",
           "56": "Kiyohime",
           "59": "Jeanne d'Arc",
@@ -1543,7 +1543,7 @@
           "81": "Henry Jekyll & Hyde",
           "82": "Frankenstein",
           "97": "Nightingale",
-          "98": "C\u00fa Chulainn (Alter)",
+          "98": "Cú Chulainn (Alter)",
           "99": "Queen Medb",
           "100": "Helena Blavatsky",
           "101": "Rama",
@@ -1558,7 +1558,7 @@
           "122": "Tristan",
           "123": "Gawain",
           "124": "Hassan of the Serenity",
-          "125": "Tawara T\u014dta",
+          "125": "Tawara Tōta",
           "126": "Bedivere",
           "143": "Enkidu",
           "144": "Quetzalcoatl",
@@ -1617,7 +1617,7 @@
           "77": "Nikola Tesla",
           "84": "Arjuna",
           "85": "Karna",
-          "98": "C\u00fa Chulainn (Alter)",
+          "98": "Cú Chulainn (Alter)",
           "118": "Ozymandias",
           "143": "Enkidu",
           "160": "Arthur Pendragon (Prototype)"
@@ -1630,7 +1630,7 @@
         "end_date": "3/20/2019",
         "date_origin": "event header jp old",
         "rateups": {
-          "93": "Amakusa Shir\u014d",
+          "93": "Amakusa Shirō",
           "94": "Astolfo",
           "95": "Kid Gil"
         },
@@ -1650,10 +1650,10 @@
         "date_origin": "event list",
         "rateups": {
           "11": "EMIYA",
-          "17": "C\u00fa Chulainn",
+          "17": "Cú Chulainn",
           "23": "Medusa",
           "35": "Mephistopheles",
-          "68": "Okita S\u014dji"
+          "68": "Okita Sōji"
         },
         "num_rateups": 5
       }
@@ -1682,9 +1682,9 @@
           "13": "Robin Hood",
           "14": "Atalanta",
           "15": "Euryale",
-          "17": "C\u00fa Chulainn",
-          "18": "Elizabeth B\u00e1thory",
-          "20": "C\u00fa Chulainn (Prototype)",
+          "17": "Cú Chulainn",
+          "18": "Elizabeth Báthory",
+          "20": "Cú Chulainn (Prototype)",
           "22": "Romulus",
           "23": "Medusa",
           "26": "Boudica",
@@ -1696,7 +1696,7 @@
           "32": "Gilles de Rais",
           "35": "Mephistopheles",
           "37": "Zhuge Liang (Lord El-Melloi II)",
-          "38": "C\u00fa Chulainn (Caster)",
+          "38": "Cú Chulainn (Caster)",
           "41": "Stheno",
           "42": "Jing Ke",
           "46": "Carmilla",
@@ -1716,7 +1716,7 @@
           "66": "Anne Bonny & Mary Read",
           "67": "Medea (Lily)",
           "71": "Diarmuid Ua Duibhne",
-          "72": "Fergus mac R\u00f3ich",
+          "72": "Fergus mac Róich",
           "74": "Nursery Rhyme",
           "75": "Jack the Ripper",
           "76": "Mordred",
@@ -1733,7 +1733,7 @@
           "94": "Astolfo",
           "95": "Kid Gil",
           "97": "Nightingale",
-          "98": "C\u00fa Chulainn (Alter)",
+          "98": "Cú Chulainn (Alter)",
           "99": "Queen Medb",
           "100": "Helena Blavatsky",
           "101": "Rama",
@@ -1744,8 +1744,8 @@
           "109": "EMIYA (Assassin)",
           "110": "Hassan of the Hundred Faces",
           "113": "Xuanzang Sanzang",
-          "116": "Ibaraki D\u014dji",
-          "117": "F\u016bma Kotar\u014d",
+          "116": "Ibaraki Dōji",
+          "117": "Fūma Kotarō",
           "118": "Ozymandias",
           "119": "Artoria Pendragon (Lancer)",
           "120": "Nitocris",
@@ -1753,7 +1753,7 @@
           "122": "Tristan",
           "123": "Gawain",
           "124": "Hassan of the Serenity",
-          "125": "Tawara T\u014dta",
+          "125": "Tawara Tōta",
           "126": "Bedivere",
           "140": "Vlad III (EXTRA)",
           "143": "Enkidu",
@@ -1785,7 +1785,7 @@
           "77": "Nikola Tesla",
           "100": "Helena Blavatsky",
           "103": "Thomas Edison",
-          "161": "Hijikata Toshiz\u014d"
+          "161": "Hijikata Toshizō"
         },
         "num_rateups": 5
       }
@@ -1806,8 +1806,8 @@
           "11": "EMIYA",
           "12": "Gilgamesh",
           "13": "Robin Hood",
-          "17": "C\u00fa Chulainn",
-          "18": "Elizabeth B\u00e1thory",
+          "17": "Cú Chulainn",
+          "18": "Elizabeth Báthory",
           "62": "Tamamo no Mae",
           "85": "Karna",
           "90": "Nero Claudius (Bride)",
@@ -1834,9 +1834,9 @@
         "date_origin": "event list",
         "rateups": {
           "13": "Robin Hood",
-          "18": "Elizabeth B\u00e1thory",
+          "18": "Elizabeth Báthory",
           "157": "EMIYA (Alter)",
-          "167": "Sessh\u014din Kiara"
+          "167": "Sesshōin Kiara"
         },
         "num_rateups": 4
       }
@@ -1878,8 +1878,8 @@
         "end_date": "6/6/2019",
         "date_origin": "event list",
         "rateups": {
-          "112": "Shuten D\u014dji",
-          "116": "Ibaraki D\u014dji"
+          "112": "Shuten Dōji",
+          "116": "Ibaraki Dōji"
         },
         "num_rateups": 2
       }
@@ -1920,9 +1920,9 @@
           "51": "Sakata Kintoki",
           "62": "Tamamo no Mae",
           "109": "EMIYA (Assassin)",
-          "114": "Minamoto no Raik\u014d",
-          "117": "F\u016bma Kotar\u014d",
-          "125": "Tawara T\u014dta",
+          "114": "Minamoto no Raikō",
+          "117": "Fūma Kotarō",
+          "125": "Tawara Tōta",
           "157": "EMIYA (Alter)",
           "165": "Suzuka Gozen"
         },
@@ -1982,13 +1982,13 @@
           "10": "Chevalier d'Eon",
           "11": "EMIYA",
           "15": "Euryale",
-          "17": "C\u00fa Chulainn",
+          "17": "Cú Chulainn",
           "22": "Romulus",
           "23": "Medusa",
           "26": "Boudica",
           "31": "Medea",
           "32": "Gilles de Rais",
-          "38": "C\u00fa Chulainn (Caster)",
+          "38": "Cú Chulainn (Caster)",
           "47": "Heracles",
           "56": "Kiyohime",
           "59": "Jeanne d'Arc",
@@ -2006,7 +2006,7 @@
           "81": "Henry Jekyll & Hyde",
           "82": "Frankenstein",
           "97": "Nightingale",
-          "98": "C\u00fa Chulainn (Alter)",
+          "98": "Cú Chulainn (Alter)",
           "99": "Queen Medb",
           "100": "Helena Blavatsky",
           "101": "Rama",
@@ -2021,7 +2021,7 @@
           "122": "Tristan",
           "123": "Gawain",
           "124": "Hassan of the Serenity",
-          "125": "Tawara T\u014dta",
+          "125": "Tawara Tōta",
           "126": "Bedivere",
           "127": "Leonardo Da Vinci",
           "143": "Enkidu",
@@ -2102,7 +2102,7 @@
         "rateups": {
           "179": "Artoria Pendragon (Rider Alter)",
           "180": "Helena Blavatsky (Archer)",
-          "181": "Minamoto no Raik\u014d (Lancer)"
+          "181": "Minamoto no Raikō (Lancer)"
         },
         "num_rateups": 3
       },
@@ -2161,9 +2161,9 @@
           "13": "Robin Hood",
           "14": "Atalanta",
           "15": "Euryale",
-          "17": "C\u00fa Chulainn",
-          "18": "Elizabeth B\u00e1thory",
-          "20": "C\u00fa Chulainn (Prototype)",
+          "17": "Cú Chulainn",
+          "18": "Elizabeth Báthory",
+          "20": "Cú Chulainn (Prototype)",
           "22": "Romulus",
           "23": "Medusa",
           "26": "Boudica",
@@ -2175,7 +2175,7 @@
           "32": "Gilles de Rais",
           "35": "Mephistopheles",
           "37": "Zhuge Liang (Lord El-Melloi II)",
-          "38": "C\u00fa Chulainn (Caster)",
+          "38": "Cú Chulainn (Caster)",
           "41": "Stheno",
           "42": "Jing Ke",
           "46": "Carmilla",
@@ -2195,7 +2195,7 @@
           "66": "Anne Bonny & Mary Read",
           "67": "Medea (Lily)",
           "71": "Diarmuid Ua Duibhne",
-          "72": "Fergus mac R\u00f3ich",
+          "72": "Fergus mac Róich",
           "74": "Nursery Rhyme",
           "75": "Jack the Ripper",
           "76": "Mordred",
@@ -2212,7 +2212,7 @@
           "94": "Astolfo",
           "95": "Kid Gil",
           "97": "Nightingale",
-          "98": "C\u00fa Chulainn (Alter)",
+          "98": "Cú Chulainn (Alter)",
           "99": "Queen Medb",
           "100": "Helena Blavatsky",
           "101": "Rama",
@@ -2223,8 +2223,8 @@
           "109": "EMIYA (Assassin)",
           "110": "Hassan of the Hundred Faces",
           "113": "Xuanzang Sanzang",
-          "116": "Ibaraki D\u014dji",
-          "117": "F\u016bma Kotar\u014d",
+          "116": "Ibaraki Dōji",
+          "117": "Fūma Kotarō",
           "118": "Ozymandias",
           "119": "Artoria Pendragon (Lancer)",
           "120": "Nitocris",
@@ -2232,7 +2232,7 @@
           "122": "Tristan",
           "123": "Gawain",
           "124": "Hassan of the Serenity",
-          "125": "Tawara T\u014dta",
+          "125": "Tawara Tōta",
           "126": "Bedivere",
           "140": "Vlad III (EXTRA)",
           "143": "Enkidu",
@@ -2306,7 +2306,7 @@
         "date_origin": "event list",
         "rateups": {
           "13": "Robin Hood",
-          "116": "Ibaraki D\u014dji",
+          "116": "Ibaraki Dōji",
           "120": "Nitocris",
           "139": "Cleopatra",
           "140": "Vlad III (EXTRA)"
@@ -2329,7 +2329,7 @@
           "2": "Artoria Pendragon",
           "3": "Artoria Pendragon (Alter)",
           "11": "EMIYA",
-          "17": "C\u00fa Chulainn",
+          "17": "Cú Chulainn",
           "23": "Medusa",
           "31": "Medea",
           "47": "Heracles",
@@ -2353,7 +2353,7 @@
           "153": "Miyamoto Musashi",
           "184": "Tomoe Gozen",
           "185": "Mochizuki Chiyome",
-          "186": "H\u014dz\u014din Inshun"
+          "186": "Hōzōin Inshun"
         },
         "num_rateups": 4
       },
@@ -2363,11 +2363,11 @@
         "end_date": "10/28/2019",
         "date_origin": "event header jp old",
         "rateups": {
-          "112": "Shuten D\u014dji",
-          "114": "Minamoto no Raik\u014d",
-          "117": "F\u016bma Kotar\u014d",
-          "187": "Yagy\u016b Munenori",
-          "188": "Kat\u014d Danz\u014d"
+          "112": "Shuten Dōji",
+          "114": "Minamoto no Raikō",
+          "117": "Fūma Kotarō",
+          "187": "Yagyū Munenori",
+          "188": "Katō Danzō"
         },
         "num_rateups": 5
       }
@@ -2384,7 +2384,7 @@
         "end_date": "11/7/2019",
         "date_origin": "event list",
         "rateups": {
-          "18": "Elizabeth B\u00e1thory",
+          "18": "Elizabeth Báthory",
           "46": "Carmilla",
           "159": "Yan Qing",
           "170": "Wu Zetian",
@@ -2410,7 +2410,7 @@
           "113": "Xuanzang Sanzang",
           "118": "Ozymandias",
           "124": "Hassan of the Serenity",
-          "125": "Tawara T\u014dta"
+          "125": "Tawara Tōta"
         },
         "num_rateups": 5
       }
@@ -2490,13 +2490,13 @@
         "date_origin": "event header jp old",
         "rateups": {
           "12": "Gilgamesh",
-          "68": "Okita S\u014dji",
+          "68": "Okita Sōji",
           "86": "Mysterious Heroine X",
-          "93": "Amakusa Shir\u014d",
+          "93": "Amakusa Shirō",
           "108": "Iskandar",
           "119": "Artoria Pendragon (Lancer)",
           "127": "Leonardo Da Vinci",
-          "161": "Hijikata Toshiz\u014d"
+          "161": "Hijikata Toshizō"
         },
         "num_rateups": 8
       }
@@ -2565,7 +2565,7 @@
         "rateups": {
           "12": "Gilgamesh",
           "62": "Tamamo no Mae",
-          "70": "Sc\u00e1thach",
+          "70": "Scáthach",
           "153": "Miyamoto Musashi",
           "156": "James Moriarty",
           "163": "Meltryllis",
@@ -2612,9 +2612,9 @@
         "date_origin": "event list",
         "rateups": {
           "51": "Sakata Kintoki",
-          "112": "Shuten D\u014dji",
-          "114": "Minamoto no Raik\u014d",
-          "116": "Ibaraki D\u014dji",
+          "112": "Shuten Dōji",
+          "114": "Minamoto no Raikō",
+          "116": "Ibaraki Dōji",
           "184": "Tomoe Gozen"
         },
         "num_rateups": 5
@@ -2674,12 +2674,12 @@
         "end_date": "3/2/2020",
         "date_origin": "event list",
         "rateups": {
-          "18": "Elizabeth B\u00e1thory",
+          "18": "Elizabeth Báthory",
           "26": "Boudica",
           "35": "Mephistopheles",
           "78": "Artoria Pendragon (Lancer Alter)",
           "81": "Henry Jekyll & Hyde",
-          "91": "Ry\u014dgi Shiki (Saber)",
+          "91": "Ryōgi Shiki (Saber)",
           "200": "Asagami Fujino"
         },
         "num_rateups": 7
@@ -2700,7 +2700,7 @@
           "157": "EMIYA (Alter)",
           "164": "Passionlip",
           "165": "Suzuka Gozen",
-          "167": "Sessh\u014din Kiara"
+          "167": "Sesshōin Kiara"
         },
         "num_rateups": 4
       }
@@ -2722,7 +2722,7 @@
           "77": "Nikola Tesla",
           "84": "Arjuna",
           "85": "Karna",
-          "98": "C\u00fa Chulainn (Alter)",
+          "98": "Cú Chulainn (Alter)",
           "118": "Ozymandias",
           "143": "Enkidu",
           "160": "Arthur Pendragon (Prototype)"
@@ -2774,9 +2774,9 @@
           "13": "Robin Hood",
           "14": "Atalanta",
           "15": "Euryale",
-          "17": "C\u00fa Chulainn",
-          "18": "Elizabeth B\u00e1thory",
-          "20": "C\u00fa Chulainn (Prototype)",
+          "17": "Cú Chulainn",
+          "18": "Elizabeth Báthory",
+          "20": "Cú Chulainn (Prototype)",
           "22": "Romulus",
           "23": "Medusa",
           "26": "Boudica",
@@ -2788,7 +2788,7 @@
           "32": "Gilles de Rais",
           "35": "Mephistopheles",
           "37": "Zhuge Liang (Lord El-Melloi II)",
-          "38": "C\u00fa Chulainn (Caster)",
+          "38": "Cú Chulainn (Caster)",
           "41": "Stheno",
           "42": "Jing Ke",
           "46": "Carmilla",
@@ -2808,7 +2808,7 @@
           "66": "Anne Bonny & Mary Read",
           "67": "Medea (Lily)",
           "71": "Diarmuid Ua Duibhne",
-          "72": "Fergus mac R\u00f3ich",
+          "72": "Fergus mac Róich",
           "74": "Nursery Rhyme",
           "75": "Jack the Ripper",
           "76": "Mordred",
@@ -2825,7 +2825,7 @@
           "94": "Astolfo",
           "95": "Kid Gil",
           "97": "Nightingale",
-          "98": "C\u00fa Chulainn (Alter)",
+          "98": "Cú Chulainn (Alter)",
           "99": "Queen Medb",
           "100": "Helena Blavatsky",
           "101": "Rama",
@@ -2836,8 +2836,8 @@
           "109": "EMIYA (Assassin)",
           "110": "Hassan of the Hundred Faces",
           "113": "Xuanzang Sanzang",
-          "116": "Ibaraki D\u014dji",
-          "117": "F\u016bma Kotar\u014d",
+          "116": "Ibaraki Dōji",
+          "117": "Fūma Kotarō",
           "118": "Ozymandias",
           "119": "Artoria Pendragon (Lancer)",
           "120": "Nitocris",
@@ -2845,7 +2845,7 @@
           "122": "Tristan",
           "123": "Gawain",
           "124": "Hassan of the Serenity",
-          "125": "Tawara T\u014dta",
+          "125": "Tawara Tōta",
           "126": "Bedivere",
           "140": "Vlad III (EXTRA)",
           "143": "Enkidu",
@@ -2865,9 +2865,9 @@
           "183": "Parvati",
           "184": "Tomoe Gozen",
           "185": "Mochizuki Chiyome",
-          "186": "H\u014dz\u014din Inshun",
-          "187": "Yagy\u016b Munenori",
-          "188": "Kat\u014d Danz\u014d",
+          "186": "Hōzōin Inshun",
+          "187": "Yagyū Munenori",
+          "188": "Katō Danzō",
           "189": "Osakabehime",
           "192": "Circe",
           "193": "Nezha",
@@ -2951,7 +2951,7 @@
           "76": "Mordred",
           "82": "Frankenstein",
           "85": "Karna",
-          "93": "Amakusa Shir\u014d",
+          "93": "Amakusa Shirō",
           "94": "Astolfo",
           "199": "Semiramis"
         },
@@ -2982,12 +2982,12 @@
         "date_origin": "event list",
         "rateups": {
           "11": "EMIYA",
-          "17": "C\u00fa Chulainn",
+          "17": "Cú Chulainn",
           "23": "Medusa",
           "31": "Medea",
           "100": "Helena Blavatsky",
           "103": "Thomas Edison",
-          "161": "Hijikata Toshiz\u014d"
+          "161": "Hijikata Toshizō"
         },
         "num_rateups": 7
       }
@@ -3004,7 +3004,7 @@
         "end_date": "5/27/2020",
         "date_origin": "event header jp old",
         "rateups": {
-          "68": "Okita S\u014dji"
+          "68": "Okita Sōji"
         },
         "num_rateups": 1
       }
@@ -3071,30 +3071,30 @@
           "23": "Medusa",
           "31": "Medea",
           "102": "Li Shuwen (Lancer)",
-          "209": "Okita S\u014dji (Alter)",
-          "210": "Okada Iz\u014d"
+          "209": "Okita Sōji (Alter)",
+          "210": "Okada Izō"
         },
         "num_rateups": 6
       }
     ]
   },
   {
-    "name": "G\u00f6tterd\u00e4mmerung Chapter Release",
+    "name": "Götterdämmerung Chapter Release",
     "region": "NA",
     "image_file": "LB2ChapterReleaseUS.png",
     "banners": [
       {
-        "name": "G\u00f6tterd\u00e4mmerung Pre-Release Summoning Campaign",
+        "name": "Götterdämmerung Pre-Release Summoning Campaign",
         "start_date": "6/18/2020",
         "end_date": "7/2/2020",
         "date_origin": "event header jp old",
         "rateups": {
-          "212": "Napol\u00e9on"
+          "212": "Napoléon"
         },
         "num_rateups": 1
       },
       {
-        "name": "G\u00f6tterd\u00e4mmerung Chapter Release Summoning Campaign",
+        "name": "Götterdämmerung Chapter Release Summoning Campaign",
         "start_date": "6/23/2020",
         "end_date": "7/6/2020",
         "date_origin": "event list",
@@ -3128,13 +3128,13 @@
           "10": "Chevalier d'Eon",
           "11": "EMIYA",
           "15": "Euryale",
-          "17": "C\u00fa Chulainn",
+          "17": "Cú Chulainn",
           "22": "Romulus",
           "23": "Medusa",
           "26": "Boudica",
           "31": "Medea",
           "32": "Gilles de Rais",
-          "38": "C\u00fa Chulainn (Caster)",
+          "38": "Cú Chulainn (Caster)",
           "47": "Heracles",
           "56": "Kiyohime",
           "59": "Jeanne d'Arc",
@@ -3152,7 +3152,7 @@
           "81": "Henry Jekyll & Hyde",
           "82": "Frankenstein",
           "97": "Nightingale",
-          "98": "C\u00fa Chulainn (Alter)",
+          "98": "Cú Chulainn (Alter)",
           "99": "Queen Medb",
           "100": "Helena Blavatsky",
           "101": "Rama",
@@ -3167,7 +3167,7 @@
           "122": "Tristan",
           "123": "Gawain",
           "124": "Hassan of the Serenity",
-          "125": "Tawara T\u014dta",
+          "125": "Tawara Tōta",
           "126": "Bedivere",
           "143": "Enkidu",
           "144": "Quetzalcoatl",
@@ -3176,7 +3176,7 @@
           "147": "Gorgon",
           "148": "Jaguar Man",
           "173": "Sherlock Holmes",
-          "215": "Sc\u00e1thach-Ska\u00f0i"
+          "215": "Scáthach-Skaði"
         },
         "num_rateups": 59
       }
@@ -3208,7 +3208,7 @@
         "rateups": {
           "179": "Artoria Pendragon (Rider Alter)",
           "180": "Helena Blavatsky (Archer)",
-          "181": "Minamoto no Raik\u014d (Lancer)"
+          "181": "Minamoto no Raikō (Lancer)"
         },
         "num_rateups": 3
       },
@@ -3238,7 +3238,7 @@
         "date_origin": "event list",
         "rateups": {
           "216": "Jeanne d'Arc (Archer)",
-          "217": "Ibaraki D\u014dji (Lancer)",
+          "217": "Ibaraki Dōji (Lancer)",
           "218": "Ushiwakamaru (Assassin)"
         },
         "num_rateups": 3
@@ -3250,7 +3250,7 @@
         "date_origin": "event list",
         "rateups": {
           "13": "Robin Hood",
-          "96": "Edmond Dant\u00e8s",
+          "96": "Edmond Dantès",
           "145": "Gilgamesh (Caster)"
         },
         "num_rateups": 3
@@ -3324,10 +3324,10 @@
         "end_date": "9/20/2020",
         "date_origin": "event header na new",
         "rateups": {
-          "112": "Shuten D\u014dji",
-          "114": "Minamoto no Raik\u014d",
-          "187": "Yagy\u016b Munenori",
-          "210": "Okada Iz\u014d"
+          "112": "Shuten Dōji",
+          "114": "Minamoto no Raikō",
+          "187": "Yagyū Munenori",
+          "210": "Okada Izō"
         },
         "num_rateups": 4
       }
@@ -3363,7 +3363,7 @@
         "end_date": "10/13/2020",
         "date_origin": "event list",
         "rateups": {
-          "18": "Elizabeth B\u00e1thory",
+          "18": "Elizabeth Báthory",
           "46": "Carmilla",
           "159": "Yan Qing",
           "170": "Wu Zetian",
@@ -3385,7 +3385,7 @@
         "end_date": "11/1/2020",
         "date_origin": "event list",
         "rateups": {
-          "116": "Ibaraki D\u014dji",
+          "116": "Ibaraki Dōji",
           "185": "Mochizuki Chiyome",
           "224": "Sitonai"
         },
@@ -3404,10 +3404,10 @@
         "end_date": "11/15/2020",
         "date_origin": "event header jp old",
         "rateups": {
-          "98": "C\u00fa Chulainn (Alter)",
+          "98": "Cú Chulainn (Alter)",
           "99": "Queen Medb",
-          "186": "H\u014dz\u014din Inshun",
-          "188": "Kat\u014d Danz\u014d"
+          "186": "Hōzōin Inshun",
+          "188": "Katō Danzō"
         },
         "num_rateups": 4
       }
@@ -3490,7 +3490,7 @@
           "12": "Gilgamesh",
           "51": "Sakata Kintoki",
           "86": "Mysterious Heroine X",
-          "91": "Ry\u014dgi Shiki (Saber)",
+          "91": "Ryōgi Shiki (Saber)",
           "142": "Ishtar",
           "153": "Miyamoto Musashi",
           "205": "Ivan the Terrible"
@@ -3563,7 +3563,7 @@
         "date_origin": "event list",
         "rateups": {
           "12": "Gilgamesh",
-          "70": "Sc\u00e1thach",
+          "70": "Scáthach",
           "106": "Jeanne d'Arc (Alter)",
           "139": "Cleopatra",
           "175": "Nero Claudius (Caster)",
@@ -3619,7 +3619,7 @@
         "date_origin": "event header na new",
         "rateups": {
           "8": "Altera",
-          "18": "Elizabeth B\u00e1thory",
+          "18": "Elizabeth Báthory",
           "56": "Kiyohime",
           "127": "Leonardo Da Vinci",
           "192": "Circe"
@@ -3745,13 +3745,13 @@
           "77": "Nikola Tesla",
           "84": "Arjuna",
           "85": "Karna",
-          "98": "C\u00fa Chulainn (Alter)",
+          "98": "Cú Chulainn (Alter)",
           "118": "Ozymandias",
           "143": "Enkidu",
           "156": "James Moriarty",
           "159": "Yan Qing",
           "206": "Achilles",
-          "212": "Napol\u00e9on",
+          "212": "Napoléon",
           "226": "Xiang Yu",
           "227": "Lanling Wang",
           "235": "Li Shuwen"
@@ -3782,9 +3782,9 @@
         "end_date": "4/11/2021",
         "date_origin": "event list",
         "rateups": {
-          "167": "Sessh\u014din Kiara",
+          "167": "Sesshōin Kiara",
           "169": "Scheherazade",
-          "187": "Yagy\u016b Munenori"
+          "187": "Yagyū Munenori"
         },
         "num_rateups": 3
       }
@@ -3843,9 +3843,9 @@
           "23": "Medusa",
           "31": "Medea",
           "102": "Li Shuwen (Lancer)",
-          "161": "Hijikata Toshiz\u014d",
-          "209": "Okita S\u014dji (Alter)",
-          "210": "Okada Iz\u014d"
+          "161": "Hijikata Toshizō",
+          "209": "Okita Sōji (Alter)",
+          "210": "Okada Izō"
         },
         "num_rateups": 7
       }
@@ -3905,9 +3905,9 @@
           "13": "Robin Hood",
           "14": "Atalanta",
           "15": "Euryale",
-          "17": "C\u00fa Chulainn",
-          "18": "Elizabeth B\u00e1thory",
-          "20": "C\u00fa Chulainn (Prototype)",
+          "17": "Cú Chulainn",
+          "18": "Elizabeth Báthory",
+          "20": "Cú Chulainn (Prototype)",
           "22": "Romulus",
           "23": "Medusa",
           "26": "Boudica",
@@ -3919,7 +3919,7 @@
           "32": "Gilles de Rais",
           "35": "Mephistopheles",
           "37": "Zhuge Liang (Lord El-Melloi II)",
-          "38": "C\u00fa Chulainn (Caster)",
+          "38": "Cú Chulainn (Caster)",
           "41": "Stheno",
           "42": "Jing Ke",
           "46": "Carmilla",
@@ -3939,7 +3939,7 @@
           "66": "Anne Bonny & Mary Read",
           "67": "Medea (Lily)",
           "71": "Diarmuid Ua Duibhne",
-          "72": "Fergus mac R\u00f3ich",
+          "72": "Fergus mac Róich",
           "74": "Nursery Rhyme",
           "75": "Jack the Ripper",
           "76": "Mordred",
@@ -3956,7 +3956,7 @@
           "94": "Astolfo",
           "95": "Kid Gil",
           "97": "Nightingale",
-          "98": "C\u00fa Chulainn (Alter)",
+          "98": "Cú Chulainn (Alter)",
           "99": "Queen Medb",
           "100": "Helena Blavatsky",
           "101": "Rama",
@@ -3967,8 +3967,8 @@
           "109": "EMIYA (Assassin)",
           "110": "Hassan of the Hundred Faces",
           "113": "Xuanzang Sanzang",
-          "116": "Ibaraki D\u014dji",
-          "117": "F\u016bma Kotar\u014d",
+          "116": "Ibaraki Dōji",
+          "117": "Fūma Kotarō",
           "118": "Ozymandias",
           "119": "Artoria Pendragon (Lancer)",
           "120": "Nitocris",
@@ -3976,7 +3976,7 @@
           "122": "Tristan",
           "123": "Gawain",
           "124": "Hassan of the Serenity",
-          "125": "Tawara T\u014dta",
+          "125": "Tawara Tōta",
           "126": "Bedivere",
           "140": "Vlad III (EXTRA)",
           "143": "Enkidu",
@@ -3996,9 +3996,9 @@
           "183": "Parvati",
           "184": "Tomoe Gozen",
           "185": "Mochizuki Chiyome",
-          "186": "H\u014dz\u014din Inshun",
-          "187": "Yagy\u016b Munenori",
-          "188": "Kat\u014d Danz\u014d",
+          "186": "Hōzōin Inshun",
+          "187": "Yagyū Munenori",
+          "188": "Katō Danzō",
           "189": "Osakabehime",
           "192": "Circe",
           "193": "Nezha",
@@ -4009,7 +4009,7 @@
           "204": "Antonio Salieri",
           "206": "Achilles",
           "207": "Chiron",
-          "212": "Napol\u00e9on",
+          "212": "Napoléon",
           "214": "Valkyrie",
           "223": "Diarmuid Ua Duibhne (Saber)",
           "224": "Sitonai",
@@ -4100,7 +4100,7 @@
         "rateups": {
           "85": "Karna",
           "247": "Arjuna (Alter)",
-          "248": "A\u015bvatth\u0101man",
+          "248": "Aśvatthāman",
           "249": "Asclepius"
         },
         "num_rateups": 4
@@ -4188,9 +4188,9 @@
           "172": "Christopher Columbus",
           "184": "Tomoe Gozen",
           "185": "Mochizuki Chiyome",
-          "186": "H\u014dz\u014din Inshun",
-          "187": "Yagy\u016b Munenori",
-          "188": "Kat\u014d Danz\u014d",
+          "186": "Hōzōin Inshun",
+          "187": "Yagyū Munenori",
+          "188": "Katō Danzō",
           "192": "Circe",
           "193": "Nezha",
           "194": "Queen of Sheba",
@@ -4198,7 +4198,7 @@
           "202": "Atalanta (Alter)",
           "203": "Avicebron",
           "204": "Antonio Salieri",
-          "212": "Napol\u00e9on",
+          "212": "Napoléon",
           "214": "Valkyrie",
           "224": "Sitonai",
           "226": "Xiang Yu",
@@ -4225,7 +4225,7 @@
         "date_origin": "event list",
         "rateups": {
           "216": "Jeanne d'Arc (Archer)",
-          "217": "Ibaraki D\u014dji (Lancer)",
+          "217": "Ibaraki Dōji (Lancer)",
           "218": "Ushiwakamaru (Assassin)"
         },
         "num_rateups": 3
@@ -4237,7 +4237,7 @@
         "date_origin": "event list",
         "rateups": {
           "13": "Robin Hood",
-          "96": "Edmond Dant\u00e8s",
+          "96": "Edmond Dantès",
           "145": "Gilgamesh (Caster)"
         },
         "num_rateups": 3
@@ -4280,7 +4280,7 @@
         "date_origin": "event list",
         "rateups": {
           "6": "Siegfried",
-          "117": "F\u016bma Kotar\u014d",
+          "117": "Fūma Kotarō",
           "150": "Merlin"
         },
         "num_rateups": 3
@@ -4292,8 +4292,8 @@
         "date_origin": "event list",
         "rateups": {
           "265": "Artoria Pendragon (Ruler)",
-          "266": "Mysterious Alter Ego \u039b",
-          "267": "Okita J S\u014dji"
+          "266": "Mysterious Alter Ego Λ",
+          "267": "Okita J Sōji"
         },
         "num_rateups": 3
       }
@@ -4341,9 +4341,9 @@
           "13": "Robin Hood",
           "14": "Atalanta",
           "15": "Euryale",
-          "17": "C\u00fa Chulainn",
-          "18": "Elizabeth B\u00e1thory",
-          "20": "C\u00fa Chulainn (Prototype)",
+          "17": "Cú Chulainn",
+          "18": "Elizabeth Báthory",
+          "20": "Cú Chulainn (Prototype)",
           "22": "Romulus",
           "23": "Medusa",
           "26": "Boudica",
@@ -4355,7 +4355,7 @@
           "32": "Gilles de Rais",
           "35": "Mephistopheles",
           "37": "Zhuge Liang (Lord El-Melloi II)",
-          "38": "C\u00fa Chulainn (Caster)",
+          "38": "Cú Chulainn (Caster)",
           "41": "Stheno",
           "42": "Jing Ke",
           "46": "Carmilla",
@@ -4375,7 +4375,7 @@
           "66": "Anne Bonny & Mary Read",
           "67": "Medea (Lily)",
           "71": "Diarmuid Ua Duibhne",
-          "72": "Fergus mac R\u00f3ich",
+          "72": "Fergus mac Róich",
           "74": "Nursery Rhyme",
           "75": "Jack the Ripper",
           "76": "Mordred",
@@ -4392,7 +4392,7 @@
           "94": "Astolfo",
           "95": "Kid Gil",
           "97": "Nightingale",
-          "98": "C\u00fa Chulainn (Alter)",
+          "98": "Cú Chulainn (Alter)",
           "99": "Queen Medb",
           "100": "Helena Blavatsky",
           "101": "Rama",
@@ -4403,8 +4403,8 @@
           "109": "EMIYA (Assassin)",
           "110": "Hassan of the Hundred Faces",
           "113": "Xuanzang Sanzang",
-          "116": "Ibaraki D\u014dji",
-          "117": "F\u016bma Kotar\u014d",
+          "116": "Ibaraki Dōji",
+          "117": "Fūma Kotarō",
           "118": "Ozymandias",
           "119": "Artoria Pendragon (Lancer)",
           "120": "Nitocris",
@@ -4412,7 +4412,7 @@
           "122": "Tristan",
           "123": "Gawain",
           "124": "Hassan of the Serenity",
-          "125": "Tawara T\u014dta",
+          "125": "Tawara Tōta",
           "126": "Bedivere",
           "140": "Vlad III (EXTRA)",
           "143": "Enkidu",
@@ -4432,9 +4432,9 @@
           "183": "Parvati",
           "184": "Tomoe Gozen",
           "185": "Mochizuki Chiyome",
-          "186": "H\u014dz\u014din Inshun",
-          "187": "Yagy\u016b Munenori",
-          "188": "Kat\u014d Danz\u014d",
+          "186": "Hōzōin Inshun",
+          "187": "Yagyū Munenori",
+          "188": "Katō Danzō",
           "189": "Osakabehime",
           "192": "Circe",
           "193": "Nezha",
@@ -4445,7 +4445,7 @@
           "204": "Antonio Salieri",
           "206": "Achilles",
           "207": "Chiron",
-          "212": "Napol\u00e9on",
+          "212": "Napoléon",
           "214": "Valkyrie",
           "223": "Diarmuid Ua Duibhne (Saber)",
           "224": "Sitonai",
@@ -4460,7 +4460,7 @@
           "244": "Jinako Carigiri",
           "245": "Lakshmibai",
           "246": "William Tell",
-          "248": "A\u015bvatth\u0101man",
+          "248": "Aśvatthāman",
           "249": "Asclepius"
         },
         "num_rateups": 133
@@ -4498,7 +4498,7 @@
         "date_origin": "event header na new",
         "rateups": {
           "51": "Sakata Kintoki",
-          "181": "Minamoto no Raik\u014d (Lancer)",
+          "181": "Minamoto no Raikō (Lancer)",
           "237": "Murasaki Shikibu"
         },
         "num_rateups": 3
@@ -4553,9 +4553,9 @@
         "end_date": "10/7/2021",
         "date_origin": "event list",
         "rateups": {
-          "112": "Shuten D\u014dji",
-          "116": "Ibaraki D\u014dji",
-          "217": "Ibaraki D\u014dji (Lancer)",
+          "112": "Shuten Dōji",
+          "116": "Ibaraki Dōji",
+          "217": "Ibaraki Dōji (Lancer)",
           "224": "Sitonai"
         },
         "num_rateups": 4
@@ -4613,7 +4613,7 @@
         "date_origin": "event list",
         "rateups": {
           "155": "Mysterious Heroine X (Alter)",
-          "187": "Yagy\u016b Munenori"
+          "187": "Yagyū Munenori"
         },
         "num_rateups": 2
       }
@@ -4630,7 +4630,7 @@
         "end_date": "11/8/2021",
         "date_origin": "event header na new",
         "rateups": {
-          "215": "Sc\u00e1thach-Ska\u00f0i"
+          "215": "Scáthach-Skaði"
         },
         "num_rateups": 1
       }
@@ -4669,7 +4669,7 @@
         "date_origin": "event header na new",
         "rateups": {
           "201": "Anastasia",
-          "212": "Napol\u00e9on",
+          "212": "Napoléon",
           "227": "Lanling Wang",
           "228": "Qin Liangyu"
         },
@@ -4688,8 +4688,8 @@
         "end_date": "12/1/2021",
         "date_origin": "event header na new",
         "rateups": {
-          "68": "Okita S\u014dji",
-          "70": "Sc\u00e1thach",
+          "68": "Okita Sōji",
+          "70": "Scáthach",
           "75": "Jack the Ripper",
           "156": "James Moriarty",
           "175": "Nero Claudius (Caster)",
@@ -4748,7 +4748,7 @@
           "55": "Darius III",
           "74": "Nursery Rhyme",
           "97": "Nightingale",
-          "248": "A\u015bvatth\u0101man",
+          "248": "Aśvatthāman",
           "270": "Astolfo (Saber)"
         },
         "num_rateups": 7
@@ -4767,9 +4767,9 @@
         "date_origin": "event header na new",
         "rateups": {
           "12": "Gilgamesh",
-          "70": "Sc\u00e1thach",
-          "91": "Ry\u014dgi Shiki (Saber)",
-          "167": "Sessh\u014din Kiara",
+          "70": "Scáthach",
+          "91": "Ryōgi Shiki (Saber)",
+          "167": "Sesshōin Kiara",
           "220": "BB (Summer)",
           "229": "Shi Huang Di",
           "275": "Yang Guifei"
@@ -4880,7 +4880,7 @@
           "232": "Bradamante",
           "244": "Jinako Carigiri",
           "274": "Europa",
-          "276": "Sei Sh\u014dnagon"
+          "276": "Sei Shōnagon"
         },
         "num_rateups": 23
       }
@@ -4938,12 +4938,12 @@
           "77": "Nikola Tesla",
           "84": "Arjuna",
           "85": "Karna",
-          "98": "C\u00fa Chulainn (Alter)",
+          "98": "Cú Chulainn (Alter)",
           "118": "Ozymandias",
           "143": "Enkidu",
           "192": "Circe",
           "206": "Achilles",
-          "212": "Napol\u00e9on",
+          "212": "Napoléon",
           "226": "Xiang Yu",
           "235": "Li Shuwen",
           "277": "Odysseus"
@@ -4980,7 +4980,7 @@
           "75": "Jack the Ripper",
           "76": "Mordred",
           "82": "Frankenstein",
-          "93": "Amakusa Shir\u014d",
+          "93": "Amakusa Shirō",
           "94": "Astolfo",
           "199": "Semiramis",
           "202": "Atalanta (Alter)",
@@ -5028,7 +5028,7 @@
           "65": "Francis Drake",
           "67": "Medea (Lily)",
           "78": "Artoria Pendragon (Lancer Alter)",
-          "114": "Minamoto no Raik\u014d"
+          "114": "Minamoto no Raikō"
         },
         "num_rateups": 4
       }
@@ -5047,7 +5047,7 @@
         "rateups": {
           "12": "Gilgamesh",
           "51": "Sakata Kintoki",
-          "70": "Sc\u00e1thach",
+          "70": "Scáthach",
           "88": "Brynhildr",
           "106": "Jeanne d'Arc (Alter)",
           "127": "Leonardo Da Vinci",
@@ -5070,7 +5070,7 @@
         "date_origin": "event list",
         "rateups": {
           "178": "Oda Nobunaga (Berserker)",
-          "209": "Okita S\u014dji (Alter)",
+          "209": "Okita Sōji (Alter)",
           "235": "Li Shuwen",
           "250": "Demon King Nobunaga",
           "251": "Mori Nagayoshi"
@@ -5084,7 +5084,7 @@
         "date_origin": "event list",
         "rateups": {
           "5": "Nero Claudius",
-          "98": "C\u00fa Chulainn (Alter)",
+          "98": "Cú Chulainn (Alter)",
           "157": "EMIYA (Alter)",
           "224": "Sitonai"
         },
@@ -5117,7 +5117,7 @@
         "date_origin": "event list",
         "rateups": {
           "281": "Voyager",
-          "282": "Kijyo K\u014dy\u014d"
+          "282": "Kijyo Kōyō"
         },
         "num_rateups": 2
       }
@@ -5167,7 +5167,7 @@
         "date_origin": "event list",
         "rateups": {
           "6": "Siegfried",
-          "117": "F\u016bma Kotar\u014d",
+          "117": "Fūma Kotarō",
           "150": "Merlin"
         },
         "num_rateups": 3
@@ -5179,8 +5179,8 @@
         "date_origin": "event list",
         "rateups": {
           "265": "Artoria Pendragon (Ruler)",
-          "266": "Mysterious Alter Ego \u039b",
-          "267": "Okita J S\u014dji"
+          "266": "Mysterious Alter Ego Λ",
+          "267": "Okita J Sōji"
         },
         "num_rateups": 3
       }
@@ -5202,7 +5202,7 @@
           "8": "Altera",
           "11": "EMIYA",
           "14": "Atalanta",
-          "18": "Elizabeth B\u00e1thory",
+          "18": "Elizabeth Báthory",
           "22": "Romulus",
           "23": "Medusa",
           "28": "Alexander",
@@ -5215,7 +5215,7 @@
           "58": "Tamamo Cat",
           "64": "Hector",
           "65": "Francis Drake",
-          "72": "Fergus mac R\u00f3ich",
+          "72": "Fergus mac Róich",
           "74": "Nursery Rhyme",
           "76": "Mordred",
           "79": "Paracelsus von Hohenheim",
@@ -5228,9 +5228,9 @@
           "95": "Kid Gil",
           "100": "Helena Blavatsky",
           "104": "Geronimo",
-          "117": "F\u016bma Kotar\u014d",
+          "117": "Fūma Kotarō",
           "120": "Nitocris",
-          "125": "Tawara T\u014dta",
+          "125": "Tawara Tōta",
           "130": "Marie Antoinette (Caster)",
           "132": "Mordred (Rider)",
           "145": "Gilgamesh (Caster)",
@@ -5244,7 +5244,7 @@
           "201": "Anastasia",
           "203": "Avicebron",
           "206": "Achilles",
-          "212": "Napol\u00e9on",
+          "212": "Napoléon",
           "214": "Valkyrie",
           "216": "Jeanne d'Arc (Archer)",
           "218": "Ushiwakamaru (Assassin)",
@@ -5295,14 +5295,14 @@
           "203": "Avicebron",
           "204": "Antonio Salieri",
           "205": "Ivan the Terrible",
-          "212": "Napol\u00e9on",
+          "212": "Napoléon",
           "214": "Valkyrie",
           "226": "Xiang Yu",
           "227": "Lanling Wang",
           "231": "Red Hare",
           "244": "Jinako Carigiri",
           "246": "William Tell",
-          "248": "A\u015bvatth\u0101man",
+          "248": "Aśvatthāman",
           "249": "Asclepius",
           "273": "Mandricardo",
           "274": "Europa",
@@ -5334,7 +5334,7 @@
         "end_date": "8/1/2022",
         "date_origin": "event list",
         "rateups": {
-          "285": "Sessh\u014din Kiara (Moon Cancer)",
+          "285": "Sesshōin Kiara (Moon Cancer)",
           "286": "Illyasviel von Einzbern (Archer)",
           "287": "Brynhildr (Berserker)"
         },
@@ -5370,7 +5370,7 @@
         "end_date": "8/6/2022",
         "date_origin": "event list",
         "rateups": {
-          "96": "Edmond Dant\u00e8s",
+          "96": "Edmond Dantès",
           "134": "Kiyohime (Lancer)",
           "200": "Asagami Fujino",
           "216": "Jeanne d'Arc (Archer)"
@@ -5390,8 +5390,8 @@
         "end_date": "8/15/2022",
         "date_origin": "event list",
         "rateups": {
-          "167": "Sessh\u014din Kiara",
-          "187": "Yagy\u016b Munenori",
+          "167": "Sesshōin Kiara",
+          "187": "Yagyū Munenori",
           "239": "Kama"
         },
         "num_rateups": 3
@@ -5448,7 +5448,7 @@
         "end_date": "8/30/2022",
         "date_origin": "event header na new",
         "rateups": {
-          "112": "Shuten D\u014dji",
+          "112": "Shuten Dōji",
           "202": "Atalanta (Alter)",
           "203": "Avicebron",
           "231": "Red Hare"
@@ -5469,7 +5469,7 @@
         "date_origin": "event list",
         "rateups": {
           "58": "Tamamo Cat",
-          "70": "Sc\u00e1thach",
+          "70": "Scáthach",
           "87": "Fionn mac Cumhaill",
           "223": "Diarmuid Ua Duibhne (Saber)"
         },
@@ -5507,9 +5507,9 @@
         "end_date": "9/21/2022",
         "date_origin": "event header na new",
         "rateups": {
-          "68": "Okita S\u014dji",
-          "161": "Hijikata Toshiz\u014d",
-          "210": "Okada Iz\u014d"
+          "68": "Okita Sōji",
+          "161": "Hijikata Toshizō",
+          "210": "Okada Izō"
         },
         "num_rateups": 3
       }
@@ -5527,7 +5527,7 @@
         "date_origin": "event list",
         "rateups": {
           "292": "Himiko",
-          "293": "Sait\u014d Hajime"
+          "293": "Saitō Hajime"
         },
         "num_rateups": 2
       },
@@ -5555,7 +5555,7 @@
         "date_origin": "event header na new",
         "rateups": {
           "12": "Gilgamesh",
-          "38": "C\u00fa Chulainn (Caster)",
+          "38": "Cú Chulainn (Caster)",
           "118": "Ozymandias",
           "121": "Lancelot (Saber)",
           "145": "Gilgamesh (Caster)"
@@ -5594,7 +5594,7 @@
           "94": "Astolfo",
           "97": "Nightingale",
           "232": "Bradamante",
-          "248": "A\u015bvatth\u0101man",
+          "248": "Aśvatthāman",
           "270": "Astolfo (Saber)"
         },
         "num_rateups": 8
@@ -5612,12 +5612,12 @@
         "end_date": "10/30/2022",
         "date_origin": "event header na new",
         "rateups": {
-          "18": "Elizabeth B\u00e1thory",
+          "18": "Elizabeth Báthory",
           "35": "Mephistopheles",
           "55": "Darius III",
           "139": "Cleopatra",
           "189": "Osakabehime",
-          "217": "Ibaraki D\u014dji (Lancer)"
+          "217": "Ibaraki Dōji (Lancer)"
         },
         "num_rateups": 6
       }
@@ -5635,7 +5635,7 @@
         "date_origin": "event header na new",
         "rateups": {
           "176": "Frankenstein (Saber)",
-          "181": "Minamoto no Raik\u014d (Lancer)",
+          "181": "Minamoto no Raikō (Lancer)",
           "222": "Mysterious Heroine XX",
           "275": "Yang Guifei"
         },
@@ -5660,7 +5660,7 @@
         "rateups": {
           "195": "Abigail Williams",
           "262": "Osakabehime (Archer)",
-          "266": "Mysterious Alter Ego \u039b"
+          "266": "Mysterious Alter Ego Λ"
         },
         "num_rateups": 3
       }
@@ -5678,9 +5678,9 @@
         "date_origin": "event header na new",
         "rateups": {
           "51": "Sakata Kintoki",
-          "114": "Minamoto no Raik\u014d",
-          "116": "Ibaraki D\u014dji",
-          "188": "Kat\u014d Danz\u014d"
+          "114": "Minamoto no Raikō",
+          "116": "Ibaraki Dōji",
+          "188": "Katō Danzō"
         },
         "num_rateups": 4
       },
@@ -5690,7 +5690,7 @@
         "end_date": "12/4/2022",
         "date_origin": "event list",
         "rateups": {
-          "297": "Ashiya D\u014dman",
+          "297": "Ashiya Dōman",
           "298": "Watanabe no Tsuna"
         },
         "num_rateups": 2
@@ -5704,7 +5704,7 @@
           "67": "Medea (Lily)",
           "79": "Paracelsus von Hohenheim",
           "80": "Charles Babbage",
-          "299": "Ibuki D\u014dji"
+          "299": "Ibuki Dōji"
         },
         "num_rateups": 4
       }
@@ -5871,7 +5871,7 @@
         "date_origin": "event list",
         "rateups": {
           "86": "Mysterious Heroine X",
-          "187": "Yagy\u016b Munenori"
+          "187": "Yagyū Munenori"
         },
         "num_rateups": 2
       }
@@ -5889,7 +5889,7 @@
         "date_origin": "event list",
         "rateups": {
           "27": "Ushiwakamaru",
-          "98": "C\u00fa Chulainn (Alter)",
+          "98": "Cú Chulainn (Alter)",
           "99": "Queen Medb",
           "303": "Taira no Kagekiyo"
         },
@@ -5963,7 +5963,7 @@
         "end_date": "3/5/2023",
         "date_origin": "event header na new",
         "rateups": {
-          "276": "Sei Sh\u014dnagon"
+          "276": "Sei Shōnagon"
         },
         "num_rateups": 1
       }
@@ -6003,12 +6003,12 @@
           "77": "Nikola Tesla",
           "84": "Arjuna",
           "85": "Karna",
-          "93": "Amakusa Shir\u014d",
-          "98": "C\u00fa Chulainn (Alter)",
+          "93": "Amakusa Shirō",
+          "98": "Cú Chulainn (Alter)",
           "118": "Ozymandias",
           "143": "Enkidu",
           "206": "Achilles",
-          "212": "Napol\u00e9on",
+          "212": "Napoléon",
           "226": "Xiang Yu",
           "235": "Li Shuwen",
           "278": "Dioscuri",
@@ -6054,9 +6054,9 @@
           "13": "Robin Hood",
           "14": "Atalanta",
           "15": "Euryale",
-          "17": "C\u00fa Chulainn",
-          "18": "Elizabeth B\u00e1thory",
-          "20": "C\u00fa Chulainn (Prototype)",
+          "17": "Cú Chulainn",
+          "18": "Elizabeth Báthory",
+          "20": "Cú Chulainn (Prototype)",
           "22": "Romulus",
           "23": "Medusa",
           "26": "Boudica",
@@ -6068,7 +6068,7 @@
           "32": "Gilles de Rais",
           "35": "Mephistopheles",
           "37": "Zhuge Liang (Lord El-Melloi II)",
-          "38": "C\u00fa Chulainn (Caster)",
+          "38": "Cú Chulainn (Caster)",
           "41": "Stheno",
           "42": "Jing Ke",
           "46": "Carmilla",
@@ -6088,7 +6088,7 @@
           "66": "Anne Bonny & Mary Read",
           "67": "Medea (Lily)",
           "71": "Diarmuid Ua Duibhne",
-          "72": "Fergus mac R\u00f3ich",
+          "72": "Fergus mac Róich",
           "74": "Nursery Rhyme",
           "75": "Jack the Ripper",
           "76": "Mordred",
@@ -6105,7 +6105,7 @@
           "94": "Astolfo",
           "95": "Kid Gil",
           "97": "Nightingale",
-          "98": "C\u00fa Chulainn (Alter)",
+          "98": "Cú Chulainn (Alter)",
           "99": "Queen Medb",
           "100": "Helena Blavatsky",
           "101": "Rama",
@@ -6116,8 +6116,8 @@
           "109": "EMIYA (Assassin)",
           "110": "Hassan of the Hundred Faces",
           "113": "Xuanzang Sanzang",
-          "116": "Ibaraki D\u014dji",
-          "117": "F\u016bma Kotar\u014d",
+          "116": "Ibaraki Dōji",
+          "117": "Fūma Kotarō",
           "118": "Ozymandias",
           "119": "Artoria Pendragon (Lancer)",
           "120": "Nitocris",
@@ -6125,7 +6125,7 @@
           "122": "Tristan",
           "123": "Gawain",
           "124": "Hassan of the Serenity",
-          "125": "Tawara T\u014dta",
+          "125": "Tawara Tōta",
           "126": "Bedivere",
           "140": "Vlad III (EXTRA)",
           "143": "Enkidu",
@@ -6145,9 +6145,9 @@
           "183": "Parvati",
           "184": "Tomoe Gozen",
           "185": "Mochizuki Chiyome",
-          "186": "H\u014dz\u014din Inshun",
-          "187": "Yagy\u016b Munenori",
-          "188": "Kat\u014d Danz\u014d",
+          "186": "Hōzōin Inshun",
+          "187": "Yagyū Munenori",
+          "188": "Katō Danzō",
           "189": "Osakabehime",
           "192": "Circe",
           "193": "Nezha",
@@ -6158,7 +6158,7 @@
           "204": "Antonio Salieri",
           "206": "Achilles",
           "207": "Chiron",
-          "212": "Napol\u00e9on",
+          "212": "Napoléon",
           "214": "Valkyrie",
           "223": "Diarmuid Ua Duibhne (Saber)",
           "224": "Sitonai",
@@ -6173,7 +6173,7 @@
           "244": "Jinako Carigiri",
           "245": "Lakshmibai",
           "246": "William Tell",
-          "248": "A\u015bvatth\u0101man",
+          "248": "Aśvatthāman",
           "249": "Asclepius",
           "273": "Mandricardo",
           "274": "Europa",
@@ -6251,7 +6251,7 @@
         "rateups": {
           "62": "Tamamo no Mae",
           "185": "Mochizuki Chiyome",
-          "186": "H\u014dz\u014din Inshun",
+          "186": "Hōzōin Inshun",
           "198": "Katsushika Hokusai"
         },
         "num_rateups": 4
@@ -6294,7 +6294,7 @@
           "15": "Euryale",
           "59": "Jeanne d'Arc",
           "100": "Helena Blavatsky",
-          "112": "Shuten D\u014dji"
+          "112": "Shuten Dōji"
         },
         "num_rateups": 4
       },
@@ -6371,7 +6371,7 @@
         "end_date": "6/5/2023",
         "date_origin": "event list",
         "rateups": {
-          "285": "Sessh\u014din Kiara (Moon Cancer)",
+          "285": "Sesshōin Kiara (Moon Cancer)",
           "286": "Illyasviel von Einzbern (Archer)",
           "287": "Brynhildr (Berserker)"
         },
@@ -6415,10 +6415,10 @@
         "end_date": "6/9/2023",
         "date_origin": "event header na new",
         "rateups": {
-          "188": "Kat\u014d Danz\u014d",
+          "188": "Katō Danzō",
           "207": "Chiron",
           "272": "Super Orion",
-          "299": "Ibuki D\u014dji"
+          "299": "Ibuki Dōji"
         },
         "num_rateups": 4
       }
@@ -6445,7 +6445,7 @@
         "end_date": "6/19/2023",
         "date_origin": "event header na new",
         "rateups": {
-          "38": "C\u00fa Chulainn (Caster)",
+          "38": "Cú Chulainn (Caster)",
           "309": "Morgan",
           "310": "Barghest",
           "311": "Baobhan Sith"
@@ -6495,7 +6495,7 @@
         "end_date": "7/2/2023",
         "date_origin": "event header na new",
         "rateups": {
-          "312": "M\u00e9lusine",
+          "312": "Mélusine",
           "313": "Percival"
         },
         "num_rateups": 2
@@ -6540,7 +6540,7 @@
           "202": "Atalanta (Alter)",
           "203": "Avicebron",
           "204": "Antonio Salieri",
-          "212": "Napol\u00e9on",
+          "212": "Napoléon",
           "224": "Sitonai",
           "226": "Xiang Yu",
           "227": "Lanling Wang",
@@ -6550,7 +6550,7 @@
           "244": "Jinako Carigiri",
           "245": "Lakshmibai",
           "246": "William Tell",
-          "248": "A\u015bvatth\u0101man",
+          "248": "Aśvatthāman",
           "249": "Asclepius",
           "273": "Mandricardo",
           "274": "Europa",
@@ -6639,7 +6639,7 @@
           "80": "Charles Babbage",
           "89": "Beowulf",
           "106": "Jeanne d'Arc (Alter)",
-          "114": "Minamoto no Raik\u014d",
+          "114": "Minamoto no Raikō",
           "145": "Gilgamesh (Caster)"
         },
         "num_rateups": 8
@@ -6701,7 +6701,7 @@
           "135": "Martha (Ruler)",
           "179": "Artoria Pendragon (Rider Alter)",
           "180": "Helena Blavatsky (Archer)",
-          "181": "Minamoto no Raik\u014d (Lancer)",
+          "181": "Minamoto no Raikō (Lancer)",
           "220": "BB (Summer)",
           "221": "Queen Medb (Saber)",
           "222": "Mysterious Heroine XX",
@@ -6709,7 +6709,7 @@
           "262": "Osakabehime (Archer)",
           "263": "Carmilla (Rider)",
           "265": "Artoria Pendragon (Ruler)",
-          "266": "Mysterious Alter Ego \u039b"
+          "266": "Mysterious Alter Ego Λ"
         },
         "num_rateups": 16
       }
@@ -6739,7 +6739,7 @@
         "end_date": "9/20/2023",
         "date_origin": "event list",
         "rateups": {
-          "317": "Okita S\u014dji (Saber Alter)",
+          "317": "Okita Sōji (Saber Alter)",
           "318": "Anastasia & Viy",
           "319": "Charlotte Corday (Caster)"
         },
@@ -6764,7 +6764,7 @@
         "rateups": {
           "321": "Kama (Avenger)",
           "322": "Caenis (Rider)",
-          "323": "Sei Sh\u014dnagon (Berserker)"
+          "323": "Sei Shōnagon (Berserker)"
         },
         "num_rateups": 3
       },
@@ -6775,7 +6775,7 @@
         "date_origin": "event list",
         "rateups": {
           "172": "Christopher Columbus",
-          "297": "Ashiya D\u014dman"
+          "297": "Ashiya Dōman"
         },
         "num_rateups": 2
       }
@@ -6792,7 +6792,7 @@
         "end_date": "10/4/2023",
         "date_origin": "event header na new",
         "rateups": {
-          "209": "Okita S\u014dji (Alter)",
+          "209": "Okita Sōji (Alter)",
           "295": "Van Gogh"
         },
         "num_rateups": 2
@@ -6810,7 +6810,7 @@
         "end_date": "10/8/2023",
         "date_origin": "event header na new",
         "rateups": {
-          "17": "C\u00fa Chulainn",
+          "17": "Cú Chulainn",
           "84": "Arjuna",
           "153": "Miyamoto Musashi",
           "192": "Circe",
@@ -6833,12 +6833,12 @@
         "rateups": {
           "7": "Gaius Julius Caesar",
           "13": "Robin Hood",
-          "18": "Elizabeth B\u00e1thory",
+          "18": "Elizabeth Báthory",
           "46": "Carmilla",
           "52": "Vlad III",
           "56": "Kiyohime",
           "58": "Tamamo Cat",
-          "116": "Ibaraki D\u014dji",
+          "116": "Ibaraki Dōji",
           "120": "Nitocris",
           "139": "Cleopatra",
           "140": "Vlad III (EXTRA)",
@@ -6895,7 +6895,7 @@
         "rateups": {
           "10": "Chevalier d'Eon",
           "126": "Bedivere",
-          "212": "Napol\u00e9on"
+          "212": "Napoléon"
         },
         "num_rateups": 3
       },
@@ -6924,10 +6924,10 @@
         "end_date": "11/8/2023",
         "date_origin": "event list",
         "rateups": {
-          "68": "Okita S\u014dji",
-          "161": "Hijikata Toshiz\u014d",
+          "68": "Okita Sōji",
+          "161": "Hijikata Toshizō",
           "292": "Himiko",
-          "293": "Sait\u014d Hajime"
+          "293": "Saitō Hajime"
         },
         "num_rateups": 4
       },
@@ -6968,7 +6968,7 @@
         "rateups": {
           "51": "Sakata Kintoki",
           "298": "Watanabe no Tsuna",
-          "299": "Ibuki D\u014dji"
+          "299": "Ibuki Dōji"
         },
         "num_rateups": 3
       }
@@ -6986,7 +6986,7 @@
         "date_origin": "tab",
         "rateups": {
           "178": "Oda Nobunaga (Berserker)",
-          "210": "Okada Iz\u014d",
+          "210": "Okada Izō",
           "251": "Mori Nagayoshi",
           "327": "Izumo no Okuni"
         },
@@ -6998,11 +6998,11 @@
         "end_date": "12/1/2023",
         "date_origin": "tab",
         "rateups": {
-          "210": "Okada Iz\u014d",
+          "210": "Okada Izō",
           "250": "Demon King Nobunaga",
           "251": "Mori Nagayoshi",
-          "267": "Okita J S\u014dji",
-          "329": "Sakamoto Ry\u014dma (Lancer)"
+          "267": "Okita J Sōji",
+          "329": "Sakamoto Ryōma (Lancer)"
         },
         "num_rateups": 5
       }
@@ -7022,10 +7022,10 @@
           "6": "Siegfried",
           "14": "Atalanta",
           "82": "Frankenstein",
-          "93": "Amakusa Shir\u014d",
+          "93": "Amakusa Shirō",
           "94": "Astolfo",
           "132": "Mordred (Rider)",
-          "167": "Sessh\u014din Kiara",
+          "167": "Sesshōin Kiara",
           "176": "Frankenstein (Saber)",
           "195": "Abigail Williams",
           "199": "Semiramis",
@@ -7069,7 +7069,7 @@
         "rateups": {
           "11": "EMIYA",
           "30": "Martha",
-          "215": "Sc\u00e1thach-Ska\u00f0i",
+          "215": "Scáthach-Skaði",
           "234": "Beni-Enma"
         },
         "num_rateups": 4
@@ -7100,7 +7100,7 @@
         "date_origin": "tab",
         "rateups": {
           "121": "Lancelot (Saber)",
-          "312": "M\u00e9lusine",
+          "312": "Mélusine",
           "313": "Percival"
         },
         "num_rateups": 3
@@ -7146,7 +7146,7 @@
         "end_date": "1/8/2024",
         "date_origin": "tab",
         "rateups": {
-          "70": "Sc\u00e1thach",
+          "70": "Scáthach",
           "108": "Iskandar",
           "127": "Leonardo Da Vinci",
           "154": "\"The Old Man of the Mountain\"",

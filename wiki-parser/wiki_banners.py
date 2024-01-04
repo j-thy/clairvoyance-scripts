@@ -938,16 +938,6 @@ def rec_check_subpages(event_set, event_page, date, parent_title):
             # Remove any pre-release events with rateups that are already in the main event
             pre_release_remove(event_set)
 
-# Parse test pages
-def parse_test():
-    file_name = "Christmas2023.png"
-    page = pywikibot.FilePage(SITE, file_name)
-    # If the directory "imgs" does not already exist, create it.
-    if not os.path.exists("imgs"):
-        os.makedirs("imgs")
-    test = page.download(filename=f'imgs/{file_name}.!')
-    print(page)
-
 # Parse events
 def parse_event_lists(event_lists, region):
     global CURRENT_YEAR
@@ -1267,4 +1257,4 @@ def parse_and_create(event_list, event_set, region):
     # Create the new version of the JSON file from the banner list.
     json_obj = jsons.dump(event_list)
     with open(os.path.join(DIR_PATH, FILE_NEW), 'w') as f:
-        f.write(json.dumps(json_obj, indent=2, sort_keys=False))
+        f.write(json.dumps(json_obj, indent=2, sort_keys=False).replace(r'\"', r'\\"').encode().decode('unicode-escape'))
