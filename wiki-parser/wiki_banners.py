@@ -428,7 +428,7 @@ CURRENT_YEAR = 0 # Current year
 CURRENT_REGION = "" # Current region
 PRESENT_YEAR = 2024
 
-def initialize():
+def banner_init():
     global SERVANT_DATA
     global SERVANT_NAMES
     global DIR_PATH

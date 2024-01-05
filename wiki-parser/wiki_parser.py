@@ -1,6 +1,7 @@
 import argparse
 from wiki_servants import *
 from wiki_banners import *
+from wiki_images import *
 
 # Create the parser
 parser = argparse.ArgumentParser(description="Parse FGO wiki.")
@@ -10,6 +11,8 @@ parser.add_argument('--servants', action='store_true',
                     help='parse servant list before parsing banners')
 parser.add_argument('--banners', action='store_true',
                     help='parse banners')
+parser.add_argument('--images', action='store_true',
+                    help='download images')
 
 # Parse the arguments
 args = parser.parse_args()
@@ -20,7 +23,7 @@ if args.servants:
     write_to_json()
 
 if args.banners:
-    initialize()
+    banner_init()
     parse_and_create(EVENT_LIST_NA, EVENT_SET_NA, "NA")
     parse_and_create(EVENT_LIST_JP, EVENT_SET_JP, "JP")
 
@@ -31,3 +34,8 @@ if args.banners:
     create_banner_json(EVENT_SET_JP, EVENT_SET_NA)
     print("Creating servant JSON data...")
     create_servant_json(EVENT_SET_JP, EVENT_SET_NA)
+
+if args.images:
+    print("Downloading images...")
+    image_init()
+    download_images()
