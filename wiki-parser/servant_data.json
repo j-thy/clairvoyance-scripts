@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id_num": 1,
     "name": "Mashu Kyrielight",
     "rarity": 4,
     "class_type": "Shielder",
@@ -8,7 +8,7 @@
     "na_rateups": []
   },
   {
-    "id": 2,
+    "id_num": 2,
     "name": "Artoria Pendragon",
     "rarity": 5,
     "class_type": "Saber",
@@ -83,7 +83,7 @@
     ]
   },
   {
-    "id": 3,
+    "id_num": 3,
     "name": "Artoria Pendragon (Alter)",
     "rarity": 4,
     "class_type": "Saber",
@@ -135,7 +135,7 @@
     ]
   },
   {
-    "id": 4,
+    "id_num": 4,
     "name": "Artoria Pendragon (Lily)",
     "rarity": 4,
     "class_type": "Saber",
@@ -143,7 +143,7 @@
     "na_rateups": []
   },
   {
-    "id": 5,
+    "id_num": 5,
     "name": "Nero Claudius",
     "rarity": 4,
     "class_type": "Saber",
@@ -202,7 +202,7 @@
     ]
   },
   {
-    "id": 6,
+    "id_num": 6,
     "name": "Siegfried",
     "rarity": 4,
     "class_type": "Saber",
@@ -257,7 +257,7 @@
     ]
   },
   {
-    "id": 7,
+    "id_num": 7,
     "name": "Gaius Julius Caesar",
     "rarity": 3,
     "class_type": "Saber",
@@ -311,7 +311,7 @@
     ]
   },
   {
-    "id": 8,
+    "id_num": 8,
     "name": "Altera",
     "rarity": 5,
     "class_type": "Saber",
@@ -381,7 +381,7 @@
     ]
   },
   {
-    "id": 9,
+    "id_num": 9,
     "name": "Gilles de Rais (Saber)",
     "rarity": 3,
     "class_type": "Saber",
@@ -419,7 +419,7 @@
     ]
   },
   {
-    "id": 10,
+    "id_num": 10,
     "name": "Chevalier d'Eon",
     "rarity": 4,
     "class_type": "Saber",
@@ -460,7 +460,7 @@
     ]
   },
   {
-    "id": 11,
+    "id_num": 11,
     "name": "EMIYA",
     "rarity": 4,
     "class_type": "Archer",
@@ -527,7 +527,7 @@
     ]
   },
   {
-    "id": 12,
+    "id_num": 12,
     "name": "Gilgamesh",
     "rarity": 5,
     "class_type": "Archer",
@@ -566,7 +566,7 @@
     ]
   },
   {
-    "id": 13,
+    "id_num": 13,
     "name": "Robin Hood",
     "rarity": 3,
     "class_type": "Archer",
@@ -618,7 +618,7 @@
     ]
   },
   {
-    "id": 14,
+    "id_num": 14,
     "name": "Atalanta",
     "rarity": 4,
     "class_type": "Archer",
@@ -653,7 +653,7 @@
     ]
   },
   {
-    "id": 15,
+    "id_num": 15,
     "name": "Euryale",
     "rarity": 3,
     "class_type": "Archer",
@@ -697,7 +697,7 @@
     ]
   },
   {
-    "id": 16,
+    "id_num": 16,
     "name": "Arash",
     "rarity": 1,
     "class_type": "Archer",
@@ -705,7 +705,7 @@
     "na_rateups": []
   },
   {
-    "id": 17,
+    "id_num": 17,
     "name": "Cú Chulainn",
     "rarity": 3,
     "class_type": "Lancer",
@@ -756,7 +756,7 @@
     ]
   },
   {
-    "id": 18,
+    "id_num": 18,
     "name": "Elizabeth Báthory",
     "rarity": 4,
     "class_type": "Lancer",
@@ -805,7 +805,7 @@
     ]
   },
   {
-    "id": 19,
+    "id_num": 19,
     "name": "Musashibō Benkei",
     "rarity": 2,
     "class_type": "Lancer",
@@ -813,7 +813,7 @@
     "na_rateups": []
   },
   {
-    "id": 20,
+    "id_num": 20,
     "name": "Cú Chulainn (Prototype)",
     "rarity": 3,
     "class_type": "Lancer",
@@ -842,7 +842,7 @@
     ]
   },
   {
-    "id": 21,
+    "id_num": 21,
     "name": "Leonidas I",
     "rarity": 2,
     "class_type": "Lancer",
@@ -850,7 +850,7 @@
     "na_rateups": []
   },
   {
-    "id": 22,
+    "id_num": 22,
     "name": "Romulus",
     "rarity": 3,
     "class_type": "Lancer",
@@ -896,7 +896,7 @@
     ]
   },
   {
-    "id": 23,
+    "id_num": 23,
     "name": "Medusa",
     "rarity": 3,
     "class_type": "Rider",
@@ -953,7 +953,7 @@
     ]
   },
   {
-    "id": 24,
+    "id_num": 24,
     "name": "Georgios",
     "rarity": 2,
     "class_type": "Rider",
@@ -961,7 +961,7 @@
     "na_rateups": []
   },
   {
-    "id": 25,
+    "id_num": 25,
     "name": "Edward Teach",
     "rarity": 2,
     "class_type": "Rider",
@@ -969,7 +969,7 @@
     "na_rateups": []
   },
   {
-    "id": 26,
+    "id_num": 26,
     "name": "Boudica",
     "rarity": 3,
     "class_type": "Rider",
@@ -1016,7 +1016,7 @@
     ]
   },
   {
-    "id": 27,
+    "id_num": 27,
     "name": "Ushiwakamaru",
     "rarity": 3,
     "class_type": "Rider",
@@ -1067,7 +1067,7 @@
     ]
   },
   {
-    "id": 28,
+    "id_num": 28,
     "name": "Alexander",
     "rarity": 3,
     "class_type": "Rider",
@@ -1105,7 +1105,7 @@
     ]
   },
   {
-    "id": 29,
+    "id_num": 29,
     "name": "Marie Antoinette",
     "rarity": 4,
     "class_type": "Rider",
@@ -1146,7 +1146,7 @@
     ]
   },
   {
-    "id": 30,
+    "id_num": 30,
     "name": "Martha",
     "rarity": 4,
     "class_type": "Rider",
@@ -1182,7 +1182,7 @@
     ]
   },
   {
-    "id": 31,
+    "id_num": 31,
     "name": "Medea",
     "rarity": 3,
     "class_type": "Caster",
@@ -1230,7 +1230,7 @@
     ]
   },
   {
-    "id": 32,
+    "id_num": 32,
     "name": "Gilles de Rais",
     "rarity": 3,
     "class_type": "Caster",
@@ -1273,7 +1273,7 @@
     ]
   },
   {
-    "id": 33,
+    "id_num": 33,
     "name": "Hans Christian Andersen",
     "rarity": 2,
     "class_type": "Caster",
@@ -1281,7 +1281,7 @@
     "na_rateups": []
   },
   {
-    "id": 34,
+    "id_num": 34,
     "name": "William Shakespeare",
     "rarity": 2,
     "class_type": "Caster",
@@ -1289,7 +1289,7 @@
     "na_rateups": []
   },
   {
-    "id": 35,
+    "id_num": 35,
     "name": "Mephistopheles",
     "rarity": 3,
     "class_type": "Caster",
@@ -1330,7 +1330,7 @@
     ]
   },
   {
-    "id": 36,
+    "id_num": 36,
     "name": "Wolfgang Amadeus Mozart",
     "rarity": 1,
     "class_type": "Caster",
@@ -1338,7 +1338,7 @@
     "na_rateups": []
   },
   {
-    "id": 37,
+    "id_num": 37,
     "name": "Zhuge Liang (Lord El-Melloi II)",
     "rarity": 5,
     "class_type": "Caster",
@@ -1399,7 +1399,7 @@
     ]
   },
   {
-    "id": 38,
+    "id_num": 38,
     "name": "Cú Chulainn (Caster)",
     "rarity": 3,
     "class_type": "Caster",
@@ -1437,7 +1437,7 @@
     ]
   },
   {
-    "id": 39,
+    "id_num": 39,
     "name": "Sasaki Kojirō",
     "rarity": 1,
     "class_type": "Assassin",
@@ -1445,7 +1445,7 @@
     "na_rateups": []
   },
   {
-    "id": 40,
+    "id_num": 40,
     "name": "Hassan of the Cursed Arm",
     "rarity": 2,
     "class_type": "Assassin",
@@ -1453,7 +1453,7 @@
     "na_rateups": []
   },
   {
-    "id": 41,
+    "id_num": 41,
     "name": "Stheno",
     "rarity": 4,
     "class_type": "Assassin",
@@ -1488,7 +1488,7 @@
     ]
   },
   {
-    "id": 42,
+    "id_num": 42,
     "name": "Jing Ke",
     "rarity": 3,
     "class_type": "Assassin",
@@ -1536,7 +1536,7 @@
     ]
   },
   {
-    "id": 43,
+    "id_num": 43,
     "name": "Charles-Henri Sanson",
     "rarity": 2,
     "class_type": "Assassin",
@@ -1544,7 +1544,7 @@
     "na_rateups": []
   },
   {
-    "id": 44,
+    "id_num": 44,
     "name": "Phantom of the Opera",
     "rarity": 2,
     "class_type": "Assassin",
@@ -1552,7 +1552,7 @@
     "na_rateups": []
   },
   {
-    "id": 45,
+    "id_num": 45,
     "name": "Mata Hari",
     "rarity": 1,
     "class_type": "Assassin",
@@ -1560,7 +1560,7 @@
     "na_rateups": []
   },
   {
-    "id": 46,
+    "id_num": 46,
     "name": "Carmilla",
     "rarity": 4,
     "class_type": "Assassin",
@@ -1596,7 +1596,7 @@
     ]
   },
   {
-    "id": 47,
+    "id_num": 47,
     "name": "Heracles",
     "rarity": 4,
     "class_type": "Berserker",
@@ -1642,7 +1642,7 @@
     ]
   },
   {
-    "id": 48,
+    "id_num": 48,
     "name": "Lancelot",
     "rarity": 4,
     "class_type": "Berserker",
@@ -1681,7 +1681,7 @@
     ]
   },
   {
-    "id": 49,
+    "id_num": 49,
     "name": "Lu Bu Fengxian",
     "rarity": 3,
     "class_type": "Berserker",
@@ -1714,7 +1714,7 @@
     ]
   },
   {
-    "id": 50,
+    "id_num": 50,
     "name": "Spartacus",
     "rarity": 1,
     "class_type": "Berserker",
@@ -1722,7 +1722,7 @@
     "na_rateups": []
   },
   {
-    "id": 51,
+    "id_num": 51,
     "name": "Sakata Kintoki",
     "rarity": 5,
     "class_type": "Berserker",
@@ -1755,7 +1755,7 @@
     ]
   },
   {
-    "id": 52,
+    "id_num": 52,
     "name": "Vlad III",
     "rarity": 5,
     "class_type": "Berserker",
@@ -1812,7 +1812,7 @@
     ]
   },
   {
-    "id": 53,
+    "id_num": 53,
     "name": "Asterios",
     "rarity": 1,
     "class_type": "Berserker",
@@ -1820,7 +1820,7 @@
     "na_rateups": []
   },
   {
-    "id": 54,
+    "id_num": 54,
     "name": "Caligula",
     "rarity": 2,
     "class_type": "Berserker",
@@ -1828,7 +1828,7 @@
     "na_rateups": []
   },
   {
-    "id": 55,
+    "id_num": 55,
     "name": "Darius III",
     "rarity": 3,
     "class_type": "Berserker",
@@ -1865,7 +1865,7 @@
     ]
   },
   {
-    "id": 56,
+    "id_num": 56,
     "name": "Kiyohime",
     "rarity": 3,
     "class_type": "Berserker",
@@ -1914,7 +1914,7 @@
     ]
   },
   {
-    "id": 57,
+    "id_num": 57,
     "name": "Eric Bloodaxe",
     "rarity": 2,
     "class_type": "Berserker",
@@ -1922,7 +1922,7 @@
     "na_rateups": []
   },
   {
-    "id": 58,
+    "id_num": 58,
     "name": "Tamamo Cat",
     "rarity": 4,
     "class_type": "Berserker",
@@ -1964,7 +1964,7 @@
     ]
   },
   {
-    "id": 59,
+    "id_num": 59,
     "name": "Jeanne d'Arc",
     "rarity": 5,
     "class_type": "Ruler",
@@ -2026,7 +2026,7 @@
     ]
   },
   {
-    "id": 60,
+    "id_num": 60,
     "name": "Orion",
     "rarity": 5,
     "class_type": "Archer",
@@ -2076,7 +2076,7 @@
     ]
   },
   {
-    "id": 61,
+    "id_num": 61,
     "name": "Elizabeth Báthory (Halloween)",
     "rarity": 4,
     "class_type": "Caster",
@@ -2084,7 +2084,7 @@
     "na_rateups": []
   },
   {
-    "id": 62,
+    "id_num": 62,
     "name": "Tamamo no Mae",
     "rarity": 5,
     "class_type": "Caster",
@@ -2141,7 +2141,7 @@
     ]
   },
   {
-    "id": 63,
+    "id_num": 63,
     "name": "David",
     "rarity": 3,
     "class_type": "Archer",
@@ -2184,7 +2184,7 @@
     ]
   },
   {
-    "id": 64,
+    "id_num": 64,
     "name": "Hector",
     "rarity": 3,
     "class_type": "Lancer",
@@ -2231,7 +2231,7 @@
     ]
   },
   {
-    "id": 65,
+    "id_num": 65,
     "name": "Francis Drake",
     "rarity": 5,
     "class_type": "Rider",
@@ -2293,7 +2293,7 @@
     ]
   },
   {
-    "id": 66,
+    "id_num": 66,
     "name": "Anne Bonny & Mary Read",
     "rarity": 4,
     "class_type": "Rider",
@@ -2330,7 +2330,7 @@
     ]
   },
   {
-    "id": 67,
+    "id_num": 67,
     "name": "Medea (Lily)",
     "rarity": 4,
     "class_type": "Caster",
@@ -2377,7 +2377,7 @@
     ]
   },
   {
-    "id": 68,
+    "id_num": 68,
     "name": "Okita Sōji",
     "rarity": 5,
     "class_type": "Saber",
@@ -2403,7 +2403,7 @@
     ]
   },
   {
-    "id": 69,
+    "id_num": 69,
     "name": "Oda Nobunaga",
     "rarity": 4,
     "class_type": "Archer",
@@ -2411,7 +2411,7 @@
     "na_rateups": []
   },
   {
-    "id": 70,
+    "id_num": 70,
     "name": "Scáthach",
     "rarity": 5,
     "class_type": "Lancer",
@@ -2442,7 +2442,7 @@
     ]
   },
   {
-    "id": 71,
+    "id_num": 71,
     "name": "Diarmuid Ua Duibhne",
     "rarity": 3,
     "class_type": "Lancer",
@@ -2473,7 +2473,7 @@
     ]
   },
   {
-    "id": 72,
+    "id_num": 72,
     "name": "Fergus mac Róich",
     "rarity": 3,
     "class_type": "Saber",
@@ -2502,7 +2502,7 @@
     ]
   },
   {
-    "id": 73,
+    "id_num": 73,
     "name": "Artoria Pendragon (Santa Alter)",
     "rarity": 4,
     "class_type": "Rider",
@@ -2510,7 +2510,7 @@
     "na_rateups": []
   },
   {
-    "id": 74,
+    "id_num": 74,
     "name": "Nursery Rhyme",
     "rarity": 4,
     "class_type": "Caster",
@@ -2566,7 +2566,7 @@
     ]
   },
   {
-    "id": 75,
+    "id_num": 75,
     "name": "Jack the Ripper",
     "rarity": 5,
     "class_type": "Assassin",
@@ -2620,7 +2620,7 @@
     ]
   },
   {
-    "id": 76,
+    "id_num": 76,
     "name": "Mordred",
     "rarity": 5,
     "class_type": "Saber",
@@ -2689,7 +2689,7 @@
     ]
   },
   {
-    "id": 77,
+    "id_num": 77,
     "name": "Nikola Tesla",
     "rarity": 5,
     "class_type": "Archer",
@@ -2751,7 +2751,7 @@
     ]
   },
   {
-    "id": 78,
+    "id_num": 78,
     "name": "Artoria Pendragon (Lancer Alter)",
     "rarity": 4,
     "class_type": "Lancer",
@@ -2799,7 +2799,7 @@
     ]
   },
   {
-    "id": 79,
+    "id_num": 79,
     "name": "Paracelsus von Hohenheim",
     "rarity": 3,
     "class_type": "Caster",
@@ -2845,7 +2845,7 @@
     ]
   },
   {
-    "id": 80,
+    "id_num": 80,
     "name": "Charles Babbage",
     "rarity": 3,
     "class_type": "Caster",
@@ -2892,7 +2892,7 @@
     ]
   },
   {
-    "id": 81,
+    "id_num": 81,
     "name": "Henry Jekyll & Hyde",
     "rarity": 3,
     "class_type": "Assassin",
@@ -2932,7 +2932,7 @@
     ]
   },
   {
-    "id": 82,
+    "id_num": 82,
     "name": "Frankenstein",
     "rarity": 4,
     "class_type": "Berserker",
@@ -2975,7 +2975,7 @@
     ]
   },
   {
-    "id": 83,
+    "id_num": 83,
     "name": "Solomon (Enemy)",
     "rarity": 5,
     "class_type": "Grand Caster",
@@ -2983,7 +2983,7 @@
     "na_rateups": []
   },
   {
-    "id": 84,
+    "id_num": 84,
     "name": "Arjuna",
     "rarity": 5,
     "class_type": "Archer",
@@ -3039,7 +3039,7 @@
     ]
   },
   {
-    "id": 85,
+    "id_num": 85,
     "name": "Karna",
     "rarity": 5,
     "class_type": "Lancer",
@@ -3101,7 +3101,7 @@
     ]
   },
   {
-    "id": 86,
+    "id_num": 86,
     "name": "Mysterious Heroine X",
     "rarity": 5,
     "class_type": "Assassin",
@@ -3124,7 +3124,7 @@
     ]
   },
   {
-    "id": 87,
+    "id_num": 87,
     "name": "Fionn mac Cumhaill",
     "rarity": 4,
     "class_type": "Lancer",
@@ -3162,7 +3162,7 @@
     ]
   },
   {
-    "id": 88,
+    "id_num": 88,
     "name": "Brynhildr",
     "rarity": 5,
     "class_type": "Lancer",
@@ -3184,7 +3184,7 @@
     ]
   },
   {
-    "id": 89,
+    "id_num": 89,
     "name": "Beowulf",
     "rarity": 4,
     "class_type": "Berserker",
@@ -3215,7 +3215,7 @@
     ]
   },
   {
-    "id": 90,
+    "id_num": 90,
     "name": "Nero Claudius (Bride)",
     "rarity": 5,
     "class_type": "Saber",
@@ -3241,7 +3241,7 @@
     ]
   },
   {
-    "id": 91,
+    "id_num": 91,
     "name": "Ryōgi Shiki (Saber)",
     "rarity": 5,
     "class_type": "Saber",
@@ -3262,7 +3262,7 @@
     ]
   },
   {
-    "id": 92,
+    "id_num": 92,
     "name": "Ryōgi Shiki (Assassin)",
     "rarity": 4,
     "class_type": "Assassin",
@@ -3270,7 +3270,7 @@
     "na_rateups": []
   },
   {
-    "id": 93,
+    "id_num": 93,
     "name": "Amakusa Shirō",
     "rarity": 5,
     "class_type": "Ruler",
@@ -3300,7 +3300,7 @@
     ]
   },
   {
-    "id": 94,
+    "id_num": 94,
     "name": "Astolfo",
     "rarity": 4,
     "class_type": "Rider",
@@ -3344,7 +3344,7 @@
     ]
   },
   {
-    "id": 95,
+    "id_num": 95,
     "name": "Kid Gil",
     "rarity": 3,
     "class_type": "Archer",
@@ -3375,7 +3375,7 @@
     ]
   },
   {
-    "id": 96,
+    "id_num": 96,
     "name": "Edmond Dantès",
     "rarity": 5,
     "class_type": "Avenger",
@@ -3397,7 +3397,7 @@
     ]
   },
   {
-    "id": 97,
+    "id_num": 97,
     "name": "Nightingale",
     "rarity": 5,
     "class_type": "Berserker",
@@ -3449,7 +3449,7 @@
     ]
   },
   {
-    "id": 98,
+    "id_num": 98,
     "name": "Cú Chulainn (Alter)",
     "rarity": 5,
     "class_type": "Berserker",
@@ -3505,7 +3505,7 @@
     ]
   },
   {
-    "id": 99,
+    "id_num": 99,
     "name": "Queen Medb",
     "rarity": 5,
     "class_type": "Rider",
@@ -3566,7 +3566,7 @@
     ]
   },
   {
-    "id": 100,
+    "id_num": 100,
     "name": "Helena Blavatsky",
     "rarity": 4,
     "class_type": "Caster",
@@ -3610,7 +3610,7 @@
     ]
   },
   {
-    "id": 101,
+    "id_num": 101,
     "name": "Rama",
     "rarity": 4,
     "class_type": "Saber",
@@ -3648,7 +3648,7 @@
     ]
   },
   {
-    "id": 102,
+    "id_num": 102,
     "name": "Li Shuwen (Lancer)",
     "rarity": 4,
     "class_type": "Lancer",
@@ -3692,7 +3692,7 @@
     ]
   },
   {
-    "id": 103,
+    "id_num": 103,
     "name": "Thomas Edison",
     "rarity": 4,
     "class_type": "Caster",
@@ -3737,7 +3737,7 @@
     ]
   },
   {
-    "id": 104,
+    "id_num": 104,
     "name": "Geronimo",
     "rarity": 3,
     "class_type": "Caster",
@@ -3773,7 +3773,7 @@
     ]
   },
   {
-    "id": 105,
+    "id_num": 105,
     "name": "Billy the Kid",
     "rarity": 3,
     "class_type": "Archer",
@@ -3806,7 +3806,7 @@
     ]
   },
   {
-    "id": 106,
+    "id_num": 106,
     "name": "Jeanne d'Arc (Alter)",
     "rarity": 5,
     "class_type": "Avenger",
@@ -3833,7 +3833,7 @@
     ]
   },
   {
-    "id": 107,
+    "id_num": 107,
     "name": "Angra Mainyu",
     "rarity": 0,
     "class_type": "Avenger",
@@ -3841,7 +3841,7 @@
     "na_rateups": []
   },
   {
-    "id": 108,
+    "id_num": 108,
     "name": "Iskandar",
     "rarity": 5,
     "class_type": "Rider",
@@ -3862,7 +3862,7 @@
     ]
   },
   {
-    "id": 109,
+    "id_num": 109,
     "name": "EMIYA (Assassin)",
     "rarity": 4,
     "class_type": "Assassin",
@@ -3897,7 +3897,7 @@
     ]
   },
   {
-    "id": 110,
+    "id_num": 110,
     "name": "Hassan of the Hundred Faces",
     "rarity": 3,
     "class_type": "Assassin",
@@ -3927,7 +3927,7 @@
     ]
   },
   {
-    "id": 111,
+    "id_num": 111,
     "name": "Irisviel (Dress of Heaven)",
     "rarity": 4,
     "class_type": "Caster",
@@ -3935,7 +3935,7 @@
     "na_rateups": []
   },
   {
-    "id": 112,
+    "id_num": 112,
     "name": "Shuten Dōji",
     "rarity": 5,
     "class_type": "Assassin",
@@ -3964,7 +3964,7 @@
     ]
   },
   {
-    "id": 113,
+    "id_num": 113,
     "name": "Xuanzang Sanzang",
     "rarity": 5,
     "class_type": "Caster",
@@ -4011,7 +4011,7 @@
     ]
   },
   {
-    "id": 114,
+    "id_num": 114,
     "name": "Minamoto no Raikō",
     "rarity": 5,
     "class_type": "Berserker",
@@ -4039,7 +4039,7 @@
     ]
   },
   {
-    "id": 115,
+    "id_num": 115,
     "name": "Sakata Kintoki (Rider)",
     "rarity": 4,
     "class_type": "Rider",
@@ -4047,7 +4047,7 @@
     "na_rateups": []
   },
   {
-    "id": 116,
+    "id_num": 116,
     "name": "Ibaraki Dōji",
     "rarity": 4,
     "class_type": "Berserker",
@@ -4088,7 +4088,7 @@
     ]
   },
   {
-    "id": 117,
+    "id_num": 117,
     "name": "Fūma Kotarō",
     "rarity": 3,
     "class_type": "Assassin",
@@ -4127,7 +4127,7 @@
     ]
   },
   {
-    "id": 118,
+    "id_num": 118,
     "name": "Ozymandias",
     "rarity": 5,
     "class_type": "Rider",
@@ -4188,7 +4188,7 @@
     ]
   },
   {
-    "id": 119,
+    "id_num": 119,
     "name": "Artoria Pendragon (Lancer)",
     "rarity": 5,
     "class_type": "Lancer",
@@ -4241,7 +4241,7 @@
     ]
   },
   {
-    "id": 120,
+    "id_num": 120,
     "name": "Nitocris",
     "rarity": 4,
     "class_type": "Caster",
@@ -4282,7 +4282,7 @@
     ]
   },
   {
-    "id": 121,
+    "id_num": 121,
     "name": "Lancelot (Saber)",
     "rarity": 4,
     "class_type": "Saber",
@@ -4328,7 +4328,7 @@
     ]
   },
   {
-    "id": 122,
+    "id_num": 122,
     "name": "Tristan",
     "rarity": 4,
     "class_type": "Archer",
@@ -4377,7 +4377,7 @@
     ]
   },
   {
-    "id": 123,
+    "id_num": 123,
     "name": "Gawain",
     "rarity": 4,
     "class_type": "Saber",
@@ -4430,7 +4430,7 @@
     ]
   },
   {
-    "id": 124,
+    "id_num": 124,
     "name": "Hassan of the Serenity",
     "rarity": 3,
     "class_type": "Assassin",
@@ -4469,7 +4469,7 @@
     ]
   },
   {
-    "id": 125,
+    "id_num": 125,
     "name": "Tawara Tōta",
     "rarity": 3,
     "class_type": "Archer",
@@ -4507,7 +4507,7 @@
     ]
   },
   {
-    "id": 126,
+    "id_num": 126,
     "name": "Bedivere",
     "rarity": 3,
     "class_type": "Saber",
@@ -4547,7 +4547,7 @@
     ]
   },
   {
-    "id": 127,
+    "id_num": 127,
     "name": "Leonardo Da Vinci",
     "rarity": 5,
     "class_type": "Caster",
@@ -4579,7 +4579,7 @@
     ]
   },
   {
-    "id": 128,
+    "id_num": 128,
     "name": "Tamamo no Mae (Lancer)",
     "rarity": 5,
     "class_type": "Lancer",
@@ -4600,7 +4600,7 @@
     ]
   },
   {
-    "id": 129,
+    "id_num": 129,
     "name": "Artoria Pendragon (Archer)",
     "rarity": 5,
     "class_type": "Archer",
@@ -4619,7 +4619,7 @@
     ]
   },
   {
-    "id": 130,
+    "id_num": 130,
     "name": "Marie Antoinette (Caster)",
     "rarity": 4,
     "class_type": "Caster",
@@ -4639,7 +4639,7 @@
     ]
   },
   {
-    "id": 131,
+    "id_num": 131,
     "name": "Anne Bonny & Mary Read (Archer)",
     "rarity": 4,
     "class_type": "Archer",
@@ -4658,7 +4658,7 @@
     ]
   },
   {
-    "id": 132,
+    "id_num": 132,
     "name": "Mordred (Rider)",
     "rarity": 4,
     "class_type": "Rider",
@@ -4680,7 +4680,7 @@
     ]
   },
   {
-    "id": 133,
+    "id_num": 133,
     "name": "Scáthach (Assassin)",
     "rarity": 4,
     "class_type": "Assassin",
@@ -4688,7 +4688,7 @@
     "na_rateups": []
   },
   {
-    "id": 134,
+    "id_num": 134,
     "name": "Kiyohime (Lancer)",
     "rarity": 4,
     "class_type": "Lancer",
@@ -4708,7 +4708,7 @@
     ]
   },
   {
-    "id": 135,
+    "id_num": 135,
     "name": "Martha (Ruler)",
     "rarity": 4,
     "class_type": "Ruler",
@@ -4732,7 +4732,7 @@
     ]
   },
   {
-    "id": 136,
+    "id_num": 136,
     "name": "Illyasviel von Einzbern",
     "rarity": 5,
     "class_type": "Caster",
@@ -4758,7 +4758,7 @@
     ]
   },
   {
-    "id": 137,
+    "id_num": 137,
     "name": "Chloe von Einzbern",
     "rarity": 4,
     "class_type": "Archer",
@@ -4766,7 +4766,7 @@
     "na_rateups": []
   },
   {
-    "id": 138,
+    "id_num": 138,
     "name": "Elizabeth Báthory (Brave)",
     "rarity": 4,
     "class_type": "Saber",
@@ -4774,7 +4774,7 @@
     "na_rateups": []
   },
   {
-    "id": 139,
+    "id_num": 139,
     "name": "Cleopatra",
     "rarity": 5,
     "class_type": "Assassin",
@@ -4798,7 +4798,7 @@
     ]
   },
   {
-    "id": 140,
+    "id_num": 140,
     "name": "Vlad III (EXTRA)",
     "rarity": 4,
     "class_type": "Lancer",
@@ -4827,7 +4827,7 @@
     ]
   },
   {
-    "id": 141,
+    "id_num": 141,
     "name": "Jeanne d'Arc Alter Santa Lily",
     "rarity": 4,
     "class_type": "Lancer",
@@ -4835,7 +4835,7 @@
     "na_rateups": []
   },
   {
-    "id": 142,
+    "id_num": 142,
     "name": "Ishtar",
     "rarity": 5,
     "class_type": "Archer",
@@ -4860,7 +4860,7 @@
     ]
   },
   {
-    "id": 143,
+    "id_num": 143,
     "name": "Enkidu",
     "rarity": 5,
     "class_type": "Lancer",
@@ -4915,7 +4915,7 @@
     ]
   },
   {
-    "id": 144,
+    "id_num": 144,
     "name": "Quetzalcoatl",
     "rarity": 5,
     "class_type": "Rider",
@@ -4964,7 +4964,7 @@
     ]
   },
   {
-    "id": 145,
+    "id_num": 145,
     "name": "Gilgamesh (Caster)",
     "rarity": 4,
     "class_type": "Caster",
@@ -5011,7 +5011,7 @@
     ]
   },
   {
-    "id": 146,
+    "id_num": 146,
     "name": "Medusa (Lancer)",
     "rarity": 4,
     "class_type": "Lancer",
@@ -5051,7 +5051,7 @@
     ]
   },
   {
-    "id": 147,
+    "id_num": 147,
     "name": "Gorgon",
     "rarity": 4,
     "class_type": "Avenger",
@@ -5087,7 +5087,7 @@
     ]
   },
   {
-    "id": 148,
+    "id_num": 148,
     "name": "Jaguar Man",
     "rarity": 3,
     "class_type": "Lancer",
@@ -5125,7 +5125,7 @@
     ]
   },
   {
-    "id": 149,
+    "id_num": 149,
     "name": "Tiamat",
     "rarity": 5,
     "class_type": "Beast II",
@@ -5133,7 +5133,7 @@
     "na_rateups": []
   },
   {
-    "id": 150,
+    "id_num": 150,
     "name": "Merlin",
     "rarity": 5,
     "class_type": "Caster",
@@ -5155,7 +5155,7 @@
     ]
   },
   {
-    "id": 151,
+    "id_num": 151,
     "name": "Goetia",
     "rarity": 5,
     "class_type": "Beast I",
@@ -5163,7 +5163,7 @@
     "na_rateups": []
   },
   {
-    "id": 152,
+    "id_num": 152,
     "name": "Solomon",
     "rarity": 5,
     "class_type": "Caster",
@@ -5171,7 +5171,7 @@
     "na_rateups": []
   },
   {
-    "id": 153,
+    "id_num": 153,
     "name": "Miyamoto Musashi",
     "rarity": 5,
     "class_type": "Saber",
@@ -5194,7 +5194,7 @@
     ]
   },
   {
-    "id": 154,
+    "id_num": 154,
     "name": "\"The Old Man of the Mountain\"",
     "rarity": 5,
     "class_type": "Assassin",
@@ -5214,7 +5214,7 @@
     ]
   },
   {
-    "id": 155,
+    "id_num": 155,
     "name": "Mysterious Heroine X (Alter)",
     "rarity": 5,
     "class_type": "Berserker",
@@ -5240,7 +5240,7 @@
     ]
   },
   {
-    "id": 156,
+    "id_num": 156,
     "name": "James Moriarty",
     "rarity": 5,
     "class_type": "Archer",
@@ -5266,7 +5266,7 @@
     ]
   },
   {
-    "id": 157,
+    "id_num": 157,
     "name": "EMIYA (Alter)",
     "rarity": 4,
     "class_type": "Archer",
@@ -5307,7 +5307,7 @@
     ]
   },
   {
-    "id": 158,
+    "id_num": 158,
     "name": "Hessian Lobo",
     "rarity": 4,
     "class_type": "Avenger",
@@ -5342,7 +5342,7 @@
     ]
   },
   {
-    "id": 159,
+    "id_num": 159,
     "name": "Yan Qing",
     "rarity": 4,
     "class_type": "Assassin",
@@ -5389,7 +5389,7 @@
     ]
   },
   {
-    "id": 160,
+    "id_num": 160,
     "name": "Arthur Pendragon (Prototype)",
     "rarity": 5,
     "class_type": "Saber",
@@ -5410,7 +5410,7 @@
     ]
   },
   {
-    "id": 161,
+    "id_num": 161,
     "name": "Hijikata Toshizō",
     "rarity": 5,
     "class_type": "Berserker",
@@ -5434,7 +5434,7 @@
     ]
   },
   {
-    "id": 162,
+    "id_num": 162,
     "name": "Chacha",
     "rarity": 4,
     "class_type": "Berserker",
@@ -5442,7 +5442,7 @@
     "na_rateups": []
   },
   {
-    "id": 163,
+    "id_num": 163,
     "name": "Meltryllis",
     "rarity": 5,
     "class_type": "Alter Ego",
@@ -5462,7 +5462,7 @@
     ]
   },
   {
-    "id": 164,
+    "id_num": 164,
     "name": "Passionlip",
     "rarity": 4,
     "class_type": "Alter Ego",
@@ -5482,7 +5482,7 @@
     ]
   },
   {
-    "id": 165,
+    "id_num": 165,
     "name": "Suzuka Gozen",
     "rarity": 4,
     "class_type": "Saber",
@@ -5516,7 +5516,7 @@
     ]
   },
   {
-    "id": 166,
+    "id_num": 166,
     "name": "BB",
     "rarity": 4,
     "class_type": "Moon Cancer",
@@ -5524,7 +5524,7 @@
     "na_rateups": []
   },
   {
-    "id": 167,
+    "id_num": 167,
     "name": "Sesshōin Kiara",
     "rarity": 5,
     "class_type": "Alter Ego",
@@ -5546,7 +5546,7 @@
     ]
   },
   {
-    "id": 168,
+    "id_num": 168,
     "name": "Beast III/R",
     "rarity": 5,
     "class_type": "Beast III",
@@ -5554,7 +5554,7 @@
     "na_rateups": []
   },
   {
-    "id": 169,
+    "id_num": 169,
     "name": "Scheherazade",
     "rarity": 5,
     "class_type": "Caster",
@@ -5598,7 +5598,7 @@
     ]
   },
   {
-    "id": 170,
+    "id_num": 170,
     "name": "Wu Zetian",
     "rarity": 4,
     "class_type": "Assassin",
@@ -5636,7 +5636,7 @@
     ]
   },
   {
-    "id": 171,
+    "id_num": 171,
     "name": "Penthesilea",
     "rarity": 4,
     "class_type": "Berserker",
@@ -5671,7 +5671,7 @@
     ]
   },
   {
-    "id": 172,
+    "id_num": 172,
     "name": "Christopher Columbus",
     "rarity": 3,
     "class_type": "Rider",
@@ -5696,7 +5696,7 @@
     ]
   },
   {
-    "id": 173,
+    "id_num": 173,
     "name": "Sherlock Holmes",
     "rarity": 5,
     "class_type": "Ruler",
@@ -5717,7 +5717,7 @@
     ]
   },
   {
-    "id": 174,
+    "id_num": 174,
     "name": "Paul Bunyan",
     "rarity": 1,
     "class_type": "Berserker",
@@ -5725,7 +5725,7 @@
     "na_rateups": []
   },
   {
-    "id": 175,
+    "id_num": 175,
     "name": "Nero Claudius (Caster)",
     "rarity": 5,
     "class_type": "Caster",
@@ -5749,7 +5749,7 @@
     ]
   },
   {
-    "id": 176,
+    "id_num": 176,
     "name": "Frankenstein (Saber)",
     "rarity": 4,
     "class_type": "Saber",
@@ -5769,7 +5769,7 @@
     ]
   },
   {
-    "id": 177,
+    "id_num": 177,
     "name": "Nitocris (Assassin)",
     "rarity": 4,
     "class_type": "Assassin",
@@ -5788,7 +5788,7 @@
     ]
   },
   {
-    "id": 178,
+    "id_num": 178,
     "name": "Oda Nobunaga (Berserker)",
     "rarity": 4,
     "class_type": "Berserker",
@@ -5811,7 +5811,7 @@
     ]
   },
   {
-    "id": 179,
+    "id_num": 179,
     "name": "Artoria Pendragon (Rider Alter)",
     "rarity": 5,
     "class_type": "Rider",
@@ -5830,7 +5830,7 @@
     ]
   },
   {
-    "id": 180,
+    "id_num": 180,
     "name": "Helena Blavatsky (Archer)",
     "rarity": 4,
     "class_type": "Archer",
@@ -5849,7 +5849,7 @@
     ]
   },
   {
-    "id": 181,
+    "id_num": 181,
     "name": "Minamoto no Raikō (Lancer)",
     "rarity": 4,
     "class_type": "Lancer",
@@ -5870,7 +5870,7 @@
     ]
   },
   {
-    "id": 182,
+    "id_num": 182,
     "name": "Ishtar (Rider)",
     "rarity": 4,
     "class_type": "Rider",
@@ -5878,7 +5878,7 @@
     "na_rateups": []
   },
   {
-    "id": 183,
+    "id_num": 183,
     "name": "Parvati",
     "rarity": 4,
     "class_type": "Lancer",
@@ -5908,7 +5908,7 @@
     ]
   },
   {
-    "id": 184,
+    "id_num": 184,
     "name": "Tomoe Gozen",
     "rarity": 4,
     "class_type": "Archer",
@@ -5936,7 +5936,7 @@
     ]
   },
   {
-    "id": 185,
+    "id_num": 185,
     "name": "Mochizuki Chiyome",
     "rarity": 4,
     "class_type": "Assassin",
@@ -5966,7 +5966,7 @@
     ]
   },
   {
-    "id": 186,
+    "id_num": 186,
     "name": "Hōzōin Inshun",
     "rarity": 3,
     "class_type": "Lancer",
@@ -5993,7 +5993,7 @@
     ]
   },
   {
-    "id": 187,
+    "id_num": 187,
     "name": "Yagyū Munenori",
     "rarity": 4,
     "class_type": "Saber",
@@ -6028,7 +6028,7 @@
     ]
   },
   {
-    "id": 188,
+    "id_num": 188,
     "name": "Katō Danzō",
     "rarity": 4,
     "class_type": "Assassin",
@@ -6058,7 +6058,7 @@
     ]
   },
   {
-    "id": 189,
+    "id_num": 189,
     "name": "Osakabehime",
     "rarity": 5,
     "class_type": "Assassin",
@@ -6102,7 +6102,7 @@
     ]
   },
   {
-    "id": 190,
+    "id_num": 190,
     "name": "Mecha Eli-chan",
     "rarity": 4,
     "class_type": "Alter Ego",
@@ -6110,7 +6110,7 @@
     "na_rateups": []
   },
   {
-    "id": 191,
+    "id_num": 191,
     "name": "Mecha Eli-chan Mk.II",
     "rarity": 4,
     "class_type": "Alter Ego",
@@ -6118,7 +6118,7 @@
     "na_rateups": []
   },
   {
-    "id": 192,
+    "id_num": 192,
     "name": "Circe",
     "rarity": 4,
     "class_type": "Caster",
@@ -6154,7 +6154,7 @@
     ]
   },
   {
-    "id": 193,
+    "id_num": 193,
     "name": "Nezha",
     "rarity": 4,
     "class_type": "Lancer",
@@ -6184,7 +6184,7 @@
     ]
   },
   {
-    "id": 194,
+    "id_num": 194,
     "name": "Queen of Sheba",
     "rarity": 4,
     "class_type": "Caster",
@@ -6213,7 +6213,7 @@
     ]
   },
   {
-    "id": 195,
+    "id_num": 195,
     "name": "Abigail Williams",
     "rarity": 5,
     "class_type": "Foreigner",
@@ -6232,7 +6232,7 @@
     ]
   },
   {
-    "id": 196,
+    "id_num": 196,
     "name": "Ereshkigal",
     "rarity": 5,
     "class_type": "Lancer",
@@ -6254,7 +6254,7 @@
     ]
   },
   {
-    "id": 197,
+    "id_num": 197,
     "name": "Altera the San(ta)",
     "rarity": 4,
     "class_type": "Archer",
@@ -6262,7 +6262,7 @@
     "na_rateups": []
   },
   {
-    "id": 198,
+    "id_num": 198,
     "name": "Katsushika Hokusai",
     "rarity": 5,
     "class_type": "Foreigner",
@@ -6283,7 +6283,7 @@
     ]
   },
   {
-    "id": 199,
+    "id_num": 199,
     "name": "Semiramis",
     "rarity": 5,
     "class_type": "Assassin",
@@ -6308,7 +6308,7 @@
     ]
   },
   {
-    "id": 200,
+    "id_num": 200,
     "name": "Asagami Fujino",
     "rarity": 4,
     "class_type": "Archer",
@@ -6325,7 +6325,7 @@
     ]
   },
   {
-    "id": 201,
+    "id_num": 201,
     "name": "Anastasia",
     "rarity": 5,
     "class_type": "caster",
@@ -6364,7 +6364,7 @@
     ]
   },
   {
-    "id": 202,
+    "id_num": 202,
     "name": "Atalanta (Alter)",
     "rarity": 4,
     "class_type": "Berserker",
@@ -6395,7 +6395,7 @@
     ]
   },
   {
-    "id": 203,
+    "id_num": 203,
     "name": "Avicebron",
     "rarity": 3,
     "class_type": "Caster",
@@ -6427,7 +6427,7 @@
     ]
   },
   {
-    "id": 204,
+    "id_num": 204,
     "name": "Antonio Salieri",
     "rarity": 3,
     "class_type": "Avenger",
@@ -6457,7 +6457,7 @@
     ]
   },
   {
-    "id": 205,
+    "id_num": 205,
     "name": "Ivan the Terrible",
     "rarity": 5,
     "class_type": "Rider",
@@ -6474,7 +6474,7 @@
     ]
   },
   {
-    "id": 206,
+    "id_num": 206,
     "name": "Achilles",
     "rarity": 5,
     "class_type": "Rider",
@@ -6512,7 +6512,7 @@
     ]
   },
   {
-    "id": 207,
+    "id_num": 207,
     "name": "Chiron",
     "rarity": 4,
     "class_type": "Archer",
@@ -6536,7 +6536,7 @@
     ]
   },
   {
-    "id": 208,
+    "id_num": 208,
     "name": "Sieg",
     "rarity": 4,
     "class_type": "Caster",
@@ -6544,7 +6544,7 @@
     "na_rateups": []
   },
   {
-    "id": 209,
+    "id_num": 209,
     "name": "Okita Sōji (Alter)",
     "rarity": 5,
     "class_type": "Alter Ego",
@@ -6564,7 +6564,7 @@
     ]
   },
   {
-    "id": 210,
+    "id_num": 210,
     "name": "Okada Izō",
     "rarity": 3,
     "class_type": "Assassin",
@@ -6592,7 +6592,7 @@
     ]
   },
   {
-    "id": 211,
+    "id_num": 211,
     "name": "Sakamoto Ryōma",
     "rarity": 4,
     "class_type": "Rider",
@@ -6600,7 +6600,7 @@
     "na_rateups": []
   },
   {
-    "id": 212,
+    "id_num": 212,
     "name": "Napoléon",
     "rarity": 5,
     "class_type": "Archer",
@@ -6643,7 +6643,7 @@
     ]
   },
   {
-    "id": 213,
+    "id_num": 213,
     "name": "Sigurd",
     "rarity": 5,
     "class_type": "Saber",
@@ -6664,7 +6664,7 @@
     ]
   },
   {
-    "id": 214,
+    "id_num": 214,
     "name": "Valkyrie",
     "rarity": 4,
     "class_type": "Lancer",
@@ -6692,7 +6692,7 @@
     ]
   },
   {
-    "id": 215,
+    "id_num": 215,
     "name": "Scáthach-Skaði",
     "rarity": 5,
     "class_type": "Caster",
@@ -6711,7 +6711,7 @@
     ]
   },
   {
-    "id": 216,
+    "id_num": 216,
     "name": "Jeanne d'Arc (Archer)",
     "rarity": 5,
     "class_type": "Archer",
@@ -6732,7 +6732,7 @@
     ]
   },
   {
-    "id": 217,
+    "id_num": 217,
     "name": "Ibaraki Dōji (Lancer)",
     "rarity": 4,
     "class_type": "Lancer",
@@ -6751,7 +6751,7 @@
     ]
   },
   {
-    "id": 218,
+    "id_num": 218,
     "name": "Ushiwakamaru (Assassin)",
     "rarity": 4,
     "class_type": "Assassin",
@@ -6769,7 +6769,7 @@
     ]
   },
   {
-    "id": 219,
+    "id_num": 219,
     "name": "Jeanne d'Arc (Berserker Alter)",
     "rarity": 4,
     "class_type": "Berserker",
@@ -6777,7 +6777,7 @@
     "na_rateups": []
   },
   {
-    "id": 220,
+    "id_num": 220,
     "name": "BB (Summer)",
     "rarity": 5,
     "class_type": "Moon Cancer",
@@ -6800,7 +6800,7 @@
     ]
   },
   {
-    "id": 221,
+    "id_num": 221,
     "name": "Queen Medb (Saber)",
     "rarity": 4,
     "class_type": "Saber",
@@ -6817,7 +6817,7 @@
     ]
   },
   {
-    "id": 222,
+    "id_num": 222,
     "name": "Mysterious Heroine XX",
     "rarity": 4,
     "class_type": "Foreigner",
@@ -6837,7 +6837,7 @@
     ]
   },
   {
-    "id": 223,
+    "id_num": 223,
     "name": "Diarmuid Ua Duibhne (Saber)",
     "rarity": 4,
     "class_type": "Saber",
@@ -6861,7 +6861,7 @@
     ]
   },
   {
-    "id": 224,
+    "id_num": 224,
     "name": "Sitonai",
     "rarity": 5,
     "class_type": "Alter Ego",
@@ -6898,7 +6898,7 @@
     ]
   },
   {
-    "id": 225,
+    "id_num": 225,
     "name": "Shuten Dōji (Caster)",
     "rarity": 4,
     "class_type": "Caster",
@@ -6906,7 +6906,7 @@
     "na_rateups": []
   },
   {
-    "id": 226,
+    "id_num": 226,
     "name": "Xiang Yu",
     "rarity": 5,
     "class_type": "Berserker",
@@ -6947,7 +6947,7 @@
     ]
   },
   {
-    "id": 227,
+    "id_num": 227,
     "name": "Lanling Wang",
     "rarity": 4,
     "class_type": "Saber",
@@ -6982,7 +6982,7 @@
     ]
   },
   {
-    "id": 228,
+    "id_num": 228,
     "name": "Qin Liangyu",
     "rarity": 4,
     "class_type": "Lancer",
@@ -7008,7 +7008,7 @@
     ]
   },
   {
-    "id": 229,
+    "id_num": 229,
     "name": "Shi Huang Di",
     "rarity": 5,
     "class_type": "Ruler",
@@ -7026,7 +7026,7 @@
     ]
   },
   {
-    "id": 230,
+    "id_num": 230,
     "name": "Consort Yu",
     "rarity": 4,
     "class_type": "Assassin",
@@ -7053,7 +7053,7 @@
     ]
   },
   {
-    "id": 231,
+    "id_num": 231,
     "name": "Red Hare",
     "rarity": 3,
     "class_type": "Rider",
@@ -7082,7 +7082,7 @@
     ]
   },
   {
-    "id": 232,
+    "id_num": 232,
     "name": "Bradamante",
     "rarity": 5,
     "class_type": "Lancer",
@@ -7116,7 +7116,7 @@
     ]
   },
   {
-    "id": 233,
+    "id_num": 233,
     "name": "Quetzalcoatl (Samba/Santa)",
     "rarity": 4,
     "class_type": "Ruler",
@@ -7124,7 +7124,7 @@
     "na_rateups": []
   },
   {
-    "id": 234,
+    "id_num": 234,
     "name": "Beni-Enma",
     "rarity": 5,
     "class_type": "Saber",
@@ -7143,7 +7143,7 @@
     ]
   },
   {
-    "id": 235,
+    "id_num": 235,
     "name": "Li Shuwen",
     "rarity": 5,
     "class_type": "Assassin",
@@ -7188,7 +7188,7 @@
     ]
   },
   {
-    "id": 236,
+    "id_num": 236,
     "name": "Miyu Edelfelt",
     "rarity": 4,
     "class_type": "Caster",
@@ -7207,7 +7207,7 @@
     ]
   },
   {
-    "id": 237,
+    "id_num": 237,
     "name": "Murasaki Shikibu",
     "rarity": 5,
     "class_type": "Caster",
@@ -7226,7 +7226,7 @@
     ]
   },
   {
-    "id": 238,
+    "id_num": 238,
     "name": "Kingprotea",
     "rarity": 5,
     "class_type": "Alter Ego",
@@ -7242,7 +7242,7 @@
     ]
   },
   {
-    "id": 239,
+    "id_num": 239,
     "name": "Kama",
     "rarity": 5,
     "class_type": "Assassin",
@@ -7259,7 +7259,7 @@
     ]
   },
   {
-    "id": 240,
+    "id_num": 240,
     "name": "Beast III/L",
     "rarity": 5,
     "class_type": "Beast III",
@@ -7267,7 +7267,7 @@
     "na_rateups": []
   },
   {
-    "id": 241,
+    "id_num": 241,
     "name": "Sima Yi (Reines)",
     "rarity": 5,
     "class_type": "Rider",
@@ -7285,7 +7285,7 @@
     ]
   },
   {
-    "id": 242,
+    "id_num": 242,
     "name": "Astraea",
     "rarity": 4,
     "class_type": "ruler",
@@ -7310,7 +7310,7 @@
     ]
   },
   {
-    "id": 243,
+    "id_num": 243,
     "name": "Gray",
     "rarity": 4,
     "class_type": "Assassin",
@@ -7318,7 +7318,7 @@
     "na_rateups": []
   },
   {
-    "id": 244,
+    "id_num": 244,
     "name": "Jinako Carigiri",
     "rarity": 5,
     "class_type": "Moon Cancer",
@@ -7351,7 +7351,7 @@
     ]
   },
   {
-    "id": 245,
+    "id_num": 245,
     "name": "Lakshmibai",
     "rarity": 4,
     "class_type": "Saber",
@@ -7376,7 +7376,7 @@
     ]
   },
   {
-    "id": 246,
+    "id_num": 246,
     "name": "William Tell",
     "rarity": 3,
     "class_type": "Archer",
@@ -7400,7 +7400,7 @@
     ]
   },
   {
-    "id": 247,
+    "id_num": 247,
     "name": "Arjuna (Alter)",
     "rarity": 5,
     "class_type": "Berserker",
@@ -7416,7 +7416,7 @@
     ]
   },
   {
-    "id": 248,
+    "id_num": 248,
     "name": "Aśvatthāman",
     "rarity": 4,
     "class_type": "Archer",
@@ -7443,7 +7443,7 @@
     ]
   },
   {
-    "id": 249,
+    "id_num": 249,
     "name": "Asclepius",
     "rarity": 3,
     "class_type": "Caster",
@@ -7468,7 +7468,7 @@
     ]
   },
   {
-    "id": 250,
+    "id_num": 250,
     "name": "Demon King Nobunaga",
     "rarity": 5,
     "class_type": "Avenger",
@@ -7487,7 +7487,7 @@
     ]
   },
   {
-    "id": 251,
+    "id_num": 251,
     "name": "Mori Nagayoshi",
     "rarity": 3,
     "class_type": "Berserker",
@@ -7511,7 +7511,7 @@
     ]
   },
   {
-    "id": 252,
+    "id_num": 252,
     "name": "Nagao Kagetora",
     "rarity": 4,
     "class_type": "Lancer",
@@ -7519,7 +7519,7 @@
     "na_rateups": []
   },
   {
-    "id": 253,
+    "id_num": 253,
     "name": "Leonardo Da Vinci (Rider)",
     "rarity": 5,
     "class_type": "Rider",
@@ -7539,7 +7539,7 @@
     ]
   },
   {
-    "id": 254,
+    "id_num": 254,
     "name": "Jason",
     "rarity": 1,
     "class_type": "Saber",
@@ -7547,7 +7547,7 @@
     "na_rateups": []
   },
   {
-    "id": 255,
+    "id_num": 255,
     "name": "Paris",
     "rarity": 2,
     "class_type": "Archer",
@@ -7555,7 +7555,7 @@
     "na_rateups": []
   },
   {
-    "id": 256,
+    "id_num": 256,
     "name": "Gareth",
     "rarity": 2,
     "class_type": "Lancer",
@@ -7563,7 +7563,7 @@
     "na_rateups": []
   },
   {
-    "id": 257,
+    "id_num": 257,
     "name": "Bartholomew Roberts",
     "rarity": 1,
     "class_type": "Rider",
@@ -7571,7 +7571,7 @@
     "na_rateups": []
   },
   {
-    "id": 258,
+    "id_num": 258,
     "name": "Chen Gong",
     "rarity": 2,
     "class_type": "Caster",
@@ -7579,7 +7579,7 @@
     "na_rateups": []
   },
   {
-    "id": 259,
+    "id_num": 259,
     "name": "Charlotte Corday",
     "rarity": 1,
     "class_type": "Assassin",
@@ -7587,7 +7587,7 @@
     "na_rateups": []
   },
   {
-    "id": 260,
+    "id_num": 260,
     "name": "Salome",
     "rarity": 2,
     "class_type": "Berserker",
@@ -7595,7 +7595,7 @@
     "na_rateups": []
   },
   {
-    "id": 261,
+    "id_num": 261,
     "name": "Miyamoto Musashi (Berserker)",
     "rarity": 5,
     "class_type": "Berserker",
@@ -7611,7 +7611,7 @@
     ]
   },
   {
-    "id": 262,
+    "id_num": 262,
     "name": "Osakabehime (Archer)",
     "rarity": 4,
     "class_type": "Archer",
@@ -7628,7 +7628,7 @@
     ]
   },
   {
-    "id": 263,
+    "id_num": 263,
     "name": "Carmilla (Rider)",
     "rarity": 4,
     "class_type": "Rider",
@@ -7644,7 +7644,7 @@
     ]
   },
   {
-    "id": 264,
+    "id_num": 264,
     "name": "Katsushika Hokusai (Saber)",
     "rarity": 4,
     "class_type": "Saber",
@@ -7652,7 +7652,7 @@
     "na_rateups": []
   },
   {
-    "id": 265,
+    "id_num": 265,
     "name": "Artoria Pendragon (Ruler)",
     "rarity": 5,
     "class_type": "Ruler",
@@ -7669,7 +7669,7 @@
     ]
   },
   {
-    "id": 266,
+    "id_num": 266,
     "name": "Mysterious Alter Ego Λ",
     "rarity": 4,
     "class_type": "Lancer",
@@ -7688,7 +7688,7 @@
     ]
   },
   {
-    "id": 267,
+    "id_num": 267,
     "name": "Okita J Sōji",
     "rarity": 4,
     "class_type": "Assassin",
@@ -7706,7 +7706,7 @@
     ]
   },
   {
-    "id": 268,
+    "id_num": 268,
     "name": "Space Ishtar",
     "rarity": 5,
     "class_type": "Avenger",
@@ -7723,7 +7723,7 @@
     ]
   },
   {
-    "id": 269,
+    "id_num": 269,
     "name": "Calamity Jane",
     "rarity": 4,
     "class_type": "Archer",
@@ -7741,7 +7741,7 @@
     ]
   },
   {
-    "id": 270,
+    "id_num": 270,
     "name": "Astolfo (Saber)",
     "rarity": 5,
     "class_type": "Saber",
@@ -7761,7 +7761,7 @@
     ]
   },
   {
-    "id": 271,
+    "id_num": 271,
     "name": "Nightingale (Santa)",
     "rarity": 4,
     "class_type": "Archer",
@@ -7769,7 +7769,7 @@
     "na_rateups": []
   },
   {
-    "id": 272,
+    "id_num": 272,
     "name": "Super Orion",
     "rarity": 5,
     "class_type": "Archer",
@@ -7785,7 +7785,7 @@
     ]
   },
   {
-    "id": 273,
+    "id_num": 273,
     "name": "Mandricardo",
     "rarity": 3,
     "class_type": "Rider",
@@ -7808,7 +7808,7 @@
     ]
   },
   {
-    "id": 274,
+    "id_num": 274,
     "name": "Europa",
     "rarity": 5,
     "class_type": "Rider",
@@ -7835,7 +7835,7 @@
     ]
   },
   {
-    "id": 275,
+    "id_num": 275,
     "name": "Yang Guifei",
     "rarity": 5,
     "class_type": "Foreigner",
@@ -7850,7 +7850,7 @@
     ]
   },
   {
-    "id": 276,
+    "id_num": 276,
     "name": "Sei Shōnagon",
     "rarity": 5,
     "class_type": "Archer",
@@ -7868,7 +7868,7 @@
     ]
   },
   {
-    "id": 277,
+    "id_num": 277,
     "name": "Odysseus",
     "rarity": 5,
     "class_type": "Rider",
@@ -7893,7 +7893,7 @@
     ]
   },
   {
-    "id": 278,
+    "id_num": 278,
     "name": "Dioscuri",
     "rarity": 5,
     "class_type": "Saber",
@@ -7921,7 +7921,7 @@
     ]
   },
   {
-    "id": 279,
+    "id_num": 279,
     "name": "Caenis",
     "rarity": 4,
     "class_type": "Lancer",
@@ -7942,7 +7942,7 @@
     ]
   },
   {
-    "id": 280,
+    "id_num": 280,
     "name": "Romulus-Quirinus",
     "rarity": 5,
     "class_type": "Lancer",
@@ -7958,7 +7958,7 @@
     ]
   },
   {
-    "id": 281,
+    "id_num": 281,
     "name": "Voyager",
     "rarity": 5,
     "class_type": "Foreigner",
@@ -7975,7 +7975,7 @@
     ]
   },
   {
-    "id": 282,
+    "id_num": 282,
     "name": "Kijyo Kōyō",
     "rarity": 4,
     "class_type": "Berserker",
@@ -7988,7 +7988,7 @@
     ]
   },
   {
-    "id": 283,
+    "id_num": 283,
     "name": "Utsumi Erice",
     "rarity": 4,
     "class_type": "Lancer",
@@ -7996,7 +7996,7 @@
     "na_rateups": []
   },
   {
-    "id": 284,
+    "id_num": 284,
     "name": "Artoria Caster",
     "rarity": 5,
     "class_type": "Caster",
@@ -8013,7 +8013,7 @@
     ]
   },
   {
-    "id": 285,
+    "id_num": 285,
     "name": "Sesshōin Kiara (Moon Cancer)",
     "rarity": 5,
     "class_type": "Moon Cancer",
@@ -8029,7 +8029,7 @@
     ]
   },
   {
-    "id": 286,
+    "id_num": 286,
     "name": "Illyasviel von Einzbern (Archer)",
     "rarity": 4,
     "class_type": "Archer",
@@ -8047,7 +8047,7 @@
     ]
   },
   {
-    "id": 287,
+    "id_num": 287,
     "name": "Brynhildr (Berserker)",
     "rarity": 4,
     "class_type": "Berserker",
@@ -8063,7 +8063,7 @@
     ]
   },
   {
-    "id": 288,
+    "id_num": 288,
     "name": "Consort Yu (Lancer)",
     "rarity": 4,
     "class_type": "Lancer",
@@ -8071,7 +8071,7 @@
     "na_rateups": []
   },
   {
-    "id": 289,
+    "id_num": 289,
     "name": "Abigail Williams (Summer)",
     "rarity": 5,
     "class_type": "Foreigner",
@@ -8087,7 +8087,7 @@
     ]
   },
   {
-    "id": 290,
+    "id_num": 290,
     "name": "Tomoe Gozen (Saber)",
     "rarity": 4,
     "class_type": "Saber",
@@ -8103,7 +8103,7 @@
     ]
   },
   {
-    "id": 291,
+    "id_num": 291,
     "name": "Murasaki Shikibu (Rider)",
     "rarity": 4,
     "class_type": "Rider",
@@ -8119,7 +8119,7 @@
     ]
   },
   {
-    "id": 292,
+    "id_num": 292,
     "name": "Himiko",
     "rarity": 5,
     "class_type": "Ruler",
@@ -8135,7 +8135,7 @@
     ]
   },
   {
-    "id": 293,
+    "id_num": 293,
     "name": "Saitō Hajime",
     "rarity": 4,
     "class_type": "Saber",
@@ -8153,7 +8153,7 @@
     ]
   },
   {
-    "id": 294,
+    "id_num": 294,
     "name": "Oda Nobukatsu",
     "rarity": 1,
     "class_type": "Archer",
@@ -8168,7 +8168,7 @@
     ]
   },
   {
-    "id": 295,
+    "id_num": 295,
     "name": "Van Gogh",
     "rarity": 5,
     "class_type": "Foreigner",
@@ -8184,7 +8184,7 @@
     ]
   },
   {
-    "id": 296,
+    "id_num": 296,
     "name": "Nemo",
     "rarity": 5,
     "class_type": "Rider",
@@ -8208,7 +8208,7 @@
     ]
   },
   {
-    "id": 297,
+    "id_num": 297,
     "name": "Ashiya Dōman",
     "rarity": 5,
     "class_type": "Alter Ego",
@@ -8224,7 +8224,7 @@
     ]
   },
   {
-    "id": 298,
+    "id_num": 298,
     "name": "Watanabe no Tsuna",
     "rarity": 4,
     "class_type": "Saber",
@@ -8247,7 +8247,7 @@
     ]
   },
   {
-    "id": 299,
+    "id_num": 299,
     "name": "Ibuki Dōji",
     "rarity": 5,
     "class_type": "Saber",
@@ -8265,7 +8265,7 @@
     ]
   },
   {
-    "id": 300,
+    "id_num": 300,
     "name": "Vritra",
     "rarity": 5,
     "class_type": "Lancer",
@@ -8285,7 +8285,7 @@
     ]
   },
   {
-    "id": 301,
+    "id_num": 301,
     "name": "Karna (Santa)",
     "rarity": 4,
     "class_type": "Saber",
@@ -8293,7 +8293,7 @@
     "na_rateups": []
   },
   {
-    "id": 302,
+    "id_num": 302,
     "name": "Senji Muramasa",
     "rarity": 5,
     "class_type": "Saber",
@@ -8307,7 +8307,7 @@
     ]
   },
   {
-    "id": 303,
+    "id_num": 303,
     "name": "Taira no Kagekiyo",
     "rarity": 5,
     "class_type": "Avenger",
@@ -8322,7 +8322,7 @@
     ]
   },
   {
-    "id": 304,
+    "id_num": 304,
     "name": "Kiichi Hōgen",
     "rarity": 4,
     "class_type": "Assassin",
@@ -8330,7 +8330,7 @@
     "na_rateups": []
   },
   {
-    "id": 305,
+    "id_num": 305,
     "name": "Amor (Caren)",
     "rarity": 5,
     "class_type": "Ruler",
@@ -8346,7 +8346,7 @@
     ]
   },
   {
-    "id": 306,
+    "id_num": 306,
     "name": "Galatea",
     "rarity": 5,
     "class_type": "Berserker",
@@ -8363,7 +8363,7 @@
     ]
   },
   {
-    "id": 307,
+    "id_num": 307,
     "name": "Miss Crane",
     "rarity": 5,
     "class_type": "Caster",
@@ -8377,7 +8377,7 @@
     ]
   },
   {
-    "id": 308,
+    "id_num": 308,
     "name": "Mysterious Idol X (Alter)",
     "rarity": 4,
     "class_type": "Foreigner",
@@ -8385,7 +8385,7 @@
     "na_rateups": []
   },
   {
-    "id": 309,
+    "id_num": 309,
     "name": "Morgan",
     "rarity": 5,
     "class_type": "Berserker",
@@ -8402,7 +8402,7 @@
     ]
   },
   {
-    "id": 310,
+    "id_num": 310,
     "name": "Barghest",
     "rarity": 4,
     "class_type": "Saber",
@@ -8422,7 +8422,7 @@
     ]
   },
   {
-    "id": 311,
+    "id_num": 311,
     "name": "Baobhan Sith",
     "rarity": 4,
     "class_type": "Archer",
@@ -8443,7 +8443,7 @@
     ]
   },
   {
-    "id": 312,
+    "id_num": 312,
     "name": "Mélusine",
     "rarity": 5,
     "class_type": "Lancer",
@@ -8459,7 +8459,7 @@
     ]
   },
   {
-    "id": 313,
+    "id_num": 313,
     "name": "Percival",
     "rarity": 4,
     "class_type": "Lancer",
@@ -8475,7 +8475,7 @@
     ]
   },
   {
-    "id": 314,
+    "id_num": 314,
     "name": "Koyanskaya of Light",
     "rarity": 5,
     "class_type": "Assassin",
@@ -8490,7 +8490,7 @@
     ]
   },
   {
-    "id": 315,
+    "id_num": 315,
     "name": "Habetrot",
     "rarity": 4,
     "class_type": "Rider",
@@ -8498,7 +8498,7 @@
     "na_rateups": []
   },
   {
-    "id": 316,
+    "id_num": 316,
     "name": "Oberon",
     "rarity": 5,
     "class_type": "Pretender",
@@ -8512,7 +8512,7 @@
     ]
   },
   {
-    "id": 317,
+    "id_num": 317,
     "name": "Okita Sōji (Saber Alter)",
     "rarity": 5,
     "class_type": "Saber",
@@ -8526,7 +8526,7 @@
     ]
   },
   {
-    "id": 318,
+    "id_num": 318,
     "name": "Anastasia & Viy",
     "rarity": 4,
     "class_type": "Archer",
@@ -8540,7 +8540,7 @@
     ]
   },
   {
-    "id": 319,
+    "id_num": 319,
     "name": "Charlotte Corday (Caster)",
     "rarity": 4,
     "class_type": "Caster",
@@ -8554,7 +8554,7 @@
     ]
   },
   {
-    "id": 320,
+    "id_num": 320,
     "name": "Leonardo Da Vinci (Ruler)",
     "rarity": 4,
     "class_type": "Ruler",
@@ -8562,7 +8562,7 @@
     "na_rateups": []
   },
   {
-    "id": 321,
+    "id_num": 321,
     "name": "Kama (Avenger)",
     "rarity": 5,
     "class_type": "Avenger",
@@ -8576,7 +8576,7 @@
     ]
   },
   {
-    "id": 322,
+    "id_num": 322,
     "name": "Caenis (Rider)",
     "rarity": 4,
     "class_type": "Rider",
@@ -8590,7 +8590,7 @@
     ]
   },
   {
-    "id": 323,
+    "id_num": 323,
     "name": "Sei Shōnagon (Berserker)",
     "rarity": 4,
     "class_type": "Berserker",
@@ -8604,7 +8604,7 @@
     ]
   },
   {
-    "id": 324,
+    "id_num": 324,
     "name": "Jacques de Molay",
     "rarity": 5,
     "class_type": "Foreigner",
@@ -8619,7 +8619,7 @@
     ]
   },
   {
-    "id": 325,
+    "id_num": 325,
     "name": "Zenobia",
     "rarity": 4,
     "class_type": "Archer",
@@ -8631,7 +8631,7 @@
     ]
   },
   {
-    "id": 326,
+    "id_num": 326,
     "name": "Elizabeth Báthory (Cinderella)",
     "rarity": 4,
     "class_type": "Rider",
@@ -8639,7 +8639,7 @@
     "na_rateups": []
   },
   {
-    "id": 327,
+    "id_num": 327,
     "name": "Izumo no Okuni",
     "rarity": 5,
     "class_type": "Caster",
@@ -8653,7 +8653,7 @@
     ]
   },
   {
-    "id": 328,
+    "id_num": 328,
     "name": "Mysterious Ranmaru X",
     "rarity": 4,
     "class_type": "Avenger",
@@ -8661,7 +8661,7 @@
     "na_rateups": []
   },
   {
-    "id": 329,
+    "id_num": 329,
     "name": "Sakamoto Ryōma (Lancer)",
     "rarity": 5,
     "class_type": "Lancer",
@@ -8676,7 +8676,7 @@
     ]
   },
   {
-    "id": 330,
+    "id_num": 330,
     "name": "Martha (Santa)",
     "rarity": 4,
     "class_type": "Caster",
@@ -8684,7 +8684,7 @@
     "na_rateups": []
   },
   {
-    "id": 331,
+    "id_num": 331,
     "name": "Taigong Wang",
     "rarity": 5,
     "class_type": "Rider",
@@ -8701,7 +8701,7 @@
     ]
   },
   {
-    "id": 332,
+    "id_num": 332,
     "name": "Dobrynya Nikitich",
     "rarity": 4,
     "class_type": "Rider",
@@ -8715,7 +8715,7 @@
     ]
   },
   {
-    "id": 334,
+    "id_num": 334,
     "name": "Koyanskaya of Darkness",
     "rarity": 5,
     "class_type": "Foreigner",
@@ -8728,7 +8728,7 @@
     ]
   },
   {
-    "id": 335,
+    "id_num": 335,
     "name": "Hephaestion",
     "rarity": 4,
     "class_type": "Pretender",
@@ -8739,7 +8739,7 @@
     "na_rateups": []
   },
   {
-    "id": 336,
+    "id_num": 336,
     "name": "Manannán mac Lir (Bazett)",
     "rarity": 5,
     "class_type": "Alter Ego",
@@ -8750,7 +8750,7 @@
     "na_rateups": []
   },
   {
-    "id": 337,
+    "id_num": 337,
     "name": "Trung Sisters",
     "rarity": 5,
     "class_type": "Saber",
@@ -8761,7 +8761,7 @@
     "na_rateups": []
   },
   {
-    "id": 338,
+    "id_num": 338,
     "name": "Taisui Xingjun",
     "rarity": 4,
     "class_type": "Alter Ego",
@@ -8769,7 +8769,7 @@
     "na_rateups": []
   },
   {
-    "id": 339,
+    "id_num": 339,
     "name": "Super Bunyan",
     "rarity": 5,
     "class_type": "Alter Ego",
@@ -8780,7 +8780,7 @@
     "na_rateups": []
   },
   {
-    "id": 340,
+    "id_num": 340,
     "name": "Daikokuten",
     "rarity": 4,
     "class_type": "Caster",
@@ -8791,7 +8791,7 @@
     "na_rateups": []
   },
   {
-    "id": 341,
+    "id_num": 341,
     "name": "Mary Anning",
     "rarity": 1,
     "class_type": "Lancer",
@@ -8802,7 +8802,7 @@
     "na_rateups": []
   },
   {
-    "id": 342,
+    "id_num": 342,
     "name": "Constantine XI",
     "rarity": 5,
     "class_type": "Rider",
@@ -8813,7 +8813,7 @@
     "na_rateups": []
   },
   {
-    "id": 343,
+    "id_num": 343,
     "name": "Charlemagne",
     "rarity": 5,
     "class_type": "Saber",
@@ -8824,7 +8824,7 @@
     "na_rateups": []
   },
   {
-    "id": 344,
+    "id_num": 344,
     "name": "Roland",
     "rarity": 4,
     "class_type": "Saber",
@@ -8835,7 +8835,7 @@
     "na_rateups": []
   },
   {
-    "id": 345,
+    "id_num": 345,
     "name": "Kriemhild",
     "rarity": 4,
     "class_type": "Berserker",
@@ -8847,7 +8847,7 @@
     "na_rateups": []
   },
   {
-    "id": 346,
+    "id_num": 346,
     "name": "James Moriarty (Ruler)",
     "rarity": 5,
     "class_type": "Ruler",
@@ -8858,7 +8858,7 @@
     "na_rateups": []
   },
   {
-    "id": 347,
+    "id_num": 347,
     "name": "Don Quixote",
     "rarity": 4,
     "class_type": "Lancer",
@@ -8869,7 +8869,7 @@
     "na_rateups": []
   },
   {
-    "id": 348,
+    "id_num": 348,
     "name": "Zhang Jue",
     "rarity": 3,
     "class_type": "Caster",
@@ -8879,7 +8879,7 @@
     "na_rateups": []
   },
   {
-    "id": 349,
+    "id_num": 349,
     "name": "Kyokutei Bakin",
     "rarity": 5,
     "class_type": "Rider",
@@ -8890,7 +8890,7 @@
     "na_rateups": []
   },
   {
-    "id": 350,
+    "id_num": 350,
     "name": "Minamoto no Tametomo",
     "rarity": 5,
     "class_type": "Archer",
@@ -8902,7 +8902,7 @@
     "na_rateups": []
   },
   {
-    "id": 351,
+    "id_num": 351,
     "name": "Archetype: Earth",
     "rarity": 5,
     "class_type": "Moon Cancer",
@@ -8912,7 +8912,7 @@
     "na_rateups": []
   },
   {
-    "id": 352,
+    "id_num": 352,
     "name": "Xu Fu",
     "rarity": 3,
     "class_type": "Alter Ego",
@@ -8923,7 +8923,7 @@
     "na_rateups": []
   },
   {
-    "id": 353,
+    "id_num": 353,
     "name": "Lady Avalon",
     "rarity": 5,
     "class_type": "Pretender",
@@ -8935,7 +8935,7 @@
     "na_rateups": []
   },
   {
-    "id": 354,
+    "id_num": 354,
     "name": "Gareth (Saber)",
     "rarity": 4,
     "class_type": "Saber",
@@ -8946,7 +8946,7 @@
     "na_rateups": []
   },
   {
-    "id": 355,
+    "id_num": 355,
     "name": "Ibuki Dōji (Berserker)",
     "rarity": 5,
     "class_type": "Berserker",
@@ -8957,7 +8957,7 @@
     "na_rateups": []
   },
   {
-    "id": 356,
+    "id_num": 356,
     "name": "Utsumi Erice (Avenger)",
     "rarity": 4,
     "class_type": "Avenger",
@@ -8968,7 +8968,7 @@
     "na_rateups": []
   },
   {
-    "id": 357,
+    "id_num": 357,
     "name": "Scáthach-Skaði (Ruler)",
     "rarity": 5,
     "class_type": "Ruler",
@@ -8979,7 +8979,7 @@
     "na_rateups": []
   },
   {
-    "id": 358,
+    "id_num": 358,
     "name": "Wu Zetian (Caster)",
     "rarity": 4,
     "class_type": "Caster",
@@ -8990,7 +8990,7 @@
     "na_rateups": []
   },
   {
-    "id": 359,
+    "id_num": 359,
     "name": "Thrúd (Assassin)",
     "rarity": 4,
     "class_type": "Assassin",
@@ -8998,7 +8998,7 @@
     "na_rateups": []
   },
   {
-    "id": 360,
+    "id_num": 360,
     "name": "Hildr (Assassin)",
     "rarity": 4,
     "class_type": "Assassin",
@@ -9006,7 +9006,7 @@
     "na_rateups": []
   },
   {
-    "id": 361,
+    "id_num": 361,
     "name": "Ortlinde (Assassin)",
     "rarity": 4,
     "class_type": "Assassin",
@@ -9014,7 +9014,7 @@
     "na_rateups": []
   },
   {
-    "id": 362,
+    "id_num": 362,
     "name": "Sen no Rikyū",
     "rarity": 5,
     "class_type": "Berserker",
@@ -9025,7 +9025,7 @@
     "na_rateups": []
   },
   {
-    "id": 363,
+    "id_num": 363,
     "name": "Yamanami Keisuke",
     "rarity": 4,
     "class_type": "Saber",
@@ -9036,7 +9036,7 @@
     "na_rateups": []
   },
   {
-    "id": 364,
+    "id_num": 364,
     "name": "Iyo",
     "rarity": 4,
     "class_type": "Ruler",
@@ -9044,7 +9044,7 @@
     "na_rateups": []
   },
   {
-    "id": 365,
+    "id_num": 365,
     "name": "Huyan Zhuo",
     "rarity": 5,
     "class_type": "Assassin",
@@ -9055,7 +9055,7 @@
     "na_rateups": []
   },
   {
-    "id": 366,
+    "id_num": 366,
     "name": "Huang Feihu",
     "rarity": 4,
     "class_type": "Rider",
@@ -9066,7 +9066,7 @@
     "na_rateups": []
   },
   {
-    "id": 367,
+    "id_num": 367,
     "name": "Nine-Tattoo Dragon Eliza",
     "rarity": 4,
     "class_type": "Pretender",
@@ -9074,7 +9074,7 @@
     "na_rateups": []
   },
   {
-    "id": 368,
+    "id_num": 368,
     "name": "Britomart",
     "rarity": 5,
     "class_type": "Lancer",
@@ -9085,7 +9085,7 @@
     "na_rateups": []
   },
   {
-    "id": 369,
+    "id_num": 369,
     "name": "Grigori Rasputin",
     "rarity": 5,
     "class_type": "Alter Ego",
@@ -9096,7 +9096,7 @@
     "na_rateups": []
   },
   {
-    "id": 370,
+    "id_num": 370,
     "name": "Nitocris (Alter)",
     "rarity": 5,
     "class_type": "Avenger",
@@ -9108,7 +9108,7 @@
     "na_rateups": []
   },
   {
-    "id": 371,
+    "id_num": 371,
     "name": "Tezcatlipoca",
     "rarity": 5,
     "class_type": "Assassin",
@@ -9119,7 +9119,7 @@
     "na_rateups": []
   },
   {
-    "id": 372,
+    "id_num": 372,
     "name": "Tenochtitlan",
     "rarity": 4,
     "class_type": "Pretender",
@@ -9131,7 +9131,7 @@
     "na_rateups": []
   },
   {
-    "id": 373,
+    "id_num": 373,
     "name": "Kukulkan",
     "rarity": 5,
     "class_type": "Foreigner",
@@ -9142,7 +9142,7 @@
     "na_rateups": []
   },
   {
-    "id": 374,
+    "id_num": 374,
     "name": "Popess Johanna",
     "rarity": 5,
     "class_type": "Ruler",
@@ -9152,7 +9152,7 @@
     "na_rateups": []
   },
   {
-    "id": 375,
+    "id_num": 375,
     "name": "Takasugi Shinsaku",
     "rarity": 5,
     "class_type": "Archer",
@@ -9162,7 +9162,7 @@
     "na_rateups": []
   },
   {
-    "id": 376,
+    "id_num": 376,
     "name": "Larva/Tiamat",
     "rarity": 5,
     "class_type": "Alter Ego",
@@ -9173,7 +9173,7 @@
     "na_rateups": []
   },
   {
-    "id": 377,
+    "id_num": 377,
     "name": "Sodom's Beast/Draco",
     "rarity": 5,
     "class_type": "Beast",
@@ -9183,7 +9183,7 @@
     "na_rateups": []
   },
   {
-    "id": 378,
+    "id_num": 378,
     "name": "Locusta",
     "rarity": 4,
     "class_type": "Assassin",
@@ -9194,7 +9194,7 @@
     "na_rateups": []
   },
   {
-    "id": 379,
+    "id_num": 379,
     "name": "Sétanta",
     "rarity": 4,
     "class_type": "Saber",
@@ -9202,7 +9202,7 @@
     "na_rateups": []
   },
   {
-    "id": 380,
+    "id_num": 380,
     "name": "Kashin Koji",
     "rarity": 5,
     "class_type": "Assassin",
@@ -9212,7 +9212,7 @@
     "na_rateups": []
   },
   {
-    "id": 381,
+    "id_num": 381,
     "name": "Bhima",
     "rarity": 5,
     "class_type": "Lancer",
@@ -9222,7 +9222,7 @@
     "na_rateups": []
   },
   {
-    "id": 382,
+    "id_num": 382,
     "name": "Duryodhana",
     "rarity": 4,
     "class_type": "Berserker",
@@ -9233,7 +9233,7 @@
     "na_rateups": []
   },
   {
-    "id": 383,
+    "id_num": 383,
     "name": "Durga",
     "rarity": 5,
     "class_type": "Archer",
@@ -9243,7 +9243,7 @@
     "na_rateups": []
   },
   {
-    "id": 384,
+    "id_num": 384,
     "name": "Medusa (Saber)",
     "rarity": 5,
     "class_type": "Saber",
@@ -9253,7 +9253,7 @@
     "na_rateups": []
   },
   {
-    "id": 385,
+    "id_num": 385,
     "name": "Aesc the Savior",
     "rarity": 5,
     "class_type": "Caster",
@@ -9263,7 +9263,7 @@
     "na_rateups": []
   },
   {
-    "id": 386,
+    "id_num": 386,
     "name": "Artoria Caster (Berserker)",
     "rarity": 5,
     "class_type": "Berserker",
@@ -9273,7 +9273,7 @@
     "na_rateups": []
   },
   {
-    "id": 387,
+    "id_num": 387,
     "name": "Suzuka Gozen (Summer Vacation)",
     "rarity": 4,
     "class_type": "Rider",
@@ -9283,7 +9283,7 @@
     "na_rateups": []
   },
   {
-    "id": 388,
+    "id_num": 388,
     "name": "Chloe von Einzbern (Avenger)",
     "rarity": 4,
     "class_type": "Avenger",
@@ -9293,7 +9293,7 @@
     "na_rateups": []
   },
   {
-    "id": 389,
+    "id_num": 389,
     "name": "Cnoc na Riabh Yaraan-doo",
     "rarity": 4,
     "class_type": "Foreigner",
@@ -9301,7 +9301,7 @@
     "na_rateups": []
   },
   {
-    "id": 390,
+    "id_num": 390,
     "name": "Mélusine (Ruler)",
     "rarity": 5,
     "class_type": "Ruler",
@@ -9311,7 +9311,7 @@
     "na_rateups": []
   },
   {
-    "id": 391,
+    "id_num": 391,
     "name": "UDK-Barghest",
     "rarity": 4,
     "class_type": "Archer",
@@ -9321,7 +9321,7 @@
     "na_rateups": []
   },
   {
-    "id": 392,
+    "id_num": 392,
     "name": "Cait Cú Cerpriestess",
     "rarity": 4,
     "class_type": "Pretender",
@@ -9331,7 +9331,7 @@
     "na_rateups": []
   },
   {
-    "id": 393,
+    "id_num": 393,
     "name": "Wandjina",
     "rarity": 5,
     "class_type": "Foreigner",
@@ -9341,7 +9341,7 @@
     "na_rateups": []
   },
   {
-    "id": 394,
+    "id_num": 394,
     "name": "Ptolemaios",
     "rarity": 5,
     "class_type": "Archer",
@@ -9351,7 +9351,7 @@
     "na_rateups": []
   },
   {
-    "id": 395,
+    "id_num": 395,
     "name": "Sugitani Zenjūbō",
     "rarity": 3,
     "class_type": "Archer",
@@ -9362,7 +9362,7 @@
     "na_rateups": []
   },
   {
-    "id": 396,
+    "id_num": 396,
     "name": "Theseus",
     "rarity": 3,
     "class_type": "Saber",
@@ -9373,7 +9373,7 @@
     "na_rateups": []
   },
   {
-    "id": 397,
+    "id_num": 397,
     "name": "Takeda Shingen",
     "rarity": 5,
     "class_type": "Rider",
@@ -9383,7 +9383,7 @@
     "na_rateups": []
   },
   {
-    "id": 398,
+    "id_num": 398,
     "name": "Nagakura Shinpachi",
     "rarity": 4,
     "class_type": "Berserker",
@@ -9394,7 +9394,7 @@
     "na_rateups": []
   },
   {
-    "id": 399,
+    "id_num": 399,
     "name": "Saika Magoichi",
     "rarity": 4,
     "class_type": "Archer",
@@ -9402,7 +9402,7 @@
     "na_rateups": []
   },
   {
-    "id": 400,
+    "id_num": 400,
     "name": "Uesugi Kenshin",
     "rarity": 5,
     "class_type": "Ruler",
@@ -9412,7 +9412,7 @@
     "na_rateups": []
   },
   {
-    "id": 401,
+    "id_num": 401,
     "name": "Nemo (Santa)",
     "rarity": 4,
     "class_type": "Rider",
@@ -9420,7 +9420,7 @@
     "na_rateups": []
   },
   {
-    "id": 402,
+    "id_num": 402,
     "name": "Yamato Takeru",
     "rarity": 5,
     "class_type": "Saber",

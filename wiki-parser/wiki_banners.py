@@ -1305,7 +1305,7 @@ def create_servant_json(event_set_jp, event_set_na):
     servant_list = []
     for servant in SERVANT_DATA:
         servant_list.append({
-            'id' : servant['id'],
+            'id_num' : servant['id'],
             'name' : servant['name'],
             'rarity' : servant['rarity'],
             'class_type' : servant['class_type'],
