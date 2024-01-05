@@ -29,3 +29,5 @@ if args.banners:
     create_event_json(EVENT_SET_JP, EVENT_SET_NA)
     print("Creating banner JSON data...")
     create_banner_json(EVENT_SET_JP, EVENT_SET_NA)
+    print("Creating servant JSON data...")
+    create_servant_json(EVENT_SET_JP, EVENT_SET_NA)

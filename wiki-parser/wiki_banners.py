@@ -1288,6 +1288,35 @@ def create_banner_json(event_set_jp, event_set_na):
     print("Saving to JSON file...")
     write_json(banner_list, "banner_data.json")
 
+def create_servant_json(event_set_jp, event_set_na):
+    servant_rateups_jp = {int(servant['id']) : [] for servant in SERVANT_DATA}
+    servant_rateups_na = {int(servant['id']) : [] for servant in SERVANT_DATA}
+
+    for event in event_set_jp:
+        for banner in event.banners:
+            for servant in banner.rateups:
+                servant_rateups_jp[servant].append(banner.slug)
+
+    for event in event_set_na:
+        for banner in event.banners:
+            for servant in banner.rateups:
+                servant_rateups_na[servant].append(banner.slug)
+
+    servant_list = []
+    for servant in SERVANT_DATA:
+        servant_list.append({
+            'id' : servant['id'],
+            'name' : servant['name'],
+            'rarity' : servant['rarity'],
+            'class_type' : servant['class_type'],
+            'jp_rateups' : servant_rateups_jp[int(servant['id'])],
+            'na_rateups' : servant_rateups_na[int(servant['id'])],
+        })
+
+    # Save the banner list to a JSON file.
+    print("Saving to JSON file...")
+    write_json(servant_list, "servant_data.json")
+
 def parse_and_create(event_list, event_set, region):
     print("Parsing all events...")
     parse_event_lists(event_list, region)
