@@ -27,3 +27,5 @@ if args.banners:
     # Create the JSON representation for event data
     print("Creating event JSON data...")
     create_event_json(EVENT_SET_JP, EVENT_SET_NA)
+    print("Creating banner JSON data...")
+    create_banner_json(EVENT_SET_JP, EVENT_SET_NA)

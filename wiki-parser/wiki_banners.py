@@ -391,6 +391,7 @@ class Event:
         self.region = region
         self.image_file = image_file
         self.banners = banners
+        self.slug = None
     
     def __str__(self):
         return self.name
@@ -408,6 +409,7 @@ class Banner:
         self.end_date = end_date
         self.date_origin = date_origin
         self.rateups = rateups
+        self.slug = None
     
     def copy_metadata(self, other):
         self.name = other.name
@@ -422,7 +424,6 @@ SITE = None # Wiki site
 EVENT_SET_JP = {} # Dictionary of banners for JP
 EVENT_SET_NA = {} # Dictionary of banners for NA
 PAGES_VISITED = set() # Set of pages visited
-USED_SLUGS = set() # Set of slugs used
 CURRENT_YEAR = 0 # Current year
 CURRENT_REGION = "" # Current region
 PRESENT_YEAR = 2024
@@ -1230,6 +1231,7 @@ def create_debug_json(event_set, region):
     write_json(debug_list, "summon_data_jp.json" if region == "JP" else "summon_data_na.json")
 
 def create_event_json(event_set_jp, event_set_na):
+    used_slugs = set() # Set of slugs used
     event_list = []
     event_sets = [event_set_jp, event_set_na]
     for event_set in event_sets:
@@ -1237,22 +1239,54 @@ def create_event_json(event_set_jp, event_set_na):
             # Create an ID for the event.
             slug = slugify(f'{event.name}-{event.region}')
             i = 1
-            while slug in USED_SLUGS:
+            while slug in used_slugs:
                 slug = slugify(f'{event.name}-{event.region}-{i}')
                 i += 1
-            USED_SLUGS.add(slug)
+            used_slugs.add(slug)
 
+            event.slug = slug
             # Create a list to export to JSON
             event_list.append({
                 'slug' : slug,
-                'name': event.name,
-                'region': event.region,
+                'name' : event.name,
+                'region' : event.region,
                 'image_file' : event.image_file,
             })
 
     # Save the banner list to a JSON file.
     print("Saving to JSON file...")
     write_json(event_list, "event_data.json")
+
+def create_banner_json(event_set_jp, event_set_na):
+    used_slugs = set() # Set of slugs used
+    banner_list = []
+    event_sets = [event_set_jp, event_set_na]
+    for event_set in event_sets:
+        for event in event_set:
+            for banner in event.banners:
+                # Create an ID for the event.
+                slug = slugify(f'{banner.name}-{event.region}')
+                i = 1
+                while slug in used_slugs:
+                    slug = slugify(f'{banner.name}-{event.region}-{i}')
+                    i += 1
+                used_slugs.add(slug)
+
+                banner.slug = slug
+                # Create a list to export to JSON
+                banner_list.append({
+                    'slug' : slug,
+                    'name' : banner.name,
+                    'start_date' : banner.start_date,
+                    'end_date' : banner.end_date,
+                    'region' : event.region,
+                    'rateups' : banner.rateups,
+                    'event_id' : event.slug,
+                })
+
+    # Save the banner list to a JSON file.
+    print("Saving to JSON file...")
+    write_json(banner_list, "banner_data.json")
 
 def parse_and_create(event_list, event_set, region):
     print("Parsing all events...")
