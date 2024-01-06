@@ -1309,8 +1309,8 @@ def create_servant_json(event_set_jp, event_set_na):
             'name' : servant['name'],
             'rarity' : servant['rarity'],
             'class_type' : servant['class_type'],
-            'jp_rateups' : servant_rateups_jp[int(servant['id'])],
-            'na_rateups' : servant_rateups_na[int(servant['id'])],
+            'jp_rateups' : ','.join(servant_rateups_jp[int(servant['id'])]),
+            'na_rateups' : ','.join(servant_rateups_na[int(servant['id'])]),
         })
 
     # Save the banner list to a JSON file.
