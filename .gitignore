@@ -5,6 +5,7 @@ throttle.ctrl
 .vscode/
 pywikibot/
 apicache-py3/
+apicache/
 __pycache__/
 logs/
 banner-pages/
