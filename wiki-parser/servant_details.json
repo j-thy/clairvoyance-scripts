@@ -24,11 +24,11 @@
     "jp_name": "アルトリア・ペンドラゴン",
     "name": "Artoria Pendragon",
     "rarity": 5,
-    "traits": "Arthur, Artoria Face, Costume-Owning, Dragon, Hominidae Servant, Humanoid, King, Riding, Round Table Knight, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "traits": "Arthur, Artoria Face, Costume-Owning, Dragon, Hominidae Servant, Humanoid, King, Riding, Round Table Knight, Servant, Seven Knights Servant, Weak to Enuma Elish, Fate/stay night Servant",
     "voice_actor": "Kawasumi Ayako"
   },
   {
-    "aliases": "Saber Alter, Dark-Tainted Tyrant, Artoria Alter, Black Saber, Salter",
+    "aliases": "Saber Alter, Dark-Tainted Tyrant, Artoria Alter, Black Saber, Salter, Altria Pendragon (Alter)",
     "alignment": "Lawful・Evil",
     "attribute": "Man",
     "class_type": "Saber",
@@ -38,11 +38,11 @@
     "jp_name": "アルトリア・ペンドラゴン〔オルタ〕",
     "name": "Artoria Pendragon (Alter)",
     "rarity": 4,
-    "traits": "Arthur, Artoria Face, Costume-Owning, Dragon, King, Hominidae Servant, Humanoid, Round Table Knight, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "traits": "Arthur, Artoria Face, Costume-Owning, Dragon, King, Hominidae Servant, Humanoid, Round Table Knight, Servant, Seven Knights Servant, Weak to Enuma Elish, Fate/stay night Servant",
     "voice_actor": "Kawasumi Ayako"
   },
   {
-    "aliases": "Saber Lily, Artoria Lily",
+    "aliases": "Saber Lily, Artoria Lily, Altria Pendragon (Lily)",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
     "class_type": "Saber",
@@ -56,7 +56,7 @@
     "voice_actor": "Kawasumi Ayako"
   },
   {
-    "aliases": "Emperor of Roses, Red Saber, Nero Claudius Caesar Augustus Germanicus",
+    "aliases": "Emperor of Roses, Nero, Red Saber, Nero Claudius Caesar Augustus Germanicus",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
     "class_type": "Saber",
@@ -80,11 +80,11 @@
     "jp_name": "ジークフリート",
     "name": "Siegfried",
     "rarity": 4,
-    "traits": "Loved One, Costume-Owning, Dragon, Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "traits": "Loved One, Costume-Owning, Dragon, Dragon Slayer, Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Suwabe Jun'ichi"
   },
   {
-    "aliases": "Julius Caesar, Red Saber (Self-Proclaimed)",
+    "aliases": "Caesar, Julius Caesar, Red Saber (Self-Proclaimed)",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
     "class_type": "Saber",
@@ -112,7 +112,7 @@
     "voice_actor": "Noto Mamiko"
   },
   {
-    "aliases": "",
+    "aliases": "Gilles",
     "alignment": "Lawful・Good",
     "attribute": "Man",
     "class_type": "Saber",
@@ -126,7 +126,7 @@
     "voice_actor": "Tsuruoka Satoshi"
   },
   {
-    "aliases": "Knight of the White Lily, Maid Knight, Charles-Geneviève-Louis-Auguste-André-Timothée d'Éon de Beaumont",
+    "aliases": "d'Eon, Knight of the White Lily, Maid Knight, Charles-Geneviève-Louis-Auguste-André-Timothée d'Éon de Beaumont",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
     "class_type": "Saber",
@@ -140,7 +140,7 @@
     "voice_actor": "Saitō Chiwa"
   },
   {
-    "aliases": "Wrought Iron Hero, Emiya Shirou, Nameless/No Name (無銘), Red Archer(赤のアーチャー), Red Bowman, Faker (フェイカー), Hero of Justice (正義の味方),",
+    "aliases": "Wrought Iron Hero, Emiya Shirou, Nameless/No Name (無銘), Red Archer(赤のアーチャー), Red Bowman, Faker (フェイカー), Hero of Justice (正義の味方), Emiya",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
     "class_type": "Archer",
@@ -150,7 +150,7 @@
     "jp_name": "エミヤ",
     "name": "EMIYA",
     "rarity": 4,
-    "traits": "Loved One, Costume-Owning, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "traits": "Loved One, Costume-Owning, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish, Fate/stay night Servant",
     "voice_actor": "Suwabe Jun'ichi"
   },
   {
@@ -164,7 +164,7 @@
     "jp_name": "ギルガメッシュ",
     "name": "Gilgamesh",
     "rarity": 5,
-    "traits": "Divinity, Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "traits": "Divinity, Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Weak to Enuma Elish, Fate/stay night Servant",
     "voice_actor": "Seki Tomokazu"
   },
   {
@@ -234,11 +234,11 @@
     "jp_name": "クー・フーリン",
     "name": "Cú Chulainn",
     "rarity": 3,
-    "traits": "Loved One, Divinity, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "traits": "Loved One, Divinity, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish, Fate/stay night Servant",
     "voice_actor": "Canna Nobutoshi"
   },
   {
-    "aliases": "Elisabeth Báthory, Elizabeth Bathory, Blood Countess, Countess Dracula, Eli-Chan",
+    "aliases": "Elizabeth, Elisabeth Báthory, Elizabeth Bathory, Blood Countess, Countess Dracula, Eli-Chan",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
     "class_type": "Lancer",
@@ -252,7 +252,7 @@
     "voice_actor": "Ōkubo Rumi"
   },
   {
-    "aliases": "Hitachibou Kaison, Musashibou Benkei",
+    "aliases": "Hitachibou Kaison, Benkei, Musashibou Benkei",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
     "class_type": "Lancer",
@@ -266,7 +266,7 @@
     "voice_actor": "Inada Tetsu"
   },
   {
-    "aliases": "Proto Lancer, Cu Chulainn (Prototype), Sétanta, Hound of Ulster, Coo Hullan (Prototype), Child of the Sun, Child of Light",
+    "aliases": "Proto Lancer, Cú Chulainn, Cu Chulainn (Prototype), Sétanta, Hound of Ulster, Coo Hullan (Prototype), Child of the Sun, Child of Light",
     "alignment": "Lawful・Balanced",
     "attribute": "Sky",
     "class_type": "Lancer",
@@ -280,7 +280,7 @@
     "voice_actor": "Nakai Kazuya"
   },
   {
-    "aliases": "",
+    "aliases": "Leonidas",
     "alignment": "Lawful・Balanced",
     "attribute": "Man",
     "class_type": "Lancer",
@@ -318,7 +318,7 @@
     "jp_name": "メドゥーサ",
     "name": "Medusa",
     "rarity": 3,
-    "traits": "Non-Hominidae Servant, Costume-Owning, Divinity, Divine Spirit, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "traits": "Non-Hominidae Servant, Costume-Owning, Divinity, Divine Spirit, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish, Fate/stay night Servant",
     "voice_actor": "Asakawa Yū"
   },
   {
@@ -332,11 +332,11 @@
     "jp_name": "ゲオルギウス",
     "name": "Georgios",
     "rarity": 2,
-    "traits": "Loved One, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "traits": "Dragon Slayer, Loved One, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Saizen Tadahisa"
   },
   {
-    "aliases": "Blackbeard",
+    "aliases": "Blackbeard, Teach",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
     "class_type": "Rider",
@@ -430,11 +430,11 @@
     "jp_name": "メディア",
     "name": "Medea",
     "rarity": 3,
-    "traits": "Argo-Related, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "traits": "Argo-Related, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish, Fate/stay night Servant",
     "voice_actor": "Tanaka Atsuko"
   },
   {
-    "aliases": "Holy Monster, Bluebeard, Demon Marshal",
+    "aliases": "Gilles, Holy Monster, Bluebeard, Demon Marshal",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
     "class_type": "Caster",
@@ -448,7 +448,7 @@
     "voice_actor": "Tsuruoka Satoshi"
   },
   {
-    "aliases": "",
+    "aliases": "Andersen",
     "alignment": "Lawful・Balanced",
     "attribute": "Man",
     "class_type": "Caster",
@@ -462,7 +462,7 @@
     "voice_actor": "Koyasu Takehito, Tanaka Rie"
   },
   {
-    "aliases": "The Greatest Writer, Caster of Red",
+    "aliases": "Shakespeare, The Greatest Writer, Caster of Red",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
     "class_type": "Caster",
@@ -490,7 +490,7 @@
     "voice_actor": "Koyasu Takehito"
   },
   {
-    "aliases": "Gottlieb",
+    "aliases": "Amadeus, Gottlieb",
     "alignment": "Neutral・Good",
     "attribute": "Star",
     "class_type": "Caster",
@@ -504,7 +504,7 @@
     "voice_actor": "Seki Tomokazu"
   },
   {
-    "aliases": "Waver Velvet,\"El-Melloi II\", Great Big Ben London☆Star, Shokatsu Kōmei, Kongming",
+    "aliases": "Zhuge Liang, Waver Velvet, \"El-Melloi II\", Great Big Ben London☆Star, Shokatsu Kōmei, Zhuge Kongming",
     "alignment": "Neutral・Good",
     "attribute": "Man",
     "class_type": "Caster",
@@ -532,7 +532,7 @@
     "voice_actor": "Canna Nobutoshi"
   },
   {
-    "aliases": "Nameless Master, Nameless Samurai, Tsuda, Sasaki Kojirou, REGEND, Sasaki Ganryu",
+    "aliases": "Nameless Master, Kojirō, Nameless Samurai, Tsuda, Sasaki Kojirou, REGEND, Sasaki Ganryu, Savior of France",
     "alignment": "Neutral・Evil",
     "attribute": "Man",
     "class_type": "Assassin",
@@ -542,11 +542,11 @@
     "jp_name": "佐々木小次郎",
     "name": "Sasaki Kojirō",
     "rarity": 1,
-    "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish, Fate/stay night Servant",
     "voice_actor": "Miki Shin'ichirō"
   },
   {
-    "aliases": "Assassin of The White Skull, True Assassin, Hanam, Cursed Arm Hassan",
+    "aliases": "Assassin of The White Skull, Hassan, True Assassin, Hanam, Cursed Arm Hassan",
     "alignment": "Lawful・Evil",
     "attribute": "Man",
     "class_type": "Assassin",
@@ -556,7 +556,7 @@
     "jp_name": "呪腕のハサン",
     "name": "Hassan of the Cursed Arm",
     "rarity": 2,
-    "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish, Fate/stay night Servant",
     "voice_actor": "Inada Tetsu"
   },
   {
@@ -588,7 +588,7 @@
     "voice_actor": "Tanaka Atsuko"
   },
   {
-    "aliases": "",
+    "aliases": "Sanson",
     "alignment": "Lawful・Evil",
     "attribute": "Man",
     "class_type": "Assassin",
@@ -602,7 +602,7 @@
     "voice_actor": "Miyano Mamoru"
   },
   {
-    "aliases": "Erik, Berserker of Shinjuku, Angel of Music",
+    "aliases": "Phantom, Erik, Berserker of Shinjuku, Angel of Music",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
     "class_type": "Assassin",
@@ -654,7 +654,7 @@
     "jp_name": "ヘラクレス",
     "name": "Heracles",
     "rarity": 4,
-    "traits": "Argo-Related, Divinity, Greek Mythology Male, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "traits": "Argo-Related, Divinity, Greek Mythology Male, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish, Fate/stay night Servant",
     "voice_actor": "Saizen Tadahisa"
   },
   {
@@ -672,7 +672,7 @@
     "voice_actor": "Okiayu Ryōtarō"
   },
   {
-    "aliases": "General of Repetition, Lü Bu Fengxian, Ryo Fu",
+    "aliases": "Lu Bu, General of Repetition, Lü Bu Fengxian, Ryo Fu",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
     "class_type": "Berserker",
@@ -784,7 +784,7 @@
     "voice_actor": "Taneda Risa"
   },
   {
-    "aliases": "Bloodaxe King, Eric Haraldsson",
+    "aliases": "Eric, Bloodaxe King, Eric Haraldsson",
     "alignment": "Chaotic・Balanced",
     "attribute": "Man",
     "class_type": "Berserker",
@@ -812,7 +812,7 @@
     "voice_actor": "Saitō Chiwa"
   },
   {
-    "aliases": "Holy Maiden of Salvation, Joan of Arc, Juana de Arco, La Pucelle d'Orléans, The Maiden of Orleans, St. Joan, Joanna d'arc",
+    "aliases": "Holy Maiden of Salvation, Jeanne, Joan of Arc, Juana de Arco, La Pucelle d'Orléans, The Maiden of Orleans, St. Joan, Joanna d'arc",
     "alignment": "Lawful・Good",
     "attribute": "Star",
     "class_type": "Ruler",
@@ -840,7 +840,7 @@
     "voice_actor": "Canna Nobutoshi, Sawashiro Miyuki"
   },
   {
-    "aliases": "Hallo-Eli, Elisabeth Báthory (Halloween)",
+    "aliases": "Elizabeth, Hallo-Eli, Elisabeth Báthory (Halloween)",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
     "class_type": "Caster",
@@ -854,7 +854,7 @@
     "voice_actor": "Ōkubo Rumi"
   },
   {
-    "aliases": "Fox Priestess of Peerless Beauty, Cas-ko, Mizukume",
+    "aliases": "Fox Priestess of Peerless Beauty, Cas-ko, Mizukume, Tamamo-no-Mae",
     "alignment": "Neutral・Evil",
     "attribute": "Sky",
     "class_type": "Caster",
@@ -896,7 +896,7 @@
     "voice_actor": "Yasui Kunihiko"
   },
   {
-    "aliases": "Voyager of the Storm, El Draque, King of Storms, King of Ghosts",
+    "aliases": "Voyager of the Storm, Drake, El Draque, King of Storms, King of Ghosts",
     "alignment": "Chaotic・Evil",
     "attribute": "Star",
     "class_type": "Rider",
@@ -910,7 +910,7 @@
     "voice_actor": "Takano Urara"
   },
   {
-    "aliases": "",
+    "aliases": "Mary",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
     "class_type": "Rider",
@@ -924,7 +924,7 @@
     "voice_actor": "Nonaka Ai, Kawasumi Ayako"
   },
   {
-    "aliases": "",
+    "aliases": "Medea Lily",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
     "class_type": "Caster",
@@ -980,7 +980,7 @@
     "voice_actor": "Noto Mamiko"
   },
   {
-    "aliases": "Beautiful Young Warrior, Diarmuid O'Dyna, Diarmuid of the Love Spot",
+    "aliases": "Beautiful Young Warrior, Diarmuid, Diarmuid O'Dyna, Diarmuid of the Love Spot",
     "alignment": "Lawful・Balanced",
     "attribute": "Earth",
     "class_type": "Lancer",
@@ -994,7 +994,7 @@
     "voice_actor": "Midorikawa Hikaru"
   },
   {
-    "aliases": "",
+    "aliases": "Fergus",
     "alignment": "Lawful・Balanced",
     "attribute": "Earth",
     "class_type": "Saber",
@@ -1008,7 +1008,7 @@
     "voice_actor": "Kuroda Takaya"
   },
   {
-    "aliases": "",
+    "aliases": "Santa Alter, Altria Pendragon (Santa Alter)",
     "alignment": "Lawful・Good",
     "attribute": "Man",
     "class_type": "Rider",
@@ -1036,7 +1036,7 @@
     "voice_actor": "Nonaka Ai"
   },
   {
-    "aliases": "Innocent Murderer, 切り裂きジャック, Assassin of Black, Legendary Serial Killer",
+    "aliases": "Innocent Murderer, Jack, 切り裂きジャック, Assassin of Black, Legendary Serial Killer",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
     "class_type": "Assassin",
@@ -1078,7 +1078,7 @@
     "voice_actor": "Inada Tetsu"
   },
   {
-    "aliases": "Artoria Lancer, King of Storms",
+    "aliases": "Artoria, Artoria Lancer, King of Storms, Altria Pendragon (Alter)",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
     "class_type": "Lancer",
@@ -1092,7 +1092,7 @@
     "voice_actor": "Kawasumi Ayako"
   },
   {
-    "aliases": "",
+    "aliases": "Paracelsus",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
     "class_type": "Caster",
@@ -1106,7 +1106,7 @@
     "voice_actor": "Miki Shin'ichirō"
   },
   {
-    "aliases": "Dream of Steam, King of Steam, Father of the Computer",
+    "aliases": "Dream of Steam, King of Steam, Babbage, Father of the Computer",
     "alignment": "Chaotic・Balanced",
     "attribute": "Man",
     "class_type": "Caster",
@@ -1120,7 +1120,7 @@
     "voice_actor": "Inada Tetsu"
   },
   {
-    "aliases": "Double Entities, Dr. Jekyll and Mr. Hyde, Edward Hyde",
+    "aliases": "Double Entities, Jekyll, Hyde, Dr. Jekyll and Mr. Hyde, Edward Hyde",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
     "class_type": "Assassin",
@@ -1148,9 +1148,9 @@
     "voice_actor": "Nonaka Ai"
   },
   {
-    "aliases": "Grand Caster, King of Magic, [Solomon-Goetia], [The Four Devoting Pillars]",
-    "alignment": "Lawful・Good",
-    "attribute": "Sky",
+    "aliases": "Grand Caster, King of Magic, King Solomon, [Solomon-Goetia], [The Four Devoting Pillars]",
+    "alignment": "Chaotic・Good",
+    "attribute": "Beast",
     "class_type": "Grand Caster",
     "gender": "m",
     "id": 83,
@@ -1190,7 +1190,7 @@
     "voice_actor": "Yusa Kōji"
   },
   {
-    "aliases": "MHX, A-X, Mysterious Racer X (Summer Event)",
+    "aliases": "Heroine X, MHX, A-X, Mysterious Racer X",
     "alignment": "Chaotic・Good",
     "attribute": "Star",
     "class_type": "Assassin",
@@ -1204,7 +1204,7 @@
     "voice_actor": "Kawasumi Ayako"
   },
   {
-    "aliases": "Finn MacCool, Finn MacCoul",
+    "aliases": "Fionn, Finn MacCool, Finn MacCoul",
     "alignment": "Neutral・Balanced",
     "attribute": "Sky",
     "class_type": "Lancer",
@@ -1218,7 +1218,7 @@
     "voice_actor": "Miki Shin'ichirō"
   },
   {
-    "aliases": "Brynhild (Brünnhilde), Sigrdrífa, Brunilda",
+    "aliases": "Brynhild, Brünnhilde, Sigrdrífa, Brunilda",
     "alignment": "Neutral・Good",
     "attribute": "Sky",
     "class_type": "Lancer",
@@ -1246,21 +1246,21 @@
     "voice_actor": "Nakai Kazuya"
   },
   {
-    "aliases": "Saber Bride",
+    "aliases": "Nero Bride, Saber Bride",
     "alignment": "Chaotic・Bride",
     "attribute": "Man",
     "class_type": "Saber",
     "gender": "f",
     "id": 90,
     "illustrator": "Wada Arco",
-    "jp_name": "ネロ・クラウディウス 〔ブライド〕",
+    "jp_name": "ネロ・クラウディウス〔ブライド〕",
     "name": "Nero Claudius (Bride)",
     "rarity": 5,
     "traits": "Artoria Face, Hominidae Servant, Humanoid, King, Riding, Roman, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Tange Sakura"
   },
   {
-    "aliases": "「Ryōgi Shiki」, Void Shiki, Saber Shiki",
+    "aliases": "「Ryōgi Shiki」, Void Shiki, Saber Shiki, Ryougi Shiki (Saber)",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
     "class_type": "Saber",
@@ -1274,8 +1274,8 @@
     "voice_actor": "Sakamoto Maaya"
   },
   {
-    "aliases": "Ryougi Shiki",
-    "alignment": "Chaotic ・ Good",
+    "aliases": "Ryougi Shiki, Ryougi Shiki (Assassin)",
+    "alignment": "Chaotic・Good",
     "attribute": "Man",
     "class_type": "Assassin",
     "gender": "f",
@@ -1330,7 +1330,7 @@
     "voice_actor": "Endō Aya"
   },
   {
-    "aliases": "The Count of Monte Cristo, The King of the Cavern",
+    "aliases": "The King of the Cavern",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
     "class_type": "Avenger",
@@ -1358,7 +1358,7 @@
     "voice_actor": "Sawashiro Miyuki"
   },
   {
-    "aliases": "Cú Alter, Mad King Cú Chulainn",
+    "aliases": "Cú Chulainn Alter, Cú Alter, Mad King Cú Chulainn",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
     "class_type": "Berserker",
@@ -1372,7 +1372,7 @@
     "voice_actor": "Canna Nobutoshi"
   },
   {
-    "aliases": "Queen of Connacht, Queen Maeve, Eternal Lady",
+    "aliases": "Queen of Connacht, Medb, Queen Maeve, Eternal Lady",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
     "class_type": "Rider",
@@ -1386,7 +1386,7 @@
     "voice_actor": "Sakura Ayane"
   },
   {
-    "aliases": "Elena Blavatsky, Madame Blavatsky, Еле́на Петро́вна Блава́тская, Yelena Petrovna Blavatskaya",
+    "aliases": "Blavatsky, Elena Blavatsky, Madame Blavatsky, Еле́на Петро́вна Блава́тская, Yelena Petrovna Blavatskaya",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
     "class_type": "Caster",
@@ -1456,7 +1456,7 @@
     "voice_actor": "Egawa Hisao"
   },
   {
-    "aliases": "Juvenile Rascal King",
+    "aliases": "Juvenile Rascal King, Billy",
     "alignment": "Chaotic・Balanced",
     "attribute": "Man",
     "class_type": "Archer",
@@ -1470,7 +1470,7 @@
     "voice_actor": "Takano Urara"
   },
   {
-    "aliases": "Dragon Witch, Jalter, Witch of Vengeance, 邪ンヌ",
+    "aliases": "Dragon Witch, Jeanne Alter, Jalter, Witch of Vengeance, 邪ンヌ",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
     "class_type": "Avenger",
@@ -1512,7 +1512,7 @@
     "voice_actor": "Ōtsuka Akio"
   },
   {
-    "aliases": "Emiya Kiritsugu, Magus Killer",
+    "aliases": "Emiya Kiritsugu, EMIYA, Magus Killer, Emiya (Assassin)",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
     "class_type": "Assassin",
@@ -1564,7 +1564,7 @@
     "jp_name": "酒呑童子",
     "name": "Shuten Dōji",
     "rarity": 5,
-    "traits": "Non-Hominidae Servant, Costume-Owning, Demonic, Divinity, Dragon, Humanoid, Oni, Servant, Seven Knights Servant, Shuten Dōji (Trait), Weak to Enuma Elish",
+    "traits": "Non-Hominidae Servant, Costume-Owning, Demonic, Demon Beast, Divinity, Dragon, Humanoid, Oni, Servant, Seven Knights Servant, Shuten Dōji (Trait), Weak to Enuma Elish",
     "voice_actor": "Yūki Aoi"
   },
   {
@@ -1582,7 +1582,7 @@
     "voice_actor": "Komatsu Mikako"
   },
   {
-    "aliases": "Minamoto no Yorimitsu, Ushi Gozen, [Kālasūtra Hell Rider]",
+    "aliases": "Minamoto-no-Raikou, Minamoto no Yorimitsu, Ushi Gozen, [Kālasūtra Hell Rider]",
     "alignment": "Chaotic・Good",
     "attribute": "Sky",
     "class_type": "Berserker",
@@ -1620,11 +1620,11 @@
     "jp_name": "茨木童子",
     "name": "Ibaraki Dōji",
     "rarity": 4,
-    "traits": "Non-Hominidae Servant, Child Servant, Demonic, Humanoid, Oni, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "traits": "Non-Hominidae Servant, Child Servant, Demon Beast, Demonic, Humanoid, Oni, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Tōyama Nao"
   },
   {
-    "aliases": "Fuuma Kotarou, Fuuma \"Evil-Wind\" Kotarou",
+    "aliases": "Fuuma Kotarou, Fuuma \"Evil-wind\" Kotarou",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
     "class_type": "Assassin",
@@ -1652,7 +1652,7 @@
     "voice_actor": "Koyasu Takehito"
   },
   {
-    "aliases": "Lion King, King Arthur, King of Knights, Goddess of Rhongomyniad",
+    "aliases": "Lion King, King Arthur, Artoria, King of Knights, Goddess of Rhongomyniad, Altria Pendragon (Lancer)",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
     "class_type": "Lancer",
@@ -1736,7 +1736,7 @@
     "voice_actor": "Senbongi Sayaka"
   },
   {
-    "aliases": "Fujiwara no Hidesato, Tawara no Touta",
+    "aliases": "Fujiwara no Hidesato, Tawara no Touta, Tawara Touta",
     "alignment": "Neutral・Good",
     "attribute": "Man",
     "class_type": "Archer",
@@ -1764,7 +1764,7 @@
     "voice_actor": "Miyano Mamoru"
   },
   {
-    "aliases": "Universal Genius, Da Vinci-chan, Shopkeeper",
+    "aliases": "Universal Genius, Da Vinci-chan, Da Vinci, Shopkeeper, Leonardo da Vinci",
     "alignment": "Chaotic・Good",
     "attribute": "Star",
     "class_type": "Caster",
@@ -1778,7 +1778,7 @@
     "voice_actor": "Sakamoto Maaya"
   },
   {
-    "aliases": "Summer Tamamo-chan, Tamamo Shark",
+    "aliases": "Tamamo-chan Summer, Tamamo Shark, Tamamo-no-Mae (Lancer)",
     "alignment": "Neutral・Summer",
     "attribute": "Sky",
     "class_type": "Lancer",
@@ -1792,7 +1792,7 @@
     "voice_actor": "Saitō Chiwa"
   },
   {
-    "aliases": "Archuria, Squirtoria",
+    "aliases": "Artoria, Archuria, Squirtoria, Altria Pendragon (Archer)",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
     "class_type": "Archer",
@@ -1820,7 +1820,7 @@
     "voice_actor": "Taneda Risa"
   },
   {
-    "aliases": "",
+    "aliases": "Anne Bonny",
     "alignment": "Chaotic・Balanced",
     "attribute": "Man",
     "class_type": "Archer",
@@ -1904,7 +1904,7 @@
     "voice_actor": "Kadowaki Mai, Takano Naoko"
   },
   {
-    "aliases": "Kuro",
+    "aliases": "Chloe, Kuro",
     "alignment": "Chaotic・Good",
     "attribute": "Sky",
     "class_type": "Archer",
@@ -1918,7 +1918,7 @@
     "voice_actor": "Saitō Chiwa"
   },
   {
-    "aliases": "Brave-Eliza, Elizabeth Bathory (Brave)",
+    "aliases": "Elizabeth, Brave-Eliza, Elizabeth Bathory (Brave), Elisabeth Báthory (Brave)",
     "alignment": "Chaotic・Good",
     "attribute": "Earth",
     "class_type": "Saber",
@@ -1946,7 +1946,7 @@
     "voice_actor": "Kugimiya Rie"
   },
   {
-    "aliases": "Vlad the Impaler, Vlad Ţepeş, Count Dracula",
+    "aliases": "Vlad III, Vlad the Impaler, Vlad Ţepeş, Count Dracula",
     "alignment": "Lawful・Good",
     "attribute": "Man",
     "class_type": "Lancer",
@@ -1960,7 +1960,7 @@
     "voice_actor": "Egawa Hisao"
   },
   {
-    "aliases": "Joan of Arc",
+    "aliases": "Joan of Arc, Jeanne Alter Santa Lily",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
     "class_type": "Lancer",
@@ -2058,7 +2058,7 @@
     "voice_actor": "Asakawa Yū"
   },
   {
-    "aliases": "Jaguar Warrior (NA), Fujimura Taiga",
+    "aliases": "Jaguar Warrior, Taiga Fujimura",
     "alignment": "Chaotic・Balanced",
     "attribute": "Earth",
     "class_type": "Lancer",
@@ -2072,7 +2072,7 @@
     "voice_actor": "Itō Miki"
   },
   {
-    "aliases": "Beast II, Goddess of Beginning, Nammu, Mother of Genesis",
+    "aliases": "Femme Fatale, Beast II, Goddess of Beginning, Nammu, Mother of Genesis",
     "alignment": "Chaotic・Evil",
     "attribute": "Beast",
     "class_type": "Beast II",
@@ -2101,7 +2101,7 @@
   },
   {
     "aliases": "King of Demon Gods Goetia, King of Men Goetia, Beast I",
-    "alignment": "Chaotic・Evil",
+    "alignment": "Chaotic・Good",
     "attribute": "Beast",
     "class_type": "Beast I",
     "gender": "None",
@@ -2110,11 +2110,11 @@
     "jp_name": "ゲーティア",
     "name": "Goetia",
     "rarity": 5,
-    "traits": "Enuma Elish Nullification, King",
+    "traits": "King",
     "voice_actor": "Sugita Tomokazu"
   },
   {
-    "aliases": "True Solomon, King of Magic, [Romani Archaman]",
+    "aliases": "King Solomon, True Solomon, King of Magic, [Romani Archaman]",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
     "class_type": "Caster",
@@ -2142,21 +2142,21 @@
     "voice_actor": "Sakura Ayane"
   },
   {
-    "aliases": "King Hassan, First Hassan, Hassan-i Sabbah, Grand Assassin",
+    "aliases": "King Hassan, \"First Hassan\", Hassan-i Sabbah, Grand Assassin",
     "alignment": "Lawful・Evil",
     "attribute": "Man",
     "class_type": "Assassin",
     "gender": "m",
     "id": 154,
     "illustrator": "Ryota-H",
-    "jp_name": "\"山の翁\"",
+    "jp_name": "“山の翁”",
     "name": "\"The Old Man of the Mountain\"",
     "rarity": 5,
     "traits": "Loved One, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Nakata Jōji"
   },
   {
-    "aliases": "MHX Alter, MHXA, Ecchan",
+    "aliases": "Heroine X Alter, MHX Alter, MHXA, Ecchan",
     "alignment": "Neutral・Evil",
     "attribute": "Star",
     "class_type": "Berserker",
@@ -2170,21 +2170,21 @@
     "voice_actor": "Kawasumi Ayako"
   },
   {
-    "aliases": "Archer of Shinjuku, Professor Moriarty, The Napoléon of Crime, Sherlock Holmes Rival",
+    "aliases": "Archer of Shinjuku, Moriarty, Professor Moriarty, The Napoléon of Crime, Sherlock Holmes Rival",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
     "class_type": "Archer",
     "gender": "m",
     "id": 156,
     "illustrator": "Honjō Raita",
-    "jp_name": "ジェームズ・モリアーティ",
+    "jp_name": "ジェームズ・モリアーティ; 新宿のアーチャー",
     "name": "James Moriarty",
     "rarity": 5,
     "traits": "Costume-Owning, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Hashi Takaya"
   },
   {
-    "aliases": "Emiya Shirou, Detroit Emiya, Demiya, Edgemiya, Edgy Emiya",
+    "aliases": "Emiya (Alter), Emiya Shirou, EMIYA Alter, Detroit Emiya, Demiya, Edgemiya, Edgy Emiya",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
     "class_type": "Archer",
@@ -2205,7 +2205,7 @@
     "gender": "m",
     "id": 158,
     "illustrator": "Simosi",
-    "jp_name": "ヘシアン・ロボ",
+    "jp_name": "ヘシアン・ロボ; 新宿のアヴェンジャー",
     "name": "Hessian Lobo",
     "rarity": 4,
     "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Demonic Beast Servant, Fairy Tale Servant, Humanoid, Servant, Weak to Enuma Elish, Wild Beast",
@@ -2219,14 +2219,14 @@
     "gender": "m",
     "id": 159,
     "illustrator": "Shimaudon",
-    "jp_name": "燕青",
+    "jp_name": "燕青; 新宿のアサシン",
     "name": "Yan Qing",
     "rarity": 4,
     "traits": "Loved One, Costume-Owning, Hominidae Servant, Humanoid, Mount Liang, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Okamoto Nobuhiko"
   },
   {
-    "aliases": "Knight of Sky Silver, Proto Saber, Red Dragon, King of Knights, King Arthur, Artorius",
+    "aliases": "Arthur, Knight of Sky Silver, Proto Saber, Red Dragon, King of Knights, King Arthur, Artorius",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
     "class_type": "Saber",
@@ -2240,7 +2240,7 @@
     "voice_actor": "Sakurai Takahiro"
   },
   {
-    "aliases": "Hijikata Toshizou, Demon of the Battlefield; Berserker of Bakumatsu Period; Vice Captain of Shinsengumi",
+    "aliases": "Hijikata Toshizou; Hijikata Toshizo; Demon of the Battlefield; Berserker of Bakumatsu Period; Vice Captain of Shinsengumi",
     "alignment": "Lawful・Evil",
     "attribute": "Man",
     "class_type": "Berserker",
@@ -2352,28 +2352,28 @@
     "voice_actor": "Tanaka Rie"
   },
   {
-    "aliases": "Caster of Nightless City, Shahrazad (Persian)",
+    "aliases": "Caster of Nightless City, Caster of the Nightless City, Shahrazad (Persian)",
     "alignment": "Lawful・Balanced",
     "attribute": "Man",
     "class_type": "Caster",
     "gender": "f",
     "id": 169,
     "illustrator": "Namaniku ATK (Nitroplus)",
-    "jp_name": "シェヘラザード",
+    "jp_name": "シェヘラザード; 不夜城のキャスター",
     "name": "Scheherazade",
     "rarity": 5,
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Inoue Kikuko"
   },
   {
-    "aliases": "Assassin of Nightless City, Fūyā-chan, Nite Brite, Bu Sokuten",
+    "aliases": "Assassin of Nightless City, Assassin of the Nightless City, Fūyā-chan, Nite Brite, Bu Sokuten, Wu Zhao",
     "alignment": "Lawful・Evil",
     "attribute": "Man",
     "class_type": "Assassin",
     "gender": "f",
     "id": 170,
     "illustrator": "Harada Takehito",
-    "jp_name": "武則天",
+    "jp_name": "武則天; 不夜城のアサシン",
     "name": "Wu Zetian",
     "rarity": 4,
     "traits": "Child Servant, Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Weak to Enuma Elish",
@@ -2387,21 +2387,21 @@
     "gender": "f",
     "id": 171,
     "illustrator": "Shinjirō",
-    "jp_name": "ペンテシレイア",
+    "jp_name": "ペンテシレイア; エルドラドのバーサーカー",
     "name": "Penthesilea",
     "rarity": 4,
     "traits": "Costume-Owning, Divinity, Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Shimamura Yū"
   },
   {
-    "aliases": "Rider of Resistance, Cristoforo Colombo, Cristóbal Colón, Cristóvão Colombo",
+    "aliases": "Rider of Resistance, Rider of the Resistance, Columbus, Cristoforo Colombo, Cristóbal Colón, Cristóvão Colombo",
     "alignment": "Neutral・Evil",
     "attribute": "Man",
     "class_type": "Rider",
     "gender": "m",
     "id": 172,
     "illustrator": "Motomurabito",
-    "jp_name": "クリストファー・コロンブス",
+    "jp_name": "クリストファー・コロンブス; レジスタンスのライダー",
     "name": "Christopher Columbus",
     "rarity": 3,
     "traits": "Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
@@ -2422,7 +2422,7 @@
     "voice_actor": "Mizushima Takahiro"
   },
   {
-    "aliases": "Berserker of Learning with Manga",
+    "aliases": "Bunyan, Berserker of Learning with Manga",
     "alignment": "Neutral・Balanced",
     "attribute": "Earth",
     "class_type": "Berserker",
@@ -2436,7 +2436,7 @@
     "voice_actor": "Omigawa Chiaki"
   },
   {
-    "aliases": "",
+    "aliases": "Nero",
     "alignment": "Chaotic・Summer",
     "attribute": "Man",
     "class_type": "Caster",
@@ -2450,7 +2450,7 @@
     "voice_actor": "Tange Sakura"
   },
   {
-    "aliases": "",
+    "aliases": "Fran",
     "alignment": "Neutral・Summer",
     "attribute": "Earth",
     "class_type": "Saber",
@@ -2492,7 +2492,7 @@
     "voice_actor": "Kugimiya Rie"
   },
   {
-    "aliases": "Maid Alter, Demonic Chief Maid, King of Maids",
+    "aliases": "Altria Pendragon Alter (Rider), Maid Alter, Demonic Chief Maid, King of Maids",
     "alignment": "Lawful・Evil",
     "attribute": "Man",
     "class_type": "Rider",
@@ -2506,7 +2506,7 @@
     "voice_actor": "Kawasumi Ayako"
   },
   {
-    "aliases": "Elena Blavatsky",
+    "aliases": "Blavatsky, Elena Blavatsky",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
     "class_type": "Archer",
@@ -2520,7 +2520,7 @@
     "voice_actor": "Kanemoto Hisako"
   },
   {
-    "aliases": "Minamoto no Yorimitsu, Minamoto no Raikou",
+    "aliases": "Minamoto no Yorimitsu, Minamoto no Raikou (Lancer)",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
     "class_type": "Lancer",
@@ -2548,7 +2548,7 @@
     "voice_actor": "Ueda Kana"
   },
   {
-    "aliases": "Par, Pārvatī, Matou Sakura, Goddess Uma, Loka Mata",
+    "aliases": "Par, Pārvatī, Sakura Matou, Goddess Uma, Loka Mata",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
     "class_type": "Lancer",
@@ -2562,28 +2562,28 @@
     "voice_actor": "Shitaya Noriko"
   },
   {
-    "aliases": "Archer Inferno",
+    "aliases": "Archer Inferno, Archer of Inferno",
     "alignment": "Neutral・Balanced",
     "attribute": "Earth",
     "class_type": "Archer",
     "gender": "Female",
     "id": 184,
     "illustrator": "Shirabi",
-    "jp_name": "巴御前",
+    "jp_name": "巴御前; アーチャー・インフェルノ",
     "name": "Tomoe Gozen",
     "rarity": 4,
     "traits": "Demonic, Genji, Hominidae Servant, Humanoid, Oni, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kanemoto Hisako"
   },
   {
-    "aliases": "Assassin Paraíso",
+    "aliases": "Assassin Paraíso; Assassin of Paraíso",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
     "class_type": "Assassin",
     "gender": "f",
     "id": 185,
     "illustrator": "Hiroyama Hiroshi",
-    "jp_name": "望月千代女",
+    "jp_name": "望月千代女; アサシン・パライソ",
     "name": "Mochizuki Chiyome",
     "rarity": 4,
     "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
@@ -2604,21 +2604,21 @@
     "voice_actor": "Namikawa Daisuke"
   },
   {
-    "aliases": "Yagyuu Munenori, Ryūtan",
+    "aliases": "Yagyuu Tajima-no-kami Munenori, Yagyū Munenori, Yagyuu Munenori, Ryūtan",
     "alignment": "Lawful・Balanced",
     "attribute": "Man",
     "class_type": "Saber",
     "gender": "Male",
     "id": 187,
     "illustrator": "Furumi Showichi",
-    "jp_name": "柳生但馬守宗矩",
+    "jp_name": "柳生但馬守宗矩; 柳生但馬守",
     "name": "Yagyū Munenori",
     "rarity": 4,
     "traits": "Loved One, Genji, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Yamaji Kazuhiro"
   },
   {
-    "aliases": "Katou Danzou, Katou \"Black Kite\" Danzo, Flying Katou (飛び加藤, Tobi Kato), Kite Katou",
+    "aliases": "Katou Danzou, Katou \"Black Kite\" Danzo, Flying Katou, Kite Katou",
     "alignment": "Neutral・Balanced",
     "attribute": "Earth",
     "class_type": "Assassin",
@@ -2681,7 +2681,7 @@
     "gender": "Female",
     "id": 192,
     "illustrator": "Hidari",
-    "jp_name": "キルケー",
+    "jp_name": "キルケー; オケアノスのキャスター",
     "name": "Circe",
     "rarity": 4,
     "traits": "Argo-Related, Levitating Servant, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
@@ -2709,14 +2709,14 @@
     "gender": "Female",
     "id": 194,
     "illustrator": "Katō Itsuwa",
-    "jp_name": "シバの女王",
+    "jp_name": "シバの女王; ミドラーシュのキャスター",
     "name": "Queen of Sheba",
     "rarity": 4,
     "traits": "Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Satō Satomi"
   },
   {
-    "aliases": "The Key to the Gate, Sut-Typhon, Yog-Sothoth, All-in-One, One-in-All, Abby",
+    "aliases": "Abigail, The Key to the Gate, Sut-Typhon, Yog-Sothoth, All-in-One, One-in-All, Abby",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
     "class_type": "Foreigner",
@@ -2744,7 +2744,7 @@
     "voice_actor": "Ueda Kana"
   },
   {
-    "aliases": "Attila Santa, Etzel, Santera",
+    "aliases": "Altera Santa, Attila the San(ta), Attila Santa, Etzel, Santera",
     "alignment": "Chaotic・Good",
     "attribute": "Star",
     "class_type": "Archer",
@@ -2814,7 +2814,7 @@
     "voice_actor": "Hara Yumi"
   },
   {
-    "aliases": "Nyalter",
+    "aliases": "Atalanta Alter, Atalante (Alter), Nyalter",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
     "class_type": "Berserker",
@@ -2842,7 +2842,7 @@
     "voice_actor": "Miyamoto Mitsuru"
   },
   {
-    "aliases": "Man in Grey",
+    "aliases": "Salieri, Man in Grey",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
     "class_type": "Avenger",
@@ -2912,7 +2912,7 @@
     "voice_actor": "Hanae Natsuki"
   },
   {
-    "aliases": "Majin Saber, Okita Souji (Alter), Majin - Okita Sōji, Devil Okita Sōji Alternative (魔神・沖田総司オルタナティブ), 煉獄オルタ",
+    "aliases": "Majin Saber, Okita Souji (Alter), Majin - Okita Sōji, Majin Okita Sōji Alternative, Rengoku Alter",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
     "class_type": "Alter Ego",
@@ -2926,7 +2926,7 @@
     "voice_actor": "Yūki Aoi, Nakamura Yūichi"
   },
   {
-    "aliases": "Manslayer Izō, Okada Izou, Ghost of Tosa, Dā Oka",
+    "aliases": "Okada Izo, Manslayer Izō, Okada Izou, Ghost of Tosa, Dā Oka",
     "alignment": "Neutral・Evil",
     "attribute": "Man",
     "class_type": "Assassin",
@@ -2954,7 +2954,7 @@
     "voice_actor": "Kase Yasuyuki, Horie Yui"
   },
   {
-    "aliases": "Man of Possibilities, Napoléon Bonaparte (ナポレオン・ボナパルト), Napoléon I, Emperor of the French, King of Italy, Good Fellow of Everlasting Flame",
+    "aliases": "Man of Possibilities, Napoleon, Napoléon Bonaparte, Napoléon I, Emperor of the French, King of Italy, Good Fellow of Everlasting Flame",
     "alignment": "Neutral・Good",
     "attribute": "Star",
     "class_type": "Archer",
@@ -2996,7 +2996,7 @@
     "voice_actor": "Tanaka Minami, Komatsu Mikako, Amamiya Sora"
   },
   {
-    "aliases": "スカサハ＝スカジ, Scathach=Skadi, Scáthach (Caster), Skadi, Queen of Ice and Snow",
+    "aliases": "スカサハ＝スカジ, Scáthach-Skadi, Scathach=Skadi, Scáthach (Caster), Skadi, Queen of Ice and Snow",
     "alignment": "Chaotic・Good",
     "attribute": "Sky",
     "class_type": "Caster",
@@ -3010,7 +3010,7 @@
     "voice_actor": "Noto Mamiko"
   },
   {
-    "aliases": "",
+    "aliases": "Jeanne",
     "alignment": "Lawful・Summer",
     "attribute": "Man",
     "class_type": "Archer",
@@ -3034,7 +3034,7 @@
     "jp_name": "茨木童子",
     "name": "Ibaraki Dōji (Lancer)",
     "rarity": 4,
-    "traits": "Non-Hominidae Servant, Child Servant, Demonic, Humanoid, Oni, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
+    "traits": "Non-Hominidae Servant, Child Servant, Demon Beast, Demonic, Humanoid, Oni, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Tōyama Nao"
   },
   {
@@ -3052,7 +3052,7 @@
     "voice_actor": "Hayami Saori"
   },
   {
-    "aliases": "Summer Jalter",
+    "aliases": "Jeanne Alter, Jeanne d'Arc Alter (Berserker), Summer Jalter",
     "alignment": "Chaotic・Summer",
     "attribute": "Man",
     "class_type": "Berserker",
@@ -3080,7 +3080,7 @@
     "voice_actor": "Shitaya Noriko"
   },
   {
-    "aliases": "Medb (Saber)",
+    "aliases": "Medb, Medb (Saber)",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
     "class_type": "Saber",
@@ -3094,21 +3094,21 @@
     "voice_actor": "Sakura Ayane"
   },
   {
-    "aliases": "MHXX, Mysterious Heroine X (Foreigner)",
+    "aliases": "Heroine XX, MHXX, Mysterious Heroine X (Foreigner)",
     "alignment": "Lawful・Good",
     "attribute": "Star",
     "class_type": "Foreigner",
     "gender": "Female",
     "id": 222,
     "illustrator": "BUNBUN",
-    "jp_name": "謎のヒロインＸＸ",
+    "jp_name": "謎のヒロインXX",
     "name": "Mysterious Heroine XX",
     "rarity": 4,
     "traits": "Enuma Elish Nullification, Arthur, Artoria Face, Loved One, Dragon, Existence Outside the Domain, Hominidae Servant, Humanoid, King, Riding, Servant, Summer Mode Servant",
     "voice_actor": "Kawasumi Ayako"
   },
   {
-    "aliases": "",
+    "aliases": "Diarmuid",
     "alignment": "Lawful・Balanced",
     "attribute": "Earth",
     "class_type": "Saber",
@@ -3136,7 +3136,7 @@
     "voice_actor": "Kadowaki Mai"
   },
   {
-    "aliases": "Magifender Girl Oni Cure, Dharmapala Girl Oni Cure",
+    "aliases": "Magifender Girl Oni Cure, Shuten-Douji (Caster), Dharmapala Girl Oni Cure",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
     "class_type": "Caster",
@@ -3146,7 +3146,7 @@
     "jp_name": "酒呑童子",
     "name": "Shuten Dōji (Caster)",
     "rarity": 4,
-    "traits": "Non-Hominidae Servant, Demonic, Divinity, Dragon, Humanoid, Oni, Servant, Seven Knights Servant, Shuten Dōji (Trait), Weak to Enuma Elish",
+    "traits": "Non-Hominidae Servant, Demon Beast, Demonic, Divinity, Dragon, Humanoid, Oni, Servant, Seven Knights Servant, Shuten Dōji (Trait), Weak to Enuma Elish",
     "voice_actor": "Yūki Aoi,Tōyama Nao"
   },
   {
@@ -3192,7 +3192,7 @@
     "voice_actor": "Shitaya Noriko"
   },
   {
-    "aliases": "First Emperor, Qin Shi Huang, Ying Zheng, Zheng, the King of Qin , the Son of Heaven, Shikōtei",
+    "aliases": "First Emperor, Qin Shi Huang, Ying Zheng, Zheng, the King of Qin, the Son of Heaven, Shikōtei",
     "alignment": "Lawful・Good",
     "attribute": "Man",
     "class_type": "Ruler",
@@ -3248,7 +3248,7 @@
     "voice_actor": "Morinaga Chitose"
   },
   {
-    "aliases": "",
+    "aliases": "Quetzalcoatl Samba",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
     "class_type": "Ruler",
@@ -3290,7 +3290,7 @@
     "voice_actor": "Yasui Kunihiko"
   },
   {
-    "aliases": "Sakatsuki Miyu, Emiya Miyu, Child of God",
+    "aliases": "Miyu, Sakatsuki Miyu, Emiya Miyu, Child of God",
     "alignment": "Lawful・Good",
     "attribute": "Man",
     "class_type": "Caster",
@@ -3356,11 +3356,11 @@
     "jp_name": "ビーストⅢ／L",
     "name": "Beast III/L",
     "rarity": 5,
-    "traits": "Enuma Elish Nullification, Demonic, Divinity, Humanoid, Immune to Pigify, King, Pseudo-Servant",
+    "traits": "Enuma Elish Nullification, Demonic, Divinity, Humanoid, Immune to Pigify, King",
     "voice_actor": "Shitaya Noriko"
   },
   {
-    "aliases": "Reines El-Melloi Archisorte, Sima Zhongda",
+    "aliases": "Reines El-Melloi Archisorte, Sima Yi, Sima Zhongda",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
     "class_type": "Rider",
@@ -3402,7 +3402,7 @@
     "voice_actor": "Ueda Reina, Ono Daisuke"
   },
   {
-    "aliases": "Ganesha, Great Statue God",
+    "aliases": "Ganesha, Great Statue God, Great Stone Statue God",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
     "class_type": "Moon Cancer",
@@ -3444,7 +3444,7 @@
     "voice_actor": "Fujii Hayato"
   },
   {
-    "aliases": "Deified Arjuna, The Final Dark God",
+    "aliases": "Deified Arjuna, The Final Dark God, Arjuna Alter",
     "alignment": "Lawful・Good & Evil",
     "attribute": "Sky",
     "class_type": "Berserker",
@@ -3486,7 +3486,7 @@
     "voice_actor": "Suzuki Ryōta"
   },
   {
-    "aliases": "Oda Nobunaga (Avenger); Oda Kippōshi; Maō Nobunaga",
+    "aliases": "Oda Nobunaga (Avenger); Oda Kippōshi; Oda Kippoushi; Maō Nobunaga",
     "alignment": "Chaotic・Balanced",
     "attribute": "Earth",
     "class_type": "Avenger",
@@ -3528,7 +3528,7 @@
     "voice_actor": "Mizuki Nana"
   },
   {
-    "aliases": "Da Vinci Lily, Loli Vinci, Gran Cavallo",
+    "aliases": "Leonardo Da Vinci, Da Vinci, Da Vinci Lily, Loli Vinci, Gran Cavallo",
     "alignment": "Lawful・Good",
     "attribute": "Man",
     "class_type": "Rider",
@@ -3584,7 +3584,7 @@
     "voice_actor": "Kuwahara Yūki"
   },
   {
-    "aliases": "Black Bart, Salazar",
+    "aliases": "Bartholomew, Black Bart, Salazar",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
     "class_type": "Rider",
@@ -3640,7 +3640,7 @@
     "voice_actor": "Bridcutt Sarah Emi"
   },
   {
-    "aliases": "Shinmen Musashi no Kami Fujiwara no Harunobu, Miyamoto Iori (宮本伊織)",
+    "aliases": "Shinmen Musashi no Kami Fujiwara no Harunobu, Miyamoto Iori",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
     "class_type": "Berserker",
@@ -3696,14 +3696,14 @@
     "voice_actor": "Yukana"
   },
   {
-    "aliases": "Artoria Ruler, Bunny King, Summer Lion King",
+    "aliases": "Artoria, Artoria Ruler, Bunny King, Summer Lion King",
     "alignment": "Lawful・Summer",
     "attribute": "Sky",
     "class_type": "Ruler",
     "gender": "f",
     "id": 265,
     "illustrator": "Ishida Akira",
-    "jp_name": "アルトリア･ペンドラゴン",
+    "jp_name": "アルトリア・ペンドラゴン",
     "name": "Artoria Pendragon (Ruler)",
     "rarity": 5,
     "traits": "Animal Characteristics Servant, Arthur, Artoria Face, Dragon, King, Hominidae Servant, Humanoid, Round Table Knight, Servant, Summer Mode Servant, Weak to Enuma Elish",
@@ -3724,7 +3724,7 @@
     "voice_actor": "Hayami Saori"
   },
   {
-    "aliases": "Okita Jet Sōji, Okita Sōji (Assassin)",
+    "aliases": "Okita J. Souji, Okita Jet Sōji, Okita Sōji, Okita Sōji (Assassin), Okita Souji (Assassin)",
     "alignment": "Neutral・Summer",
     "attribute": "Man",
     "class_type": "Assassin",
@@ -3738,7 +3738,7 @@
     "voice_actor": "Yūki Aoi"
   },
   {
-    "aliases": "Ashtart, Ishtar, Ishtar-Ashtart, Ashtoreth, Ishtarin",
+    "aliases": "Ashtart, S Ishtar, Ishtar-Ashtart, Ashtart Origin, Ashtoreth, Ishtarin",
     "alignment": "Lawful・Evil",
     "attribute": "Star",
     "class_type": "Avenger",
@@ -3780,7 +3780,7 @@
     "voice_actor": "Ōkubo Rumi"
   },
   {
-    "aliases": "Angel of Crimea, Florence Nightingale (フローレンス・ナイチンゲール), Mercédès, The White Cloth of Steel, The Lady with the Lamp.",
+    "aliases": "Angel of Crimea, Florence Nightingale (Santa), Florence Nightingale, Nightingale Santa, Mercédès, The White Cloth of Steel, The Lady with the Lamp",
     "alignment": "Lawful・Good",
     "attribute": "Man",
     "class_type": "Archer",
@@ -3850,7 +3850,7 @@
     "voice_actor": "Yoshimura Haruka"
   },
   {
-    "aliases": "Sparkling Archer, Nagiko-san",
+    "aliases": "Sparkling Archer, Nagiko-san, Sei Shounagon",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
     "class_type": "Archer",
@@ -3934,7 +3934,7 @@
     "voice_actor": "Iguchi Yuka"
   },
   {
-    "aliases": "Momiji",
+    "aliases": "Momiji, Kijyo Koyo",
     "alignment": "Neutral・Evil",
     "attribute": "Earth",
     "class_type": "Berserker",
@@ -3962,7 +3962,7 @@
     "voice_actor": "Kitō Akari"
   },
   {
-    "aliases": "Altria Caster; Castoria; [Artoria Avalon]",
+    "aliases": "Artoria; Altria Caster; Castoria; [Artoria Avalon, Altria Avalon]",
     "alignment": "Neutral・Good",
     "attribute": "Star",
     "class_type": "Caster",
@@ -3976,7 +3976,7 @@
     "voice_actor": "Kawasumi Ayako"
   },
   {
-    "aliases": "Yaobikuni, Sessyoin Kiara, Sesshouin Kiara, [Shen Kiara]",
+    "aliases": "Yaobikuni, Sessyoin Kiara (Moon Cancer), Sesshouin Kiara, [Shen Kiara]",
     "alignment": "Lawful・Evil",
     "attribute": "Earth",
     "class_type": "Moon Cancer",
@@ -4004,7 +4004,7 @@
     "voice_actor": "Kadowaki Mai, Takano Naoko"
   },
   {
-    "aliases": "Brynhild (Brünnhilde), Sigrdrífa, Brunilda",
+    "aliases": "Brynhild (Berserker), Brünnhilde, Sigrdrífa, Brunilda",
     "alignment": "Neutral・Good",
     "attribute": "Sky",
     "class_type": "Berserker",
@@ -4018,7 +4018,7 @@
     "voice_actor": "Noto Mamiko"
   },
   {
-    "aliases": "Yu Mei-ren, Yu the Beauty, [Akuta Hinako], Crimson Beauty Under the Moon, Gubijin, Gucchan",
+    "aliases": "Yu Mei-ren (Lancer), Yu the Beauty, [Akuta Hinako], Crimson Beauty Under the Moon, Gubijin, Gucchan",
     "alignment": "Lawful・Evil",
     "attribute": "Earth",
     "class_type": "Lancer",
@@ -4032,7 +4032,7 @@
     "voice_actor": "Ise Mariya"
   },
   {
-    "aliases": "The Key to the Gate, Sut-Typhon, Yog-Sothoth, All-in-One, One-in-All, Abby",
+    "aliases": "Abigail, The Key to the Gate, Sut-Typhon, Yog-Sothoth, All-in-One, One-in-All, Abby",
     "alignment": "Lawful・Evil",
     "attribute": "Earth",
     "class_type": "Foreigner",
@@ -4047,7 +4047,7 @@
   },
   {
     "aliases": "",
-    "alignment": "Neutral ・ Good",
+    "alignment": "Neutral・Good",
     "attribute": "Earth",
     "class_type": "Saber",
     "gender": "Female",
@@ -4088,8 +4088,8 @@
     "voice_actor": "Tamura Yukari"
   },
   {
-    "aliases": "Hajime-chan",
-    "alignment": "Lawful ・ Balanced",
+    "aliases": "Saito Hajime, Hajime-chan",
+    "alignment": "Lawful・Balanced",
     "attribute": "Man",
     "class_type": "Saber",
     "gender": "Male",
@@ -4116,7 +4116,7 @@
     "voice_actor": "Yamashita Daiki, Kugimiya Rie"
   },
   {
-    "aliases": "Vincent Van Gogh, [Clytie], [Clytie-Van Gogh], Vulthoom, Gsarthotegga",
+    "aliases": "Gogh, Vincent Van Gogh, [Clytie], [Clytie-Van Gogh], Vulthoom, Gsarthotegga",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
     "class_type": "Foreigner",
@@ -4144,7 +4144,7 @@
     "voice_actor": "Hanamori Yumiri"
   },
   {
-    "aliases": "Dōma Hōshi, Beautiful Carnivore, DOMAN, Manbo-chan, Limbo, Rakshasa King - Skull Eboshi Ashiya Dōman",
+    "aliases": "Ashiya Douman, Dōma Hōshi, Beautiful Carnivore, DOMAN, Manbo-chan, Limbo, Rakshasa King - Skull Eboshi Ashiya Dōman",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
     "class_type": "Alter Ego",
@@ -4158,7 +4158,7 @@
     "voice_actor": "Morikawa Toshiyuki"
   },
   {
-    "aliases": "",
+    "aliases": "Watanabe-no-Tsuna",
     "alignment": "Neutral・Good",
     "attribute": "Man",
     "class_type": "Saber",
@@ -4172,7 +4172,7 @@
     "voice_actor": "Akabane Kenji"
   },
   {
-    "aliases": "Shuten Dōji, Ibuki Douji",
+    "aliases": "Shuten Dōji, Ibuki-Douji",
     "alignment": "Chaotic・Good",
     "attribute": "Sky",
     "class_type": "Saber",
@@ -4200,7 +4200,7 @@
     "voice_actor": "Asahina Madoka"
   },
   {
-    "aliases": "",
+    "aliases": "Santa Karna",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
     "class_type": "Saber",
@@ -4228,7 +4228,7 @@
     "voice_actor": "Sugiyama Noriaki"
   },
   {
-    "aliases": "Kurō Hōgan Yoshitsune, Minamoto no Yoshitsune",
+    "aliases": "Taira-no-Kagekiyo, Kurō Hōgan Yoshitsune, Minamoto no Yoshitsune",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
     "class_type": "Avenger",
@@ -4242,7 +4242,7 @@
     "voice_actor": "Hayami Saori"
   },
   {
-    "aliases": "Kiichi Hougen, Oniichi Hōgen, Sōjōbō, Soujoubou",
+    "aliases": "Kiichi Hogen, Kiichi Hougen, Oniichi Hōgen, Sōjōbō, Soujoubou",
     "alignment": "Chaotic・Balanced",
     "attribute": "Earth",
     "class_type": "Assassin",
@@ -4256,7 +4256,7 @@
     "voice_actor": "Kakuma Ai"
   },
   {
-    "aliases": "Caren C. Hortensia, Amor, God Caren, Devil Caren",
+    "aliases": "Amor, Caren C. Hortensia, Caren, God Caren, Devil Caren",
     "alignment": "Lawful・Good",
     "attribute": "Sky",
     "class_type": "Ruler",
@@ -4298,7 +4298,7 @@
     "voice_actor": "Mizuhashi Kaori"
   },
   {
-    "aliases": "MIXA, Ex",
+    "aliases": "MIXA, Ex, Idol X Alter",
     "alignment": "Neutral・Good",
     "attribute": "Star",
     "class_type": "Foreigner",
@@ -4326,7 +4326,7 @@
     "voice_actor": "Ishikawa Yui"
   },
   {
-    "aliases": "Tam Lin Gawain (NA), Faerie Knight Gawain, Bage-ko, Demon Hound Barghest",
+    "aliases": "Faerie Knight Gawain, Tam Lin Gawain, Bage-ko, Demon Hound Barghest",
     "alignment": "Chaotic・Good",
     "attribute": "Earth",
     "class_type": "Saber",
@@ -4340,7 +4340,7 @@
     "voice_actor": "Inoue Marina"
   },
   {
-    "aliases": "Tam Lin Tristan (NA), Faerie Knight Tristan, Lady Spinel, Baa'van see, Tori-ko (トリ子）",
+    "aliases": "Faerie Knight Tristan, Tam Lin Tristan, Lady Spinel, Baa'van see, Tori-ko (トリ子）",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
     "class_type": "Archer",
@@ -4354,7 +4354,7 @@
     "voice_actor": "Waki Azumi"
   },
   {
-    "aliases": "Tam Lin Lancelot (NA), Faerie Knight Lancelot, [Albion], [Albion's Remnant], Melu-ko",
+    "aliases": "Faerie Knight Lancelot, Tam Lin Lancelot, [Albion], [Albion's Remnant], Melu-ko",
     "alignment": "Neutral・Evil",
     "attribute": "Earth",
     "class_type": "Lancer",
@@ -4466,7 +4466,7 @@
     "voice_actor": "Horie Yui"
   },
   {
-    "aliases": "",
+    "aliases": "Da Vinci, Leonardo da Vinci (Ruler)",
     "alignment": "Lawful・Summer",
     "attribute": "Man",
     "class_type": "Ruler",
@@ -4508,7 +4508,7 @@
     "voice_actor": "Komatsu Mikako"
   },
   {
-    "aliases": "Nagiko-san",
+    "aliases": "Nagiko-san, Sei Shounagon (Berserker)",
     "alignment": "Chaotic・Summer",
     "attribute": "Man",
     "class_type": "Berserker",
@@ -4550,7 +4550,7 @@
     "voice_actor": "Shōji Umeka"
   },
   {
-    "aliases": "",
+    "aliases": "Elizabeth, Elisabeth Báthory (Cinderella)",
     "alignment": "Chaotic・Balanced",
     "attribute": "Man",
     "class_type": "Rider",
@@ -4578,21 +4578,21 @@
     "voice_actor": "Uesaka Sumire, MAFIA Kajita"
   },
   {
-    "aliases": "Mori Ranmaru, Mori Naritoshi",
+    "aliases": "Mori Ranmaru, Mori Naritoshi, Ranmaru X",
     "alignment": "Lawful・Good",
     "attribute": "Star",
     "class_type": "Avenger",
     "gender": "u",
     "id": 328,
     "illustrator": "Mika Pikazo",
-    "jp_name": "謎の蘭丸Ｘ",
+    "jp_name": "謎の蘭丸X",
     "name": "Mysterious Ranmaru X",
     "rarity": 4,
     "traits": "Enuma Elish Nullification, Existence Outside the Domain, Feminine Looking, Hominidae Servant, Levitating Servant, Humanoid, Servant",
     "voice_actor": "Machico"
   },
   {
-    "aliases": "Oryō, Sakamoto Ryouma",
+    "aliases": "Oryō, Sakamoto Ryouma (Lancer)",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
     "class_type": "Lancer",
@@ -4606,7 +4606,7 @@
     "voice_actor": "Kase Yasuyuki, Horie Yui"
   },
   {
-    "aliases": "",
+    "aliases": "Martha Santa",
     "alignment": "Lawful・Good",
     "attribute": "Man",
     "class_type": "Caster",
@@ -4634,7 +4634,7 @@
     "voice_actor": "Maeno Tomoaki"
   },
   {
-    "aliases": "Добрыня Никитич",
+    "aliases": "Добрыня Никитич, Nikitich",
     "alignment": "Neutral・Good",
     "attribute": "Earth",
     "class_type": "Rider",
@@ -4662,7 +4662,7 @@
     "voice_actor": "Saitō Chiwa"
   },
   {
-    "aliases": "Iskandar's Shadow, Faker, [Hephaestion's sister], [Hephaestion Mnēmosynē]",
+    "aliases": "Hephaistíon, Iskandar's Shadow, Faker, [Hephaestion's sister], [Hephaestion Mnēmosynē]",
     "alignment": "Neutral・Balanced",
     "attribute": "Earth",
     "class_type": "Pretender",
@@ -4676,7 +4676,7 @@
     "voice_actor": "Taichi Yō"
   },
   {
-    "aliases": "Bazett Fraga McRemitz, Bazenan",
+    "aliases": "Bazett Fraga McRemitz, Bazett, Manannán mac Lir, Bazenan, Manannan mac Lir (Bazett), Manannan mac Lir",
     "alignment": "Neutral・Good",
     "attribute": "Sky",
     "class_type": "Alter Ego",
@@ -4760,7 +4760,7 @@
     "voice_actor": "Naganawa Maria"
   },
   {
-    "aliases": "Constantine XI Dragases Palaiologos, Michael",
+    "aliases": "Constantine XI Dragases Palaiologos, Kōnstantînos XI, Michael",
     "alignment": "Lawful・Good",
     "attribute": "Man",
     "class_type": "Rider",
@@ -4784,7 +4784,7 @@
     "jp_name": "シャルルマーニュ",
     "name": "Charlemagne",
     "rarity": 5,
-    "traits": "Enuma Elish Nullification, Loved One, Hominidae Servant, Humanoid, King, Riding, Roman, Servant, Seven Knights Servant",
+    "traits": "Enuma Elish Nullification, Loved One, Costume-Owning, Hominidae Servant, Humanoid, King, Riding, Roman, Servant, Seven Knights Servant",
     "voice_actor": "Kimura Ryōhei"
   },
   {
@@ -4816,7 +4816,7 @@
     "voice_actor": "Koga Aoi"
   },
   {
-    "aliases": "Young Moriarty",
+    "aliases": "Moriarty, Young Moriarty",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
     "class_type": "Ruler",
@@ -4872,7 +4872,7 @@
     "voice_actor": "Serizawa Yū, Kawano Taketoshi"
   },
   {
-    "aliases": "Chinzei Hachirō",
+    "aliases": "Chinzei Hachirō, Minamoto-no-Tametomo",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
     "class_type": "Archer",
@@ -4886,7 +4886,7 @@
     "voice_actor": "Nomura Kenji"
   },
   {
-    "aliases": "Arcueid Brunestud",
+    "aliases": "Arcueid Brunestud, Archetype: EARTH",
     "alignment": "Chaotic・Good",
     "attribute": "Star",
     "class_type": "Moon Cancer",
@@ -5012,7 +5012,7 @@
     "voice_actor": "Amamiya Sora"
   },
   {
-    "aliases": "Ölrún",
+    "aliases": "Ölrún, Örn",
     "alignment": "Lawful・Summer",
     "attribute": "Sky",
     "class_type": "Assassin",
@@ -5026,7 +5026,7 @@
     "voice_actor": "Komatsu Mikako"
   },
   {
-    "aliases": "Geirskögul",
+    "aliases": "Geirskögul, Irs",
     "alignment": "Lawful・Summer",
     "attribute": "Sky",
     "class_type": "Assassin",
@@ -5138,7 +5138,7 @@
     "voice_actor": "Wakabayashi Naomi"
   },
   {
-    "aliases": "Father Kotomine, Kotomine Kirei",
+    "aliases": "Rasputin, Father Kotomine, Kotomine Kirei",
     "alignment": "Lawful・Evil",
     "attribute": "Earth",
     "class_type": "Alter Ego",
@@ -5152,7 +5152,7 @@
     "voice_actor": "Nakata Jōji"
   },
   {
-    "aliases": "Nitocris—Anubis",
+    "aliases": "Nitocris-Anubis, Nitocris Alter",
     "alignment": "Chaotic・Evil",
     "attribute": "Sky",
     "class_type": "Avenger",
@@ -5194,7 +5194,7 @@
     "voice_actor": "Honda Mariko"
   },
   {
-    "aliases": "Sun of Nahui Mictlan,Teaching of the Sun(太陽の教え), [ORT—Kukulkan], [Archetype: ORT]",
+    "aliases": "Sun of Nahui Mictlan, Teaching of the Sun, [ORT—Kukulkan], [Archetype: ORT]",
     "alignment": "Lawful・Good",
     "attribute": "Star",
     "class_type": "Foreigner",
@@ -5208,7 +5208,7 @@
     "voice_actor": "Suwa Ayaka"
   },
   {
-    "aliases": "Pope Joan, Ioanna Papissa, Ioannes Anglicus",
+    "aliases": "Johanna, Pope Johanna, Pope Joan, Ioanna Papissa, Ioannes Anglicus",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
     "class_type": "Ruler",
@@ -5236,7 +5236,7 @@
     "voice_actor": "Kakihara Tetsuya"
   },
   {
-    "aliases": "Tiamat ''(during battle)''",
+    "aliases": "Tiamat",
     "alignment": "Chaotic・Evil",
     "attribute": "Star",
     "class_type": "Alter Ego",
@@ -5349,7 +5349,7 @@
   },
   {
     "aliases": "",
-    "alignment": "Chaotic・Neutral",
+    "alignment": "Chaotic・Balanced",
     "attribute": "Earth",
     "class_type": "Saber",
     "gender": "f",
@@ -5376,7 +5376,7 @@
     "voice_actor": "Ishikawa Yui"
   },
   {
-    "aliases": "",
+    "aliases": "Artoria",
     "alignment": "Neutral・Good",
     "attribute": "Star",
     "class_type": "Berserker",
@@ -5390,7 +5390,7 @@
     "voice_actor": "Kawasumi Ayako"
   },
   {
-    "aliases": "Suzuka Gozen (Rider)",
+    "aliases": "Suzuka Gozen, Suzuka Gozen (Rider)",
     "alignment": "Neutral・Summer",
     "attribute": "Sky",
     "class_type": "Rider",
@@ -5404,7 +5404,7 @@
     "voice_actor": "Tōyama Nao"
   },
   {
-    "aliases": "",
+    "aliases": "Chloe",
     "alignment": "Chaotic・Good",
     "attribute": "Man",
     "class_type": "Avenger",
@@ -5460,7 +5460,7 @@
     "voice_actor": "Inoue Marina"
   },
   {
-    "aliases": "Baobhan Sith, Faerie Knight Tristan",
+    "aliases": "Baobhan Sith, Faerie Knight Tristan, Kait Cu Cerpriestess",
     "alignment": "Chaotic・Evil",
     "attribute": "Earth",
     "class_type": "Pretender",
@@ -5502,7 +5502,7 @@
     "voice_actor": "Ono Kenshō, Horiuchi Ken'yū"
   },
   {
-    "aliases": "",
+    "aliases": "Class Archer",
     "alignment": "Neutral・Balanced",
     "attribute": "Man",
     "class_type": "Archer",
@@ -5586,7 +5586,7 @@
     "voice_actor": "Mizuki Nana"
   },
   {
-    "aliases": "",
+    "aliases": "Nemo Santa",
     "alignment": "Chaotic・Balanced",
     "attribute": "Sky",
     "class_type": "Rider",
@@ -5612,5 +5612,173 @@
     "rarity": 5,
     "traits": "Divinity, Feminine Looking, Hominidae Servant, Humanoid, Loved One, Servant, Riding, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Yamamura Hibiku"
+  },
+  {
+    "aliases": "Ushi Gozen",
+    "alignment": "Lawful・Evil",
+    "attribute": "Sky",
+    "class_type": "Avenger",
+    "gender": "f",
+    "id": 403,
+    "illustrator": "Honjō Raita",
+    "jp_name": "源頼光／丑御前",
+    "name": "Ushi Gozen",
+    "rarity": 5,
+    "traits": "Demonic, Divinity, Genji, Humanoid, Non-Hominidae Servant, Oni, Servant, Weak to Enuma Elish",
+    "voice_actor": "Tomatsu Haruka"
+  },
+  {
+    "aliases": "Yui Shousetsu, Grandmaster Shousetsu, The Selfless Liberator",
+    "alignment": "Chaotic・Good",
+    "attribute": "Man",
+    "class_type": "Caster",
+    "gender": "f",
+    "id": 404,
+    "illustrator": "Wataru Rei",
+    "jp_name": "由井正雪",
+    "name": "Yui Shōsetsu",
+    "rarity": 4,
+    "traits": "Humanoid, Hominidae Servant, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "voice_actor": "Tamura Mutsumi"
+  },
+  {
+    "aliases": "Miyamoto Iori Sadatsugu, the Seeker of the Limitless Sky",
+    "alignment": "Lawful・Balanced",
+    "attribute": "Man",
+    "class_type": "Saber",
+    "gender": "m",
+    "id": 405,
+    "illustrator": "Wataru Rei",
+    "jp_name": "宮本伊織",
+    "name": "Miyamoto Iori",
+    "rarity": 4,
+    "traits": "Hominidae Servant, Humanoid, Loved One, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "voice_actor": "Kawanishi Kengo"
+  },
+  {
+    "aliases": "",
+    "alignment": "Lawful・Good",
+    "attribute": "Earth",
+    "class_type": "Rider",
+    "gender": "f",
+    "id": 406,
+    "illustrator": "lack",
+    "jp_name": "アンドロメダ",
+    "name": "Andromeda",
+    "rarity": 5,
+    "traits": "Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "voice_actor": "Suzushiro Sayumi"
+  },
+  {
+    "aliases": "Marie Antoinette Alter",
+    "alignment": "Chaotic・Evil",
+    "attribute": "Earth",
+    "class_type": "Avenger",
+    "gender": "f",
+    "id": 407,
+    "illustrator": "Ginka",
+    "jp_name": "マリー・アントワネット〔オルタ〕",
+    "name": "Marie Antoinette (Alter)",
+    "rarity": 5,
+    "traits": "Hominidae Servant, Humanoid, Servant, Weak to Enuma Elish",
+    "voice_actor": "Taneda Risa"
+  },
+  {
+    "aliases": "Hassan Sabbah",
+    "alignment": "Lawful・Evil",
+    "attribute": "Man",
+    "class_type": "Assassin",
+    "gender": "m",
+    "id": 408,
+    "illustrator": "Task Ōna",
+    "jp_name": "耀星のハサン",
+    "name": "Hassan of the Shining Star",
+    "rarity": 4,
+    "traits": "Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "voice_actor": "KENN"
+  },
+  {
+    "aliases": "",
+    "alignment": "Chaotic・Evil",
+    "attribute": "Earth",
+    "class_type": "Avenger",
+    "gender": "Male",
+    "id": 409,
+    "illustrator": "Usagi Rōto",
+    "jp_name": "巌窟王　モンテ・クリスト; 巌窟王モンテ・クリスト",
+    "name": "The Count of Monte Cristo",
+    "rarity": 5,
+    "traits": "Hominidae Servant, Humanoid, Servant, Weak to Enuma Elish",
+    "voice_actor": "Shimazaki Nobunaga"
+  },
+  {
+    "aliases": "Count Cagliostro, Giuseppe Balsamo",
+    "alignment": "Chaotic・Balanced",
+    "attribute": "Man",
+    "class_type": "Pretender",
+    "gender": "Male",
+    "id": 410,
+    "illustrator": "Usagi Rōto",
+    "jp_name": "アレッサンドロ・ディ・カリオストロ; カリオストロ伯爵",
+    "name": "Alessandro di Cagliostro",
+    "rarity": 4,
+    "traits": "Hominidae Servant, Humanoid, Servant, Weak to Enuma Elish",
+    "voice_actor": "Takeuchi Ryōta"
+  },
+  {
+    "aliases": "Super Aoko",
+    "alignment": "Lawful・Good",
+    "attribute": "Man",
+    "class_type": "Foreigner",
+    "gender": "f",
+    "id": 413,
+    "illustrator": "Koyama Hirokazu",
+    "jp_name": "蒼崎青子; スーパー青子",
+    "name": "Aozaki Aoko",
+    "rarity": 5,
+    "traits": "Existence Outside the Domain, Hominidae Servant, Humanoid, Living Human, Servant",
+    "voice_actor": "Tomatsu Haruka"
+  },
+  {
+    "aliases": "Sizuki Soujyuro, Sono-G",
+    "alignment": "Neutral・Balanced",
+    "attribute": "Man",
+    "class_type": "Berserker",
+    "gender": "m",
+    "id": 414,
+    "illustrator": "Koyama Hirokazu",
+    "jp_name": "静希草十郎",
+    "name": "Shizuki Sōjūrō",
+    "rarity": 4,
+    "traits": "Enuma Elish Nullification, Hominidae Servant, Humanoid, Living Human, Loved One, Servant, Seven Knights Servant",
+    "voice_actor": "Kobayashi Yūsuke"
+  },
+  {
+    "aliases": "",
+    "alignment": "Chaotic・Good",
+    "attribute": "Man",
+    "class_type": "Caster",
+    "gender": "f",
+    "id": 415,
+    "illustrator": "Koyama Hirokazu",
+    "jp_name": "久遠寺有珠",
+    "name": "Kuonji Alice",
+    "rarity": 5,
+    "traits": "Hominidae Servant, Humanoid, Living Human, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "voice_actor": "Hanazawa Kana, Fukuen Misato"
+  },
+  {
+    "aliases": "Azumi-no-isora, Hibichika, Hibino Hibiki, Katsuragi Chikagi, Mr. Smartphone, [Sirius]",
+    "alignment": "Lawful・Good",
+    "attribute": "Man",
+    "class_type": "Alter Ego",
+    "gender": "f",
+    "id": 416,
+    "illustrator": "Anmi",
+    "jp_name": "阿曇磯良（ひびき＆千鍵）; ひびき＆千鍵; 阿曇磯良; [シリウス]",
+    "name": "Azumi no Isora (Hibiki & Chikagi)",
+    "rarity": 5,
+    "traits": "Divine Spirit, Divinity, Humanoid, Non-Hominidae Servant, Immune to Pigify, Obstacle Maker, Pseudo-Servant, Servant",
+    "voice_actor": "Honda Yōko, Sendai Eri"
   }
 ]

@@ -27,10 +27,12 @@ FILTERS = {
     r'\[\[(.*?)\]\]': r'\1', 
     # {{Ruby|King of Gods|Pharaoh}} -> King of Gods
     r'{{[Rr]uby\|(.*?)\|.*?}}': r'\1', 
+    # {{Tooltip|Saint Graph name|玉藻の前}} -> 玉藻の前
+    # {{Tooltip|フローレンス・ナイチンゲール}} -> フローレンス・ナイチンゲール
+    # {{Tooltip|NA Localization|2=Romulus=Quirinus}} -> Romulus=Quirinus
+    r'{{[Tt]ooltip(?:\|.*?)?\|(?:2=)?(.*?)}}': r'\1', 
     # {{nihongo|King of Knights|騎士王|Kishi-ō}} -> King of Knights
     r'{{[Nn]ihongo\|(.*?)(\|.*?}}|}})': r'\1', 
-    # {{Tooltip|Saint Graph name|玉藻の前}} -> 玉藻の前
-    r'{{[Tt]ooltip\|.*?\|(.*?)}}': r'\1', 
     # <span class=\"spoiler-msg\">Fairy Knight Galahad</span> -> [Fairy Knight Galahad]
     r'<span class=\\\"spoiler-msg\\\">(.*?)</span>': r'[\1]'
 }
@@ -82,6 +84,9 @@ def parse_servants():
         # Get name of servant
         title = page.title()
         pbar.set_postfix_str(title)
+        # Skip if (Arcade) is in title
+        if "(Arcade)" in title:
+            continue
         # Parse servant info
         text = page.text
         wikicode = mwparserfromhell.parse(text)
