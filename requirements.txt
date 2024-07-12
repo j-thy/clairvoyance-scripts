@@ -1,7 +1,7 @@
 mwparserfromhell
 pywikibot
 requests
-Django
+django<5.0
 jsons
 tqdm
 iteration-utilities
