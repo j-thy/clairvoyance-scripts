@@ -262,7 +262,7 @@
     "jp_name": "武蔵坊弁慶",
     "name": "Musashibō Benkei",
     "rarity": 2,
-    "traits": "Loved One, Fairy Tale Servant, Genji, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Stout Defender, Weak to Enuma Elish",
+    "traits": "Loved One, Fairy Tale Servant, Genji, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Defender, Weak to Enuma Elish",
     "voice_actor": "Inada Tetsu"
   },
   {
@@ -290,7 +290,7 @@
     "jp_name": "レオニダス一世",
     "name": "Leonidas I",
     "rarity": 2,
-    "traits": "Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Stout Defender, Weak to Enuma Elish",
+    "traits": "Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Defender, Weak to Enuma Elish",
     "voice_actor": "Miki Shin'ichirō"
   },
   {
@@ -658,7 +658,7 @@
     "voice_actor": "Saizen Tadahisa"
   },
   {
-    "aliases": "Knight of the Lake, Black Knight, Mad Dog",
+    "aliases": "Knight of the Lake, Black Knight, Mad Dog, Lord of Dolorous Gard",
     "alignment": "Lawful・Insane",
     "attribute": "Earth",
     "class_type": "Berserker",
@@ -724,7 +724,7 @@
     "jp_name": "ヴラド三世",
     "name": "Vlad III",
     "rarity": 5,
-    "traits": "Loved One, Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Stout Defender, Weak to Enuma Elish",
+    "traits": "Loved One, Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Defender, Weak to Enuma Elish",
     "voice_actor": "Okiayu Ryōtarō"
   },
   {
@@ -1200,7 +1200,7 @@
     "jp_name": "謎のヒロインX",
     "name": "Mysterious Heroine X",
     "rarity": 5,
-    "traits": "Enuma Elish Nullification, Arthur, Artoria Face, Costume-Owning, Dragon, Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant",
+    "traits": "Enuma Elish Nullification, Arthur, Artoria Face, Costume-Owning, Dragon, Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant, Spaceflight-able Servant",
     "voice_actor": "Kawasumi Ayako"
   },
   {
@@ -1456,7 +1456,7 @@
     "voice_actor": "Egawa Hisao"
   },
   {
-    "aliases": "Juvenile Rascal King, Billy",
+    "aliases": "The Boy Bandit King, Billy",
     "alignment": "Chaotic・Balanced",
     "attribute": "Man",
     "class_type": "Archer",
@@ -1956,7 +1956,7 @@
     "jp_name": "ヴラド三世〔EXTRA〕",
     "name": "Vlad III (EXTRA)",
     "rarity": 4,
-    "traits": "Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Stout Defender, Weak to Enuma Elish",
+    "traits": "Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Defender, Weak to Enuma Elish",
     "voice_actor": "Egawa Hisao"
   },
   {
@@ -1984,7 +1984,7 @@
     "jp_name": "イシュタル",
     "name": "Ishtar",
     "rarity": 5,
-    "traits": "Divinity, Levitating Servant, Hominidae Servant, Humanoid, Immune to Pigify, Living Human, Pseudo-Servant, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "traits": "Divinity, Levitating Servant, Hominidae Servant, Humanoid, Immune to Pigify, Living Human, Pseudo-Servant, Servant, Seven Knights Servant, Spaceflight-able Servant, Weak to Enuma Elish",
     "voice_actor": "Ueda Kana"
   },
   {
@@ -2166,7 +2166,7 @@
     "jp_name": "謎のヒロインＸ〔オルタ〕",
     "name": "Mysterious Heroine X (Alter)",
     "rarity": 5,
-    "traits": "Enuma Elish Nullification, Arthur, Artoria Face, Dragon, Hominidae Servant, Humanoid, King, Round Table Knight, Servant, Seven Knights Servant",
+    "traits": "Arthur, Artoria Face, Dragon, Enuma Elish Nullification, Hominidae Servant, Humanoid, King, Round Table Knight, Servant, Seven Knights Servant, Spaceflight-able Servant",
     "voice_actor": "Kawasumi Ayako"
   },
   {
@@ -3104,7 +3104,7 @@
     "jp_name": "謎のヒロインXX",
     "name": "Mysterious Heroine XX",
     "rarity": 4,
-    "traits": "Enuma Elish Nullification, Arthur, Artoria Face, Loved One, Dragon, Existence Outside the Domain, Hominidae Servant, Humanoid, King, Riding, Servant, Summer Mode Servant",
+    "traits": "Arthur, Artoria Face, Dragon, Enuma Elish Nullification, Existence Outside the Domain, Hominidae Servant, Humanoid, King, Loved One, Riding, Servant, Spaceflight-able Servant, Summer Mode Servant",
     "voice_actor": "Kawasumi Ayako"
   },
   {
@@ -3426,7 +3426,7 @@
     "jp_name": "ラクシュミー・バーイー",
     "name": "Lakshmibai",
     "rarity": 4,
-    "traits": "Artoria Face, Divinity, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Stout Defender, Weak to Enuma Elish",
+    "traits": "Artoria Face, Divinity, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Defender, Weak to Enuma Elish",
     "voice_actor": "Satō Rina"
   },
   {
@@ -3594,7 +3594,7 @@
     "jp_name": "バーソロミュー・ロバーツ",
     "name": "Bartholomew Roberts",
     "rarity": 1,
-    "traits": "Loved One, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "traits": "Costume-Owning, Hominidae Servant, Humanoid, Loved One, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Kobayashi Chiaki"
   },
   {
@@ -3734,7 +3734,7 @@
     "jp_name": "オキタ・Ｊ・ソウジ, 沖田総司",
     "name": "Okita J Sōji",
     "rarity": 4,
-    "traits": "Artoria Face, Existence Outside the Domain, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Summer Mode Servant, Shinsengumi Servant, Weak to Enuma Elish",
+    "traits": "Artoria Face, Existence Outside the Domain, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Shinsengumi Servant, Spaceflight-able Servant, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Yūki Aoi"
   },
   {
@@ -3748,7 +3748,7 @@
     "jp_name": "スペース・イシュタル",
     "name": "Space Ishtar",
     "rarity": 5,
-    "traits": "Non-Hominidae Servant, Enuma Elish Nullification, Costume-Owning, Divinity, Divine Spirit, Humanoid, Immune to Pigify, Servant",
+    "traits": "Enuma Elish Nullification, Costume-Owning, Divinity, Divine Spirit, Humanoid, Immune to Pigify, Non-Hominidae Servant, Servant, Spaceflight-able Servant",
     "voice_actor": "Ueda Kana"
   },
   {
@@ -3776,7 +3776,7 @@
     "jp_name": "アストルフォ",
     "name": "Astolfo (Saber)",
     "rarity": 5,
-    "traits": "Animal Characteristics Servant, Feminine Looking, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "traits": "Animal Characteristics Servant, Bunny Servant, Feminine Looking, Hominidae Servant, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Ōkubo Rumi"
   },
   {
@@ -3840,7 +3840,7 @@
     "alignment": "Chaotic・Good",
     "attribute": "Man",
     "class_type": "Foreigner",
-    "gender": "Female",
+    "gender": "f",
     "id": 275,
     "illustrator": "Kuroboshi Kōhaku",
     "jp_name": "楊貴妃",
@@ -3930,7 +3930,7 @@
     "jp_name": "ボイジャー",
     "name": "Voyager",
     "rarity": 5,
-    "traits": "Non-Hominidae Servant, Enuma Elish Nullification, Child Servant, Existence Outside the Domain, Fairy Tale Servant, Levitating Servant, Humanoid, Servant",
+    "traits": "Child Servant, Enuma Elish Nullification, Existence Outside the Domain, Fairy Tale Servant, Humanoid, Levitating Servant, Non-Hominidae Servant, Servant, Spaceflight-able Servant",
     "voice_actor": "Iguchi Yuka"
   },
   {
@@ -4042,7 +4042,7 @@
     "jp_name": "アビゲイル・ウィリアムズ〔夏〕",
     "name": "Abigail Williams (Summer)",
     "rarity": 5,
-    "traits": "Enuma Elish Nullification, Child Servant, Divinity, Existence Outside the Domain, Hominidae Servant, Humanoid, Servant, Summer Mode Servant, Threat to Humanity",
+    "traits": "Child Servant, Divinity, Enuma Elish Nullification, Existence Outside the Domain, Hominidae Servant, Humanoid, Servant, Summer Mode Servant, Threat to Humanity",
     "voice_actor": "Ōwada Hitomi"
   },
   {
@@ -4308,7 +4308,7 @@
     "jp_name": "謎のアイドルＸ〔オルタ〕",
     "name": "Mysterious Idol X (Alter)",
     "rarity": 4,
-    "traits": "Enuma Elish Nullification, Arthur, Artoria Face, Dragon, Existence Outside the Domain, Hominidae Servant, Humanoid, King, Round Table Knight, Servant",
+    "traits": "Arthur, Artoria Face, Dragon, Enuma Elish Nullification, Existence Outside the Domain, Hominidae Servant, Humanoid, King, Round Table Knight, Servant, Spaceflight-able Servant",
     "voice_actor": "Kawasumi Ayako"
   },
   {
@@ -4378,7 +4378,7 @@
     "jp_name": "パーシヴァル",
     "name": "Percival",
     "rarity": 4,
-    "traits": "Loved One, Hominidae Servant, Humanoid, Riding, Round Table Knight, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "traits": "Costume-Owning, Hominidae Servant, Humanoid, Loved One, Riding, Round Table Knight, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Matsukaze Masaya"
   },
   {
@@ -4392,7 +4392,7 @@
     "jp_name": "光のコヤンスカヤ",
     "name": "Koyanskaya of Light",
     "rarity": 5,
-    "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Costume-Owning, Demonic, Demonic Beast Servant, Divinity, Humanoid, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "traits": "Animal Characteristics Servant, Bunny Servant, Costume-Owning, Demonic, Demonic Beast Servant, Divinity, Humanoid, Non-Hominidae Servant, Riding, Servant, Seven Knights Servant, Weak to Enuma Elish",
     "voice_actor": "Saitō Chiwa"
   },
   {
@@ -4532,7 +4532,7 @@
     "jp_name": "ジャック・ド・モレー",
     "name": "Jacques de Molay",
     "rarity": 5,
-    "traits": "Existence Outside the Domain, Divinity, Hominidae Servant, Humanoid, Servant, Threat to Humanity, Weak to Enuma Elish",
+    "traits": "Divinity, Existence Outside the Domain, Hominidae Servant, Humanoid, Servant, Threat to Humanity, Weak to Enuma Elish",
     "voice_actor": "Aoki Shiki"
   },
   {
@@ -4588,7 +4588,7 @@
     "jp_name": "謎の蘭丸X",
     "name": "Mysterious Ranmaru X",
     "rarity": 4,
-    "traits": "Enuma Elish Nullification, Existence Outside the Domain, Feminine Looking, Hominidae Servant, Levitating Servant, Humanoid, Servant",
+    "traits": "Enuma Elish Nullification, Existence Outside the Domain, Feminine Looking, Hominidae Servant, Humanoid, Levitating Servant, Servant, Spaceflight-able Servant",
     "voice_actor": "Machico"
   },
   {
@@ -4700,7 +4700,7 @@
     "jp_name": "徴姉妹",
     "name": "Trung Sisters",
     "rarity": 5,
-    "traits": "Divinity, Group Servant, Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant, Stout Defender, Weak to Enuma Elish",
+    "traits": "Divinity, Group Servant, Hominidae Servant, Humanoid, King, Riding, Servant, Seven Knights Servant, Defender, Weak to Enuma Elish",
     "voice_actor": "Kondō Reina, Itō Kanae"
   },
   {
@@ -4770,7 +4770,7 @@
     "jp_name": "コンスタンティノス11世",
     "name": "Constantine XI",
     "rarity": 5,
-    "traits": "Hominidae Servant, Humanoid, King, Loved One, Riding, Roman, Servant, Seven Knights Servant, Stout Defender, Weak to Enuma Elish",
+    "traits": "Hominidae Servant, Humanoid, King, Loved One, Riding, Roman, Servant, Seven Knights Servant, Defender, Weak to Enuma Elish",
     "voice_actor": "Kamio Shin'ichirō"
   },
   {
@@ -4942,7 +4942,7 @@
     "voice_actor": "Kuwahara Yūki"
   },
   {
-    "aliases": "",
+    "aliases": "Ibuki-Douji (Berserker)",
     "alignment": "Chaotic・Summer",
     "attribute": "Sky",
     "class_type": "Berserker",
@@ -4970,7 +4970,7 @@
     "voice_actor": "Kitō Akari"
   },
   {
-    "aliases": "Skaði (Summer)",
+    "aliases": "Skaði (Summer), Scáthach-Skadi",
     "alignment": "Chaotic・Summer",
     "attribute": "Sky",
     "class_type": "Ruler",
@@ -5012,7 +5012,7 @@
     "voice_actor": "Amamiya Sora"
   },
   {
-    "aliases": "Ölrún, Örn",
+    "aliases": "Ölrún, Rún",
     "alignment": "Lawful・Summer",
     "attribute": "Sky",
     "class_type": "Assassin",
@@ -5204,7 +5204,7 @@
     "jp_name": "ククルカン; [オルト・ククルカン]",
     "name": "Kukulkan",
     "rarity": 5,
-    "traits": "Non-Hominidae Servant, Enuma Elish Nullification, Humanoid, Immune to Pigify, Servant",
+    "traits": "Enuma Elish Nullification, Humanoid, Immune to Pigify, Non-Hominidae Servant, Servant, Spaceflight-able Servant",
     "voice_actor": "Suwa Ayaka"
   },
   {
@@ -5456,7 +5456,7 @@
     "jp_name": "ＵＤＫ－バーゲスト; バーゲスト; 妖精騎士バーゲスト",
     "name": "UDK-Barghest",
     "rarity": 4,
-    "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Demonic Beast Servant, Fae, Humanoid, Loved One, Servant, Seven Knights Servant, Stout Defender, Summer Mode Servant, Weak to Enuma Elish",
+    "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Demonic Beast Servant, Fae, Humanoid, Loved One, Servant, Seven Knights Servant, Defender, Summer Mode Servant, Weak to Enuma Elish",
     "voice_actor": "Inoue Marina"
   },
   {
@@ -5484,7 +5484,7 @@
     "jp_name": "ワンジナ",
     "name": "Wandjina",
     "rarity": 5,
-    "traits": "Costume-Owning, Existence Outside the Domain, Feminine Looking, Immune to Pigify, Non-Hominidae Servant, Servant, Weak to Enuma Elish",
+    "traits": "Costume-Owning, Existence Outside the Domain, Feminine Looking, Immune to Pigify, Non-Hominidae Servant, Servant, Spaceflight-able Servant, Weak to Enuma Elish",
     "voice_actor": "Haruno Anzu"
   },
   {
@@ -5780,5 +5780,103 @@
     "rarity": 5,
     "traits": "Divine Spirit, Divinity, Humanoid, Non-Hominidae Servant, Immune to Pigify, Obstacle Maker, Pseudo-Servant, Servant",
     "voice_actor": "Honda Yōko, Sendai Eri"
+  },
+  {
+    "aliases": "Ereshkigal, Anki Ereshkigal",
+    "alignment": "Chaotic・Good",
+    "attribute": "Beast",
+    "class_type": "Beast",
+    "gender": "f",
+    "id": 417,
+    "illustrator": "Morii Shizuki",
+    "jp_name": "スペース・エレシュキガル; エレシュキガル; アンキ・エレシュキガル",
+    "name": "Space Ereshkigal",
+    "rarity": 5,
+    "traits": "Divinity, Enuma Elish Nullification, Humanoid, King, Immune to Pigify, Servant, Spaceflight-able Servant",
+    "voice_actor": "Ueda Kana"
+  },
+  {
+    "aliases": "C.I.E.L, Teach Me! Miss Ciel, Ciel, Star Ciel",
+    "alignment": "Lawful・Good",
+    "attribute": "Man",
+    "class_type": "Moon Cancer",
+    "gender": "f",
+    "id": 418,
+    "illustrator": "Takeuchi Takashi",
+    "jp_name": "謎の代行者C.I.E.L; 教えて！シエル先生; スターシエル",
+    "name": "Mysterious Executor C.I.E.L",
+    "rarity": 5,
+    "traits": "Costume-Owning, Defender, Hominidae Servant, Humanoid, Living Human, Loved One, Servant, Spaceflight-able Servant, Summer Mode Servant, Weak to Enuma Elish",
+    "voice_actor": "Hondo Kaede"
+  },
+  {
+    "aliases": "",
+    "alignment": "Neutral・Good",
+    "attribute": "Earth",
+    "class_type": "Lancer",
+    "gender": "f",
+    "id": 419,
+    "illustrator": "Robina",
+    "jp_name": "ドブルイニャ・ニキチッチ",
+    "name": "Dobrynya Nikitich (Lancer)",
+    "rarity": 4,
+    "traits": "Animal Characteristics Servant, Demonic Beast Servant, Non-Hominidae Servant, Humanoid, Loved One, Riding, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish, Wild Beast",
+    "voice_actor": "Mineda Mayu"
+  },
+  {
+    "aliases": "",
+    "alignment": "Chaotic・Balanced",
+    "attribute": "Man",
+    "class_type": "Avenger",
+    "gender": "f",
+    "id": 420,
+    "illustrator": "TAKOLEGS",
+    "jp_name": "徐福",
+    "name": "Xu Fu (Avenger)",
+    "rarity": 4,
+    "traits": "Hominidae Servant, Humanoid, Servant, Summer Mode Servant, Weak to Enuma Elish",
+    "voice_actor": "Watada Misaki"
+  },
+  {
+    "aliases": "BB Cosmo",
+    "alignment": "Chaotic・Good",
+    "attribute": "Star",
+    "class_type": "Moon Cancer",
+    "gender": "f",
+    "id": 421,
+    "illustrator": "Wada Arco",
+    "jp_name": "ＢＢドバイ; ＢＢコスモ",
+    "name": "BB Dubai",
+    "rarity": 5,
+    "traits": "Divinity, Enuma Elish Nullification, Goddess Servant, Hominidae Servant, Humanoid, Immune to Pigify, Mechanical, Servant, Super Large, Summer Mode Servant",
+    "voice_actor": "Shitaya Noriko"
+  },
+  {
+    "aliases": "",
+    "alignment": "Lawful・Good",
+    "attribute": "Earth",
+    "class_type": "Moon Cancer",
+    "gender": "f",
+    "id": 422,
+    "illustrator": "Saitō Hiroki (LASENGLE)",
+    "jp_name": "テノチティトラン",
+    "name": "Tenochtitlan (Moon Cancer)",
+    "rarity": 4,
+    "traits": "Divinity, Humanoid, Servant, Immune to Pigify, Non-Hominidae Servant, Summer Mode Servant, Weak to Enuma Elish",
+    "voice_actor": "Honda Mariko"
+  },
+  {
+    "aliases": "Heroine XX Alter",
+    "alignment": "Chaotic・Evil",
+    "attribute": "Star",
+    "class_type": "Foreigner",
+    "gender": "f",
+    "id": 423,
+    "illustrator": "BUNBUN",
+    "jp_name": "謎のヒロインXX〔オルタ〕",
+    "name": "Mysterious Heroine XX (Alter)",
+    "rarity": 4,
+    "traits": "Arthur, Artoria Face, Dragon, Enuma Elish Nullification, Existence Outside the Domain, King, Hominidae Servant, Humanoid, Round Table Knight, Servant, Summer Mode Servant, Spaceflight-able Servant",
+    "voice_actor": "Kawasumi Ayako"
   }
 ]
