@@ -7156,5 +7156,998 @@
         "num_rateups": 6
       }
     ]
+  },
+  {
+    "name": "Koyanskaya of Light Summoning Campaign",
+    "region": "NA",
+    "image_file": "KoyanskayaSummonUS.png",
+    "banners": [
+      {
+        "name": "Koyanskaya of Light Summoning Campaign",
+        "start_date": "1/8/2024",
+        "end_date": "1/10/2024",
+        "date_origin": "event header na new",
+        "rateups": {
+          "314": "Koyanskaya of Light"
+        },
+        "num_rateups": 1
+      }
+    ]
+  },
+  {
+    "name": "Lord El-Melloi II Case Files Collaboration Event Revival",
+    "region": "NA",
+    "image_file": "CaseFilesRevivalUS.png",
+    "banners": [
+      {
+        "name": "Lord El-Melloi II Case Files Collaboration Event Revival Summoning Campaign 1",
+        "start_date": "1/10/2023",
+        "end_date": "1/30/2023",
+        "date_origin": "tab",
+        "rateups": {
+          "241": "Sima Yi (Reines)",
+          "335": "Hephaestion"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Lord El-Melloi II Case Files Collaboration Event Revival Summoning Campaign 2",
+        "start_date": "1/11/2023",
+        "end_date": "1/16/2023",
+        "date_origin": "tab",
+        "rateups": {
+          "37": "Zhuge Liang (Lord El-Melloi II)",
+          "242": "Astraea"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "Arc 1 Improvements Campaign Part I",
+    "region": "NA",
+    "image_file": "Arc1ImprovementsPart1US.png",
+    "banners": [
+      {
+        "name": "Arc 1 Improvements Campaign Part I Summoning Campaign 1",
+        "start_date": "1/17/2024",
+        "end_date": "1/23/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "96": "Edmond Dantès",
+          "97": "Nightingale"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Arc 1 Improvements Campaign Part I Summoning Campaign 2",
+        "start_date": "1/17/2024",
+        "end_date": "1/23/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "84": "Arjuna",
+          "85": "Karna"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "Arc 1 Improvements Campaign Part II",
+    "region": "NA",
+    "image_file": "Arc1ImprovementsPart2US.png",
+    "banners": [
+      {
+        "name": "Arc 1 Improvements Campaign Part II Summoning Campaign",
+        "start_date": "1/24/2024",
+        "end_date": "1/30/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "142": "Ishtar",
+          "196": "Ereshkigal"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "Valentine 2024 Event",
+    "region": "NA",
+    "image_file": "Valentine2024BannerUS.png",
+    "banners": [
+      {
+        "name": "Valentine 2024 Event Pre-Release Summoning Campaign",
+        "start_date": "1/28/2024",
+        "end_date": "2/4/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "90": "Nero Claudius (Bride)",
+          "155": "Mysterious Heroine X (Alter)",
+          "199": "Semiramis",
+          "237": "Murasaki Shikibu",
+          "276": "Sei Shōnagon"
+        },
+        "num_rateups": 5
+      },
+      {
+        "name": "Valentine 2024 Event Summoning Campaign 1",
+        "start_date": "2/1/2024",
+        "end_date": "2/14/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "336": "Manannán mac Lir (Bazett)"
+        },
+        "num_rateups": 1
+      },
+      {
+        "name": "Valentine 2024 Event Summoning Campaign 2",
+        "start_date": "2/2/2024",
+        "end_date": "2/10/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "2": "Artoria Pendragon",
+          "8": "Altera",
+          "59": "Jeanne d'Arc",
+          "60": "Orion",
+          "62": "Tamamo no Mae",
+          "65": "Francis Drake",
+          "75": "Jack the Ripper",
+          "76": "Mordred",
+          "97": "Nightingale",
+          "99": "Queen Medb",
+          "113": "Xuanzang Sanzang",
+          "119": "Artoria Pendragon (Lancer)",
+          "144": "Quetzalcoatl",
+          "169": "Scheherazade",
+          "189": "Osakabehime",
+          "201": "Anastasia",
+          "224": "Sitonai",
+          "232": "Bradamante",
+          "244": "Jinako Carigiri",
+          "274": "Europa",
+          "278": "Dioscuri",
+          "300": "Vritra",
+          "306": "Galatea"
+        },
+        "num_rateups": 23
+      },
+      {
+        "name": "Valentine 2023 Summoning Campaign Revival",
+        "start_date": "2/7/2024",
+        "end_date": "2/14/2024",
+        "date_origin": "event header na new",
+        "rateups": {
+          "305": "Amor (Caren)"
+        },
+        "num_rateups": 1
+      }
+    ]
+  },
+  {
+    "name": "Story Clear Support Campaign Part 5",
+    "region": "NA",
+    "image_file": "StoryClearCampaign5US.png",
+    "banners": [
+      {
+        "name": "Story Clear Support Campaign Part 5 Summoning Campaign",
+        "start_date": "2/12/2024",
+        "end_date": "2/19/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "310": "Barghest",
+          "311": "Baobhan Sith",
+          "316": "Oberon"
+        },
+        "num_rateups": 3
+      }
+    ]
+  },
+  {
+    "name": "James Moriarty Summoning Campaign",
+    "region": "NA",
+    "image_file": "MoriartySummonCampaignUS.png",
+    "banners": [
+      {
+        "name": "James Moriarty Summoning Campaign",
+        "start_date": "2/25/2024",
+        "end_date": "3/4/2024",
+        "date_origin": "event header na new",
+        "rateups": {
+          "156": "James Moriarty"
+        },
+        "num_rateups": 1
+      }
+    ]
+  },
+  {
+    "name": "White Day 2024 Event",
+    "region": "NA",
+    "image_file": "WhiteDay2024EventUS.png",
+    "banners": [
+      {
+        "name": "White Day 2024 Event Pre-Release Summoning Campaign 1",
+        "start_date": "2/15/2024",
+        "end_date": "2/22/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "163": "Meltryllis",
+          "164": "Passionlip",
+          "165": "Suzuka Gozen",
+          "238": "Kingprotea"
+        },
+        "num_rateups": 4
+      },
+      {
+        "name": "White Day 2024 Event Pre-Release Summoning Campaign 2",
+        "start_date": "2/19/2024",
+        "end_date": "2/28/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "157": "EMIYA (Alter)",
+          "220": "BB (Summer)"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Chaldea Boys Collection 2024 Summoning Campaign",
+        "start_date": "3/1/2024",
+        "end_date": "3/14/2024",
+        "date_origin": "event header na new",
+        "rateups": {
+          "37": "Zhuge Liang (Lord El-Melloi II)",
+          "52": "Vlad III",
+          "77": "Nikola Tesla",
+          "79": "Paracelsus von Hohenheim",
+          "84": "Arjuna",
+          "85": "Karna",
+          "98": "Cú Chulainn (Alter)",
+          "118": "Ozymandias",
+          "123": "Gawain",
+          "143": "Enkidu",
+          "206": "Achilles",
+          "212": "Napoléon",
+          "226": "Xiang Yu",
+          "235": "Li Shuwen",
+          "247": "Arjuna (Alter)",
+          "277": "Odysseus",
+          "278": "Dioscuri",
+          "293": "Saitō Hajime",
+          "296": "Nemo",
+          "331": "Taigong Wang"
+        },
+        "num_rateups": 20
+      }
+    ]
+  },
+  {
+    "name": "Road to 7: Lostbelt No.1 Campaign",
+    "region": "NA",
+    "image_file": "RoadTo7LB1BannerUS.png",
+    "banners": [
+      {
+        "name": "Road to 7: Lostbelt No.1 Summoning Campaign",
+        "start_date": "3/7/2024",
+        "end_date": "3/18/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "201": "Anastasia",
+          "202": "Atalanta (Alter)",
+          "203": "Avicebron",
+          "204": "Antonio Salieri",
+          "205": "Ivan the Terrible"
+        },
+        "num_rateups": 5
+      }
+    ]
+  },
+  {
+    "name": "Merlin Summoning Campaign",
+    "region": "NA",
+    "image_file": "MerlinSummonUS.png",
+    "banners": [
+      {
+        "name": "Merlin Summoning Campaign",
+        "start_date": "3/10/2024",
+        "end_date": "3/12/2024",
+        "date_origin": "event header na new",
+        "rateups": {
+          "150": "Merlin"
+        },
+        "num_rateups": 1
+      }
+    ]
+  },
+  {
+    "name": "Battle in New York 2024",
+    "region": "NA",
+    "image_file": "BINY2024EventUS.png",
+    "banners": [
+      {
+        "name": "Battle in New York 2024 Summoning Campaign 1",
+        "start_date": "3/15/2024",
+        "end_date": "3/28/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "5": "Nero Claudius",
+          "77": "Nikola Tesla",
+          "103": "Thomas Edison",
+          "277": "Odysseus"
+        },
+        "num_rateups": 4
+      },
+      {
+        "name": "Battle in New York 2024 Summoning Campaign 2",
+        "start_date": "3/21/2024",
+        "end_date": "3/28/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "12": "Gilgamesh",
+          "145": "Gilgamesh (Caster)"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "Road to 7: Lostbelt No.2 Campaign",
+    "region": "NA",
+    "image_file": "RoadTo7LB2BannerUS.png",
+    "banners": [
+      {
+        "name": "Road to 7: Lostbelt No.2 Summoning Campaign",
+        "start_date": "3/24/2024",
+        "end_date": "3/31/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "88": "Brynhildr",
+          "212": "Napoléon",
+          "213": "Sigurd",
+          "214": "Valkyrie",
+          "215": "Scáthach-Skaði",
+          "224": "Sitonai"
+        },
+        "num_rateups": 6
+      }
+    ]
+  },
+  {
+    "name": "Water Monsters Crisis",
+    "region": "NA",
+    "image_file": "WaterMonstersBannerUS.png",
+    "banners": [
+      {
+        "name": "Water Monsters Crisis Summoning Campaign 1",
+        "start_date": "3/29/2024",
+        "end_date": "4/18/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "266": "Mysterious Alter Ego Λ",
+          "337": "Trung Sisters"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Water Monsters Crisis Summoning Campaign 2",
+        "start_date": "4/3/2024",
+        "end_date": "4/10/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "170": "Wu Zetian",
+          "309": "Morgan"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "FGO Learning With Manga Collaboration Event",
+    "region": "NA",
+    "image_file": "LWMCollabBannerUSFinal.png",
+    "banners": [
+      {
+        "name": "FGO Learning With Manga Collaboration Event Pre-Release Summoning Campaign",
+        "start_date": "4/11/2024",
+        "end_date": "5/1/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "94": "Astolfo",
+          "127": "Leonardo Da Vinci",
+          "128": "Tamamo no Mae (Lancer)",
+          "130": "Marie Antoinette (Caster)",
+          "131": "Anne Bonny & Mary Read (Archer)",
+          "180": "Helena Blavatsky (Archer)",
+          "253": "Leonardo Da Vinci (Rider)",
+          "270": "Astolfo (Saber)"
+        },
+        "num_rateups": 8
+      },
+      {
+        "name": "FGO Learning With Manga Collaboration Event Summoning Campaign 1",
+        "start_date": "4/19/2024",
+        "end_date": "5/9/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "339": "Super Bunyan",
+          "340": "Daikokuten"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "FGO Learning With Manga Collaboration Event FP Summoning Campaign",
+        "start_date": "4/19/2024",
+        "end_date": "5/9/2024",
+        "date_origin": "event header jp old",
+        "rateups": {
+          "341": "Mary Anning"
+        },
+        "num_rateups": 1
+      },
+      {
+        "name": "FGO Learning With Manga Collaboration Event Summoning Campaign 2",
+        "start_date": "4/24/2024",
+        "end_date": "5/9/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "62": "Tamamo no Mae",
+          "340": "Daikokuten"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "20M Downloads Campaign",
+    "region": "NA",
+    "image_file": "20MDownloadsCampaignUS.png",
+    "banners": [
+      {
+        "name": "20M Downloads Summoning Campaign 1",
+        "start_date": "4/26/2024",
+        "end_date": "5/2/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "284": "Artoria Caster",
+          "310": "Barghest",
+          "311": "Baobhan Sith",
+          "313": "Percival"
+        },
+        "num_rateups": 4
+      },
+      {
+        "name": "20M Downloads Summoning Campaign 2",
+        "start_date": "4/26/2024",
+        "end_date": "5/2/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "106": "Jeanne d'Arc (Alter)",
+          "112": "Shuten Dōji",
+          "139": "Cleopatra",
+          "275": "Yang Guifei",
+          "307": "Miss Crane",
+          "324": "Jacques de Molay"
+        },
+        "num_rateups": 6
+      }
+    ]
+  },
+  {
+    "name": "Traum Chapter Release",
+    "region": "NA",
+    "image_file": "LB6.5BannerUS.png",
+    "banners": [
+      {
+        "name": "Traum Pre-Release Campaign Part 1 Summoning Campaign",
+        "start_date": "5/1/2024",
+        "end_date": "5/22/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "342": "Constantine XI"
+        },
+        "num_rateups": 1
+      },
+      {
+        "name": "Traum Pre-Release Campaign Part 2 Summoning Campaign",
+        "start_date": "5/9/2024",
+        "end_date": "5/15/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "331": "Taigong Wang",
+          "332": "Dobrynya Nikitich"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Traum Chapter Release Summoning Campaign",
+        "start_date": "5/13/2024",
+        "end_date": "5/26/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "343": "Charlemagne",
+          "344": "Roland",
+          "345": "Kriemhild"
+        },
+        "num_rateups": 3
+      },
+      {
+        "name": "Traum Summoning Campaign 2",
+        "start_date": "5/19/2024",
+        "end_date": "5/26/2024",
+        "date_origin": "event header na new",
+        "rateups": {
+          "346": "James Moriarty (Ruler)",
+          "347": "Don Quixote",
+          "348": "Zhang Jue"
+        },
+        "num_rateups": 3
+      },
+      {
+        "name": "Traum Summoning Campaign 3 Summoning Campaign",
+        "start_date": "5/21/2024",
+        "end_date": "5/28/2024",
+        "date_origin": "event header na new",
+        "rateups": {
+          "6": "Siegfried",
+          "173": "Sherlock Holmes"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "Charlemagne Release Commemorative Campaign",
+    "region": "NA",
+    "image_file": "CharlemagneCampaignUS.png",
+    "banners": [
+      {
+        "name": "Charlemagne Release Commemorative Summoning Campaign",
+        "start_date": "5/13/2024",
+        "end_date": "5/20/2024",
+        "date_origin": "event header na new",
+        "rateups": {
+          "8": "Altera",
+          "13": "Robin Hood",
+          "18": "Elizabeth Báthory",
+          "32": "Gilles de Rais",
+          "48": "Lancelot",
+          "55": "Darius III",
+          "65": "Francis Drake",
+          "108": "Iskandar",
+          "123": "Gawain"
+        },
+        "num_rateups": 9
+      }
+    ]
+  },
+  {
+    "name": "Grail Front Event ~Moonsault Operation~",
+    "region": "NA",
+    "image_file": "GFMoonsaultBannerUS.png",
+    "banners": [
+      {
+        "name": "Grail Front Event ~Moonsault Operation~ Summoning Campaign 1",
+        "start_date": "5/21/2024",
+        "end_date": "6/3/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "244": "Jinako Carigiri"
+        },
+        "num_rateups": 1
+      },
+      {
+        "name": "Grail Front Event ~Moonsault Operation~ Summoning Campaign 2",
+        "start_date": "5/24/2024",
+        "end_date": "6/3/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "220": "BB (Summer)"
+        },
+        "num_rateups": 1
+      }
+    ]
+  },
+  {
+    "name": "Road to 7: Lostbelt No.3 Campaign",
+    "region": "NA",
+    "image_file": "RoadTo7LB3BannerUS.png",
+    "banners": [
+      {
+        "name": "Road to 7: Lostbelt No.3 Summoning Campaign",
+        "start_date": "3/24/2024",
+        "end_date": "3/31/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "42": "Jing Ke",
+          "226": "Xiang Yu",
+          "227": "Lanling Wang",
+          "228": "Qin Liangyu",
+          "229": "Shi Huang Di",
+          "230": "Consort Yu",
+          "231": "Red Hare",
+          "235": "Li Shuwen"
+        },
+        "num_rateups": 8
+      }
+    ]
+  },
+  {
+    "name": "Nanmei Yumihari Eight Dog Chronicles",
+    "region": "NA",
+    "image_file": "YumihariBannerUS.png",
+    "banners": [
+      {
+        "name": "Nanmei Yumihari Eight Dog Chronicles Summoning Campaign 1",
+        "start_date": "6/3/2024",
+        "end_date": "6/24/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "158": "Hessian Lobo",
+          "210": "Okada Izō",
+          "349": "Kyokutei Bakin"
+        },
+        "num_rateups": 3
+      },
+      {
+        "name": "Nanmei Yumihari Eight Dog Chronicles Summoning Campaign 2",
+        "start_date": "6/7/2024",
+        "end_date": "6/24/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "158": "Hessian Lobo",
+          "210": "Okada Izō",
+          "350": "Minamoto no Tametomo"
+        },
+        "num_rateups": 3
+      },
+      {
+        "name": "Nanmei Yumihari Eight Dog Chronicles Summoning Campaign 3",
+        "start_date": "6/10/2024",
+        "end_date": "6/17/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "158": "Hessian Lobo",
+          "198": "Katsushika Hokusai",
+          "210": "Okada Izō"
+        },
+        "num_rateups": 3
+      },
+      {
+        "name": "Nanmei Yumihari Eight Dog Chronicles Summoning Campaign 4",
+        "start_date": "6/17/2024",
+        "end_date": "6/24/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "210": "Okada Izō",
+          "269": "Calamity Jane",
+          "272": "Super Orion"
+        },
+        "num_rateups": 3
+      }
+    ]
+  },
+  {
+    "name": "Ooku Main Interlude Release Campaign",
+    "region": "NA",
+    "image_file": "OokuMainInterludeCampaignUS.png",
+    "banners": [
+      {
+        "name": "Ooku Main Interlude Release Summoning Campaign",
+        "start_date": "6/20/2024",
+        "end_date": "6/27/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "167": "Sesshōin Kiara",
+          "169": "Scheherazade",
+          "183": "Parvati",
+          "239": "Kama"
+        },
+        "num_rateups": 4
+      }
+    ]
+  },
+  {
+    "name": "FGO 7th Anniversary Countdown Campaign",
+    "region": "NA",
+    "image_file": "7thAnniversaryCountdownCampaignUS.png",
+    "banners": [
+      {
+        "name": "FGO 7th Anniversary Countdown Summoning Campaign",
+        "start_date": "6/26/2024",
+        "end_date": "7/6/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "129": "Artoria Pendragon (Archer)",
+          "132": "Mordred (Rider)",
+          "134": "Kiyohime (Lancer)",
+          "135": "Martha (Ruler)",
+          "177": "Nitocris (Assassin)",
+          "179": "Artoria Pendragon (Rider Alter)",
+          "216": "Jeanne d'Arc (Archer)",
+          "217": "Ibaraki Dōji (Lancer)",
+          "221": "Queen Medb (Saber)",
+          "263": "Carmilla (Rider)",
+          "265": "Artoria Pendragon (Ruler)",
+          "285": "Sesshōin Kiara (Moon Cancer)",
+          "286": "Illyasviel von Einzbern (Archer)",
+          "287": "Brynhildr (Berserker)",
+          "290": "Tomoe Gozen (Saber)"
+        },
+        "num_rateups": 15
+      }
+    ]
+  },
+  {
+    "name": "FGO Festival 2024 ~7th Anniversary~",
+    "region": "NA",
+    "image_file": "FGO7thAnniversaryUS.png",
+    "banners": [
+      {
+        "name": "FGO 7th Anniversary Countdown Summoning Campaign",
+        "start_date": "6/26/2024",
+        "end_date": "7/6/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "129": "Artoria Pendragon (Archer)",
+          "132": "Mordred (Rider)",
+          "134": "Kiyohime (Lancer)",
+          "135": "Martha (Ruler)",
+          "177": "Nitocris (Assassin)",
+          "179": "Artoria Pendragon (Rider Alter)",
+          "216": "Jeanne d'Arc (Archer)",
+          "217": "Ibaraki Dōji (Lancer)",
+          "221": "Queen Medb (Saber)",
+          "263": "Carmilla (Rider)",
+          "265": "Artoria Pendragon (Ruler)",
+          "285": "Sesshōin Kiara (Moon Cancer)",
+          "286": "Illyasviel von Einzbern (Archer)",
+          "287": "Brynhildr (Berserker)",
+          "290": "Tomoe Gozen (Saber)"
+        },
+        "num_rateups": 15
+      },
+      {
+        "name": "FGO Festival 2024 ~7th Anniversary~ Summoning Campaign 1",
+        "start_date": "7/6/2024",
+        "end_date": "7/16/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "351": "Archetype: Earth",
+          "352": "Xu Fu"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "FGO Festival 2024 ~7th Anniversary~ Summoning Campaign 2",
+        "start_date": "7/9/2024",
+        "end_date": "7/17/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "86": "Mysterious Heroine X",
+          "91": "Ryōgi Shiki (Saber)",
+          "136": "Illyasviel von Einzbern",
+          "175": "Nero Claudius (Caster)",
+          "218": "Ushiwakamaru (Assassin)",
+          "261": "Miyamoto Musashi (Berserker)",
+          "281": "Voyager",
+          "289": "Abigail Williams (Summer)",
+          "291": "Murasaki Shikibu (Rider)",
+          "352": "Xu Fu"
+        },
+        "num_rateups": 10
+      }
+    ]
+  },
+  {
+    "name": "FGO Summer 2024 Event",
+    "region": "NA",
+    "image_file": "FGOSummer2024EventUS.png",
+    "banners": [
+      {
+        "name": "FGO Summer 2024 Event Summoning Campaign 1",
+        "start_date": "7/18/2024",
+        "end_date": "8/7/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "353": "Lady Avalon",
+          "354": "Gareth (Saber)"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "FGO Summer 2024 Event Summoning Campaign 2",
+        "start_date": "7/18/2024",
+        "end_date": "8/7/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "159": "Yan Qing",
+          "249": "Asclepius",
+          "297": "Ashiya Dōman"
+        },
+        "num_rateups": 3
+      },
+      {
+        "name": "FGO Summer 2024 Event Summoning Campaign 3",
+        "start_date": "7/21/2024",
+        "end_date": "8/7/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "355": "Ibuki Dōji (Berserker)",
+          "356": "Utsumi Erice (Avenger)"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "FGO Summer 2024 Event Summoning Campaign 4",
+        "start_date": "7/24/2024",
+        "end_date": "8/7/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "357": "Scáthach-Skaði (Ruler)",
+          "358": "Wu Zetian (Caster)"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "FGO Summer 2023 Revival Summoning Campaign",
+        "start_date": "7/28/2024",
+        "end_date": "8/7/2024",
+        "date_origin": "event header na new",
+        "rateups": {
+          "317": "Okita Sōji (Saber Alter)",
+          "318": "Anastasia & Viy",
+          "319": "Charlotte Corday (Caster)",
+          "321": "Kama (Avenger)",
+          "322": "Caenis (Rider)",
+          "323": "Sei Shōnagon (Berserker)"
+        },
+        "num_rateups": 6
+      },
+      {
+        "name": "FGO Summer 2024 Event Summoning Campaign 5",
+        "start_date": "8/1/2024",
+        "end_date": "8/7/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "96": "Edmond Dantès",
+          "222": "Mysterious Heroine XX",
+          "262": "Osakabehime (Archer)"
+        },
+        "num_rateups": 3
+      }
+    ]
+  },
+  {
+    "name": "Fate/Stay Night 20th Anniversary Celebration Campaign",
+    "region": "NA",
+    "image_file": "FSN20AnniversaryCampaignUS.png",
+    "banners": [
+      {
+        "name": "Fate/Stay Night 20th Anniversary Celebration Summoning Campaign",
+        "start_date": "8/8/2024",
+        "end_date": "8/14/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "2": "Artoria Pendragon",
+          "11": "EMIYA",
+          "17": "Cú Chulainn",
+          "23": "Medusa",
+          "31": "Medea",
+          "47": "Heracles"
+        },
+        "num_rateups": 6
+      }
+    ]
+  },
+  {
+    "name": "21M Downloads Campaign",
+    "region": "NA",
+    "image_file": "21MDownloadsCampaignUS.png",
+    "banners": [
+      {
+        "name": "21M Downloads Summoning Campaign 1",
+        "start_date": "8/8/2024",
+        "end_date": "8/21/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "268": "Space Ishtar",
+          "269": "Calamity Jane"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "21M Downloads Summoning Campaign 2",
+        "start_date": "8/8/2024",
+        "end_date": "8/19/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "93": "Amakusa Shirō",
+          "114": "Minamoto no Raikō",
+          "142": "Ishtar",
+          "155": "Mysterious Heroine X (Alter)",
+          "196": "Ereshkigal",
+          "299": "Ibuki Dōji"
+        },
+        "num_rateups": 6
+      }
+    ]
+  },
+  {
+    "name": "Road to 7: Lostbelt No.4 Campaign",
+    "region": "NA",
+    "image_file": "RoadTo7LB4BannerUS.png",
+    "banners": [
+      {
+        "name": "Road to 7: Lostbelt No.4 Summoning Campaign",
+        "start_date": "8/18/2024",
+        "end_date": "8/25/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "85": "Karna",
+          "101": "Rama",
+          "193": "Nezha",
+          "244": "Jinako Carigiri",
+          "245": "Lakshmibai",
+          "246": "William Tell",
+          "247": "Arjuna (Alter)",
+          "248": "Aśvatthāman",
+          "249": "Asclepius"
+        },
+        "num_rateups": 9
+      }
+    ]
+  },
+  {
+    "name": "Anime NYC 2024 Campaign",
+    "region": "NA",
+    "image_file": "AnimeNYC2024CampaignUS.png",
+    "banners": [
+      {
+        "name": "Anime NYC 2024 Summoning Campaign",
+        "start_date": "8/22/2024",
+        "end_date": "8/29/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "11": "EMIYA",
+          "12": "Gilgamesh"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "Back to School Campaign 2024",
+    "region": "NA",
+    "image_file": "Back2School2024US.png",
+    "banners": [
+      {
+        "name": "Back to School Campaign 2024 Summoning Campaign",
+        "start_date": "8/25/2024",
+        "end_date": "9/1/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "3": "Artoria Pendragon (Alter)",
+          "314": "Koyanskaya of Light"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "GUDAGUDA New Yamataikoku 2024",
+    "region": "NA",
+    "image_file": "GUDAGUDANewYamataiBannerUS.png",
+    "banners": [
+      {
+        "name": "GUDAGUDA New Yamataikoku 2024 Summoning Campaign",
+        "start_date": "9/2/2024",
+        "end_date": "9/22/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "251": "Mori Nagayoshi",
+          "362": "Sen no Rikyū",
+          "363": "Yamanami Keisuke"
+        },
+        "num_rateups": 3
+      }
+    ]
   }
 ]

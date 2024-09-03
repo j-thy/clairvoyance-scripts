@@ -342,12 +342,12 @@
     ]
   },
   {
-    "name": "Valentine 2016 Event",
+    "name": "Valentine 2016",
     "region": "JP",
     "image_file": "Valentine_2016_Banner.png",
     "banners": [
       {
-        "name": "Valentine 2016 Event Summoning Campaign",
+        "name": "Valentine 2016 Summoning Campaign",
         "start_date": "2/10/2016",
         "end_date": "2/19/2016",
         "date_origin": "event list",
@@ -8956,7 +8956,7 @@
   {
     "name": "New Year Campaign 2024",
     "region": "JP",
-    "image_file": "newyear2024_cp.png",
+    "image_file": "Newyear2024_cp.png",
     "banners": [
       {
         "name": "New Year 2024 Summoning Campaign",
@@ -8981,6 +8981,753 @@
           "402": "Yamato Takeru"
         },
         "num_rateups": 15
+      }
+    ]
+  },
+  {
+    "name": "FGO Chaldea Satellite Station 2023-2024 Campaign: Miyazaki",
+    "region": "JP",
+    "image_file": "winter2024_cp2_jrueq.png",
+    "banners": [
+      {
+        "name": "FGO Chaldea Satellite Station 2023-2024 Summoning Campaign",
+        "start_date": "1/10/2024",
+        "end_date": "1/17/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "365": "Huyan Zhuo",
+          "372": "Tenochtitlan"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "Waxing Moon Clashing Swords Chronicles",
+    "region": "JP",
+    "image_file": "Sr_collaboration_true.png",
+    "banners": [
+      {
+        "name": "Waxing Moon Clashing Swords Chronicles Summoning Campaign 1",
+        "start_date": "1/17/2024",
+        "end_date": "2/7/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "403": "Ushi Gozen",
+          "404": "Yui Shōsetsu"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Waxing Moon Clashing Swords Chronicles Summoning Campaign 2",
+        "start_date": "1/25/2024",
+        "end_date": "2/7/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "261": "Miyamoto Musashi (Berserker)",
+          "404": "Yui Shōsetsu"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "Stay night 20th Anniversary Commemoration Campaign",
+    "region": "JP",
+    "image_file": "Fate-20th_cp.png",
+    "banners": [
+      {
+        "name": "Stay night 20th Anniversary Summoning Campaign",
+        "start_date": "1/30/2024",
+        "end_date": "2/6/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "2": "Artoria Pendragon",
+          "11": "EMIYA",
+          "17": "Cú Chulainn",
+          "23": "Medusa",
+          "31": "Medea",
+          "47": "Heracles"
+        },
+        "num_rateups": 6
+      }
+    ]
+  },
+  {
+    "name": "Evocation Festival Part 7",
+    "region": "JP",
+    "image_file": "EvocationFest7Banner.png",
+    "banners": [
+      {
+        "name": "Evocation Festival Part 7 Summoning Campaign",
+        "start_date": "2/1/2024",
+        "end_date": "2/11/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "142": "Ishtar",
+          "179": "Artoria Pendragon (Rider Alter)",
+          "196": "Ereshkigal",
+          "300": "Vritra"
+        },
+        "num_rateups": 4
+      }
+    ]
+  },
+  {
+    "name": "Valentine 2024",
+    "region": "JP",
+    "image_file": "valentine2024_full_ohcrp.png",
+    "banners": [
+      {
+        "name": "Valentine 2024 Pre-Release Summoning Campaign",
+        "start_date": "2/7/2024",
+        "end_date": "2/16/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "90": "Nero Claudius (Bride)",
+          "155": "Mysterious Heroine X (Alter)",
+          "237": "Murasaki Shikibu",
+          "276": "Sei Shōnagon",
+          "305": "Amor (Caren)",
+          "336": "Manannán mac Lir (Bazett)",
+          "374": "Popess Johanna"
+        },
+        "num_rateups": 7
+      },
+      {
+        "name": "Valentine 2024 Summoning Campaign",
+        "start_date": "2/14/2024",
+        "end_date": "3/6/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "2": "Artoria Pendragon",
+          "8": "Altera",
+          "59": "Jeanne d'Arc",
+          "60": "Orion",
+          "62": "Tamamo no Mae",
+          "65": "Francis Drake",
+          "75": "Jack the Ripper",
+          "76": "Mordred",
+          "97": "Nightingale",
+          "99": "Queen Medb",
+          "113": "Xuanzang Sanzang",
+          "119": "Artoria Pendragon (Lancer)",
+          "144": "Quetzalcoatl",
+          "169": "Scheherazade",
+          "189": "Osakabehime",
+          "199": "Semiramis",
+          "201": "Anastasia",
+          "224": "Sitonai",
+          "232": "Bradamante",
+          "244": "Jinako Carigiri",
+          "274": "Europa",
+          "278": "Dioscuri",
+          "300": "Vritra",
+          "306": "Galatea",
+          "370": "Nitocris (Alter)",
+          "380": "Kashin Koji",
+          "406": "Andromeda"
+        },
+        "num_rateups": 27
+      }
+    ]
+  },
+  {
+    "name": "Sovereign's Memoir II Pre-Release Campaign",
+    "region": "JP",
+    "image_file": "new_chapter_cp.png",
+    "banners": [
+      {
+        "name": "Sovereign's Memoir II Pre-Release Summoning Campaign",
+        "start_date": "2/28/2024",
+        "end_date": "3/10/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "381": "Bhima",
+          "382": "Duryodhana",
+          "383": "Durga",
+          "384": "Medusa (Saber)"
+        },
+        "num_rateups": 4
+      }
+    ]
+  },
+  {
+    "name": "Charlemagne's Montjoie Chivalrism!",
+    "region": "JP",
+    "image_file": "cbc2024_aefbd.png",
+    "banners": [
+      {
+        "name": "Charlemagne's Montjoie Chivalrism! Summoning Campaign 1",
+        "start_date": "3/6/2024",
+        "end_date": "3/27/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "52": "Vlad III",
+          "77": "Nikola Tesla",
+          "84": "Arjuna",
+          "85": "Karna",
+          "98": "Cú Chulainn (Alter)",
+          "118": "Ozymandias",
+          "143": "Enkidu",
+          "206": "Achilles",
+          "212": "Napoléon",
+          "226": "Xiang Yu",
+          "235": "Li Shuwen",
+          "278": "Dioscuri",
+          "296": "Nemo",
+          "331": "Taigong Wang",
+          "343": "Charlemagne",
+          "347": "Don Quixote",
+          "350": "Minamoto no Tametomo",
+          "381": "Bhima"
+        },
+        "num_rateups": 18
+      },
+      {
+        "name": "Charlemagne's Montjoie Chivalrism! Summoning Campaign 2",
+        "start_date": "3/8/2024",
+        "end_date": "3/27/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "270": "Astolfo (Saber)",
+          "344": "Roland"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "White Day Memorial Summoning Campaign 2",
+        "start_date": "3/13/2024",
+        "end_date": "4/4/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "37": "Zhuge Liang (Lord El-Melloi II)",
+          "93": "Amakusa Shirō",
+          "96": "Edmond Dantès",
+          "156": "James Moriarty",
+          "160": "Arthur Pendragon (Prototype)",
+          "247": "Arjuna (Alter)",
+          "277": "Odysseus",
+          "375": "Takasugi Shinsaku"
+        },
+        "num_rateups": 8
+      }
+    ]
+  },
+  {
+    "name": "Id Chapter Release",
+    "region": "JP",
+    "image_file": "idbanner.png",
+    "banners": [
+      {
+        "name": "Id Summoning Campaign 1",
+        "start_date": "3/20/2024",
+        "end_date": "4/4/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "407": "Marie Antoinette (Alter)",
+          "408": "Hassan of the Shining Star"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Id Summoning Campaign 2",
+        "start_date": "3/23/2024",
+        "end_date": "4/3/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "106": "Jeanne d'Arc (Alter)",
+          "204": "Antonio Salieri"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Id Summoning Campaign 3",
+        "start_date": "3/25/2024",
+        "end_date": "4/3/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "29": "Marie Antoinette",
+          "303": "Taira no Kagekiyo"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Id Summoning Campaign 4",
+        "start_date": "3/27/2024",
+        "end_date": "4/17/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "409": "The Count of Monte Cristo",
+          "410": "Alessandro di Cagliostro"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "Spring New Master Aid Campaign 2024",
+    "region": "JP",
+    "image_file": "new master spring cp3.png",
+    "banners": [
+      {
+        "name": "Spring New Master 2024 Summoning Campaign",
+        "start_date": "3/29/2024",
+        "end_date": "4/5/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "59": "Jeanne d'Arc",
+          "120": "Nitocris",
+          "242": "Astraea",
+          "284": "Artoria Caster"
+        },
+        "num_rateups": 4
+      }
+    ]
+  },
+  {
+    "name": "Evocation Festival Part 8",
+    "region": "JP",
+    "image_file": "EvocationFest8Banner.png",
+    "banners": [
+      {
+        "name": "Evocation Festival Part 8 Summoning Campaign",
+        "start_date": "4/3/2024",
+        "end_date": "4/16/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "144": "Quetzalcoatl",
+          "163": "Meltryllis",
+          "175": "Nero Claudius (Caster)",
+          "176": "Frankenstein (Saber)",
+          "226": "Xiang Yu",
+          "227": "Lanling Wang",
+          "235": "Li Shuwen",
+          "352": "Xu Fu"
+        },
+        "num_rateups": 8
+      }
+    ]
+  },
+  {
+    "name": "Ordeal Call Campaign Part 6",
+    "region": "JP",
+    "image_file": "ordeal_call_cp6.png",
+    "banners": [
+      {
+        "name": "Ordeal Call Campaign Part 6 Summoning Campaign",
+        "start_date": "4/13/2024",
+        "end_date": "4/20/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "335": "Hephaestion",
+          "353": "Lady Avalon"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "Kumano Hot Springs Killer Case",
+    "region": "JP",
+    "image_file": "mahoyo_after_night.png",
+    "banners": [
+      {
+        "name": "Past Collaboration Events Summoning Campaign",
+        "start_date": "4/17/2024",
+        "end_date": "4/28/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "136": "Illyasviel von Einzbern",
+          "236": "Miyu Edelfelt",
+          "281": "Voyager",
+          "282": "Kijyo Kōyō",
+          "339": "Super Bunyan",
+          "340": "Daikokuten"
+        },
+        "num_rateups": 6
+      },
+      {
+        "name": "Kumano Hot Springs Killer Case Summoning Campaign 1",
+        "start_date": "4/26/2024",
+        "end_date": "5/17/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "413": "Aozaki Aoko"
+        },
+        "num_rateups": 1
+      },
+      {
+        "name": "Kumano Hot Springs Killer Case Summoning Campaign 2",
+        "start_date": "4/28/2024",
+        "end_date": "5/5/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "268": "Space Ishtar",
+          "269": "Calamity Jane"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Kumano Hot Springs Killer Case Summoning Campaign 3",
+        "start_date": "5/1/2024",
+        "end_date": "5/17/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "415": "Kuonji Alice"
+        },
+        "num_rateups": 1
+      },
+      {
+        "name": "Kumano Hot Springs Killer Case Summoning Campaign 4",
+        "start_date": "5/3/2024",
+        "end_date": "5/16/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "91": "Ryōgi Shiki (Saber)",
+          "200": "Asagami Fujino",
+          "302": "Senji Muramasa",
+          "380": "Kashin Koji",
+          "395": "Sugitani Zenjūbō"
+        },
+        "num_rateups": 5
+      }
+    ]
+  },
+  {
+    "name": "Chaldea Summer Adventure (Survey-Rerun)",
+    "region": "JP",
+    "image_file": "re_2021summer.png",
+    "banners": [
+      {
+        "name": "Chaldea Summer Adventure (Survey-Rerun) Summoning Campaign 1",
+        "start_date": "5/17/2024",
+        "end_date": "6/7/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "317": "Okita Sōji (Saber Alter)",
+          "318": "Anastasia & Viy",
+          "319": "Charlotte Corday (Caster)"
+        },
+        "num_rateups": 3
+      },
+      {
+        "name": "Chaldea Summer Adventure (Survey-Rerun) Summoning Campaign (Male)",
+        "start_date": "5/17/2024",
+        "end_date": "6/7/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "206": "Achilles",
+          "273": "Mandricardo"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Chaldea Summer Adventure (Survey-Rerun) Summoning Campaign 2",
+        "start_date": "5/24/2024",
+        "end_date": "6/7/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "321": "Kama (Avenger)",
+          "322": "Caenis (Rider)",
+          "323": "Sei Shōnagon (Berserker)"
+        },
+        "num_rateups": 3
+      }
+    ]
+  },
+  {
+    "name": "Interlude Campaign 19",
+    "region": "JP",
+    "image_file": "Interlude19Banner.png",
+    "banners": [
+      {
+        "name": "Interlude Campaign 19 Summoning Campaign",
+        "start_date": "5/31/2024",
+        "end_date": "6/7/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "342": "Constantine XI",
+          "347": "Don Quixote"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "Lilim Harlot (Survey-Rerun)",
+    "region": "JP",
+    "image_file": "Lilim_harlot_survey-rerun_banner.png",
+    "banners": [
+      {
+        "name": "Lilim Harlot (Survey-Rerun) Summoning Campaign 1",
+        "start_date": "6/7/2024",
+        "end_date": "6/28/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "377": "Sodom's Beast/Draco",
+          "378": "Locusta"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Lilim Harlot (Survey-Rerun) Summoning Campaign 2",
+        "start_date": "6/9/2024",
+        "end_date": "6/28/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "70": "Scáthach",
+          "145": "Gilgamesh (Caster)",
+          "324": "Jacques de Molay"
+        },
+        "num_rateups": 3
+      },
+      {
+        "name": "Lilim Harlot (Survey-Rerun) Summoning Campaign 3",
+        "start_date": "6/13/2024",
+        "end_date": "6/28/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "376": "Larva/Tiamat",
+          "378": "Locusta"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Lilim Harlot (Survey-Rerun) Summoning Campaign 4",
+        "start_date": "6/15/2024",
+        "end_date": "6/28/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "5": "Nero Claudius",
+          "75": "Jack the Ripper",
+          "76": "Mordred",
+          "78": "Artoria Pendragon (Lancer Alter)",
+          "97": "Nightingale",
+          "154": "\"The Old Man of the Mountain\""
+        },
+        "num_rateups": 6
+      }
+    ]
+  },
+  {
+    "name": "Interlude Campaign 20",
+    "region": "JP",
+    "image_file": "Interlude20Banner.png",
+    "banners": [
+      {
+        "name": "Interlude Campaign 20 Summoning Campaign",
+        "start_date": "6/21/2024",
+        "end_date": "6/28/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "331": "Taigong Wang",
+          "332": "Dobrynya Nikitich"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "Dancing Dragon Castle",
+    "region": "JP",
+    "image_file": "Dragon_castle.png",
+    "banners": [
+      {
+        "name": "Dancing Dragon Castle Summoning Campaign 1",
+        "start_date": "6/28/2024",
+        "end_date": "7/19/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "56": "Kiyohime",
+          "134": "Kiyohime (Lancer)",
+          "416": "Azumi no Isora (Hibiki & Chikagi)"
+        },
+        "num_rateups": 3
+      },
+      {
+        "name": "Dancing Dragon Castle Summoning Campaign 2",
+        "start_date": "7/3/2024",
+        "end_date": "7/19/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "37": "Zhuge Liang (Lord El-Melloi II)",
+          "56": "Kiyohime",
+          "134": "Kiyohime (Lancer)"
+        },
+        "num_rateups": 3
+      },
+      {
+        "name": "Dancing Dragon Castle Summoning Campaign 3",
+        "start_date": "7/5/2024",
+        "end_date": "7/19/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "56": "Kiyohime",
+          "134": "Kiyohime (Lancer)",
+          "276": "Sei Shōnagon"
+        },
+        "num_rateups": 3
+      }
+    ]
+  },
+  {
+    "name": "Summer 2024 Participation Aid Campaign Part 2",
+    "region": "JP",
+    "image_file": "2024summer_participation_cp2.png",
+    "banners": [
+      {
+        "name": "Summer 2024 Participation Aid Campaign Part 2 Summoning Campaign 1",
+        "start_date": "7/10/2024",
+        "end_date": "7/22/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "385": "Aesc the Savior",
+          "386": "Artoria Caster (Berserker)",
+          "387": "Suzuka Gozen (Summer Vacation)",
+          "388": "Chloe von Einzbern (Avenger)",
+          "390": "Mélusine (Ruler)",
+          "391": "UDK-Barghest",
+          "392": "Cait Cú Cerpriestess"
+        },
+        "num_rateups": 7
+      },
+      {
+        "name": "Summer 2024 Participation Aid Campaign Part 2 Summoning Campaign 2",
+        "start_date": "7/18/2024",
+        "end_date": "7/28/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "216": "Jeanne d'Arc (Archer)",
+          "217": "Ibaraki Dōji (Lancer)",
+          "218": "Ushiwakamaru (Assassin)",
+          "287": "Brynhildr (Berserker)",
+          "289": "Abigail Williams (Summer)",
+          "291": "Murasaki Shikibu (Rider)"
+        },
+        "num_rateups": 6
+      },
+      {
+        "name": "Summer 2024 Participation Aid Campaign Part 2 Summoning Campaign 3",
+        "start_date": "7/24/2024",
+        "end_date": "8/3/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "128": "Tamamo no Mae (Lancer)",
+          "129": "Artoria Pendragon (Archer)",
+          "130": "Marie Antoinette (Caster)",
+          "131": "Anne Bonny & Mary Read (Archer)",
+          "132": "Mordred (Rider)",
+          "135": "Martha (Ruler)"
+        },
+        "num_rateups": 6
+      }
+    ]
+  },
+  {
+    "name": "Fate/Grand Order ～9th Anniversary～",
+    "region": "JP",
+    "image_file": "9th_anniversary.png",
+    "banners": [
+      {
+        "name": "Fate/Grand Order ～9th Anniversary～ Summoning Campaign 1",
+        "start_date": "8/4/2024",
+        "end_date": "8/18/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "417": "Space Ereshkigal"
+        },
+        "num_rateups": 1
+      },
+      {
+        "name": "Fate/Grand Order ～9th Anniversary～ Summoning Campaign 2",
+        "start_date": "8/6/2024",
+        "end_date": "8/15/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "51": "Sakata Kintoki",
+          "150": "Merlin",
+          "173": "Sherlock Holmes",
+          "177": "Nitocris (Assassin)",
+          "178": "Oda Nobunaga (Berserker)",
+          "239": "Kama",
+          "262": "Osakabehime (Archer)",
+          "263": "Carmilla (Rider)",
+          "275": "Yang Guifei",
+          "354": "Gareth (Saber)",
+          "394": "Ptolemaios",
+          "398": "Nagakura Shinpachi",
+          "400": "Uesugi Kenshin",
+          "410": "Alessandro di Cagliostro"
+        },
+        "num_rateups": 14
+      }
+    ]
+  },
+  {
+    "name": "Celeb Summer Experience!",
+    "region": "JP",
+    "image_file": "2024summer.png",
+    "banners": [
+      {
+        "name": "Celeb Summer Experience! Summoning Campaign 1",
+        "start_date": "8/14/2024",
+        "end_date": "10/2/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "418": "Mysterious Executor C.I.E.L",
+          "419": "Dobrynya Nikitich (Lancer)",
+          "420": "Xu Fu (Avenger)"
+        },
+        "num_rateups": 3
+      },
+      {
+        "name": "Celeb Summer Experience! Summoning Campaign 2",
+        "start_date": "8/14/2024",
+        "end_date": "10/2/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "85": "Karna",
+          "313": "Percival"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Summer 2018~2020 Rerun Summoning Campaign",
+        "start_date": "8/19/2024",
+        "end_date": "8/30/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "220": "BB (Summer)",
+          "221": "Queen Medb (Saber)",
+          "222": "Mysterious Heroine XX",
+          "265": "Artoria Pendragon (Ruler)",
+          "266": "Mysterious Alter Ego Λ",
+          "267": "Okita J Sōji",
+          "285": "Sesshōin Kiara (Moon Cancer)",
+          "286": "Illyasviel von Einzbern (Archer)",
+          "290": "Tomoe Gozen (Saber)"
+        },
+        "num_rateups": 9
+      }
+    ]
+  },
+  {
+    "name": "Archetype Inception Chapter Release",
+    "region": "JP",
+    "image_file": "Ordeal call 3 zpupd.png",
+    "banners": [
+      {
+        "name": "Archetype Inception Summoning Campaign",
+        "start_date": "8/28/2024",
+        "end_date": "10/9/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "421": "BB Dubai",
+          "422": "Tenochtitlan (Moon Cancer)",
+          "423": "Mysterious Heroine XX (Alter)"
+        },
+        "num_rateups": 3
       }
     ]
   }

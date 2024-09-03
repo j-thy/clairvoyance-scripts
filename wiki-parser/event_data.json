@@ -96,8 +96,8 @@
     "image_file": "5MilDL_Event_Banner.png"
   },
   {
-    "slug": "valentine-2016-event-jp",
-    "name": "Valentine 2016 Event",
+    "slug": "valentine-2016-jp",
+    "name": "Valentine 2016",
     "region": "JP",
     "image_file": "Valentine_2016_Banner.png"
   },
@@ -1779,7 +1779,133 @@
     "slug": "new-year-campaign-2024-jp",
     "name": "New Year Campaign 2024",
     "region": "JP",
-    "image_file": "newyear2024_cp.png"
+    "image_file": "Newyear2024_cp.png"
+  },
+  {
+    "slug": "fgo-chaldea-satellite-station-2023-2024-campaign-miyazaki-jp",
+    "name": "FGO Chaldea Satellite Station 2023-2024 Campaign: Miyazaki",
+    "region": "JP",
+    "image_file": "winter2024_cp2_jrueq.png"
+  },
+  {
+    "slug": "waxing-moon-clashing-swords-chronicles-jp",
+    "name": "Waxing Moon Clashing Swords Chronicles",
+    "region": "JP",
+    "image_file": "Sr_collaboration_true.png"
+  },
+  {
+    "slug": "stay-night-20th-anniversary-commemoration-campaign-jp",
+    "name": "Stay night 20th Anniversary Commemoration Campaign",
+    "region": "JP",
+    "image_file": "Fate-20th_cp.png"
+  },
+  {
+    "slug": "evocation-festival-part-7-jp",
+    "name": "Evocation Festival Part 7",
+    "region": "JP",
+    "image_file": "EvocationFest7Banner.png"
+  },
+  {
+    "slug": "valentine-2024-jp",
+    "name": "Valentine 2024",
+    "region": "JP",
+    "image_file": "valentine2024_full_ohcrp.png"
+  },
+  {
+    "slug": "sovereigns-memoir-ii-pre-release-campaign-jp",
+    "name": "Sovereign's Memoir II Pre-Release Campaign",
+    "region": "JP",
+    "image_file": "new_chapter_cp.png"
+  },
+  {
+    "slug": "charlemagnes-montjoie-chivalrism-jp",
+    "name": "Charlemagne's Montjoie Chivalrism!",
+    "region": "JP",
+    "image_file": "cbc2024_aefbd.png"
+  },
+  {
+    "slug": "id-chapter-release-jp",
+    "name": "Id Chapter Release",
+    "region": "JP",
+    "image_file": "idbanner.png"
+  },
+  {
+    "slug": "spring-new-master-aid-campaign-2024-jp",
+    "name": "Spring New Master Aid Campaign 2024",
+    "region": "JP",
+    "image_file": "new master spring cp3.png"
+  },
+  {
+    "slug": "evocation-festival-part-8-jp",
+    "name": "Evocation Festival Part 8",
+    "region": "JP",
+    "image_file": "EvocationFest8Banner.png"
+  },
+  {
+    "slug": "ordeal-call-campaign-part-6-jp",
+    "name": "Ordeal Call Campaign Part 6",
+    "region": "JP",
+    "image_file": "ordeal_call_cp6.png"
+  },
+  {
+    "slug": "kumano-hot-springs-killer-case-jp",
+    "name": "Kumano Hot Springs Killer Case",
+    "region": "JP",
+    "image_file": "mahoyo_after_night.png"
+  },
+  {
+    "slug": "chaldea-summer-adventure-survey-rerun-jp",
+    "name": "Chaldea Summer Adventure (Survey-Rerun)",
+    "region": "JP",
+    "image_file": "re_2021summer.png"
+  },
+  {
+    "slug": "interlude-campaign-19-jp",
+    "name": "Interlude Campaign 19",
+    "region": "JP",
+    "image_file": "Interlude19Banner.png"
+  },
+  {
+    "slug": "lilim-harlot-survey-rerun-jp",
+    "name": "Lilim Harlot (Survey-Rerun)",
+    "region": "JP",
+    "image_file": "Lilim_harlot_survey-rerun_banner.png"
+  },
+  {
+    "slug": "interlude-campaign-20-jp",
+    "name": "Interlude Campaign 20",
+    "region": "JP",
+    "image_file": "Interlude20Banner.png"
+  },
+  {
+    "slug": "dancing-dragon-castle-jp",
+    "name": "Dancing Dragon Castle",
+    "region": "JP",
+    "image_file": "Dragon_castle.png"
+  },
+  {
+    "slug": "summer-2024-participation-aid-campaign-part-2-jp",
+    "name": "Summer 2024 Participation Aid Campaign Part 2",
+    "region": "JP",
+    "image_file": "2024summer_participation_cp2.png"
+  },
+  {
+    "slug": "fategrand-order-9th-anniversary-jp",
+    "name": "Fate/Grand Order ～9th Anniversary～",
+    "region": "JP",
+    "image_file": "9th_anniversary.png"
+  },
+  {
+    "slug": "celeb-summer-experience-jp",
+    "name": "Celeb Summer Experience!",
+    "region": "JP",
+    "image_file": "2024summer.png"
+  },
+  {
+    "slug": "archetype-inception-chapter-release-jp",
+    "name": "Archetype Inception Chapter Release",
+    "region": "JP",
+    "image_file": "Ordeal call 3 zpupd.png"
   },
   {
     "slug": "start-dash-campaign-us-na",
@@ -4228,5 +4354,335 @@
     "name": "Happy New Year 2024 (US)",
     "region": "NA",
     "image_file": "HappyNewYear2024US.png"
+  },
+  {
+    "slug": "koyanskaya-of-light-summoning-campaign-us-na",
+    "name": "Koyanskaya of Light Summoning Campaign (US)",
+    "region": "NA",
+    "image_file": "KoyanskayaSummonUS.png"
+  },
+  {
+    "slug": "lord-el-melloi-ii-case-files-collaboration-event-revival-us-na",
+    "name": "Lord El-Melloi II Case Files Collaboration Event Revival (US)",
+    "region": "NA",
+    "image_file": "CaseFilesRevivalUS.png"
+  },
+  {
+    "slug": "arc-1-improvements-campaign-part-i-us-na",
+    "name": "Arc 1 Improvements Campaign Part I (US)",
+    "region": "NA",
+    "image_file": "Arc1ImprovementsPart1US.png"
+  },
+  {
+    "slug": "2400-days-anniversary-us-na",
+    "name": "2400 Days Anniversary (US)",
+    "region": "NA",
+    "image_file": "2400DaysAnniversaryUS.png"
+  },
+  {
+    "slug": "arc-1-improvements-campaign-part-ii-us-na",
+    "name": "Arc 1 Improvements Campaign Part II (US)",
+    "region": "NA",
+    "image_file": "Arc1ImprovementsPart2US.png"
+  },
+  {
+    "slug": "advanced-quest-part-1-us-na",
+    "name": "Advanced Quest Part 1 (US)",
+    "region": "NA",
+    "image_file": "AdvancedQuestPart1US.png"
+  },
+  {
+    "slug": "valentine-2024-event-us-na",
+    "name": "Valentine 2024 Event (US)",
+    "region": "NA",
+    "image_file": "Valentine2024BannerUS.png"
+  },
+  {
+    "slug": "valentine-2023-summoning-campaign-revival-us-na",
+    "name": "Valentine 2023 Summoning Campaign Revival (US)",
+    "region": "NA",
+    "image_file": "Valentine2023SummonRevivalUS.png"
+  },
+  {
+    "slug": "story-clear-support-campaign-part-5-us-na",
+    "name": "Story Clear Support Campaign Part 5 (US)",
+    "region": "NA",
+    "image_file": "StoryClearCampaign5US.png"
+  },
+  {
+    "slug": "james-moriarty-summoning-campaign-us-na",
+    "name": "James Moriarty Summoning Campaign (US)",
+    "region": "NA",
+    "image_file": "MoriartySummonCampaignUS.png"
+  },
+  {
+    "slug": "chaldea-boys-collection-2024-us-na",
+    "name": "Chaldea Boys Collection 2024 (US)",
+    "region": "NA",
+    "image_file": "CBC2024BannerUS.png"
+  },
+  {
+    "slug": "white-day-2024-event-us-na",
+    "name": "White Day 2024 Event (US)",
+    "region": "NA",
+    "image_file": "WhiteDay2024EventUS.png"
+  },
+  {
+    "slug": "road-to-7-lostbelt-no1-campaign-us-na",
+    "name": "Road to 7: Lostbelt No.1 Campaign (US)",
+    "region": "NA",
+    "image_file": "RoadTo7LB1BannerUS.png"
+  },
+  {
+    "slug": "singularity-repair-support-campaign-part-1-us-na",
+    "name": "Singularity Repair Support Campaign Part 1 (US)",
+    "region": "NA",
+    "image_file": "SingularityRepairCampaign1US.png"
+  },
+  {
+    "slug": "merlin-summoning-campaign-us-na",
+    "name": "Merlin Summoning Campaign (US)",
+    "region": "NA",
+    "image_file": "MerlinSummonUS.png"
+  },
+  {
+    "slug": "battle-in-new-york-2024-us-na",
+    "name": "Battle in New York 2024 (US)",
+    "region": "NA",
+    "image_file": "BINY2024EventUS.png"
+  },
+  {
+    "slug": "advanced-quest-part-3-us-na",
+    "name": "Advanced Quest Part 3 (US)",
+    "region": "NA",
+    "image_file": "AdvancedQuestPart3US.png"
+  },
+  {
+    "slug": "road-to-7-lostbelt-no2-campaign-us-na",
+    "name": "Road to 7: Lostbelt No.2 Campaign (US)",
+    "region": "NA",
+    "image_file": "RoadTo7LB2BannerUS.png"
+  },
+  {
+    "slug": "singularity-repair-support-campaign-part-2-us-na",
+    "name": "Singularity Repair Support Campaign Part 2 (US)",
+    "region": "NA",
+    "image_file": "SingularityRepairCampaign2US.png"
+  },
+  {
+    "slug": "water-monsters-crisis-us-na",
+    "name": "Water Monsters Crisis (US)",
+    "region": "NA",
+    "image_file": "WaterMonstersBannerUS.png"
+  },
+  {
+    "slug": "spring-2024-new-master-support-campaign-us-na",
+    "name": "Spring 2024 New Master Support Campaign (US)",
+    "region": "NA",
+    "image_file": "Spring2024CampaignUS.png"
+  },
+  {
+    "slug": "fategrand-order-user-survey-6-us-na",
+    "name": "Fate/Grand Order User Survey 6 (US)",
+    "region": "NA",
+    "image_file": "FGOSurvey6US.png"
+  },
+  {
+    "slug": "fgo-poker-release-campaign-us-na",
+    "name": "FGO Poker Release Campaign (US)",
+    "region": "NA",
+    "image_file": "FGOPokerCampaignUS.png"
+  },
+  {
+    "slug": "fgo-learning-with-manga-collaboration-event-us-na",
+    "name": "FGO Learning With Manga Collaboration Event (US)",
+    "region": "NA",
+    "image_file": "LWMCollabBannerUSFinal.png"
+  },
+  {
+    "slug": "20m-downloads-campaign-us-na",
+    "name": "20M Downloads Campaign (US)",
+    "region": "NA",
+    "image_file": "20MDownloadsCampaignUS.png"
+  },
+  {
+    "slug": "2500-days-anniversary-us-na",
+    "name": "2500 Days Anniversary (US)",
+    "region": "NA",
+    "image_file": "2500DaysAnniversaryUS.png"
+  },
+  {
+    "slug": "advanced-quest-part-5-us-na",
+    "name": "Advanced Quest Part 5 (US)",
+    "region": "NA",
+    "image_file": "AdvancedQuestPart5US.png"
+  },
+  {
+    "slug": "traum-chapter-release-us-na",
+    "name": "Traum Chapter Release (US)",
+    "region": "NA",
+    "image_file": "LB6.5BannerUS.png"
+  },
+  {
+    "slug": "charlemagne-release-commemorative-campaign-us-na",
+    "name": "Charlemagne Release Commemorative Campaign (US)",
+    "region": "NA",
+    "image_file": "CharlemagneCampaignUS.png"
+  },
+  {
+    "slug": "grail-front-event-moonsault-operation-us-na",
+    "name": "Grail Front Event ~Moonsault Operation~ (US)",
+    "region": "NA",
+    "image_file": "GFMoonsaultBannerUS.png"
+  },
+  {
+    "slug": "road-to-7-lostbelt-no3-campaign-us-na",
+    "name": "Road to 7: Lostbelt No.3 Campaign (US)",
+    "region": "NA",
+    "image_file": "RoadTo7LB3BannerUS.png"
+  },
+  {
+    "slug": "singularity-repair-support-campaign-part-3-us-na",
+    "name": "Singularity Repair Support Campaign Part 3 (US)",
+    "region": "NA",
+    "image_file": "SingularityRepairCampaign3US.png"
+  },
+  {
+    "slug": "nanmei-yumihari-eight-dog-chronicles-us-na",
+    "name": "Nanmei Yumihari Eight Dog Chronicles (US)",
+    "region": "NA",
+    "image_file": "YumihariBannerUS.png"
+  },
+  {
+    "slug": "advanced-quest-part-6-us-na",
+    "name": "Advanced Quest Part 6 (US)",
+    "region": "NA",
+    "image_file": "AdvancedQuestPart6US.png"
+  },
+  {
+    "slug": "tsukihime-global-release-celebration-campaign-us-na",
+    "name": "Tsukihime Global Release Celebration Campaign (US)",
+    "region": "NA",
+    "image_file": "TsukihimeReleaseCampaignUS.png"
+  },
+  {
+    "slug": "ooku-main-interlude-release-campaign-us-na",
+    "name": "Ooku Main Interlude Release Campaign (US)",
+    "region": "NA",
+    "image_file": "OokuMainInterludeCampaignUS.png"
+  },
+  {
+    "slug": "fgo-7th-anniversary-release-campaign-us-na",
+    "name": "FGO 7th Anniversary Release Campaign (US)",
+    "region": "NA",
+    "image_file": "7thAnniversaryLoginBonusUS.png"
+  },
+  {
+    "slug": "fgo-7th-anniversary-countdown-campaign-us-na",
+    "name": "FGO 7th Anniversary Countdown Campaign (US)",
+    "region": "NA",
+    "image_file": "7thAnniversaryCountdownCampaignUS.png"
+  },
+  {
+    "slug": "hunting-quests-part-xii-us-na",
+    "name": "Hunting Quests Part XII (US)",
+    "region": "NA",
+    "image_file": "HuntingQuestsPart12US.png"
+  },
+  {
+    "slug": "fgo-7th-anniversary-limited-missions-us-na",
+    "name": "FGO 7th Anniversary Limited Missions (US)",
+    "region": "NA",
+    "image_file": "FGO7thAnniversaryMissionsUS.png"
+  },
+  {
+    "slug": "advanced-quest-part-7-us-na",
+    "name": "Advanced Quest Part 7 (US)",
+    "region": "NA",
+    "image_file": "AdvancedQuestPart7US.png"
+  },
+  {
+    "slug": "servant-rank-up-quests-part-xv-us-na",
+    "name": "Servant Rank Up Quests Part XV (US)",
+    "region": "NA",
+    "image_file": "RUQ15BannerUSv2.png"
+  },
+  {
+    "slug": "fgo-festival-2024-7th-anniversary-us-na",
+    "name": "FGO Festival 2024 ~7th Anniversary~ (US)",
+    "region": "NA",
+    "image_file": "FGO7thAnniversaryUS.png"
+  },
+  {
+    "slug": "fgo-summer-2024-event-us-na",
+    "name": "FGO Summer 2024 Event (US)",
+    "region": "NA",
+    "image_file": "FGOSummer2024EventUS.png"
+  },
+  {
+    "slug": "fgo-summer-2023-revival-summoning-campaign-us-na",
+    "name": "FGO Summer 2023 Revival Summoning Campaign (US)",
+    "region": "NA",
+    "image_file": "Summer2023RevivalSummonUS.png"
+  },
+  {
+    "slug": "2600-days-anniversary-us-na",
+    "name": "2600 Days Anniversary (US)",
+    "region": "NA",
+    "image_file": "2600DaysAnniversaryUS.png"
+  },
+  {
+    "slug": "fatestay-night-20th-anniversary-celebration-campaign-us-na",
+    "name": "Fate/Stay Night 20th Anniversary Celebration Campaign (US)",
+    "region": "NA",
+    "image_file": "FSN20AnniversaryCampaignUS.png"
+  },
+  {
+    "slug": "fatestay-night-remastered-release-campaign-us-na",
+    "name": "Fate/Stay Night Remastered Release Campaign (US)",
+    "region": "NA",
+    "image_file": "FSNRemasterReleaseCampaignUS.png"
+  },
+  {
+    "slug": "21m-downloads-campaign-us-na",
+    "name": "21M Downloads Campaign (US)",
+    "region": "NA",
+    "image_file": "21MDownloadsCampaignUS.png"
+  },
+  {
+    "slug": "road-to-7-lostbelt-no4-campaign-us-na",
+    "name": "Road to 7: Lostbelt No.4 Campaign (US)",
+    "region": "NA",
+    "image_file": "RoadTo7LB4BannerUS.png"
+  },
+  {
+    "slug": "singularity-repair-support-campaign-part-4-us-na",
+    "name": "Singularity Repair Support Campaign Part 4 (US)",
+    "region": "NA",
+    "image_file": "SingularityRepairCampaign4US.png"
+  },
+  {
+    "slug": "advanced-quest-part-8-us-na",
+    "name": "Advanced Quest Part 8 (US)",
+    "region": "NA",
+    "image_file": "AdvancedQuestPart8US.png"
+  },
+  {
+    "slug": "anime-nyc-2024-campaign-us-na",
+    "name": "Anime NYC 2024 Campaign (US)",
+    "region": "NA",
+    "image_file": "AnimeNYC2024CampaignUS.png"
+  },
+  {
+    "slug": "back-to-school-campaign-2024-us-na",
+    "name": "Back to School Campaign 2024 (US)",
+    "region": "NA",
+    "image_file": "Back2School2024US.png"
+  },
+  {
+    "slug": "gudaguda-new-yamataikoku-2024-us-na",
+    "name": "GUDAGUDA New Yamataikoku 2024 (US)",
+    "region": "NA",
+    "image_file": "GUDAGUDANewYamataiBannerUS.png"
   }
 ]

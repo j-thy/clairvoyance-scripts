@@ -56,6 +56,7 @@ REMOVE_MATCHES = (
 )
 
 # Pages that should not be parsed nor merged into.
+# TODO: Rework this to automatically remove GSSRs when parsing titles
 EXCLUDE_PAGES = (
     "2017 New Year Lucky Bag Summoning Campaign",
     "Fate/Grand Order Fes. 2017 ～2nd Anniversary～ Lucky Bag Summoning Campaign",
@@ -72,7 +73,13 @@ EXCLUDE_PAGES = (
     "Fate/Apocrypha Event Pre-Release Campaign (US)/Rate Up Schedule",
     "Valentine 2020/Main Info",
     "Lucky Bag 2024 Summoning Campaign New Year Special",
+    "Fate/Grand Order ～9th Anniversary～ Destiny Order Summoning Campaign",
 )
+
+# The same rateup that shows up in two different events, need to skip 1 to prevent duping.
+EXCLUDE_PAGES_WITH_PARENT = {
+    'Archetype Inception Summoning Campaign' : 'Celeb Summer Experience!',
+}
 
 # Wiki pages with errors that prevent parsing that should be fixed.
 PAGE_FIXES = {
@@ -82,6 +89,7 @@ PAGE_FIXES = {
     'Class Based Summoning Campaign March 2023 (US)' : [r'</tabber>', r'|}\n</tabber>'],
     'Holy Grail Front ~Moonsault Operation~/Event Info' : [r'{{!}}', r'|'],
     'Servant Summer Festival! 2018 Rerun/Main Info' : [r'=\n*<center>\n*{\|\n*\|(\[\[.*)\n*\|}\n*<\/center>', r'=\n\1\n'],
+    'Back to School Campaign 2024 (US)' : [r'</tabber>', r'|}\n</tabber>'],
 }
 
 # Keywords before a section of text that should be removed before any parsing is done.
@@ -132,6 +140,7 @@ RATEUP_FIXES = {
 FORCE_MERGE = (
     "Fate/Apocrypha Collaboration Event Revival (US)/Summoning Campaign",
     "Chaldea Boys Collection 2023 (US)",
+    "Chaldea Boys Collection 2024 (US)",
     "Valentine 2023 Event (US)/Summoning Campaign",
     "Class-Based Summoning Campaign (September 2019)",
     "Class-Based Summoning Campaign (March 2021)",
@@ -150,6 +159,9 @@ NO_MERGE = {
     "FGO THE STAGE Camelot Release Campaign (US)" : (2,),
     "Avalon le Fae Conclusion Campaign (US)" : (1, 2,),
     "GUDAGUDA Ryouma's Narrow Escape 2023 (US)/Summoning Campaign" : (1,),
+    "Nanmei Yumihari Eight Dog Chronicles (US)/Summoning Campaign" : (1, 2, 3,),
+    "FGO Festival 2024 ~7th Anniversary~ (US)/Summoning Campaign" : (1, 2,),
+    "FGO Learning With Manga Collaboration Event (US)/Summoning Campaign" : (1, 2,),
 }
 
 # Pages that should be link-style parsed regardless of keywords being present.
@@ -264,6 +276,7 @@ MERGE_EVENTS_JP = {
     "Valentine 2017 Summoning Campaign Re-Run" : "Valentine 2018",
     "Chaldea Boys Collection 2016 Re-Run" : "Chaldea Boys Collection 2017",
     "London Campaign 2" : "London Chapter Release",
+    "Witch on the Holy Night Collaboration Pre-Release Campaign" : "Kumano Hot Springs Killer Case",
 }
 
 # Merge one event's banners into another event's banners
@@ -279,9 +292,12 @@ MERGE_EVENTS_NA = {
     "Chaldea Boys Collection 2021" : "White Day 2021 Event",
     "Valentine 2020 Summoning Campaign Revival" : "Valentine 2021 Event",
     "Valentine 2019 Summoning Campaign Revival" : "Valentine 2020 Event",
+    "Valentine 2023 Summoning Campaign Revival" : "Valentine 2024 Event",
     "Chaldea Boys Collection 2018 Revival" : "Chaldea Boys Collection 2019",
     "London Campaign 2" : "London Chapter Release",
     "Okeanos Campaign 2" : "Okeanos Chapter Release",
+    "Chaldea Boys Collection 2024" : "White Day 2024 Event",
+    "FGO Summer 2023 Revival Summoning Campaign" : "FGO Summer 2024 Event",
 }
 
 # NOTE: Used by fix_banner_names()
@@ -291,12 +307,13 @@ BANNER_NAME_FIX = {
     r"Summoning$" : "Summoning Campaign",
     r"Summoning 1$" : "Summoning Campaign 1",
     r"Summoning 2$" : "Summoning Campaign 2",
-    r"Part I Summoning Campaign" : "Summoning Campaign 1",
-    r"Part II Summoning Campaign" : "Summoning Campaign 2",
+    r"(?<!Improvements Campaign )Part I Summoning Campaign" : "Summoning Campaign 1",
+    r"(?<!Improvements Campaign )Part II Summoning Campaign" : "Summoning Campaign 2",
     r"Summoning Campaign I$" : "Summoning Campaign 1",
     r"Summoning Campaign II$" : "Summoning Campaign 2",
     r"Summoning Campaign III$" : "Summoning Campaign 3",
     r"Summoning Campaign IV$" : "Summoning Campaign 4",
+    r"Summoning Campaign V$" : "Summoning Campaign 5",
     r"Saint Quartz Summon$" : "Summoning Campaign",
     r"Saint Quartz Summon I$" : "Summoning Campaign 1",
     r"Saint Quartz Summon II$" : "Summoning Campaign 2",
@@ -338,7 +355,6 @@ INCLUDE_SUBPAGES = {
     "FGO 2016 Summer Event" : ["FGO 2016 Summer Event/Event Details", "FGO 2016 Summer Event/Part II Event Details"],
     "SE.RA.PH" : ["Fate/EXTRA CCC×Fate/Grand Order"],
     "FGO 2016 Summer Event Re-Run" : ["FGO 2016 Summer Event Re-Run/Event Info"],
-    "Dead Heat Summer Race!" : ["Dead Heat Summer Race!/Event Info"],
     "Setsubun 2018" : ["Setsubun 2018/Main Info"],
     "Dead Heat Summer Race! Re-run" : ["Dead Heat Summer Race! Re-run/Event Info"],
     "FGO Summer 2018 Event (US)" : ["FGO Summer 2018 Event (US)/Summoning Campaign"],
@@ -463,9 +479,24 @@ def date_parser(start_date, end_date, year):
         end_month = start_month
         end_day = start_day
 
+    # Find the start and end years. Increment the end year if the duration is December-January
+    start_year = year
+    end_year = year if end_month >= start_month else year + 1
+    
+    # Overwrite the year if it is explicitly stated in the date string
+    try:
+        if len(start_mon_yr) > 2 and int(start_mon_yr[2]) > 2000 and int(start_mon_yr[2]) < 2100:
+            start_year = int(start_mon_yr[2])
+    except ValueError:
+        pass
+    try:
+        if len(end_mon_yr) > 2 and int(end_mon_yr[2]) > 2000 and int(end_mon_yr[2]) < 2100:
+            end_year = int(end_mon_yr[2])
+    except ValueError:
+        pass
+
     # Return the date range
-    return (date(year, start_month, start_day), date(year, end_month, end_day)) if end_month >= start_month \
-        else (date(year, start_month, start_day), date(year+1, end_month, end_day))
+    return (date(start_year, start_month, start_day), date(end_year, end_month, end_day))
 
 # Split date strings into start and end dates
 def date_splitter(date_str):
@@ -553,7 +584,7 @@ def parse(event_set, page, duration, parent=None, image_file=None):
     PAGES_VISITED.add(title)
 
     # Do not parse explicitly excluded pages and user blogs.
-    if title in EXCLUDE_PAGES or title.startswith("User blog:"):
+    if title in EXCLUDE_PAGES or (title in EXCLUDE_PAGES_WITH_PARENT and parent == EXCLUDE_PAGES_WITH_PARENT[title]) or title.startswith("User blog:"):
         return
 
     # Get contents of the page and remove HTML comments
