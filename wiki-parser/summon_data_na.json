@@ -8137,7 +8137,7 @@
     "image_file": "GUDAGUDANewYamataiBannerUS.png",
     "banners": [
       {
-        "name": "GUDAGUDA New Yamataikoku 2024 Summoning Campaign",
+        "name": "GUDAGUDA New Yamataikoku 2024 Summoning Campaign 1",
         "start_date": "9/2/2024",
         "end_date": "9/22/2024",
         "date_origin": "tab",
@@ -8147,6 +8147,141 @@
           "363": "Yamanami Keisuke"
         },
         "num_rateups": 3
+      },
+      {
+        "name": "GUDAGUDA New Yamataikoku 2024 Summoning Campaign 2",
+        "start_date": "9/4/2024",
+        "end_date": "9/20/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "68": "Okita Sōji",
+          "161": "Hijikata Toshizō",
+          "178": "Oda Nobunaga (Berserker)",
+          "209": "Okita Sōji (Alter)",
+          "250": "Demon King Nobunaga",
+          "251": "Mori Nagayoshi",
+          "267": "Okita J Sōji",
+          "292": "Himiko",
+          "293": "Saitō Hajime",
+          "327": "Izumo no Okuni",
+          "329": "Sakamoto Ryōma (Lancer)"
+        },
+        "num_rateups": 11
+      }
+    ]
+  },
+  {
+    "name": "Road to 7: Lostbelt No.5 ~Atlantis~ Campaign",
+    "region": "NA",
+    "image_file": "RoadTo7LB5.1BannerUS.png",
+    "banners": [
+      {
+        "name": "Road to 7: Lostbelt No.5 ~Atlantis~ Summoning Campaign",
+        "start_date": "9/23/2024",
+        "end_date": "9/30/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "60": "Orion",
+          "64": "Hector",
+          "185": "Mochizuki Chiyome",
+          "206": "Achilles",
+          "207": "Chiron",
+          "242": "Astraea",
+          "272": "Super Orion",
+          "273": "Mandricardo",
+          "277": "Odysseus"
+        },
+        "num_rateups": 9
+      }
+    ]
+  },
+  {
+    "name": "Road to 7: Lostbelt No.5 ~Olympus~ Campaign",
+    "region": "NA",
+    "image_file": "RoadTo7LB5.2BannerUS.png",
+    "banners": [
+      {
+        "name": "Road to 7: Lostbelt No.5 ~Olympus~ Summoning Campaign",
+        "start_date": "9/30/2024",
+        "end_date": "10/9/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "77": "Nikola Tesla",
+          "100": "Helena Blavatsky",
+          "274": "Europa",
+          "278": "Dioscuri",
+          "279": "Caenis",
+          "280": "Romulus-Quirinus"
+        },
+        "num_rateups": 6
+      }
+    ]
+  },
+  {
+    "name": "Imaginary Scramble Main Interlude Release Campaign",
+    "region": "NA",
+    "image_file": "ISMainInterludeCampaignUS.png",
+    "banners": [
+      {
+        "name": "Imaginary Scramble Main Interlude Release Summoning Campaign",
+        "start_date": "10/7/2024",
+        "end_date": "10/18/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "176": "Frankenstein (Saber)",
+          "181": "Minamoto no Raikō (Lancer)",
+          "222": "Mysterious Heroine XX",
+          "275": "Yang Guifei",
+          "295": "Van Gogh",
+          "296": "Nemo"
+        },
+        "num_rateups": 6
+      }
+    ]
+  },
+  {
+    "name": "Halloween 2024 Event",
+    "region": "NA",
+    "image_file": "Halloween2024BannerUS.png",
+    "banners": [
+      {
+        "name": "Halloween 2024 Event Summoning Campaign 1",
+        "start_date": "10/11/2024",
+        "end_date": "10/31/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "365": "Huyan Zhuo",
+          "366": "Huang Feihu"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Halloween 2024 Event Summoning Campaign 2",
+        "start_date": "10/13/2024",
+        "end_date": "10/18/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "158": "Hessian Lobo",
+          "159": "Yan Qing",
+          "187": "Yagyū Munenori",
+          "228": "Qin Liangyu",
+          "237": "Murasaki Shikibu",
+          "276": "Sei Shōnagon",
+          "324": "Jacques de Molay",
+          "331": "Taigong Wang"
+        },
+        "num_rateups": 8
+      },
+      {
+        "name": "Halloween Revival 2024 Summoning Campaign",
+        "start_date": "10/21/2024",
+        "end_date": "10/27/2024",
+        "date_origin": "event header na new",
+        "rateups": {
+          "52": "Vlad III",
+          "189": "Osakabehime"
+        },
+        "num_rateups": 2
       }
     ]
   }

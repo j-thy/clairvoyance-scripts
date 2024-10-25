@@ -162,6 +162,7 @@ NO_MERGE = {
     "Nanmei Yumihari Eight Dog Chronicles (US)/Summoning Campaign" : (1, 2, 3,),
     "FGO Festival 2024 ~7th Anniversary~ (US)/Summoning Campaign" : (1, 2,),
     "FGO Learning With Manga Collaboration Event (US)/Summoning Campaign" : (1, 2,),
+    "GUDAGUDA New Yamataikoku 2024 (US)/Summoning Campaign": (1, 2,),
 }
 
 # Pages that should be link-style parsed regardless of keywords being present.
@@ -298,6 +299,7 @@ MERGE_EVENTS_NA = {
     "Okeanos Campaign 2" : "Okeanos Chapter Release",
     "Chaldea Boys Collection 2024" : "White Day 2024 Event",
     "FGO Summer 2023 Revival Summoning Campaign" : "FGO Summer 2024 Event",
+    "Halloween Revival 2024 Summoning Campaign" : "Halloween 2024 Event",
 }
 
 # NOTE: Used by fix_banner_names()
@@ -364,6 +366,11 @@ INCLUDE_SUBPAGES = {
     "Halloween 2018 Event Revival (US)" : ["Halloween 2018 Event Revival (US)/Summoning Campaign"],
     "The Tale of Setsubun (US)" : ["The Tale of Setsubun (US)/Summoning Campaign"],
     "FGO Summer 2019 Event Revival (US)" : ["FGO Summer 2019 Event Revival (US)/Summoning Campaign"],
+}
+
+# Include pages that are missing from the event list
+INCLUDE_PAGES = {
+    "Anime NYC 2024 Campaign (US)" : (2024, "NA", "AnimeNYC2024CampaignUS.png", "Road to 7: Lostbelt No.4 Campaign (US)"),
 }
 
 # Keep certain events so it can have banners merged into it
@@ -1080,6 +1087,18 @@ def parse_event_lists(event_lists, region):
                 events.append(event[0])
                 date_list.append(event[1])
                 images.append(event[2])
+
+        # Add in pages that were missing from the event list.
+        for include_event, include_event_data in INCLUDE_PAGES.items():
+            include_year, include_region, include_image_file, insert_after = include_event_data
+            # If the year matches the current year, add the event to the list
+            if include_year == CURRENT_YEAR and include_region == CURRENT_REGION:
+                # Insert after the event specified in the tuple
+                i = events.index(insert_after) + 1
+                events.insert(i, include_event)
+                # Insert none for date
+                date_list.insert(i, None)
+                images.insert(i, include_image_file)
 
         # Create a dict where the key is the event name and the value is the date of the event.
         event_dates = dict(zip(events, date_list))

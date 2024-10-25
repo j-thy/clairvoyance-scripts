@@ -9715,10 +9715,10 @@
   {
     "name": "Archetype Inception Chapter Release",
     "region": "JP",
-    "image_file": "Ordeal call 3 zpupd.png",
+    "image_file": "Ordeal_call_3_zpupd.png",
     "banners": [
       {
-        "name": "Archetype Inception Summoning Campaign",
+        "name": "Archetype Inception Summoning Campaign 1",
         "start_date": "8/28/2024",
         "end_date": "10/9/2024",
         "date_origin": "event header jp new",
@@ -9728,6 +9728,192 @@
           "423": "Mysterious Heroine XX (Alter)"
         },
         "num_rateups": 3
+      },
+      {
+        "name": "Archetype Inception Summoning Campaign 2",
+        "start_date": "9/11/2024",
+        "end_date": "9/24/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "94": "Astolfo",
+          "103": "Thomas Edison",
+          "164": "Passionlip",
+          "238": "Kingprotea",
+          "244": "Jinako Carigiri",
+          "270": "Astolfo (Saber)",
+          "334": "Koyanskaya of Darkness"
+        },
+        "num_rateups": 7
+      },
+      {
+        "name": "Archetype Inception Summoning Campaign 3",
+        "start_date": "9/20/2024",
+        "end_date": "9/29/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "167": "Sesshōin Kiara",
+          "344": "Roland",
+          "351": "Archetype: Earth"
+        },
+        "num_rateups": 3
+      }
+    ]
+  },
+  {
+    "name": "Lostbelt No.4 Clear Support Campaign",
+    "region": "JP",
+    "image_file": "Lb4_clear_cp.png",
+    "banners": [
+      {
+        "name": "Lostbelt No.4 Clear Support Summoning Campaign",
+        "start_date": "9/1/2024",
+        "end_date": "9/10/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "84": "Arjuna",
+          "245": "Lakshmibai",
+          "246": "William Tell",
+          "247": "Arjuna (Alter)",
+          "248": "Aśvatthāman",
+          "249": "Asclepius"
+        },
+        "num_rateups": 6
+      }
+    ]
+  },
+  {
+    "name": "KYOMAF2024 Exhibit Commemoration Campaign",
+    "region": "JP",
+    "image_file": "0913kyomaf.png",
+    "banners": [
+      {
+        "name": "KYOMAF2024 Exhibit Commemoration Summoning Campaign",
+        "start_date": "9/21/2024",
+        "end_date": "9/28/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "210": "Okada Izō",
+          "293": "Saitō Hajime",
+          "362": "Sen no Rikyū"
+        },
+        "num_rateups": 3
+      }
+    ]
+  },
+  {
+    "name": "Lostbelt No.5 Clear Support Campaign",
+    "region": "JP",
+    "image_file": "Lb5_clear_cp.png",
+    "banners": [
+      {
+        "name": "Lostbelt No.5 Clear Support Summoning Campaign",
+        "start_date": "10/1/2024",
+        "end_date": "10/16/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "272": "Super Orion",
+          "273": "Mandricardo",
+          "274": "Europa",
+          "277": "Odysseus",
+          "278": "Dioscuri",
+          "279": "Caenis",
+          "280": "Romulus-Quirinus"
+        },
+        "num_rateups": 7
+      }
+    ]
+  },
+  {
+    "name": "30M Downloads Campaign",
+    "region": "JP",
+    "image_file": "3000man.png",
+    "banners": [
+      {
+        "name": "30M Downloads Summoning Campaign",
+        "start_date": "10/4/2024",
+        "end_date": "10/18/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "316": "Oberon"
+        },
+        "num_rateups": 1
+      },
+      {
+        "name": "Past Downloads Milestones Summoning Campaign",
+        "start_date": "10/6/2024",
+        "end_date": "11/1/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "12": "Gilgamesh",
+          "51": "Sakata Kintoki",
+          "70": "Scáthach",
+          "88": "Brynhildr",
+          "90": "Nero Claudius (Bride)",
+          "106": "Jeanne d'Arc (Alter)",
+          "127": "Leonardo Da Vinci",
+          "128": "Tamamo no Mae (Lancer)",
+          "129": "Artoria Pendragon (Archer)",
+          "142": "Ishtar",
+          "150": "Merlin",
+          "153": "Miyamoto Musashi",
+          "154": "\"The Old Man of the Mountain\"",
+          "155": "Mysterious Heroine X (Alter)",
+          "160": "Arthur Pendragon (Prototype)",
+          "167": "Sesshōin Kiara",
+          "195": "Abigail Williams",
+          "196": "Ereshkigal",
+          "215": "Scáthach-Skaði",
+          "229": "Shi Huang Di",
+          "237": "Murasaki Shikibu",
+          "265": "Artoria Pendragon (Ruler)",
+          "268": "Space Ishtar",
+          "284": "Artoria Caster",
+          "299": "Ibuki Dōji",
+          "312": "Mélusine"
+        },
+        "num_rateups": 26
+      }
+    ]
+  },
+  {
+    "name": "Faerie Sugoroku",
+    "region": "JP",
+    "image_file": "Faerie_sugoroku.png",
+    "banners": [
+      {
+        "name": "Faerie Sugoroku Summoning Campaign 1",
+        "start_date": "10/16/2024",
+        "end_date": "11/6/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "11": "EMIYA",
+          "104": "Geronimo",
+          "187": "Yagyū Munenori",
+          "426": "Kazuradrop"
+        },
+        "num_rateups": 4
+      },
+      {
+        "name": "Kishinami Hakuno Pickup Summoning Campaign",
+        "start_date": "10/16/2024",
+        "end_date": "11/6/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "424": "Kishinami Hakuno (Male)",
+          "425": "Kishinami Hakuno (Female)"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Faerie Sugoroku Summoning Campaign 2",
+        "start_date": "10/23/2024",
+        "end_date": "11/6/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "163": "Meltryllis",
+          "366": "Huang Feihu"
+        },
+        "num_rateups": 2
       }
     ]
   }

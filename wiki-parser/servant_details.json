@@ -224,7 +224,7 @@
     "voice_actor": "Tsuruoka Satoshi"
   },
   {
-    "aliases": "Child of Light, Beast of Culann, Sétanta, Hound of Ulster, Coo Hullan, Child of the Sun, Rogue Lancer",
+    "aliases": "Child of Light, Beast of Culann, Hound of Ulster, Coo Hullan, Child of the Sun, Rogue Lancer",
     "alignment": "Lawful・Balanced",
     "attribute": "Sky",
     "class_type": "Lancer",
@@ -2100,7 +2100,7 @@
     "voice_actor": "Sakurai Takahiro, Kawasumi Ayako"
   },
   {
-    "aliases": "King of Demon Gods Goetia, King of Men Goetia, Beast I",
+    "aliases": "King of Demon Gods Goetia, Beast I",
     "alignment": "Chaotic・Good",
     "attribute": "Beast",
     "class_type": "Beast I",
@@ -2278,7 +2278,7 @@
     "jp_name": "メルトリリス",
     "name": "Meltryllis",
     "rarity": 5,
-    "traits": "Non-Hominidae Servant, Divinity, Goddess Servant, Humanoid, Immune to Pigify, Mechanical, Riding, Servant, Weak to Enuma Elish",
+    "traits": "Non-Hominidae Servant, Divinity, Goddess Servant, Humanoid, Immune to Pigify, Mechanical, Riding, Servant, Weak to Enuma Elish, Sakura Series",
     "voice_actor": "Hayami Saori"
   },
   {
@@ -2292,7 +2292,7 @@
     "jp_name": "パッションリップ",
     "name": "Passionlip",
     "rarity": 4,
-    "traits": "Non-Hominidae Servant, Divinity, Goddess Servant, Humanoid, Immune to Pigify, Mechanical, Servant, Weak to Enuma Elish",
+    "traits": "Costume-Owning, Divinity, Goddess Servant, Humanoid, Immune to Pigify, Mechanical, Non-Hominidae Servant, Servant, Weak to Enuma Elish, Sakura Series",
     "voice_actor": "Ogura Yui"
   },
   {
@@ -2320,7 +2320,7 @@
     "jp_name": "ＢＢ",
     "name": "BB",
     "rarity": 4,
-    "traits": "Goddess Servant, Hominidae Servant, Humanoid, Immune to Pigify, Mechanical, Servant, Weak to Enuma Elish",
+    "traits": "Goddess Servant, Hominidae Servant, Humanoid, Immune to Pigify, Mechanical, Servant, Weak to Enuma Elish, Sakura Series",
     "voice_actor": "Shitaya Noriko"
   },
   {
@@ -3076,7 +3076,7 @@
     "jp_name": "ＢＢ",
     "name": "BB (Summer)",
     "rarity": 5,
-    "traits": "Non-Hominidae Servant, Costume-Owning, Divinity, Divine Spirit, Existence Outside the Domain, Giant, Goddess Servant, Immune to Pigify, Mechanical, Servant, Summer Mode Servant, Super Large, Weak to Enuma Elish",
+    "traits": "Non-Hominidae Servant, Costume-Owning, Divinity, Divine Spirit, Existence Outside the Domain, Giant, Goddess Servant, Immune to Pigify, Mechanical, Servant, Summer Mode Servant, Super Large, Weak to Enuma Elish, Sakura Series",
     "voice_actor": "Shitaya Noriko"
   },
   {
@@ -3328,7 +3328,7 @@
     "jp_name": "キングプロテア",
     "name": "Kingprotea",
     "rarity": 5,
-    "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Costume-Owning, Divinity, Giant, Humanoid, Immune to Pigify, Mechanical, Servant, Super Large, Weak to Enuma Elish",
+    "traits": "Non-Hominidae Servant, Animal Characteristics Servant, Costume-Owning, Divinity, Giant, Humanoid, Immune to Pigify, Mechanical, Servant, Super Large, Weak to Enuma Elish, Sakura Series",
     "voice_actor": "Han Megumi"
   },
   {
@@ -3556,7 +3556,7 @@
     "voice_actor": "Hoshi Sōichirō"
   },
   {
-    "aliases": "",
+    "aliases": "Apollo",
     "alignment": "Neutral・Balanced",
     "attribute": "Earth",
     "class_type": "Archer",
@@ -3720,7 +3720,7 @@
     "jp_name": "謎のアルターエゴ・Λ; ラムダリリス",
     "name": "Mysterious Alter Ego Λ",
     "rarity": 4,
-    "traits": "Non-Hominidae Servant, Costume-Owning, Demonic, Divinity, Dragon, Goddess Servant, Humanoid, Immune to Pigify, Mechanical, Riding, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish",
+    "traits": "Non-Hominidae Servant, Costume-Owning, Demonic, Divinity, Dragon, Goddess Servant, Humanoid, Immune to Pigify, Mechanical, Riding, Servant, Seven Knights Servant, Summer Mode Servant, Weak to Enuma Elish, Sakura Series",
     "voice_actor": "Hayami Saori"
   },
   {
@@ -5040,7 +5040,7 @@
     "voice_actor": "Tanaka Minami"
   },
   {
-    "aliases": "Rikyū-san; [Komahime]",
+    "aliases": "Rikyū-san, Sen-no-Rikyu, [Komahime]",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
     "class_type": "Berserker",
@@ -5838,21 +5838,21 @@
     "voice_actor": "Watada Misaki"
   },
   {
-    "aliases": "BB Cosmo",
+    "aliases": "BB Cosmo, Golden BB",
     "alignment": "Chaotic・Good",
     "attribute": "Star",
     "class_type": "Moon Cancer",
     "gender": "f",
     "id": 421,
     "illustrator": "Wada Arco",
-    "jp_name": "ＢＢドバイ; ＢＢコスモ",
+    "jp_name": "ＢＢドバイ; ＢＢコスモ; ゴールデンＢＢ",
     "name": "BB Dubai",
     "rarity": 5,
-    "traits": "Divinity, Enuma Elish Nullification, Goddess Servant, Hominidae Servant, Humanoid, Immune to Pigify, Mechanical, Servant, Super Large, Summer Mode Servant",
+    "traits": "Divinity, Enuma Elish Nullification, Goddess Servant, Hominidae Servant, Humanoid, Immune to Pigify, Mechanical, Servant, Super Large, Summer Mode Servant, Sakura Series",
     "voice_actor": "Shitaya Noriko"
   },
   {
-    "aliases": "",
+    "aliases": "Tenochtitlan Bunny",
     "alignment": "Lawful・Good",
     "attribute": "Earth",
     "class_type": "Moon Cancer",
@@ -5866,7 +5866,7 @@
     "voice_actor": "Honda Mariko"
   },
   {
-    "aliases": "Heroine XX Alter",
+    "aliases": "Heroine XX Alter, MHXXA",
     "alignment": "Chaotic・Evil",
     "attribute": "Star",
     "class_type": "Foreigner",
@@ -5878,5 +5878,47 @@
     "rarity": 4,
     "traits": "Arthur, Artoria Face, Dragon, Enuma Elish Nullification, Existence Outside the Domain, King, Hominidae Servant, Humanoid, Round Table Knight, Servant, Summer Mode Servant, Spaceflight-able Servant",
     "voice_actor": "Kawasumi Ayako"
+  },
+  {
+    "aliases": "Francis Xavier, Zabio",
+    "alignment": "Neutral・Good",
+    "attribute": "Man",
+    "class_type": "Moon Cancer",
+    "gender": "m",
+    "id": 424,
+    "illustrator": "Wada Arco",
+    "jp_name": "岸波白野",
+    "name": "Kishinami Hakuno (Male)",
+    "rarity": 4,
+    "traits": "Enuma Elish Nullification, Hominidae Servant, Humanoid, Loved One, Mechanical, Servant",
+    "voice_actor": "Abe Atsushi"
+  },
+  {
+    "aliases": "Hakunon, Francis Xavier, Zabiko",
+    "alignment": "Neutral・Good",
+    "attribute": "Man",
+    "class_type": "Moon Cancer",
+    "gender": "f",
+    "id": 425,
+    "illustrator": "Wada Arco",
+    "jp_name": "岸波白野",
+    "name": "Kishinami Hakuno (Female)",
+    "rarity": 4,
+    "traits": "Enuma Elish Nullification, Hominidae Servant, Humanoid, Loved One, Mechanical, Servant",
+    "voice_actor": "Ishikawa Yui"
+  },
+  {
+    "aliases": "Muryan",
+    "alignment": "Lawful・Good",
+    "attribute": "Earth",
+    "class_type": "Alter Ego",
+    "gender": "f",
+    "id": 426,
+    "illustrator": "Wada Arco",
+    "jp_name": "カズラドロップ; ムリアン",
+    "name": "Kazuradrop",
+    "rarity": 5,
+    "traits": "Child Servant, Costume-Owning, Fae, Humanoid, Mechanical, Non-Hominidae Servant, Sakura Series, Servant, Weak to Enuma Elish",
+    "voice_actor": "Yamashita Nanami"
   }
 ]

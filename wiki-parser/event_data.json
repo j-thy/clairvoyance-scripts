@@ -1905,7 +1905,37 @@
     "slug": "archetype-inception-chapter-release-jp",
     "name": "Archetype Inception Chapter Release",
     "region": "JP",
-    "image_file": "Ordeal call 3 zpupd.png"
+    "image_file": "Ordeal_call_3_zpupd.png"
+  },
+  {
+    "slug": "lostbelt-no4-clear-support-campaign-jp",
+    "name": "Lostbelt No.4 Clear Support Campaign",
+    "region": "JP",
+    "image_file": "Lb4_clear_cp.png"
+  },
+  {
+    "slug": "kyomaf2024-exhibit-commemoration-campaign-jp",
+    "name": "KYOMAF2024 Exhibit Commemoration Campaign",
+    "region": "JP",
+    "image_file": "0913kyomaf.png"
+  },
+  {
+    "slug": "lostbelt-no5-clear-support-campaign-jp",
+    "name": "Lostbelt No.5 Clear Support Campaign",
+    "region": "JP",
+    "image_file": "Lb5_clear_cp.png"
+  },
+  {
+    "slug": "30m-downloads-campaign-jp",
+    "name": "30M Downloads Campaign",
+    "region": "JP",
+    "image_file": "3000man.png"
+  },
+  {
+    "slug": "faerie-sugoroku-jp",
+    "name": "Faerie Sugoroku",
+    "region": "JP",
+    "image_file": "Faerie_sugoroku.png"
   },
   {
     "slug": "start-dash-campaign-us-na",
@@ -4656,6 +4686,12 @@
     "image_file": "RoadTo7LB4BannerUS.png"
   },
   {
+    "slug": "anime-nyc-2024-campaign-us-na",
+    "name": "Anime NYC 2024 Campaign (US)",
+    "region": "NA",
+    "image_file": "AnimeNYC2024CampaignUS.png"
+  },
+  {
     "slug": "singularity-repair-support-campaign-part-4-us-na",
     "name": "Singularity Repair Support Campaign Part 4 (US)",
     "region": "NA",
@@ -4668,12 +4704,6 @@
     "image_file": "AdvancedQuestPart8US.png"
   },
   {
-    "slug": "anime-nyc-2024-campaign-us-na",
-    "name": "Anime NYC 2024 Campaign (US)",
-    "region": "NA",
-    "image_file": "AnimeNYC2024CampaignUS.png"
-  },
-  {
     "slug": "back-to-school-campaign-2024-us-na",
     "name": "Back to School Campaign 2024 (US)",
     "region": "NA",
@@ -4684,5 +4714,47 @@
     "name": "GUDAGUDA New Yamataikoku 2024 (US)",
     "region": "NA",
     "image_file": "GUDAGUDANewYamataiBannerUS.png"
+  },
+  {
+    "slug": "advanced-quest-part-9-us-na",
+    "name": "Advanced Quest Part 9 (US)",
+    "region": "NA",
+    "image_file": "AdvancedQuestPart9US.png"
+  },
+  {
+    "slug": "road-to-7-lostbelt-no5-atlantis-campaign-us-na",
+    "name": "Road to 7: Lostbelt No.5 ~Atlantis~ Campaign (US)",
+    "region": "NA",
+    "image_file": "RoadTo7LB5.1BannerUS.png"
+  },
+  {
+    "slug": "singularity-repair-support-campaign-part-5-us-na",
+    "name": "Singularity Repair Support Campaign Part 5 (US)",
+    "region": "NA",
+    "image_file": "SingularityRepairCampaign5US.png"
+  },
+  {
+    "slug": "road-to-7-lostbelt-no5-olympus-campaign-us-na",
+    "name": "Road to 7: Lostbelt No.5 ~Olympus~ Campaign (US)",
+    "region": "NA",
+    "image_file": "RoadTo7LB5.2BannerUS.png"
+  },
+  {
+    "slug": "imaginary-scramble-main-interlude-release-campaign-us-na",
+    "name": "Imaginary Scramble Main Interlude Release Campaign (US)",
+    "region": "NA",
+    "image_file": "ISMainInterludeCampaignUS.png"
+  },
+  {
+    "slug": "halloween-2024-event-us-na",
+    "name": "Halloween 2024 Event (US)",
+    "region": "NA",
+    "image_file": "Halloween2024BannerUS.png"
+  },
+  {
+    "slug": "halloween-revival-2024-summoning-campaign-us-na",
+    "name": "Halloween Revival 2024 Summoning Campaign (US)",
+    "region": "NA",
+    "image_file": "HalloweenRevival2024SummonUS.png"
   }
 ]

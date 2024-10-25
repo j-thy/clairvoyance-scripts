@@ -7982,8 +7982,8 @@
     "event_id": "celeb-summer-experience-jp"
   },
   {
-    "slug": "archetype-inception-summoning-campaign-jp",
-    "name": "Archetype Inception Summoning Campaign",
+    "slug": "archetype-inception-summoning-campaign-1-jp",
+    "name": "Archetype Inception Summoning Campaign 1",
     "start_date": "2024-08-28",
     "end_date": "2024-10-09",
     "region": "JP",
@@ -7993,6 +7993,167 @@
       "423": "Mysterious Heroine XX (Alter)"
     },
     "event_id": "archetype-inception-chapter-release-jp"
+  },
+  {
+    "slug": "archetype-inception-summoning-campaign-2-jp",
+    "name": "Archetype Inception Summoning Campaign 2",
+    "start_date": "2024-09-11",
+    "end_date": "2024-09-24",
+    "region": "JP",
+    "rateups": {
+      "94": "Astolfo",
+      "103": "Thomas Edison",
+      "164": "Passionlip",
+      "238": "Kingprotea",
+      "244": "Jinako Carigiri",
+      "270": "Astolfo (Saber)",
+      "334": "Koyanskaya of Darkness"
+    },
+    "event_id": "archetype-inception-chapter-release-jp"
+  },
+  {
+    "slug": "archetype-inception-summoning-campaign-3-jp",
+    "name": "Archetype Inception Summoning Campaign 3",
+    "start_date": "2024-09-20",
+    "end_date": "2024-09-29",
+    "region": "JP",
+    "rateups": {
+      "167": "Sesshōin Kiara",
+      "344": "Roland",
+      "351": "Archetype: Earth"
+    },
+    "event_id": "archetype-inception-chapter-release-jp"
+  },
+  {
+    "slug": "lostbelt-no4-clear-support-summoning-campaign-jp",
+    "name": "Lostbelt No.4 Clear Support Summoning Campaign",
+    "start_date": "2024-09-01",
+    "end_date": "2024-09-10",
+    "region": "JP",
+    "rateups": {
+      "84": "Arjuna",
+      "245": "Lakshmibai",
+      "246": "William Tell",
+      "247": "Arjuna (Alter)",
+      "248": "Aśvatthāman",
+      "249": "Asclepius"
+    },
+    "event_id": "lostbelt-no4-clear-support-campaign-jp"
+  },
+  {
+    "slug": "kyomaf2024-exhibit-commemoration-summoning-campaign-jp",
+    "name": "KYOMAF2024 Exhibit Commemoration Summoning Campaign",
+    "start_date": "2024-09-21",
+    "end_date": "2024-09-28",
+    "region": "JP",
+    "rateups": {
+      "210": "Okada Izō",
+      "293": "Saitō Hajime",
+      "362": "Sen no Rikyū"
+    },
+    "event_id": "kyomaf2024-exhibit-commemoration-campaign-jp"
+  },
+  {
+    "slug": "lostbelt-no5-clear-support-summoning-campaign-jp",
+    "name": "Lostbelt No.5 Clear Support Summoning Campaign",
+    "start_date": "2024-10-01",
+    "end_date": "2024-10-16",
+    "region": "JP",
+    "rateups": {
+      "272": "Super Orion",
+      "273": "Mandricardo",
+      "274": "Europa",
+      "277": "Odysseus",
+      "278": "Dioscuri",
+      "279": "Caenis",
+      "280": "Romulus-Quirinus"
+    },
+    "event_id": "lostbelt-no5-clear-support-campaign-jp"
+  },
+  {
+    "slug": "30m-downloads-summoning-campaign-jp",
+    "name": "30M Downloads Summoning Campaign",
+    "start_date": "2024-10-04",
+    "end_date": "2024-10-18",
+    "region": "JP",
+    "rateups": {
+      "316": "Oberon"
+    },
+    "event_id": "30m-downloads-campaign-jp"
+  },
+  {
+    "slug": "past-downloads-milestones-summoning-campaign-jp",
+    "name": "Past Downloads Milestones Summoning Campaign",
+    "start_date": "2024-10-06",
+    "end_date": "2024-11-01",
+    "region": "JP",
+    "rateups": {
+      "12": "Gilgamesh",
+      "51": "Sakata Kintoki",
+      "70": "Scáthach",
+      "88": "Brynhildr",
+      "90": "Nero Claudius (Bride)",
+      "106": "Jeanne d'Arc (Alter)",
+      "127": "Leonardo Da Vinci",
+      "128": "Tamamo no Mae (Lancer)",
+      "129": "Artoria Pendragon (Archer)",
+      "142": "Ishtar",
+      "150": "Merlin",
+      "153": "Miyamoto Musashi",
+      "154": "\"The Old Man of the Mountain\"",
+      "155": "Mysterious Heroine X (Alter)",
+      "160": "Arthur Pendragon (Prototype)",
+      "167": "Sesshōin Kiara",
+      "195": "Abigail Williams",
+      "196": "Ereshkigal",
+      "215": "Scáthach-Skaði",
+      "229": "Shi Huang Di",
+      "237": "Murasaki Shikibu",
+      "265": "Artoria Pendragon (Ruler)",
+      "268": "Space Ishtar",
+      "284": "Artoria Caster",
+      "299": "Ibuki Dōji",
+      "312": "Mélusine"
+    },
+    "event_id": "30m-downloads-campaign-jp"
+  },
+  {
+    "slug": "faerie-sugoroku-summoning-campaign-1-jp",
+    "name": "Faerie Sugoroku Summoning Campaign 1",
+    "start_date": "2024-10-16",
+    "end_date": "2024-11-06",
+    "region": "JP",
+    "rateups": {
+      "11": "EMIYA",
+      "104": "Geronimo",
+      "187": "Yagyū Munenori",
+      "426": "Kazuradrop"
+    },
+    "event_id": "faerie-sugoroku-jp"
+  },
+  {
+    "slug": "kishinami-hakuno-pickup-summoning-campaign-jp",
+    "name": "Kishinami Hakuno Pickup Summoning Campaign",
+    "start_date": "2024-10-16",
+    "end_date": "2024-11-06",
+    "region": "JP",
+    "rateups": {
+      "424": "Kishinami Hakuno (Male)",
+      "425": "Kishinami Hakuno (Female)"
+    },
+    "event_id": "faerie-sugoroku-jp"
+  },
+  {
+    "slug": "faerie-sugoroku-summoning-campaign-2-jp",
+    "name": "Faerie Sugoroku Summoning Campaign 2",
+    "start_date": "2024-10-23",
+    "end_date": "2024-11-06",
+    "region": "JP",
+    "rateups": {
+      "163": "Meltryllis",
+      "366": "Huang Feihu"
+    },
+    "event_id": "faerie-sugoroku-jp"
   },
   {
     "slug": "66666-facebook-likes-summoning-campaign-na",
@@ -14976,8 +15137,8 @@
     "event_id": "back-to-school-campaign-2024-us-na"
   },
   {
-    "slug": "gudaguda-new-yamataikoku-2024-summoning-campaign-na",
-    "name": "GUDAGUDA New Yamataikoku 2024 Summoning Campaign",
+    "slug": "gudaguda-new-yamataikoku-2024-summoning-campaign-1-na",
+    "name": "GUDAGUDA New Yamataikoku 2024 Summoning Campaign 1",
     "start_date": "2024-09-02",
     "end_date": "2024-09-22",
     "region": "NA",
@@ -14987,5 +15148,131 @@
       "363": "Yamanami Keisuke"
     },
     "event_id": "gudaguda-new-yamataikoku-2024-us-na"
+  },
+  {
+    "slug": "gudaguda-new-yamataikoku-2024-summoning-campaign-2-na",
+    "name": "GUDAGUDA New Yamataikoku 2024 Summoning Campaign 2",
+    "start_date": "2024-09-04",
+    "end_date": "2024-09-20",
+    "region": "NA",
+    "rateups": {
+      "68": "Okita Sōji",
+      "161": "Hijikata Toshizō",
+      "178": "Oda Nobunaga (Berserker)",
+      "209": "Okita Sōji (Alter)",
+      "250": "Demon King Nobunaga",
+      "251": "Mori Nagayoshi",
+      "267": "Okita J Sōji",
+      "292": "Himiko",
+      "293": "Saitō Hajime",
+      "327": "Izumo no Okuni",
+      "329": "Sakamoto Ryōma (Lancer)"
+    },
+    "event_id": "gudaguda-new-yamataikoku-2024-us-na"
+  },
+  {
+    "slug": "road-to-7-lostbelt-no5-atlantis-summoning-campaign-na",
+    "name": "Road to 7: Lostbelt No.5 ~Atlantis~ Summoning Campaign",
+    "start_date": "2024-09-23",
+    "end_date": "2024-09-30",
+    "region": "NA",
+    "rateups": {
+      "60": "Orion",
+      "64": "Hector",
+      "185": "Mochizuki Chiyome",
+      "206": "Achilles",
+      "207": "Chiron",
+      "242": "Astraea",
+      "272": "Super Orion",
+      "273": "Mandricardo",
+      "277": "Odysseus"
+    },
+    "event_id": "road-to-7-lostbelt-no5-atlantis-campaign-us-na"
+  },
+  {
+    "slug": "road-to-7-lostbelt-no5-olympus-summoning-campaign-na",
+    "name": "Road to 7: Lostbelt No.5 ~Olympus~ Summoning Campaign",
+    "start_date": "2024-09-30",
+    "end_date": "2024-10-09",
+    "region": "NA",
+    "rateups": {
+      "77": "Nikola Tesla",
+      "100": "Helena Blavatsky",
+      "274": "Europa",
+      "278": "Dioscuri",
+      "279": "Caenis",
+      "280": "Romulus-Quirinus"
+    },
+    "event_id": "road-to-7-lostbelt-no5-olympus-campaign-us-na"
+  },
+  {
+    "slug": "imaginary-scramble-main-interlude-release-summoning-campaign-na",
+    "name": "Imaginary Scramble Main Interlude Release Summoning Campaign",
+    "start_date": "2024-10-07",
+    "end_date": "2024-10-18",
+    "region": "NA",
+    "rateups": {
+      "176": "Frankenstein (Saber)",
+      "181": "Minamoto no Raikō (Lancer)",
+      "222": "Mysterious Heroine XX",
+      "275": "Yang Guifei",
+      "295": "Van Gogh",
+      "296": "Nemo"
+    },
+    "event_id": "imaginary-scramble-main-interlude-release-campaign-us-na"
+  },
+  {
+    "slug": "halloween-2024-event-summoning-campaign-1-na",
+    "name": "Halloween 2024 Event Summoning Campaign 1",
+    "start_date": "2024-10-11",
+    "end_date": "2024-10-31",
+    "region": "NA",
+    "rateups": {
+      "365": "Huyan Zhuo",
+      "366": "Huang Feihu"
+    },
+    "event_id": "halloween-2024-event-us-na"
+  },
+  {
+    "slug": "halloween-2024-event-summoning-campaign-2-na",
+    "name": "Halloween 2024 Event Summoning Campaign 2",
+    "start_date": "2024-10-13",
+    "end_date": "2024-10-18",
+    "region": "NA",
+    "rateups": {
+      "158": "Hessian Lobo",
+      "159": "Yan Qing",
+      "187": "Yagyū Munenori",
+      "228": "Qin Liangyu",
+      "237": "Murasaki Shikibu",
+      "276": "Sei Shōnagon",
+      "324": "Jacques de Molay",
+      "331": "Taigong Wang"
+    },
+    "event_id": "halloween-2024-event-us-na"
+  },
+  {
+    "slug": "halloween-revival-2024-summoning-campaign-na",
+    "name": "Halloween Revival 2024 Summoning Campaign",
+    "start_date": "2024-10-21",
+    "end_date": "2024-10-27",
+    "region": "NA",
+    "rateups": {
+      "52": "Vlad III",
+      "189": "Osakabehime"
+    },
+    "event_id": "halloween-2024-event-us-na"
+  },
+  {
+    "slug": "halloween-revival-2024-summoning-campaign-na-1",
+    "name": "Halloween Revival 2024 Summoning Campaign",
+    "start_date": "2024-10-21",
+    "end_date": "2024-10-27",
+    "region": "NA",
+    "rateups": {
+      "52": "Vlad III",
+      "189": "Osakabehime"
+    },
+    "event_id": "halloween-revival-2024-summoning-campaign-us-na"
   }
 ]
