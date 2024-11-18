@@ -6067,8 +6067,8 @@
     "event_id": "singularity-repair-support-campaign-jp"
   },
   {
-    "slug": "singularity-repair-support-summoning-campaign-7-jp",
-    "name": "Singularity Repair Support Summoning Campaign 7",
+    "slug": "singularity-repair-support-summoning-campaign-5-jp",
+    "name": "Singularity Repair Support Summoning Campaign 5",
     "start_date": "2022-11-10",
     "end_date": "2022-11-12",
     "region": "JP",
@@ -6078,8 +6078,8 @@
     "event_id": "singularity-repair-support-campaign-jp"
   },
   {
-    "slug": "singularity-repair-support-summoning-campaign-5-jp",
-    "name": "Singularity Repair Support Summoning Campaign 5",
+    "slug": "singularity-repair-support-summoning-campaign-6-jp",
+    "name": "Singularity Repair Support Summoning Campaign 6",
     "start_date": "2022-11-12",
     "end_date": "2022-11-16",
     "region": "JP",
@@ -6094,8 +6094,8 @@
     "event_id": "singularity-repair-support-campaign-jp"
   },
   {
-    "slug": "singularity-repair-support-summoning-campaign-6-jp",
-    "name": "Singularity Repair Support Summoning Campaign 6",
+    "slug": "singularity-repair-support-summoning-campaign-7-jp",
+    "name": "Singularity Repair Support Summoning Campaign 7",
     "start_date": "2022-11-16",
     "end_date": "2022-11-18",
     "region": "JP",
@@ -8154,6 +8154,62 @@
       "366": "Huang Feihu"
     },
     "event_id": "faerie-sugoroku-jp"
+  },
+  {
+    "slug": "lostbelt-no6-clear-support-summoning-campaign-jp",
+    "name": "Lostbelt No.6 Clear Support Summoning Campaign",
+    "start_date": "2024-11-01",
+    "end_date": "2024-11-12",
+    "region": "JP",
+    "rateups": {
+      "38": "Cú Chulainn (Caster)",
+      "122": "Tristan",
+      "231": "Red Hare",
+      "253": "Leonardo Da Vinci (Rider)",
+      "309": "Morgan",
+      "310": "Barghest",
+      "311": "Baobhan Sith",
+      "312": "Mélusine"
+    },
+    "event_id": "lostbelt-no6-clear-support-campaign-jp"
+  },
+  {
+    "slug": "mystery-house-crafters-pre-release-summoning-campaign-jp",
+    "name": "Mystery House Crafters Pre-Release Summoning Campaign",
+    "start_date": "2024-11-06",
+    "end_date": "2024-11-15",
+    "region": "JP",
+    "rateups": {
+      "118": "Ozymandias",
+      "142": "Ishtar"
+    },
+    "event_id": "mystery-house-crafters-jp"
+  },
+  {
+    "slug": "mystery-house-crafters-summoning-campaign-1-jp",
+    "name": "Mystery House Crafters Summoning Campaign 1",
+    "start_date": "2024-11-13",
+    "end_date": "2024-12-04",
+    "region": "JP",
+    "rateups": {
+      "427": "Tutankhamun"
+    },
+    "event_id": "mystery-house-crafters-jp"
+  },
+  {
+    "slug": "mystery-house-crafters-summoning-campaign-2-jp",
+    "name": "Mystery House Crafters Summoning Campaign 2",
+    "start_date": "2024-11-15",
+    "end_date": "2024-11-25",
+    "region": "JP",
+    "rateups": {
+      "7": "Gaius Julius Caesar",
+      "193": "Nezha",
+      "250": "Demon King Nobunaga",
+      "273": "Mandricardo",
+      "368": "Britomart"
+    },
+    "event_id": "mystery-house-crafters-jp"
   },
   {
     "slug": "66666-facebook-likes-summoning-campaign-na",
@@ -15274,5 +15330,161 @@
       "189": "Osakabehime"
     },
     "event_id": "halloween-revival-2024-summoning-campaign-us-na"
+  },
+  {
+    "slug": "singularity-repair-support-campaign-part-6-summoning-campaign-1-na",
+    "name": "Singularity Repair Support Campaign Part 6 Summoning Campaign 1",
+    "start_date": "2024-10-27",
+    "end_date": "2024-10-31",
+    "region": "NA",
+    "rateups": {
+      "9": "Gilles de Rais (Saber)",
+      "29": "Marie Antoinette",
+      "32": "Gilles de Rais",
+      "48": "Lancelot",
+      "59": "Jeanne d'Arc",
+      "106": "Jeanne d'Arc (Alter)"
+    },
+    "event_id": "singularity-repair-support-campaign-part-6-us-na"
+  },
+  {
+    "slug": "singularity-repair-support-campaign-part-6-summoning-campaign-2-na",
+    "name": "Singularity Repair Support Campaign Part 6 Summoning Campaign 2",
+    "start_date": "2024-10-31",
+    "end_date": "2024-11-04",
+    "region": "NA",
+    "rateups": {
+      "8": "Altera",
+      "26": "Boudica",
+      "28": "Alexander",
+      "37": "Zhuge Liang (Lord El-Melloi II)",
+      "41": "Stheno",
+      "58": "Tamamo Cat"
+    },
+    "event_id": "singularity-repair-support-campaign-part-6-us-na"
+  },
+  {
+    "slug": "singularity-repair-support-campaign-part-6-summoning-campaign-3-na",
+    "name": "Singularity Repair Support Campaign Part 6 Summoning Campaign 3",
+    "start_date": "2024-11-04",
+    "end_date": "2024-11-06",
+    "region": "NA",
+    "rateups": {
+      "63": "David",
+      "65": "Francis Drake",
+      "66": "Anne Bonny & Mary Read",
+      "67": "Medea (Lily)"
+    },
+    "event_id": "singularity-repair-support-campaign-part-6-us-na"
+  },
+  {
+    "slug": "singularity-repair-support-campaign-part-6-summoning-campaign-4-na",
+    "name": "Singularity Repair Support Campaign Part 6 Summoning Campaign 4",
+    "start_date": "2024-11-06",
+    "end_date": "2024-11-10",
+    "region": "NA",
+    "rateups": {
+      "74": "Nursery Rhyme",
+      "75": "Jack the Ripper",
+      "76": "Mordred",
+      "78": "Artoria Pendragon (Lancer Alter)",
+      "80": "Charles Babbage",
+      "81": "Henry Jekyll & Hyde"
+    },
+    "event_id": "singularity-repair-support-campaign-part-6-us-na"
+  },
+  {
+    "slug": "singularity-repair-support-campaign-part-6-summoning-campaign-5-na",
+    "name": "Singularity Repair Support Campaign Part 6 Summoning Campaign 5",
+    "start_date": "2024-11-10",
+    "end_date": "2024-11-12",
+    "region": "NA",
+    "rateups": {
+      "96": "Edmond Dantès"
+    },
+    "event_id": "singularity-repair-support-campaign-part-6-us-na"
+  },
+  {
+    "slug": "singularity-repair-support-campaign-part-6-summoning-campaign-vi-na",
+    "name": "Singularity Repair Support Campaign Part 6 Summoning Campaign VI",
+    "start_date": "2024-11-12",
+    "end_date": "2024-11-16",
+    "region": "NA",
+    "rateups": {
+      "13": "Robin Hood",
+      "87": "Fionn mac Cumhaill",
+      "98": "Cú Chulainn (Alter)",
+      "99": "Queen Medb",
+      "103": "Thomas Edison",
+      "104": "Geronimo"
+    },
+    "event_id": "singularity-repair-support-campaign-part-6-us-na"
+  },
+  {
+    "slug": "singularity-repair-support-campaign-part-6-summoning-campaign-vii-na",
+    "name": "Singularity Repair Support Campaign Part 6 Summoning Campaign VII",
+    "start_date": "2024-11-16",
+    "end_date": "2024-11-18",
+    "region": "NA",
+    "rateups": {
+      "118": "Ozymandias",
+      "122": "Tristan",
+      "123": "Gawain",
+      "126": "Bedivere"
+    },
+    "event_id": "singularity-repair-support-campaign-part-6-us-na"
+  },
+  {
+    "slug": "chaldea-tam-lin-cup-summoning-campaign-1-na",
+    "name": "Chaldea Tam Lin Cup Summoning Campaign 1",
+    "start_date": "2024-11-08",
+    "end_date": "2024-11-21",
+    "region": "NA",
+    "rateups": {
+      "310": "Barghest",
+      "311": "Baobhan Sith",
+      "368": "Britomart"
+    },
+    "event_id": "chaldea-tam-lin-cup-us-na"
+  },
+  {
+    "slug": "chaldea-tam-lin-cup-summoning-campaign-2-na",
+    "name": "Chaldea Tam Lin Cup Summoning Campaign 2",
+    "start_date": "2024-11-11",
+    "end_date": "2024-11-14",
+    "region": "NA",
+    "rateups": {
+      "232": "Bradamante",
+      "343": "Charlemagne",
+      "344": "Roland"
+    },
+    "event_id": "chaldea-tam-lin-cup-us-na"
+  },
+  {
+    "slug": "chaldea-tam-lin-cup-summoning-campaign-3-na",
+    "name": "Chaldea Tam Lin Cup Summoning Campaign 3",
+    "start_date": "2024-11-15",
+    "end_date": "2024-11-19",
+    "region": "NA",
+    "rateups": {
+      "6": "Siegfried",
+      "47": "Heracles",
+      "51": "Sakata Kintoki",
+      "88": "Brynhildr",
+      "213": "Sigurd",
+      "345": "Kriemhild"
+    },
+    "event_id": "chaldea-tam-lin-cup-us-na"
+  },
+  {
+    "slug": "chaldea-tam-lin-cup-pre-release-summoning-campaign-na",
+    "name": "Chaldea Tam Lin Cup Pre-Release Summoning Campaign",
+    "start_date": "2024-10-31",
+    "end_date": "2024-11-07",
+    "region": "NA",
+    "rateups": {
+      "309": "Morgan"
+    },
+    "event_id": "chaldea-tam-lin-cup-us-na"
   }
 ]

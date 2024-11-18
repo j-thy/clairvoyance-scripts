@@ -8284,5 +8284,164 @@
         "num_rateups": 2
       }
     ]
+  },
+  {
+    "name": "Singularity Repair Support Campaign Part 6",
+    "region": "NA",
+    "image_file": "SingularityRepairCampaign6US.png",
+    "banners": [
+      {
+        "name": "Singularity Repair Support Campaign Part 6 Summoning Campaign 1",
+        "start_date": "10/27/2024",
+        "end_date": "10/31/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "9": "Gilles de Rais (Saber)",
+          "29": "Marie Antoinette",
+          "32": "Gilles de Rais",
+          "48": "Lancelot",
+          "59": "Jeanne d'Arc",
+          "106": "Jeanne d'Arc (Alter)"
+        },
+        "num_rateups": 6
+      },
+      {
+        "name": "Singularity Repair Support Campaign Part 6 Summoning Campaign 2",
+        "start_date": "10/31/2024",
+        "end_date": "11/4/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "8": "Altera",
+          "26": "Boudica",
+          "28": "Alexander",
+          "37": "Zhuge Liang (Lord El-Melloi II)",
+          "41": "Stheno",
+          "58": "Tamamo Cat"
+        },
+        "num_rateups": 6
+      },
+      {
+        "name": "Singularity Repair Support Campaign Part 6 Summoning Campaign 3",
+        "start_date": "11/4/2024",
+        "end_date": "11/6/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "63": "David",
+          "65": "Francis Drake",
+          "66": "Anne Bonny & Mary Read",
+          "67": "Medea (Lily)"
+        },
+        "num_rateups": 4
+      },
+      {
+        "name": "Singularity Repair Support Campaign Part 6 Summoning Campaign 4",
+        "start_date": "11/6/2024",
+        "end_date": "11/10/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "74": "Nursery Rhyme",
+          "75": "Jack the Ripper",
+          "76": "Mordred",
+          "78": "Artoria Pendragon (Lancer Alter)",
+          "80": "Charles Babbage",
+          "81": "Henry Jekyll & Hyde"
+        },
+        "num_rateups": 6
+      },
+      {
+        "name": "Singularity Repair Support Campaign Part 6 Summoning Campaign 5",
+        "start_date": "11/10/2024",
+        "end_date": "11/12/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "96": "Edmond Dantès"
+        },
+        "num_rateups": 1
+      },
+      {
+        "name": "Singularity Repair Support Campaign Part 6 Summoning Campaign VI",
+        "start_date": "11/12/2024",
+        "end_date": "11/16/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "13": "Robin Hood",
+          "87": "Fionn mac Cumhaill",
+          "98": "Cú Chulainn (Alter)",
+          "99": "Queen Medb",
+          "103": "Thomas Edison",
+          "104": "Geronimo"
+        },
+        "num_rateups": 6
+      },
+      {
+        "name": "Singularity Repair Support Campaign Part 6 Summoning Campaign VII",
+        "start_date": "11/16/2024",
+        "end_date": "11/18/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "118": "Ozymandias",
+          "122": "Tristan",
+          "123": "Gawain",
+          "126": "Bedivere"
+        },
+        "num_rateups": 4
+      }
+    ]
+  },
+  {
+    "name": "Chaldea Tam Lin Cup",
+    "region": "NA",
+    "image_file": "TamLinCupBannerUS.png",
+    "banners": [
+      {
+        "name": "Chaldea Tam Lin Cup Pre-Release Summoning Campaign",
+        "start_date": "10/31/2024",
+        "end_date": "11/7/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "309": "Morgan"
+        },
+        "num_rateups": 1
+      },
+      {
+        "name": "Chaldea Tam Lin Cup Summoning Campaign 1",
+        "start_date": "11/8/2024",
+        "end_date": "11/21/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "310": "Barghest",
+          "311": "Baobhan Sith",
+          "368": "Britomart"
+        },
+        "num_rateups": 3
+      },
+      {
+        "name": "Chaldea Tam Lin Cup Summoning Campaign 2",
+        "start_date": "11/11/2024",
+        "end_date": "11/14/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "232": "Bradamante",
+          "343": "Charlemagne",
+          "344": "Roland"
+        },
+        "num_rateups": 3
+      },
+      {
+        "name": "Chaldea Tam Lin Cup Summoning Campaign 3",
+        "start_date": "11/15/2024",
+        "end_date": "11/19/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "6": "Siegfried",
+          "47": "Heracles",
+          "51": "Sakata Kintoki",
+          "88": "Brynhildr",
+          "213": "Sigurd",
+          "345": "Kriemhild"
+        },
+        "num_rateups": 6
+      }
+    ]
   }
 ]

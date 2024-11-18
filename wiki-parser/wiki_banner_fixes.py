@@ -4,8 +4,6 @@ from datetime import date
 BANNER_NAME_CHANGE = (
     # JP Events
     ("Tales of Chaldean Heavy Industries", "Chaldea Boys Collection 2023 Summoning Part 2", "Chaldea Boys Collection 2023 Summoning Campaign 1"),
-    ("Singularity Repair Support Campaign", "Singularity Repair Support Summoning Campaign 7", "Singularity Repair Support Summoning Campaign 6"),
-    ("Singularity Repair Support Campaign", "Singularity Repair Support Summoning Campaign 6", "Singularity Repair Support Summoning Campaign 7"),
     ("GUDAGUDA Yamatai-koku 2020 Rerun", "GUDAGUDA Yamatai-koku 2020 Rerun", "GUDAGUDA Yamatai-koku 2020 Rerun Summoning Campaign"),
     ("GUDAGUDA Yamatai-koku 2020 Rerun", "GUDAGUDA Yamatai-koku 2020 Rerun", "GUDAGUDA Yamatai-koku 2020 Rerun FP Summoning Campaign"),
     ("Avalon le Fae Chapter Release Part 2", "Avalon le Fae Chapter Release Part 2 Summoning Campaign 3", "Avalon le Fae Chapter Release Part 2 Summoning Campaign"),

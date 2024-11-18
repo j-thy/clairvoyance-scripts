@@ -7481,7 +7481,7 @@
         "num_rateups": 6
       },
       {
-        "name": "Singularity Repair Support Summoning Campaign 7",
+        "name": "Singularity Repair Support Summoning Campaign 5",
         "start_date": "11/10/2022",
         "end_date": "11/12/2022",
         "date_origin": "tab",
@@ -7491,7 +7491,7 @@
         "num_rateups": 1
       },
       {
-        "name": "Singularity Repair Support Summoning Campaign 5",
+        "name": "Singularity Repair Support Summoning Campaign 6",
         "start_date": "11/12/2022",
         "end_date": "11/16/2022",
         "date_origin": "tab",
@@ -7506,7 +7506,7 @@
         "num_rateups": 6
       },
       {
-        "name": "Singularity Repair Support Summoning Campaign 6",
+        "name": "Singularity Repair Support Summoning Campaign 7",
         "start_date": "11/16/2022",
         "end_date": "11/18/2022",
         "date_origin": "tab",
@@ -9914,6 +9914,72 @@
           "366": "Huang Feihu"
         },
         "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "Lostbelt No.6 Clear Support Campaign",
+    "region": "JP",
+    "image_file": "Lb6_clear_cp.png",
+    "banners": [
+      {
+        "name": "Lostbelt No.6 Clear Support Summoning Campaign",
+        "start_date": "11/1/2024",
+        "end_date": "11/12/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "38": "Cú Chulainn (Caster)",
+          "122": "Tristan",
+          "231": "Red Hare",
+          "253": "Leonardo Da Vinci (Rider)",
+          "309": "Morgan",
+          "310": "Barghest",
+          "311": "Baobhan Sith",
+          "312": "Mélusine"
+        },
+        "num_rateups": 8
+      }
+    ]
+  },
+  {
+    "name": "Mystery House Crafters",
+    "region": "JP",
+    "image_file": "mystery_house_crafters.png",
+    "banners": [
+      {
+        "name": "Mystery House Crafters Pre-Release Summoning Campaign",
+        "start_date": "11/6/2024",
+        "end_date": "11/15/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "118": "Ozymandias",
+          "142": "Ishtar"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Mystery House Crafters Summoning Campaign 1",
+        "start_date": "11/13/2024",
+        "end_date": "12/4/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "427": "Tutankhamun"
+        },
+        "num_rateups": 1
+      },
+      {
+        "name": "Mystery House Crafters Summoning Campaign 2",
+        "start_date": "11/15/2024",
+        "end_date": "11/25/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "7": "Gaius Julius Caesar",
+          "193": "Nezha",
+          "250": "Demon King Nobunaga",
+          "273": "Mandricardo",
+          "368": "Britomart"
+        },
+        "num_rateups": 5
       }
     ]
   }

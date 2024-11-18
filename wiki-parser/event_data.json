@@ -1938,6 +1938,18 @@
     "image_file": "Faerie_sugoroku.png"
   },
   {
+    "slug": "lostbelt-no6-clear-support-campaign-jp",
+    "name": "Lostbelt No.6 Clear Support Campaign",
+    "region": "JP",
+    "image_file": "Lb6_clear_cp.png"
+  },
+  {
+    "slug": "mystery-house-crafters-jp",
+    "name": "Mystery House Crafters",
+    "region": "JP",
+    "image_file": "mystery_house_crafters.png"
+  },
+  {
     "slug": "start-dash-campaign-us-na",
     "name": "Start Dash Campaign (US)",
     "region": "NA",
@@ -4756,5 +4768,29 @@
     "name": "Halloween Revival 2024 Summoning Campaign (US)",
     "region": "NA",
     "image_file": "HalloweenRevival2024SummonUS.png"
+  },
+  {
+    "slug": "singularity-repair-support-campaign-part-6-us-na",
+    "name": "Singularity Repair Support Campaign Part 6 (US)",
+    "region": "NA",
+    "image_file": "SingularityRepairCampaign6US.png"
+  },
+  {
+    "slug": "advanced-quest-part-10-us-na",
+    "name": "Advanced Quest Part 10 (US)",
+    "region": "NA",
+    "image_file": "AdvancedQuestPart10US.png"
+  },
+  {
+    "slug": "chaldea-tam-lin-cup-us-na",
+    "name": "Chaldea Tam Lin Cup (US)",
+    "region": "NA",
+    "image_file": "TamLinCupBannerUS.png"
+  },
+  {
+    "slug": "2700-days-anniversary-us-na",
+    "name": "2700 Days Anniversary (US)",
+    "region": "NA",
+    "image_file": "2700DaysAnniversaryUS.png"
   }
 ]

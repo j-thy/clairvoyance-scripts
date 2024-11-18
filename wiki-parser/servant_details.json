@@ -5110,7 +5110,7 @@
     "voice_actor": "Kasama Jun, Saiga Mitsuki"
   },
   {
-    "aliases": "Nine-Tattoo Dragon Shi Jin",
+    "aliases": "Elisa the Nine-Tattooed Dragon, Nine-Tattoo Dragon Shi Jin",
     "alignment": "Chaotic・Evil",
     "attribute": "Man",
     "class_type": "Pretender",
@@ -5920,5 +5920,33 @@
     "rarity": 5,
     "traits": "Child Servant, Costume-Owning, Fae, Humanoid, Mechanical, Non-Hominidae Servant, Sakura Series, Servant, Weak to Enuma Elish",
     "voice_actor": "Yamashita Nanami"
+  },
+  {
+    "aliases": "Juvenile King, King Tut",
+    "alignment": "Lawful・Good",
+    "attribute": "Man",
+    "class_type": "Archer",
+    "gender": "m",
+    "id": 427,
+    "illustrator": "YOCO_N (LASENGLE)",
+    "jp_name": "ツタンカーメン",
+    "name": "Tutankhamun",
+    "rarity": 5,
+    "traits": "Defender, Divinity, Hominidae Servant, Humanoid, King, Servant, Seven Knights Servant, Weak to Enuma Elish",
+    "voice_actor": "Abe Rika"
+  },
+  {
+    "aliases": "",
+    "alignment": "Chaotic・Balanced",
+    "attribute": "Man",
+    "class_type": "Lancer",
+    "gender": "f",
+    "id": 428,
+    "illustrator": "Kibadori Rue",
+    "jp_name": "ヴァン・ゴッホ〔マイナー〕",
+    "name": "Van Gogh (Miner)",
+    "rarity": 4,
+    "traits": "Child Servant, Existence Outside the Domain, Hominidae Servant, Humanoid, Servant, Seven Knights Servant, Threat to Humanity, Weak to Enuma Elish",
+    "voice_actor": "Takahashi Karin"
   }
 ]
