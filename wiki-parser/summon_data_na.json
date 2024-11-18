@@ -8359,7 +8359,7 @@
         "num_rateups": 1
       },
       {
-        "name": "Singularity Repair Support Campaign Part 6 Summoning Campaign VI",
+        "name": "Singularity Repair Support Campaign Part 6 Summoning Campaign 6",
         "start_date": "11/12/2024",
         "end_date": "11/16/2024",
         "date_origin": "tab",
@@ -8374,7 +8374,7 @@
         "num_rateups": 6
       },
       {
-        "name": "Singularity Repair Support Campaign Part 6 Summoning Campaign VII",
+        "name": "Singularity Repair Support Campaign Part 6 Summoning Campaign 7",
         "start_date": "11/16/2024",
         "end_date": "11/18/2024",
         "date_origin": "tab",
@@ -8385,6 +8385,21 @@
           "126": "Bedivere"
         },
         "num_rateups": 4
+      },
+      {
+        "name": "Singularity Repair Support Campaign Part 6 Summoning Campaign 8",
+        "start_date": "11/18/2024",
+        "end_date": "11/22/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "27": "Ushiwakamaru",
+          "143": "Enkidu",
+          "144": "Quetzalcoatl",
+          "146": "Medusa (Lancer)",
+          "147": "Gorgon",
+          "148": "Jaguar Man"
+        },
+        "num_rateups": 6
       }
     ]
   },

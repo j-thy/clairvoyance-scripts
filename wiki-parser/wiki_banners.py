@@ -316,6 +316,10 @@ BANNER_NAME_FIX = {
     r"Summoning Campaign III$" : "Summoning Campaign 3",
     r"Summoning Campaign IV$" : "Summoning Campaign 4",
     r"Summoning Campaign V$" : "Summoning Campaign 5",
+    r"Summoning Campaign VI$" : "Summoning Campaign 6",
+    r"Summoning Campaign VII$" : "Summoning Campaign 7",
+    r"Summoning Campaign VIII$" : "Summoning Campaign 8",
+    r"Summoning Campaign IX$" : "Summoning Campaign 9",
     r"Saint Quartz Summon$" : "Summoning Campaign",
     r"Saint Quartz Summon I$" : "Summoning Campaign 1",
     r"Saint Quartz Summon II$" : "Summoning Campaign 2",
@@ -415,6 +419,8 @@ class Event:
         self.image_file = image_file
         self.banners = banners
         self.slug = None
+        self.start_date = None
+        self.end_date = None
     
     def __str__(self):
         return self.name
@@ -952,6 +958,21 @@ def pre_release_merge(event_set):
     except IndexError:
         pass
 
+# Parse event start and end dates from banners
+def create_event_dates(event_set):
+    # For each event in the event set...
+    for event in (pbar := tqdm(event_set.values(), bar_format=BAR_FORMAT_BANNERS)):
+        pbar.set_postfix_str(event)
+
+        # Set the start and end dates of the event
+        start_dates = []
+        end_dates = []
+        for banner in event.banners:
+            start_dates.append(banner.start_date)
+            end_dates.append(banner.end_date)
+        event_set[event].start_date = min(start_dates)
+        event_set[event].end_date = max(end_dates)
+
 # Recursively check for summoning campaign subpages
 def rec_check_subpages(event_set, event_page, date, parent_title):
     # Get the contents of the event page
@@ -1300,6 +1321,8 @@ def create_event_json(event_set_jp, event_set_na):
                 'slug' : slug,
                 'name' : event.name,
                 'region' : event.region,
+                'start_date' : event.start_date,
+                'end_date' : event.end_date,
                 'image_file' : event.image_file,
             })
 
@@ -1367,14 +1390,17 @@ def create_servant_json(event_set_jp, event_set_na):
     print("Saving to JSON file...")
     write_json(servant_list, "servant_data.json")
 
-def parse_and_create(event_list, event_set, region):
+def parse_and_create(event_list, region):
     print("Parsing all events...")
     parse_event_lists(event_list, region)
 
+    event_set = None
     if region == "NA":
         # Remove the "US" suffix from the end of event names.
         print("Removing US suffix...")
-        event_set = remove_us_suffix(event_set)
+        event_set = remove_us_suffix(EVENT_SET_NA)
+    else:
+        event_set = EVENT_SET_JP
 
     # Merge events that are marked to be merged and delete the old events.
     print("Merging events...")
@@ -1396,6 +1422,13 @@ def parse_and_create(event_list, event_set, region):
     print("Fixing dates...")
     fix_dates(event_set, CORRECT_DATES_JP if region == "JP" else CORRECT_DATES_NA)
 
+    # Create event dates
+    print(f"Extract dates for events...")
+    create_event_dates(event_set)
+
     # Create the JSON representation for debug data
     print("Creating debug JSON data...")
     create_debug_json(event_set, region)
+
+    return event_set
+

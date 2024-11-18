@@ -8224,7 +8224,7 @@
       "31": "Medea",
       "48": "Lancelot"
     },
-    "event_id": "66666-facebook-likes-campaign-us-na"
+    "event_id": "66666-facebook-likes-campaign-na"
   },
   {
     "slug": "nero-festival-summoning-campaign-na",
@@ -8238,7 +8238,7 @@
       "8": "Altera",
       "22": "Romulus"
     },
-    "event_id": "nero-festival-us-na"
+    "event_id": "nero-festival-na"
   },
   {
     "slug": "otakon-2017-summoning-campaign-na",
@@ -8253,7 +8253,7 @@
       "56": "Kiyohime",
       "59": "Jeanne d'Arc"
     },
-    "event_id": "otakon-2017-campaign-us-na"
+    "event_id": "otakon-2017-campaign-na"
   },
   {
     "slug": "moon-goddess-event-summoning-campaign-na",
@@ -8268,7 +8268,7 @@
       "42": "Jing Ke",
       "60": "Orion"
     },
-    "event_id": "moon-goddess-event-us-na"
+    "event_id": "moon-goddess-event-na"
   },
   {
     "slug": "1m-download-summoning-campaign-na",
@@ -8288,7 +8288,7 @@
       "52": "Vlad III",
       "59": "Jeanne d'Arc"
     },
-    "event_id": "1m-download-campaign-us-na"
+    "event_id": "1m-download-campaign-na"
   },
   {
     "slug": "fuyuki-pickup-summon-na",
@@ -8304,7 +8304,7 @@
       "31": "Medea",
       "47": "Heracles"
     },
-    "event_id": "fuyuki-pickup-summon-us-na"
+    "event_id": "fuyuki-pickup-summon-na"
   },
   {
     "slug": "septem-summoning-campaign-na",
@@ -8320,7 +8320,7 @@
       "41": "Stheno",
       "58": "Tamamo Cat"
     },
-    "event_id": "septem-campaign-us-na"
+    "event_id": "septem-campaign-na"
   },
   {
     "slug": "okeanos-chapter-release-summoning-campaign-na",
@@ -8335,7 +8335,7 @@
       "65": "Francis Drake",
       "66": "Anne Bonny & Mary Read"
     },
-    "event_id": "okeanos-chapter-release-us-na"
+    "event_id": "okeanos-chapter-release-na"
   },
   {
     "slug": "okeanos-summoning-campaign-2-na",
@@ -8351,23 +8351,7 @@
       "64": "Hector",
       "67": "Medea (Lily)"
     },
-    "event_id": "okeanos-chapter-release-us-na"
-  },
-  {
-    "slug": "okeanos-summoning-campaign-2-na-1",
-    "name": "Okeanos Summoning Campaign 2",
-    "start_date": "2017-10-05",
-    "end_date": "2017-10-17",
-    "region": "NA",
-    "rateups": {
-      "15": "Euryale",
-      "47": "Heracles",
-      "60": "Orion",
-      "63": "David",
-      "64": "Hector",
-      "67": "Medea (Lily)"
-    },
-    "event_id": "okeanos-campaign-2-us-na"
+    "event_id": "okeanos-chapter-release-na"
   },
   {
     "slug": "halloween-2017-event-summoning-campaign-na",
@@ -8382,7 +8366,7 @@
       "58": "Tamamo Cat",
       "62": "Tamamo no Mae"
     },
-    "event_id": "halloween-2017-event-us-na"
+    "event_id": "halloween-2017-event-na"
   },
   {
     "slug": "da-vincis-selection-summoning-campaign-na",
@@ -8397,7 +8381,7 @@
       "37": "Zhuge Liang (Lord El-Melloi II)",
       "48": "Lancelot"
     },
-    "event_id": "da-vincis-selection-campaign-us-na"
+    "event_id": "da-vincis-selection-campaign-na"
   },
   {
     "slug": "gudaguda-honnouji-event-summoning-campaign-na",
@@ -8412,7 +8396,7 @@
       "35": "Mephistopheles",
       "68": "Okita Sōji"
     },
-    "event_id": "gudaguda-honnouji-event-us-na"
+    "event_id": "gudaguda-honnouji-event-na"
   },
   {
     "slug": "fgo-thanksgiving-special-2017-summoning-campaign-na",
@@ -8428,7 +8412,7 @@
       "71": "Diarmuid Ua Duibhne",
       "72": "Fergus mac Róich"
     },
-    "event_id": "fgo-thanksgiving-special-2017-us-na"
+    "event_id": "fgo-thanksgiving-special-2017-na"
   },
   {
     "slug": "christmas-2017-event-summoning-campaign-na",
@@ -8443,7 +8427,7 @@
       "74": "Nursery Rhyme",
       "75": "Jack the Ripper"
     },
-    "event_id": "christmas-2017-event-us-na"
+    "event_id": "christmas-2017-event-na"
   },
   {
     "slug": "singularity-pickup-summon-na",
@@ -8482,7 +8466,7 @@
       "66": "Anne Bonny & Mary Read",
       "67": "Medea (Lily)"
     },
-    "event_id": "singularity-pickup-summon-us-na"
+    "event_id": "singularity-pickup-summon-na"
   },
   {
     "slug": "london-chapter-release-summoning-campaign-na",
@@ -8497,7 +8481,7 @@
       "81": "Henry Jekyll & Hyde",
       "82": "Frankenstein"
     },
-    "event_id": "london-chapter-release-us-na"
+    "event_id": "london-chapter-release-na"
   },
   {
     "slug": "london-summoning-campaign-2-na",
@@ -8509,19 +8493,7 @@
       "77": "Nikola Tesla",
       "78": "Artoria Pendragon (Lancer Alter)"
     },
-    "event_id": "london-chapter-release-us-na"
-  },
-  {
-    "slug": "london-summoning-campaign-2-na-1",
-    "name": "London Summoning Campaign 2",
-    "start_date": "2017-12-26",
-    "end_date": "2018-01-04",
-    "region": "NA",
-    "rateups": {
-      "77": "Nikola Tesla",
-      "78": "Artoria Pendragon (Lancer Alter)"
-    },
-    "event_id": "london-campaign-2-us-na"
+    "event_id": "london-chapter-release-na"
   },
   {
     "slug": "happy-new-year-2018-summoning-campaign-na",
@@ -8537,7 +8509,7 @@
       "84": "Arjuna",
       "85": "Karna"
     },
-    "event_id": "happy-new-year-2018-us-na"
+    "event_id": "happy-new-year-2018-na"
   },
   {
     "slug": "saber-wars-event-summoning-campaign-na",
@@ -8550,7 +8522,7 @@
       "5": "Nero Claudius",
       "86": "Mysterious Heroine X"
     },
-    "event_id": "saber-wars-event-us-na"
+    "event_id": "saber-wars-event-na"
   },
   {
     "slug": "2m-downloads-summoning-campaign-na",
@@ -8563,7 +8535,7 @@
       "88": "Brynhildr",
       "89": "Beowulf"
     },
-    "event_id": "2m-downloads-campaign-us-na"
+    "event_id": "2m-downloads-campaign-na"
   },
   {
     "slug": "valentine-2018-event-summoning-campaign-na",
@@ -8582,7 +8554,7 @@
       "76": "Mordred",
       "90": "Nero Claudius (Bride)"
     },
-    "event_id": "valentine-2018-event-us-na"
+    "event_id": "valentine-2018-event-na"
   },
   {
     "slug": "three-knights-and-four-cavalries-summoning-campaign-na",
@@ -8652,7 +8624,7 @@
       "87": "Fionn mac Cumhaill",
       "89": "Beowulf"
     },
-    "event_id": "three-knights-and-four-cavalries-summon-campaign-us-na"
+    "event_id": "three-knights-and-four-cavalries-summon-campaign-na"
   },
   {
     "slug": "the-garden-of-sinners-collaboration-event-summoning-campaign-na",
@@ -8663,7 +8635,7 @@
     "rateups": {
       "91": "Ryōgi Shiki (Saber)"
     },
-    "event_id": "the-garden-of-sinners-collaboration-event-us-na"
+    "event_id": "the-garden-of-sinners-collaboration-event-na"
   },
   {
     "slug": "chaldea-boys-collection-2018-summoning-campaign-na",
@@ -8679,7 +8651,7 @@
       "94": "Astolfo",
       "95": "Kid Gil"
     },
-    "event_id": "chaldea-boys-collection-2018-us-na"
+    "event_id": "chaldea-boys-collection-2018-na"
   },
   {
     "slug": "vengeful-demons-wail-at-the-prison-tower-summoning-campaign-na",
@@ -8690,7 +8662,7 @@
     "rateups": {
       "96": "Edmond Dantès"
     },
-    "event_id": "vengeful-demons-wail-at-the-prison-tower-us-na"
+    "event_id": "vengeful-demons-wail-at-the-prison-tower-na"
   },
   {
     "slug": "singularity-summoning-campaign-na",
@@ -8738,7 +8710,7 @@
       "81": "Henry Jekyll & Hyde",
       "82": "Frankenstein"
     },
-    "event_id": "singularity-summon-campaign-us-na"
+    "event_id": "singularity-summon-campaign-na"
   },
   {
     "slug": "e-pluribus-unum-chapter-release-summoning-campaign-na",
@@ -8753,7 +8725,7 @@
       "104": "Geronimo",
       "105": "Billy the Kid"
     },
-    "event_id": "e-pluribus-unum-chapter-release-us-na"
+    "event_id": "e-pluribus-unum-chapter-release-na"
   },
   {
     "slug": "e-pluribus-unum-summoning-campaign-2-na",
@@ -8764,7 +8736,7 @@
     "rateups": {
       "99": "Queen Medb"
     },
-    "event_id": "e-pluribus-unum-chapter-release-us-na"
+    "event_id": "e-pluribus-unum-chapter-release-na"
   },
   {
     "slug": "e-pluribus-unum-summoning-campaign-3-na",
@@ -8776,7 +8748,7 @@
       "98": "Cú Chulainn (Alter)",
       "103": "Thomas Edison"
     },
-    "event_id": "e-pluribus-unum-chapter-release-us-na"
+    "event_id": "e-pluribus-unum-chapter-release-na"
   },
   {
     "slug": "da-vinci-and-the-7-counterfeit-heroic-spirits-summoning-campaign-na",
@@ -8787,21 +8759,7 @@
     "rateups": {
       "106": "Jeanne d'Arc (Alter)"
     },
-    "event_id": "da-vinci-and-the-7-counterfeit-heroic-spirits-us-na"
-  },
-  {
-    "slug": "fateaccel-zero-order-collaboration-event-summoning-campaign-na",
-    "name": "Fate/Accel Zero Order Collaboration Event Summoning Campaign",
-    "start_date": "2018-04-19",
-    "end_date": "2018-05-10",
-    "region": "NA",
-    "rateups": {
-      "37": "Zhuge Liang (Lord El-Melloi II)",
-      "108": "Iskandar",
-      "109": "EMIYA (Assassin)",
-      "110": "Hassan of the Hundred Faces"
-    },
-    "event_id": "fateaccel-zero-order-collaboration-event-us-na"
+    "event_id": "da-vinci-and-the-7-counterfeit-heroic-spirits-na"
   },
   {
     "slug": "fateaccel-zero-order-advance-summoning-campaign-na",
@@ -8816,7 +8774,21 @@
       "48": "Lancelot",
       "71": "Diarmuid Ua Duibhne"
     },
-    "event_id": "fateaccel-zero-order-collaboration-event-us-na"
+    "event_id": "fateaccel-zero-order-collaboration-event-na"
+  },
+  {
+    "slug": "fateaccel-zero-order-collaboration-event-summoning-campaign-na",
+    "name": "Fate/Accel Zero Order Collaboration Event Summoning Campaign",
+    "start_date": "2018-04-19",
+    "end_date": "2018-05-10",
+    "region": "NA",
+    "rateups": {
+      "37": "Zhuge Liang (Lord El-Melloi II)",
+      "108": "Iskandar",
+      "109": "EMIYA (Assassin)",
+      "110": "Hassan of the Hundred Faces"
+    },
+    "event_id": "fateaccel-zero-order-collaboration-event-na"
   },
   {
     "slug": "sakata-kintoki-summoning-campaign-na",
@@ -8827,7 +8799,7 @@
     "rateups": {
       "51": "Sakata Kintoki"
     },
-    "event_id": "sakata-kintoki-summoning-campaign-us-na"
+    "event_id": "sakata-kintoki-summoning-campaign-na"
   },
   {
     "slug": "rashomon-event-summoning-campaign-na",
@@ -8838,7 +8810,7 @@
     "rateups": {
       "112": "Shuten Dōji"
     },
-    "event_id": "rashomon-event-us-na"
+    "event_id": "rashomon-event-na"
   },
   {
     "slug": "sanzang-coming-to-the-west-summoning-campaign-na",
@@ -8852,7 +8824,7 @@
       "102": "Li Shuwen (Lancer)",
       "113": "Xuanzang Sanzang"
     },
-    "event_id": "sanzang-coming-to-the-west-us-na"
+    "event_id": "sanzang-coming-to-the-west-na"
   },
   {
     "slug": "3m-downloads-summoning-campaign-na",
@@ -8863,7 +8835,7 @@
     "rateups": {
       "70": "Scáthach"
     },
-    "event_id": "3m-downloads-campaign-us-na"
+    "event_id": "3m-downloads-campaign-na"
   },
   {
     "slug": "onigashima-event-summoning-campaign-na",
@@ -8878,7 +8850,7 @@
       "116": "Ibaraki Dōji",
       "117": "Fūma Kotarō"
     },
-    "event_id": "onigashima-event-us-na"
+    "event_id": "onigashima-event-na"
   },
   {
     "slug": "camelot-chapter-release-summoning-campaign-na",
@@ -8893,7 +8865,7 @@
       "124": "Hassan of the Serenity",
       "125": "Tawara Tōta"
     },
-    "event_id": "camelot-chapter-release-us-na"
+    "event_id": "camelot-chapter-release-na"
   },
   {
     "slug": "camelot-summoning-campaign-2-na",
@@ -8906,7 +8878,7 @@
       "122": "Tristan",
       "123": "Gawain"
     },
-    "event_id": "camelot-chapter-release-us-na"
+    "event_id": "camelot-chapter-release-na"
   },
   {
     "slug": "fgo-festival-2018-1st-anniversary-summoning-campaign-na",
@@ -8959,7 +8931,7 @@
       "105": "Billy the Kid",
       "127": "Leonardo Da Vinci"
     },
-    "event_id": "fgo-festival-2018-1st-anniversary-us-na"
+    "event_id": "fgo-festival-2018-1st-anniversary-na"
   },
   {
     "slug": "fgo-summer-2018-event-summoning-campaign-1-na",
@@ -8973,7 +8945,7 @@
       "132": "Mordred (Rider)",
       "134": "Kiyohime (Lancer)"
     },
-    "event_id": "fgo-summer-2018-event-us-na"
+    "event_id": "fgo-summer-2018-event-na"
   },
   {
     "slug": "fgo-summer-2018-event-summoning-campaign-2-na",
@@ -8986,7 +8958,7 @@
       "130": "Marie Antoinette (Caster)",
       "135": "Martha (Ruler)"
     },
-    "event_id": "fgo-summer-2018-event-us-na"
+    "event_id": "fgo-summer-2018-event-na"
   },
   {
     "slug": "prisma-codes-collaboration-event-summoning-campaign-na",
@@ -9001,7 +8973,7 @@
       "100": "Helena Blavatsky",
       "136": "Illyasviel von Einzbern"
     },
-    "event_id": "prisma-codes-collaboration-event-us-na"
+    "event_id": "prisma-codes-collaboration-event-na"
   },
   {
     "slug": "class-specified-summoning-campaign-na",
@@ -9095,7 +9067,7 @@
       "124": "Hassan of the Serenity",
       "125": "Tawara Tōta"
     },
-    "event_id": "class-specified-summoning-campaign-us-na"
+    "event_id": "class-specified-summoning-campaign-na"
   },
   {
     "slug": "nero-festival-return-autumn-2018-summoning-campaign-na",
@@ -9110,7 +9082,7 @@
       "26": "Boudica",
       "90": "Nero Claudius (Bride)"
     },
-    "event_id": "nero-festival-return-autumn-2018-us-na"
+    "event_id": "nero-festival-return-autumn-2018-na"
   },
   {
     "slug": "singularity-summoning-campaign-september-2018-na",
@@ -9171,7 +9143,7 @@
       "125": "Tawara Tōta",
       "126": "Bedivere"
     },
-    "event_id": "singularity-summon-campaign-september-2018-us-na"
+    "event_id": "singularity-summon-campaign-september-2018-na"
   },
   {
     "slug": "halloween-2017-event-revival-summoning-campaign-na",
@@ -9186,7 +9158,7 @@
       "58": "Tamamo Cat",
       "62": "Tamamo no Mae"
     },
-    "event_id": "halloween-2017-event-revival-us-na"
+    "event_id": "halloween-2017-event-revival-na"
   },
   {
     "slug": "4m-downloads-summoning-campaign-na",
@@ -9197,7 +9169,7 @@
     "rateups": {
       "106": "Jeanne d'Arc (Alter)"
     },
-    "event_id": "4m-downloads-campaign-us-na"
+    "event_id": "4m-downloads-campaign-na"
   },
   {
     "slug": "halloween-2018-event-summoning-campaign-na",
@@ -9209,7 +9181,7 @@
       "139": "Cleopatra",
       "140": "Vlad III (EXTRA)"
     },
-    "event_id": "halloween-2018-event-us-na"
+    "event_id": "halloween-2018-event-na"
   },
   {
     "slug": "new-interludes-and-knights-of-the-round-table-summoning-campaign-na",
@@ -9228,7 +9200,7 @@
       "122": "Tristan",
       "123": "Gawain"
     },
-    "event_id": "new-interludes-and-knights-of-the-round-table-summon-campaign-us-na"
+    "event_id": "new-interludes-and-knights-of-the-round-table-summon-campaign-na"
   },
   {
     "slug": "christmas-2017-event-revival-summoning-campaign-na",
@@ -9243,7 +9215,7 @@
       "74": "Nursery Rhyme",
       "75": "Jack the Ripper"
     },
-    "event_id": "christmas-2017-event-revival-us-na"
+    "event_id": "christmas-2017-event-revival-na"
   },
   {
     "slug": "fgo-thanksgiving-special-2018-summoning-campaign-na",
@@ -9260,7 +9232,7 @@
       "114": "Minamoto no Raikō",
       "136": "Illyasviel von Einzbern"
     },
-    "event_id": "fgo-thanksgiving-special-2018-us-na"
+    "event_id": "fgo-thanksgiving-special-2018-na"
   },
   {
     "slug": "christmas-2018-event-summoning-campaign-1-na",
@@ -9271,7 +9243,7 @@
     "rateups": {
       "142": "Ishtar"
     },
-    "event_id": "christmas-2018-event-us-na"
+    "event_id": "christmas-2018-event-na"
   },
   {
     "slug": "christmas-2018-event-summoning-campaign-2-na",
@@ -9282,7 +9254,7 @@
     "rateups": {
       "93": "Amakusa Shirō"
     },
-    "event_id": "christmas-2018-event-us-na"
+    "event_id": "christmas-2018-event-na"
   },
   {
     "slug": "babylonia-chapter-release-summoning-campaign-na",
@@ -9295,7 +9267,7 @@
       "145": "Gilgamesh (Caster)",
       "146": "Medusa (Lancer)"
     },
-    "event_id": "babylonia-chapter-release-us-na"
+    "event_id": "babylonia-chapter-release-na"
   },
   {
     "slug": "babylonia-summoning-campaign-2-na",
@@ -9308,7 +9280,7 @@
       "147": "Gorgon",
       "148": "Jaguar Man"
     },
-    "event_id": "babylonia-chapter-release-us-na"
+    "event_id": "babylonia-chapter-release-na"
   },
   {
     "slug": "solomon-chapter-release-summoning-campaign-na",
@@ -9319,7 +9291,7 @@
     "rateups": {
       "150": "Merlin"
     },
-    "event_id": "solomon-chapter-release-us-na"
+    "event_id": "solomon-chapter-release-na"
   },
   {
     "slug": "happy-new-year-2019-summoning-campaign-na",
@@ -9332,7 +9304,7 @@
       "142": "Ishtar",
       "153": "Miyamoto Musashi"
     },
-    "event_id": "happy-new-year-2019-us-na"
+    "event_id": "happy-new-year-2019-na"
   },
   {
     "slug": "first-hassan-summoning-campaign-na",
@@ -9343,7 +9315,7 @@
     "rateups": {
       "154": "\"The Old Man of the Mountain\""
     },
-    "event_id": "first-hassan-summoning-campaign-us-na"
+    "event_id": "first-hassan-summoning-campaign-na"
   },
   {
     "slug": "moon-goddess-event-revival-summoning-campaign-na",
@@ -9358,7 +9330,7 @@
       "42": "Jing Ke",
       "60": "Orion"
     },
-    "event_id": "moon-goddess-event-revival-us-na"
+    "event_id": "moon-goddess-event-revival-na"
   },
   {
     "slug": "vengeful-demons-wail-at-the-prison-tower-revival-summoning-campaign-na",
@@ -9369,7 +9341,7 @@
     "rateups": {
       "96": "Edmond Dantès"
     },
-    "event_id": "vengeful-demons-wail-at-the-prison-tower-revival-us-na"
+    "event_id": "vengeful-demons-wail-at-the-prison-tower-revival-na"
   },
   {
     "slug": "5m-downloads-summoning-campaign-na",
@@ -9380,7 +9352,7 @@
     "rateups": {
       "127": "Leonardo Da Vinci"
     },
-    "event_id": "5m-downloads-campaign-us-na"
+    "event_id": "5m-downloads-campaign-na"
   },
   {
     "slug": "valentine-2018-event-revival-summoning-campaign-female-na",
@@ -9404,7 +9376,7 @@
       "144": "Quetzalcoatl",
       "155": "Mysterious Heroine X (Alter)"
     },
-    "event_id": "valentine-2018-event-revival-us-na"
+    "event_id": "valentine-2018-event-revival-na"
   },
   {
     "slug": "valentine-2018-event-revival-summoning-campaign-male-na",
@@ -9422,7 +9394,7 @@
       "118": "Ozymandias",
       "143": "Enkidu"
     },
-    "event_id": "valentine-2018-event-revival-us-na"
+    "event_id": "valentine-2018-event-revival-na"
   },
   {
     "slug": "fgo-usa-tour-2019-kickoff-commemorative-summoning-campaign-na",
@@ -9489,7 +9461,7 @@
       "147": "Gorgon",
       "148": "Jaguar Man"
     },
-    "event_id": "fgo-usa-tour-2019-kickoff-commemorative-campaign-us-na"
+    "event_id": "fgo-usa-tour-2019-kickoff-commemorative-campaign-na"
   },
   {
     "slug": "shinjuku-chapter-release-summoning-campaign-na",
@@ -9502,7 +9474,7 @@
       "158": "Hessian Lobo",
       "159": "Yan Qing"
     },
-    "event_id": "shinjuku-chapter-release-us-na"
+    "event_id": "shinjuku-chapter-release-na"
   },
   {
     "slug": "shinjuku-summoning-campaign-2-na",
@@ -9514,20 +9486,7 @@
       "3": "Artoria Pendragon (Alter)",
       "157": "EMIYA (Alter)"
     },
-    "event_id": "shinjuku-chapter-release-us-na"
-  },
-  {
-    "slug": "chaldea-boys-collection-2018-revival-summoning-campaign-na",
-    "name": "Chaldea Boys Collection 2018 Revival Summoning Campaign",
-    "start_date": "2019-03-06",
-    "end_date": "2019-03-20",
-    "region": "NA",
-    "rateups": {
-      "93": "Amakusa Shirō",
-      "94": "Astolfo",
-      "95": "Kid Gil"
-    },
-    "event_id": "chaldea-boys-collection-2018-revival-us-na"
+    "event_id": "shinjuku-chapter-release-na"
   },
   {
     "slug": "chaldea-boys-collection-2019-summoning-campaign-na",
@@ -9546,10 +9505,10 @@
       "143": "Enkidu",
       "160": "Arthur Pendragon (Prototype)"
     },
-    "event_id": "chaldea-boys-collection-2019-us-na"
+    "event_id": "chaldea-boys-collection-2019-na"
   },
   {
-    "slug": "chaldea-boys-collection-2018-revival-summoning-campaign-na-1",
+    "slug": "chaldea-boys-collection-2018-revival-summoning-campaign-na",
     "name": "Chaldea Boys Collection 2018 Revival Summoning Campaign",
     "start_date": "2019-03-06",
     "end_date": "2019-03-20",
@@ -9559,7 +9518,7 @@
       "94": "Astolfo",
       "95": "Kid Gil"
     },
-    "event_id": "chaldea-boys-collection-2019-us-na"
+    "event_id": "chaldea-boys-collection-2019-na"
   },
   {
     "slug": "gudaguda-honnouji-event-revival-summoning-campaign-na",
@@ -9574,7 +9533,7 @@
       "35": "Mephistopheles",
       "68": "Okita Sōji"
     },
-    "event_id": "gudaguda-honnouji-event-revival-us-na"
+    "event_id": "gudaguda-honnouji-event-revival-na"
   },
   {
     "slug": "class-based-summoning-campaign-na",
@@ -9679,7 +9638,7 @@
       "158": "Hessian Lobo",
       "159": "Yan Qing"
     },
-    "event_id": "class-based-summoning-campaign-us-na"
+    "event_id": "class-based-summoning-campaign-na"
   },
   {
     "slug": "gudaguda-meiji-restoration-summoning-campaign-na",
@@ -9694,34 +9653,7 @@
       "103": "Thomas Edison",
       "161": "Hijikata Toshizō"
     },
-    "event_id": "gudaguda-meiji-restoration-us-na"
-  },
-  {
-    "slug": "fateextra-ccc-collaboration-event-summoning-campaign-1-na",
-    "name": "Fate/Extra CCC Collaboration Event Summoning Campaign 1",
-    "start_date": "2019-04-23",
-    "end_date": "2019-05-15",
-    "region": "NA",
-    "rateups": {
-      "163": "Meltryllis",
-      "164": "Passionlip",
-      "165": "Suzuka Gozen"
-    },
-    "event_id": "fateextra-ccc-collaboration-event-us-na"
-  },
-  {
-    "slug": "fateextra-ccc-collaboration-event-summoning-campaign-2-na",
-    "name": "Fate/Extra CCC Collaboration Event Summoning Campaign 2",
-    "start_date": "2019-05-01",
-    "end_date": "2019-05-15",
-    "region": "NA",
-    "rateups": {
-      "13": "Robin Hood",
-      "18": "Elizabeth Báthory",
-      "157": "EMIYA (Alter)",
-      "167": "Sesshōin Kiara"
-    },
-    "event_id": "fateextra-ccc-collaboration-event-us-na"
+    "event_id": "gudaguda-meiji-restoration-na"
   },
   {
     "slug": "fateextra-ccc-event-pre-release-summoning-campaign-na",
@@ -9741,7 +9673,34 @@
       "90": "Nero Claudius (Bride)",
       "123": "Gawain"
     },
-    "event_id": "fateextra-ccc-collaboration-event-us-na"
+    "event_id": "fateextra-ccc-collaboration-event-na"
+  },
+  {
+    "slug": "fateextra-ccc-collaboration-event-summoning-campaign-1-na",
+    "name": "Fate/Extra CCC Collaboration Event Summoning Campaign 1",
+    "start_date": "2019-04-23",
+    "end_date": "2019-05-15",
+    "region": "NA",
+    "rateups": {
+      "163": "Meltryllis",
+      "164": "Passionlip",
+      "165": "Suzuka Gozen"
+    },
+    "event_id": "fateextra-ccc-collaboration-event-na"
+  },
+  {
+    "slug": "fateextra-ccc-collaboration-event-summoning-campaign-2-na",
+    "name": "Fate/Extra CCC Collaboration Event Summoning Campaign 2",
+    "start_date": "2019-05-01",
+    "end_date": "2019-05-15",
+    "region": "NA",
+    "rateups": {
+      "13": "Robin Hood",
+      "18": "Elizabeth Báthory",
+      "157": "EMIYA (Alter)",
+      "167": "Sesshōin Kiara"
+    },
+    "event_id": "fateextra-ccc-collaboration-event-na"
   },
   {
     "slug": "6m-downloads-summoning-campaign-na",
@@ -9760,7 +9719,7 @@
       "147": "Gorgon",
       "148": "Jaguar Man"
     },
-    "event_id": "6m-downloads-campaign-us-na"
+    "event_id": "6m-downloads-campaign-na"
   },
   {
     "slug": "rashomon-event-revival-summoning-campaign-na",
@@ -9772,7 +9731,7 @@
       "112": "Shuten Dōji",
       "116": "Ibaraki Dōji"
     },
-    "event_id": "rashomon-event-revival-us-na"
+    "event_id": "rashomon-event-revival-na"
   },
   {
     "slug": "main-quest-12-ap-shinjuku-summoning-campaign-na",
@@ -9785,7 +9744,7 @@
       "158": "Hessian Lobo",
       "159": "Yan Qing"
     },
-    "event_id": "main-quest-12-ap-shinjuku-summoning-campaign-us-na"
+    "event_id": "main-quest-12-ap-shinjuku-summoning-campaign-na"
   },
   {
     "slug": "onigashima-event-revival-summoning-campaign-na",
@@ -9805,7 +9764,7 @@
       "157": "EMIYA (Alter)",
       "165": "Suzuka Gozen"
     },
-    "event_id": "onigashima-event-revival-us-na"
+    "event_id": "onigashima-event-revival-na"
   },
   {
     "slug": "agartha-chapter-release-summoning-campaign-na",
@@ -9818,7 +9777,7 @@
       "170": "Wu Zetian",
       "171": "Penthesilea"
     },
-    "event_id": "agartha-chapter-release-us-na"
+    "event_id": "agartha-chapter-release-na"
   },
   {
     "slug": "agartha-summoning-campaign-2-na",
@@ -9831,7 +9790,7 @@
       "47": "Heracles",
       "65": "Francis Drake"
     },
-    "event_id": "agartha-chapter-release-us-na"
+    "event_id": "agartha-chapter-release-na"
   },
   {
     "slug": "fgo-festival-2019-2nd-anniversary-summoning-campaign-na",
@@ -9908,7 +9867,7 @@
       "172": "Christopher Columbus",
       "173": "Sherlock Holmes"
     },
-    "event_id": "fgo-festival-2019-2nd-anniversary-us-na"
+    "event_id": "fgo-festival-2019-2nd-anniversary-na"
   },
   {
     "slug": "fgo-summer-2018-event-revival-summoning-campaign-1-na",
@@ -9922,7 +9881,7 @@
       "132": "Mordred (Rider)",
       "134": "Kiyohime (Lancer)"
     },
-    "event_id": "fgo-summer-2018-event-revival-us-na"
+    "event_id": "fgo-summer-2018-event-revival-na"
   },
   {
     "slug": "fgo-summer-2018-event-revival-summoning-campaign-2-na",
@@ -9935,7 +9894,7 @@
       "130": "Marie Antoinette (Caster)",
       "135": "Martha (Ruler)"
     },
-    "event_id": "fgo-summer-2018-event-revival-us-na"
+    "event_id": "fgo-summer-2018-event-revival-na"
   },
   {
     "slug": "fgo-summer-2019-event-summoning-campaign-1-na",
@@ -9949,7 +9908,7 @@
       "177": "Nitocris (Assassin)",
       "178": "Oda Nobunaga (Berserker)"
     },
-    "event_id": "fgo-summer-2019-event-us-na"
+    "event_id": "fgo-summer-2019-event-na"
   },
   {
     "slug": "fgo-summer-2019-event-summoning-campaign-2-na",
@@ -9962,7 +9921,7 @@
       "180": "Helena Blavatsky (Archer)",
       "181": "Minamoto no Raikō (Lancer)"
     },
-    "event_id": "fgo-summer-2019-event-us-na"
+    "event_id": "fgo-summer-2019-event-na"
   },
   {
     "slug": "fgo-summer-2019-event-summoning-campaign-3-na",
@@ -9976,7 +9935,7 @@
       "103": "Thomas Edison",
       "113": "Xuanzang Sanzang"
     },
-    "event_id": "fgo-summer-2019-event-us-na"
+    "event_id": "fgo-summer-2019-event-na"
   },
   {
     "slug": "illyasviel-von-einzbern-summoning-campaign-na",
@@ -9987,7 +9946,7 @@
     "rateups": {
       "136": "Illyasviel von Einzbern"
     },
-    "event_id": "illyasviel-von-einzbern-summoning-campaign-us-na"
+    "event_id": "illyasviel-von-einzbern-summoning-campaign-na"
   },
   {
     "slug": "class-specific-summoning-campaign-na",
@@ -10097,7 +10056,7 @@
       "171": "Penthesilea",
       "172": "Christopher Columbus"
     },
-    "event_id": "class-specific-summoning-campaign-us-na"
+    "event_id": "class-specific-summoning-campaign-na"
   },
   {
     "slug": "nero-festival-return-autumn-2019-summoning-campaign-na",
@@ -10110,7 +10069,7 @@
       "88": "Brynhildr",
       "90": "Nero Claudius (Bride)"
     },
-    "event_id": "nero-festival-return-autumn-2019-us-na"
+    "event_id": "nero-festival-return-autumn-2019-na"
   },
   {
     "slug": "7m-downloads-summoning-campaign-na",
@@ -10125,7 +10084,7 @@
       "119": "Artoria Pendragon (Lancer)",
       "150": "Merlin"
     },
-    "event_id": "7m-downloads-campaign-us-na"
+    "event_id": "7m-downloads-campaign-na"
   },
   {
     "slug": "halloween-2018-event-revival-summoning-campaign-na",
@@ -10140,7 +10099,7 @@
       "139": "Cleopatra",
       "140": "Vlad III (EXTRA)"
     },
-    "event_id": "halloween-2018-event-revival-us-na"
+    "event_id": "halloween-2018-event-revival-na"
   },
   {
     "slug": "fatestay-night-heavens-feel-ii-blu-ray-release-commemorative-summoning-campaign-na",
@@ -10158,7 +10117,7 @@
       "47": "Heracles",
       "183": "Parvati"
     },
-    "event_id": "fatestay-night-heavens-feel-ii-blu-ray-release-commemorative-campaign-us-na"
+    "event_id": "fatestay-night-heavens-feel-ii-blu-ray-release-commemorative-campaign-na"
   },
   {
     "slug": "shimousa-chapter-release-summoning-campaign-na",
@@ -10172,7 +10131,7 @@
       "185": "Mochizuki Chiyome",
       "186": "Hōzōin Inshun"
     },
-    "event_id": "shimousa-chapter-release-us-na"
+    "event_id": "shimousa-chapter-release-na"
   },
   {
     "slug": "shimousa-summoning-campaign-2-na",
@@ -10187,7 +10146,7 @@
       "187": "Yagyū Munenori",
       "188": "Katō Danzō"
     },
-    "event_id": "shimousa-chapter-release-us-na"
+    "event_id": "shimousa-chapter-release-na"
   },
   {
     "slug": "halloween-2019-event-summoning-campaign-na",
@@ -10203,7 +10162,7 @@
       "171": "Penthesilea",
       "189": "Osakabehime"
     },
-    "event_id": "halloween-2019-event-us-na"
+    "event_id": "halloween-2019-event-na"
   },
   {
     "slug": "interlude-campaign-3-summoning-campaign-na",
@@ -10218,7 +10177,7 @@
       "124": "Hassan of the Serenity",
       "125": "Tawara Tōta"
     },
-    "event_id": "interlude-campaign-3-us-na"
+    "event_id": "interlude-campaign-3-na"
   },
   {
     "slug": "fategrand-order-absolute-demonic-front-babylonia-anime-release-summoning-campaign-na",
@@ -10233,7 +10192,7 @@
       "145": "Gilgamesh (Caster)",
       "146": "Medusa (Lancer)"
     },
-    "event_id": "fategrand-order-absolute-demonic-front-babylonia-anime-release-campaign-us-na"
+    "event_id": "fategrand-order-absolute-demonic-front-babylonia-anime-release-campaign-na"
   },
   {
     "slug": "8m-downloads-summoning-campaign-na",
@@ -10246,7 +10205,7 @@
       "124": "Hassan of the Serenity",
       "154": "\"The Old Man of the Mountain\""
     },
-    "event_id": "8m-downloads-campaign-us-na"
+    "event_id": "8m-downloads-campaign-na"
   },
   {
     "slug": "christmas-2018-event-revival-summoning-campaign-na",
@@ -10262,7 +10221,7 @@
       "74": "Nursery Rhyme",
       "142": "Ishtar"
     },
-    "event_id": "christmas-2018-event-revival-us-na"
+    "event_id": "christmas-2018-event-revival-na"
   },
   {
     "slug": "fgo-thanksgiving-special-2019-summoning-campaign-na",
@@ -10280,7 +10239,7 @@
       "127": "Leonardo Da Vinci",
       "161": "Hijikata Toshizō"
     },
-    "event_id": "fgo-thanksgiving-special-2019-us-na"
+    "event_id": "fgo-thanksgiving-special-2019-na"
   },
   {
     "slug": "salem-chapter-release-summoning-campaign-na",
@@ -10292,7 +10251,7 @@
       "192": "Circe",
       "193": "Nezha"
     },
-    "event_id": "salem-chapter-release-us-na"
+    "event_id": "salem-chapter-release-na"
   },
   {
     "slug": "salem-summoning-campaign-2-na",
@@ -10304,7 +10263,7 @@
       "194": "Queen of Sheba",
       "195": "Abigail Williams"
     },
-    "event_id": "salem-chapter-release-us-na"
+    "event_id": "salem-chapter-release-na"
   },
   {
     "slug": "christmas-2019-event-summoning-campaign-na",
@@ -10319,7 +10278,7 @@
       "146": "Medusa (Lancer)",
       "196": "Ereshkigal"
     },
-    "event_id": "christmas-2019-event-us-na"
+    "event_id": "christmas-2019-event-na"
   },
   {
     "slug": "happy-new-year-2020-summoning-campaign-na",
@@ -10336,7 +10295,7 @@
       "163": "Meltryllis",
       "198": "Katsushika Hokusai"
     },
-    "event_id": "happy-new-year-2020-us-na"
+    "event_id": "happy-new-year-2020-na"
   },
   {
     "slug": "da-vinci-and-the-7-counterfeit-heroic-spirits-revival-summoning-campaign-na",
@@ -10355,7 +10314,7 @@
       "106": "Jeanne d'Arc (Alter)",
       "127": "Leonardo Da Vinci"
     },
-    "event_id": "da-vinci-and-the-7-counterfeit-heroic-spirits-revival-us-na"
+    "event_id": "da-vinci-and-the-7-counterfeit-heroic-spirits-revival-na"
   },
   {
     "slug": "the-tale-of-setsubun-summoning-campaign-na",
@@ -10370,7 +10329,7 @@
       "116": "Ibaraki Dōji",
       "184": "Tomoe Gozen"
     },
-    "event_id": "the-tale-of-setsubun-us-na"
+    "event_id": "the-tale-of-setsubun-na"
   },
   {
     "slug": "valentine-2020-event-summoning-campaign-na",
@@ -10396,7 +10355,7 @@
       "189": "Osakabehime",
       "199": "Semiramis"
     },
-    "event_id": "valentine-2020-event-us-na"
+    "event_id": "valentine-2020-event-na"
   },
   {
     "slug": "valentine-2019-summoning-campaign-revival-na",
@@ -10407,18 +10366,7 @@
     "rateups": {
       "155": "Mysterious Heroine X (Alter)"
     },
-    "event_id": "valentine-2020-event-us-na"
-  },
-  {
-    "slug": "valentine-2019-summoning-campaign-revival-na-1",
-    "name": "Valentine 2019 Summoning Campaign Revival",
-    "start_date": "2020-02-09",
-    "end_date": "2020-02-23",
-    "region": "NA",
-    "rateups": {
-      "155": "Mysterious Heroine X (Alter)"
-    },
-    "event_id": "valentine-2019-summoning-campaign-revival-us-na"
+    "event_id": "valentine-2020-event-na"
   },
   {
     "slug": "the-garden-of-sinners-collaboration-event-revival-summoning-campaign-na",
@@ -10435,7 +10383,7 @@
       "91": "Ryōgi Shiki (Saber)",
       "200": "Asagami Fujino"
     },
-    "event_id": "the-garden-of-sinners-collaboration-event-revival-us-na"
+    "event_id": "the-garden-of-sinners-collaboration-event-revival-na"
   },
   {
     "slug": "9m-downloads-summoning-campaign-na",
@@ -10449,7 +10397,7 @@
       "165": "Suzuka Gozen",
       "167": "Sesshōin Kiara"
     },
-    "event_id": "9m-downloads-campaign-us-na"
+    "event_id": "9m-downloads-campaign-na"
   },
   {
     "slug": "chaldea-boys-collection-2020-summoning-campaign-na",
@@ -10468,7 +10416,7 @@
       "143": "Enkidu",
       "160": "Arthur Pendragon (Prototype)"
     },
-    "event_id": "chaldea-boys-collection-2020-us-na"
+    "event_id": "chaldea-boys-collection-2020-na"
   },
   {
     "slug": "saber-wars-event-revival-summoning-campaign-na",
@@ -10482,7 +10430,7 @@
       "76": "Mordred",
       "86": "Mysterious Heroine X"
     },
-    "event_id": "saber-wars-event-revival-us-na"
+    "event_id": "saber-wars-event-revival-na"
   },
   {
     "slug": "new-interludes-class-pickup-summoning-campaign-na",
@@ -10602,7 +10550,7 @@
       "193": "Nezha",
       "194": "Queen of Sheba"
     },
-    "event_id": "new-interludes-class-pickup-summoning-campaign-us-na"
+    "event_id": "new-interludes-class-pickup-summoning-campaign-na"
   },
   {
     "slug": "anastasia-chapter-release-summoning-campaign-na",
@@ -10615,7 +10563,7 @@
       "202": "Atalanta (Alter)",
       "203": "Avicebron"
     },
-    "event_id": "anastasia-chapter-release-us-na"
+    "event_id": "anastasia-chapter-release-na"
   },
   {
     "slug": "anastasia-summoning-campaign-2-na",
@@ -10627,7 +10575,7 @@
       "204": "Antonio Salieri",
       "205": "Ivan the Terrible"
     },
-    "event_id": "anastasia-chapter-release-us-na"
+    "event_id": "anastasia-chapter-release-na"
   },
   {
     "slug": "sanzang-coming-to-the-west-revival-summoning-campaign-na",
@@ -10646,19 +10594,7 @@
       "170": "Wu Zetian",
       "193": "Nezha"
     },
-    "event_id": "sanzang-coming-to-the-west-revival-us-na"
-  },
-  {
-    "slug": "fateapocrypha-collaboration-event-summoning-campaign-na",
-    "name": "Fate/Apocrypha Collaboration Event Summoning Campaign",
-    "start_date": "2020-04-24",
-    "end_date": "2020-05-07",
-    "region": "NA",
-    "rateups": {
-      "206": "Achilles",
-      "207": "Chiron"
-    },
-    "event_id": "fateapocrypha-collaboration-event-us-na"
+    "event_id": "sanzang-coming-to-the-west-revival-na"
   },
   {
     "slug": "fateapocrypha-event-pre-release-summoning-campaign-na",
@@ -10679,7 +10615,19 @@
       "94": "Astolfo",
       "199": "Semiramis"
     },
-    "event_id": "fateapocrypha-collaboration-event-us-na"
+    "event_id": "fateapocrypha-collaboration-event-na"
+  },
+  {
+    "slug": "fateapocrypha-collaboration-event-summoning-campaign-na",
+    "name": "Fate/Apocrypha Collaboration Event Summoning Campaign",
+    "start_date": "2020-04-24",
+    "end_date": "2020-05-07",
+    "region": "NA",
+    "rateups": {
+      "206": "Achilles",
+      "207": "Chiron"
+    },
+    "event_id": "fateapocrypha-collaboration-event-na"
   },
   {
     "slug": "gudaguda-meiji-restoration-revival-summoning-campaign-na",
@@ -10696,7 +10644,7 @@
       "103": "Thomas Edison",
       "161": "Hijikata Toshizō"
     },
-    "event_id": "gudaguda-meiji-restoration-revival-us-na"
+    "event_id": "gudaguda-meiji-restoration-revival-na"
   },
   {
     "slug": "okita-souji-summoning-campaign-na",
@@ -10707,7 +10655,7 @@
     "rateups": {
       "68": "Okita Sōji"
     },
-    "event_id": "okita-souji-summoning-campaign-us-na"
+    "event_id": "okita-souji-summoning-campaign-na"
   },
   {
     "slug": "murder-at-the-kogetsukan-summoning-campaign-na",
@@ -10727,7 +10675,7 @@
       "159": "Yan Qing",
       "173": "Sherlock Holmes"
     },
-    "event_id": "murder-at-the-kogetsukan-us-na"
+    "event_id": "murder-at-the-kogetsukan-na"
   },
   {
     "slug": "10m-downloads-summoning-campaign-na",
@@ -10741,7 +10689,7 @@
       "132": "Mordred (Rider)",
       "134": "Kiyohime (Lancer)"
     },
-    "event_id": "10m-downloads-campaign-us-na"
+    "event_id": "10m-downloads-campaign-na"
   },
   {
     "slug": "gudaguda-legend-of-the-imperial-capital-grail-summoning-campaign-na",
@@ -10757,7 +10705,18 @@
       "209": "Okita Sōji (Alter)",
       "210": "Okada Izō"
     },
-    "event_id": "gudaguda-legend-of-the-imperial-capital-grail-us-na"
+    "event_id": "gudaguda-legend-of-the-imperial-capital-grail-na"
+  },
+  {
+    "slug": "gotterdammerung-pre-release-summoning-campaign-na",
+    "name": "Götterdämmerung Pre-Release Summoning Campaign",
+    "start_date": "2020-06-18",
+    "end_date": "2020-07-02",
+    "region": "NA",
+    "rateups": {
+      "212": "Napoléon"
+    },
+    "event_id": "gotterdammerung-chapter-release-na"
   },
   {
     "slug": "gotterdammerung-chapter-release-summoning-campaign-na",
@@ -10770,18 +10729,7 @@
       "213": "Sigurd",
       "214": "Valkyrie"
     },
-    "event_id": "gotterdammerung-chapter-release-us-na"
-  },
-  {
-    "slug": "gotterdammerung-pre-release-summoning-campaign-na",
-    "name": "Götterdämmerung Pre-Release Summoning Campaign",
-    "start_date": "2020-06-18",
-    "end_date": "2020-07-02",
-    "region": "NA",
-    "rateups": {
-      "212": "Napoléon"
-    },
-    "event_id": "gotterdammerung-chapter-release-us-na"
+    "event_id": "gotterdammerung-chapter-release-na"
   },
   {
     "slug": "fgo-festival-2020-3rd-anniversary-summoning-campaign-na",
@@ -10850,7 +10798,7 @@
       "173": "Sherlock Holmes",
       "215": "Scáthach-Skaði"
     },
-    "event_id": "fgo-festival-2020-3rd-anniversary-us-na"
+    "event_id": "fgo-festival-2020-3rd-anniversary-na"
   },
   {
     "slug": "fgo-summer-2019-event-revival-summoning-campaign-1-na",
@@ -10864,7 +10812,7 @@
       "177": "Nitocris (Assassin)",
       "178": "Oda Nobunaga (Berserker)"
     },
-    "event_id": "fgo-summer-2019-event-revival-us-na"
+    "event_id": "fgo-summer-2019-event-revival-na"
   },
   {
     "slug": "fgo-summer-2019-event-revival-summoning-campaign-2-na",
@@ -10877,7 +10825,7 @@
       "180": "Helena Blavatsky (Archer)",
       "181": "Minamoto no Raikō (Lancer)"
     },
-    "event_id": "fgo-summer-2019-event-revival-us-na"
+    "event_id": "fgo-summer-2019-event-revival-na"
   },
   {
     "slug": "fgo-summer-2019-event-revival-summoning-campaign-3-na",
@@ -10890,7 +10838,7 @@
       "99": "Queen Medb",
       "169": "Scheherazade"
     },
-    "event_id": "fgo-summer-2019-event-revival-us-na"
+    "event_id": "fgo-summer-2019-event-revival-na"
   },
   {
     "slug": "fgo-summer-2020-event-summoning-campaign-1-na",
@@ -10903,7 +10851,7 @@
       "217": "Ibaraki Dōji (Lancer)",
       "218": "Ushiwakamaru (Assassin)"
     },
-    "event_id": "fgo-summer-2020-event-us-na"
+    "event_id": "fgo-summer-2020-event-na"
   },
   {
     "slug": "fgo-summer-2020-event-summoning-campaign-2-na",
@@ -10916,7 +10864,7 @@
       "96": "Edmond Dantès",
       "145": "Gilgamesh (Caster)"
     },
-    "event_id": "fgo-summer-2020-event-us-na"
+    "event_id": "fgo-summer-2020-event-na"
   },
   {
     "slug": "fgo-summer-2020-event-summoning-campaign-3-na",
@@ -10929,7 +10877,7 @@
       "221": "Queen Medb (Saber)",
       "222": "Mysterious Heroine XX"
     },
-    "event_id": "fgo-summer-2020-event-us-na"
+    "event_id": "fgo-summer-2020-event-na"
   },
   {
     "slug": "11m-downloads-summoning-campaign-na",
@@ -10942,7 +10890,7 @@
       "130": "Marie Antoinette (Caster)",
       "135": "Martha (Ruler)"
     },
-    "event_id": "11m-downloads-campaign-us-na"
+    "event_id": "11m-downloads-campaign-na"
   },
   {
     "slug": "fateaccel-zero-order-collaboration-event-revival-summoning-campaign-na",
@@ -10961,7 +10909,7 @@
       "110": "Hassan of the Hundred Faces",
       "223": "Diarmuid Ua Duibhne (Saber)"
     },
-    "event_id": "fateaccel-zero-order-collaboration-event-revival-us-na"
+    "event_id": "fateaccel-zero-order-collaboration-event-revival-na"
   },
   {
     "slug": "shuten-douji-rank-up-quest-commemorative-summoning-campaign-na",
@@ -10975,7 +10923,7 @@
       "187": "Yagyū Munenori",
       "210": "Okada Izō"
     },
-    "event_id": "shuten-douji-rank-up-quest-commemorative-summoning-campaign-us-na"
+    "event_id": "shuten-douji-rank-up-quest-commemorative-summoning-campaign-na"
   },
   {
     "slug": "battle-in-new-york-2020-summoning-campaign-na",
@@ -10988,7 +10936,7 @@
       "12": "Gilgamesh",
       "194": "Queen of Sheba"
     },
-    "event_id": "battle-in-new-york-2020-us-na"
+    "event_id": "battle-in-new-york-2020-na"
   },
   {
     "slug": "halloween-2019-event-revival-summoning-campaign-na",
@@ -11004,7 +10952,7 @@
       "171": "Penthesilea",
       "189": "Osakabehime"
     },
-    "event_id": "halloween-2019-event-revival-us-na"
+    "event_id": "halloween-2019-event-revival-na"
   },
   {
     "slug": "halloween-2020-event-summoning-campaign-na",
@@ -11017,7 +10965,7 @@
       "185": "Mochizuki Chiyome",
       "224": "Sitonai"
     },
-    "event_id": "halloween-2020-event-us-na"
+    "event_id": "halloween-2020-event-na"
   },
   {
     "slug": "interlude-campaign-7-summoning-campaign-na",
@@ -11031,7 +10979,7 @@
       "186": "Hōzōin Inshun",
       "188": "Katō Danzō"
     },
-    "event_id": "interlude-campaign-7-us-na"
+    "event_id": "interlude-campaign-7-na"
   },
   {
     "slug": "12m-downloads-summoning-campaign-na",
@@ -11045,7 +10993,7 @@
       "193": "Nezha",
       "195": "Abigail Williams"
     },
-    "event_id": "12m-downloads-campaign-us-na"
+    "event_id": "12m-downloads-campaign-na"
   },
   {
     "slug": "christmas-2019-event-revival-summoning-campaign-na",
@@ -11062,7 +11010,7 @@
       "148": "Jaguar Man",
       "196": "Ereshkigal"
     },
-    "event_id": "christmas-2019-event-revival-us-na"
+    "event_id": "christmas-2019-event-revival-na"
   },
   {
     "slug": "fatestay-night-heavens-feel-iii-theatrical-release-commemorative-summoning-campaign-na",
@@ -11076,7 +11024,7 @@
       "23": "Medusa",
       "47": "Heracles"
     },
-    "event_id": "fatestay-night-heavens-feel-iii-theatrical-release-commemorative-campaign-us-na"
+    "event_id": "fatestay-night-heavens-feel-iii-theatrical-release-commemorative-campaign-na"
   },
   {
     "slug": "fgo-thanksgiving-special-2020-summoning-campaign-na",
@@ -11093,7 +11041,7 @@
       "153": "Miyamoto Musashi",
       "205": "Ivan the Terrible"
     },
-    "event_id": "fgo-thanksgiving-special-2020-us-na"
+    "event_id": "fgo-thanksgiving-special-2020-na"
   },
   {
     "slug": "sin-chapter-release-summoning-campaign-na",
@@ -11107,7 +11055,7 @@
       "227": "Lanling Wang",
       "228": "Qin Liangyu"
     },
-    "event_id": "sin-chapter-release-us-na"
+    "event_id": "sin-chapter-release-na"
   },
   {
     "slug": "sin-summoning-campaign-2-na",
@@ -11120,7 +11068,7 @@
       "230": "Consort Yu",
       "231": "Red Hare"
     },
-    "event_id": "sin-chapter-release-us-na"
+    "event_id": "sin-chapter-release-na"
   },
   {
     "slug": "christmas-2020-event-summoning-campaign-na",
@@ -11134,7 +11082,7 @@
       "144": "Quetzalcoatl",
       "232": "Bradamante"
     },
-    "event_id": "christmas-2020-event-us-na"
+    "event_id": "christmas-2020-event-na"
   },
   {
     "slug": "happy-new-year-2021-summoning-campaign-na",
@@ -11151,7 +11099,7 @@
       "198": "Katsushika Hokusai",
       "213": "Sigurd"
     },
-    "event_id": "happy-new-year-2021-us-na"
+    "event_id": "happy-new-year-2021-na"
   },
   {
     "slug": "new-year-2021-event-summoning-campaign-1-na",
@@ -11165,7 +11113,7 @@
       "87": "Fionn mac Cumhaill",
       "234": "Beni-Enma"
     },
-    "event_id": "new-year-2021-event-us-na"
+    "event_id": "new-year-2021-event-na"
   },
   {
     "slug": "new-year-2021-event-summoning-campaign-2-na",
@@ -11179,7 +11127,7 @@
       "223": "Diarmuid Ua Duibhne (Saber)",
       "235": "Li Shuwen"
     },
-    "event_id": "new-year-2021-event-us-na"
+    "event_id": "new-year-2021-event-na"
   },
   {
     "slug": "even-more-learning-with-manga-release-celebration-summoning-campaign-na",
@@ -11194,7 +11142,7 @@
       "127": "Leonardo Da Vinci",
       "192": "Circe"
     },
-    "event_id": "even-more-learning-with-manga-release-celebration-campaign-us-na"
+    "event_id": "even-more-learning-with-manga-release-celebration-campaign-na"
   },
   {
     "slug": "prisma-codes-collaboration-event-revival-summoning-campaign-na",
@@ -11210,7 +11158,7 @@
       "136": "Illyasviel von Einzbern",
       "236": "Miyu Edelfelt"
     },
-    "event_id": "prisma-codes-collaboration-event-revival-us-na"
+    "event_id": "prisma-codes-collaboration-event-revival-na"
   },
   {
     "slug": "valentine-2021-event-summoning-campaign-na",
@@ -11239,7 +11187,7 @@
       "232": "Bradamante",
       "237": "Murasaki Shikibu"
     },
-    "event_id": "valentine-2021-event-us-na"
+    "event_id": "valentine-2021-event-na"
   },
   {
     "slug": "valentine-2020-summoning-campaign-revival-na",
@@ -11250,18 +11198,7 @@
     "rateups": {
       "199": "Semiramis"
     },
-    "event_id": "valentine-2021-event-us-na"
-  },
-  {
-    "slug": "valentine-2020-summoning-campaign-revival-na-1",
-    "name": "Valentine 2020 Summoning Campaign Revival",
-    "start_date": "2021-02-09",
-    "end_date": "2021-02-23",
-    "region": "NA",
-    "rateups": {
-      "199": "Semiramis"
-    },
-    "event_id": "valentine-2020-summoning-campaign-revival-us-na"
+    "event_id": "valentine-2021-event-na"
   },
   {
     "slug": "fateextra-ccc-collaboration-event-revival-summoning-campaign-1-na",
@@ -11276,7 +11213,7 @@
       "164": "Passionlip",
       "165": "Suzuka Gozen"
     },
-    "event_id": "fateextra-ccc-collaboration-event-revival-us-na"
+    "event_id": "fateextra-ccc-collaboration-event-revival-na"
   },
   {
     "slug": "fateextra-ccc-collaboration-event-revival-summoning-campaign-2-na",
@@ -11289,7 +11226,7 @@
       "123": "Gawain",
       "238": "Kingprotea"
     },
-    "event_id": "fateextra-ccc-collaboration-event-revival-us-na"
+    "event_id": "fateextra-ccc-collaboration-event-revival-na"
   },
   {
     "slug": "chaldea-boys-collection-2021-summoning-campaign-na",
@@ -11315,33 +11252,7 @@
       "227": "Lanling Wang",
       "235": "Li Shuwen"
     },
-    "event_id": "white-day-2021-event-us-na"
-  },
-  {
-    "slug": "chaldea-boys-collection-2021-summoning-campaign-na-1",
-    "name": "Chaldea Boys Collection 2021 Summoning Campaign",
-    "start_date": "2021-03-08",
-    "end_date": "2021-03-21",
-    "region": "NA",
-    "rateups": {
-      "28": "Alexander",
-      "37": "Zhuge Liang (Lord El-Melloi II)",
-      "52": "Vlad III",
-      "77": "Nikola Tesla",
-      "84": "Arjuna",
-      "85": "Karna",
-      "98": "Cú Chulainn (Alter)",
-      "118": "Ozymandias",
-      "143": "Enkidu",
-      "156": "James Moriarty",
-      "159": "Yan Qing",
-      "206": "Achilles",
-      "212": "Napoléon",
-      "226": "Xiang Yu",
-      "227": "Lanling Wang",
-      "235": "Li Shuwen"
-    },
-    "event_id": "chaldea-boys-collection-2021-us-na"
+    "event_id": "white-day-2021-event-na"
   },
   {
     "slug": "tokugawa-restoration-labyrinth-summoning-campaign-1-na",
@@ -11353,7 +11264,7 @@
       "183": "Parvati",
       "239": "Kama"
     },
-    "event_id": "tokugawa-restoration-labyrinth-us-na"
+    "event_id": "tokugawa-restoration-labyrinth-na"
   },
   {
     "slug": "tokugawa-restoration-labyrinth-summoning-campaign-2-na",
@@ -11366,7 +11277,7 @@
       "169": "Scheherazade",
       "187": "Yagyū Munenori"
     },
-    "event_id": "tokugawa-restoration-labyrinth-us-na"
+    "event_id": "tokugawa-restoration-labyrinth-na"
   },
   {
     "slug": "fategrand-order-absolute-demonic-front-babylonia-blu-ray-release-summoning-campaign-na",
@@ -11381,7 +11292,7 @@
       "145": "Gilgamesh (Caster)",
       "146": "Medusa (Lancer)"
     },
-    "event_id": "fategrand-order-absolute-demonic-front-babylonia-blu-ray-release-campaign-us-na"
+    "event_id": "fategrand-order-absolute-demonic-front-babylonia-blu-ray-release-campaign-na"
   },
   {
     "slug": "13m-downloads-summoning-campaign-na",
@@ -11392,7 +11303,7 @@
     "rateups": {
       "155": "Mysterious Heroine X (Alter)"
     },
-    "event_id": "13m-downloads-campaign-us-na"
+    "event_id": "13m-downloads-campaign-na"
   },
   {
     "slug": "gudaguda-legend-of-the-imperial-capital-grail-revival-summoning-campaign-na",
@@ -11409,7 +11320,19 @@
       "209": "Okita Sōji (Alter)",
       "210": "Okada Izō"
     },
-    "event_id": "gudaguda-legend-of-the-imperial-capital-grail-revival-us-na"
+    "event_id": "gudaguda-legend-of-the-imperial-capital-grail-revival-na"
+  },
+  {
+    "slug": "lord-el-melloi-ii-case-files-event-pre-release-summoning-campaign-na",
+    "name": "Lord El-Melloi II Case Files Event Pre-Release Summoning Campaign",
+    "start_date": "2021-04-25",
+    "end_date": "2021-05-09",
+    "region": "NA",
+    "rateups": {
+      "28": "Alexander",
+      "37": "Zhuge Liang (Lord El-Melloi II)"
+    },
+    "event_id": "lord-el-melloi-ii-case-files-collaboration-event-na"
   },
   {
     "slug": "lord-el-melloi-ii-case-files-collaboration-event-summoning-campaign-na",
@@ -11423,19 +11346,7 @@
       "241": "Sima Yi (Reines)",
       "242": "Astraea"
     },
-    "event_id": "lord-el-melloi-ii-case-files-collaboration-event-us-na"
-  },
-  {
-    "slug": "lord-el-melloi-ii-case-files-event-pre-release-summoning-campaign-na",
-    "name": "Lord El-Melloi II Case Files Event Pre-Release Summoning Campaign",
-    "start_date": "2021-04-25",
-    "end_date": "2021-05-09",
-    "region": "NA",
-    "rateups": {
-      "28": "Alexander",
-      "37": "Zhuge Liang (Lord El-Melloi II)"
-    },
-    "event_id": "lord-el-melloi-ii-case-files-collaboration-event-us-na"
+    "event_id": "lord-el-melloi-ii-case-files-collaboration-event-na"
   },
   {
     "slug": "class-based-summoning-campaign-may-2021-na",
@@ -11572,7 +11483,7 @@
       "232": "Bradamante",
       "235": "Li Shuwen"
     },
-    "event_id": "class-based-summoning-campaign-may-2021-us-na"
+    "event_id": "class-based-summoning-campaign-may-2021-na"
   },
   {
     "slug": "a-meihousou-most-foul-summoning-campaign-na",
@@ -11585,7 +11496,7 @@
       "122": "Tristan",
       "204": "Antonio Salieri"
     },
-    "event_id": "a-meihousou-most-foul-us-na"
+    "event_id": "a-meihousou-most-foul-na"
   },
   {
     "slug": "interlude-campaign-9-summoning-campaign-na",
@@ -11599,7 +11510,19 @@
       "189": "Osakabehime",
       "235": "Li Shuwen"
     },
-    "event_id": "interlude-campaign-9-us-na"
+    "event_id": "interlude-campaign-9-na"
+  },
+  {
+    "slug": "yugakshetra-pre-release-summoning-campaign-na",
+    "name": "Yugakshetra Pre-Release Summoning Campaign",
+    "start_date": "2021-05-30",
+    "end_date": "2021-06-13",
+    "region": "NA",
+    "rateups": {
+      "84": "Arjuna",
+      "101": "Rama"
+    },
+    "event_id": "yugakshetra-chapter-release-na"
   },
   {
     "slug": "yugakshetra-chapter-release-summoning-campaign-na",
@@ -11612,19 +11535,7 @@
       "245": "Lakshmibai",
       "246": "William Tell"
     },
-    "event_id": "yugakshetra-chapter-release-us-na"
-  },
-  {
-    "slug": "yugakshetra-pre-release-summoning-campaign-na",
-    "name": "Yugakshetra Pre-Release Summoning Campaign",
-    "start_date": "2021-05-30",
-    "end_date": "2021-06-13",
-    "region": "NA",
-    "rateups": {
-      "84": "Arjuna",
-      "101": "Rama"
-    },
-    "event_id": "yugakshetra-chapter-release-us-na"
+    "event_id": "yugakshetra-chapter-release-na"
   },
   {
     "slug": "yugakshetra-summoning-campaign-2-na",
@@ -11638,7 +11549,7 @@
       "248": "Aśvatthāman",
       "249": "Asclepius"
     },
-    "event_id": "yugakshetra-chapter-release-us-na"
+    "event_id": "yugakshetra-chapter-release-na"
   },
   {
     "slug": "14m-downloads-summoning-campaign-na",
@@ -11652,7 +11563,7 @@
       "22": "Romulus",
       "90": "Nero Claudius (Bride)"
     },
-    "event_id": "14m-downloads-campaign-us-na"
+    "event_id": "14m-downloads-campaign-na"
   },
   {
     "slug": "gudaguda-final-honnoji-2021-summoning-campaign-na",
@@ -11665,7 +11576,7 @@
       "250": "Demon King Nobunaga",
       "251": "Mori Nagayoshi"
     },
-    "event_id": "gudaguda-final-honnoji-2021-us-na"
+    "event_id": "gudaguda-final-honnoji-2021-na"
   },
   {
     "slug": "fategrand-order-absolute-demonic-front-babylonia-blu-ray-release-campaign-part-ii-summoning-campaign-na",
@@ -11681,7 +11592,7 @@
       "148": "Jaguar Man",
       "154": "\"The Old Man of the Mountain\""
     },
-    "event_id": "fategrand-order-absolute-demonic-front-babylonia-blu-ray-release-campaign-part-ii-us-na"
+    "event_id": "fategrand-order-absolute-demonic-front-babylonia-blu-ray-release-campaign-part-ii-na"
   },
   {
     "slug": "fgo-festival-2021-4th-anniversary-summoning-campaign-na",
@@ -11720,7 +11631,7 @@
       "235": "Li Shuwen",
       "253": "Leonardo Da Vinci (Rider)"
     },
-    "event_id": "fgo-festival-2021-4th-anniversary-us-na"
+    "event_id": "fgo-festival-2021-4th-anniversary-na"
   },
   {
     "slug": "fgo-summer-2020-event-revival-summoning-campaign-1-na",
@@ -11733,7 +11644,7 @@
       "217": "Ibaraki Dōji (Lancer)",
       "218": "Ushiwakamaru (Assassin)"
     },
-    "event_id": "fgo-summer-2020-event-revival-us-na"
+    "event_id": "fgo-summer-2020-event-revival-na"
   },
   {
     "slug": "fgo-summer-2020-event-revival-summoning-campaign-2-na",
@@ -11746,7 +11657,7 @@
       "96": "Edmond Dantès",
       "145": "Gilgamesh (Caster)"
     },
-    "event_id": "fgo-summer-2020-event-revival-us-na"
+    "event_id": "fgo-summer-2020-event-revival-na"
   },
   {
     "slug": "fgo-summer-2020-event-revival-summoning-campaign-3-na",
@@ -11759,7 +11670,7 @@
       "221": "Queen Medb (Saber)",
       "222": "Mysterious Heroine XX"
     },
-    "event_id": "fgo-summer-2020-event-revival-us-na"
+    "event_id": "fgo-summer-2020-event-revival-na"
   },
   {
     "slug": "fgo-summer-2021-event-summoning-campaign-1-na",
@@ -11772,7 +11683,7 @@
       "262": "Osakabehime (Archer)",
       "263": "Carmilla (Rider)"
     },
-    "event_id": "fgo-summer-2021-event-us-na"
+    "event_id": "fgo-summer-2021-event-na"
   },
   {
     "slug": "fgo-summer-2021-event-summoning-campaign-2-na",
@@ -11785,7 +11696,7 @@
       "117": "Fūma Kotarō",
       "150": "Merlin"
     },
-    "event_id": "fgo-summer-2021-event-us-na"
+    "event_id": "fgo-summer-2021-event-na"
   },
   {
     "slug": "fgo-summer-2021-event-summoning-campaign-3-na",
@@ -11798,7 +11709,7 @@
       "266": "Mysterious Alter Ego Λ",
       "267": "Okita J Sōji"
     },
-    "event_id": "fgo-summer-2021-event-us-na"
+    "event_id": "fgo-summer-2021-event-na"
   },
   {
     "slug": "interlude-campaign-10-summoning-campaign-na",
@@ -11811,7 +11722,7 @@
       "77": "Nikola Tesla",
       "183": "Parvati"
     },
-    "event_id": "interlude-campaign-10-us-na"
+    "event_id": "interlude-campaign-10-na"
   },
   {
     "slug": "class-based-summoning-campaign-august-2021-na",
@@ -11954,7 +11865,7 @@
       "248": "Aśvatthāman",
       "249": "Asclepius"
     },
-    "event_id": "class-based-summoning-campaign-august-2021-us-na"
+    "event_id": "class-based-summoning-campaign-august-2021-na"
   },
   {
     "slug": "battle-in-new-york-2021-summoning-campaign-na",
@@ -11967,7 +11878,7 @@
       "147": "Gorgon",
       "148": "Jaguar Man"
     },
-    "event_id": "battle-in-new-york-2021-us-na"
+    "event_id": "battle-in-new-york-2021-na"
   },
   {
     "slug": "back-to-school-campaign-2021-part-2-na",
@@ -11980,7 +11891,7 @@
       "181": "Minamoto no Raikō (Lancer)",
       "237": "Murasaki Shikibu"
     },
-    "event_id": "back-to-school-campaign-2021-part-2-us-na"
+    "event_id": "back-to-school-campaign-2021-part-2-na"
   },
   {
     "slug": "fgo-the-stage-camelot-release-summoning-campaign-1-na",
@@ -11996,7 +11907,7 @@
       "126": "Bedivere",
       "127": "Leonardo Da Vinci"
     },
-    "event_id": "fgo-the-stage-camelot-release-campaign-us-na"
+    "event_id": "fgo-the-stage-camelot-release-campaign-na"
   },
   {
     "slug": "fgo-the-stage-camelot-release-summoning-campaign-2-na",
@@ -12012,7 +11923,7 @@
       "123": "Gawain",
       "126": "Bedivere"
     },
-    "event_id": "fgo-the-stage-camelot-release-campaign-us-na"
+    "event_id": "fgo-the-stage-camelot-release-campaign-na"
   },
   {
     "slug": "halloween-2020-event-revival-summoning-campaign-na",
@@ -12026,7 +11937,7 @@
       "217": "Ibaraki Dōji (Lancer)",
       "224": "Sitonai"
     },
-    "event_id": "halloween-2020-event-revival-us-na"
+    "event_id": "halloween-2020-event-revival-na"
   },
   {
     "slug": "fgo-the-stage-babylonia-release-summoning-campaign-na",
@@ -12038,7 +11949,18 @@
       "143": "Enkidu",
       "145": "Gilgamesh (Caster)"
     },
-    "event_id": "fgo-the-stage-babylonia-release-campaign-us-na"
+    "event_id": "fgo-the-stage-babylonia-release-campaign-na"
+  },
+  {
+    "slug": "saber-wars-ii-pre-release-summoning-campaign-na",
+    "name": "Saber Wars II Pre-Release Summoning Campaign",
+    "start_date": "2021-10-12",
+    "end_date": "2021-10-31",
+    "region": "NA",
+    "rateups": {
+      "86": "Mysterious Heroine X"
+    },
+    "event_id": "saber-wars-ii-na"
   },
   {
     "slug": "saber-wars-ii-summoning-campaign-1-na",
@@ -12050,7 +11972,7 @@
       "268": "Space Ishtar",
       "269": "Calamity Jane"
     },
-    "event_id": "saber-wars-ii-us-na"
+    "event_id": "saber-wars-ii-na"
   },
   {
     "slug": "saber-wars-ii-summoning-campaign-2-na",
@@ -12062,18 +11984,7 @@
       "155": "Mysterious Heroine X (Alter)",
       "187": "Yagyū Munenori"
     },
-    "event_id": "saber-wars-ii-us-na"
-  },
-  {
-    "slug": "saber-wars-ii-pre-release-summoning-campaign-na",
-    "name": "Saber Wars II Pre-Release Summoning Campaign",
-    "start_date": "2021-10-12",
-    "end_date": "2021-10-31",
-    "region": "NA",
-    "rateups": {
-      "86": "Mysterious Heroine X"
-    },
-    "event_id": "saber-wars-ii-us-na"
+    "event_id": "saber-wars-ii-na"
   },
   {
     "slug": "15m-downloads-summoning-campaign-na",
@@ -12084,7 +11995,7 @@
     "rateups": {
       "215": "Scáthach-Skaði"
     },
-    "event_id": "15m-downloads-campaign-us-na"
+    "event_id": "15m-downloads-campaign-na"
   },
   {
     "slug": "early-winter-campaign-2021-summoning-campaign-na",
@@ -12099,7 +12010,7 @@
       "124": "Hassan of the Serenity",
       "160": "Arthur Pendragon (Prototype)"
     },
-    "event_id": "early-winter-campaign-2021-us-na"
+    "event_id": "early-winter-campaign-2021-na"
   },
   {
     "slug": "interlude-campaign-11-summoning-campaign-na",
@@ -12113,7 +12024,7 @@
       "227": "Lanling Wang",
       "228": "Qin Liangyu"
     },
-    "event_id": "interlude-campaign-11-us-na"
+    "event_id": "interlude-campaign-11-na"
   },
   {
     "slug": "fgo-thanksgiving-special-2021-summoning-campaign-na",
@@ -12130,7 +12041,7 @@
       "226": "Xiang Yu",
       "241": "Sima Yi (Reines)"
     },
-    "event_id": "fgo-thanksgiving-special-2021-us-na"
+    "event_id": "fgo-thanksgiving-special-2021-na"
   },
   {
     "slug": "atlantis-chapter-release-summoning-campaign-na",
@@ -12143,7 +12054,7 @@
       "272": "Super Orion",
       "273": "Mandricardo"
     },
-    "event_id": "atlantis-chapter-release-us-na"
+    "event_id": "atlantis-chapter-release-na"
   },
   {
     "slug": "atlantis-summoning-campaign-2-na",
@@ -12157,7 +12068,7 @@
       "242": "Astraea",
       "274": "Europa"
     },
-    "event_id": "atlantis-chapter-release-us-na"
+    "event_id": "atlantis-chapter-release-na"
   },
   {
     "slug": "christmas-2021-event-summoning-campaign-na",
@@ -12174,7 +12085,7 @@
       "248": "Aśvatthāman",
       "270": "Astolfo (Saber)"
     },
-    "event_id": "christmas-2021-event-us-na"
+    "event_id": "christmas-2021-event-na"
   },
   {
     "slug": "happy-new-year-2022-summoning-campaign-na",
@@ -12191,7 +12102,7 @@
       "229": "Shi Huang Di",
       "275": "Yang Guifei"
     },
-    "event_id": "happy-new-year-2022-us-na"
+    "event_id": "happy-new-year-2022-na"
   },
   {
     "slug": "new-year-2021-event-revival-summoning-campaign-1-na",
@@ -12204,7 +12115,7 @@
       "223": "Diarmuid Ua Duibhne (Saber)",
       "234": "Beni-Enma"
     },
-    "event_id": "new-year-2021-event-revival-us-na"
+    "event_id": "new-year-2021-event-revival-na"
   },
   {
     "slug": "new-year-2021-event-revival-summoning-campaign-2-na",
@@ -12217,7 +12128,7 @@
       "184": "Tomoe Gozen",
       "235": "Li Shuwen"
     },
-    "event_id": "new-year-2021-event-revival-us-na"
+    "event_id": "new-year-2021-event-revival-na"
   },
   {
     "slug": "amazonescom-ceo-crisis-2022-summoning-campaign-na",
@@ -12230,7 +12141,7 @@
       "171": "Penthesilea",
       "189": "Osakabehime"
     },
-    "event_id": "amazonescom-ceo-crisis-2022-us-na"
+    "event_id": "amazonescom-ceo-crisis-2022-na"
   },
   {
     "slug": "interlude-campaign-12-summoning-campaign-na",
@@ -12243,7 +12154,7 @@
       "232": "Bradamante",
       "249": "Asclepius"
     },
-    "event_id": "interlude-campaign-12-us-na"
+    "event_id": "interlude-campaign-12-na"
   },
   {
     "slug": "valentine-2022-event-summoning-campaign-na",
@@ -12276,7 +12187,7 @@
       "274": "Europa",
       "276": "Sei Shōnagon"
     },
-    "event_id": "valentine-2022-event-us-na"
+    "event_id": "valentine-2022-event-na"
   },
   {
     "slug": "16m-downloads-summoning-campaign-na",
@@ -12288,7 +12199,7 @@
       "87": "Fionn mac Cumhaill",
       "196": "Ereshkigal"
     },
-    "event_id": "16m-downloads-campaign-us-na"
+    "event_id": "16m-downloads-campaign-na"
   },
   {
     "slug": "presidents-day-celebration-campaign-2022-summoning-campaign-na",
@@ -12300,7 +12211,7 @@
       "77": "Nikola Tesla",
       "103": "Thomas Edison"
     },
-    "event_id": "presidents-day-celebration-campaign-2022-us-na"
+    "event_id": "presidents-day-celebration-campaign-2022-na"
   },
   {
     "slug": "chaldea-boys-collection-2022-summoning-campaign-na",
@@ -12324,7 +12235,7 @@
       "235": "Li Shuwen",
       "277": "Odysseus"
     },
-    "event_id": "white-day-2022-event-us-na"
+    "event_id": "white-day-2022-event-na"
   },
   {
     "slug": "chaldea-boys-collection-2018-2021-ce-summoning-campaign-na",
@@ -12336,43 +12247,7 @@
       "192": "Circe",
       "277": "Odysseus"
     },
-    "event_id": "white-day-2022-event-us-na"
-  },
-  {
-    "slug": "chaldea-boys-collection-2022-summoning-campaign-na-1",
-    "name": "Chaldea Boys Collection 2022 Summoning Campaign",
-    "start_date": "2022-02-28",
-    "end_date": "2022-03-13",
-    "region": "NA",
-    "rateups": {
-      "37": "Zhuge Liang (Lord El-Melloi II)",
-      "52": "Vlad III",
-      "77": "Nikola Tesla",
-      "84": "Arjuna",
-      "85": "Karna",
-      "98": "Cú Chulainn (Alter)",
-      "118": "Ozymandias",
-      "143": "Enkidu",
-      "192": "Circe",
-      "206": "Achilles",
-      "212": "Napoléon",
-      "226": "Xiang Yu",
-      "235": "Li Shuwen",
-      "277": "Odysseus"
-    },
-    "event_id": "chaldea-boys-collection-2022-us-na"
-  },
-  {
-    "slug": "chaldea-boys-collection-2018-2021-ce-summoning-campaign-na-1",
-    "name": "Chaldea Boys Collection 2018 - 2021 CE Summoning Campaign",
-    "start_date": "2022-03-04",
-    "end_date": "2022-03-13",
-    "region": "NA",
-    "rateups": {
-      "192": "Circe",
-      "277": "Odysseus"
-    },
-    "event_id": "chaldea-boys-collection-2018-2021-ce-summoning-campaign-us-na"
+    "event_id": "white-day-2022-event-na"
   },
   {
     "slug": "fateapocrypha-collaboration-event-revival-summoning-campaign-na",
@@ -12396,7 +12271,7 @@
       "207": "Chiron",
       "270": "Astolfo (Saber)"
     },
-    "event_id": "fateapocrypha-collaboration-event-revival-us-na"
+    "event_id": "fateapocrypha-collaboration-event-revival-na"
   },
   {
     "slug": "olympus-chapter-release-summoning-campaign-na",
@@ -12408,7 +12283,7 @@
       "278": "Dioscuri",
       "279": "Caenis"
     },
-    "event_id": "olympus-chapter-release-us-na"
+    "event_id": "olympus-chapter-release-na"
   },
   {
     "slug": "olympus-summoning-campaign-2-na",
@@ -12419,7 +12294,7 @@
     "rateups": {
       "280": "Romulus-Quirinus"
     },
-    "event_id": "olympus-chapter-release-us-na"
+    "event_id": "olympus-chapter-release-na"
   },
   {
     "slug": "lostbelt-5-conclusion-summoning-campaign-na",
@@ -12433,21 +12308,7 @@
       "78": "Artoria Pendragon (Lancer Alter)",
       "114": "Minamoto no Raikō"
     },
-    "event_id": "olympus-chapter-release-us-na"
-  },
-  {
-    "slug": "lostbelt-5-conclusion-summoning-campaign-na-1",
-    "name": "Lostbelt 5 Conclusion Summoning Campaign",
-    "start_date": "2022-04-06",
-    "end_date": "2022-04-15",
-    "region": "NA",
-    "rateups": {
-      "65": "Francis Drake",
-      "67": "Medea (Lily)",
-      "78": "Artoria Pendragon (Lancer Alter)",
-      "114": "Minamoto no Raikō"
-    },
-    "event_id": "lostbelt-5-conclusion-summoning-campaign-us-na"
+    "event_id": "olympus-chapter-release-na"
   },
   {
     "slug": "17m-downloads-summoning-campaign-na",
@@ -12465,7 +12326,7 @@
       "142": "Ishtar",
       "153": "Miyamoto Musashi"
     },
-    "event_id": "17m-downloads-campaign-us-na"
+    "event_id": "17m-downloads-campaign-na"
   },
   {
     "slug": "gudaguda-final-honnoji-2021-revival-summoning-campaign-1-na",
@@ -12480,7 +12341,7 @@
       "250": "Demon King Nobunaga",
       "251": "Mori Nagayoshi"
     },
-    "event_id": "gudaguda-final-honnoji-2021-revival-us-na"
+    "event_id": "gudaguda-final-honnoji-2021-revival-na"
   },
   {
     "slug": "gudaguda-final-honnoji-2021-revival-summoning-campaign-2-na",
@@ -12494,19 +12355,7 @@
       "157": "EMIYA (Alter)",
       "224": "Sitonai"
     },
-    "event_id": "gudaguda-final-honnoji-2021-revival-us-na"
-  },
-  {
-    "slug": "faterequiem-collaboration-event-summoning-campaign-na",
-    "name": "Fate/Requiem Collaboration Event Summoning Campaign",
-    "start_date": "2022-05-06",
-    "end_date": "2022-05-19",
-    "region": "NA",
-    "rateups": {
-      "281": "Voyager",
-      "282": "Kijyo Kōyō"
-    },
-    "event_id": "faterequiem-collaboration-event-us-na"
+    "event_id": "gudaguda-final-honnoji-2021-revival-na"
   },
   {
     "slug": "faterequiem-collaboration-event-pre-release-summoning-campaign-na",
@@ -12520,7 +12369,19 @@
       "189": "Osakabehime",
       "244": "Jinako Carigiri"
     },
-    "event_id": "faterequiem-collaboration-event-us-na"
+    "event_id": "faterequiem-collaboration-event-na"
+  },
+  {
+    "slug": "faterequiem-collaboration-event-summoning-campaign-na",
+    "name": "Fate/Requiem Collaboration Event Summoning Campaign",
+    "start_date": "2022-05-06",
+    "end_date": "2022-05-19",
+    "region": "NA",
+    "rateups": {
+      "281": "Voyager",
+      "282": "Kijyo Kōyō"
+    },
+    "event_id": "faterequiem-collaboration-event-na"
   },
   {
     "slug": "interlude-campaign-13-summoning-campaign-na",
@@ -12534,7 +12395,7 @@
       "245": "Lakshmibai",
       "246": "William Tell"
     },
-    "event_id": "interlude-campaign-13-us-na"
+    "event_id": "interlude-campaign-13-na"
   },
   {
     "slug": "fgo-summer-2021-event-revival-summoning-campaign-1-na",
@@ -12547,7 +12408,7 @@
       "262": "Osakabehime (Archer)",
       "263": "Carmilla (Rider)"
     },
-    "event_id": "fgo-summer-2021-event-revival-us-na"
+    "event_id": "fgo-summer-2021-event-revival-na"
   },
   {
     "slug": "fgo-summer-2021-event-revival-summoning-campaign-2-na",
@@ -12560,7 +12421,7 @@
       "117": "Fūma Kotarō",
       "150": "Merlin"
     },
-    "event_id": "fgo-summer-2021-event-revival-us-na"
+    "event_id": "fgo-summer-2021-event-revival-na"
   },
   {
     "slug": "fgo-summer-2021-event-revival-summoning-campaign-3-na",
@@ -12573,7 +12434,7 @@
       "266": "Mysterious Alter Ego Λ",
       "267": "Okita J Sōji"
     },
-    "event_id": "fgo-summer-2021-event-revival-us-na"
+    "event_id": "fgo-summer-2021-event-revival-na"
   },
   {
     "slug": "swimsuit-aoe-np-only-summoning-campaign-na",
@@ -12641,7 +12502,7 @@
       "274": "Europa",
       "277": "Odysseus"
     },
-    "event_id": "swimsuit-aoe-np-only-summoning-campaign-us-na"
+    "event_id": "swimsuit-aoe-np-only-summoning-campaign-na"
   },
   {
     "slug": "seraph-main-interlude-release-summoning-campaign-na",
@@ -12655,19 +12516,7 @@
       "165": "Suzuka Gozen",
       "238": "Kingprotea"
     },
-    "event_id": "seraph-main-interlude-release-campaign-us-na"
-  },
-  {
-    "slug": "fgo-festival-2022-5th-anniversary-summoning-campaign-na",
-    "name": "FGO Festival 2022 ~5th Anniversary~ Summoning Campaign",
-    "start_date": "2022-07-04",
-    "end_date": "2022-07-17",
-    "region": "NA",
-    "rateups": {
-      "253": "Leonardo Da Vinci (Rider)",
-      "284": "Artoria Caster"
-    },
-    "event_id": "fgo-festival-2022-5th-anniversary-us-na"
+    "event_id": "seraph-main-interlude-release-campaign-na"
   },
   {
     "slug": "fgo-5th-anniversary-pre-anniversary-summoning-campaign-na",
@@ -12693,7 +12542,19 @@
       "274": "Europa",
       "279": "Caenis"
     },
-    "event_id": "fgo-festival-2022-5th-anniversary-us-na"
+    "event_id": "fgo-festival-2022-5th-anniversary-na"
+  },
+  {
+    "slug": "fgo-festival-2022-5th-anniversary-summoning-campaign-na",
+    "name": "FGO Festival 2022 ~5th Anniversary~ Summoning Campaign",
+    "start_date": "2022-07-04",
+    "end_date": "2022-07-17",
+    "region": "NA",
+    "rateups": {
+      "253": "Leonardo Da Vinci (Rider)",
+      "284": "Artoria Caster"
+    },
+    "event_id": "fgo-festival-2022-5th-anniversary-na"
   },
   {
     "slug": "fgo-summer-2022-event-summoning-campaign-1-na",
@@ -12706,7 +12567,7 @@
       "286": "Illyasviel von Einzbern (Archer)",
       "287": "Brynhildr (Berserker)"
     },
-    "event_id": "fgo-summer-2022-event-us-na"
+    "event_id": "fgo-summer-2022-event-na"
   },
   {
     "slug": "fgo-summer-2022-event-summoning-campaign-2-na",
@@ -12719,7 +12580,7 @@
       "213": "Sigurd",
       "227": "Lanling Wang"
     },
-    "event_id": "fgo-summer-2022-event-us-na"
+    "event_id": "fgo-summer-2022-event-na"
   },
   {
     "slug": "fgo-summer-2022-event-summoning-campaign-3-na",
@@ -12732,7 +12593,7 @@
       "290": "Tomoe Gozen (Saber)",
       "291": "Murasaki Shikibu (Rider)"
     },
-    "event_id": "fgo-summer-2022-event-us-na"
+    "event_id": "fgo-summer-2022-event-na"
   },
   {
     "slug": "fgo-summer-2022-event-summoning-campaign-4-na",
@@ -12746,7 +12607,7 @@
       "200": "Asagami Fujino",
       "216": "Jeanne d'Arc (Archer)"
     },
-    "event_id": "fgo-summer-2022-event-us-na"
+    "event_id": "fgo-summer-2022-event-na"
   },
   {
     "slug": "tokugawa-restoration-labyrinth-revival-summoning-campaign-na",
@@ -12759,7 +12620,7 @@
       "187": "Yagyū Munenori",
       "239": "Kama"
     },
-    "event_id": "tokugawa-restoration-labyrinth-revival-us-na"
+    "event_id": "tokugawa-restoration-labyrinth-revival-na"
   },
   {
     "slug": "melty-blood-type-lumina-evo-2022-celebration-summoning-campaign-na",
@@ -12770,7 +12631,7 @@
     "rateups": {
       "2": "Artoria Pendragon"
     },
-    "event_id": "melty-blood-type-lumina-evo-2022-celebration-campaign-us-na"
+    "event_id": "melty-blood-type-lumina-evo-2022-celebration-campaign-na"
   },
   {
     "slug": "18m-downloads-summoning-campaign-na",
@@ -12786,7 +12647,7 @@
       "229": "Shi Huang Di",
       "230": "Consort Yu"
     },
-    "event_id": "18m-downloads-campaign-us-na"
+    "event_id": "18m-downloads-campaign-na"
   },
   {
     "slug": "interlude-campaign-14-summoning-campaign-na",
@@ -12800,7 +12661,7 @@
       "203": "Avicebron",
       "231": "Red Hare"
     },
-    "event_id": "interlude-campaign-14-us-na"
+    "event_id": "interlude-campaign-14-na"
   },
   {
     "slug": "land-of-shadows-battleground-blitz-summoning-campaign-na",
@@ -12814,7 +12675,7 @@
       "87": "Fionn mac Cumhaill",
       "223": "Diarmuid Ua Duibhne (Saber)"
     },
-    "event_id": "land-of-shadows-battleground-blitz-us-na"
+    "event_id": "land-of-shadows-battleground-blitz-na"
   },
   {
     "slug": "back-to-school-campaign-2022-summoning-campaign-na",
@@ -12827,7 +12688,7 @@
       "155": "Mysterious Heroine X (Alter)",
       "236": "Miyu Edelfelt"
     },
-    "event_id": "back-to-school-campaign-2022-us-na"
+    "event_id": "back-to-school-campaign-2022-na"
   },
   {
     "slug": "gudaguda-summoning-campaign-na",
@@ -12840,7 +12701,7 @@
       "161": "Hijikata Toshizō",
       "210": "Okada Izō"
     },
-    "event_id": "gudaguda-summoning-campaign-us-na"
+    "event_id": "gudaguda-summoning-campaign-na"
   },
   {
     "slug": "gudaguda-yamataikoku-2022-summoning-campaign-na",
@@ -12852,7 +12713,7 @@
       "292": "Himiko",
       "293": "Saitō Hajime"
     },
-    "event_id": "gudaguda-yamataikoku-2022-us-na"
+    "event_id": "gudaguda-yamataikoku-2022-na"
   },
   {
     "slug": "gudaguda-yamataikoku-2022-fp-summoning-campaign-na",
@@ -12863,7 +12724,7 @@
     "rateups": {
       "294": "Oda Nobukatsu"
     },
-    "event_id": "gudaguda-yamataikoku-2022-us-na"
+    "event_id": "gudaguda-yamataikoku-2022-na"
   },
   {
     "slug": "fgo-the-stage-solomon-release-summoning-campaign-na",
@@ -12878,7 +12739,21 @@
       "121": "Lancelot (Saber)",
       "145": "Gilgamesh (Caster)"
     },
-    "event_id": "fgo-the-stage-solomon-release-campaign-us-na"
+    "event_id": "fgo-the-stage-solomon-release-campaign-na"
+  },
+  {
+    "slug": "christmas-2021-event-revival-pre-release-summoning-campaign-na",
+    "name": "Christmas 2021 Event Revival Pre-Release Summoning Campaign",
+    "start_date": "2022-09-28",
+    "end_date": "2022-10-11",
+    "region": "NA",
+    "rateups": {
+      "13": "Robin Hood",
+      "60": "Orion",
+      "106": "Jeanne d'Arc (Alter)",
+      "202": "Atalanta (Alter)"
+    },
+    "event_id": "christmas-2021-event-revival-na"
   },
   {
     "slug": "christmas-2021-event-revival-summoning-campaign-na",
@@ -12896,21 +12771,7 @@
       "248": "Aśvatthāman",
       "270": "Astolfo (Saber)"
     },
-    "event_id": "christmas-2021-event-revival-us-na"
-  },
-  {
-    "slug": "christmas-2021-event-revival-pre-release-summoning-campaign-na",
-    "name": "Christmas 2021 Event Revival Pre-Release Summoning Campaign",
-    "start_date": "2022-09-28",
-    "end_date": "2022-10-11",
-    "region": "NA",
-    "rateups": {
-      "13": "Robin Hood",
-      "60": "Orion",
-      "106": "Jeanne d'Arc (Alter)",
-      "202": "Atalanta (Alter)"
-    },
-    "event_id": "christmas-2021-event-revival-us-na"
+    "event_id": "christmas-2021-event-revival-na"
   },
   {
     "slug": "halloween-campaign-2022-summoning-campaign-na",
@@ -12926,32 +12787,7 @@
       "189": "Osakabehime",
       "217": "Ibaraki Dōji (Lancer)"
     },
-    "event_id": "halloween-campaign-2022-us-na"
-  },
-  {
-    "slug": "imaginary-scramble-summoning-campaign-1-na",
-    "name": "Imaginary Scramble Summoning Campaign 1",
-    "start_date": "2022-10-27",
-    "end_date": "2022-11-09",
-    "region": "NA",
-    "rateups": {
-      "295": "Van Gogh",
-      "296": "Nemo"
-    },
-    "event_id": "imaginary-scramble-us-na"
-  },
-  {
-    "slug": "imaginary-scramble-summoning-campaign-2-na",
-    "name": "Imaginary Scramble Summoning Campaign 2",
-    "start_date": "2022-11-03",
-    "end_date": "2022-11-13",
-    "region": "NA",
-    "rateups": {
-      "195": "Abigail Williams",
-      "262": "Osakabehime (Archer)",
-      "266": "Mysterious Alter Ego Λ"
-    },
-    "event_id": "imaginary-scramble-us-na"
+    "event_id": "halloween-campaign-2022-na"
   },
   {
     "slug": "imaginary-scramble-pre-release-summoning-campaign-na",
@@ -12965,19 +12801,32 @@
       "222": "Mysterious Heroine XX",
       "275": "Yang Guifei"
     },
-    "event_id": "imaginary-scramble-us-na"
+    "event_id": "imaginary-scramble-na"
   },
   {
-    "slug": "heian-kyo-chapter-release-summoning-campaign-na",
-    "name": "Heian-kyo Chapter Release Summoning Campaign",
-    "start_date": "2022-11-21",
-    "end_date": "2022-12-04",
+    "slug": "imaginary-scramble-summoning-campaign-1-na",
+    "name": "Imaginary Scramble Summoning Campaign 1",
+    "start_date": "2022-10-27",
+    "end_date": "2022-11-09",
     "region": "NA",
     "rateups": {
-      "297": "Ashiya Dōman",
-      "298": "Watanabe no Tsuna"
+      "295": "Van Gogh",
+      "296": "Nemo"
     },
-    "event_id": "heian-kyo-chapter-release-us-na"
+    "event_id": "imaginary-scramble-na"
+  },
+  {
+    "slug": "imaginary-scramble-summoning-campaign-2-na",
+    "name": "Imaginary Scramble Summoning Campaign 2",
+    "start_date": "2022-11-03",
+    "end_date": "2022-11-13",
+    "region": "NA",
+    "rateups": {
+      "195": "Abigail Williams",
+      "262": "Osakabehime (Archer)",
+      "266": "Mysterious Alter Ego Λ"
+    },
+    "event_id": "imaginary-scramble-na"
   },
   {
     "slug": "heian-kyo-pre-release-summoning-campaign-na",
@@ -12991,7 +12840,19 @@
       "116": "Ibaraki Dōji",
       "188": "Katō Danzō"
     },
-    "event_id": "heian-kyo-chapter-release-us-na"
+    "event_id": "heian-kyo-chapter-release-na"
+  },
+  {
+    "slug": "heian-kyo-chapter-release-summoning-campaign-na",
+    "name": "Heian-kyo Chapter Release Summoning Campaign",
+    "start_date": "2022-11-21",
+    "end_date": "2022-12-04",
+    "region": "NA",
+    "rateups": {
+      "297": "Ashiya Dōman",
+      "298": "Watanabe no Tsuna"
+    },
+    "event_id": "heian-kyo-chapter-release-na"
   },
   {
     "slug": "heian-kyo-summoning-campaign-2-na",
@@ -13005,7 +12866,7 @@
       "80": "Charles Babbage",
       "299": "Ibuki Dōji"
     },
-    "event_id": "heian-kyo-chapter-release-us-na"
+    "event_id": "heian-kyo-chapter-release-na"
   },
   {
     "slug": "fgo-thanksgiving-special-2022-summoning-campaign-na",
@@ -13020,7 +12881,7 @@
       "220": "BB (Summer)",
       "234": "Beni-Enma"
     },
-    "event_id": "fgo-thanksgiving-special-2022-us-na"
+    "event_id": "fgo-thanksgiving-special-2022-na"
   },
   {
     "slug": "interlude-campaign-15-summoning-campaign-na",
@@ -13033,7 +12894,7 @@
       "242": "Astraea",
       "278": "Dioscuri"
     },
-    "event_id": "interlude-campaign-15-us-na"
+    "event_id": "interlude-campaign-15-na"
   },
   {
     "slug": "19m-downloads-summoning-campaign-na",
@@ -13044,7 +12905,7 @@
     "rateups": {
       "237": "Murasaki Shikibu"
     },
-    "event_id": "19m-downloads-campaign-us-na"
+    "event_id": "19m-downloads-campaign-na"
   },
   {
     "slug": "christmas-2022-event-summoning-campaign-1-na",
@@ -13057,7 +12918,7 @@
       "135": "Martha (Ruler)",
       "300": "Vritra"
     },
-    "event_id": "christmas-2022-event-us-na"
+    "event_id": "christmas-2022-event-na"
   },
   {
     "slug": "christmas-2022-event-summoning-campaign-2-na",
@@ -13070,7 +12931,7 @@
       "85": "Karna",
       "183": "Parvati"
     },
-    "event_id": "christmas-2022-event-us-na"
+    "event_id": "christmas-2022-event-na"
   },
   {
     "slug": "new-year-2023-countdown-summoning-campaign-na",
@@ -13082,7 +12943,7 @@
       "108": "Iskandar",
       "198": "Katsushika Hokusai"
     },
-    "event_id": "new-year-2023-countdown-campaign-us-na"
+    "event_id": "new-year-2023-countdown-campaign-na"
   },
   {
     "slug": "happy-new-year-2023-summoning-campaign-1-na",
@@ -13093,7 +12954,7 @@
     "rateups": {
       "302": "Senji Muramasa"
     },
-    "event_id": "happy-new-year-2023-us-na"
+    "event_id": "happy-new-year-2023-na"
   },
   {
     "slug": "happy-new-year-2023-summoning-campaign-2-na",
@@ -13109,7 +12970,7 @@
       "199": "Semiramis",
       "272": "Super Orion"
     },
-    "event_id": "happy-new-year-2023-us-na"
+    "event_id": "happy-new-year-2023-na"
   },
   {
     "slug": "saber-wars-ii-revival-summoning-campaign-1-na",
@@ -13121,7 +12982,7 @@
       "268": "Space Ishtar",
       "269": "Calamity Jane"
     },
-    "event_id": "saber-wars-ii-revival-us-na"
+    "event_id": "saber-wars-ii-revival-na"
   },
   {
     "slug": "saber-wars-ii-revival-summoning-campaign-2-na",
@@ -13133,7 +12994,7 @@
       "86": "Mysterious Heroine X",
       "187": "Yagyū Munenori"
     },
-    "event_id": "saber-wars-ii-revival-us-na"
+    "event_id": "saber-wars-ii-revival-na"
   },
   {
     "slug": "little-big-tengu-summoning-campaign-na",
@@ -13147,7 +13008,7 @@
       "99": "Queen Medb",
       "303": "Taira no Kagekiyo"
     },
-    "event_id": "little-big-tengu-us-na"
+    "event_id": "little-big-tengu-na"
   },
   {
     "slug": "grail-front-event-et-tu-brute-summoning-campaign-na",
@@ -13164,7 +13025,7 @@
       "242": "Astraea",
       "280": "Romulus-Quirinus"
     },
-    "event_id": "grail-front-event-et-tu-brute-us-na"
+    "event_id": "grail-front-event-et-tu-brute-na"
   },
   {
     "slug": "valentine-2023-event-summoning-campaign-na",
@@ -13197,7 +13058,7 @@
       "300": "Vritra",
       "305": "Amor (Caren)"
     },
-    "event_id": "valentine-2023-event-us-na"
+    "event_id": "valentine-2023-event-na"
   },
   {
     "slug": "valentine-2022-summoning-campaign-revival-na",
@@ -13208,18 +13069,7 @@
     "rateups": {
       "276": "Sei Shōnagon"
     },
-    "event_id": "valentine-2023-event-us-na"
-  },
-  {
-    "slug": "valentine-2022-summoning-campaign-revival-na-1",
-    "name": "Valentine 2022 Summoning Campaign Revival",
-    "start_date": "2023-02-19",
-    "end_date": "2023-03-05",
-    "region": "NA",
-    "rateups": {
-      "276": "Sei Shōnagon"
-    },
-    "event_id": "valentine-2022-summoning-campaign-revival-us-na"
+    "event_id": "valentine-2023-event-na"
   },
   {
     "slug": "spring-has-sprung-campaign-2023-summoning-campaign-na",
@@ -13230,7 +13080,7 @@
     "rateups": {
       "160": "Arthur Pendragon (Prototype)"
     },
-    "event_id": "spring-has-sprung-campaign-2023-us-na"
+    "event_id": "spring-has-sprung-campaign-2023-na"
   },
   {
     "slug": "chaldea-boys-collection-2023-summoning-campaign-1-na",
@@ -13257,7 +13107,7 @@
       "296": "Nemo",
       "298": "Watanabe no Tsuna"
     },
-    "event_id": "chaldea-boys-collection-2023-us-na"
+    "event_id": "white-day-2023-event-na"
   },
   {
     "slug": "chaldea-boys-collection-2023-summoning-campaign-2-na",
@@ -13270,47 +13120,7 @@
       "281": "Voyager",
       "298": "Watanabe no Tsuna"
     },
-    "event_id": "white-day-2023-event-us-na"
-  },
-  {
-    "slug": "chaldea-boys-collection-2023-summoning-campaign-1-na-1",
-    "name": "Chaldea Boys Collection 2023 Summoning Campaign 1",
-    "start_date": "2023-03-03",
-    "end_date": "2023-03-16",
-    "region": "NA",
-    "rateups": {
-      "37": "Zhuge Liang (Lord El-Melloi II)",
-      "42": "Jing Ke",
-      "52": "Vlad III",
-      "77": "Nikola Tesla",
-      "84": "Arjuna",
-      "85": "Karna",
-      "93": "Amakusa Shirō",
-      "98": "Cú Chulainn (Alter)",
-      "118": "Ozymandias",
-      "143": "Enkidu",
-      "206": "Achilles",
-      "212": "Napoléon",
-      "226": "Xiang Yu",
-      "235": "Li Shuwen",
-      "278": "Dioscuri",
-      "296": "Nemo",
-      "298": "Watanabe no Tsuna"
-    },
-    "event_id": "white-day-2023-event-us-na"
-  },
-  {
-    "slug": "chaldea-boys-collection-2023-summoning-campaign-2-na-1",
-    "name": "Chaldea Boys Collection 2023 Summoning Campaign 2",
-    "start_date": "2023-03-09",
-    "end_date": "2023-03-23",
-    "region": "NA",
-    "rateups": {
-      "42": "Jing Ke",
-      "281": "Voyager",
-      "298": "Watanabe no Tsuna"
-    },
-    "event_id": "chaldea-boys-collection-2023-summoning-campaign-2-us-na"
+    "event_id": "white-day-2023-event-na"
   },
   {
     "slug": "class-based-summoning-campaign-march-2023-na",
@@ -13461,7 +13271,7 @@
       "298": "Watanabe no Tsuna",
       "300": "Vritra"
     },
-    "event_id": "class-based-summoning-campaign-march-2023-us-na"
+    "event_id": "class-based-summoning-campaign-march-2023-na"
   },
   {
     "slug": "akihabara-explosion-summoning-campaign-na",
@@ -13474,7 +13284,7 @@
       "189": "Osakabehime",
       "306": "Galatea"
     },
-    "event_id": "akihabara-explosion-us-na"
+    "event_id": "akihabara-explosion-na"
   },
   {
     "slug": "arc-1-arc-15-memorial-summoning-campaign-1-na",
@@ -13487,7 +13297,7 @@
       "127": "Leonardo Da Vinci",
       "147": "Gorgon"
     },
-    "event_id": "arc-1-arc-15-memorial-summoning-campaign-us-na"
+    "event_id": "arc-1-arc-15-memorial-summoning-campaign-na"
   },
   {
     "slug": "arc-1-arc-15-memorial-summoning-campaign-2-na",
@@ -13500,7 +13310,7 @@
       "157": "EMIYA (Alter)",
       "194": "Queen of Sheba"
     },
-    "event_id": "arc-1-arc-15-memorial-summoning-campaign-us-na"
+    "event_id": "arc-1-arc-15-memorial-summoning-campaign-na"
   },
   {
     "slug": "spring-break-summoning-campaign-na",
@@ -13514,7 +13324,7 @@
       "186": "Hōzōin Inshun",
       "198": "Katsushika Hokusai"
     },
-    "event_id": "spring-break-summoning-campaign-us-na"
+    "event_id": "spring-break-summoning-campaign-na"
   },
   {
     "slug": "servant-rank-up-quests-part-xiii-summoning-campaign-na",
@@ -13530,7 +13340,21 @@
       "156": "James Moriarty",
       "159": "Yan Qing"
     },
-    "event_id": "servant-rank-up-quests-part-xiii-us-na"
+    "event_id": "servant-rank-up-quests-part-xiii-na"
+  },
+  {
+    "slug": "fgo-waltz-in-the-moonlight-collaboration-event-pre-release-summoning-campaign-na",
+    "name": "FGO Waltz in the Moonlight Collaboration Event Pre-Release Summoning Campaign",
+    "start_date": "2023-04-09",
+    "end_date": "2023-04-23",
+    "region": "NA",
+    "rateups": {
+      "15": "Euryale",
+      "59": "Jeanne d'Arc",
+      "100": "Helena Blavatsky",
+      "112": "Shuten Dōji"
+    },
+    "event_id": "fgo-waltz-in-the-moonlight-collaboration-event-na"
   },
   {
     "slug": "fgo-waltz-in-the-moonlight-collaboration-event-summoning-campaign-1-na",
@@ -13544,7 +13368,7 @@
       "155": "Mysterious Heroine X (Alter)",
       "307": "Miss Crane"
     },
-    "event_id": "fgo-waltz-in-the-moonlight-collaboration-event-us-na"
+    "event_id": "fgo-waltz-in-the-moonlight-collaboration-event-na"
   },
   {
     "slug": "fgo-waltz-in-the-moonlight-collaboration-event-summoning-campaign-2-na",
@@ -13559,21 +13383,7 @@
       "58": "Tamamo Cat",
       "99": "Queen Medb"
     },
-    "event_id": "fgo-waltz-in-the-moonlight-collaboration-event-us-na"
-  },
-  {
-    "slug": "fgo-waltz-in-the-moonlight-collaboration-event-pre-release-summoning-campaign-na",
-    "name": "FGO Waltz in the Moonlight Collaboration Event Pre-Release Summoning Campaign",
-    "start_date": "2023-04-09",
-    "end_date": "2023-04-23",
-    "region": "NA",
-    "rateups": {
-      "15": "Euryale",
-      "59": "Jeanne d'Arc",
-      "100": "Helena Blavatsky",
-      "112": "Shuten Dōji"
-    },
-    "event_id": "fgo-waltz-in-the-moonlight-collaboration-event-us-na"
+    "event_id": "fgo-waltz-in-the-moonlight-collaboration-event-na"
   },
   {
     "slug": "my-super-camelot-2023-pre-release-summoning-campaign-na",
@@ -13586,7 +13396,7 @@
       "118": "Ozymandias",
       "126": "Bedivere"
     },
-    "event_id": "my-super-camelot-2023-pre-release-campaign-us-na"
+    "event_id": "grail-front-event-my-super-camelot-2023-na"
   },
   {
     "slug": "grail-front-event-my-super-camelot-2023-summoning-campaign-na",
@@ -13601,20 +13411,7 @@
       "122": "Tristan",
       "123": "Gawain"
     },
-    "event_id": "grail-front-event-my-super-camelot-2023-us-na"
-  },
-  {
-    "slug": "my-super-camelot-2023-pre-release-summoning-campaign-na-1",
-    "name": "My Super Camelot 2023 Pre-Release Summoning Campaign",
-    "start_date": "2023-04-30",
-    "end_date": "2023-05-08",
-    "region": "NA",
-    "rateups": {
-      "113": "Xuanzang Sanzang",
-      "118": "Ozymandias",
-      "126": "Bedivere"
-    },
-    "event_id": "grail-front-event-my-super-camelot-2023-us-na"
+    "event_id": "grail-front-event-my-super-camelot-2023-na"
   },
   {
     "slug": "fgo-summer-2022-event-revival-summoning-campaign-1-na",
@@ -13627,7 +13424,7 @@
       "286": "Illyasviel von Einzbern (Archer)",
       "287": "Brynhildr (Berserker)"
     },
-    "event_id": "fgo-summer-2022-event-revival-us-na"
+    "event_id": "fgo-summer-2022-event-revival-na"
   },
   {
     "slug": "fgo-summer-2022-event-revival-summoning-campaign-2-na",
@@ -13640,7 +13437,7 @@
       "213": "Sigurd",
       "227": "Lanling Wang"
     },
-    "event_id": "fgo-summer-2022-event-revival-us-na"
+    "event_id": "fgo-summer-2022-event-revival-na"
   },
   {
     "slug": "fgo-summer-2022-event-revival-summoning-campaign-3-na",
@@ -13654,7 +13451,7 @@
       "290": "Tomoe Gozen (Saber)",
       "291": "Murasaki Shikibu (Rider)"
     },
-    "event_id": "fgo-summer-2022-event-revival-us-na"
+    "event_id": "fgo-summer-2022-event-revival-na"
   },
   {
     "slug": "arc-2-chapter-5-memorial-summoning-campaign-na",
@@ -13668,7 +13465,18 @@
       "272": "Super Orion",
       "299": "Ibuki Dōji"
     },
-    "event_id": "arc-2-chapter-5-memorial-summoning-campaign-us-na"
+    "event_id": "arc-2-chapter-5-memorial-summoning-campaign-na"
+  },
+  {
+    "slug": "avalon-le-fae-pre-release-summoning-campaign-na",
+    "name": "Avalon le Fae Pre-Release Summoning Campaign",
+    "start_date": "2023-06-01",
+    "end_date": "2023-06-15",
+    "region": "NA",
+    "rateups": {
+      "253": "Leonardo Da Vinci (Rider)"
+    },
+    "event_id": "avalon-le-fae-part-1-chapter-release-na"
   },
   {
     "slug": "avalon-le-fae-part-1-chapter-release-summoning-campaign-na",
@@ -13682,18 +13490,7 @@
       "310": "Barghest",
       "311": "Baobhan Sith"
     },
-    "event_id": "avalon-le-fae-part-1-chapter-release-us-na"
-  },
-  {
-    "slug": "avalon-le-fae-pre-release-summoning-campaign-na",
-    "name": "Avalon le Fae Pre-Release Summoning Campaign",
-    "start_date": "2023-06-01",
-    "end_date": "2023-06-15",
-    "region": "NA",
-    "rateups": {
-      "253": "Leonardo Da Vinci (Rider)"
-    },
-    "event_id": "avalon-le-fae-part-1-chapter-release-us-na"
+    "event_id": "avalon-le-fae-part-1-chapter-release-na"
   },
   {
     "slug": "avalon-le-fae-part-1-summoning-campaign-2-na",
@@ -13704,7 +13501,7 @@
     "rateups": {
       "284": "Artoria Caster"
     },
-    "event_id": "avalon-le-fae-part-1-chapter-release-us-na"
+    "event_id": "avalon-le-fae-part-1-chapter-release-na"
   },
   {
     "slug": "interlude-campaign-16-summoning-campaign-na",
@@ -13718,7 +13515,7 @@
       "273": "Mandricardo",
       "279": "Caenis"
     },
-    "event_id": "interlude-campaign-16-us-na"
+    "event_id": "interlude-campaign-16-na"
   },
   {
     "slug": "avalon-le-fae-part-2-chapter-release-summoning-campaign-na",
@@ -13730,7 +13527,18 @@
       "312": "Mélusine",
       "313": "Percival"
     },
-    "event_id": "avalon-le-fae-part-2-chapter-release-us-na"
+    "event_id": "avalon-le-fae-part-2-chapter-release-na"
+  },
+  {
+    "slug": "fgo-6th-anniversary-commemorative-summoning-campaign-na",
+    "name": "FGO 6th Anniversary Commemorative Summoning Campaign",
+    "start_date": "2023-06-28",
+    "end_date": "2023-07-02",
+    "region": "NA",
+    "rateups": {
+      "173": "Sherlock Holmes"
+    },
+    "event_id": "fgo-festival-2023-6th-anniversary-na"
   },
   {
     "slug": "fgo-festival-2023-6th-anniversary-summoning-campaign-na",
@@ -13744,18 +13552,7 @@
       "279": "Caenis",
       "314": "Koyanskaya of Light"
     },
-    "event_id": "fgo-festival-2023-6th-anniversary-us-na"
-  },
-  {
-    "slug": "fgo-6th-anniversary-commemorative-summoning-campaign-na",
-    "name": "FGO 6th Anniversary Commemorative Summoning Campaign",
-    "start_date": "2023-06-28",
-    "end_date": "2023-07-02",
-    "region": "NA",
-    "rateups": {
-      "173": "Sherlock Holmes"
-    },
-    "event_id": "fgo-festival-2023-6th-anniversary-us-na"
+    "event_id": "fgo-festival-2023-6th-anniversary-na"
   },
   {
     "slug": "fgo-6th-anniversary-daily-summoning-campaign-na",
@@ -13784,36 +13581,7 @@
       "274": "Europa",
       "278": "Dioscuri"
     },
-    "event_id": "fgo-festival-2023-6th-anniversary-us-na"
-  },
-  {
-    "slug": "fgo-6th-anniversary-daily-summoning-campaign-na-1",
-    "name": "FGO 6th Anniversary Daily Summoning Campaign",
-    "start_date": "2023-07-05",
-    "end_date": "2023-07-13",
-    "region": "NA",
-    "rateups": {
-      "201": "Anastasia",
-      "202": "Atalanta (Alter)",
-      "203": "Avicebron",
-      "204": "Antonio Salieri",
-      "212": "Napoléon",
-      "224": "Sitonai",
-      "226": "Xiang Yu",
-      "227": "Lanling Wang",
-      "230": "Consort Yu",
-      "231": "Red Hare",
-      "235": "Li Shuwen",
-      "244": "Jinako Carigiri",
-      "245": "Lakshmibai",
-      "246": "William Tell",
-      "248": "Aśvatthāman",
-      "249": "Asclepius",
-      "273": "Mandricardo",
-      "274": "Europa",
-      "278": "Dioscuri"
-    },
-    "event_id": "fgo-6th-anniversary-daily-summoning-campaign-us-na"
+    "event_id": "fgo-festival-2023-6th-anniversary-na"
   },
   {
     "slug": "avalon-le-fae-conclusion-summoning-campaign-1-na",
@@ -13828,7 +13596,7 @@
       "311": "Baobhan Sith",
       "316": "Oberon"
     },
-    "event_id": "avalon-le-fae-conclusion-campaign-us-na"
+    "event_id": "avalon-le-fae-conclusion-campaign-na"
   },
   {
     "slug": "avalon-le-fae-conclusion-summoning-campaign-2-na",
@@ -13841,7 +13609,7 @@
       "310": "Barghest",
       "311": "Baobhan Sith"
     },
-    "event_id": "avalon-le-fae-conclusion-campaign-us-na"
+    "event_id": "avalon-le-fae-conclusion-campaign-na"
   },
   {
     "slug": "avalon-le-fae-conclusion-summoning-campaign-3-na",
@@ -13856,7 +13624,7 @@
       "150": "Merlin",
       "305": "Amor (Caren)"
     },
-    "event_id": "avalon-le-fae-conclusion-campaign-us-na"
+    "event_id": "avalon-le-fae-conclusion-campaign-na"
   },
   {
     "slug": "grand-nero-festival-2023-summoning-campaign-1-na",
@@ -13872,7 +13640,7 @@
       "175": "Nero Claudius (Caster)",
       "242": "Astraea"
     },
-    "event_id": "grand-nero-festival-2023-us-na"
+    "event_id": "grand-nero-festival-2023-na"
   },
   {
     "slug": "grand-nero-festival-2023-summoning-campaign-2-na",
@@ -13890,7 +13658,7 @@
       "114": "Minamoto no Raikō",
       "145": "Gilgamesh (Caster)"
     },
-    "event_id": "grand-nero-festival-2023-us-na"
+    "event_id": "grand-nero-festival-2023-na"
   },
   {
     "slug": "melty-blood-type-lumina-evo-2023-celebration-summoning-campaign-na",
@@ -13902,7 +13670,7 @@
       "2": "Artoria Pendragon",
       "27": "Ushiwakamaru"
     },
-    "event_id": "melty-blood-type-lumina-evo-2023-celebration-campaign-us-na"
+    "event_id": "melty-blood-type-lumina-evo-2023-celebration-campaign-na"
   },
   {
     "slug": "back-to-school-campaign-2023-summoning-campaign-na",
@@ -13915,7 +13683,7 @@
       "236": "Miyu Edelfelt",
       "286": "Illyasviel von Einzbern (Archer)"
     },
-    "event_id": "back-to-school-campaign-2023-us-na"
+    "event_id": "back-to-school-campaign-2023-na"
   },
   {
     "slug": "revival-summer-servants-summoning-campaign-na",
@@ -13941,57 +13709,7 @@
       "265": "Artoria Pendragon (Ruler)",
       "266": "Mysterious Alter Ego Λ"
     },
-    "event_id": "revival-summer-servants-summoning-campaign-us-na"
-  },
-  {
-    "slug": "fgo-summer-2023-event-summoning-campaign-1-na",
-    "name": "FGO Summer 2023 Event Summoning Campaign 1",
-    "start_date": "2023-08-31",
-    "end_date": "2023-09-20",
-    "region": "NA",
-    "rateups": {
-      "317": "Okita Sōji (Saber Alter)",
-      "318": "Anastasia & Viy",
-      "319": "Charlotte Corday (Caster)"
-    },
-    "event_id": "fgo-summer-2023-event-us-na"
-  },
-  {
-    "slug": "fgo-summer-2023-event-summoning-campaign-2-na",
-    "name": "FGO Summer 2023 Event Summoning Campaign 2",
-    "start_date": "2023-08-31",
-    "end_date": "2023-09-20",
-    "region": "NA",
-    "rateups": {
-      "206": "Achilles",
-      "273": "Mandricardo"
-    },
-    "event_id": "fgo-summer-2023-event-us-na"
-  },
-  {
-    "slug": "fgo-summer-2023-event-summoning-campaign-3-na",
-    "name": "FGO Summer 2023 Event Summoning Campaign 3",
-    "start_date": "2023-09-06",
-    "end_date": "2023-09-20",
-    "region": "NA",
-    "rateups": {
-      "321": "Kama (Avenger)",
-      "322": "Caenis (Rider)",
-      "323": "Sei Shōnagon (Berserker)"
-    },
-    "event_id": "fgo-summer-2023-event-us-na"
-  },
-  {
-    "slug": "fgo-summer-2023-event-summoning-campaign-4-na",
-    "name": "FGO Summer 2023 Event Summoning Campaign 4",
-    "start_date": "2023-09-13",
-    "end_date": "2023-09-20",
-    "region": "NA",
-    "rateups": {
-      "172": "Christopher Columbus",
-      "297": "Ashiya Dōman"
-    },
-    "event_id": "fgo-summer-2023-event-us-na"
+    "event_id": "revival-summer-servants-summoning-campaign-na"
   },
   {
     "slug": "fgo-summer-2023-event-pre-release-summoning-campaign-na",
@@ -14005,7 +13723,57 @@
       "269": "Calamity Jane",
       "296": "Nemo"
     },
-    "event_id": "fgo-summer-2023-event-us-na"
+    "event_id": "fgo-summer-2023-event-na"
+  },
+  {
+    "slug": "fgo-summer-2023-event-summoning-campaign-1-na",
+    "name": "FGO Summer 2023 Event Summoning Campaign 1",
+    "start_date": "2023-08-31",
+    "end_date": "2023-09-20",
+    "region": "NA",
+    "rateups": {
+      "317": "Okita Sōji (Saber Alter)",
+      "318": "Anastasia & Viy",
+      "319": "Charlotte Corday (Caster)"
+    },
+    "event_id": "fgo-summer-2023-event-na"
+  },
+  {
+    "slug": "fgo-summer-2023-event-summoning-campaign-2-na",
+    "name": "FGO Summer 2023 Event Summoning Campaign 2",
+    "start_date": "2023-08-31",
+    "end_date": "2023-09-20",
+    "region": "NA",
+    "rateups": {
+      "206": "Achilles",
+      "273": "Mandricardo"
+    },
+    "event_id": "fgo-summer-2023-event-na"
+  },
+  {
+    "slug": "fgo-summer-2023-event-summoning-campaign-3-na",
+    "name": "FGO Summer 2023 Event Summoning Campaign 3",
+    "start_date": "2023-09-06",
+    "end_date": "2023-09-20",
+    "region": "NA",
+    "rateups": {
+      "321": "Kama (Avenger)",
+      "322": "Caenis (Rider)",
+      "323": "Sei Shōnagon (Berserker)"
+    },
+    "event_id": "fgo-summer-2023-event-na"
+  },
+  {
+    "slug": "fgo-summer-2023-event-summoning-campaign-4-na",
+    "name": "FGO Summer 2023 Event Summoning Campaign 4",
+    "start_date": "2023-09-13",
+    "end_date": "2023-09-20",
+    "region": "NA",
+    "rateups": {
+      "172": "Christopher Columbus",
+      "297": "Ashiya Dōman"
+    },
+    "event_id": "fgo-summer-2023-event-na"
   },
   {
     "slug": "interlude-campaign-17-summoning-campaign-na",
@@ -14017,7 +13785,7 @@
       "209": "Okita Sōji (Alter)",
       "295": "Van Gogh"
     },
-    "event_id": "interlude-campaign-17-us-na"
+    "event_id": "interlude-campaign-17-na"
   },
   {
     "slug": "fatesamurai-remnant-release-summoning-campaign-na",
@@ -14032,7 +13800,7 @@
       "192": "Circe",
       "235": "Li Shuwen"
     },
-    "event_id": "fatesamurai-remnant-release-campaign-us-na"
+    "event_id": "fatesamurai-remnant-release-campaign-na"
   },
   {
     "slug": "halloween-trilogy-event-summoning-campaign-na",
@@ -14057,7 +13825,7 @@
       "171": "Penthesilea",
       "189": "Osakabehime"
     },
-    "event_id": "halloween-trilogy-event-us-na"
+    "event_id": "halloween-trilogy-event-na"
   },
   {
     "slug": "fategrand-carnival-recollection-summoning-campaign-na",
@@ -14071,7 +13839,7 @@
       "196": "Ereshkigal",
       "224": "Sitonai"
     },
-    "event_id": "fategrand-carnival-recollection-campaign-us-na"
+    "event_id": "fategrand-carnival-recollection-campaign-na"
   },
   {
     "slug": "halloween-2023-event-summoning-campaign-1-na",
@@ -14083,7 +13851,7 @@
       "324": "Jacques de Molay",
       "325": "Zenobia"
     },
-    "event_id": "halloween-2023-event-us-na"
+    "event_id": "halloween-2023-event-na"
   },
   {
     "slug": "halloween-2023-event-summoning-campaign-2-na",
@@ -14096,7 +13864,7 @@
       "126": "Bedivere",
       "212": "Napoléon"
     },
-    "event_id": "halloween-2023-event-us-na"
+    "event_id": "halloween-2023-event-na"
   },
   {
     "slug": "halloween-2023-event-summoning-campaign-3-na",
@@ -14109,7 +13877,7 @@
       "169": "Scheherazade",
       "235": "Li Shuwen"
     },
-    "event_id": "halloween-2023-event-us-na"
+    "event_id": "halloween-2023-event-na"
   },
   {
     "slug": "gudaguda-yamataikoku-2022-revival-summoning-campaign-1-na",
@@ -14123,7 +13891,18 @@
       "292": "Himiko",
       "293": "Saitō Hajime"
     },
-    "event_id": "gudaguda-yamataikoku-2022-revival-us-na"
+    "event_id": "gudaguda-yamataikoku-2022-revival-na"
+  },
+  {
+    "slug": "gudaguda-yamataikoku-2022-revival-fp-summoning-campaign-na",
+    "name": "GUDAGUDA Yamataikoku 2022 Revival FP Summoning Campaign",
+    "start_date": "2023-10-26",
+    "end_date": "2023-11-08",
+    "region": "NA",
+    "rateups": {
+      "294": "Oda Nobukatsu"
+    },
+    "event_id": "gudaguda-yamataikoku-2022-revival-na"
   },
   {
     "slug": "gudaguda-yamataikoku-2022-revival-summoning-campaign-2-na",
@@ -14136,18 +13915,7 @@
       "192": "Circe",
       "268": "Space Ishtar"
     },
-    "event_id": "gudaguda-yamataikoku-2022-revival-us-na"
-  },
-  {
-    "slug": "gudaguda-yamataikoku-2022-revival-fp-summoning-campaign-na",
-    "name": "GUDAGUDA Yamataikoku 2022 Revival FP Summoning Campaign",
-    "start_date": "2023-10-26",
-    "end_date": "2023-11-08",
-    "region": "NA",
-    "rateups": {
-      "294": "Oda Nobukatsu"
-    },
-    "event_id": "gudaguda-yamataikoku-2022-revival-us-na"
+    "event_id": "gudaguda-yamataikoku-2022-revival-na"
   },
   {
     "slug": "cozy-up-for-winter-campaign-2023-summoning-campaign-na",
@@ -14160,7 +13928,7 @@
       "298": "Watanabe no Tsuna",
       "299": "Ibuki Dōji"
     },
-    "event_id": "cozy-up-for-winter-campaign-2023-us-na"
+    "event_id": "cozy-up-for-winter-campaign-2023-na"
   },
   {
     "slug": "gudaguda-ryoumas-narrow-escape-2023-summoning-campaign-1-na",
@@ -14174,7 +13942,7 @@
       "251": "Mori Nagayoshi",
       "327": "Izumo no Okuni"
     },
-    "event_id": "gudaguda-ryoumas-narrow-escape-2023-us-na"
+    "event_id": "gudaguda-ryoumas-narrow-escape-2023-na"
   },
   {
     "slug": "gudaguda-ryoumas-narrow-escape-2023-summoning-campaign-2-na",
@@ -14189,7 +13957,7 @@
       "267": "Okita J Sōji",
       "329": "Sakamoto Ryōma (Lancer)"
     },
-    "event_id": "gudaguda-ryoumas-narrow-escape-2023-us-na"
+    "event_id": "gudaguda-ryoumas-narrow-escape-2023-na"
   },
   {
     "slug": "fgo-thanksgiving-special-2023-summoning-campaign-na",
@@ -14213,7 +13981,7 @@
       "239": "Kama",
       "270": "Astolfo (Saber)"
     },
-    "event_id": "fgo-thanksgiving-special-2023-us-na"
+    "event_id": "fgo-thanksgiving-special-2023-na"
   },
   {
     "slug": "interlude-campaign-18-summoning-campaign-na",
@@ -14225,7 +13993,7 @@
       "198": "Katsushika Hokusai",
       "306": "Galatea"
     },
-    "event_id": "interlude-campaign-18-us-na"
+    "event_id": "interlude-campaign-18-na"
   },
   {
     "slug": "christmas-2023-event-summoning-campaign-na",
@@ -14239,7 +14007,7 @@
       "215": "Scáthach-Skaði",
       "234": "Beni-Enma"
     },
-    "event_id": "christmas-2023-event-us-na"
+    "event_id": "christmas-2023-event-na"
   },
   {
     "slug": "story-clear-support-campaign-part-4-summoning-campaign-1-na",
@@ -14252,7 +14020,7 @@
       "310": "Barghest",
       "311": "Baobhan Sith"
     },
-    "event_id": "story-clear-support-campaign-part-4-us-na"
+    "event_id": "story-clear-support-campaign-part-4-na"
   },
   {
     "slug": "story-clear-support-campaign-part-4-summoning-campaign-2-na",
@@ -14265,7 +14033,7 @@
       "312": "Mélusine",
       "313": "Percival"
     },
-    "event_id": "story-clear-support-campaign-part-4-us-na"
+    "event_id": "story-clear-support-campaign-part-4-na"
   },
   {
     "slug": "tunguska-sanctuary-summoning-campaign-na",
@@ -14277,7 +14045,7 @@
       "331": "Taigong Wang",
       "332": "Dobrynya Nikitich"
     },
-    "event_id": "tunguska-sanctuary-us-na"
+    "event_id": "tunguska-sanctuary-na"
   },
   {
     "slug": "happy-new-year-2024-summoning-campaign-na",
@@ -14288,7 +14056,7 @@
     "rateups": {
       "334": "Koyanskaya of Darkness"
     },
-    "event_id": "happy-new-year-2024-us-na"
+    "event_id": "happy-new-year-2024-na"
   },
   {
     "slug": "happy-new-year-2024-summoning-campaign-2-na",
@@ -14304,7 +14072,7 @@
       "160": "Arthur Pendragon (Prototype)",
       "303": "Taira no Kagekiyo"
     },
-    "event_id": "happy-new-year-2024-us-na"
+    "event_id": "happy-new-year-2024-na"
   },
   {
     "slug": "koyanskaya-of-light-summoning-campaign-na",
@@ -14315,7 +14083,7 @@
     "rateups": {
       "314": "Koyanskaya of Light"
     },
-    "event_id": "koyanskaya-of-light-summoning-campaign-us-na"
+    "event_id": "koyanskaya-of-light-summoning-campaign-na"
   },
   {
     "slug": "lord-el-melloi-ii-case-files-collaboration-event-revival-summoning-campaign-1-na",
@@ -14327,7 +14095,7 @@
       "241": "Sima Yi (Reines)",
       "335": "Hephaestion"
     },
-    "event_id": "lord-el-melloi-ii-case-files-collaboration-event-revival-us-na"
+    "event_id": "lord-el-melloi-ii-case-files-collaboration-event-revival-na"
   },
   {
     "slug": "lord-el-melloi-ii-case-files-collaboration-event-revival-summoning-campaign-2-na",
@@ -14339,7 +14107,7 @@
       "37": "Zhuge Liang (Lord El-Melloi II)",
       "242": "Astraea"
     },
-    "event_id": "lord-el-melloi-ii-case-files-collaboration-event-revival-us-na"
+    "event_id": "lord-el-melloi-ii-case-files-collaboration-event-revival-na"
   },
   {
     "slug": "arc-1-improvements-campaign-part-i-summoning-campaign-1-na",
@@ -14351,7 +14119,7 @@
       "96": "Edmond Dantès",
       "97": "Nightingale"
     },
-    "event_id": "arc-1-improvements-campaign-part-i-us-na"
+    "event_id": "arc-1-improvements-campaign-part-i-na"
   },
   {
     "slug": "arc-1-improvements-campaign-part-i-summoning-campaign-2-na",
@@ -14363,7 +14131,7 @@
       "84": "Arjuna",
       "85": "Karna"
     },
-    "event_id": "arc-1-improvements-campaign-part-i-us-na"
+    "event_id": "arc-1-improvements-campaign-part-i-na"
   },
   {
     "slug": "arc-1-improvements-campaign-part-ii-summoning-campaign-na",
@@ -14375,7 +14143,22 @@
       "142": "Ishtar",
       "196": "Ereshkigal"
     },
-    "event_id": "arc-1-improvements-campaign-part-ii-us-na"
+    "event_id": "arc-1-improvements-campaign-part-ii-na"
+  },
+  {
+    "slug": "valentine-2024-event-pre-release-summoning-campaign-na",
+    "name": "Valentine 2024 Event Pre-Release Summoning Campaign",
+    "start_date": "2024-01-28",
+    "end_date": "2024-02-04",
+    "region": "NA",
+    "rateups": {
+      "90": "Nero Claudius (Bride)",
+      "155": "Mysterious Heroine X (Alter)",
+      "199": "Semiramis",
+      "237": "Murasaki Shikibu",
+      "276": "Sei Shōnagon"
+    },
+    "event_id": "valentine-2024-event-na"
   },
   {
     "slug": "valentine-2024-event-summoning-campaign-1-na",
@@ -14386,7 +14169,7 @@
     "rateups": {
       "336": "Manannán mac Lir (Bazett)"
     },
-    "event_id": "valentine-2024-event-us-na"
+    "event_id": "valentine-2024-event-na"
   },
   {
     "slug": "valentine-2024-event-summoning-campaign-2-na",
@@ -14419,22 +14202,7 @@
       "300": "Vritra",
       "306": "Galatea"
     },
-    "event_id": "valentine-2024-event-us-na"
-  },
-  {
-    "slug": "valentine-2024-event-pre-release-summoning-campaign-na",
-    "name": "Valentine 2024 Event Pre-Release Summoning Campaign",
-    "start_date": "2024-01-28",
-    "end_date": "2024-02-04",
-    "region": "NA",
-    "rateups": {
-      "90": "Nero Claudius (Bride)",
-      "155": "Mysterious Heroine X (Alter)",
-      "199": "Semiramis",
-      "237": "Murasaki Shikibu",
-      "276": "Sei Shōnagon"
-    },
-    "event_id": "valentine-2024-event-us-na"
+    "event_id": "valentine-2024-event-na"
   },
   {
     "slug": "valentine-2023-summoning-campaign-revival-na",
@@ -14445,18 +14213,7 @@
     "rateups": {
       "305": "Amor (Caren)"
     },
-    "event_id": "valentine-2024-event-us-na"
-  },
-  {
-    "slug": "valentine-2023-summoning-campaign-revival-na-1",
-    "name": "Valentine 2023 Summoning Campaign Revival",
-    "start_date": "2024-02-07",
-    "end_date": "2024-02-14",
-    "region": "NA",
-    "rateups": {
-      "305": "Amor (Caren)"
-    },
-    "event_id": "valentine-2023-summoning-campaign-revival-us-na"
+    "event_id": "valentine-2024-event-na"
   },
   {
     "slug": "story-clear-support-campaign-part-5-summoning-campaign-na",
@@ -14469,7 +14226,7 @@
       "311": "Baobhan Sith",
       "316": "Oberon"
     },
-    "event_id": "story-clear-support-campaign-part-5-us-na"
+    "event_id": "story-clear-support-campaign-part-5-na"
   },
   {
     "slug": "james-moriarty-summoning-campaign-na",
@@ -14480,7 +14237,33 @@
     "rateups": {
       "156": "James Moriarty"
     },
-    "event_id": "james-moriarty-summoning-campaign-us-na"
+    "event_id": "james-moriarty-summoning-campaign-na"
+  },
+  {
+    "slug": "white-day-2024-event-pre-release-summoning-campaign-1-na",
+    "name": "White Day 2024 Event Pre-Release Summoning Campaign 1",
+    "start_date": "2024-02-15",
+    "end_date": "2024-02-22",
+    "region": "NA",
+    "rateups": {
+      "163": "Meltryllis",
+      "164": "Passionlip",
+      "165": "Suzuka Gozen",
+      "238": "Kingprotea"
+    },
+    "event_id": "white-day-2024-event-na"
+  },
+  {
+    "slug": "white-day-2024-event-pre-release-summoning-campaign-2-na",
+    "name": "White Day 2024 Event Pre-Release Summoning Campaign 2",
+    "start_date": "2024-02-19",
+    "end_date": "2024-02-28",
+    "region": "NA",
+    "rateups": {
+      "157": "EMIYA (Alter)",
+      "220": "BB (Summer)"
+    },
+    "event_id": "white-day-2024-event-na"
   },
   {
     "slug": "chaldea-boys-collection-2024-summoning-campaign-na",
@@ -14510,63 +14293,7 @@
       "296": "Nemo",
       "331": "Taigong Wang"
     },
-    "event_id": "chaldea-boys-collection-2024-us-na"
-  },
-  {
-    "slug": "white-day-2024-event-pre-release-summoning-campaign-1-na",
-    "name": "White Day 2024 Event Pre-Release Summoning Campaign 1",
-    "start_date": "2024-02-15",
-    "end_date": "2024-02-22",
-    "region": "NA",
-    "rateups": {
-      "163": "Meltryllis",
-      "164": "Passionlip",
-      "165": "Suzuka Gozen",
-      "238": "Kingprotea"
-    },
-    "event_id": "white-day-2024-event-us-na"
-  },
-  {
-    "slug": "white-day-2024-event-pre-release-summoning-campaign-2-na",
-    "name": "White Day 2024 Event Pre-Release Summoning Campaign 2",
-    "start_date": "2024-02-19",
-    "end_date": "2024-02-28",
-    "region": "NA",
-    "rateups": {
-      "157": "EMIYA (Alter)",
-      "220": "BB (Summer)"
-    },
-    "event_id": "white-day-2024-event-us-na"
-  },
-  {
-    "slug": "chaldea-boys-collection-2024-summoning-campaign-na-1",
-    "name": "Chaldea Boys Collection 2024 Summoning Campaign",
-    "start_date": "2024-03-01",
-    "end_date": "2024-03-14",
-    "region": "NA",
-    "rateups": {
-      "37": "Zhuge Liang (Lord El-Melloi II)",
-      "52": "Vlad III",
-      "77": "Nikola Tesla",
-      "79": "Paracelsus von Hohenheim",
-      "84": "Arjuna",
-      "85": "Karna",
-      "98": "Cú Chulainn (Alter)",
-      "118": "Ozymandias",
-      "123": "Gawain",
-      "143": "Enkidu",
-      "206": "Achilles",
-      "212": "Napoléon",
-      "226": "Xiang Yu",
-      "235": "Li Shuwen",
-      "247": "Arjuna (Alter)",
-      "277": "Odysseus",
-      "278": "Dioscuri",
-      "293": "Saitō Hajime",
-      "296": "Nemo",
-      "331": "Taigong Wang"
-    },
-    "event_id": "white-day-2024-event-us-na"
+    "event_id": "white-day-2024-event-na"
   },
   {
     "slug": "road-to-7-lostbelt-no1-summoning-campaign-na",
@@ -14581,7 +14308,7 @@
       "204": "Antonio Salieri",
       "205": "Ivan the Terrible"
     },
-    "event_id": "road-to-7-lostbelt-no1-campaign-us-na"
+    "event_id": "road-to-7-lostbelt-no1-campaign-na"
   },
   {
     "slug": "merlin-summoning-campaign-na",
@@ -14592,7 +14319,7 @@
     "rateups": {
       "150": "Merlin"
     },
-    "event_id": "merlin-summoning-campaign-us-na"
+    "event_id": "merlin-summoning-campaign-na"
   },
   {
     "slug": "battle-in-new-york-2024-summoning-campaign-1-na",
@@ -14606,7 +14333,7 @@
       "103": "Thomas Edison",
       "277": "Odysseus"
     },
-    "event_id": "battle-in-new-york-2024-us-na"
+    "event_id": "battle-in-new-york-2024-na"
   },
   {
     "slug": "battle-in-new-york-2024-summoning-campaign-2-na",
@@ -14618,7 +14345,7 @@
       "12": "Gilgamesh",
       "145": "Gilgamesh (Caster)"
     },
-    "event_id": "battle-in-new-york-2024-us-na"
+    "event_id": "battle-in-new-york-2024-na"
   },
   {
     "slug": "road-to-7-lostbelt-no2-summoning-campaign-na",
@@ -14634,7 +14361,7 @@
       "215": "Scáthach-Skaði",
       "224": "Sitonai"
     },
-    "event_id": "road-to-7-lostbelt-no2-campaign-us-na"
+    "event_id": "road-to-7-lostbelt-no2-campaign-na"
   },
   {
     "slug": "water-monsters-crisis-summoning-campaign-1-na",
@@ -14646,7 +14373,7 @@
       "266": "Mysterious Alter Ego Λ",
       "337": "Trung Sisters"
     },
-    "event_id": "water-monsters-crisis-us-na"
+    "event_id": "water-monsters-crisis-na"
   },
   {
     "slug": "water-monsters-crisis-summoning-campaign-2-na",
@@ -14658,42 +14385,7 @@
       "170": "Wu Zetian",
       "309": "Morgan"
     },
-    "event_id": "water-monsters-crisis-us-na"
-  },
-  {
-    "slug": "fgo-learning-with-manga-collaboration-event-summoning-campaign-1-na",
-    "name": "FGO Learning With Manga Collaboration Event Summoning Campaign 1",
-    "start_date": "2024-04-19",
-    "end_date": "2024-05-09",
-    "region": "NA",
-    "rateups": {
-      "339": "Super Bunyan",
-      "340": "Daikokuten"
-    },
-    "event_id": "fgo-learning-with-manga-collaboration-event-us-na"
-  },
-  {
-    "slug": "fgo-learning-with-manga-collaboration-event-summoning-campaign-2-na",
-    "name": "FGO Learning With Manga Collaboration Event Summoning Campaign 2",
-    "start_date": "2024-04-24",
-    "end_date": "2024-05-09",
-    "region": "NA",
-    "rateups": {
-      "62": "Tamamo no Mae",
-      "340": "Daikokuten"
-    },
-    "event_id": "fgo-learning-with-manga-collaboration-event-us-na"
-  },
-  {
-    "slug": "fgo-learning-with-manga-collaboration-event-fp-summoning-campaign-na",
-    "name": "FGO Learning With Manga Collaboration Event FP Summoning Campaign",
-    "start_date": "2024-04-19",
-    "end_date": "2024-05-09",
-    "region": "NA",
-    "rateups": {
-      "341": "Mary Anning"
-    },
-    "event_id": "fgo-learning-with-manga-collaboration-event-us-na"
+    "event_id": "water-monsters-crisis-na"
   },
   {
     "slug": "fgo-learning-with-manga-collaboration-event-pre-release-summoning-campaign-na",
@@ -14711,7 +14403,42 @@
       "253": "Leonardo Da Vinci (Rider)",
       "270": "Astolfo (Saber)"
     },
-    "event_id": "fgo-learning-with-manga-collaboration-event-us-na"
+    "event_id": "fgo-learning-with-manga-collaboration-event-na"
+  },
+  {
+    "slug": "fgo-learning-with-manga-collaboration-event-summoning-campaign-1-na",
+    "name": "FGO Learning With Manga Collaboration Event Summoning Campaign 1",
+    "start_date": "2024-04-19",
+    "end_date": "2024-05-09",
+    "region": "NA",
+    "rateups": {
+      "339": "Super Bunyan",
+      "340": "Daikokuten"
+    },
+    "event_id": "fgo-learning-with-manga-collaboration-event-na"
+  },
+  {
+    "slug": "fgo-learning-with-manga-collaboration-event-fp-summoning-campaign-na",
+    "name": "FGO Learning With Manga Collaboration Event FP Summoning Campaign",
+    "start_date": "2024-04-19",
+    "end_date": "2024-05-09",
+    "region": "NA",
+    "rateups": {
+      "341": "Mary Anning"
+    },
+    "event_id": "fgo-learning-with-manga-collaboration-event-na"
+  },
+  {
+    "slug": "fgo-learning-with-manga-collaboration-event-summoning-campaign-2-na",
+    "name": "FGO Learning With Manga Collaboration Event Summoning Campaign 2",
+    "start_date": "2024-04-24",
+    "end_date": "2024-05-09",
+    "region": "NA",
+    "rateups": {
+      "62": "Tamamo no Mae",
+      "340": "Daikokuten"
+    },
+    "event_id": "fgo-learning-with-manga-collaboration-event-na"
   },
   {
     "slug": "20m-downloads-summoning-campaign-1-na",
@@ -14725,7 +14452,7 @@
       "311": "Baobhan Sith",
       "313": "Percival"
     },
-    "event_id": "20m-downloads-campaign-us-na"
+    "event_id": "20m-downloads-campaign-na"
   },
   {
     "slug": "20m-downloads-summoning-campaign-2-na",
@@ -14741,7 +14468,30 @@
       "307": "Miss Crane",
       "324": "Jacques de Molay"
     },
-    "event_id": "20m-downloads-campaign-us-na"
+    "event_id": "20m-downloads-campaign-na"
+  },
+  {
+    "slug": "traum-pre-release-campaign-part-1-summoning-campaign-na",
+    "name": "Traum Pre-Release Campaign Part 1 Summoning Campaign",
+    "start_date": "2024-05-01",
+    "end_date": "2024-05-22",
+    "region": "NA",
+    "rateups": {
+      "342": "Constantine XI"
+    },
+    "event_id": "traum-chapter-release-na"
+  },
+  {
+    "slug": "traum-pre-release-campaign-part-2-summoning-campaign-na",
+    "name": "Traum Pre-Release Campaign Part 2 Summoning Campaign",
+    "start_date": "2024-05-09",
+    "end_date": "2024-05-15",
+    "region": "NA",
+    "rateups": {
+      "331": "Taigong Wang",
+      "332": "Dobrynya Nikitich"
+    },
+    "event_id": "traum-chapter-release-na"
   },
   {
     "slug": "traum-chapter-release-summoning-campaign-na",
@@ -14754,30 +14504,7 @@
       "344": "Roland",
       "345": "Kriemhild"
     },
-    "event_id": "traum-chapter-release-us-na"
-  },
-  {
-    "slug": "traum-pre-release-campaign-part-1-summoning-campaign-na",
-    "name": "Traum Pre-Release Campaign Part 1 Summoning Campaign",
-    "start_date": "2024-05-01",
-    "end_date": "2024-05-22",
-    "region": "NA",
-    "rateups": {
-      "342": "Constantine XI"
-    },
-    "event_id": "traum-chapter-release-us-na"
-  },
-  {
-    "slug": "traum-pre-release-campaign-part-2-summoning-campaign-na",
-    "name": "Traum Pre-Release Campaign Part 2 Summoning Campaign",
-    "start_date": "2024-05-09",
-    "end_date": "2024-05-15",
-    "region": "NA",
-    "rateups": {
-      "331": "Taigong Wang",
-      "332": "Dobrynya Nikitich"
-    },
-    "event_id": "traum-chapter-release-us-na"
+    "event_id": "traum-chapter-release-na"
   },
   {
     "slug": "traum-summoning-campaign-2-na",
@@ -14790,7 +14517,7 @@
       "347": "Don Quixote",
       "348": "Zhang Jue"
     },
-    "event_id": "traum-chapter-release-us-na"
+    "event_id": "traum-chapter-release-na"
   },
   {
     "slug": "traum-summoning-campaign-3-summoning-campaign-na",
@@ -14802,7 +14529,7 @@
       "6": "Siegfried",
       "173": "Sherlock Holmes"
     },
-    "event_id": "traum-chapter-release-us-na"
+    "event_id": "traum-chapter-release-na"
   },
   {
     "slug": "charlemagne-release-commemorative-summoning-campaign-na",
@@ -14821,7 +14548,7 @@
       "108": "Iskandar",
       "123": "Gawain"
     },
-    "event_id": "charlemagne-release-commemorative-campaign-us-na"
+    "event_id": "charlemagne-release-commemorative-campaign-na"
   },
   {
     "slug": "grail-front-event-moonsault-operation-summoning-campaign-1-na",
@@ -14832,7 +14559,7 @@
     "rateups": {
       "244": "Jinako Carigiri"
     },
-    "event_id": "grail-front-event-moonsault-operation-us-na"
+    "event_id": "grail-front-event-moonsault-operation-na"
   },
   {
     "slug": "grail-front-event-moonsault-operation-summoning-campaign-2-na",
@@ -14843,7 +14570,7 @@
     "rateups": {
       "220": "BB (Summer)"
     },
-    "event_id": "grail-front-event-moonsault-operation-us-na"
+    "event_id": "grail-front-event-moonsault-operation-na"
   },
   {
     "slug": "road-to-7-lostbelt-no3-summoning-campaign-na",
@@ -14861,7 +14588,7 @@
       "231": "Red Hare",
       "235": "Li Shuwen"
     },
-    "event_id": "road-to-7-lostbelt-no3-campaign-us-na"
+    "event_id": "road-to-7-lostbelt-no3-campaign-na"
   },
   {
     "slug": "nanmei-yumihari-eight-dog-chronicles-summoning-campaign-1-na",
@@ -14874,7 +14601,7 @@
       "210": "Okada Izō",
       "349": "Kyokutei Bakin"
     },
-    "event_id": "nanmei-yumihari-eight-dog-chronicles-us-na"
+    "event_id": "nanmei-yumihari-eight-dog-chronicles-na"
   },
   {
     "slug": "nanmei-yumihari-eight-dog-chronicles-summoning-campaign-2-na",
@@ -14887,7 +14614,7 @@
       "210": "Okada Izō",
       "350": "Minamoto no Tametomo"
     },
-    "event_id": "nanmei-yumihari-eight-dog-chronicles-us-na"
+    "event_id": "nanmei-yumihari-eight-dog-chronicles-na"
   },
   {
     "slug": "nanmei-yumihari-eight-dog-chronicles-summoning-campaign-3-na",
@@ -14900,7 +14627,7 @@
       "198": "Katsushika Hokusai",
       "210": "Okada Izō"
     },
-    "event_id": "nanmei-yumihari-eight-dog-chronicles-us-na"
+    "event_id": "nanmei-yumihari-eight-dog-chronicles-na"
   },
   {
     "slug": "nanmei-yumihari-eight-dog-chronicles-summoning-campaign-4-na",
@@ -14913,7 +14640,7 @@
       "269": "Calamity Jane",
       "272": "Super Orion"
     },
-    "event_id": "nanmei-yumihari-eight-dog-chronicles-us-na"
+    "event_id": "nanmei-yumihari-eight-dog-chronicles-na"
   },
   {
     "slug": "ooku-main-interlude-release-summoning-campaign-na",
@@ -14927,7 +14654,7 @@
       "183": "Parvati",
       "239": "Kama"
     },
-    "event_id": "ooku-main-interlude-release-campaign-us-na"
+    "event_id": "ooku-main-interlude-release-campaign-na"
   },
   {
     "slug": "fgo-7th-anniversary-countdown-summoning-campaign-na",
@@ -14952,39 +14679,7 @@
       "287": "Brynhildr (Berserker)",
       "290": "Tomoe Gozen (Saber)"
     },
-    "event_id": "fgo-7th-anniversary-countdown-campaign-us-na"
-  },
-  {
-    "slug": "fgo-festival-2024-7th-anniversary-summoning-campaign-1-na",
-    "name": "FGO Festival 2024 ~7th Anniversary~ Summoning Campaign 1",
-    "start_date": "2024-07-06",
-    "end_date": "2024-07-16",
-    "region": "NA",
-    "rateups": {
-      "351": "Archetype: Earth",
-      "352": "Xu Fu"
-    },
-    "event_id": "fgo-festival-2024-7th-anniversary-us-na"
-  },
-  {
-    "slug": "fgo-festival-2024-7th-anniversary-summoning-campaign-2-na",
-    "name": "FGO Festival 2024 ~7th Anniversary~ Summoning Campaign 2",
-    "start_date": "2024-07-09",
-    "end_date": "2024-07-17",
-    "region": "NA",
-    "rateups": {
-      "86": "Mysterious Heroine X",
-      "91": "Ryōgi Shiki (Saber)",
-      "136": "Illyasviel von Einzbern",
-      "175": "Nero Claudius (Caster)",
-      "218": "Ushiwakamaru (Assassin)",
-      "261": "Miyamoto Musashi (Berserker)",
-      "281": "Voyager",
-      "289": "Abigail Williams (Summer)",
-      "291": "Murasaki Shikibu (Rider)",
-      "352": "Xu Fu"
-    },
-    "event_id": "fgo-festival-2024-7th-anniversary-us-na"
+    "event_id": "fgo-7th-anniversary-countdown-campaign-na"
   },
   {
     "slug": "fgo-7th-anniversary-countdown-summoning-campaign-na-1",
@@ -15009,7 +14704,39 @@
       "287": "Brynhildr (Berserker)",
       "290": "Tomoe Gozen (Saber)"
     },
-    "event_id": "fgo-festival-2024-7th-anniversary-us-na"
+    "event_id": "fgo-festival-2024-7th-anniversary-na"
+  },
+  {
+    "slug": "fgo-festival-2024-7th-anniversary-summoning-campaign-1-na",
+    "name": "FGO Festival 2024 ~7th Anniversary~ Summoning Campaign 1",
+    "start_date": "2024-07-06",
+    "end_date": "2024-07-16",
+    "region": "NA",
+    "rateups": {
+      "351": "Archetype: Earth",
+      "352": "Xu Fu"
+    },
+    "event_id": "fgo-festival-2024-7th-anniversary-na"
+  },
+  {
+    "slug": "fgo-festival-2024-7th-anniversary-summoning-campaign-2-na",
+    "name": "FGO Festival 2024 ~7th Anniversary~ Summoning Campaign 2",
+    "start_date": "2024-07-09",
+    "end_date": "2024-07-17",
+    "region": "NA",
+    "rateups": {
+      "86": "Mysterious Heroine X",
+      "91": "Ryōgi Shiki (Saber)",
+      "136": "Illyasviel von Einzbern",
+      "175": "Nero Claudius (Caster)",
+      "218": "Ushiwakamaru (Assassin)",
+      "261": "Miyamoto Musashi (Berserker)",
+      "281": "Voyager",
+      "289": "Abigail Williams (Summer)",
+      "291": "Murasaki Shikibu (Rider)",
+      "352": "Xu Fu"
+    },
+    "event_id": "fgo-festival-2024-7th-anniversary-na"
   },
   {
     "slug": "fgo-summer-2024-event-summoning-campaign-1-na",
@@ -15021,7 +14748,7 @@
       "353": "Lady Avalon",
       "354": "Gareth (Saber)"
     },
-    "event_id": "fgo-summer-2024-event-us-na"
+    "event_id": "fgo-summer-2024-event-na"
   },
   {
     "slug": "fgo-summer-2024-event-summoning-campaign-2-na",
@@ -15034,7 +14761,7 @@
       "249": "Asclepius",
       "297": "Ashiya Dōman"
     },
-    "event_id": "fgo-summer-2024-event-us-na"
+    "event_id": "fgo-summer-2024-event-na"
   },
   {
     "slug": "fgo-summer-2024-event-summoning-campaign-3-na",
@@ -15046,7 +14773,7 @@
       "355": "Ibuki Dōji (Berserker)",
       "356": "Utsumi Erice (Avenger)"
     },
-    "event_id": "fgo-summer-2024-event-us-na"
+    "event_id": "fgo-summer-2024-event-na"
   },
   {
     "slug": "fgo-summer-2024-event-summoning-campaign-4-na",
@@ -15058,20 +14785,7 @@
       "357": "Scáthach-Skaði (Ruler)",
       "358": "Wu Zetian (Caster)"
     },
-    "event_id": "fgo-summer-2024-event-us-na"
-  },
-  {
-    "slug": "fgo-summer-2024-event-summoning-campaign-5-na",
-    "name": "FGO Summer 2024 Event Summoning Campaign 5",
-    "start_date": "2024-08-01",
-    "end_date": "2024-08-07",
-    "region": "NA",
-    "rateups": {
-      "96": "Edmond Dantès",
-      "222": "Mysterious Heroine XX",
-      "262": "Osakabehime (Archer)"
-    },
-    "event_id": "fgo-summer-2024-event-us-na"
+    "event_id": "fgo-summer-2024-event-na"
   },
   {
     "slug": "fgo-summer-2023-revival-summoning-campaign-na",
@@ -15087,23 +14801,20 @@
       "322": "Caenis (Rider)",
       "323": "Sei Shōnagon (Berserker)"
     },
-    "event_id": "fgo-summer-2024-event-us-na"
+    "event_id": "fgo-summer-2024-event-na"
   },
   {
-    "slug": "fgo-summer-2023-revival-summoning-campaign-na-1",
-    "name": "FGO Summer 2023 Revival Summoning Campaign",
-    "start_date": "2024-07-28",
+    "slug": "fgo-summer-2024-event-summoning-campaign-5-na",
+    "name": "FGO Summer 2024 Event Summoning Campaign 5",
+    "start_date": "2024-08-01",
     "end_date": "2024-08-07",
     "region": "NA",
     "rateups": {
-      "317": "Okita Sōji (Saber Alter)",
-      "318": "Anastasia & Viy",
-      "319": "Charlotte Corday (Caster)",
-      "321": "Kama (Avenger)",
-      "322": "Caenis (Rider)",
-      "323": "Sei Shōnagon (Berserker)"
+      "96": "Edmond Dantès",
+      "222": "Mysterious Heroine XX",
+      "262": "Osakabehime (Archer)"
     },
-    "event_id": "fgo-summer-2023-revival-summoning-campaign-us-na"
+    "event_id": "fgo-summer-2024-event-na"
   },
   {
     "slug": "fatestay-night-20th-anniversary-celebration-summoning-campaign-na",
@@ -15119,7 +14830,7 @@
       "31": "Medea",
       "47": "Heracles"
     },
-    "event_id": "fatestay-night-20th-anniversary-celebration-campaign-us-na"
+    "event_id": "fatestay-night-20th-anniversary-celebration-campaign-na"
   },
   {
     "slug": "21m-downloads-summoning-campaign-1-na",
@@ -15131,7 +14842,7 @@
       "268": "Space Ishtar",
       "269": "Calamity Jane"
     },
-    "event_id": "21m-downloads-campaign-us-na"
+    "event_id": "21m-downloads-campaign-na"
   },
   {
     "slug": "21m-downloads-summoning-campaign-2-na",
@@ -15147,7 +14858,7 @@
       "196": "Ereshkigal",
       "299": "Ibuki Dōji"
     },
-    "event_id": "21m-downloads-campaign-us-na"
+    "event_id": "21m-downloads-campaign-na"
   },
   {
     "slug": "road-to-7-lostbelt-no4-summoning-campaign-na",
@@ -15166,7 +14877,7 @@
       "248": "Aśvatthāman",
       "249": "Asclepius"
     },
-    "event_id": "road-to-7-lostbelt-no4-campaign-us-na"
+    "event_id": "road-to-7-lostbelt-no4-campaign-na"
   },
   {
     "slug": "anime-nyc-2024-summoning-campaign-na",
@@ -15178,7 +14889,7 @@
       "11": "EMIYA",
       "12": "Gilgamesh"
     },
-    "event_id": "anime-nyc-2024-campaign-us-na"
+    "event_id": "anime-nyc-2024-campaign-na"
   },
   {
     "slug": "back-to-school-campaign-2024-summoning-campaign-na",
@@ -15190,7 +14901,7 @@
       "3": "Artoria Pendragon (Alter)",
       "314": "Koyanskaya of Light"
     },
-    "event_id": "back-to-school-campaign-2024-us-na"
+    "event_id": "back-to-school-campaign-2024-na"
   },
   {
     "slug": "gudaguda-new-yamataikoku-2024-summoning-campaign-1-na",
@@ -15203,7 +14914,7 @@
       "362": "Sen no Rikyū",
       "363": "Yamanami Keisuke"
     },
-    "event_id": "gudaguda-new-yamataikoku-2024-us-na"
+    "event_id": "gudaguda-new-yamataikoku-2024-na"
   },
   {
     "slug": "gudaguda-new-yamataikoku-2024-summoning-campaign-2-na",
@@ -15224,7 +14935,7 @@
       "327": "Izumo no Okuni",
       "329": "Sakamoto Ryōma (Lancer)"
     },
-    "event_id": "gudaguda-new-yamataikoku-2024-us-na"
+    "event_id": "gudaguda-new-yamataikoku-2024-na"
   },
   {
     "slug": "road-to-7-lostbelt-no5-atlantis-summoning-campaign-na",
@@ -15243,7 +14954,7 @@
       "273": "Mandricardo",
       "277": "Odysseus"
     },
-    "event_id": "road-to-7-lostbelt-no5-atlantis-campaign-us-na"
+    "event_id": "road-to-7-lostbelt-no5-atlantis-campaign-na"
   },
   {
     "slug": "road-to-7-lostbelt-no5-olympus-summoning-campaign-na",
@@ -15259,7 +14970,7 @@
       "279": "Caenis",
       "280": "Romulus-Quirinus"
     },
-    "event_id": "road-to-7-lostbelt-no5-olympus-campaign-us-na"
+    "event_id": "road-to-7-lostbelt-no5-olympus-campaign-na"
   },
   {
     "slug": "imaginary-scramble-main-interlude-release-summoning-campaign-na",
@@ -15275,7 +14986,7 @@
       "295": "Van Gogh",
       "296": "Nemo"
     },
-    "event_id": "imaginary-scramble-main-interlude-release-campaign-us-na"
+    "event_id": "imaginary-scramble-main-interlude-release-campaign-na"
   },
   {
     "slug": "halloween-2024-event-summoning-campaign-1-na",
@@ -15287,7 +14998,7 @@
       "365": "Huyan Zhuo",
       "366": "Huang Feihu"
     },
-    "event_id": "halloween-2024-event-us-na"
+    "event_id": "halloween-2024-event-na"
   },
   {
     "slug": "halloween-2024-event-summoning-campaign-2-na",
@@ -15305,7 +15016,7 @@
       "324": "Jacques de Molay",
       "331": "Taigong Wang"
     },
-    "event_id": "halloween-2024-event-us-na"
+    "event_id": "halloween-2024-event-na"
   },
   {
     "slug": "halloween-revival-2024-summoning-campaign-na",
@@ -15317,19 +15028,7 @@
       "52": "Vlad III",
       "189": "Osakabehime"
     },
-    "event_id": "halloween-2024-event-us-na"
-  },
-  {
-    "slug": "halloween-revival-2024-summoning-campaign-na-1",
-    "name": "Halloween Revival 2024 Summoning Campaign",
-    "start_date": "2024-10-21",
-    "end_date": "2024-10-27",
-    "region": "NA",
-    "rateups": {
-      "52": "Vlad III",
-      "189": "Osakabehime"
-    },
-    "event_id": "halloween-revival-2024-summoning-campaign-us-na"
+    "event_id": "halloween-2024-event-na"
   },
   {
     "slug": "singularity-repair-support-campaign-part-6-summoning-campaign-1-na",
@@ -15345,7 +15044,7 @@
       "59": "Jeanne d'Arc",
       "106": "Jeanne d'Arc (Alter)"
     },
-    "event_id": "singularity-repair-support-campaign-part-6-us-na"
+    "event_id": "singularity-repair-support-campaign-part-6-na"
   },
   {
     "slug": "singularity-repair-support-campaign-part-6-summoning-campaign-2-na",
@@ -15361,7 +15060,7 @@
       "41": "Stheno",
       "58": "Tamamo Cat"
     },
-    "event_id": "singularity-repair-support-campaign-part-6-us-na"
+    "event_id": "singularity-repair-support-campaign-part-6-na"
   },
   {
     "slug": "singularity-repair-support-campaign-part-6-summoning-campaign-3-na",
@@ -15375,7 +15074,7 @@
       "66": "Anne Bonny & Mary Read",
       "67": "Medea (Lily)"
     },
-    "event_id": "singularity-repair-support-campaign-part-6-us-na"
+    "event_id": "singularity-repair-support-campaign-part-6-na"
   },
   {
     "slug": "singularity-repair-support-campaign-part-6-summoning-campaign-4-na",
@@ -15391,7 +15090,7 @@
       "80": "Charles Babbage",
       "81": "Henry Jekyll & Hyde"
     },
-    "event_id": "singularity-repair-support-campaign-part-6-us-na"
+    "event_id": "singularity-repair-support-campaign-part-6-na"
   },
   {
     "slug": "singularity-repair-support-campaign-part-6-summoning-campaign-5-na",
@@ -15402,11 +15101,11 @@
     "rateups": {
       "96": "Edmond Dantès"
     },
-    "event_id": "singularity-repair-support-campaign-part-6-us-na"
+    "event_id": "singularity-repair-support-campaign-part-6-na"
   },
   {
-    "slug": "singularity-repair-support-campaign-part-6-summoning-campaign-vi-na",
-    "name": "Singularity Repair Support Campaign Part 6 Summoning Campaign VI",
+    "slug": "singularity-repair-support-campaign-part-6-summoning-campaign-6-na",
+    "name": "Singularity Repair Support Campaign Part 6 Summoning Campaign 6",
     "start_date": "2024-11-12",
     "end_date": "2024-11-16",
     "region": "NA",
@@ -15418,11 +15117,11 @@
       "103": "Thomas Edison",
       "104": "Geronimo"
     },
-    "event_id": "singularity-repair-support-campaign-part-6-us-na"
+    "event_id": "singularity-repair-support-campaign-part-6-na"
   },
   {
-    "slug": "singularity-repair-support-campaign-part-6-summoning-campaign-vii-na",
-    "name": "Singularity Repair Support Campaign Part 6 Summoning Campaign VII",
+    "slug": "singularity-repair-support-campaign-part-6-summoning-campaign-7-na",
+    "name": "Singularity Repair Support Campaign Part 6 Summoning Campaign 7",
     "start_date": "2024-11-16",
     "end_date": "2024-11-18",
     "region": "NA",
@@ -15432,7 +15131,34 @@
       "123": "Gawain",
       "126": "Bedivere"
     },
-    "event_id": "singularity-repair-support-campaign-part-6-us-na"
+    "event_id": "singularity-repair-support-campaign-part-6-na"
+  },
+  {
+    "slug": "singularity-repair-support-campaign-part-6-summoning-campaign-8-na",
+    "name": "Singularity Repair Support Campaign Part 6 Summoning Campaign 8",
+    "start_date": "2024-11-18",
+    "end_date": "2024-11-22",
+    "region": "NA",
+    "rateups": {
+      "27": "Ushiwakamaru",
+      "143": "Enkidu",
+      "144": "Quetzalcoatl",
+      "146": "Medusa (Lancer)",
+      "147": "Gorgon",
+      "148": "Jaguar Man"
+    },
+    "event_id": "singularity-repair-support-campaign-part-6-na"
+  },
+  {
+    "slug": "chaldea-tam-lin-cup-pre-release-summoning-campaign-na",
+    "name": "Chaldea Tam Lin Cup Pre-Release Summoning Campaign",
+    "start_date": "2024-10-31",
+    "end_date": "2024-11-07",
+    "region": "NA",
+    "rateups": {
+      "309": "Morgan"
+    },
+    "event_id": "chaldea-tam-lin-cup-na"
   },
   {
     "slug": "chaldea-tam-lin-cup-summoning-campaign-1-na",
@@ -15445,7 +15171,7 @@
       "311": "Baobhan Sith",
       "368": "Britomart"
     },
-    "event_id": "chaldea-tam-lin-cup-us-na"
+    "event_id": "chaldea-tam-lin-cup-na"
   },
   {
     "slug": "chaldea-tam-lin-cup-summoning-campaign-2-na",
@@ -15458,7 +15184,7 @@
       "343": "Charlemagne",
       "344": "Roland"
     },
-    "event_id": "chaldea-tam-lin-cup-us-na"
+    "event_id": "chaldea-tam-lin-cup-na"
   },
   {
     "slug": "chaldea-tam-lin-cup-summoning-campaign-3-na",
@@ -15474,17 +15200,6 @@
       "213": "Sigurd",
       "345": "Kriemhild"
     },
-    "event_id": "chaldea-tam-lin-cup-us-na"
-  },
-  {
-    "slug": "chaldea-tam-lin-cup-pre-release-summoning-campaign-na",
-    "name": "Chaldea Tam Lin Cup Pre-Release Summoning Campaign",
-    "start_date": "2024-10-31",
-    "end_date": "2024-11-07",
-    "region": "NA",
-    "rateups": {
-      "309": "Morgan"
-    },
-    "event_id": "chaldea-tam-lin-cup-us-na"
+    "event_id": "chaldea-tam-lin-cup-na"
   }
 ]

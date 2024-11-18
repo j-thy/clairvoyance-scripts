@@ -24,16 +24,16 @@ if args.servants:
 
 if args.banners:
     banner_init()
-    parse_and_create(EVENT_LIST_NA, EVENT_SET_NA, "NA")
-    parse_and_create(EVENT_LIST_JP, EVENT_SET_JP, "JP")
+    event_set_na = parse_and_create(EVENT_LIST_NA, "NA")
+    event_set_jp = parse_and_create(EVENT_LIST_JP, "JP")
 
     # Create the JSON representation for event data
     print("Creating event JSON data...")
-    create_event_json(EVENT_SET_JP, EVENT_SET_NA)
+    create_event_json(event_set_jp, event_set_na)
     print("Creating banner JSON data...")
-    create_banner_json(EVENT_SET_JP, EVENT_SET_NA)
+    create_banner_json(event_set_jp, event_set_na)
     print("Creating servant JSON data...")
-    create_servant_json(EVENT_SET_JP, EVENT_SET_NA)
+    create_servant_json(event_set_jp, event_set_na)
 
 if args.images:
     print("Downloading images...")
