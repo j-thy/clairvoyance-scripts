@@ -8463,7 +8463,7 @@
         "date_origin": "event header jp new",
         "rateups": {
           "386": "Artoria Caster (Berserker)",
-          "387": "Suzuka Gozen (Summer Vacation)",
+          "387": "Suzuka Gozen (Vacay)",
           "388": "Chloe von Einzbern (Avenger)"
         },
         "num_rateups": 3
@@ -9584,7 +9584,7 @@
         "rateups": {
           "385": "Aesc the Savior",
           "386": "Artoria Caster (Berserker)",
-          "387": "Suzuka Gozen (Summer Vacation)",
+          "387": "Suzuka Gozen (Vacay)",
           "388": "Chloe von Einzbern (Avenger)",
           "390": "Mélusine (Ruler)",
           "391": "UDK-Barghest",
@@ -9944,7 +9944,7 @@
   {
     "name": "Mystery House Crafters",
     "region": "JP",
-    "image_file": "mystery_house_crafters.png",
+    "image_file": "Mystery_house_crafters.png",
     "banners": [
       {
         "name": "Mystery House Crafters Pre-Release Summoning Campaign",
@@ -9980,6 +9980,1554 @@
           "368": "Britomart"
         },
         "num_rateups": 5
+      },
+      {
+        "name": "Mystery House Crafters Summoning Campaign 3",
+        "start_date": "11/21/2024",
+        "end_date": "12/1/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "295": "Van Gogh",
+          "339": "Super Bunyan"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "Interlude Campaign 21",
+    "region": "JP",
+    "image_file": "Interlude21Banner.png",
+    "banners": [
+      {
+        "name": "Interlude Campaign 21 Summoning Campaign 1",
+        "start_date": "11/28/2024",
+        "end_date": "12/5/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "325": "Zenobia",
+          "337": "Trung Sisters"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Interlude Campaign 21 Summoning Campaign 2",
+        "start_date": "11/30/2024",
+        "end_date": "12/7/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "325": "Zenobia",
+          "383": "Durga",
+          "395": "Sugitani Zenjūbō"
+        },
+        "num_rateups": 3
+      }
+    ]
+  },
+  {
+    "name": "Lostbelt No.7 Clear Support Campaign",
+    "region": "JP",
+    "image_file": "lb7_clear_cp.png",
+    "banners": [
+      {
+        "name": "Lostbelt No.7 Clear Support Summoning Campaign",
+        "start_date": "12/1/2024",
+        "end_date": "12/16/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "120": "Nitocris",
+          "196": "Ereshkigal",
+          "234": "Beni-Enma",
+          "369": "Grigori Rasputin",
+          "371": "Tezcatlipoca",
+          "372": "Tenochtitlan",
+          "373": "Kukulkan"
+        },
+        "num_rateups": 7
+      },
+      {
+        "name": "Lostbelt No.7 Clear Support Summoning Campaign Extension",
+        "start_date": "12/27/2024",
+        "end_date": "12/31/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "369": "Grigori Rasputin"
+        },
+        "num_rateups": 1
+      }
+    ]
+  },
+  {
+    "name": "Christmas 2024",
+    "region": "JP",
+    "image_file": "christmas2024.png",
+    "banners": [
+      {
+        "name": "Christmas 2024 Summoning Campaign 1",
+        "start_date": "12/11/2024",
+        "end_date": "12/24/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "429": "Louhi"
+        },
+        "num_rateups": 1
+      },
+      {
+        "name": "Christmas 2024 Summoning Campaign 2",
+        "start_date": "12/13/2024",
+        "end_date": "12/20/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "224": "Sitonai",
+          "340": "Daikokuten"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Christmas 2024 Summoning Campaign 3",
+        "start_date": "12/15/2024",
+        "end_date": "12/22/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "170": "Wu Zetian",
+          "241": "Sima Yi (Reines)"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Christmas 2024 Summoning Campaign 4",
+        "start_date": "12/17/2024",
+        "end_date": "12/24/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "10": "Chevalier d'Eon",
+          "48": "Lancelot",
+          "121": "Lancelot (Saber)",
+          "195": "Abigail Williams",
+          "198": "Katsushika Hokusai",
+          "347": "Don Quixote"
+        },
+        "num_rateups": 6
+      }
+    ]
+  },
+  {
+    "name": "Space Phantasmoon",
+    "region": "JP",
+    "image_file": "spacephantasmoon.png",
+    "banners": [
+      {
+        "name": "Space Phantasmoon Summoning Campaign",
+        "start_date": "12/24/2024",
+        "end_date": "12/31/2024",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "431": "Phantasmoon"
+        },
+        "num_rateups": 1
+      }
+    ]
+  },
+  {
+    "name": "New Year Campaign 2025",
+    "region": "JP",
+    "image_file": "Newyear2025_cp.png",
+    "banners": [
+      {
+        "name": "New Year 2025 Summoning Campaign",
+        "start_date": "1/1/2025",
+        "end_date": "1/15/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "102": "Li Shuwen (Lancer)",
+          "157": "EMIYA (Alter)",
+          "188": "Katō Danzō",
+          "236": "Miyu Edelfelt",
+          "261": "Miyamoto Musashi (Berserker)",
+          "269": "Calamity Jane",
+          "293": "Saitō Hajime",
+          "307": "Miss Crane",
+          "329": "Sakamoto Ryōma (Lancer)",
+          "349": "Kyokutei Bakin",
+          "375": "Takasugi Shinsaku",
+          "388": "Chloe von Einzbern (Avenger)",
+          "413": "Aozaki Aoko",
+          "415": "Kuonji Alice",
+          "432": "Richard I"
+        },
+        "num_rateups": 15
+      }
+    ]
+  },
+  {
+    "name": "Ordeal Call I Clear Support Campaign",
+    "region": "JP",
+    "image_file": "ordeal_call_1_clear_cp.png",
+    "banners": [
+      {
+        "name": "Ordeal Call I Clear Support Summoning Campaign",
+        "start_date": "1/11/2025",
+        "end_date": "1/20/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "9": "Gilles de Rais (Saber)",
+          "227": "Lanling Wang",
+          "239": "Kama",
+          "381": "Bhima",
+          "382": "Duryodhana"
+        },
+        "num_rateups": 5
+      }
+    ]
+  },
+  {
+    "name": "Saber Weekly Summoning Campaign 1",
+    "region": "JP",
+    "image_file": "saber_weekly_pu.png",
+    "banners": [
+      {
+        "name": "Saber Weekly Summoning Campaign",
+        "start_date": "1/6/2025",
+        "end_date": "1/13/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "2": "Artoria Pendragon",
+          "3": "Artoria Pendragon (Alter)",
+          "5": "Nero Claudius",
+          "6": "Siegfried",
+          "7": "Gaius Julius Caesar",
+          "8": "Altera",
+          "9": "Gilles de Rais (Saber)",
+          "10": "Chevalier d'Eon",
+          "68": "Okita Sōji",
+          "72": "Fergus mac Róich",
+          "76": "Mordred",
+          "90": "Nero Claudius (Bride)",
+          "91": "Ryōgi Shiki (Saber)",
+          "101": "Rama",
+          "121": "Lancelot (Saber)",
+          "123": "Gawain",
+          "126": "Bedivere",
+          "153": "Miyamoto Musashi",
+          "160": "Arthur Pendragon (Prototype)",
+          "165": "Suzuka Gozen",
+          "176": "Frankenstein (Saber)",
+          "187": "Yagyū Munenori",
+          "213": "Sigurd",
+          "221": "Queen Medb (Saber)",
+          "223": "Diarmuid Ua Duibhne (Saber)",
+          "234": "Beni-Enma",
+          "396": "Theseus"
+        },
+        "num_rateups": 27
+      }
+    ]
+  },
+  {
+    "name": "Evocation Festival Part 9",
+    "region": "JP",
+    "image_file": "feasts_cp9.png",
+    "banners": [
+      {
+        "name": "Evocation Festival Part 9 Summoning Campaign",
+        "start_date": "1/24/2025",
+        "end_date": "2/4/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "88": "Brynhildr",
+          "281": "Voyager",
+          "282": "Kijyo Kōyō",
+          "303": "Taira no Kagekiyo"
+        },
+        "num_rateups": 4
+      }
+    ]
+  },
+  {
+    "name": "Saber Weekly Summoning Campaign 2",
+    "region": "JP",
+    "image_file": "saber_weekly_pu2.png",
+    "banners": [
+      {
+        "name": "Saber Weekly Summoning Campaign 2",
+        "start_date": "1/13/2025",
+        "end_date": "1/20/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "7": "Gaius Julius Caesar",
+          "9": "Gilles de Rais (Saber)",
+          "72": "Fergus mac Róich",
+          "126": "Bedivere",
+          "227": "Lanling Wang",
+          "245": "Lakshmibai",
+          "270": "Astolfo (Saber)",
+          "278": "Dioscuri",
+          "290": "Tomoe Gozen (Saber)",
+          "293": "Saitō Hajime",
+          "298": "Watanabe no Tsuna",
+          "299": "Ibuki Dōji",
+          "302": "Senji Muramasa",
+          "310": "Barghest",
+          "317": "Okita Sōji (Saber Alter)",
+          "337": "Trung Sisters",
+          "343": "Charlemagne",
+          "344": "Roland",
+          "354": "Gareth (Saber)",
+          "363": "Yamanami Keisuke",
+          "384": "Medusa (Saber)",
+          "396": "Theseus",
+          "402": "Yamato Takeru"
+        },
+        "num_rateups": 23
+      }
+    ]
+  },
+  {
+    "name": "My Little Dragon",
+    "region": "JP",
+    "image_file": "My_little_dragon.png",
+    "banners": [
+      {
+        "name": "My Little Dragon Summoning Campaign 1",
+        "start_date": "1/15/2025",
+        "end_date": "2/5/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "23": "Medusa",
+          "249": "Asclepius",
+          "433": "Biscione",
+          "434": "Kurohime"
+        },
+        "num_rateups": 4
+      },
+      {
+        "name": "My Little Dragon Summoning Campaign 2",
+        "start_date": "1/23/2025",
+        "end_date": "2/5/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "146": "Medusa (Lancer)",
+          "147": "Gorgon",
+          "384": "Medusa (Saber)"
+        },
+        "num_rateups": 3
+      }
+    ]
+  },
+  {
+    "name": "Ruler Weekly Summoning Campaign",
+    "region": "JP",
+    "image_file": "Ruler_weekly_pu.png",
+    "banners": [
+      {
+        "name": "Ruler Weekly Summoning Campaign",
+        "start_date": "1/20/2025",
+        "end_date": "1/27/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "59": "Jeanne d'Arc",
+          "93": "Amakusa Shirō",
+          "135": "Martha (Ruler)",
+          "173": "Sherlock Holmes",
+          "229": "Shi Huang Di",
+          "242": "Astraea",
+          "265": "Artoria Pendragon (Ruler)",
+          "292": "Himiko",
+          "305": "Amor (Caren)",
+          "346": "James Moriarty (Ruler)",
+          "357": "Scáthach-Skaði (Ruler)",
+          "374": "Popess Johanna",
+          "390": "Mélusine (Ruler)",
+          "400": "Uesugi Kenshin"
+        },
+        "num_rateups": 14
+      }
+    ]
+  },
+  {
+    "name": "Archer Weekly Summoning Campaign 1",
+    "region": "JP",
+    "image_file": "archer_weekly_pu.png",
+    "banners": [
+      {
+        "name": "Archer Weekly Summoning Campaign",
+        "start_date": "1/27/2025",
+        "end_date": "2/3/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "11": "EMIYA",
+          "12": "Gilgamesh",
+          "13": "Robin Hood",
+          "14": "Atalanta",
+          "15": "Euryale",
+          "60": "Orion",
+          "63": "David",
+          "77": "Nikola Tesla",
+          "84": "Arjuna",
+          "95": "Kid Gil",
+          "105": "Billy the Kid",
+          "122": "Tristan",
+          "125": "Tawara Tōta",
+          "129": "Artoria Pendragon (Archer)",
+          "131": "Anne Bonny & Mary Read (Archer)",
+          "142": "Ishtar",
+          "156": "James Moriarty",
+          "157": "EMIYA (Alter)",
+          "180": "Helena Blavatsky (Archer)",
+          "184": "Tomoe Gozen",
+          "200": "Asagami Fujino",
+          "207": "Chiron",
+          "212": "Napoléon",
+          "246": "William Tell",
+          "395": "Sugitani Zenjūbō"
+        },
+        "num_rateups": 25
+      }
+    ]
+  },
+  {
+    "name": "Ordeal Call II Clear Support Campaign",
+    "region": "JP",
+    "image_file": "ordeal_call_2_clear_cp.png",
+    "banners": [
+      {
+        "name": "Ordeal Call II Clear Support Summoning Campaign",
+        "start_date": "2/1/2025",
+        "end_date": "2/8/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "204": "Antonio Salieri",
+          "409": "The Count of Monte Cristo",
+          "410": "Alessandro di Cagliostro"
+        },
+        "num_rateups": 3
+      }
+    ]
+  },
+  {
+    "name": "Archer Weekly Summoning Campaign 2",
+    "region": "JP",
+    "image_file": "archer_weekly_pu2.png",
+    "banners": [
+      {
+        "name": "Archer Weekly Summoning Campaign 2",
+        "start_date": "2/3/2025",
+        "end_date": "2/10/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "13": "Robin Hood",
+          "15": "Euryale",
+          "63": "David",
+          "95": "Kid Gil",
+          "105": "Billy the Kid",
+          "125": "Tawara Tōta",
+          "216": "Jeanne d'Arc (Archer)",
+          "246": "William Tell",
+          "248": "Aśvatthāman",
+          "262": "Osakabehime (Archer)",
+          "269": "Calamity Jane",
+          "272": "Super Orion",
+          "276": "Sei Shōnagon",
+          "286": "Illyasviel von Einzbern (Archer)",
+          "311": "Baobhan Sith",
+          "318": "Anastasia & Viy",
+          "325": "Zenobia",
+          "350": "Minamoto no Tametomo",
+          "375": "Takasugi Shinsaku",
+          "383": "Durga",
+          "391": "UDK-Barghest",
+          "394": "Ptolemaios",
+          "395": "Sugitani Zenjūbō",
+          "427": "Tutankhamun"
+        },
+        "num_rateups": 24
+      }
+    ]
+  },
+  {
+    "name": "Alter Ego Weekly Summoning Campaign",
+    "region": "JP",
+    "image_file": "Alterego_weekly_pu.png",
+    "banners": [
+      {
+        "name": "Alter Ego Weekly Summoning Campaign",
+        "start_date": "2/10/2025",
+        "end_date": "2/17/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "163": "Meltryllis",
+          "164": "Passionlip",
+          "167": "Sesshōin Kiara",
+          "209": "Okita Sōji (Alter)",
+          "224": "Sitonai",
+          "238": "Kingprotea",
+          "297": "Ashiya Dōman",
+          "336": "Manannán mac Lir (Bazett)",
+          "339": "Super Bunyan",
+          "352": "Xu Fu",
+          "369": "Grigori Rasputin",
+          "376": "Larva/Tiamat",
+          "416": "Azumi no Isora (Hibiki & Chikagi)",
+          "426": "Kazuradrop"
+        },
+        "num_rateups": 14
+      }
+    ]
+  },
+  {
+    "name": "Valentine 2025",
+    "region": "JP",
+    "image_file": "Valentine2025.png",
+    "banners": [
+      {
+        "name": "Valentine 2025 Summoning Campaign",
+        "start_date": "2/12/2025",
+        "end_date": "3/5/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "2": "Artoria Pendragon",
+          "8": "Altera",
+          "59": "Jeanne d'Arc",
+          "60": "Orion",
+          "62": "Tamamo no Mae",
+          "65": "Francis Drake",
+          "75": "Jack the Ripper",
+          "76": "Mordred",
+          "97": "Nightingale",
+          "99": "Queen Medb",
+          "113": "Xuanzang Sanzang",
+          "119": "Artoria Pendragon (Lancer)",
+          "144": "Quetzalcoatl",
+          "169": "Scheherazade",
+          "189": "Osakabehime",
+          "201": "Anastasia",
+          "224": "Sitonai",
+          "232": "Bradamante",
+          "244": "Jinako Carigiri",
+          "274": "Europa",
+          "278": "Dioscuri",
+          "300": "Vritra",
+          "306": "Galatea",
+          "332": "Dobrynya Nikitich",
+          "370": "Nitocris (Alter)",
+          "380": "Kashin Koji",
+          "407": "Marie Antoinette (Alter)",
+          "429": "Louhi",
+          "435": "Ono no Komachi"
+        },
+        "num_rateups": 29
+      }
+    ]
+  },
+  {
+    "name": "Lancer Weekly Summoning Campaign 1",
+    "region": "JP",
+    "image_file": "lancer_weekly_pu.png",
+    "banners": [
+      {
+        "name": "Lancer Weekly Summoning Campaign",
+        "start_date": "2/17/2025",
+        "end_date": "2/24/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "17": "Cú Chulainn",
+          "18": "Elizabeth Báthory",
+          "20": "Cú Chulainn (Prototype)",
+          "22": "Romulus",
+          "64": "Hector",
+          "70": "Scáthach",
+          "71": "Diarmuid Ua Duibhne",
+          "78": "Artoria Pendragon (Lancer Alter)",
+          "85": "Karna",
+          "87": "Fionn mac Cumhaill",
+          "88": "Brynhildr",
+          "102": "Li Shuwen (Lancer)",
+          "119": "Artoria Pendragon (Lancer)",
+          "128": "Tamamo no Mae (Lancer)",
+          "134": "Kiyohime (Lancer)",
+          "140": "Vlad III (EXTRA)",
+          "143": "Enkidu",
+          "146": "Medusa (Lancer)",
+          "148": "Jaguar Man",
+          "181": "Minamoto no Raikō (Lancer)",
+          "183": "Parvati",
+          "186": "Hōzōin Inshun",
+          "193": "Nezha",
+          "196": "Ereshkigal"
+        },
+        "num_rateups": 24
+      }
+    ]
+  },
+  {
+    "name": "Lancer Weekly Summoning Campaign 2",
+    "region": "JP",
+    "image_file": "Lancer_weekly_pu2.png",
+    "banners": [
+      {
+        "name": "Lancer Weekly Summoning Campaign 2",
+        "start_date": "2/24/2025",
+        "end_date": "3/3/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "17": "Cú Chulainn",
+          "20": "Cú Chulainn (Prototype)",
+          "22": "Romulus",
+          "64": "Hector",
+          "71": "Diarmuid Ua Duibhne",
+          "148": "Jaguar Man",
+          "186": "Hōzōin Inshun",
+          "214": "Valkyrie",
+          "217": "Ibaraki Dōji (Lancer)",
+          "228": "Qin Liangyu",
+          "232": "Bradamante",
+          "266": "Mysterious Alter Ego Λ",
+          "279": "Caenis",
+          "280": "Romulus-Quirinus",
+          "300": "Vritra",
+          "312": "Mélusine",
+          "313": "Percival",
+          "329": "Sakamoto Ryōma (Lancer)",
+          "347": "Don Quixote",
+          "368": "Britomart",
+          "381": "Bhima",
+          "419": "Dobrynya Nikitich (Lancer)"
+        },
+        "num_rateups": 22
+      }
+    ]
+  },
+  {
+    "name": "Ordeal Call III Clear Support Campaign",
+    "region": "JP",
+    "image_file": "ordeal_call_3_clear_cp.png",
+    "banners": [
+      {
+        "name": "Kishinami Hakuno Pickup Summoning Campaign 2",
+        "start_date": "3/1/2025",
+        "end_date": "3/31/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "424": "Kishinami Hakuno (Male)",
+          "425": "Kishinami Hakuno (Female)"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "Avenger Weekly Summoning Campaign",
+    "region": "JP",
+    "image_file": "avenger_weekly_pu.png",
+    "banners": [
+      {
+        "name": "Avenger Weekly Summoning Campaign",
+        "start_date": "3/3/2025",
+        "end_date": "3/10/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "96": "Edmond Dantès",
+          "106": "Jeanne d'Arc (Alter)",
+          "147": "Gorgon",
+          "158": "Hessian Lobo",
+          "204": "Antonio Salieri",
+          "250": "Demon King Nobunaga",
+          "268": "Space Ishtar",
+          "303": "Taira no Kagekiyo",
+          "321": "Kama (Avenger)",
+          "356": "Utsumi Erice (Avenger)",
+          "370": "Nitocris (Alter)",
+          "388": "Chloe von Einzbern (Avenger)",
+          "403": "Ushi Gozen",
+          "407": "Marie Antoinette (Alter)",
+          "409": "The Count of Monte Cristo",
+          "420": "Xu Fu (Avenger)"
+        },
+        "num_rateups": 16
+      }
+    ]
+  },
+  {
+    "name": "His Name is Dante",
+    "region": "JP",
+    "image_file": "Cbc2025 onjae.png",
+    "banners": [
+      {
+        "name": "His Name is Dante Summoning Campaign 1",
+        "start_date": "3/5/2025",
+        "end_date": "3/26/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "210": "Okada Izō",
+          "437": "Dante Alighieri"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "His Name is Dante Summoning Campaign 2",
+        "start_date": "3/7/2025",
+        "end_date": "3/14/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "6": "Siegfried",
+          "156": "James Moriarty",
+          "186": "Hōzōin Inshun"
+        },
+        "num_rateups": 3
+      },
+      {
+        "name": "CBC2025 Pickup Summoning Campaign",
+        "start_date": "3/9/2025",
+        "end_date": "3/19/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "37": "Zhuge Liang (Lord El-Melloi II)",
+          "52": "Vlad III",
+          "77": "Nikola Tesla",
+          "84": "Arjuna",
+          "85": "Karna",
+          "98": "Cú Chulainn (Alter)",
+          "118": "Ozymandias",
+          "143": "Enkidu",
+          "206": "Achilles",
+          "212": "Napoléon",
+          "226": "Xiang Yu",
+          "235": "Li Shuwen",
+          "277": "Odysseus",
+          "278": "Dioscuri",
+          "296": "Nemo",
+          "331": "Taigong Wang",
+          "350": "Minamoto no Tametomo",
+          "381": "Bhima"
+        },
+        "num_rateups": 18
+      }
+    ]
+  },
+  {
+    "name": "Rider Weekly Summoning Campaign 1",
+    "region": "JP",
+    "image_file": "rider_weekly_pu.png",
+    "banners": [
+      {
+        "name": "Rider Weekly Summoning Campaign",
+        "start_date": "3/10/2025",
+        "end_date": "3/17/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "23": "Medusa",
+          "26": "Boudica",
+          "27": "Ushiwakamaru",
+          "28": "Alexander",
+          "29": "Marie Antoinette",
+          "30": "Martha",
+          "65": "Francis Drake",
+          "66": "Anne Bonny & Mary Read",
+          "94": "Astolfo",
+          "99": "Queen Medb",
+          "108": "Iskandar",
+          "118": "Ozymandias",
+          "132": "Mordred (Rider)",
+          "144": "Quetzalcoatl",
+          "172": "Christopher Columbus",
+          "179": "Artoria Pendragon (Rider Alter)",
+          "205": "Ivan the Terrible",
+          "206": "Achilles",
+          "231": "Red Hare",
+          "241": "Sima Yi (Reines)",
+          "263": "Carmilla (Rider)",
+          "273": "Mandricardo",
+          "291": "Murasaki Shikibu (Rider)",
+          "322": "Caenis (Rider)",
+          "332": "Dobrynya Nikitich"
+        },
+        "num_rateups": 25
+      }
+    ]
+  },
+  {
+    "name": "Rider Weekly Summoning Campaign 2",
+    "region": "JP",
+    "image_file": "rider_weekly_pu2.png",
+    "banners": [
+      {
+        "name": "Rider Weekly Summoning Campaign 2",
+        "start_date": "3/17/2025",
+        "end_date": "3/24/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "23": "Medusa",
+          "26": "Boudica",
+          "27": "Ushiwakamaru",
+          "28": "Alexander",
+          "29": "Marie Antoinette",
+          "30": "Martha",
+          "66": "Anne Bonny & Mary Read",
+          "94": "Astolfo",
+          "132": "Mordred (Rider)",
+          "172": "Christopher Columbus",
+          "231": "Red Hare",
+          "253": "Leonardo Da Vinci (Rider)",
+          "263": "Carmilla (Rider)",
+          "273": "Mandricardo",
+          "274": "Europa",
+          "277": "Odysseus",
+          "291": "Murasaki Shikibu (Rider)",
+          "296": "Nemo",
+          "331": "Taigong Wang",
+          "342": "Constantine XI",
+          "349": "Kyokutei Bakin",
+          "366": "Huang Feihu",
+          "387": "Suzuka Gozen (Vacay)",
+          "397": "Takeda Shingen",
+          "406": "Andromeda"
+        },
+        "num_rateups": 25
+      }
+    ]
+  },
+  {
+    "name": "Caster Weekly Summoning Campaign 1",
+    "region": "JP",
+    "image_file": "caster_weekly_pu.png",
+    "banners": [
+      {
+        "name": "Caster Weekly Summoning Campaign",
+        "start_date": "3/24/2025",
+        "end_date": "3/31/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "31": "Medea",
+          "32": "Gilles de Rais",
+          "35": "Mephistopheles",
+          "37": "Zhuge Liang (Lord El-Melloi II)",
+          "38": "Cú Chulainn (Caster)",
+          "62": "Tamamo no Mae",
+          "67": "Medea (Lily)",
+          "74": "Nursery Rhyme",
+          "79": "Paracelsus von Hohenheim",
+          "80": "Charles Babbage",
+          "100": "Helena Blavatsky",
+          "103": "Thomas Edison",
+          "104": "Geronimo",
+          "113": "Xuanzang Sanzang",
+          "120": "Nitocris",
+          "127": "Leonardo Da Vinci",
+          "130": "Marie Antoinette (Caster)",
+          "136": "Illyasviel von Einzbern",
+          "145": "Gilgamesh (Caster)",
+          "150": "Merlin",
+          "169": "Scheherazade",
+          "175": "Nero Claudius (Caster)",
+          "192": "Circe",
+          "203": "Avicebron"
+        },
+        "num_rateups": 24
+      }
+    ]
+  },
+  {
+    "name": "Spring New Master Aid Campaign 2025",
+    "region": "JP",
+    "image_file": "new master spring cp4.png",
+    "banners": [
+      {
+        "name": "Spring New Master 2025 Summoning Campaign",
+        "start_date": "3/29/2025",
+        "end_date": "4/12/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "120": "Nitocris",
+          "309": "Morgan"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "Caster Weekly Summoning Campaign 2",
+    "region": "JP",
+    "image_file": "caster_weekly_pu2.png",
+    "banners": [
+      {
+        "name": "Caster Weekly Summoning Campaign 2",
+        "start_date": "3/31/2025",
+        "end_date": "4/7/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "31": "Medea",
+          "32": "Gilles de Rais",
+          "35": "Mephistopheles",
+          "38": "Cú Chulainn (Caster)",
+          "67": "Medea (Lily)",
+          "74": "Nursery Rhyme",
+          "79": "Paracelsus von Hohenheim",
+          "80": "Charles Babbage",
+          "194": "Queen of Sheba",
+          "201": "Anastasia",
+          "215": "Scáthach-Skaði",
+          "236": "Miyu Edelfelt",
+          "237": "Murasaki Shikibu",
+          "249": "Asclepius",
+          "284": "Artoria Caster",
+          "307": "Miss Crane",
+          "319": "Charlotte Corday (Caster)",
+          "327": "Izumo no Okuni",
+          "340": "Daikokuten",
+          "348": "Zhang Jue",
+          "358": "Wu Zetian (Caster)",
+          "385": "Aesc the Savior",
+          "404": "Yui Shōsetsu",
+          "415": "Kuonji Alice"
+        },
+        "num_rateups": 24
+      }
+    ]
+  },
+  {
+    "name": "GUDAGUDA Close Call 2021 Rerun",
+    "region": "JP",
+    "image_file": "GudaGuda2021RerunBanner.png",
+    "banners": [
+      {
+        "name": "GUDAGUDA Close Call 2021 Rerun Summoning Campaign",
+        "start_date": "4/2/2025",
+        "end_date": "4/23/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "327": "Izumo no Okuni",
+          "329": "Sakamoto Ryōma (Lancer)",
+          "375": "Takasugi Shinsaku"
+        },
+        "num_rateups": 3
+      }
+    ]
+  },
+  {
+    "name": "Evocation Festival Part 11",
+    "region": "JP",
+    "image_file": "Feasts_cp11.png",
+    "banners": [
+      {
+        "name": "Evocation Festival Part 11 Summoning Campaign",
+        "start_date": "4/4/2025",
+        "end_date": "4/13/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "337": "Trung Sisters",
+          "397": "Takeda Shingen"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "Foreigner Weekly Summoning Campaign",
+    "region": "JP",
+    "image_file": "foreigner_weekly_pu.png",
+    "banners": [
+      {
+        "name": "Foreigner Weekly Summoning Campaign",
+        "start_date": "4/7/2025",
+        "end_date": "4/14/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "195": "Abigail Williams",
+          "198": "Katsushika Hokusai",
+          "222": "Mysterious Heroine XX",
+          "275": "Yang Guifei",
+          "281": "Voyager",
+          "289": "Abigail Williams (Summer)",
+          "295": "Van Gogh",
+          "324": "Jacques de Molay",
+          "334": "Koyanskaya of Darkness",
+          "373": "Kukulkan",
+          "393": "Wandjina",
+          "413": "Aozaki Aoko",
+          "423": "Mysterious Heroine XX (Alter)"
+        },
+        "num_rateups": 13
+      }
+    ]
+  },
+  {
+    "name": "31M Downloads Campaign",
+    "region": "JP",
+    "image_file": "3100man.png",
+    "banners": [
+      {
+        "name": "31M Downloads Summoning Campaign",
+        "start_date": "4/9/2025",
+        "end_date": "4/23/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "353": "Lady Avalon",
+          "354": "Gareth (Saber)"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "Berserker Weekly Summoning Campaign 1",
+    "region": "JP",
+    "image_file": "berserker_weekly_pu.png",
+    "banners": [
+      {
+        "name": "Berserker Weekly Summoning Campaign",
+        "start_date": "4/14/2025",
+        "end_date": "4/21/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "47": "Heracles",
+          "48": "Lancelot",
+          "49": "Lu Bu Fengxian",
+          "51": "Sakata Kintoki",
+          "52": "Vlad III",
+          "55": "Darius III",
+          "56": "Kiyohime",
+          "58": "Tamamo Cat",
+          "82": "Frankenstein",
+          "89": "Beowulf",
+          "97": "Nightingale",
+          "98": "Cú Chulainn (Alter)",
+          "114": "Minamoto no Raikō",
+          "116": "Ibaraki Dōji",
+          "155": "Mysterious Heroine X (Alter)",
+          "161": "Hijikata Toshizō",
+          "171": "Penthesilea",
+          "178": "Oda Nobunaga (Berserker)",
+          "226": "Xiang Yu",
+          "251": "Mori Nagayoshi"
+        },
+        "num_rateups": 20
+      }
+    ]
+  },
+  {
+    "name": "Berserker Weekly Summoning Campaign 2",
+    "region": "JP",
+    "image_file": "berserker_weekly_pu2.png",
+    "banners": [
+      {
+        "name": "Berserker Weekly Summoning Campaign 2",
+        "start_date": "4/21/2025",
+        "end_date": "4/28/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "47": "Heracles",
+          "49": "Lu Bu Fengxian",
+          "55": "Darius III",
+          "56": "Kiyohime",
+          "202": "Atalanta (Alter)",
+          "247": "Arjuna (Alter)",
+          "251": "Mori Nagayoshi",
+          "261": "Miyamoto Musashi (Berserker)",
+          "282": "Kijyo Kōyō",
+          "287": "Brynhildr (Berserker)",
+          "306": "Galatea",
+          "309": "Morgan",
+          "323": "Sei Shōnagon (Berserker)",
+          "345": "Kriemhild",
+          "355": "Ibuki Dōji (Berserker)",
+          "362": "Sen no Rikyū",
+          "382": "Duryodhana",
+          "386": "Artoria Caster (Berserker)",
+          "398": "Nagakura Shinpachi",
+          "429": "Louhi"
+        },
+        "num_rateups": 20
+      }
+    ]
+  },
+  {
+    "name": "Assassin Weekly Summoning Campaign 1",
+    "region": "JP",
+    "image_file": "assassin_weekly_pu.png",
+    "banners": [
+      {
+        "name": "Assassin Weekly Summoning Campaign",
+        "start_date": "4/28/2025",
+        "end_date": "5/5/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "41": "Stheno",
+          "42": "Jing Ke",
+          "46": "Carmilla",
+          "75": "Jack the Ripper",
+          "81": "Henry Jekyll & Hyde",
+          "86": "Mysterious Heroine X",
+          "109": "EMIYA (Assassin)",
+          "110": "Hassan of the Hundred Faces",
+          "112": "Shuten Dōji",
+          "117": "Fūma Kotarō",
+          "124": "Hassan of the Serenity",
+          "139": "Cleopatra",
+          "154": "\"The Old Man of the Mountain\"",
+          "159": "Yan Qing",
+          "170": "Wu Zetian",
+          "177": "Nitocris (Assassin)",
+          "185": "Mochizuki Chiyome",
+          "189": "Osakabehime",
+          "199": "Semiramis",
+          "210": "Okada Izō"
+        },
+        "num_rateups": 20
+      }
+    ]
+  },
+  {
+    "name": "Trinity Metatronius Chapter Release",
+    "region": "JP",
+    "image_file": "Trinitymetatroniusbanner.png",
+    "banners": [
+      {
+        "name": "Trinity Metatronius Summoning Campaign 1",
+        "start_date": "4/30/2025",
+        "end_date": "5/14/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "438": "Metatron Jeanne",
+          "439": "King Ashoka"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Trinity Metatronius Summoning Campaign 2",
+        "start_date": "5/2/2025",
+        "end_date": "5/11/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "93": "Amakusa Shirō",
+          "346": "James Moriarty (Ruler)"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Trinity Metatronius Summoning Campaign 3",
+        "start_date": "5/7/2025",
+        "end_date": "5/21/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "439": "King Ashoka",
+          "440": "Lilith"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Trinity Metatronius Summoning Campaign 4",
+        "start_date": "5/9/2025",
+        "end_date": "5/22/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "7": "Gaius Julius Caesar",
+          "59": "Jeanne d'Arc",
+          "135": "Martha (Ruler)",
+          "139": "Cleopatra",
+          "242": "Astraea",
+          "305": "Amor (Caren)",
+          "374": "Popess Johanna"
+        },
+        "num_rateups": 7
+      }
+    ]
+  },
+  {
+    "name": "Assassin Weekly Summoning Campaign 2",
+    "region": "JP",
+    "image_file": "assassin_weekly_pu2.png",
+    "banners": [
+      {
+        "name": "Assassin Weekly Summoning Campaign 2",
+        "start_date": "5/5/2025",
+        "end_date": "5/12/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "42": "Jing Ke",
+          "81": "Henry Jekyll & Hyde",
+          "110": "Hassan of the Hundred Faces",
+          "117": "Fūma Kotarō",
+          "124": "Hassan of the Serenity",
+          "188": "Katō Danzō",
+          "210": "Okada Izō",
+          "218": "Ushiwakamaru (Assassin)",
+          "230": "Consort Yu",
+          "235": "Li Shuwen",
+          "239": "Kama",
+          "267": "Okita J Sōji",
+          "314": "Koyanskaya of Light",
+          "365": "Huyan Zhuo",
+          "371": "Tezcatlipoca",
+          "378": "Locusta",
+          "380": "Kashin Koji",
+          "408": "Hassan of the Shining Star"
+        },
+        "num_rateups": 18
+      }
+    ]
+  },
+  {
+    "name": "Moon Cancer Weekly Summoning Campaign",
+    "region": "JP",
+    "image_file": "Mooncancer_weekly_pu.png",
+    "banners": [
+      {
+        "name": "Moon Cancer Weekly Summoning Campaign",
+        "start_date": "5/12/2025",
+        "end_date": "5/19/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "220": "BB (Summer)",
+          "244": "Jinako Carigiri",
+          "285": "Sesshōin Kiara (Moon Cancer)",
+          "351": "Archetype: Earth",
+          "418": "Mysterious Executor C.I.E.L",
+          "421": "BB Dubai",
+          "422": "Tenochtitlan (Moon Cancer)"
+        },
+        "num_rateups": 7
+      }
+    ]
+  },
+  {
+    "name": "Pretender & Beast Weekly Summoning Campaign",
+    "region": "JP",
+    "image_file": "Pretender_beast_weekly_pu.png",
+    "banners": [
+      {
+        "name": "Pretender & Beast Weekly Summoning Campaign",
+        "start_date": "5/19/2025",
+        "end_date": "5/26/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "316": "Oberon",
+          "335": "Hephaestion",
+          "353": "Lady Avalon",
+          "372": "Tenochtitlan",
+          "377": "Sodom's Beast/Draco",
+          "392": "Cait Cú Cerpriestess",
+          "410": "Alessandro di Cagliostro",
+          "417": "Space Ereshkigal",
+          "431": "Phantasmoon"
+        },
+        "num_rateups": 9
+      }
+    ]
+  },
+  {
+    "name": "Grand Duel: Saber",
+    "region": "JP",
+    "image_file": "Grand_Duel_Saber_Banner.png",
+    "banners": [
+      {
+        "name": "Grand Duel Saber Summoning Campaign",
+        "start_date": "5/9/2025",
+        "end_date": "5/28/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "2": "Artoria Pendragon",
+          "3": "Artoria Pendragon (Alter)",
+          "5": "Nero Claudius",
+          "6": "Siegfried",
+          "7": "Gaius Julius Caesar",
+          "8": "Altera",
+          "9": "Gilles de Rais (Saber)",
+          "10": "Chevalier d'Eon",
+          "68": "Okita Sōji",
+          "72": "Fergus mac Róich",
+          "76": "Mordred",
+          "90": "Nero Claudius (Bride)",
+          "91": "Ryōgi Shiki (Saber)",
+          "101": "Rama",
+          "121": "Lancelot (Saber)",
+          "123": "Gawain",
+          "126": "Bedivere",
+          "153": "Miyamoto Musashi",
+          "160": "Arthur Pendragon (Prototype)",
+          "165": "Suzuka Gozen",
+          "176": "Frankenstein (Saber)",
+          "187": "Yagyū Munenori",
+          "213": "Sigurd",
+          "221": "Queen Medb (Saber)",
+          "223": "Diarmuid Ua Duibhne (Saber)",
+          "227": "Lanling Wang",
+          "234": "Beni-Enma",
+          "245": "Lakshmibai",
+          "270": "Astolfo (Saber)",
+          "278": "Dioscuri",
+          "290": "Tomoe Gozen (Saber)",
+          "293": "Saitō Hajime",
+          "298": "Watanabe no Tsuna",
+          "299": "Ibuki Dōji",
+          "302": "Senji Muramasa",
+          "310": "Barghest",
+          "317": "Okita Sōji (Saber Alter)",
+          "337": "Trung Sisters",
+          "343": "Charlemagne",
+          "344": "Roland",
+          "354": "Gareth (Saber)",
+          "363": "Yamanami Keisuke",
+          "384": "Medusa (Saber)",
+          "396": "Theseus",
+          "402": "Yamato Takeru",
+          "432": "Richard I",
+          "434": "Kurohime"
+        },
+        "num_rateups": 47
+      },
+      {
+        "name": "Artoria Pendragon (Lily) Friend Point Summoning Campaign",
+        "start_date": "5/9/2025",
+        "end_date": "5/28/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "4": "Artoria Pendragon (Lily)"
+        },
+        "num_rateups": 1
+      }
+    ]
+  },
+  {
+    "name": "Wings of Lacrimation",
+    "region": "JP",
+    "image_file": "Wings of Lacrimation.png",
+    "banners": [
+      {
+        "name": "Wings of Lacrimation Pre-Release Summoning Campaign",
+        "start_date": "5/28/2025",
+        "end_date": "6/25/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "80": "Charles Babbage",
+          "176": "Frankenstein (Saber)",
+          "188": "Katō Danzō",
+          "241": "Sima Yi (Reines)",
+          "277": "Odysseus",
+          "281": "Voyager",
+          "335": "Hephaestion",
+          "350": "Minamoto no Tametomo",
+          "380": "Kashin Koji"
+        },
+        "num_rateups": 9
+      },
+      {
+        "name": "Wings of Lacrimation Summoning Campaign",
+        "start_date": "6/4/2025",
+        "end_date": "6/25/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "441": "Typhon Ephemeros"
+        },
+        "num_rateups": 1
+      }
+    ]
+  },
+  {
+    "name": "Indra's Great Trials",
+    "region": "JP",
+    "image_file": "Indra's Great Trials.png",
+    "banners": [
+      {
+        "name": "Indra's Great Trials Summoning Campaign 1",
+        "start_date": "7/2/2025",
+        "end_date": "7/23/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "442": "Indra"
+        },
+        "num_rateups": 1
+      },
+      {
+        "name": "Indra's Great Trials Summoning Campaign 2",
+        "start_date": "7/5/2025",
+        "end_date": "7/12/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "393": "Wandjina"
+        },
+        "num_rateups": 1
+      }
+    ]
+  },
+  {
+    "name": "Fate/Grand Order 10th Anniversary: OVER THE SAME SKY",
+    "region": "JP",
+    "image_file": "OVER THE SAME SKY Banner.png",
+    "banners": [
+      {
+        "name": "OVER THE SAME SKY -JUNE- Summoning Campaign",
+        "start_date": "6/30/2025",
+        "end_date": "7/14/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "47": "Heracles",
+          "95": "Kid Gil",
+          "106": "Jeanne d'Arc (Alter)",
+          "113": "Xuanzang Sanzang",
+          "117": "Fūma Kotarō",
+          "188": "Katō Danzō",
+          "189": "Osakabehime",
+          "204": "Antonio Salieri",
+          "227": "Lanling Wang",
+          "280": "Romulus-Quirinus",
+          "281": "Voyager",
+          "331": "Taigong Wang",
+          "349": "Kyokutei Bakin",
+          "371": "Tezcatlipoca",
+          "376": "Larva/Tiamat",
+          "380": "Kashin Koji",
+          "391": "UDK-Barghest",
+          "408": "Hassan of the Shining Star",
+          "422": "Tenochtitlan (Moon Cancer)"
+        },
+        "num_rateups": 19
+      },
+      {
+        "name": "OVER THE SAME SKY -JULY- Summoning Campaign",
+        "start_date": "7/28/2025",
+        "end_date": "8/11/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "31": "Medea",
+          "64": "Hector",
+          "120": "Nitocris",
+          "150": "Merlin",
+          "154": "\"The Old Man of the Mountain\"",
+          "198": "Katsushika Hokusai",
+          "234": "Beni-Enma",
+          "239": "Kama",
+          "263": "Carmilla (Rider)",
+          "273": "Mandricardo",
+          "284": "Artoria Caster",
+          "295": "Van Gogh",
+          "316": "Oberon",
+          "334": "Koyanskaya of Darkness",
+          "353": "Lady Avalon",
+          "375": "Takasugi Shinsaku",
+          "383": "Durga",
+          "409": "The Count of Monte Cristo"
+        },
+        "num_rateups": 18
+      }
+    ]
+  },
+  {
+    "name": "Fate/Grand Order ～10th Anniversary～",
+    "region": "JP",
+    "image_file": "10th anniversary.png",
+    "banners": [
+      {
+        "name": "Fate/Grand Order Fes. 2025 ～10th Anniversary～ Countdown Summoning Campaign",
+        "start_date": "7/23/2025",
+        "end_date": "8/2/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "127": "Leonardo Da Vinci",
+          "253": "Leonardo Da Vinci (Rider)"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Fate/Grand Order ～10th Anniversary～ Summoning Campaign",
+        "start_date": "8/3/2025",
+        "end_date": "8/17/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "444": "U-Olga Marie"
+        },
+        "num_rateups": 1
+      }
+    ]
+  },
+  {
+    "name": "Grand Duel: Extra",
+    "region": "JP",
+    "image_file": "Grand Duel Extra Banner.png",
+    "banners": [
+      {
+        "name": "Grand Duel Extra Summoning Campaign",
+        "start_date": "8/5/2025",
+        "end_date": "9/3/2025",
+        "date_origin": "event header jp new",
+        "rateups": {
+          "59": "Jeanne d'Arc",
+          "93": "Amakusa Shirō",
+          "96": "Edmond Dantès",
+          "106": "Jeanne d'Arc (Alter)",
+          "135": "Martha (Ruler)",
+          "147": "Gorgon",
+          "158": "Hessian Lobo",
+          "163": "Meltryllis",
+          "164": "Passionlip",
+          "167": "Sesshōin Kiara",
+          "173": "Sherlock Holmes",
+          "195": "Abigail Williams",
+          "198": "Katsushika Hokusai",
+          "204": "Antonio Salieri",
+          "209": "Okita Sōji (Alter)",
+          "220": "BB (Summer)",
+          "222": "Mysterious Heroine XX",
+          "224": "Sitonai",
+          "229": "Shi Huang Di",
+          "238": "Kingprotea",
+          "242": "Astraea",
+          "244": "Jinako Carigiri",
+          "250": "Demon King Nobunaga",
+          "265": "Artoria Pendragon (Ruler)",
+          "268": "Space Ishtar",
+          "275": "Yang Guifei",
+          "281": "Voyager",
+          "285": "Sesshōin Kiara (Moon Cancer)",
+          "289": "Abigail Williams (Summer)",
+          "292": "Himiko",
+          "295": "Van Gogh",
+          "297": "Ashiya Dōman",
+          "303": "Taira no Kagekiyo",
+          "305": "Amor (Caren)",
+          "316": "Oberon",
+          "321": "Kama (Avenger)",
+          "324": "Jacques de Molay",
+          "334": "Koyanskaya of Darkness",
+          "335": "Hephaestion",
+          "336": "Manannán mac Lir (Bazett)",
+          "339": "Super Bunyan",
+          "346": "James Moriarty (Ruler)",
+          "351": "Archetype: Earth",
+          "352": "Xu Fu",
+          "353": "Lady Avalon",
+          "356": "Utsumi Erice (Avenger)",
+          "357": "Scáthach-Skaði (Ruler)",
+          "369": "Grigori Rasputin",
+          "370": "Nitocris (Alter)",
+          "372": "Tenochtitlan",
+          "373": "Kukulkan",
+          "374": "Popess Johanna",
+          "376": "Larva/Tiamat",
+          "377": "Sodom's Beast/Draco",
+          "388": "Chloe von Einzbern (Avenger)",
+          "390": "Mélusine (Ruler)",
+          "392": "Cait Cú Cerpriestess",
+          "393": "Wandjina",
+          "400": "Uesugi Kenshin",
+          "403": "Ushi Gozen",
+          "407": "Marie Antoinette (Alter)",
+          "409": "The Count of Monte Cristo",
+          "410": "Alessandro di Cagliostro",
+          "413": "Aozaki Aoko",
+          "416": "Azumi no Isora (Hibiki & Chikagi)",
+          "417": "Space Ereshkigal",
+          "418": "Mysterious Executor C.I.E.L",
+          "420": "Xu Fu (Avenger)",
+          "421": "BB Dubai",
+          "422": "Tenochtitlan (Moon Cancer)",
+          "423": "Mysterious Heroine XX (Alter)",
+          "426": "Kazuradrop",
+          "431": "Phantasmoon",
+          "437": "Dante Alighieri",
+          "438": "Metatron Jeanne",
+          "441": "Typhon Ephemeros"
+        },
+        "num_rateups": 76
       }
     ]
   }

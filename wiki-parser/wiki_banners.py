@@ -74,11 +74,15 @@ EXCLUDE_PAGES = (
     "Valentine 2020/Main Info",
     "Lucky Bag 2024 Summoning Campaign New Year Special",
     "Fate/Grand Order ～9th Anniversary～ Destiny Order Summoning Campaign",
+    "Fate/Grand Order ～10th Anniversary～ Lucky Bag Summoning Campaign",
+    "Fate/Grand Order ～10th Anniversary～ Destiny Order Summoning Campaign (Seven Classes)",
+    "Fate/Grand Order ～10th Anniversary～ Destiny Order Summoning Campaign (Extra Classes)",
 )
 
 # The same rateup that shows up in two different events, need to skip 1 to prevent duping.
 EXCLUDE_PAGES_WITH_PARENT = {
     'Archetype Inception Summoning Campaign' : 'Celeb Summer Experience!',
+    'Grand Duel Extra Summoning Campaign' : 'Grand Duel Extra Pre-Release Campaign',
 }
 
 # Wiki pages with errors that prevent parsing that should be fixed.
@@ -128,6 +132,7 @@ NAME_FIXES = {
     'Attila' : 'Altera', # FGO Summer Festival 2016 ~1st Anniversary~
     "EMIYA (Alter) NA" : "EMIYA (Alter)",
     "Jaguar Warrior" : "Jaguar Man",
+    "Tlaloc" : "Tenochtitlan",
 }
 
 # Rateup servants that are missing from the banner on the wiki that should be fixed.
@@ -163,6 +168,9 @@ NO_MERGE = {
     "FGO Festival 2024 ~7th Anniversary~ (US)/Summoning Campaign" : (1, 2,),
     "FGO Learning With Manga Collaboration Event (US)/Summoning Campaign" : (1, 2,),
     "GUDAGUDA New Yamataikoku 2024 (US)/Summoning Campaign": (1, 2,),
+    "White Day 2025 Event (US)/Summoning Campaign": (1, 2),
+    "Pilgrimage Festival Part 1 (US)/Summoning Campaign": (0, 1),
+    "Illya's Karakuri Castle (US)/Summoning Campaign": (1, 2),
 }
 
 # Pages that should be link-style parsed regardless of keywords being present.
@@ -278,6 +286,8 @@ MERGE_EVENTS_JP = {
     "Chaldea Boys Collection 2016 Re-Run" : "Chaldea Boys Collection 2017",
     "London Campaign 2" : "London Chapter Release",
     "Witch on the Holy Night Collaboration Pre-Release Campaign" : "Kumano Hot Springs Killer Case",
+    "Fate/Grand Order Fes. 2025 ～10th Anniversary～ Countdown Campaign" : "Fate/Grand Order ～10th Anniversary～",
+    "Grand Duel Extra Pre-Release Campaign" : "Grand Duel: Extra",
 }
 
 # Merge one event's banners into another event's banners
@@ -329,6 +339,7 @@ BANNER_NAME_FIX = {
     r"Campaign Summoning Campaign" : "Summoning Campaign",
     r"Tales of Chaldean Heavy Industries" : "Chaldea Boys Collection 2023",
     r"White Day 2022" : "Chaldea Boys Collection 2022 / White Day 2022",
+    r"<SKIP1>Grand Duel Saber Summoning Campaign" : "Artoria Pendragon (Lily) Friend Point Summoning Campaign",
 }
 
 # NOTE: Used by parse_event_lists()
@@ -398,6 +409,7 @@ EVENT_LIST_JP = (
     "Event List/2022 Events",
     "Event List/2023 Events",
     "Event List/2024 Events",
+    "Event List/2025 Events",
 )
 
 # List of NA event pages
@@ -410,6 +422,7 @@ EVENT_LIST_NA = (
     "Event List (US)/2022 Events",
     "Event List (US)/2023 Events",
     "Event List (US)/2024 Events",
+    "Event List (US)/2025 Events",
 )
 
 class Event:
@@ -455,7 +468,7 @@ EVENT_SET_NA = {} # Dictionary of banners for NA
 PAGES_VISITED = set() # Set of pages visited
 CURRENT_YEAR = 0 # Current year
 CURRENT_REGION = "" # Current region
-PRESENT_YEAR = 2024
+PRESENT_YEAR = 2025
 
 def banner_init():
     global SERVANT_DATA
@@ -525,16 +538,25 @@ def get_header_info(page):
     text = page.text
     wikicode = mwparserfromhell.parse(text)
     templates = wikicode.filter_templates()
-    if len(templates) > 0 and (templates[0].name.strip() == "EventHeaderJP" or templates[0].name.strip() == "EventHeaderNA"):
+    header_idx = None
+
+    # Check template 1 or 2 for the header
+    if len(templates) > 0:
+        if (templates[0].name.strip() == "EventHeaderJP" or templates[0].name.strip() == "EventHeaderNA"):
+            header_idx = 0
+        if (templates[1].name.strip() == "EventHeaderJP" or templates[1].name.strip() == "EventHeaderNA"):
+            header_idx = 1
+        
+    if header_idx is not None:
         # Get the image file
-        image_file = templates[0].get("image").value.strip()
+        image_file = templates[header_idx].get("image").value.strip()
 
         # Get the raw start date
-        start_date_str = templates[0].get("start").value.strip()
+        start_date_str = templates[header_idx].get("start").value.strip()
 
         # Get the raw end date
         try:
-            end_date_str = templates[0].get("end").value.strip()
+            end_date_str = templates[header_idx].get("end").value.strip()
         # If the end date is missing or invalid, set the end date to the start date
         except ValueError:
             end_date_str = start_date_str
@@ -544,6 +566,9 @@ def get_header_info(page):
         # Parse the start and end date into date objects
         duration = date_parser(start_date_str, end_date_str, CURRENT_YEAR)
         return (image_file, duration)
+    else:
+        # Throw an assert
+        assert False, f"Error: No EventHeaderJP or EventHeaderNA template found in page {page.title()}"
 
 # Parse an FGO wiki page
 def parse(event_set, page, duration, parent=None, image_file=None):
@@ -637,7 +662,9 @@ def parse(event_set, page, duration, parent=None, image_file=None):
 
             # 2. The "class" field must contain "wikitable".
             # 3. The tag must contain at least one keyword indicating that it is a rateup servants wikitable.
-            if class_type != 'wikitable' or not any([x in tag for x in TABLE_MATCHES]):
+            has_valid_class = class_type == 'wikitable' or class_type == 'fandom-table'
+            has_valid_keyword = any([x in tag for x in TABLE_MATCHES])
+            if not has_valid_class or not has_valid_keyword:
                 continue
 
             # Parse the tag
@@ -1167,11 +1194,32 @@ def fix_banner_names(event_set):
     for event in event_set:
         # Get the list of banner titles.
         banner_titles = [banner.name for banner in event_set[event].banners]
+        # If multiple banners have the same name and only one needs to be renamed.
+        skipped_dict = {}
         # Check each banner title
         for i, banner_title in enumerate(banner_titles):
             # Apply any explicitly defined fixes
             for original, replace in BANNER_NAME_FIX.items():
-                substituted = re.sub(original, replace, banner_title)
+                # If the original string has "<SKIP#>string_to_replace" in it
+                if "<SKIP" in original:
+                    # Get the string_to_replace which is after the "<SKIP#>" part
+                    skip_key = original[5:].split(">")[1]
+                    skip_num = int(original[5:].split(">")[0])
+
+                    # If the skip_key is not in the skipped_dict, initialize its count
+                    if skip_key not in skipped_dict:
+                        skipped_dict[skip_key] = 1
+                        continue
+                    # Increment the counter if it hasn't reached skip_num
+                    elif skipped_dict[skip_key] < skip_num:
+                        skipped_dict[skip_key] += 1
+                        continue
+                    # If the skip_num has been reached, replace the string
+                    substituted = re.sub(skip_key, replace, banner_title)
+                else:
+                    # Replace it normally if string is present
+                    substituted = re.sub(original, replace, banner_title)
+                
                 if substituted != banner_title:
                     event_set[event].banners[i].name = substituted
                     banner_title = substituted
