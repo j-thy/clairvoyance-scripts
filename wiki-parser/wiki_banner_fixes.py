@@ -94,7 +94,7 @@ CORRECT_DATES_JP = {
 
 # Change the NA banner dates
 CORRECT_DATES_NA = {
-    ("Happy New Year 2024", "Happy New Year 2024 Summoning Campaign") : (date(2023, 12, 31), date(2024, 1, 10)), # TODO: Remove this once it gets removed from Current Events
+    ("Nahui Mictlān Part 2 Chapter Release", "Nahui Mictlān Part 2 Chapter Release Summoning Campaign") : (None, date(2025, 1, 28)),
     ("GUDAGUDA Yamataikoku 2022 Revival", "GUDAGUDA Yamataikoku 2022 Revival Summoning Campaign 2") : (date(2023, 10, 31), None),
     ("Halloween 2023 Event", "Halloween 2023 Event Summoning Campaign 3") : (date(2023, 10, 19), None),
     ("Halloween Trilogy Event", "Halloween Trilogy Event Summoning Campaign") : (None, date(2023, 10, 12)),

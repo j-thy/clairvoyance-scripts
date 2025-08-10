@@ -875,22 +875,7 @@ def parse(event_set, page, duration, parent=None, image_file=None):
             i += 1
     
     # Create banner objects for each rateup.
-    banners = []
-    for i in range(len(rateups)):
-        rateup_title = rateup_titles[i]
-        start_date = dates[i][0]
-        end_date = dates[i][1]
-        date_origin = date_origins[i]
-        # Manually fix dates for certain banners
-        if rateup_title in DATE_FIXES:
-            date_origin = "manual fix"
-            start_fix = DATE_FIXES[rateup_title][0]
-            end_fix = DATE_FIXES[rateup_title][1]
-            if start_fix is not None:
-                start_date = start_fix
-            if end_fix is not None:
-                end_date = end_fix
-        banners.append(Banner(rateup_title, start_date, end_date, date_origin, rateups[i]))
+    banners = [Banner(rateup_titles[i], dates[i][0], dates[i][1], date_origins[i], rateups[i]) for i in range(len(rateups))]
 
     # Check if the event is a subsequent Summoning Campaign that can be merged into a Chapter Release event
     chapter_release_title = f'{title.split("Summoning Campaign")[0].strip()} Chapter Release'

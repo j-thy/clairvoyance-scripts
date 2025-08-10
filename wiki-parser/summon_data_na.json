@@ -8702,7 +8702,7 @@
         "name": "Nahui Mictlān Part 2 Chapter Release Summoning Campaign",
         "start_date": "1/15/2025",
         "end_date": "1/28/2025",
-        "date_origin": "manual fix",
+        "date_origin": "event header na new",
         "rateups": {
           "371": "Tezcatlipoca",
           "372": "Tenochtitlan"
