@@ -7131,7 +7131,7 @@
     "image_file": "HappyNewYear2024US.png",
     "banners": [
       {
-        "name": "Happy New Year 2024 Summoning Campaign",
+        "name": "Happy New Year 2024 Summoning Campaign 1",
         "start_date": "12/31/2023",
         "end_date": "1/10/2024",
         "date_origin": "tab",
@@ -8400,6 +8400,26 @@
           "148": "Jaguar Man"
         },
         "num_rateups": 6
+      },
+      {
+        "name": "Singularity Repair Support Campaign Part 6 Summoning Campaign 9",
+        "start_date": "11/22/2024",
+        "end_date": "11/27/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "153": "Miyamoto Musashi",
+          "156": "James Moriarty",
+          "157": "EMIYA (Alter)",
+          "169": "Scheherazade",
+          "171": "Penthesilea",
+          "186": "Hōzōin Inshun",
+          "187": "Yagyū Munenori",
+          "188": "Katō Danzō",
+          "192": "Circe",
+          "194": "Queen of Sheba",
+          "195": "Abigail Williams"
+        },
+        "num_rateups": 11
       }
     ]
   },
@@ -8456,6 +8476,981 @@
           "345": "Kriemhild"
         },
         "num_rateups": 6
+      }
+    ]
+  },
+  {
+    "name": "FGO Thanksgiving Special 2024",
+    "region": "NA",
+    "image_file": "Thanksgiving2024CampaignUS.png",
+    "banners": [
+      {
+        "name": "FGO Thanksgiving Special 2024 Summoning Campaign",
+        "start_date": "11/21/2024",
+        "end_date": "12/2/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "70": "Scáthach",
+          "90": "Nero Claudius (Bride)",
+          "128": "Tamamo no Mae (Lancer)",
+          "154": "\"The Old Man of the Mountain\"",
+          "303": "Taira no Kagekiyo",
+          "336": "Manannán mac Lir (Bazett)"
+        },
+        "num_rateups": 6
+      }
+    ]
+  },
+  {
+    "name": "Fate 20th Anniversary Showcase Celebration Campaign",
+    "region": "NA",
+    "image_file": "Fate20thAnniversaryBannerUS.png",
+    "banners": [
+      {
+        "name": "Fate 20th Anniversary Showcase Celebration Summoning Campaign",
+        "start_date": "11/21/2024",
+        "end_date": "12/2/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "2": "Artoria Pendragon",
+          "5": "Nero Claudius",
+          "11": "EMIYA",
+          "12": "Gilgamesh",
+          "47": "Heracles",
+          "62": "Tamamo no Mae",
+          "93": "Amakusa Shirō",
+          "108": "Iskandar",
+          "136": "Illyasviel von Einzbern",
+          "142": "Ishtar",
+          "160": "Arthur Pendragon (Prototype)",
+          "164": "Passionlip",
+          "165": "Suzuka Gozen",
+          "175": "Nero Claudius (Caster)",
+          "183": "Parvati",
+          "199": "Semiramis",
+          "220": "BB (Summer)",
+          "281": "Voyager",
+          "282": "Kijyo Kōyō",
+          "286": "Illyasviel von Einzbern (Archer)"
+        },
+        "num_rateups": 20
+      }
+    ]
+  },
+  {
+    "name": "Road to 7: Lostbelt No.6 Campaign",
+    "region": "NA",
+    "image_file": "RoadTo7LB6BannerUS.png",
+    "banners": [
+      {
+        "name": "Road to 7: Lostbelt No.6 Summoning Campaign",
+        "start_date": "11/27/2024",
+        "end_date": "12/19/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "38": "Cú Chulainn (Caster)",
+          "231": "Red Hare",
+          "302": "Senji Muramasa",
+          "312": "Mélusine",
+          "313": "Percival",
+          "316": "Oberon"
+        },
+        "num_rateups": 6
+      }
+    ]
+  },
+  {
+    "name": "Christmas 2022 Event Revival",
+    "region": "NA",
+    "image_file": "Christmas2022EventRevivalUS.png",
+    "banners": [
+      {
+        "name": "Christmas 2022 Event Revival Summoning Campaign",
+        "start_date": "12/6/2024",
+        "end_date": "12/17/2024",
+        "date_origin": "event header jp old",
+        "rateups": {
+          "30": "Martha",
+          "84": "Arjuna",
+          "85": "Karna",
+          "89": "Beowulf",
+          "183": "Parvati",
+          "300": "Vritra"
+        },
+        "num_rateups": 6
+      }
+    ]
+  },
+  {
+    "name": "Christmas Revival 2024 Summoning Campaign",
+    "region": "NA",
+    "image_file": "ChristmasRevival2024SummonUS.png",
+    "banners": [
+      {
+        "name": "Christmas Revival 2024 Summoning Campaign",
+        "start_date": "12/17/2024",
+        "end_date": "12/25/2024",
+        "date_origin": "event header na new",
+        "rateups": {
+          "97": "Nightingale",
+          "215": "Scáthach-Skaði"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "Nahui Mictlān Part 1 Chapter Release",
+    "region": "NA",
+    "image_file": "LB7Part1BannerUS.png",
+    "banners": [
+      {
+        "name": "Lostbelt 7 Pre-Release Campaign Part 1 Summoning Campaign",
+        "start_date": "11/19/2024",
+        "end_date": "12/1/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "253": "Leonardo Da Vinci (Rider)",
+          "284": "Artoria Caster"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Lostbelt 7 Pre-Release Campaign Part 4 Summoning Campaign",
+        "start_date": "12/17/2024",
+        "end_date": "12/29/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "314": "Koyanskaya of Light"
+        },
+        "num_rateups": 1
+      },
+      {
+        "name": "Nahui Mictlān Part 1 Chapter Release Summoning Campaign",
+        "start_date": "12/25/2024",
+        "end_date": "1/7/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "370": "Nitocris (Alter)"
+        },
+        "num_rateups": 1
+      }
+    ]
+  },
+  {
+    "name": "Happy New Year 2025",
+    "region": "NA",
+    "image_file": "HappyNewYear2025US.png",
+    "banners": [
+      {
+        "name": "New Year 2025 Countdown Summoning Campaign",
+        "start_date": "12/25/2024",
+        "end_date": "12/31/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "173": "Sherlock Holmes",
+          "337": "Trung Sisters",
+          "339": "Super Bunyan",
+          "342": "Constantine XI",
+          "346": "James Moriarty (Ruler)"
+        },
+        "num_rateups": 5
+      },
+      {
+        "name": "Happy New Year 2025 Summoning Campaign",
+        "start_date": "12/31/2024",
+        "end_date": "1/10/2025",
+        "date_origin": "event header jp old",
+        "rateups": {
+          "12": "Gilgamesh",
+          "163": "Meltryllis",
+          "164": "Passionlip",
+          "177": "Nitocris (Assassin)",
+          "200": "Asagami Fujino",
+          "222": "Mysterious Heroine XX",
+          "234": "Beni-Enma",
+          "236": "Miyu Edelfelt",
+          "241": "Sima Yi (Reines)",
+          "270": "Astolfo (Saber)",
+          "282": "Kijyo Kōyō",
+          "305": "Amor (Caren)",
+          "334": "Koyanskaya of Darkness",
+          "347": "Don Quixote",
+          "369": "Grigori Rasputin"
+        },
+        "num_rateups": 15
+      }
+    ]
+  },
+  {
+    "name": "Nahui Mictlān Part 2 Chapter Release",
+    "region": "NA",
+    "image_file": "LB7Part2BannerUS.png",
+    "banners": [
+      {
+        "name": "Nahui Mictlān Part 2 Pre-Release Summoning Campaign",
+        "start_date": "1/6/2025",
+        "end_date": "1/13/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "120": "Nitocris",
+          "296": "Nemo"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Nahui Mictlān Part 2 Chapter Release Summoning Campaign",
+        "start_date": "1/15/2025",
+        "end_date": "1/28/2025",
+        "date_origin": "manual fix",
+        "rateups": {
+          "371": "Tezcatlipoca",
+          "372": "Tenochtitlan"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "Nahui Mictlān Summoning Campaign 2",
+    "region": "NA",
+    "image_file": "LB7Summon2US.png",
+    "banners": [
+      {
+        "name": "Nahui Mictlān Summoning Campaign 2",
+        "start_date": "1/21/2025",
+        "end_date": "2/4/2025",
+        "date_origin": "event header na new",
+        "rateups": {
+          "372": "Tenochtitlan",
+          "373": "Kukulkan"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "22M Downloads Campaign",
+    "region": "NA",
+    "image_file": "22MDownloadsCampaignUS.png",
+    "banners": [
+      {
+        "name": "22M Downloads Summoning Campaign",
+        "start_date": "1/30/2024",
+        "end_date": "2/6/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "196": "Ereshkigal",
+          "238": "Kingprotea"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "Valentine 2025 Event",
+    "region": "NA",
+    "image_file": "Valentine2025BannerUS.png",
+    "banners": [
+      {
+        "name": "Valentine 2025 Event Summoning Campaign",
+        "start_date": "2/7/2024",
+        "end_date": "2/27/2024",
+        "date_origin": "event header jp old",
+        "rateups": {
+          "2": "Artoria Pendragon",
+          "8": "Altera",
+          "59": "Jeanne d'Arc",
+          "60": "Orion",
+          "62": "Tamamo no Mae",
+          "65": "Francis Drake",
+          "75": "Jack the Ripper",
+          "76": "Mordred",
+          "97": "Nightingale",
+          "99": "Queen Medb",
+          "113": "Xuanzang Sanzang",
+          "119": "Artoria Pendragon (Lancer)",
+          "144": "Quetzalcoatl",
+          "169": "Scheherazade",
+          "189": "Osakabehime",
+          "201": "Anastasia",
+          "224": "Sitonai",
+          "232": "Bradamante",
+          "244": "Jinako Carigiri",
+          "274": "Europa",
+          "278": "Dioscuri",
+          "300": "Vritra",
+          "306": "Galatea",
+          "370": "Nitocris (Alter)",
+          "374": "Popess Johanna"
+        },
+        "num_rateups": 25
+      }
+    ]
+  },
+  {
+    "name": "Valentine 2018 - 2024 Summoning Campaign Revival",
+    "region": "NA",
+    "image_file": "Valentine2024SummonRevivalUS.png",
+    "banners": [
+      {
+        "name": "Valentine 2018 - 2024 Summoning Campaign Revival",
+        "start_date": "2/8/2025",
+        "end_date": "2/17/2025",
+        "date_origin": "event header na new",
+        "rateups": {
+          "90": "Nero Claudius (Bride)",
+          "155": "Mysterious Heroine X (Alter)",
+          "199": "Semiramis",
+          "237": "Murasaki Shikibu",
+          "276": "Sei Shōnagon",
+          "305": "Amor (Caren)",
+          "336": "Manannán mac Lir (Bazett)"
+        },
+        "num_rateups": 7
+      }
+    ]
+  },
+  {
+    "name": "Chaldea Boys Collection 2025",
+    "region": "NA",
+    "image_file": "CBC2025EventBannerUS.png",
+    "banners": [
+      {
+        "name": "Chaldea Boys Collection 2025 Pre-Release Summoning Campaign",
+        "start_date": "2/27/2025",
+        "end_date": "3/22/2025",
+        "date_origin": "event header jp old",
+        "rateups": {
+          "37": "Zhuge Liang (Lord El-Melloi II)",
+          "93": "Amakusa Shirō",
+          "96": "Edmond Dantès",
+          "156": "James Moriarty",
+          "160": "Arthur Pendragon (Prototype)",
+          "247": "Arjuna (Alter)",
+          "277": "Odysseus"
+        },
+        "num_rateups": 7
+      },
+      {
+        "name": "Chaldea Boys Collection 2025 Summoning Campaign",
+        "start_date": "3/13/2025",
+        "end_date": "3/25/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "52": "Vlad III",
+          "77": "Nikola Tesla",
+          "84": "Arjuna",
+          "85": "Karna",
+          "98": "Cú Chulainn (Alter)",
+          "118": "Ozymandias",
+          "143": "Enkidu",
+          "206": "Achilles",
+          "212": "Napoléon",
+          "226": "Xiang Yu",
+          "235": "Li Shuwen",
+          "278": "Dioscuri",
+          "296": "Nemo",
+          "331": "Taigong Wang",
+          "350": "Minamoto no Tametomo"
+        },
+        "num_rateups": 15
+      }
+    ]
+  },
+  {
+    "name": "White Day 2025 Event",
+    "region": "NA",
+    "image_file": "WhiteDay2025EventUS.png",
+    "banners": [
+      {
+        "name": "White Day 2025 Event Summoning Campaign 1",
+        "start_date": "3/5/2025",
+        "end_date": "3/25/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "64": "Hector",
+          "375": "Takasugi Shinsaku"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "White Day 2025 Event Summoning Campaign 2",
+        "start_date": "3/9/2025",
+        "end_date": "3/25/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "210": "Okada Izō",
+          "250": "Demon King Nobunaga"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "White Day 2025 Event Summoning Campaign 3",
+        "start_date": "3/11/2025",
+        "end_date": "3/25/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "210": "Okada Izō",
+          "329": "Sakamoto Ryōma (Lancer)"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "Pilgrimage Festival Part 1",
+    "region": "NA",
+    "image_file": "PilgrimageFestivalPart1US.png",
+    "banners": [
+      {
+        "name": "Pilgrimage Festival Part 1 Summoning Campaign 1",
+        "start_date": "3/20/2025",
+        "end_date": "3/31/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "51": "Sakata Kintoki",
+          "112": "Shuten Dōji",
+          "116": "Ibaraki Dōji",
+          "135": "Martha (Ruler)",
+          "144": "Quetzalcoatl",
+          "298": "Watanabe no Tsuna"
+        },
+        "num_rateups": 6
+      },
+      {
+        "name": "Pilgrimage Festival Part 1 Summoning Campaign 2",
+        "start_date": "3/26/2025",
+        "end_date": "4/6/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "114": "Minamoto no Raikō",
+          "135": "Martha (Ruler)",
+          "185": "Mochizuki Chiyome",
+          "217": "Ibaraki Dōji (Lancer)",
+          "232": "Bradamante",
+          "299": "Ibuki Dōji"
+        },
+        "num_rateups": 6
+      }
+    ]
+  },
+  {
+    "name": "FGO Arcade Collaboration Event",
+    "region": "NA",
+    "image_file": "ArcadeCollabBannerUS.png",
+    "banners": [
+      {
+        "name": "FGO Arcade Collaboration Event Pre-Release Summoning Campaign",
+        "start_date": "3/24/2025",
+        "end_date": "4/17/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "127": "Leonardo Da Vinci",
+          "154": "\"The Old Man of the Mountain\"",
+          "376": "Larva/Tiamat"
+        },
+        "num_rateups": 3
+      },
+      {
+        "name": "FGO Arcade Collaboration Event Summoning Campaign 1",
+        "start_date": "3/28/2025",
+        "end_date": "4/17/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "377": "Sodom's Beast/Draco",
+          "378": "Locusta"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "FGO Arcade Collaboration Event Summoning Campaign 2",
+        "start_date": "3/30/2025",
+        "end_date": "4/13/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "145": "Gilgamesh (Caster)",
+          "324": "Jacques de Molay",
+          "353": "Lady Avalon"
+        },
+        "num_rateups": 3
+      },
+      {
+        "name": "FGO Arcade Collaboration Event Summoning Campaign 3",
+        "start_date": "4/3/2025",
+        "end_date": "4/10/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "70": "Scáthach",
+          "97": "Nightingale"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "FGO Arcade Collaboration Event Summoning Campaign 4",
+        "start_date": "4/6/2025",
+        "end_date": "4/13/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "5": "Nero Claudius",
+          "75": "Jack the Ripper",
+          "76": "Mordred",
+          "78": "Artoria Pendragon (Lancer Alter)"
+        },
+        "num_rateups": 4
+      }
+    ]
+  },
+  {
+    "name": "Pilgrimage Festival Part 2",
+    "region": "NA",
+    "image_file": "PilgrimageFestivalPart2US.png",
+    "banners": [
+      {
+        "name": "Pilgrimage Festival Part 2 Summoning Campaign",
+        "start_date": "4/17/2025",
+        "end_date": "4/27/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "18": "Elizabeth Báthory",
+          "52": "Vlad III",
+          "68": "Okita Sōji",
+          "86": "Mysterious Heroine X",
+          "178": "Oda Nobunaga (Berserker)",
+          "222": "Mysterious Heroine XX"
+        },
+        "num_rateups": 6
+      }
+    ]
+  },
+  {
+    "name": "Ordeal Call Pre-Release Campaign",
+    "region": "NA",
+    "image_file": "OrdealCallPreCampaignUS.png",
+    "banners": [
+      {
+        "name": "Ordeal Call Pre-Release Summoning Campaign",
+        "start_date": "4/17/2025",
+        "end_date": "4/27/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "201": "Anastasia",
+          "202": "Atalanta (Alter)",
+          "203": "Avicebron",
+          "204": "Antonio Salieri",
+          "205": "Ivan the Terrible",
+          "332": "Dobrynya Nikitich"
+        },
+        "num_rateups": 6
+      }
+    ]
+  },
+  {
+    "name": "Illya's Karakuri Castle",
+    "region": "NA",
+    "image_file": "KarakuriCastleBannerUS.png",
+    "banners": [
+      {
+        "name": "Illya's Karakuri Castle Summoning Campaign 1",
+        "start_date": "4/24/2025",
+        "end_date": "5/7/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "117": "Fūma Kotarō",
+          "188": "Katō Danzō",
+          "380": "Kashin Koji"
+        },
+        "num_rateups": 3
+      },
+      {
+        "name": "Illya's Karakuri Castle Summoning Campaign 2",
+        "start_date": "4/25/2025",
+        "end_date": "5/2/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "117": "Fūma Kotarō",
+          "136": "Illyasviel von Einzbern",
+          "236": "Miyu Edelfelt"
+        },
+        "num_rateups": 3
+      },
+      {
+        "name": "Illya's Karakuri Castle Summoning Campaign 3",
+        "start_date": "4/27/2025",
+        "end_date": "5/4/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "188": "Katō Danzō",
+          "224": "Sitonai",
+          "236": "Miyu Edelfelt"
+        },
+        "num_rateups": 3
+      }
+    ]
+  },
+  {
+    "name": "Nero Festival & Battle in New York Summoning Campaign Revival",
+    "region": "NA",
+    "image_file": "NeroFestBINYSummonUS.png",
+    "banners": [
+      {
+        "name": "Nero Festival & Battle in New York Summoning Campaign Revival",
+        "start_date": "4/30/2025",
+        "end_date": "5/7/2025",
+        "date_origin": "event header na new",
+        "rateups": {
+          "77": "Nikola Tesla",
+          "90": "Nero Claudius (Bride)",
+          "103": "Thomas Edison",
+          "175": "Nero Claudius (Caster)"
+        },
+        "num_rateups": 4
+      }
+    ]
+  },
+  {
+    "name": "Paper Moon Chapter Release",
+    "region": "NA",
+    "image_file": "PaperMoonBannerUS.png",
+    "banners": [
+      {
+        "name": "Paper Moon Pre-Release Summoning Campaign",
+        "start_date": "5/7/2025",
+        "end_date": "5/18/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "370": "Nitocris (Alter)",
+          "372": "Tenochtitlan",
+          "373": "Kukulkan"
+        },
+        "num_rateups": 3
+      },
+      {
+        "name": "Paper Moon Chapter Release Summoning Campaign",
+        "start_date": "5/19/2025",
+        "end_date": "6/1/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "381": "Bhima",
+          "382": "Duryodhana"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Paper Moon Summoning Campaign 2",
+        "start_date": "5/21/2025",
+        "end_date": "6/4/2025",
+        "date_origin": "event header na new",
+        "rateups": {
+          "9": "Gilles de Rais (Saber)",
+          "32": "Gilles de Rais",
+          "227": "Lanling Wang",
+          "239": "Kama"
+        },
+        "num_rateups": 4
+      },
+      {
+        "name": "Paper Moon Summoning Campaign 3",
+        "start_date": "5/25/2025",
+        "end_date": "6/15/2025",
+        "date_origin": "event header na new",
+        "rateups": {
+          "382": "Duryodhana",
+          "383": "Durga"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "23M Downloads Campaign",
+    "region": "NA",
+    "image_file": "23MDownloadsCampaignUS.png",
+    "banners": [
+      {
+        "name": "23M Downloads Summoning Campaign",
+        "start_date": "5/28/2025",
+        "end_date": "6/11/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "129": "Artoria Pendragon (Archer)",
+          "132": "Mordred (Rider)",
+          "179": "Artoria Pendragon (Rider Alter)",
+          "222": "Mysterious Heroine XX",
+          "265": "Artoria Pendragon (Ruler)",
+          "267": "Okita J Sōji"
+        },
+        "num_rateups": 6
+      }
+    ]
+  },
+  {
+    "name": "Pilgrimage Festival Part 3",
+    "region": "NA",
+    "image_file": "PilgrimageFestivalPart3US.png",
+    "banners": [
+      {
+        "name": "Pilgrimage Festival Part 3 Summoning Campaign",
+        "start_date": "6/5/2025",
+        "end_date": "6/14/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "106": "Jeanne d'Arc (Alter)",
+          "134": "Kiyohime (Lancer)",
+          "198": "Katsushika Hokusai",
+          "215": "Scáthach-Skaði",
+          "221": "Queen Medb (Saber)",
+          "262": "Osakabehime (Archer)"
+        },
+        "num_rateups": 6
+      }
+    ]
+  },
+  {
+    "name": "Mystic Eyes Symphony",
+    "region": "NA",
+    "image_file": "MysticEyesSymphonyUS.png",
+    "banners": [
+      {
+        "name": "Mystic Eyes Symphony Summoning Campaign 1",
+        "start_date": "6/10/2025",
+        "end_date": "6/30/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "384": "Medusa (Saber)"
+        },
+        "num_rateups": 1
+      },
+      {
+        "name": "Mystic Eyes Symphony Summoning Campaign 2",
+        "start_date": "6/11/2025",
+        "end_date": "6/18/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "158": "Hessian Lobo",
+          "349": "Kyokutei Bakin"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Mystic Eyes Symphony Summoning Campaign 3",
+        "start_date": "6/13/2025",
+        "end_date": "6/20/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "365": "Huyan Zhuo",
+          "366": "Huang Feihu"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "Mystic Eyes Symphony Summoning Campaign 4",
+        "start_date": "6/16/2025",
+        "end_date": "6/27/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "15": "Euryale",
+          "23": "Medusa",
+          "41": "Stheno",
+          "146": "Medusa (Lancer)",
+          "147": "Gorgon",
+          "300": "Vritra",
+          "306": "Galatea",
+          "307": "Miss Crane",
+          "311": "Baobhan Sith"
+        },
+        "num_rateups": 9
+      }
+    ]
+  },
+  {
+    "name": "Anime Expo 2025 Campaign",
+    "region": "NA",
+    "image_file": "AX2025CampaignUS.png",
+    "banners": [
+      {
+        "name": "Anime Expo 2025 Summoning Campaign",
+        "start_date": "7/2/2025",
+        "end_date": "7/6/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "3": "Artoria Pendragon (Alter)",
+          "179": "Artoria Pendragon (Rider Alter)"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "FGO Festival 2025 ~8th Anniversary~",
+    "region": "NA",
+    "image_file": "FGO8thAnniversaryUS.png",
+    "banners": [
+      {
+        "name": "FGO 8th Anniversary Pre-Release Summoning Campaign",
+        "start_date": "6/26/2025",
+        "end_date": "7/5/2024",
+        "date_origin": "tab",
+        "rateups": {
+          "156": "James Moriarty",
+          "253": "Leonardo Da Vinci (Rider)"
+        },
+        "num_rateups": 2
+      },
+      {
+        "name": "FGO Festival 2025 ~8th Anniversary~ Summoning Campaign 1",
+        "start_date": "7/5/2025",
+        "end_date": "7/17/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "385": "Aesc the Savior"
+        },
+        "num_rateups": 1
+      },
+      {
+        "name": "FGO Festival 2025 ~8th Anniversary~ Summoning Campaign 2",
+        "start_date": "7/7/2025",
+        "end_date": "7/16/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "128": "Tamamo no Mae (Lancer)",
+          "176": "Frankenstein (Saber)",
+          "218": "Ushiwakamaru (Assassin)",
+          "266": "Mysterious Alter Ego Λ",
+          "268": "Space Ishtar",
+          "269": "Calamity Jane",
+          "293": "Saitō Hajime",
+          "295": "Van Gogh",
+          "303": "Taira no Kagekiyo",
+          "323": "Sei Shōnagon (Berserker)",
+          "337": "Trung Sisters",
+          "339": "Super Bunyan",
+          "340": "Daikokuten",
+          "342": "Constantine XI"
+        },
+        "num_rateups": 14
+      }
+    ]
+  },
+  {
+    "name": "FGO Summer 2025 Event",
+    "region": "NA",
+    "image_file": "FGOSummer2025EventUS.png",
+    "banners": [
+      {
+        "name": "FGO Summer 2025 Event Summoning Campaign 1",
+        "start_date": "7/18/2025",
+        "end_date": "8/7/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "386": "Artoria Caster (Berserker)",
+          "387": "Suzuka Gozen (Vacay)",
+          "388": "Chloe von Einzbern (Avenger)"
+        },
+        "num_rateups": 3
+      },
+      {
+        "name": "FGO Summer 2025 Event Summoning Campaign 2",
+        "start_date": "7/18/2025",
+        "end_date": "8/7/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "121": "Lancelot (Saber)",
+          "122": "Tristan",
+          "123": "Gawain",
+          "316": "Oberon"
+        },
+        "num_rateups": 4
+      },
+      {
+        "name": "FGO Summer 2025 Event Summoning Campaign 3",
+        "start_date": "7/21/2025",
+        "end_date": "8/7/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "390": "Mélusine (Ruler)",
+          "391": "UDK-Barghest",
+          "392": "Cait Cú Cerpriestess"
+        },
+        "num_rateups": 3
+      },
+      {
+        "name": "FGO Summer 2025 Event Summoning Campaign 4",
+        "start_date": "7/23/2025",
+        "end_date": "8/7/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "371": "Tezcatlipoca"
+        },
+        "num_rateups": 1
+      }
+    ]
+  },
+  {
+    "name": "FGO Summer 2024 Revival Summoning Campaign",
+    "region": "NA",
+    "image_file": "Summer2024RevivalSummonUS.png",
+    "banners": [
+      {
+        "name": "FGO Summer 2024 Revival Summoning Campaign",
+        "start_date": "7/30/2025",
+        "end_date": "8/10/2025",
+        "date_origin": "event header na new",
+        "rateups": {
+          "353": "Lady Avalon",
+          "354": "Gareth (Saber)",
+          "355": "Ibuki Dōji (Berserker)",
+          "356": "Utsumi Erice (Avenger)",
+          "357": "Scáthach-Skaði (Ruler)",
+          "358": "Wu Zetian (Caster)"
+        },
+        "num_rateups": 6
+      }
+    ]
+  },
+  {
+    "name": "Fate/Hollow Ataraxia Remastered Release Campaign",
+    "region": "NA",
+    "image_file": "FHACampaignUS.png",
+    "banners": [
+      {
+        "name": "Fate/Hollow Ataraxia Remastered Release Summoning Campaign",
+        "start_date": "8/8/2025",
+        "end_date": "8/14/2025",
+        "date_origin": "event header na new",
+        "rateups": {
+          "305": "Amor (Caren)",
+          "336": "Manannán mac Lir (Bazett)"
+        },
+        "num_rateups": 2
+      }
+    ]
+  },
+  {
+    "name": "Hunting Quests Part XIII",
+    "region": "NA",
+    "image_file": "HuntingQuestsPart13US.png",
+    "banners": [
+      {
+        "name": "Hunting Quests Part XIII Summoning Campaign",
+        "start_date": "8/8/2025",
+        "end_date": "8/22/2025",
+        "date_origin": "tab",
+        "rateups": {
+          "220": "BB (Summer)",
+          "285": "Sesshōin Kiara (Moon Cancer)",
+          "286": "Illyasviel von Einzbern (Archer)",
+          "287": "Brynhildr (Berserker)",
+          "289": "Abigail Williams (Summer)",
+          "290": "Tomoe Gozen (Saber)",
+          "291": "Murasaki Shikibu (Rider)",
+          "317": "Okita Sōji (Saber Alter)",
+          "318": "Anastasia & Viy",
+          "319": "Charlotte Corday (Caster)",
+          "321": "Kama (Avenger)",
+          "322": "Caenis (Rider)"
+        },
+        "num_rateups": 12
       }
     ]
   }

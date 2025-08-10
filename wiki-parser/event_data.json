@@ -2597,7 +2597,351 @@
     "region": "JP",
     "start_date": "2024-11-06",
     "end_date": "2024-12-04",
-    "image_file": "mystery_house_crafters.png"
+    "image_file": "Mystery_house_crafters.png"
+  },
+  {
+    "slug": "interlude-campaign-21-jp",
+    "name": "Interlude Campaign 21",
+    "region": "JP",
+    "start_date": "2024-11-28",
+    "end_date": "2024-12-07",
+    "image_file": "Interlude21Banner.png"
+  },
+  {
+    "slug": "lostbelt-no7-clear-support-campaign-jp",
+    "name": "Lostbelt No.7 Clear Support Campaign",
+    "region": "JP",
+    "start_date": "2024-12-01",
+    "end_date": "2024-12-31",
+    "image_file": "lb7_clear_cp.png"
+  },
+  {
+    "slug": "christmas-2024-jp",
+    "name": "Christmas 2024",
+    "region": "JP",
+    "start_date": "2024-12-11",
+    "end_date": "2024-12-24",
+    "image_file": "christmas2024.png"
+  },
+  {
+    "slug": "space-phantasmoon-jp",
+    "name": "Space Phantasmoon",
+    "region": "JP",
+    "start_date": "2024-12-24",
+    "end_date": "2024-12-31",
+    "image_file": "spacephantasmoon.png"
+  },
+  {
+    "slug": "new-year-campaign-2025-jp",
+    "name": "New Year Campaign 2025",
+    "region": "JP",
+    "start_date": "2025-01-01",
+    "end_date": "2025-01-15",
+    "image_file": "Newyear2025_cp.png"
+  },
+  {
+    "slug": "ordeal-call-i-clear-support-campaign-jp",
+    "name": "Ordeal Call I Clear Support Campaign",
+    "region": "JP",
+    "start_date": "2025-01-11",
+    "end_date": "2025-01-20",
+    "image_file": "ordeal_call_1_clear_cp.png"
+  },
+  {
+    "slug": "saber-weekly-summoning-campaign-1-jp",
+    "name": "Saber Weekly Summoning Campaign 1",
+    "region": "JP",
+    "start_date": "2025-01-06",
+    "end_date": "2025-01-13",
+    "image_file": "saber_weekly_pu.png"
+  },
+  {
+    "slug": "evocation-festival-part-9-jp",
+    "name": "Evocation Festival Part 9",
+    "region": "JP",
+    "start_date": "2025-01-24",
+    "end_date": "2025-02-04",
+    "image_file": "feasts_cp9.png"
+  },
+  {
+    "slug": "saber-weekly-summoning-campaign-2-jp",
+    "name": "Saber Weekly Summoning Campaign 2",
+    "region": "JP",
+    "start_date": "2025-01-13",
+    "end_date": "2025-01-20",
+    "image_file": "saber_weekly_pu2.png"
+  },
+  {
+    "slug": "my-little-dragon-jp",
+    "name": "My Little Dragon",
+    "region": "JP",
+    "start_date": "2025-01-15",
+    "end_date": "2025-02-05",
+    "image_file": "My_little_dragon.png"
+  },
+  {
+    "slug": "ruler-weekly-summoning-campaign-jp",
+    "name": "Ruler Weekly Summoning Campaign",
+    "region": "JP",
+    "start_date": "2025-01-20",
+    "end_date": "2025-01-27",
+    "image_file": "Ruler_weekly_pu.png"
+  },
+  {
+    "slug": "archer-weekly-summoning-campaign-1-jp",
+    "name": "Archer Weekly Summoning Campaign 1",
+    "region": "JP",
+    "start_date": "2025-01-27",
+    "end_date": "2025-02-03",
+    "image_file": "archer_weekly_pu.png"
+  },
+  {
+    "slug": "ordeal-call-ii-clear-support-campaign-jp",
+    "name": "Ordeal Call II Clear Support Campaign",
+    "region": "JP",
+    "start_date": "2025-02-01",
+    "end_date": "2025-02-08",
+    "image_file": "ordeal_call_2_clear_cp.png"
+  },
+  {
+    "slug": "archer-weekly-summoning-campaign-2-jp",
+    "name": "Archer Weekly Summoning Campaign 2",
+    "region": "JP",
+    "start_date": "2025-02-03",
+    "end_date": "2025-02-10",
+    "image_file": "archer_weekly_pu2.png"
+  },
+  {
+    "slug": "alter-ego-weekly-summoning-campaign-jp",
+    "name": "Alter Ego Weekly Summoning Campaign",
+    "region": "JP",
+    "start_date": "2025-02-10",
+    "end_date": "2025-02-17",
+    "image_file": "Alterego_weekly_pu.png"
+  },
+  {
+    "slug": "valentine-2025-jp",
+    "name": "Valentine 2025",
+    "region": "JP",
+    "start_date": "2025-02-12",
+    "end_date": "2025-03-05",
+    "image_file": "Valentine2025.png"
+  },
+  {
+    "slug": "lancer-weekly-summoning-campaign-1-jp",
+    "name": "Lancer Weekly Summoning Campaign 1",
+    "region": "JP",
+    "start_date": "2025-02-17",
+    "end_date": "2025-02-24",
+    "image_file": "lancer_weekly_pu.png"
+  },
+  {
+    "slug": "lancer-weekly-summoning-campaign-2-jp",
+    "name": "Lancer Weekly Summoning Campaign 2",
+    "region": "JP",
+    "start_date": "2025-02-24",
+    "end_date": "2025-03-03",
+    "image_file": "Lancer_weekly_pu2.png"
+  },
+  {
+    "slug": "ordeal-call-iii-clear-support-campaign-jp",
+    "name": "Ordeal Call III Clear Support Campaign",
+    "region": "JP",
+    "start_date": "2025-03-01",
+    "end_date": "2025-03-31",
+    "image_file": "ordeal_call_3_clear_cp.png"
+  },
+  {
+    "slug": "avenger-weekly-summoning-campaign-jp",
+    "name": "Avenger Weekly Summoning Campaign",
+    "region": "JP",
+    "start_date": "2025-03-03",
+    "end_date": "2025-03-10",
+    "image_file": "avenger_weekly_pu.png"
+  },
+  {
+    "slug": "his-name-is-dante-jp",
+    "name": "His Name is Dante",
+    "region": "JP",
+    "start_date": "2025-03-05",
+    "end_date": "2025-03-26",
+    "image_file": "Cbc2025 onjae.png"
+  },
+  {
+    "slug": "rider-weekly-summoning-campaign-1-jp",
+    "name": "Rider Weekly Summoning Campaign 1",
+    "region": "JP",
+    "start_date": "2025-03-10",
+    "end_date": "2025-03-17",
+    "image_file": "rider_weekly_pu.png"
+  },
+  {
+    "slug": "rider-weekly-summoning-campaign-2-jp",
+    "name": "Rider Weekly Summoning Campaign 2",
+    "region": "JP",
+    "start_date": "2025-03-17",
+    "end_date": "2025-03-24",
+    "image_file": "rider_weekly_pu2.png"
+  },
+  {
+    "slug": "caster-weekly-summoning-campaign-1-jp",
+    "name": "Caster Weekly Summoning Campaign 1",
+    "region": "JP",
+    "start_date": "2025-03-24",
+    "end_date": "2025-03-31",
+    "image_file": "caster_weekly_pu.png"
+  },
+  {
+    "slug": "spring-new-master-aid-campaign-2025-jp",
+    "name": "Spring New Master Aid Campaign 2025",
+    "region": "JP",
+    "start_date": "2025-03-29",
+    "end_date": "2025-04-12",
+    "image_file": "new master spring cp4.png"
+  },
+  {
+    "slug": "caster-weekly-summoning-campaign-2-jp",
+    "name": "Caster Weekly Summoning Campaign 2",
+    "region": "JP",
+    "start_date": "2025-03-31",
+    "end_date": "2025-04-07",
+    "image_file": "caster_weekly_pu2.png"
+  },
+  {
+    "slug": "gudaguda-close-call-2021-rerun-jp",
+    "name": "GUDAGUDA Close Call 2021 Rerun",
+    "region": "JP",
+    "start_date": "2025-04-02",
+    "end_date": "2025-04-23",
+    "image_file": "GudaGuda2021RerunBanner.png"
+  },
+  {
+    "slug": "evocation-festival-part-11-jp",
+    "name": "Evocation Festival Part 11",
+    "region": "JP",
+    "start_date": "2025-04-04",
+    "end_date": "2025-04-13",
+    "image_file": "Feasts_cp11.png"
+  },
+  {
+    "slug": "foreigner-weekly-summoning-campaign-jp",
+    "name": "Foreigner Weekly Summoning Campaign",
+    "region": "JP",
+    "start_date": "2025-04-07",
+    "end_date": "2025-04-14",
+    "image_file": "foreigner_weekly_pu.png"
+  },
+  {
+    "slug": "31m-downloads-campaign-jp",
+    "name": "31M Downloads Campaign",
+    "region": "JP",
+    "start_date": "2025-04-09",
+    "end_date": "2025-04-23",
+    "image_file": "3100man.png"
+  },
+  {
+    "slug": "berserker-weekly-summoning-campaign-1-jp",
+    "name": "Berserker Weekly Summoning Campaign 1",
+    "region": "JP",
+    "start_date": "2025-04-14",
+    "end_date": "2025-04-21",
+    "image_file": "berserker_weekly_pu.png"
+  },
+  {
+    "slug": "berserker-weekly-summoning-campaign-2-jp",
+    "name": "Berserker Weekly Summoning Campaign 2",
+    "region": "JP",
+    "start_date": "2025-04-21",
+    "end_date": "2025-04-28",
+    "image_file": "berserker_weekly_pu2.png"
+  },
+  {
+    "slug": "assassin-weekly-summoning-campaign-1-jp",
+    "name": "Assassin Weekly Summoning Campaign 1",
+    "region": "JP",
+    "start_date": "2025-04-28",
+    "end_date": "2025-05-05",
+    "image_file": "assassin_weekly_pu.png"
+  },
+  {
+    "slug": "trinity-metatronius-chapter-release-jp",
+    "name": "Trinity Metatronius Chapter Release",
+    "region": "JP",
+    "start_date": "2025-04-30",
+    "end_date": "2025-05-22",
+    "image_file": "Trinitymetatroniusbanner.png"
+  },
+  {
+    "slug": "assassin-weekly-summoning-campaign-2-jp",
+    "name": "Assassin Weekly Summoning Campaign 2",
+    "region": "JP",
+    "start_date": "2025-05-05",
+    "end_date": "2025-05-12",
+    "image_file": "assassin_weekly_pu2.png"
+  },
+  {
+    "slug": "moon-cancer-weekly-summoning-campaign-jp",
+    "name": "Moon Cancer Weekly Summoning Campaign",
+    "region": "JP",
+    "start_date": "2025-05-12",
+    "end_date": "2025-05-19",
+    "image_file": "Mooncancer_weekly_pu.png"
+  },
+  {
+    "slug": "pretender-beast-weekly-summoning-campaign-jp",
+    "name": "Pretender & Beast Weekly Summoning Campaign",
+    "region": "JP",
+    "start_date": "2025-05-19",
+    "end_date": "2025-05-26",
+    "image_file": "Pretender_beast_weekly_pu.png"
+  },
+  {
+    "slug": "grand-duel-saber-jp",
+    "name": "Grand Duel: Saber",
+    "region": "JP",
+    "start_date": "2025-05-09",
+    "end_date": "2025-05-28",
+    "image_file": "Grand_Duel_Saber_Banner.png"
+  },
+  {
+    "slug": "wings-of-lacrimation-jp",
+    "name": "Wings of Lacrimation",
+    "region": "JP",
+    "start_date": "2025-05-28",
+    "end_date": "2025-06-25",
+    "image_file": "Wings of Lacrimation.png"
+  },
+  {
+    "slug": "indras-great-trials-jp",
+    "name": "Indra's Great Trials",
+    "region": "JP",
+    "start_date": "2025-07-02",
+    "end_date": "2025-07-23",
+    "image_file": "Indra's Great Trials.png"
+  },
+  {
+    "slug": "fategrand-order-10th-anniversary-over-the-same-sky-jp",
+    "name": "Fate/Grand Order 10th Anniversary: OVER THE SAME SKY",
+    "region": "JP",
+    "start_date": "2025-06-30",
+    "end_date": "2025-08-11",
+    "image_file": "OVER THE SAME SKY Banner.png"
+  },
+  {
+    "slug": "fategrand-order-10th-anniversary-jp",
+    "name": "Fate/Grand Order ～10th Anniversary～",
+    "region": "JP",
+    "start_date": "2025-07-23",
+    "end_date": "2025-08-17",
+    "image_file": "10th anniversary.png"
+  },
+  {
+    "slug": "grand-duel-extra-jp",
+    "name": "Grand Duel: Extra",
+    "region": "JP",
+    "start_date": "2025-08-05",
+    "end_date": "2025-09-03",
+    "image_file": "Grand Duel Extra Banner.png"
   },
   {
     "slug": "66666-facebook-likes-campaign-na",
@@ -4724,7 +5068,7 @@
     "name": "Singularity Repair Support Campaign Part 6",
     "region": "NA",
     "start_date": "2024-10-27",
-    "end_date": "2024-11-22",
+    "end_date": "2024-11-27",
     "image_file": "SingularityRepairCampaign6US.png"
   },
   {
@@ -4734,5 +5078,245 @@
     "start_date": "2024-10-31",
     "end_date": "2024-11-21",
     "image_file": "TamLinCupBannerUS.png"
+  },
+  {
+    "slug": "fgo-thanksgiving-special-2024-na",
+    "name": "FGO Thanksgiving Special 2024",
+    "region": "NA",
+    "start_date": "2024-11-21",
+    "end_date": "2024-12-02",
+    "image_file": "Thanksgiving2024CampaignUS.png"
+  },
+  {
+    "slug": "fate-20th-anniversary-showcase-celebration-campaign-na",
+    "name": "Fate 20th Anniversary Showcase Celebration Campaign",
+    "region": "NA",
+    "start_date": "2024-11-21",
+    "end_date": "2024-12-02",
+    "image_file": "Fate20thAnniversaryBannerUS.png"
+  },
+  {
+    "slug": "road-to-7-lostbelt-no6-campaign-na",
+    "name": "Road to 7: Lostbelt No.6 Campaign",
+    "region": "NA",
+    "start_date": "2024-11-27",
+    "end_date": "2024-12-19",
+    "image_file": "RoadTo7LB6BannerUS.png"
+  },
+  {
+    "slug": "christmas-2022-event-revival-na",
+    "name": "Christmas 2022 Event Revival",
+    "region": "NA",
+    "start_date": "2024-12-06",
+    "end_date": "2024-12-17",
+    "image_file": "Christmas2022EventRevivalUS.png"
+  },
+  {
+    "slug": "christmas-revival-2024-summoning-campaign-na",
+    "name": "Christmas Revival 2024 Summoning Campaign",
+    "region": "NA",
+    "start_date": "2024-12-17",
+    "end_date": "2024-12-25",
+    "image_file": "ChristmasRevival2024SummonUS.png"
+  },
+  {
+    "slug": "nahui-mictlan-part-1-chapter-release-na",
+    "name": "Nahui Mictlān Part 1 Chapter Release",
+    "region": "NA",
+    "start_date": "2024-11-19",
+    "end_date": "2025-01-07",
+    "image_file": "LB7Part1BannerUS.png"
+  },
+  {
+    "slug": "happy-new-year-2025-na",
+    "name": "Happy New Year 2025",
+    "region": "NA",
+    "start_date": "2024-12-25",
+    "end_date": "2025-01-10",
+    "image_file": "HappyNewYear2025US.png"
+  },
+  {
+    "slug": "nahui-mictlan-part-2-chapter-release-na",
+    "name": "Nahui Mictlān Part 2 Chapter Release",
+    "region": "NA",
+    "start_date": "2025-01-06",
+    "end_date": "2025-01-28",
+    "image_file": "LB7Part2BannerUS.png"
+  },
+  {
+    "slug": "nahui-mictlan-summoning-campaign-2-na",
+    "name": "Nahui Mictlān Summoning Campaign 2",
+    "region": "NA",
+    "start_date": "2025-01-21",
+    "end_date": "2025-02-04",
+    "image_file": "LB7Summon2US.png"
+  },
+  {
+    "slug": "22m-downloads-campaign-na",
+    "name": "22M Downloads Campaign",
+    "region": "NA",
+    "start_date": "2024-01-30",
+    "end_date": "2024-02-06",
+    "image_file": "22MDownloadsCampaignUS.png"
+  },
+  {
+    "slug": "valentine-2025-event-na",
+    "name": "Valentine 2025 Event",
+    "region": "NA",
+    "start_date": "2024-02-07",
+    "end_date": "2024-02-27",
+    "image_file": "Valentine2025BannerUS.png"
+  },
+  {
+    "slug": "valentine-2018-2024-summoning-campaign-revival-na",
+    "name": "Valentine 2018 - 2024 Summoning Campaign Revival",
+    "region": "NA",
+    "start_date": "2025-02-08",
+    "end_date": "2025-02-17",
+    "image_file": "Valentine2024SummonRevivalUS.png"
+  },
+  {
+    "slug": "chaldea-boys-collection-2025-na",
+    "name": "Chaldea Boys Collection 2025",
+    "region": "NA",
+    "start_date": "2025-02-27",
+    "end_date": "2025-03-25",
+    "image_file": "CBC2025EventBannerUS.png"
+  },
+  {
+    "slug": "white-day-2025-event-na",
+    "name": "White Day 2025 Event",
+    "region": "NA",
+    "start_date": "2025-03-05",
+    "end_date": "2025-03-25",
+    "image_file": "WhiteDay2025EventUS.png"
+  },
+  {
+    "slug": "pilgrimage-festival-part-1-na",
+    "name": "Pilgrimage Festival Part 1",
+    "region": "NA",
+    "start_date": "2025-03-20",
+    "end_date": "2025-04-06",
+    "image_file": "PilgrimageFestivalPart1US.png"
+  },
+  {
+    "slug": "fgo-arcade-collaboration-event-na",
+    "name": "FGO Arcade Collaboration Event",
+    "region": "NA",
+    "start_date": "2025-03-24",
+    "end_date": "2025-04-17",
+    "image_file": "ArcadeCollabBannerUS.png"
+  },
+  {
+    "slug": "pilgrimage-festival-part-2-na",
+    "name": "Pilgrimage Festival Part 2",
+    "region": "NA",
+    "start_date": "2025-04-17",
+    "end_date": "2025-04-27",
+    "image_file": "PilgrimageFestivalPart2US.png"
+  },
+  {
+    "slug": "ordeal-call-pre-release-campaign-na",
+    "name": "Ordeal Call Pre-Release Campaign",
+    "region": "NA",
+    "start_date": "2025-04-17",
+    "end_date": "2025-04-27",
+    "image_file": "OrdealCallPreCampaignUS.png"
+  },
+  {
+    "slug": "illyas-karakuri-castle-na",
+    "name": "Illya's Karakuri Castle",
+    "region": "NA",
+    "start_date": "2025-04-24",
+    "end_date": "2025-05-07",
+    "image_file": "KarakuriCastleBannerUS.png"
+  },
+  {
+    "slug": "nero-festival-battle-in-new-york-summoning-campaign-revival-na",
+    "name": "Nero Festival & Battle in New York Summoning Campaign Revival",
+    "region": "NA",
+    "start_date": "2025-04-30",
+    "end_date": "2025-05-07",
+    "image_file": "NeroFestBINYSummonUS.png"
+  },
+  {
+    "slug": "paper-moon-chapter-release-na",
+    "name": "Paper Moon Chapter Release",
+    "region": "NA",
+    "start_date": "2025-05-07",
+    "end_date": "2025-06-15",
+    "image_file": "PaperMoonBannerUS.png"
+  },
+  {
+    "slug": "23m-downloads-campaign-na",
+    "name": "23M Downloads Campaign",
+    "region": "NA",
+    "start_date": "2025-05-28",
+    "end_date": "2025-06-11",
+    "image_file": "23MDownloadsCampaignUS.png"
+  },
+  {
+    "slug": "pilgrimage-festival-part-3-na",
+    "name": "Pilgrimage Festival Part 3",
+    "region": "NA",
+    "start_date": "2025-06-05",
+    "end_date": "2025-06-14",
+    "image_file": "PilgrimageFestivalPart3US.png"
+  },
+  {
+    "slug": "mystic-eyes-symphony-na",
+    "name": "Mystic Eyes Symphony",
+    "region": "NA",
+    "start_date": "2025-06-10",
+    "end_date": "2025-06-30",
+    "image_file": "MysticEyesSymphonyUS.png"
+  },
+  {
+    "slug": "anime-expo-2025-campaign-na",
+    "name": "Anime Expo 2025 Campaign",
+    "region": "NA",
+    "start_date": "2025-07-02",
+    "end_date": "2025-07-06",
+    "image_file": "AX2025CampaignUS.png"
+  },
+  {
+    "slug": "fgo-festival-2025-8th-anniversary-na",
+    "name": "FGO Festival 2025 ~8th Anniversary~",
+    "region": "NA",
+    "start_date": "2025-06-26",
+    "end_date": "2025-07-17",
+    "image_file": "FGO8thAnniversaryUS.png"
+  },
+  {
+    "slug": "fgo-summer-2025-event-na",
+    "name": "FGO Summer 2025 Event",
+    "region": "NA",
+    "start_date": "2025-07-18",
+    "end_date": "2025-08-07",
+    "image_file": "FGOSummer2025EventUS.png"
+  },
+  {
+    "slug": "fgo-summer-2024-revival-summoning-campaign-na",
+    "name": "FGO Summer 2024 Revival Summoning Campaign",
+    "region": "NA",
+    "start_date": "2025-07-30",
+    "end_date": "2025-08-10",
+    "image_file": "Summer2024RevivalSummonUS.png"
+  },
+  {
+    "slug": "fatehollow-ataraxia-remastered-release-campaign-na",
+    "name": "Fate/Hollow Ataraxia Remastered Release Campaign",
+    "region": "NA",
+    "start_date": "2025-08-08",
+    "end_date": "2025-08-14",
+    "image_file": "FHACampaignUS.png"
+  },
+  {
+    "slug": "hunting-quests-part-xiii-na",
+    "name": "Hunting Quests Part XIII",
+    "region": "NA",
+    "start_date": "2025-08-08",
+    "end_date": "2025-08-22",
+    "image_file": "HuntingQuestsPart13US.png"
   }
 ]

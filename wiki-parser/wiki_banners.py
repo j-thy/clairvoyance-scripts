@@ -83,6 +83,7 @@ EXCLUDE_PAGES = (
 EXCLUDE_PAGES_WITH_PARENT = {
     'Archetype Inception Summoning Campaign' : 'Celeb Summer Experience!',
     'Grand Duel Extra Summoning Campaign' : 'Grand Duel Extra Pre-Release Campaign',
+    'Lostbelt 7 Pre-Release Campaign Part 1 (US)' : None,
 }
 
 # Wiki pages with errors that prevent parsing that should be fixed.
@@ -94,6 +95,7 @@ PAGE_FIXES = {
     'Holy Grail Front ~Moonsault Operation~/Event Info' : [r'{{!}}', r'|'],
     'Servant Summer Festival! 2018 Rerun/Main Info' : [r'=\n*<center>\n*{\|\n*\|(\[\[.*)\n*\|}\n*<\/center>', r'=\n\1\n'],
     'Back to School Campaign 2024 (US)' : [r'</tabber>', r'|}\n</tabber>'],
+    'Fate/Hollow Ataraxia Remastered Release Campaign (US)' : [r'Alter Ego}}\n', r'Alter Ego}}\n|}'],
 }
 
 # Keywords before a section of text that should be removed before any parsing is done.
@@ -141,6 +143,10 @@ RATEUP_FIXES = {
     'New Interludes + Class Pickup Summoning Campaign (US)' : 'Hōzōin Inshun',
 }
 
+DATE_FIXES = {
+    "Nahui Mictlān Part 2 Chapter Release (US) Summoning Campaign" : (None, date(2025, 1, 28))
+}
+
 # Pages with multiple rateups that should be merged into one regardless of whether there are common servants.
 FORCE_MERGE = (
     "Fate/Apocrypha Collaboration Event Revival (US)/Summoning Campaign",
@@ -154,6 +160,7 @@ FORCE_MERGE = (
     "Singularity Summon Campaign September 2018 (US)",
     "Singularity Summon Campaign (US)",
     "Singularity Pickup Summon (US)",
+    "Valentine 2025 Event (US)/Summoning Campaign",
 )
 
 # Specify specific rateups in summoning campaigns that should not be merged into any other rateups.
@@ -340,6 +347,7 @@ BANNER_NAME_FIX = {
     r"Tales of Chaldean Heavy Industries" : "Chaldea Boys Collection 2023",
     r"White Day 2022" : "Chaldea Boys Collection 2022 / White Day 2022",
     r"<SKIP1>Grand Duel Saber Summoning Campaign" : "Artoria Pendragon (Lily) Friend Point Summoning Campaign",
+    r"Campaigns" : "Campaign",
 }
 
 # NOTE: Used by parse_event_lists()
@@ -867,7 +875,22 @@ def parse(event_set, page, duration, parent=None, image_file=None):
             i += 1
     
     # Create banner objects for each rateup.
-    banners = [Banner(rateup_titles[i], dates[i][0], dates[i][1], date_origins[i], rateups[i]) for i in range(len(rateups))]
+    banners = []
+    for i in range(len(rateups)):
+        rateup_title = rateup_titles[i]
+        start_date = dates[i][0]
+        end_date = dates[i][1]
+        date_origin = date_origins[i]
+        # Manually fix dates for certain banners
+        if rateup_title in DATE_FIXES:
+            date_origin = "manual fix"
+            start_fix = DATE_FIXES[rateup_title][0]
+            end_fix = DATE_FIXES[rateup_title][1]
+            if start_fix is not None:
+                start_date = start_fix
+            if end_fix is not None:
+                end_date = end_fix
+        banners.append(Banner(rateup_title, start_date, end_date, date_origin, rateups[i]))
 
     # Check if the event is a subsequent Summoning Campaign that can be merged into a Chapter Release event
     chapter_release_title = f'{title.split("Summoning Campaign")[0].strip()} Chapter Release'
