@@ -1438,6 +1438,7 @@ def create_servant_json(event_set_jp, event_set_na):
             'name' : servant['name'],
             'rarity' : servant['rarity'],
             'class_type' : servant['class_type'],
+            'image_file' : servant.get('image_file', ''),
             'jp_rateups' : ','.join(servant_rateups_jp[int(servant['id'])]),
             'na_rateups' : ','.join(servant_rateups_na[int(servant['id'])]),
         })

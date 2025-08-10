@@ -4,6 +4,7 @@ import jsons
 import json
 import os
 import re
+import requests
 from tqdm import tqdm
 
 BAR_FORMAT_SERVANTS = "{l_bar}{bar:50}{r_bar}{bar:-50b}"
@@ -69,11 +70,67 @@ class Servant:
         self.gender = template.get("gender").value.strip()
         self.alignment = template.get("alignment").value.strip()
         self.traits = template.get("traits").value.strip()
+        self.image_file = ""
 
 SERVANT_LIST = []
+ATLAS_ACADEMY_DATA = None
+
+def fetch_atlas_academy_data():
+    """
+    Fetch and cache the servant data from Atlas Academy API.
+    """
+    global ATLAS_ACADEMY_DATA
+    if ATLAS_ACADEMY_DATA is None:
+        try:
+            print('Fetching servant data from Atlas Academy API...')
+            response = requests.get('https://api.atlasacademy.io/export/JP/nice_servant.json', timeout=30)
+            response.raise_for_status()
+            # Map by collectionNo instead of id
+            ATLAS_ACADEMY_DATA = {servant.get('collectionNo'): servant for servant in response.json() if servant.get('collectionNo') is not None}
+            print(f'Successfully loaded data for {len(ATLAS_ACADEMY_DATA)} servants')
+        except Exception as e:
+            print(f"Error fetching Atlas Academy data: {e}")
+            ATLAS_ACADEMY_DATA = {}
+    return ATLAS_ACADEMY_DATA
+
+def get_servant_thumbnail(servant_id, servants_data):
+    """
+    Get the servant thumbnail image filename from Atlas Academy data.
+    Returns the first ascension face image filename, or empty string if not found.
+    
+    Args:
+        servant_id: The servant's collection number
+        servants_data: Pre-fetched Atlas Academy servant data dictionary
+    """
+    # Match servant_id with collectionNo field
+    if servant_id in servants_data:
+        servant = servants_data[servant_id]
+        # Get the face images for ascensions
+        extra_assets = servant.get('extraAssets', {})
+        faces = extra_assets.get('faces', {})
+        ascension_faces = faces.get('ascension', {})
+        
+        # Return the first ascension face image filename
+        if '1' in ascension_faces:
+            url = ascension_faces['1']
+            # Extract just the filename from the URL
+            return url.split('/')[-1] if url else ''
+        
+        # If no ascension 1, try to get any available face
+        if ascension_faces:
+            # Get the first available ascension
+            first_key = sorted(ascension_faces.keys())[0]
+            url = ascension_faces[first_key]
+            # Extract just the filename from the URL
+            return url.split('/')[-1] if url else ''
+    
+    return ""
 
 def parse_servants():
     print('Parsing servants...')
+    # Fetch Atlas Academy data once at the beginning
+    servants_data = fetch_atlas_academy_data()
+    
     # Load the servants page
     site = pywikibot.Site()
     category = pywikibot.Category(site, CATEGORY)
@@ -105,7 +162,10 @@ def parse_servants():
                     break
                 # If the ID is valid, export the servant's data
                 if id_val.isdigit():
-                    SERVANT_LIST.append(Servant(title, template))
+                    servant = Servant(title, template)
+                    # Get thumbnail image from pre-fetched Atlas Academy data
+                    servant.image_file = get_servant_thumbnail(servant.id, servants_data)
+                    SERVANT_LIST.append(servant)
                 else:
                     pbar.clear()
                     print(f'No ID found for {title}')

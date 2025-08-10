@@ -38,4 +38,5 @@ if args.banners:
 if args.images:
     print("Downloading images...")
     image_init()
-    download_images()
+    download_event_images()
+    download_servant_images()
